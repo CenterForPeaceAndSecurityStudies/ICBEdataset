@@ -36,13 +36,6 @@ This is a github repository for the International Crisis Behavior Events (ICBe) 
 
  - Agreed Data, long form (LINK NEEDED)
  - Agreed Data, wide form (LINK NEEDED)
- - [Clean data, wide form](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/data/icb_wide_clean.Rds)
-    + each row is a coder-crisis-event-sentence (i.e. each time a coder looking at a certain sentence in a certain crisis identified an event) 
-    + values may contain multiple entries separating with a semicolon
- - [Clean data, long form](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/data/icb_long_clean.Rds)
-    + each row contains identifying information for a coder-crisis-event-sentence
-    + the information about that sentence is distributed across multiple rows in the columns _variable_ and _value_
-    + each value contains a single entry
  - [Raw codings](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/data/icb_coder_crisis_sentence_event_aligned.Rds)
     + the initial codings from different GUI versions adjusted so that sentence numbers are aligned.
 
@@ -78,7 +71,14 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
  
  
 ## Other data inputs:
-
+ - [Clean data, wide form](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/data/icb_wide_clean.Rds)
+    + each row is a coder-crisis-event-sentence (i.e. each time a coder looking at a certain sentence in a certain crisis identified an event) 
+    + values may contain multiple entries separating with a semicolon
+ - [Clean data, long form](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/data/icb_long_clean.Rds)
+    + each row contains identifying information for a coder-crisis-event-sentence
+    + the information about that sentence is distributed across multiple rows in the columns _variable_ and _value_
+    + each value contains a single entry
+    
 ### ICBe prep
 - Cleaning dictionaries: used to clean raw codings for actors, actions, locations, and dates [available online](https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit#gid=0) and  ./data/icb_manual_recording_master_sheet.xlsx
   + actor_translator to compare actors across different datasets, created by hand with assistance from [07_actor_dictionaries](https://centerforpeaceandsecuritystudies.github.io/ICBEdataset/07_actor_dictionaries.html).
