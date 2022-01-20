@@ -9,9 +9,10 @@ Rhistory
 .Rhistory
 *ICBEdataset_paper_rex_cache*
 ### Data ###
-replication_data/temp/
-replication_data/ignore/
-!.empty
+replication_data/temp/*
+replication_data/ignore/*
+!replication_data/ignore/.empty
+!replication_data/temp/.empty
 ### Paper ###
 ### R ###
 # History files
