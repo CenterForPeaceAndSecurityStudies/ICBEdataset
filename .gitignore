@@ -11,6 +11,7 @@ Rhistory
 ### Data ###
 replication_data/temp/
 replication_data/ignore/
+!.empty
 ### Paper ###
 ### R ###
 # History files
