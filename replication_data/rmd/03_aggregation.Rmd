@@ -1,0 +1,514 @@
+---
+title: "03_aggregation"
+output:
+  html_document:
+    df_print: paged
+  toc: yes
+editor_options:
+  chunk_output_type: inline
+---
+
+
+# Intro
+
+## Library Loads
+
+
+```{r}
+library(flextable)
+library(tidyverse)
+library(googlesheets4)
+
+`%>%` <- magrittr::`%>%`
+
+rex_paste <- function(x) { x %>% unique() %>% na.omit() %>% sort() %>% paste0(sep=";", collapse=";")}
+rex_count <- function(x) { x %>% unique() %>% na.omit() %>% sort() %>% paste0(sep=";", collapse=";")}
+
+```
+
+## Hand coded aggregations
+
+```{r}
+
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds")) 
+
+#icb_long_clean_original_393_43 <- icb_long_clean_original %>% filter(crisno==393 & sentence_number_int_aligned==43 ) %>% janitor::remove_empty() 
+#Choose the most common sentence for each
+sentences <- icb_long_clean %>% dplyr::count(crisno,sentence_number_int_aligned,sentence) %>% arrange(crisno, sentence_number_int_aligned, desc(n)) %>% 
+  group_by(crisno, sentence_number_int_aligned) %>% filter(row_number()==1) %>% dplyr::select(-n)
+
+
+```
+
+# Sentence Level Agreement
+
+Unanimous exact agreement- every expert coder chose the exact same options across all events for that question
+Majority exact agreement- at least 2/3 of expert coders chose exactly the same options across all event for that question
+This aggregates across conditions too
+
+
+```{r}
+
+keep_crisis=393
+keep_sentence=38
+
+options(warn = -1) #Groups that have no values generate max errors
+#This doesn't have this yet
+#event_number_int,  event_number_int_condition
+rex_paste <- function(x){ paste0(x  %>% trimws() %>% sort() %>% unique() %>% na.omit(), collapse=";")  }
+temp_long <- 
+  icb_long_clean %>% 
+    #filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence )  %>% #for debugging
+    dplyr::select(email_id,crisno,sentence_number_int_aligned, section, sentence, event_number_int, event_number_int_condition,variable_normalized, value_normalized) %>% 
+    dplyr::filter(value_normalized!='' & !is.na(value_normalized)) %>%
+    dplyr::group_by(crisno,sentence_number_int_aligned, event_number_int_condition, variable_normalized, value_normalized) %>%
+    dplyr::select(-event_number_int) %>%
+    dplyr::distinct() %>%
+    dplyr::mutate(
+      email_id = email_id %>% as.factor(), 
+      #crisno= crisno %>% as.factor(),
+      #sentence_number_int_aligned= sentence_number_int_aligned %>% as.factor(),
+      crisno_sentence_number_int_aligned= paste0(crisno, "_", sentence_number_int_aligned) %>% as.factor(), #make sure these are the only factors or it'll try to criss cross sentence number and crisno etc.
+      section= section %>% as.character(),
+      sentence= sentence %>% as.character(),
+      variable_normalized= variable_normalized %>% as.factor()
+    ) %>%
+    dplyr::select(email_id , crisno,sentence_number_int_aligned, event_number_int_condition, variable_normalized, value_normalized) %>%
+    distinct() %>%
+    dplyr::group_by(email_id , crisno,sentence_number_int_aligned, event_number_int_condition, 
+             variable_normalized,.drop=FALSE) %>% 
+      #This drop false means every coder gets a '' whether they filled in that variable or not #section, sentence going to have to ignore the sentence text for now
+      #You'll get a warning about adding it as a group
+      summarise(value_normalized=value_normalized %>% rex_paste() ) %>%
+    #that will add in dead ones now we want to split them back out
+    dplyr::mutate(value_normalized = value_normalized %>% stringr::str_replace_all(";;",";")) %>% 
+    dplyr::mutate(value_normalized = strsplit(as.character(value_normalized), ";", fixed=T)) %>% 
+    tidyr::unnest(value_normalized) %>%
+    dplyr::distinct() %>%
+    #add a confidence score for every token
+    dplyr::mutate(confidence=ifelse(variable_normalized=='raterconfidence', value_normalized, NA)) %>%
+  
+    dplyr::mutate(confidence=confidence %>% factor(levels=c('none','low','high','complete')) %>% as.numeric() ) %>%
+    dplyr::mutate(confidence_expert= email_id %>% stringr::str_detect('expert') %>% ifelse(confidence,NA) %>% max(na.rm=T) ) %>%
+    dplyr::mutate(confidence_undergrad= email_id %>% stringr::str_detect('undergrad') %>% ifelse(confidence,NA) %>% max(na.rm=T) ) %>%
+
+    dplyr::group_by(crisno,sentence_number_int_aligned) %>%
+      dplyr::mutate(
+        total_coders=email_id %>% unique() %>% length(),
+        total_coders_expert=email_id %>% unique() %>% stringr::str_detect('expert') %>% sum() ,
+        total_coders_undergrad=email_id %>% unique() %>% stringr::str_detect('undergrad') %>% sum()
+      ) %>%
+    dplyr::ungroup() %>%
+  
+    #Selected By
+    dplyr::group_by(crisno,sentence_number_int_aligned, event_number_int_condition, variable_normalized, value_normalized) %>%
+      dplyr::mutate(
+        selected_by_experts=email_id %>% unique() %>% stringr::str_detect('expert') %>% sum() ,
+        selected_by_undergrads=email_id %>% unique() %>% stringr::str_detect('undergrad') %>% sum()
+      ) %>%
+    dplyr::ungroup() %>%
+    dplyr::mutate(selected_by_any=selected_by_experts+selected_by_undergrads) %>%
+    dplyr::left_join(sentences) %>%
+    dplyr::mutate(
+        selected_by_any_perc=selected_by_any/total_coders,
+        selected_by_experts_perc=selected_by_experts/total_coders_expert ,
+        selected_by_undergrads_perc=selected_by_undergrads/total_coders_undergrad ,
+    ) %>%
+    dplyr::ungroup() 
+
+```
+
+
+```{r}
+
+#We have to compile confidence separately
+sentence_confidence_scores <- temp_long %>% 
+  dplyr::select(email_id,crisno,sentence_number_int_aligned, confidence,confidence_expert,confidence_undergrad) %>% distinct() %>% 
+  mutate(confidence= confidence %>% replace(., !is.finite(.), NA),
+         confidence_expert = confidence_expert %>% replace(., !is.finite(.), NA),
+         confidence_undergrad = confidence_undergrad %>% replace(., !is.finite(.), NA)
+         ) %>% 
+  dplyr::select(-email_id) %>%
+  group_by(crisno, sentence_number_int_aligned) %>%
+  summarise_all(mean, na.rm=T) %>%
+  mutate(confidence= confidence %>% replace(., !is.finite(.), NA),
+         confidence_expert = confidence_expert %>% replace(., !is.finite(.), NA),
+         confidence_undergrad = confidence_undergrad %>% replace(., !is.finite(.), NA)
+         ) 
+
+codings_long <- temp_long %>%
+                mutate(
+                       expert_majority=(selected_by_experts>(total_coders_expert/2) & selected_by_experts>=2) %>% as.integer() ,
+                       undergrad_majority= (selected_by_undergrads > (total_coders_undergrad/2) & total_coders_undergrad>=2 ) %>% as.integer()  ,
+                       expert_or_undergrad_majority= ( expert_majority | (undergrad_majority & selected_by_experts>=1) ) %>% as.integer() 
+                ) %>%
+                group_by(crisno,sentence_number_int_aligned, variable_normalized, value_normalized) %>%
+                  mutate(
+                        total_coders_expert=total_coders_expert %>% replace(., is.nan(.), NA) %>% mean(na.rm=T) %>% replace(., is.nan(.), NA),
+                        total_coders_undergrad=total_coders_undergrad %>% replace(., is.nan(.), NA) %>% mean(na.rm=T) %>% replace(., is.nan(.), NA)
+                  ) %>%
+                ungroup() %>%
+                dplyr::select(-email_id) %>%
+                dplyr::select(-confidence,-confidence_expert,-confidence_undergrad) %>%
+                distinct() %>% #bc expert majority is maxed now these rows should be fine
+                left_join(sentence_confidence_scores) %>%
+                arrange(crisno,sentence_number_int_aligned, event_number_int_condition, 
+                        variable_normalized, expert_majority %>% desc(), undergrad_majority %>% desc(), undergrad_majority %>% desc(), selected_by_any %>% desc() ) #event_number_int
+
+
+options(warn = 1)
+
+```
+
+# Agreed
+
+```{r}
+
+#this has to be temp because we actually do a lot of filtering at the wide stage and so need to go back to long
+#What we could do is say if there's
+codings_long_agreement <- codings_long %>%
+  
+                          mutate(keep_majority_expert= 
+                                    (selected_by_experts>=2 & #selected by at least two experts
+                                     expert_majority==1)   %>% as.numeric()
+                           ) %>%
+                           mutate(keep_majority_undergrad= (selected_by_experts>=1 & expert_majority==0 & undergrad_majority==1)  %>% as.numeric() ) %>%
+  
+                           mutate(keep_majority= (keep_majority_expert | keep_majority_undergrad) %>% as.integer() ) %>%
+  
+                           group_by(crisno, sentence_number_int_aligned, event_number_int_condition, variable_normalized) %>%
+                                mutate(keep_majority_max=keep_majority %>% max(na.rm=T)) %>%
+                                mutate(selected_by_any_max= (selected_by_any* (value_normalized!='')) %>% max(na.rmt=T) ) %>% #only consider non missing
+                           ungroup() %>%
+                           mutate(keep_leftstanding = (keep_majority_max==0 & #Wasn't picked by a majority
+                                                         selected_by_experts>=1 & #was picked by a least one expert
+                                                         (value_normalized!='' & selected_by_any_max %in% selected_by_any) #Has the most total votes
+                                                       ) %>% as.numeric() ) %>%
+                           mutate(keep = ( keep_majority==1 | keep_leftstanding==1 ) %>% as.numeric() ) 
+
+codings_long_agreement_393_43 <- codings_long_agreement %>% filter(crisno==393 & sentence_number_int_aligned==43 ) %>% janitor::remove_empty() 
+codings_long_agreement_393_59 <- codings_long_agreement %>% filter(crisno==393 & sentence_number_int_aligned==59 )
+codings_long_agreement_393_38 <- codings_long_agreement %>% filter(crisno==393 & sentence_number_int_aligned==38 )
+codings_long_agreement_284_16 <- codings_long_agreement %>% filter(crisno==284 & sentence_number_int_aligned==16 )
+
+codings_long_agreed <- codings_long_agreement %>%
+                           filter(value_normalized!='')  %>%
+                           filter(keep==1) %>% 
+                           group_by(crisno, sentence_number_int_aligned) %>%
+                              mutate(no_events= max( variable_normalized=="Event_Any" & value_normalized=="no") ) %>% #make sure you do the filter or this won't twork
+                           ungroup()
+
+dim(codings_long_agreed) #249,840     19  tokens that have agreement
+codings_long_agreed %>% dplyr::select(keep_majority_expert, keep_majority_undergrad, keep_majority, keep_leftstanding) %>% summarise_all(sum)
+
+
+
+
+(table(expert_majority=codings_long$expert_majority,
+      undergrad_majority=codings_long$undergrad_majority) / nrow(codings_long) ) %>% round(2)
+#               undergrad_majority
+#expert_majority    0    1
+#              0 0.40 0.04
+#              1 0.40 0.16
+
+
+#
+#
+#
+#Maybe we use this as a screen on the original codings and then collect what survived to make subevents?
+rex_paste <- function(x){ paste0(x %>% unlist() %>% trimws() %>% sort() %>% unique() %>% na.omit(), collapse=";")  }
+codings_wide_agreed <- icb_long_clean  %>% arrange(crisno,sentence_number_int_aligned) %>%
+                        #filter(crisno==59) %>%
+                        inner_join(codings_long_agreed) %>% #only keep ones that show up in both
+                        filter(email_id %>% str_detect('expert') ) %>%
+                        dplyr::select(email_id,crisno,sentence_number_int_aligned, event_number_int, event_number_int_condition, sentence,variable_normalized, value_normalized) %>%
+                        distinct() %>%
+                        pivot_wider(id_cols=c(email_id,crisno,sentence_number_int_aligned, sentence,event_number_int, event_number_int_condition), 
+                                    names_from=variable_normalized, values_from=value_normalized, values_fn=rex_paste) %>%
+                        distinct() %>%
+                        group_by(crisno,sentence_number_int_aligned, event_number_int_condition, sentence, say_actor_a, say_actor_b, do_actor_a, do_actor_b) %>%
+                          dplyr::summarise_all(rex_paste)
+                        #filter(crisno==59 & sentence_number_int_aligned==3) 
+codings_wide_agreed[codings_wide_agreed == ""]<-NA
+#do the filters here after guaranteeing NAs
+
+#Kill degenerate events
+#We have a problem in that we want to reject certain kinds of events but we need to switch them to no events not drop the sentence all together
+#This pruning basically works as intended but we need to go back and fill in null codings with a no event coding
+codings_wide_agreed_pruned <- codings_wide_agreed %>% 
+                              arrange(crisno,sentence_number_int_aligned) %>%
+                              #filter(crisno==2 ) %>% #& sentence %>% str_detect('assassinated')
+                              
+                              #A number of things stop making sense at this level
+                              dplyr::select(-behavior) %>%
+                              dplyr::select(-event_type) %>%
+                              dplyr::select(-event_any) %>%
+                              dplyr::select(-event_count) %>%
+                              dplyr::select(-raterconfidence) %>%
+                              dplyr::select(-event_number_int) %>%
+                              dplyr::select(-email_id) %>%
+  
+                              #mutate(reject_eventbutnobehavior=!event_any %in% "no" & is.na(behavior)) %>% #it's pre NA conversion below so ''
+                              #there's a degenerate kind of actor group where behavior wasn't agreed upon by everyone but there's still some info. This effectively requires each sentence to only have one kind of event, think, say, do but the details might differ slightly by different sets of actors involved.   
+                              #I don't know why but the actos are infact NAs, I guess because of the group
+                              mutate(reject_degendactorsdo  = !is.na(do_actor_b) & is.na(do_actor_a)     )  %>% 
+                              mutate(reject_degendactorssay = !is.na(say_actor_b) & is.na(say_actor_a)   )  %>% 
+                              mutate(reject_degendactorsall = is.na(do_actor_b) & is.na(do_actor_a) & is.na(say_actor_b) & is.na(say_actor_a) & is.na(think_actor_a)  ) %>%  #I guess we're just going to reject background codings all together
+
+                              mutate(reject_degenleafdo    = !is.na(do_actor_a) & is.na(leaf_do_original)          ) %>% #kill off pairings that have a do but no do actor a
+                              mutate(reject_degenleafsay   = !is.na(say_actor_a) & is.na(leaf_say_original)        ) %>%
+                              mutate(reject_degenleafthink = !is.na(think_actor_a) & is.na(leaf_think_original)    ) %>%
+                                
+                              mutate(reject_degenleafdo2   = is.na(do_actor_a) & !is.na(leaf_do_original)  ) %>% #kill of pairings that have a leaf but no actor
+                              mutate(reject_degenleafsay2  = is.na(say_actor_a) & !is.na(leaf_say_original) ) %>%
+                              mutate(reject_degenleafthink2= is.na(think_actor_a) & !is.na(leaf_think_original) ) %>%
+                                
+                              #arrange(crisno,sentence_number_int_aligned) %>%
+                              #mutate(crisno_sent= paste0(crisno,"_",sentence_number_int_aligned)) %>%
+                              #group_by(crisno_sent) %>%
+                              #  mutate(event_any_max= max( !event_any %in% 'no' ) ) %>%
+                              #  mutate(reject_nullevent = event_any_max>0 & event_any %in% c("no")  ) %>% #If any group has events then drop any groups without events
+                              #ungroup() %>%
+                              rowwise() %>%
+                                mutate(reject= 
+                                               #reject_eventbutnobehavior +
+                                               reject_degendactorsdo +
+                                               reject_degendactorssay +
+                                               reject_degendactorsall +
+                                               reject_degenleafdo +
+                                               reject_degenleafsay +
+                                               reject_degenleafthink +
+                                               reject_degenleafdo2 +
+                                               reject_degenleafsay2 +
+                                               reject_degenleafthink2 #+
+                                               #reject_nullevent
+                                         ) %>% 
+                              ungroup()
+
+#codings_wide_agreed_pruned  %>% t() %>% View() #%>% filter(sentence_number_int_aligned==12 )
+#rejects <- codings_wide_agreed_pruned %>% filter(reject>0 ) 
+#dim(rejects)   #19346    60
+#rejects %>% t() %>% View()
+#codings_wide_agreed_pruned %>% filter(crisno==2 & sentence_number_int_aligned==11) 
+#codings_wide_agreed %>% filter(crisno==2 & sentence_number_int_aligned==11) 
+
+#codings_wide_agreed_384_43 <- codings_wide_agreed_pruned %>% filter(crisno==384 & sentence_number_int_aligned==43)  
+#codings_wide_agreed_284_24 <- codings_wide_agreed_pruned %>% filter(crisno==284 & sentence_number_int_aligned==24)  
+#codings_wide_agreed_447_14 <- codings_wide_agreed_pruned %>% filter(crisno==447 & sentence_number_int_aligned==14)  
+
+#codings_wide_agreed_2_11 <- codings_wide_agreed_pruned %>% filter(crisno==2 & sentence_number_int_aligned==11) 
+
+#codings_wide_agreed %>% filter(crisno==265 & sentence_number_int_aligned==28)  
+
+codings_wide_agreed_pruned_final <- codings_wide_agreed_pruned %>% 
+                                    filter(reject==0) %>% dplyr::select(-starts_with("reject")) %>%
+                                    right_join(codings_wide_agreed_pruned %>% dplyr::select(crisno,sentence_number_int_aligned,event_number_int_condition,sentence) %>% distinct() ) %>% 
+  
+                                    #Generate final event ordering
+                                    rowwise() %>%
+                                    mutate(final_event_ordering=ifelse(!is.na(do_timing_reorder),
+                                                                       #If more than one get past filter we take the smaller
+                                                                       (do_timing_reorder %>% str_split(pattern=';', simplify = T) %>% unlist() %>% as.numeric() %>% min(na.rm=T)) +0.5,
+                                                                       
+                                                                       as.numeric(sentence_number_int_aligned) ) ) %>%
+                                    ungroup() %>%
+                                    arrange(crisno, final_event_ordering, sentence_number_int_aligned) %>% relocate(final_event_ordering, .after = sentence_number_int_aligned) %>%
+                                    group_by(crisno) %>%
+                                    mutate(final_event_ordering=row_number()) %>%
+                                    ungroup()
+        
+  
+```
+
+# Codings wide agree labeled
+
+```{r}
+
+library(glue)
+
+glue_rex <- function(x) glue(x, .open = "{|",.close = "|}", .envir = parent.frame()) #escape variables in the more complicated {||} syntax
+target_file <- paste0(here::here(),"/replication_data/in/icb_manual_recoding_master_sheet.xlsx")
+dictionary_actors_labels    <- readxl::read_excel(target_file, sheet="actors") %>% dplyr::select(crisno, value_normalized=value_normalized_wikidata_id, value_normalized_label) %>% dplyr::distinct() %>% na.omit()
+convert_qcode_to_english <- function(crisis, qcodes){
+    crisis_actors <- dictionary_actors_labels %>% filter(crisno==crisis)
+    crisis_actors_set <- crisis_actors$value_normalized_label
+    names(crisis_actors_set) <- crisis_actors$value_normalized
+    actors_english <- crisis_actors_set[qcodes %>% str_split(";") %>% unlist()]  %>% na.omit() %>% paste0(collapse=";")
+    if(length(actors_english)==0){actors_english=NA}
+    return(actors_english)
+}
+codings_wide_agreed_pruned_labeled <- NULL
+codings_wide_agreed_pruned_labeled <-  codings_wide_agreed_pruned_final %>% 
+  mutate(crisno_sent=paste0(crisno,'.',sentence_number_int_aligned)) %>%
+  rowwise() %>%
+  mutate(say_actor_a_labels=  convert_qcode_to_english(crisno, say_actor_a)) %>%
+  mutate(say_actor_b_labels=  convert_qcode_to_english(crisno, say_actor_b)) %>%
+  mutate(do_actor_a_labels=  convert_qcode_to_english(crisno, do_actor_a)) %>%
+  mutate(do_actor_b_labels=  convert_qcode_to_english(crisno, do_actor_b)) %>%
+  mutate(think_actor_a_labels=  convert_qcode_to_english(crisno, think_actor_a)) %>%
+  mutate(think_sentence=ifelse(
+      !is.na(leaf_think_original) & !is.na(think_sentence_events) , 
+      glue_rex("[{|think_actor_a_labels|}]{.underline text.color='black'} experienced a 
+                          [{|leaf_think_original|}]{.underline text.color='black'} about 
+                          [{|think_sentence_events|}]{.underline text.color='black'}."),
+            glue_rex("[{|think_actor_a_labels|}]{.underline text.color='black'} experienced a 
+                          [{|leaf_think_original|}]{.underline text.color='black'}.")
+  )) %>%
+  mutate(say_sentence=ifelse(
+      !is.na(leaf_say_original) , 
+      glue_rex("[{|say_actor_a_labels|}]{.underline text.color='black'} initiated
+                        [{|leaf_say_original|}]{.underline text.color='black'} toward  
+                        [{|say_actor_b_labels|}]{.underline text.color='black'}.") ,
+      ''
+  )) %>%
+
+  mutate(consequence_sentence=ifelse(
+    consequence %in% "will happen" , 
+    glue_rex("That the following will [happen]{.underline text.color='black'}.") ,
+    glue_rex("That if the following [won't happen]{.underline text.color='black'}.")
+  )) %>%
+
+  mutate(condition_sentence=ifelse(
+    condition %in% "happens" , 
+    glue_rex("If the following [happens]{.underline text.color='black'}.") ,
+    glue_rex("If the following [does not happen]{.underline text.color='black'}.")
+  ))  %>%
+  
+  mutate(do_sentence=ifelse(
+    !is.na(leaf_do_original) & !is.na(do_actor_b), 
+    glue_rex("[{|do_actor_a_labels|}]{.underline text.color='black'} 
+              initiated 
+              [{|leaf_do_original|}]{.underline text.color='black'}
+              toward 
+              [{|do_actor_b_labels|}]{.underline text.color='black'}." ) ,
+    glue_rex("[{|do_actor_a_labels|}]{.underline text.color='black'} 
+              initiated 
+              [{|leaf_do_original|}]{.underline text.color='black'}")
+   )) %>%
+
+   mutate(codings_sentence=NA) %>%
+
+   #
+   mutate(codings_sentence=ifelse( is.na(leaf_say_original) & is.na(leaf_do_original) & is.na(leaf_think_original) & is.na(consequence) & is.na(condition) & event_number_int_condition %in% 0,
+                                   glue_rex("No events.")
+                                   ,codings_sentence)) %>%
+
+   mutate(codings_sentence=ifelse( is.na(leaf_say_original) & is.na(leaf_do_original) & !is.na(leaf_think_original) & is.na(consequence) & is.na(condition) & event_number_int_condition %in% 0,
+                                   glue_rex("{|think_sentence|}")
+                                   ,codings_sentence)) %>%
+     
+    mutate(codings_sentence=ifelse( !is.na(leaf_say_original) & is.na(leaf_do_original) & is.na(leaf_think_original) & is.na(consequence) & is.na(condition) & event_number_int_condition %in% 0,
+                                   glue_rex("{|say_sentence|}")
+                                   ,codings_sentence)) %>%    
+     
+    mutate(codings_sentence=ifelse( is.na(leaf_say_original) & !is.na(leaf_do_original) & is.na(leaf_think_original) & is.na(consequence) & is.na(condition) & event_number_int_condition %in% 0,
+                                   glue_rex("{|do_sentence|}")
+                                   ,codings_sentence)) %>%     
+
+    #Condition sentence
+    mutate(codings_sentence=ifelse( is.na(leaf_say_original) & !is.na(leaf_do_original) & is.na(leaf_think_original) & is.na(consequence) & !is.na(condition) & event_number_int_condition %in% 0,
+                                   glue_rex("[Condition] {|do_sentence|}")
+                                   ,codings_sentence)) %>%     
+  
+    mutate(codings_sentence=ifelse( is.na(leaf_say_original) & !is.na(leaf_do_original) & !is.na(leaf_think_original) & is.na(consequence) & is.na(condition) & event_number_int_condition %in% 0,
+                                   glue_rex("{|think_sentence|} {|do_sentence|}")
+                                   ,codings_sentence)) %>%     
+  
+    mutate(codings_sentence=ifelse( !is.na(leaf_say_original) & is.na(leaf_do_original) & !is.na(leaf_think_original) & is.na(consequence) & is.na(condition) & event_number_int_condition %in% 0,
+                                   glue_rex("{|think_sentence|} {|say_sentence|}")
+                                   ,codings_sentence)) %>%        
+     
+    mutate(codings_sentence=ifelse( !is.na(leaf_say_original) & !is.na(leaf_do_original) & !is.na(leaf_think_original) & is.na(consequence) & is.na(condition)  & event_number_int_condition %in% 0,
+                                   glue_rex("{|think_sentence|} {|say_sentence|} {|do_sentence|}")
+                                   ,codings_sentence)) %>%        
+
+    mutate(codings_sentence=ifelse( !is.na(leaf_say_original) & !is.na(leaf_do_original) & is.na(leaf_think_original) & is.na(consequence) & is.na(condition) & event_number_int_condition %in% 0,
+                                   glue_rex("{|say_sentence|} {|do_sentence|}")
+                                   ,codings_sentence)) %>%      
+    
+   mutate(codings_sentence=ifelse( !is.na(leaf_say_original) & !is.na(leaf_do_original) & is.na(leaf_think_original) & !is.na(consequence) & is.na(condition) & event_number_int_condition %in% 0,
+                                   glue_rex("{|say_sentence|} {|consequence_sentence|} {|do_sentence|}")
+                                   ,codings_sentence))  %>%
+
+    mutate(codings_sentence=ifelse( !is.na(leaf_say_original) & !is.na(leaf_do_original) & is.na(leaf_think_original) & !is.na(consequence) & !is.na(condition) & event_number_int_condition %in% 0,
+                                   glue_rex("{|say_sentence|} {|consequence_sentence|} {|do_sentence|} {|condition_sentence|}")
+                                   ,codings_sentence))    
+     
+
+
+
+#codings_wide_agreed_labeled %>% dplyr::select(codings_sentence, contains('actor'), contains('_original'), consequence, condition, event_number_int_condition) #%>% View()
+
+#codings_wide_agreed_labeled %>% dplyr::select(contains('actor'), contains('_original'), consequence, condition, event_number_int_condition, contains('_sentence')) #%>% View()
+
+(codings_wide_agreed_pruned_labeled_2_11 <- codings_wide_agreed_pruned_labeled %>% filter(crisno==2, sentence_number_int_aligned==11) %>% 
+                                    dplyr::select(crisno, sentence_number_int_aligned, contains('actor'), contains('_original'), consequence, condition, event_number_int_condition, contains('_sentence')) ) #%>% View()
+
+(codings_wide_agreed_pruned_labeled_28_5 <- codings_wide_agreed_pruned_labeled %>% filter(crisno==28, sentence_number_int_aligned==5) %>% 
+                                    dplyr::select(crisno, sentence_number_int_aligned, contains('actor'), contains('_original'), consequence, condition, event_number_int_condition, contains('_sentence')) ) #%>% View()
+
+  
+(codings_wide_agreed_pruned_labeled_34_17 <- codings_wide_agreed_pruned_labeled %>% filter(crisno==34, sentence_number_int_aligned==17) %>% 
+                                    dplyr::select(crisno, sentence_number_int_aligned, contains('actor'), contains('_original'), consequence, condition, event_number_int_condition, contains('_sentence')) ) #%>% View()
+
+
+```
+
+Iterate and visualize sentences until convinced the translation is right
+
+```{r, eval=F}
+
+codings_wide_agreed_labeled_sample_ft <- 
+      codings_wide_agreed_pruned_labeled %>%
+                group_by(crisno, sentence_number_int_aligned, crisno_sent, sentence) %>%
+                summarize(codings_sentence = paste(codings_sentence, collapse="\n")) %>%
+                dplyr::select(crisno_sent, sentence, codings_sentence)  %>%
+                dplyr::filter(codings_sentence!="No events.") %>%
+                group_by(crisno) %>%
+                sample_n(size=1) %>%
+                ungroup() %>%
+                dplyr::select(crisno_sent, sentence, codings_sentence) %>%
+                as_flextable() %>%
+                colformat_md() %>% 
+                flextable::fontsize(size = 7, part = "all") %>%
+                flextable::bg( i = which( 1:nrow(codings_wide_agreed_pruned_labeled) %% 2 == 1)  , j=1:ncol(events_df), part = "body", bg = "#EFEFEF") %>%
+                flextable::width(j = 1, width=0.3, unit = "in") %>%
+                flextable::width(j = 2, width=3, unit = "in") %>%
+                flextable::width(j = 3, width=3, unit = "in")
+
+codings_wide_agreed_labeled_sample_ft  %>% saveRDS(paste0(here::here(), '/replication_paper/tables/codings_wide_agreed_labeled_sample_ft.Rds'))
+codings_wide_agreed_labeled_sample_ft
+
+```
+
+# Validation Tests
+
+```{r, eval=F}
+
+keep_crisis=393
+keep_sentence=38
+
+(a <- icb_long_clean_original %>% filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence ) %>% janitor::remove_empty()  ) #%>% View()
+(b <- temp_long %>% filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence ) %>% janitor::remove_empty()  ) #%>% View()
+(c <- temp_wide %>% filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence ) %>% janitor::remove_empty() )#%>% t()  ) #%>% View()
+(d <- icb_long_clean %>% filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence ) %>% janitor::remove_empty()  ) #%>% View()
+(e <- codings_long %>% filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence ) %>% janitor::remove_empty()  ) #%>% View()
+(f <- codings_long_agreement %>% filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence ) %>% janitor::remove_empty()   ) #%>% View()
+(g <- codings_long_agreed %>% filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence ) %>% janitor::remove_empty()   ) #%>% View()
+(e <- codings_wide_agreed  %>% filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence )  %>% janitor::remove_empty()  ) %>% t() #%>% View()
+
+```
+
+
+
+```{r, eval=T}
+
+saveRDS(codings_long, paste0(here::here(), "/replication_data/temp/codings_long.Rds")) 
+saveRDS(codings_long_agreement, paste0(here::here(), "/replication_data/temp/codings_long_agreement.Rds")) 
+
+
+saveRDS(codings_long_agreed, paste0(here::here(), "/replication_data/out/codings_long_agreed.Rds")) 
+saveRDS(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_data/out/codings_wide_agreed.Rds")) 
+
+```
+

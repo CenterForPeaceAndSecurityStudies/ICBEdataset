@@ -1,0 +1,556 @@
+---
+title: "01_compile_saves"
+output:
+  html_document:
+    df_print: paged
+  toc: yes
+editor_options:
+  chunk_output_type: inline
+---
+  <style>
+  body {
+    position: absolute;
+    left: 0px;
+    max-width: 2000px;
+  }
+body .main-container {
+  max-width: 2000px;
+}
+</style>
+
+This notebook walks through the creation of the crisisno-sentenceno-sentence key
+
+
+Library Loads
+
+```{r}
+`%>%` <- magrittr::`%>%`
+fromscratch=T #global flag for whether to regenerate files form scratch or load presaved ones
+
+```
+
+Load and anonymize original individual save files from the gui
+
+```{r, include=FALSE}
+
+devtools::load_all(".")
+
+# events <- load_raw_events(fromscratch = F)
+
+```
+
+```{r warning=FALSE}
+
+#Only a project lead can run this code. Copy (NEVER MOVE) the original save files to the data_temp folder. And then verify that that data_temp is on the gitignore list so it never gets committed.
+path <- paste0(here::here(), "/replication_data/ignore/icb_worker_saves") #this folder is copied over from the dropbox folder and never committed to github
+files_worker_saves <- list.files(path = path, pattern = ".Rdata", all.files = FALSE, full.names = T, recursive = T, ignore.case = FALSE, include.dirs = FALSE)
+
+if(length(files_worker_saves)==0){print("Original save files not found locally, will load premade anonymized file instead")
+  }else{print("Original save files found, can regenerate anonymized if desired.")}
+
+
+```
+
+```{r warning=FALSE}
+
+#Only execute if both (1) the original save files are available locally (2) fromscratch is requested
+if(fromscratch & length(files_worker_saves)>0){
+
+    #### CODE TO LOAD EVENT LEVEL DATA
+
+    print(length(files_worker_saves)) #how many saved files we show
+
+    # creates a list of event 'vectors' and names them based on the paths
+    icb_worker_saves <- lapply(files_worker_saves, readRDS) #Read the files into memory in parallel
+    names(icb_worker_saves) <- files_worker_saves
+
+    # save the path name of with each row
+    for(i in 1:length(icb_worker_saves)){
+      #print(i)
+      icb_worker_saves[[i]]$savefile <- files_worker_saves[i]
+    }
+
+    # reshape the work rows into a list of dataframes
+    icb_worker_saves_dfs_list <- list()
+    for(q in names(icb_worker_saves) ){
+      #print(q)
+      temp=unlist(icb_worker_saves[[q]]); #This is a named vector where names are keys, and values are values. One for every single response for a saved email-crisis.name
+      df <- data.frame(varname = names(temp), value = temp, stringsAsFactors = F) #convert to dataframe
+      tokens <- strsplit(df$varname,"_")
+      icb_worker_saves_dfs_list[[q]]  <- df %>% 
+        dplyr::mutate(sentence_number = sapply(tokens, FUN=function(x) x[1])) %>%
+        dplyr::mutate(event_number = sapply(tokens, FUN=function(x) x[2])) %>%
+        dplyr::mutate(email = df$value[df$varname=="email"]) %>%
+        dplyr::mutate(input_crisis = df$value[df$varname=="input_crisis"]) %>%
+        dplyr::mutate(savefile = q) %>% 
+        dplyr::mutate(sentence_number_int =  as.numeric(gsub("s","",sentence_number))) %>% #These throw warnings
+        dplyr::mutate(event_number_int =  as.numeric(gsub("e","",event_number))) %>%
+        dplyr::select(-sentence_number, -event_number ) %>%
+        dplyr::filter(!varname %in% c("email", "input_crisis", "savebutton", "savebutton2", "startbutton", "practice1", "practice2", "practice3", "practice4", "sentencenumber","crisis", "savefile")) %>%
+        dplyr::select(-starts_with("sentencenumber") ) # filter out variables with varnames that contain "sentencenumber"
+
+    }
+
+    #table(icb_long$email) %>% sort()
+    expert1 <- c("4fb99e72","f1a62076","3ee0cdf1")                                                                  
+    expert2 <- c('890f3f5e','a6323005')    
+    expert3 <- c("6e1ad8fc","c252a171","e7f1167f")
+    expert4 <- c("d9d78123","d7b84c6b","e0741cd9")                                                                  
+    expert5 <- c('052c88eb')    
+    expert6 <- c('7559b489','6158e8c6')                                                                                  
+    
+    #icb_long %>% dplyr::count(email,input_crisis) %>% count(email)
+    
+    emails <- dplyr::bind_rows(icb_worker_saves_dfs_list) %>% dplyr::count(email) #132
+    emails_to_keep <- emails %>% dplyr::filter(n>3000) %>% dplyr::pull(email) #we're going to reject any with less than 3,000 filled out values
+    #That's 115
+    
+    icb_long <- dplyr::bind_rows(icb_worker_saves_dfs_list) %>%
+                dplyr::filter(value!="") %>%
+                dplyr::filter(email %in% emails_to_keep) %>%
+                dplyr::filter(!is.na(event_number_int) & !is.na(sentence_number_int)) %>% 
+      
+                dplyr::mutate(varname=stringr::str_replace(varname, "s[0-9]*_e[0-9]*_","")) %>%
+                dplyr::mutate(varname=stringr::str_replace(varname, "actor1","actor_a")) %>%
+                dplyr::mutate(varname=stringr::str_replace(varname, "actor2","actor_b")) %>%
+                dplyr::mutate(varname=stringr::str_replace(varname, "s[0-9]*_","")) %>%
+                dplyr::mutate(varname=stringr::str_replace(varname, "[0-9]*$","")) %>%
+      
+                #This trick lets us replace email addresses without having to write them in the code
+                dplyr::group_by(email) %>%
+                  dplyr::mutate(email_crc32= digest::digest(email[1],'crc32') ) %>% #anonymize
+                dplyr::ungroup() %>%
+                  
+                dplyr::group_by(savefile) %>%
+                dplyr::mutate(savefile_crc32= digest::digest(savefile[1],'crc32') ) %>% #anonymize
+                dplyr::ungroup() %>%
+                  
+                dplyr::mutate(email_id=email_crc32) %>% 
+                dplyr::mutate(email_id= ifelse(email_id %in% expert1, "expert1", email_id)) %>%
+                dplyr::mutate(email_id= ifelse(email_id %in% expert2, "expert2", email_id)) %>%
+                dplyr::mutate(email_id= ifelse(email_id %in% expert3, "expert3", email_id)) %>%
+                dplyr::mutate(email_id= ifelse(email_id %in% expert4, "expert4", email_id)) %>%
+                dplyr::mutate(email_id= ifelse(email_id %in% expert5, "expert5", email_id)) %>%
+                dplyr::mutate(email_id= ifelse(email_id %in% expert6, "expert6", email_id)) %>%
+      
+                dplyr::select(-email,-savefile) %>% #anonymize
+                dplyr::filter(email_id!="delete") %>%
+                dplyr::mutate(email_id= ifelse(email_id %>% stringr::str_detect("expert"), email_id, paste0("undergrad",email_id))) %>%
+
+                dplyr::arrange(savefile_crc32, sentence_number_int, event_number_int, varname ) #%>%
+                #filter(email_id %in% c('expert1','expert2','expert3','expert4','expert5','expert6')) #Restricting to just the experts
+
+    dim(icb_long) #993,600     10
+
+    
+    # check for the presence of every crisis
+    setdiff(1:476, icb_long %>% dplyr::filter(varname=="crisno") %>% dplyr::pull(value) %>% unique() %>% as.numeric() %>% sort())
+    #The only crisis for which we have no codings ever is 474 which is also missing from the official list here and so may never have had text for us to look at
+    #https://duke.app.box.com/s/ddtpva1v33dzyom0j7obk7whitmouzr1
+    
+    
+
+    # create "wide" dataset
+    icb_wide <- icb_long %>% 
+                dplyr::group_by(savefile_crc32, email_crc32, email_id, input_crisis, sentence_number_int, event_number_int, varname) %>%
+                dplyr::summarize(value=paste(value, collapse=";")) %>%
+                tidyr::pivot_wider( id_cols=c('savefile_crc32', 'email_crc32', 'email_id', 'input_crisis', 'sentence_number_int', 'event_number_int'),
+                             names_from='varname',
+                             values_from='value') %>%
+                dplyr::arrange(savefile_crc32, email_id, email_crc32,input_crisis,sentence_number_int,event_number_int) %>% 
+                dplyr::group_by(savefile_crc32 , input_crisis ) %>% tidyr::fill(icb_survey_version, crisis, crisno,sentence,section,lastviewed,sentence_events, .direction = c("down"))
+
+    #None of these error sentences
+    errors <-  icb_wide %>% dplyr::group_by(savefile_crc32 , input_crisis ) %>% dplyr::filter(crisno!=crisno[1]) #There was a bug in the saving script that would save extra sentences from a different crisis if the last one edited was longer than the current one
+
+    icb_wide <- icb_wide %>% dplyr::group_by(savefile_crc32 , input_crisis ) %>% dplyr::filter(crisno==crisno[1]) #This removes any observations within a save file that are from a crisis number different than the first crisis number mentioned in the file
+    
+    # create copy of initial variables in case others get edited
+    icb_wide$raw_crisis <- icb_wide$crisis
+    icb_wide$raw_crisno <- icb_wide$crisno
+    icb_wide$raw_sentence <- icb_wide$sentence
+    icb_wide$raw_sentence_number_int <- icb_wide$sentence_number_int
+
+    newname_order <- c(
+      "icb_survey_version",
+      "email_id",
+      "email_crc32",
+      "lastviewed",
+      "input_crisis",
+      "crisis",
+      "crisno",
+
+      "section",
+      "sentence",
+      "sentence_events",
+      #"sentence_number",
+      # "sentencenumber",
+      "sentence_number_int",
+      #"event_number",
+      "event_number_int",
+      "event_type",
+      "raterconfidence",
+      "raterconfidence_reason",
+      "raterconfidence_reason_survey",
+
+      "date",
+      "think_sentence_events",
+
+      "think_actor_a",
+      "think_actor_a_other",
+      "thinkkind",
+
+      "say_actor_a",
+      "say_actor_a_other",
+      "say_actor_b",
+      "say_actor_b_other"   ,
+
+      "sayintkind",
+      "sayintkind_react",
+      "consequence",
+
+      "condition",
+
+      "do_actor_a",
+      "do_actor_a_other",
+      "do_actor_b"          ,
+      "do_actor_b_other",
+
+      "condition_do_actor_a",
+      "condition_do_actor_a_other",
+      "condition_do_actor_b",
+      "condition_do_actor_b_other" ,
+
+      "condition_act_cooperative",
+      "condition_act_descalate",
+      "condition_act_escalate",
+      "condition_act_uncooperative",
+
+      "condition_do_interact_kind",
+      "condition_do_kind",
+      "condition_interact_decreasecoop",
+      "condition_interact_descalate",
+      "condition_interact_domains",
+      "condition_interact_escalate",
+      "condition_interact_fatalities",
+      "condition_interact_forces",
+      "condition_interact_geoscope",
+      "condition_interact_increasecoop",
+      "condition_interact_location",
+      "condition_interact_location_other",
+      "condition_interact_territory",
+      "condition_interact_units",
+
+      "do_duration",
+      "do_interact_kind",
+      "do_kind",
+      "do_timing",
+      "do_timing_reorder",
+
+      "act_cooperative",
+      "act_descalate",
+      "act_escalate",
+      "act_uncooperative",
+
+      "interact_decreasecoop",
+      "interact_descalate",
+      "interact_domains",
+      "interact_escalate",
+      "interact_fatalities",
+      "interact_forces",
+      "interact_geoscope",
+      "interact_increasecoop",
+      "interact_location",
+      "interact_location_other",
+      "interact_territory",
+      "interact_units",
+
+      "raw_crisis",
+      "raw_crisno",
+      "raw_sentence",
+      "raw_sentence_number_int",
+      "savefile_crc32"
+    )
+
+    setdiff(newname_order, names(icb_wide) )
+    setdiff(names(icb_wide), newname_order )
+
+    #problem sometimes I use a and sometimes I use 1 or 2
+    icb_wide <- icb_wide[newname_order]
+    icb_coder_crisis_sentence_event <- icb_wide
+    remove(icb_wide)
+    saveRDS(icb_coder_crisis_sentence_event,
+            file=paste0(here::here(),"/replication_data/temp/icb_coder_crisis_sentence_event.Rds"))
+  }  else  {
+    icb_coder_crisis_sentence_event <-
+      readRDS(file=paste0(here::here(),"/replication_data/temp/icb_coder_crisis_sentence_event.Rds"))
+}
+
+```
+
+
+Check if any crises are missing, throw an error if it's not just 474
+```{r}
+setdiff( c(1:476), icb_coder_crisis_sentence_event$crisno)
+
+ if(length(setdiff( c(1:476), icb_coder_crisis_sentence_event$crisno)) > 1) stop('Multiple Crisis Missing! Check icb_worker_saves')
+
+```
+
+
+
+
+
+
+
+
+
+
+## Sentence Alignment
+
+This section realigns source sentences from multiple versions of the coding GUI
+
+This Rmd sometimes gets warning the warning `Unknown or uninitialised column: 'crisisno_crisis_version'.` It cannot be reliably reproduced; so far have not found unwanted repercussions. 
+
+Trim extra white space from all sentences
+```{r}
+# use 'icb_wide' as shorthand for icb_coder_crisis_sentence_event
+icb_wide <- icb_coder_crisis_sentence_event %>% 
+  dplyr::mutate(sentence = trimws(sentence))
+
+```
+
+
+
+### Which crisis have crisis-sentence_numbers that have different sentences?
+
+```{r}
+
+# give each sentence a crisisno-sentence code
+icb_wide$raw_crisno_sentno <- paste0("c", icb_wide$raw_crisno, "-s", icb_wide$raw_sentence_number_int)
+
+# check that each crisno_sentno has only one sentence associated with it.
+unique_sent <- unique(icb_wide[,c("sentence", "raw_crisno_sentno")])
+dup_sent <- names(table(unique_sent$raw_crisno_sentno)[table(unique_sent$raw_crisno_sentno)>1]) 
+  #list of the sentences that multiple sentences assigned to them.
+
+dup_cris <- as.numeric(names(table(icb_wide$raw_crisno[icb_wide$raw_crisno_sentno %in% dup_sent]))) 
+  # list of the afflicted sentences
+
+sort(dup_cris)
+
+```
+
+What crisis names match those crisis numbers?
+
+```{r}
+sort(unique(icb_wide$crisis[icb_wide$crisno %in% dup_cris]))
+```
+
+Does that get all the crises with names that end in a number?
+
+```{r}
+grep('2', unique(icb_wide$crisis[!(icb_wide$crisno %in% dup_cris)]), value=TRUE)
+grep('3', unique(icb_wide$crisis[!(icb_wide$crisno %in% dup_cris)]), value=TRUE)
+grep('4', unique(icb_wide$crisis[!(icb_wide$crisno %in% dup_cris)]), value=TRUE)
+  
+```
+It doesn't miss any that ends in 2 or 3 or 4. There are some that end in 1, but if there isn't a 2 that follows them then it's a different issue.
+
+
+```{r}
+grep('1', unique(icb_wide$crisis[!(icb_wide$crisno %in% dup_cris)]), value=TRUE)
+
+# check to make sure those crises ending in '1' don't have another version without the 1
+setdiff(grep('1', unique(icb_wide$crisis[!(icb_wide$crisno %in% dup_cris)]), value=TRUE), 
+        unique(icb_wide$crisis[(icb_wide$crisno %in% unique(icb_wide$crisno[(icb_wide$crisis %in% grep('1', unique(icb_wide$crisis[!(icb_wide$crisno %in% dup_cris)]), value=TRUE))]))]))
+```
+
+# Set all crises to have the same crisis name
+```{r}
+#### standardize
+crisiskey <- read.csv(paste0(here::here(), "/replication_data/in/icb1v12crisisnames.csv")) # standardize crisis
+
+```
+
+```{r}
+icb_wide <- icb_wide %>% 
+  dplyr::select(!crisis) %>% 
+  dplyr::left_join(crisiskey %>% 
+                     dplyr::rename(crisis = icb_crisname, raw_crisis = raw_crisname) %>% 
+                     dplyr::select(crisis, raw_crisis))
+```
+
+```{r}
+sort(unique(icb_wide$crisis[icb_wide$crisno %in% dup_cris]))
+
+```
+
+which crises have mismatching sentences in the same version?
+
+check crisisname-version-sentence
+
+```{r}
+
+icb_wide$raw_crisno_version_sentno <- paste0(icb_wide$raw_crisno, "v", icb_wide$icb_survey_version, "-s", icb_wide$raw_sentence_number_int)
+icb_wide$crisisno_crisis_version <- paste0(icb_wide$raw_crisno, "_", icb_wide$raw_crisis, "_", icb_wide$icb_survey_version)
+
+# check that each crisno_sentno has only one sentence associated with it.
+unique_vsent <- unique(icb_wide[,c("sentence", "raw_crisno_sentno")])
+
+#list of the sentences that multiple sentences assigned to them.
+dup_vsent <- names(table(unique_vsent$raw_crisno_sentno)[table(unique_vsent$raw_crisno_sentno)>1]) 
+
+# list of crises with the afflicted sentences
+dup_vcris <- names(table(icb_wide$crisisno_crisis_version[icb_wide$raw_crisno_sentno %in% dup_vsent])) 
+sort(dup_vcris)
+
+```
+
+40 crisis have different sentence numbers in the same crisis:
+
+
+### Create a csv to hand clean the sentence codes of.
+
+```{r}
+
+sentencekey_toclean <- unique(icb_wide[,c("email_id", "raw_crisis","raw_crisno","raw_sentence", "sentence", "raw_sentence_number_int", "raw_crisno_sentno", "icb_survey_version")])
+
+sentencekey_toclean <- sentencekey_toclean[sentencekey_toclean$raw_crisno %in% dup_cris,]
+sentencekey_toclean$raw_crisno <- as.numeric(sentencekey_toclean$raw_crisno)
+sentencekey_toclean$raw_sentence_number_int <- as.numeric(sentencekey_toclean$raw_sentence_number_int)
+
+sentencekey_toclean <- sentencekey_toclean[with(sentencekey_toclean, order(raw_crisno, raw_crisis, email_id, icb_survey_version, raw_sentence_number_int)),]
+
+```
+
+```{r}
+table(sentencekey_toclean$raw_crisis, sentencekey_toclean$icb_survey_version)
+```
+
+
+
+
+To prep for cleaning, make an "raw_crisis"
+
+```{r}
+
+sentencekey_toclean$crisisno_crisis_version <- paste0(sentencekey_toclean$raw_crisno, "_",
+                                                      sentencekey_toclean$raw_crisis, "_",
+                                                      sentencekey_toclean$icb_survey_version)
+
+sentencekey_toclean <- sentencekey_toclean %>% 
+  dplyr::mutate(conflict_sent = ifelse(raw_crisno_sentno %in% dup_vsent, 1, 0))
+
+# line above requres setdiff1 from below
+  
+write.csv(sentencekey_toclean, file=paste0(here::here(), "/replication_data/temp/sentencekey_toclean.csv"))
+```
+
+
+Check if there is a pattern between versions or coders. None apparant. 
+```{r}
+
+dup_cris_vec <- icb_wide$crisno %in% dup_cris
+
+table(icb_wide$icb_survey_version, dup_cris_vec)
+#table(icb_wide$email_cr32, dup_cris_vec)
+
+```
+
+
+### Load in sentence alignment key
+
+```{r}
+# load key dataset
+#sentence_alignment_key_raw <- readODS::read_ods(paste0(here::here(), "/data/sentence_alignment_key.ods"))
+sentence_alignment_key_raw <- readr::read_csv(paste0(here::here(), "/replication_data/in/sentence_alignment_key.csv"))
+sentence_alignment_key_raw$crisno <- as.character(sentence_alignment_key_raw$crisno)
+
+#reformat
+sentence_alignment_key <- rbind(
+  data.table::setnames(sentence_alignment_key_raw[,c("crisno", "sentence_number_int_aligned", "sentence1")], "sentence1", "sentence"),
+  data.table::setnames(sentence_alignment_key_raw[,c("crisno", "sentence_number_int_aligned", "sentence2")], "sentence2", "sentence"),
+  data.table::setnames(sentence_alignment_key_raw[,c("crisno", "sentence_number_int_aligned", "sentence3")], "sentence3", "sentence"),
+  data.table::setnames(sentence_alignment_key_raw[,c("crisno", "sentence_number_int_aligned", "sentence4")], "sentence4", "sentence")) %>% 
+  dplyr::filter(!is.na(sentence)) %>% 
+  unique()
+
+# Create an index to find crisis-sentences with multiple sentences
+# sentence_alignment_key <- sentence_alignment_key %>% group_by(crisno, sentence_number_int_aligned) %>% mutate(id = row_number()) %>% dplyr::filter(id > 2)
+
+```
+
+The original read in changed, so check that the sentence alignment key contains all and only the sentences originally exported for alignment
+```{r}
+setdiff1 <- (setdiff(unique(sentencekey_toclean$sentence), unique(sentence_alignment_key$sentence)))
+# what toclean has that is missing from alignment key
+
+if(length(setdiff1)>0){
+  sentencekey_toclean <- sentencekey_toclean %>% dplyr::mutate(sent_unfixed = ifelse(sentence %in% setdiff1 & conflict_sent==1, 1, 0))
+  write.csv(sentencekey_toclean, file=paste0(here::here(), "/replication_data/temp/sentencekey_toclean.csv"))
+  warning("alignment key may be incomplete")
+}
+
+
+```
+
+
+
+```{r}
+# what alignment key has that is missing from 'to clean'
+
+setdiff2 <- data.frame(setdiff(unique(sentence_alignment_key$sentence), unique(sentencekey_toclean$raw_sentence)))
+head(setdiff2)
+```
+
+
+```{r}
+# crises that alignment key has that is missing from 'to clean' (ok if there are extra)
+setdiff3 <- setdiff(unique(sentence_alignment_key$crisno), unique(sentencekey_toclean$raw_crisno))
+setdiff3
+```
+
+```{r}
+# crises that 'to clean' has that is missing from  alignment key(should be empty)
+setdiff4 <- setdiff(unique(sentencekey_toclean$raw_crisno), unique(sentence_alignment_key$crisno))
+setdiff4
+```
+
+
+```{r}
+
+#drop duplicates and missing
+sentence_alignment_key <- unique(sentence_alignment_key[complete.cases(sentence_alignment_key),])
+
+#eyeball key, checking crisis number, that sentence_number is generally decreasing (but gaps allowed and expected!), and that no sentences are NA
+table(sentence_alignment_key$crisno)
+table(sentence_alignment_key$sentence_number_int_aligned)
+table(is.na(sentence_alignment_key$sentence))
+```
+
+```{r}
+# merge alignment sentence numbers
+icb_wide_aligned <- icb_wide %>% dplyr::left_join(sentence_alignment_key) 
+
+# look at alignment outcomes
+#dim(events) 
+dim(icb_wide_aligned) # number of rows should be identical with one column added
+table(icb_wide_aligned$crisno)
+table(is.na(icb_wide_aligned$crisno))
+table(icb_wide_aligned$sentence_number_int_aligned)
+table(is.na(icb_wide_aligned$sentence_number_int_aligned))
+```
+if no alignment was needed, pass `sentence_number_int_aligned` the value in `sentence_number_int`
+```{r}
+
+icb_wide_aligned$sentence_number_int_aligned[is.na(icb_wide_aligned$sentence_number_int_aligned)] <- icb_wide_aligned$sentence_number_int[is.na(icb_wide_aligned$sentence_number_int_aligned)]
+table(icb_wide_aligned$sentence_number_int_aligned)
+table(is.na(icb_wide_aligned$sentence_number_int_aligned))
+```
+
+save dataset with alignment
+```{r}
+saveRDS(icb_wide_aligned %>% dplyr::arrange(savefile_crc32, sentence_number_int, event_number_int),
+     file=paste0(here::here(),"/replication_data/out/icb_coder_crisis_sentence_event_aligned.Rds"))
+```

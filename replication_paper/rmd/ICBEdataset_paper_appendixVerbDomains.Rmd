@@ -1,0 +1,320 @@
+---
+title: "Appendix Verb Domains"
+output: html_document
+---
+
+```{r, echo=F, results='asis', message=F, warning=F, eval=T , cache=F}
+library(pacman)
+p_load(tidyverse)
+p_load(flextable)
+p_load(ftExtra)
+p_load(googlesheets4)
+library(googlesheets4)
+
+```
+
+
+```{r}
+icb_wide_clean <- readRDS(file=paste0(here::here(), "/data/icb_wide_clean.Rds"))
+```
+
+
+```{r , message=F}
+
+icb_text <- icb_wide_clean %>% dplyr::select(crisno,sentence_number_int_aligned, sentence) %>% distinct() %>% dplyr::mutate_at(vars(sentence_number_int_aligned), as.numeric) %>% arrange(crisno,sentence_number_int_aligned)
+
+# writeLines(icb_text$sentence %>% na.omit() %>% iconv("UTF-8", "ASCII", "?"), paste0(here::here(), "/replication_data/temp/sentences.txt"), useBytes = T)
+
+fromscratch=F
+if(fromscratch){
+  
+  p_load("spacyr")
+  #spacy_install() 
+  spacy_initialize(model = "en_core_web_sm")
+
+  parsed <- spacy_parse(icb_text$sentence, nounphrase = TRUE)
+  parsed_consolidated <- nounphrase_consolidate(parsed)
+  parsed$doc_id_num <- parsed$doc_id %>% str_replace_all("text","") %>% as.numeric()
+  parsed$crisno <- icb_text$crisno[parsed$doc_id_num]
+  parsed$sentence_number_int_aligned <- icb_text$sentence_number_int_aligned[parsed$doc_id_num]  %>% as.numeric()
+  parsed$sentence <- icb_text$sentence[parsed$doc_id_num] 
+  
+  parsed %>% saveRDS(paste0(here::here(), "/data/parsed.Rds"))
+  
+  entities <- entity_extract(parsed, type = "all")
+  entities %>% saveRDS(paste0(here::here(), "/data/entities.Rds"))
+
+} else {
+  parsed <- readRDS(paste0(here::here(), "/data/parsed.Rds"))
+  entities <- readRDS(paste0(here::here(), "/data/entities.Rds"))
+  
+}
+
+entities$doc_id_num <- entities$doc_id %>% str_replace_all("text","") %>% as.numeric()
+entities$crisno <- icb_text$crisno[entities$doc_id_num]
+entities_unique <- entities %>% dplyr::select(entity,entity_type) %>% mutate(entity = entity %>% str_to_lower() %>% str_replace_all("[^A-Za-z0-9]","") ) %>% distinct()
+
+target_file <- paste0(here::here(),"/data/icb_manual_recoding_master_sheet.xlsx")
+downloaded_file <- googledrive::drive_download(file="https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", path=target_file, type = "xlsx", overwrite=T)
+dictionary_actors    <- readxl::read_excel(target_file, sheet="actors")
+
+unique_agent_q_codes <- dictionary_actors$value_disaggregated_wikidata_id %>% na.omit() %>% unique() %>% str_split(";") %>% unlist() %>% trimws() %>% unique()
+unique_actor_q_codes <- dictionary_actors$value_normalized_wikidata_id %>% na.omit() %>% unique() %>% str_split(";") %>% unlist() %>% trimws() %>% unique()
+
+verbs_sentence <- parsed %>% filter(pos=="VERB") 
+
+verbs <- parsed %>% filter(pos=="VERB") %>% dplyr::select(lemma, pos) %>% distinct()
+
+entities_per_sentence <- entities %>% 
+  count(doc_id) %>% 
+  summarise(
+    entities_per_sentence_min=min(n),
+    entities_per_sentence_mean=mean(n),
+    entities_per_sentence_max=max(n),
+  )
+
+```
+
+```{r, messages=F, results='hide', warnings=F, include=FALSE}
+
+#wordnet rdf (in tripple format)
+fromscratch=F
+
+wordnet_rdf <- readRDS(paste0(here::here(), "/replication_data/in/wordnet_rdf.Rds") )
+
+
+subject_headings <- wordnet_rdf %>% as_tibble() %>% filter(value %>% str_detect('http://purl.org/dc/terms/subject'))
+subject_headings_verbs <- subject_headings %>%
+                          filter(value %>% str_detect('-v>')) %>% 
+                          mutate(value=value %>% str_replace("<http://wordnet-rdf.princeton.edu/id/","2")) %>% 
+                          mutate(value=value %>% str_replace("-v> <http://purl.org/dc/terms/subject> ","\t")) %>%
+                          separate(value, c("a", "b"), extra = "drop", fill = "right", sep="\t") %>%
+                          mutate(b = b %>% str_replace_all('\\"| \\.',""))
+
+#subject_headings <- wordnet_rdf %>% as_tibble() %>% filter(value %>% str_detect('00002137')) #the first digit is for part of speech so we can remove that if we subset to just verbs
+
+#wordnet csv
+filenames <- list.files(path=paste0(here::here(), "/data_replication/in/wncsv-master/csv/") )
+filepaths <- list.files(path=paste0(here::here(), "/data_replication/in/wncsv-master/csv/"), full.names = T)
+
+wordnet_list <- lapply(filepaths, read_csv, col_names=F, progress=F, show_col_types=F)
+names(wordnet_list) <- filenames
+
+hypernyms <- wordnet_list[['wn_hyp.csv']] %>% 
+              dplyr::select(a=X1,b=X2) %>% 
+              left_join(wordnet_list[["wn_s.csv"]] %>% dplyr::select(a=X1, a_lemma=X3) ) %>% 
+              left_join(wordnet_list[["wn_s.csv"]] %>% dplyr::select(b=X1, b_lemma=X3) )
+
+library(igraph)
+g_hypernyms <-  graph_from_data_frame(hypernyms, directed = TRUE)
+
+
+wordnet <- wordnet_list[["wn_s.csv"]] %>% dplyr::select(wordnetid=X1, lemma=X3, tense=X4) %>% full_join( wordnet_list[['wn_g.csv']] %>% dplyr::select(wordnetid=X1, gloss=X2) )
+
+wordnet_verbs <- wordnet %>% filter(tense=='v')
+
+verbs_sentence_wordnet <- verbs_sentence %>% left_join(wordnet_verbs)
+#dim(verbs_sentence_wordnet) #227,426
+
+#I think we use sbert to embed the original sentence and the gloss and then calculate pairwise distances
+
+
+
+
+```
+
+```{r, echo=F, messages=F, warnings=F, results='hide'}
+
+fromsrcatch=F
+if(fromsrcatch){
+  #py$sentences
+  #py$glosses
+  sentences_embeddings <- py$sentences_embeddings
+  glosses_embeddings <- py$glosses_embeddings
+  
+  rownames(sentences_embeddings) <- py$sentences #[1:100]
+  rownames(glosses_embeddings) <- py$glosses #[1:100]
+  dim(glosses_embeddings)
+  
+  condition_glosses_embeddings <- verbs_sentence_wordnet$gloss %in% rownames(glosses_embeddings)
+  table(condition_glosses_embeddings) #there are 130 glosses that aren't in there
+  gloss_clean <- verbs_sentence_wordnet$gloss
+  gloss_clean[!condition_glosses_embeddings] <- rownames(glosses_embeddings)[1] #just a placeholder need to kill after
+  glosses_embeddings_expanded <- glosses_embeddings[gloss_clean ,]
+  dim(glosses_embeddings_expanded)
+  
+  condition_sentences_embeddings <- verbs_sentence_wordnet$sentence %in% rownames(sentences_embeddings)
+  table(condition_sentences_embeddings) #all are in it
+  sentences_clean <- verbs_sentence_wordnet$sentence
+  sentences_clean[!condition_sentences_embeddings] <- rownames(sentences_embeddings)[1] #just a placeholder need to kill after
+  sentences_embeddings_expanded <- sentences_embeddings[sentences_clean ,]
+  dim(sentences_embeddings_expanded)
+  
+  #Isn't it just one minus the other?
+  verbs_sentence_wordnet$distances <- rowSums((glosses_embeddings_expanded-sentences_embeddings_expanded)^2)
+  verbs_sentence_wordnet <- verbs_sentence_wordnet %>% arrange(crisno, sentence_number_int_aligned, token_id, distances)
+  verbs_sentence_wordnet %>% saveRDS(paste0(here::here(), "/data_replication/temp/verbs_sentence_wordnet.Rds"))
+
+} else {
+  
+  verbs_sentence_wordnet <- readRDS(paste0(here::here(), "/data_replication/temp/verbs_sentence_wordnet.Rds") )
+  
+}
+
+verbs_sentence_wordnet_top <- verbs_sentence_wordnet %>% group_by(crisno, sentence_number_int_aligned, token_id) %>% filter(row_number()==1)
+verbs_sentence_wordnet_top_unique <- verbs_sentence_wordnet_top %>% ungroup() %>% dplyr::select(lemma, wordnetid,tense, gloss) %>% group_by(lemma, wordnetid,tense, gloss) %>% count() %>% arrange(desc(n))
+
+#length(verbs_sentence_wordnet_top_unique$wordnetid) #3312 wordnetids but only 2,470 have hyponyms
+verbs_sentence_wordnet_top_unique_nodes <- V(g_hypernyms)[name %in% verbs_sentence_wordnet_top_unique$wordnetid]
+
+#g_hypernyms_verbs_used <- subcomponent(g_hypernyms, verbs_sentence_wordnet_top_unique_nodes, mode = c("out"))
+
+g_hypernyms_verbs_used_list <- lapply(verbs_sentence_wordnet_top_unique_nodes,
+                                 FUN=function(x) subcomponent(g_hypernyms, x, mode = c("out"))$name
+                                 )  
+
+g_hypernyms_verbs_used <- NULL
+g_hypernyms_verbs_used <- subgraph(g_hypernyms, V(g_hypernyms)[name %in% unlist(g_hypernyms_verbs_used_list )] )
+g_hypernyms_verbs_used_df <- as_edgelist(g_hypernyms_verbs_used, names = TRUE)
+roots <- setdiff(g_hypernyms_verbs_used_df[,2],g_hypernyms_verbs_used_df[,1])
+
+subject_headings_verbs_toadd <- subject_headings_verbs %>% filter(a %in% roots) #I want to add these edges to the graph
+#V(g_hypernyms_verbs_used) #This is only 1600
+
+#Add the new body labels
+g_hypernyms_verbs_used <- g_hypernyms_verbs_used %>% add_vertices(nv=length(unique(subject_headings_verbs_toadd$b)), name = unique(subject_headings_verbs_toadd$b))
+#V(g_hypernyms_verbs_used)
+#Add edges from the degenerate roots to the domains
+g_hypernyms_verbs_used <- g_hypernyms_verbs_used %>%  add_edges(subject_headings_verbs_toadd %>% as.matrix() %>% t() %>% as.vector())
+#V(g_hypernyms_verbs_used)
+#is_simple(g_hypernyms_verbs_used)
+#is_dag(g_hypernyms_verbs_used)
+g_hypernyms_verbs_used <- g_hypernyms_verbs_used %>% simplify( remove.multiple = TRUE, remove.loops = TRUE)
+#is_simple(g_hypernyms_verbs_used)
+
+g_hypernyms_verbs_used_3hops <- ego(g_hypernyms_verbs_used, order = 1, nodes = V(g_hypernyms_verbs_used)[name %in% unique(subject_headings_verbs_toadd$b)], mode = c("all", "out","in"), mindist = 0)
+g_hypernyms_verbs_used_3hops_list <- lapply(g_hypernyms_verbs_used_3hops,
+                                 FUN=function(x) subcomponent(g_hypernyms_verbs_used, x, mode = c("all"))$name
+                                 )  
+g_hypernyms_verbs_used_3hops <- subgraph(g_hypernyms_verbs_used, V(g_hypernyms_verbs_used)[name %in% unlist(g_hypernyms_verbs_used_3hops_list )] )
+g_hypernyms_verbs_used_3hops_df <- as_edgelist(g_hypernyms_verbs_used_3hops, names = TRUE)
+
+require(tidygraph)
+lemma_df <- wordnet_list[["wn_s.csv"]] %>% dplyr::select(name=X1, lemma=X3) %>% mutate(name=name %>% as.character) %>% 
+            group_by(name) %>% summarise(lemma=paste0(lemma, collapse=";"))
+rownames(lemma_df) <- lemma_df$name
+
+first_two_hops <- g_hypernyms_verbs_used_3hops_df %>% as_tibble() %>% 
+                    left_join(lemma_df %>% rename(V1=name, lemma1=lemma)) %>%
+                    left_join(lemma_df %>% rename(V2=name, lemma2=lemma)) %>%
+                    dplyr::select(wordnetid_hop0=V2, wordnetid_hop1=V1,lemma1_hop0=lemma2, lemma1_hop1=lemma1) 
+
+first_two_hops_appendix <- first_two_hops %>% filter(wordnetid_hop1 %in% roots) %>% distinct() %>% arrange(lemma1_hop0,lemma1_hop1) %>% arrange(wordnetid_hop0,lemma1_hop1) %>% dplyr::select(wordnetid_hop0,lemma1_hop1)
+  
+
+first_two_hops_collapsed <- first_two_hops %>% 
+                            dplyr::select(lemma1_hop0, lemma1_hop1) %>%
+                            group_by(lemma1_hop0) %>%
+                            summarise(
+                              lemma1_hop1 = paste0(lemma1_hop1, collapse=" | ")
+                            ) %>%
+                            arrange(lemma1_hop0)
+
+
+tblg_hypernyms_verbs_used <- g_hypernyms_verbs_used %>% as_tbl_graph()
+V(tblg_hypernyms_verbs_used)$lemma <- lemma_df[V(tblg_hypernyms_verbs_used)$name,]$lemma
+condition <- V(tblg_hypernyms_verbs_used)$lemma %>% is.na()
+V(tblg_hypernyms_verbs_used)$lemma[condition] <- V(tblg_hypernyms_verbs_used)$name[condition]
+
+
+g_hypernyms_verbs_used_rooted <- g_hypernyms_verbs_used %>% add_vertices(nv=1, name = "verbs")
+#V(g_hypernyms_verbs_used_rooted)
+root_df <- data.frame(a=unique(subject_headings_verbs_toadd$b)); root_df$b <- "verbs"
+
+#Add edges from the degenerate roots to the domains
+g_hypernyms_verbs_used_rooted <- g_hypernyms_verbs_used_rooted %>%  add_edges(root_df[,c('a','b')] %>% as.matrix() %>% t() %>% as.vector())
+#as_edgelist(g_hypernyms_verbs_used_rooted, names = TRUE)
+
+tblg_hypernyms_verbs_used_rooted <- g_hypernyms_verbs_used_rooted %>% as_tbl_graph()
+V(tblg_hypernyms_verbs_used_rooted)$lemma <- lemma_df[V(tblg_hypernyms_verbs_used_rooted)$name,]$lemma
+condition <- V(tblg_hypernyms_verbs_used_rooted)$lemma %>% is.na()
+V(tblg_hypernyms_verbs_used_rooted)$lemma[condition] <- V(tblg_hypernyms_verbs_used_rooted)$name[condition]
+
+
+library(data.tree)
+library(networkD3) 
+df_hypernyms_verbs_used_rooted <- g_hypernyms_verbs_used_rooted %>% as_edgelist( names = TRUE) %>% as.data.frame()
+df_hypernyms_verbs_used_rooted_labeled <- df_hypernyms_verbs_used_rooted %>% as_tibble() %>% 
+                                          left_join(lemma_df %>% rename(V1=name, lemma1=lemma)) %>%
+                                          left_join(lemma_df %>% rename(V2=name, lemma2=lemma)) %>%
+                                          mutate(lemma1=ifelse(is.na(lemma1), V1, lemma1)) %>%
+                                          mutate(lemma2=ifelse(is.na(lemma2), V2, lemma2)) #%>%
+                                          #dplyr::select(lemma1,lemma2)
+
+library("dendextend")
+
+tree_hypernyms_verbs_used_rooted <- df_hypernyms_verbs_used_rooted_labeled %>% as.Node(mode="network")
+tree_hypernyms_verbs_used_rooted_table <- tree_hypernyms_verbs_used_rooted %>% ToDataFrameTypeCol()
+
+tree_hypernyms_verbs_used_rooted_table_ready <- 
+                                            tree_hypernyms_verbs_used_rooted_table %>% 
+                                                                      left_join(lemma_df %>% dplyr::rename(level_3=name, lemma3=lemma)) %>% 
+                                                                      left_join(lemma_df %>% dplyr::rename(level_4=name, lemma4=lemma)) %>%
+                                                                      dplyr::select(level1=level_2, level2=lemma3, level3=lemma4) %>%
+                                                                      arrange(level1,level2,level3) %>% distinct()
+
+
+```
+
+
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F}
+
+domains <- verbs_sentence_wordnet_top %>% ungroup() %>%  
+            dplyr::select(wordnetid) %>%
+            mutate(wordnetid=wordnetid %>% as.character() ) %>% 
+            left_join(subject_headings_verbs %>% dplyr::select(wordnetid=a,domain=b)) %>%
+            count(domain) %>% 
+            arrange(desc(n)) %>% 
+            na.omit() %>%
+            mutate(perc= round( n/sum(n) * 100 ) ) %>%
+  left_join(
+    tree_hypernyms_verbs_used_rooted_table_ready %>%
+  dplyr::select(level1,level2) %>% distinct() %>% group_by(level1) %>% summarise(level2=level2 %>% paste0(collapse=" | ") ) %>% dplyr::select(domain=level1,Sysnets=level2)
+  )
+
+
+p_load(flextable)
+p_load(ftExtra)
+set_flextable_defaults(fonts_ignore=TRUE)
+
+domains_ft <- domains %>%
+        ungroup() %>% 
+        mutate(Sysnets=Sysnets %>% str_replace_all("[^A-Za-z0-9 ;\\|]","")) %>%
+        flextable::as_flextable() %>% 
+        
+        #bg( j = condition, part = "body", bg = "#EFEFEF") %>%
+        #width(j = 1, width=1.25) %>%
+        #width(j = 2:ncol(lit_review_clean), width=0.25) %>%
+        flextable::fontsize(size = 8, part = "body" ) %>% 
+        #rotate(rotation="tbrl",part="header") %>%
+        set_header_labels( values = list(crisno = "#", input_crisis = "Name", sentence_count="Sentences", word_count="Words", event_count_mean_sum="Events")) %>%
+        #align(align = "center", part = "body") %>%
+        #align(align = "center", part = "header") %>%
+        set_table_properties(layout="autofit") %>%  
+        flextable::padding(padding = 0, part = "all") %>%
+        flextable::line_spacing(space = 1, part = "body") #%>%
+        #ftExtra::colformat_md(j = 1, part="body")   #Make sure this goes last or it'll get overwritten by the colformat above
+
+  
+      #autofit()
+      #fit_to_width(max_width=12) #This is crazy slow
+      #flextable::autofit() 
+      #set_table_properties(width = 1, layout = "autofit")
+
+#https://cran.r-project.org/web/packages/ftExtra/vignettes/format_columns.html
+
+domains_ft  %>% saveRDS(paste0(here::here(), '/paper/tables/domains_ft.Rds'))
+domains_ft
+
+```

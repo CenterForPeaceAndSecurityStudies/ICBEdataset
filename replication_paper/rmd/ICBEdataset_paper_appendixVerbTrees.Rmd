@@ -1,0 +1,146 @@
+---
+title: "AppendixVerbTrees.Rmd"
+output: html_document
+---
+
+
+```{r, echo=F, messages=F, warnings=F, results='hide', eval=T}
+
+fromsrcatch=F
+if(fromsrcatch){
+  #py$sentences
+  #py$glosses
+  sentences_embeddings <- py$sentences_embeddings
+  glosses_embeddings <- py$glosses_embeddings
+  
+  rownames(sentences_embeddings) <- py$sentences #[1:100]
+  rownames(glosses_embeddings) <- py$glosses #[1:100]
+  dim(glosses_embeddings)
+  
+  condition_glosses_embeddings <- verbs_sentence_wordnet$gloss %in% rownames(glosses_embeddings)
+  table(condition_glosses_embeddings) #there are 130 glosses that aren't in there
+  gloss_clean <- verbs_sentence_wordnet$gloss
+  gloss_clean[!condition_glosses_embeddings] <- rownames(glosses_embeddings)[1] #just a placeholder need to kill after
+  glosses_embeddings_expanded <- glosses_embeddings[gloss_clean ,]
+  dim(glosses_embeddings_expanded)
+  
+  condition_sentences_embeddings <- verbs_sentence_wordnet$sentence %in% rownames(sentences_embeddings)
+  table(condition_sentences_embeddings) #all are in it
+  sentences_clean <- verbs_sentence_wordnet$sentence
+  sentences_clean[!condition_sentences_embeddings] <- rownames(sentences_embeddings)[1] #just a placeholder need to kill after
+  sentences_embeddings_expanded <- sentences_embeddings[sentences_clean ,]
+  dim(sentences_embeddings_expanded)
+  
+  #Isn't it just one minus the other?
+  verbs_sentence_wordnet$distances <- rowSums((glosses_embeddings_expanded-sentences_embeddings_expanded)^2)
+  verbs_sentence_wordnet <- verbs_sentence_wordnet %>% arrange(crisno, sentence_number_int_aligned, token_id, distances)
+  verbs_sentence_wordnet %>% saveRDS(paste0(here::here(), "/data/verbs_sentence_wordnet.Rds"))
+
+} else {
+  
+  verbs_sentence_wordnet <- readRDS(paste0(here::here(), "/data/verbs_sentence_wordnet.Rds"))
+  
+}
+
+verbs_sentence_wordnet_top <- verbs_sentence_wordnet %>% group_by(crisno, sentence_number_int_aligned, token_id) %>% filter(row_number()==1)
+verbs_sentence_wordnet_top_unique <- verbs_sentence_wordnet_top %>% ungroup() %>% dplyr::select(lemma, wordnetid,tense, gloss) %>% group_by(lemma, wordnetid,tense, gloss) %>% count() %>% arrange(desc(n))
+
+#length(verbs_sentence_wordnet_top_unique$wordnetid) #3312 wordnetids but only 2,470 have hyponyms
+verbs_sentence_wordnet_top_unique_nodes <- V(g_hypernyms)[name %in% verbs_sentence_wordnet_top_unique$wordnetid]
+
+#g_hypernyms_verbs_used <- subcomponent(g_hypernyms, verbs_sentence_wordnet_top_unique_nodes, mode = c("out"))
+
+g_hypernyms_verbs_used_list <- lapply(verbs_sentence_wordnet_top_unique_nodes,
+                                 FUN=function(x) subcomponent(g_hypernyms, x, mode = c("out"))$name
+                                 )  
+
+g_hypernyms_verbs_used <- NULL
+g_hypernyms_verbs_used <- subgraph(g_hypernyms, V(g_hypernyms)[name %in% unlist(g_hypernyms_verbs_used_list )] )
+g_hypernyms_verbs_used_df <- as_edgelist(g_hypernyms_verbs_used, names = TRUE)
+roots <- setdiff(g_hypernyms_verbs_used_df[,2],g_hypernyms_verbs_used_df[,1])
+
+subject_headings_verbs_toadd <- subject_headings_verbs %>% filter(a %in% roots) #I want to add these edges to the graph
+#V(g_hypernyms_verbs_used) #This is only 1600
+
+#Add the new body labels
+g_hypernyms_verbs_used <- g_hypernyms_verbs_used %>% add_vertices(nv=length(unique(subject_headings_verbs_toadd$b)), name = unique(subject_headings_verbs_toadd$b))
+#V(g_hypernyms_verbs_used)
+#Add edges from the degenerate roots to the domains
+g_hypernyms_verbs_used <- g_hypernyms_verbs_used %>%  add_edges(subject_headings_verbs_toadd %>% as.matrix() %>% t() %>% as.vector())
+#V(g_hypernyms_verbs_used)
+#is_simple(g_hypernyms_verbs_used)
+#is_dag(g_hypernyms_verbs_used)
+g_hypernyms_verbs_used <- g_hypernyms_verbs_used %>% simplify( remove.multiple = TRUE, remove.loops = TRUE)
+#is_simple(g_hypernyms_verbs_used)
+
+g_hypernyms_verbs_used_3hops <- ego(g_hypernyms_verbs_used, order = 1, nodes = V(g_hypernyms_verbs_used)[name %in% unique(subject_headings_verbs_toadd$b)], mode = c("all", "out","in"), mindist = 0)
+g_hypernyms_verbs_used_3hops_list <- lapply(g_hypernyms_verbs_used_3hops,
+                                 FUN=function(x) subcomponent(g_hypernyms_verbs_used, x, mode = c("all"))$name
+                                 )  
+g_hypernyms_verbs_used_3hops <- subgraph(g_hypernyms_verbs_used, V(g_hypernyms_verbs_used)[name %in% unlist(g_hypernyms_verbs_used_3hops_list )] )
+g_hypernyms_verbs_used_3hops_df <- as_edgelist(g_hypernyms_verbs_used_3hops, names = TRUE)
+
+
+
+require(tidygraph)
+lemma_df <- wordnet_list[["wn_s.csv"]] %>% dplyr::select(name=X1, lemma=X3) %>% mutate(name=name %>% as.character) %>% 
+            group_by(name) %>% summarise(lemma=paste0(lemma, collapse=";"))
+rownames(lemma_df) <- lemma_df$name
+
+first_two_hops <- g_hypernyms_verbs_used_3hops_df %>% as_tibble() %>% 
+                    left_join(lemma_df %>% rename(V1=name, lemma1=lemma)) %>%
+                    left_join(lemma_df %>% rename(V2=name, lemma2=lemma)) %>%
+                    dplyr::select(wordnetid_hop0=V2, wordnetid_hop1=V1,lemma1_hop0=lemma2, lemma1_hop1=lemma1) 
+
+first_two_hops_appendix <- first_two_hops %>% filter(wordnetid_hop1 %in% roots) %>% distinct() %>% arrange(lemma1_hop0,lemma1_hop1) %>% arrange(wordnetid_hop0,lemma1_hop1) %>% dplyr::select(wordnetid_hop0,lemma1_hop1)
+  
+
+
+first_two_hops_collapsed <- first_two_hops %>% 
+                            dplyr::select(lemma1_hop0, lemma1_hop1) %>%
+                            group_by(lemma1_hop0) %>%
+                            summarise(
+                              lemma1_hop1 = paste0(lemma1_hop1, collapse=" | ")
+                            ) %>%
+                            arrange(lemma1_hop0)
+
+
+tblg_hypernyms_verbs_used <- g_hypernyms_verbs_used %>% as_tbl_graph()
+V(tblg_hypernyms_verbs_used)$lemma <- lemma_df[V(tblg_hypernyms_verbs_used)$name,]$lemma
+condition <- V(tblg_hypernyms_verbs_used)$lemma %>% is.na()
+V(tblg_hypernyms_verbs_used)$lemma[condition] <- V(tblg_hypernyms_verbs_used)$name[condition]
+#
+library(ggraph)
+p <- tblg_hypernyms_verbs_used %>% 
+      ggraph(  layout = "sugiyama") + 
+      coord_flip() +
+      geom_edge_link(width=0.5, alpha=0.25 )  + 
+      geom_node_label(aes(label = lemma), repel = TRUE, size=3)
+
+ggsave( filename=paste0(here::here(), "/paper/figures/hypernyms_plot.pdf"), plot=p, height=100,width =32,limitsize = FALSE)
+
+#
+
+g_hypernyms_verbs_used_rooted <- g_hypernyms_verbs_used %>% add_vertices(nv=1, name = "verbs")
+#V(g_hypernyms_verbs_used_rooted)
+root_df <- data.frame(a=unique(subject_headings_verbs_toadd$b)); root_df$b <- "verbs"
+
+#Add edges from the degenerate roots to the domains
+g_hypernyms_verbs_used_rooted <- g_hypernyms_verbs_used_rooted %>%  add_edges(root_df[,c('a','b')] %>% as.matrix() %>% t() %>% as.vector())
+#as_edgelist(g_hypernyms_verbs_used_rooted, names = TRUE)
+
+tblg_hypernyms_verbs_used_rooted <- g_hypernyms_verbs_used_rooted %>% as_tbl_graph()
+V(tblg_hypernyms_verbs_used_rooted)$lemma <- lemma_df[V(tblg_hypernyms_verbs_used_rooted)$name,]$lemma
+condition <- V(tblg_hypernyms_verbs_used_rooted)$lemma %>% is.na()
+V(tblg_hypernyms_verbs_used_rooted)$lemma[condition] <- V(tblg_hypernyms_verbs_used_rooted)$name[condition]
+
+library(ggraph)
+p_rooted <- tblg_hypernyms_verbs_used_rooted %>% 
+            ggraph(  layout = "sugiyama") + 
+            coord_flip() +
+            geom_edge_elbow(width=0.5, alpha=0.25 )  + 
+            geom_node_label(aes(label = lemma), repel = TRUE, size=3)
+
+ggsave( filename=paste0(here::here(), "/paper/figures/hypernyms_rooted_plot.pdf"), plot=p_rooted, height=100,width =32,limitsize = FALSE)
+
+```

@@ -1,0 +1,198 @@
+---
+title: "Online Appendix: Supporting Information for _Introducing the International Crisis Behavior Event (ICBe) Dataset_"
+authors:
+  - name: Shannon Carcelli
+    department: Department of Political Science
+    affiliation: University of Maryland, College Park
+    location: 
+    email: 
+  - name: Rex W. Douglass
+    department: Department of Political Science
+    affiliation: University of California, San Diego
+    location: CA, USA
+    email: 
+  - name: J Andrés Gannon
+    department: Department of Political Science
+    affiliation: University of California, San Diego
+    location: CA, USA
+    email: 
+  - name: Erik Gartzke
+    department: Department of Political Science
+    affiliation: University of California, San Diego
+    location: CA, USA
+    email: 
+  - name: Jon Lindsay
+    department: Munk School of Global Affairs and Public Policy and Department of Political Science
+    affiliation: University of Toronto
+    location: Toronto, ON, Canada
+    email: jon.lindsay@utoronto.ca
+  - name: Thomas Leo Scherer
+    department: Department of Political Science
+    affiliation: University of California, San Diego
+    location: CA, USA
+    email: tlscherer@ucsd.edu
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+bibliography: ICBintro.bib
+output: 
+  rticles::arxiv_article:
+    keep_tex: true
+header-includes:
+  - \usepackage{array}
+  - \usepackage{ctable} # added for demo
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{multirow}
+  - \usepackage{wrapfig}
+  - \usepackage{colortbl}
+  - \usepackage{pdflscape}
+  - \usepackage{tabu}
+  - \usepackage{titlesec}
+  - \usepackage[parfill]{parskip}
+  - \usepackage{makecell}
+  - \usepackage{graphicx}
+  - \usepackage{caption}
+  - \usepackage[capposition=top]{floatrow}
+  - \titleformat{\subsubsection}{\normalfont\normalsize\itshape}{\thesubsubsection}{1em}{}
+  - \titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{0ex plus .2ex}
+---
+
+```{r echo=FALSE}
+`%>%` <- magrittr::`%>%`
+```
+
+<!-- # (APPENDIX) Appendix {-}  -->
+<!-- https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html -->
+<!-- may require additional software -->
+
+\begin{figure}[h]
+\caption{Action Event Classification Tree\label{fig:event_action_tree}}
+\centering{\includegraphics[width=17cm]{figures/event_action_tree}}
+\end{figure}
+
+
+\begin{figure}[h]
+\caption{Graphical User Interface (GUI) for coding ICBED\label{fig:coding_gui}}
+\centering{\includegraphics[width=17cm]{figures/gui_example}}
+\end{figure}
+
+
+\begin{figure}
+\caption{Crisis Actors counts for ICB Project system-level data and for ICBe \label{fig:actors_by_crisis}}
+\centering{\includegraphics[width=17cm]{figures/actors_by_crisis}}
+\textit{Notes:} The number of perceived actors in each crisis as recorded by the ICB Project vs. the number of actors recorded in the ICBe dataset, with and without non-state actors.
+\end{figure}
+
+
+```{r echo=FALSE}
+read.csv(paste0(here::here(), "/inst/extdata/","icb1v14.csv")) %>% dplyr::count(crismg) %>% 
+  dplyr::mutate(crismg = dplyr::recode(crismg, `1` = "1: Negotiation", `2`="2: Adjudication", `3`= "3: Mediation", `4` = "4: Multiple excluding violence", `5` = "5: Non-military pressure", `6` = "6: Non-violent military", `7` = "7: Multiple including violence", `8` = "8: Violence")) %>%
+  dplyr::rename(`Management Technique` = crismg) %>% 
+  kableExtra::kbl(caption="Count of ICB Project Crisis-Level Management Technique \\label{tbl:ICBproject_crisis_management_technique}") %>% kableExtra::row_spec(0,bold=TRUE)
+```
+
+
+```{r echo=FALSE}
+event_percent_diff_by_crismg <- readRDS(file=paste0(here::here(), "/data/event_percent_diff_by_crismg.rds"))
+
+event_percent_diff_by_crismg_tableprep <- event_percent_diff_by_crismg %>% 
+    dplyr::mutate(action_type = dplyr::recode(action_type, `thinkkind` = "Think", `sayintkind`="Speech", 
+                                       `act_cooperative_clean` = "Cooperative", 
+                                       `act_descalate_clean` = "De-escalatory ", 
+                                       `act_escalate_clean` = "Escalatory", 
+                                       `act_uncooperative_clean` = "Uncooperative", 
+                                       `interact_decreasecoop_clean` = "Uncooperative", 
+                                       `interact_increasecoop_clean` = "Cooperative", 
+                                       `interact_descalate_clean` = "De-escalatory ", 
+                                       `interact_escalate_clean` = "Escalatory")) %>% 
+  dplyr::arrange(desc(All)) %>% 
+  dplyr::slice_head(n=20) 
+  
+event_percent_diff_by_crismg_tableprep <- dplyr::bind_cols(event_percent_diff_by_crismg_tableprep[1:3],
+  lapply(event_percent_diff_by_crismg_tableprep[4:11], function(x) {
+  x.c <- paste0(ifelse(x > 0, "+", ""), round(x, digits = 2))}))
+```
+
+
+```{r echo=FALSE}
+event_percent_diff_by_crismg_tableprep %>%  dplyr::mutate(action = dplyr::recode(action, `invasion/occupation` = "invasion / occupation")) %>% 
+  dplyr::rename(`All Crises` = "All", `CMT 1: Negotiation` = "1: Negotiation", `CMT 2: Adjud`="2: Adjudication", `CMT 3: Medi`= "3: Mediation", `CMT 4: Multi no violence` = "4: Multiple excluding violence", `CMT 5: Non-mil pressure` = "5: Non-military pressure", `CMT 6: Non-violent mil` = "6: Non-violent military", `CMT 7: Multi with violence` = "7: Multiple including violence", `CMT 8: Violence` = "8: Violence") %>% 
+  dplyr::select(-`CMT 2: Adjud`, -`CMT 3: Medi`, -`CMT 5: Non-mil pressure`) %>%
+  kableExtra::kbl(caption="Average Percentage of Event Types in a Crisis by Management Technique (CMT) \\label{tbl:crismg_count_mean_table}")  %>%
+  # kableExtra::kable_styling() %>% 
+  kableExtra::column_spec(2, latex_column_spec = "p{1.8cm}") %>%
+  kableExtra::column_spec(4, latex_column_spec = "p{1.2cm}") %>%
+  #kableExtra::column_spec(5, latex_column_spec = "p{.8cm}") %>%
+  #kableExtra::column_spec(6, latex_column_spec = "p{.8cm}") %>%
+  kableExtra::column_spec(5, latex_column_spec = "p{1.4cm}") %>%
+  #kableExtra::column_spec(8, latex_column_spec = "p{1cm}") %>%
+  kableExtra::column_spec(6, latex_column_spec = "p{1.4cm}") %>%
+  kableExtra::column_spec(7, latex_column_spec = "p{1.4cm}") %>%
+  kableExtra::column_spec(8, latex_column_spec = "p{1.4cm}")
+  # kableExtra::column_spec(8, width = "1.4cm") %>% 
+  # kableExtra::collapse_rows()
+```
+
+
+\begin{figure}
+\caption{Crisis event counts from Phoenix and ICB for crises with and without USA\label{fig:phoenix_event_counts_usa}}
+\centering{\includegraphics[width=17cm]{figures/phoenix_event_counts_usa}}
+\end{figure}
+
+
+```{r echo=FALSE, message=FALSE}
+readRDS(file=paste0(here::here(), "/data/liberia_sierraleone_phoenix.Rds"))%>% 
+  kableExtra::kbl(caption="Phoenix Events for Liberia / Sierra Leone (Crisis 395) \\label{tbl:liberia_sierraleone_phoenix}") %>%  
+  kableExtra::column_spec(4, latex_column_spec = "p{1cm}") %>%
+  kableExtra::column_spec(5, latex_column_spec = "p{7cm}")
+  # kableExtra::column_spec(2, width = "1cm")
+```
+
+```{r echo=FALSE, message=FALSE}
+readRDS(file=paste0(here::here(), "/data/liberia_sierraleone_extended.Rds")) %>% 
+  kableExtra::kbl(caption="Extended Phoenix Events for Liberia / Sierra Leone (Crisis 395) \\label{tbl:liberia_sierraleone_phoenix_extended}") %>%  
+  kableExtra::column_spec(4, latex_column_spec = "p{1cm}") %>%
+  kableExtra::column_spec(5, latex_column_spec = "p{7cm}")
+  # kableExtra::column_spec(2, width = "1cm")
+```
+
+
+```{r echo=FALSE, message=FALSE}
+drc_icb <- readRDS(file=paste0(here::here(),"/data/drc_icb.Rds"))
+
+drc_required_phoenix <- readRDS(file=paste0(here::here(), "/data/drc_required_phoenix.Rds")) 
+
+drc_required_phoenix_table <- readRDS(file=paste0(here::here(), "/data/drc_required_phoenix_table.Rds")) 
+
+```
+
+```{r echo=FALSE, message=FALSE}
+data.frame(lapply(drc_icb, function(x) {gsub("democratic_republic_of_the_congo", "DRC", x)})) %>% 
+  dplyr::select(-sentence_number_int_aligned) %>% 
+  dplyr::slice(16:41) %>%
+  kableExtra::kbl(caption="ICBe Dataset for DRC Civil War (Crisis 426) around August 1998 \\label{tbl:drc_icb}") %>%
+  kableExtra::column_spec(1, latex_column_spec = "p{1.8cm}") %>%
+  kableExtra::column_spec(2, latex_column_spec = "p{3.5cm}") %>%
+  kableExtra::column_spec(3, latex_column_spec = "p{2.5cm}") %>% 
+  kableExtra::column_spec(5, latex_column_spec = "p{3.5cm}")
+```
+
+
+```{r echo=FALSE, message=FALSE}
+drc_required_phoenix_table %>% 
+  dplyr::select(`Story Date`, Source, Target, `Event Code`, Event, Corpus) %>% 
+  dplyr::slice_head(n=20) %>%
+  kableExtra::kbl(caption="First 20 Phoenix Events (DRC-required) for DRC Civil War (Crisis 426) \\label{tbl:drc_civil_war_start_phoenix}") %>%  
+  kableExtra::column_spec(4, latex_column_spec = "p{1cm}") %>%
+  kableExtra::column_spec(5, latex_column_spec = "p{7cm}")
+  # kableExtra::column_spec(2, width = "1cm")
+```
+
+
+```{r echo=FALSE, message=FALSE}
+drc_required_phoenix %>% dplyr::filter(year == "2001" & month == "01") %>% dplyr::count(EventDescription, sort=TRUE) %>%
+  kableExtra::kbl(caption="Phoenix Events (DRC-required) for January 2001 DRC Civil War (Crisis 426) \\label{tbl:drc_civil_war_jan2001_phoenix}")
+  # kableExtra::column_spec(2, width = "1cm")
+```
+

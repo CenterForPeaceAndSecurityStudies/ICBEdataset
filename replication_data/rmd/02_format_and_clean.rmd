@@ -1,0 +1,672 @@
+---
+title: "02_format_and_clean"
+output:
+  html_document:
+    df_print: paged
+  toc: yes
+editor_options:
+  chunk_output_type: inline
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+`%>%` <- magrittr::`%>%`
+```
+
+
+
+# Load and transform wide to long
+
+read in icb_coder_crisis_sentence_event_aligned.Rds
+```{r}
+icb_wide_aligned_raw <- readRDS(file=paste0(here::here(),"/replication_data/out/icb_coder_crisis_sentence_event_aligned.Rds")) %>% 
+                    dplyr::mutate(crisno3 = stringr::str_pad(crisno, 3, pad = "0"), sentence_number_int_aligned3 =
+                                    stringr::str_pad(sentence_number_int_aligned, 3, pad = "0")) %>%
+                    dplyr::mutate(email_crisis_sent_event =
+                                    paste0(email_id,"_",crisno3,"_",sentence_number_int_aligned3,"_",event_number_int)) %>%
+                    dplyr::select(-crisno3, -sentence_number_int_aligned3) %>%
+                    dplyr::arrange(crisno, sentence_number_int, event_number_int) %>%
+  
+                    ####################Where we kill unhelpful events
+                    #There are 2 legitimate kinds of rows
+                    dplyr::filter(
+                      event_number_int==0 & sentence_events %in% c('Background', 'Covered by Previous Sentence','Error','No Action') |
+                      event_number_int>0 & event_type %in% c('Action', 'Speech','Thought' )
+                    ) #%>%
+
+dim(icb_wide_aligned_raw) #87710    85
+```
+
+
+Remove variables used earlier for compiling the individual codings
+```{r}
+icb_wide_aligned <- icb_wide_aligned_raw %>% dplyr::ungroup() %>% 
+  dplyr::select(
+               # -lastviewed, 
+               # -input_crisis, 
+                -sentence_number_int, -raw_crisis, -raw_crisno, -raw_sentence, -savefile_crc32, -raw_crisno_sentno, -raw_crisno_version_sentno, -crisisno_crisis_version) %>%
+  dplyr::mutate(icb_survey_version = ifelse(is.na(icb_survey_version), 1.1, icb_survey_version))
+dim(icb_wide_aligned) #52929    78
+
+```
+
+Initial coding edits (spelling, formatting, etc)
+```{r}
+icb_wide_aligned <- icb_wide_aligned %>% 
+                      dplyr::rename(act_deescalate = act_descalate) %>% 
+                      dplyr::rename(interact_deescalate = interact_descalate) %>% 
+                      dplyr::rename(condition_act_deescalate = condition_act_descalate) %>% 
+                      dplyr::rename(condition_interact_deescalate = condition_interact_descalate) %>% 
+                      dplyr::mutate(sayintkind_react = ifelse(sayintkind_react=="This Sentence", raw_sentence_number_int,
+                                                                         stringr::str_replace(sayintkind_react, "Sentence ","")))
+dim(icb_wide_aligned) #52929    78
+  
+```
+
+
+
+
+Where a coder looked at the same crisis twice, drop the earlier version and the earlier date
+```{r}
+icb_wide_aligned <- icb_wide_aligned %>% 
+                      dplyr::group_by(email_crisis_sent_event) %>% 
+                      dplyr::slice_max(icb_survey_version) %>%
+                      dplyr::ungroup()
+                      
+icb_wide_aligned <- icb_wide_aligned %>% 
+                    dplyr::group_by(email_crisis_sent_event) %>% 
+                    dplyr::slice_max(lastviewed) %>%
+                    dplyr::ungroup()
+dim(icb_wide_aligned) #87710    77
+```
+
+
+Drop a small subset where it appears that a coder looked at the same crisis twice but one of the times was logged incorrectly
+```{r}
+icb_wide_aligned <- icb_wide_aligned %>% dplyr::left_join(
+                    icb_wide_aligned %>% dplyr::select(email_crisis_sent_event, event_number_int) %>% dplyr::filter(
+                    (icb_wide_aligned %>% dplyr::select(email_crisis_sent_event, event_number_int) %>% 
+                       duplicated()) == TRUE) %>% 
+                      dplyr::mutate(duplicate = 1)) %>% 
+                    dplyr::mutate(mismatch = crisis != input_crisis) %>% 
+                    dplyr::filter(!(mismatch %in% TRUE & duplicate %in% 1)) %>%
+                    dplyr::select(-mismatch, -duplicate)
+
+dim(icb_wide_aligned) #51098    78
+
+```
+
+
+
+
+Pivot to long form 
+```{r}
+
+icb_long <- icb_wide_aligned %>% dplyr::ungroup() %>% 
+             dplyr::relocate(sentence_events, .after = event_number_int) %>%
+             tidyr::pivot_longer(
+               cols = c(sentence_events:interact_units), #  changed this to be inclusive of event type and sentence_events 
+               names_to = "variable",
+               #names_prefix = "wk",
+               values_to = "value",
+               values_drop_na = TRUE
+             ) %>% dplyr::ungroup() %>% 
+  dplyr::mutate(value=value %>% tolower %>% trimws())
+dim(icb_long) #491757     15
+
+```
+
+
+Now split values with a list (separated by a semicolon)
+
+```{r}
+
+icb_long_split <- icb_long %>% 
+                  dplyr::mutate(value = strsplit(as.character(value), ";")) %>% 
+                  tidyr::unnest(value) %>%
+                  dplyr::mutate(value=value %>% tolower %>% trimws())
+dim(icb_long_split) #536397     15
+
+```
+
+
+# Define subsets of variables 
+
+```{r}
+
+vars <- c(
+"sentence_events", "event_type", "raterconfidence", "raterconfidence_reason",
+"raterconfidence_reason_survey", "date", "think_sentence_events", "think_actor_a", "think_actor_a_other", 
+"thinkkind", "say_actor_a", "say_actor_a_other", "say_actor_b", "say_actor_b_other",
+"sayintkind", "sayintkind_react", "consequence", "condition", "do_actor_a",
+ "do_actor_a_other", "do_actor_b", "do_actor_b_other", "condition_do_actor_a",
+"condition_do_actor_a_other", "condition_do_actor_b", "condition_do_actor_b_other",
+ "condition_act_cooperative", "condition_act_deescalate", "condition_act_escalate",
+"condition_act_uncooperative", "condition_do_interact_kind", "condition_do_kind",
+"condition_interact_decreasecoop",  "condition_interact_deescalate",
+"condition_interact_domains", "condition_interact_escalate", "condition_interact_fatalities",
+"condition_interact_forces", "condition_interact_geoscope", "condition_interact_increasecoop",
+"condition_interact_location", "condition_interact_location_other", "condition_interact_territory",
+"condition_interact_units", "do_duration", "do_interact_kind", "do_kind", "do_timing",
+"do_timing_reorder", "act_cooperative", "act_deescalate", "act_escalate",
+"act_uncooperative", "interact_decreasecoop", "interact_deescalate", "interact_domains",
+"interact_escalate", "interact_fatalities", "interact_forces", "interact_geoscope",
+"interact_increasecoop",  "interact_location", "interact_location_other", "interact_territory",
+"interact_units" )
+
+vars_actor <- c("think_actor_a",
+             "think_actor_a_other",
+             "say_actor_a",
+             "say_actor_a_other",
+             "say_actor_b",
+             "say_actor_b_other",
+             "do_actor_a",
+             "do_actor_a_other",
+             "do_actor_b",
+             "do_actor_b_other", 
+             "condition_do_actor_a",
+             "condition_do_actor_a_other",
+             "condition_do_actor_b",
+             "condition_do_actor_b_other")
+
+vars_act <- c("act_cooperative",
+              "act_uncooperative",
+              "act_deescalate",
+              "act_escalate",
+              "interact_decreasecoop",
+              "interact_increasecoop",
+              "interact_deescalate",
+              "interact_escalate",
+              "condition_act_cooperative",
+              "condition_act_uncooperative",
+              "condition_act_deescalate",
+              "condition_act_escalate",
+              "condition_interact_decreasecoop",
+              "condition_interact_increasecoop",
+              "condition_interact_deescalate",
+              "condition_interact_escalate")
+
+# saveRDS(vars_actor, paste0(here::here(), "/replication_data/temp/","vars_actor.Rds"))
+# saveRDS(vars_act, paste0(here::here(), "/replication_data/temp/","vars_act.Rds"))
+
+vars_say <- c("sayintkind", "sayintkind_react","consequence","condition")
+vars_think <- c("think_sentence_events", "thinkkind", "thinkkind_clean")
+
+
+# Duplicate variables, same options for each in these types
+vars_act_kind <- c("do_kind", "condition_do_kind", "do_interact_kind", "condition_do_interact_kind")
+vars_fatalities <- c("interact_fatalities", "condition_interact_fatalities")
+vars_forces <- c("interact_forces", "condition_interact_forces")
+vars_geoscope <- c("interact_geoscope", "condition_interact_geoscope")
+vars_location <- c("interact_location", "condition_interact_location")
+vars_location_other <- c("interact_location_other", "condition_interact_location_other")
+vars_territory <- c("interact_territory", "condition_interact_territory")
+
+# NEED TO ADD TO CODEBOOK
+vars_domains <- c("interact_domains", "condition_interact_domains")
+vars_units <- c("interact_units", "condition_interact_units")
+
+
+
+```
+
+
+```{r}
+# are all variables in vars?
+setdiff(unique(icb_long_split$variable), vars)
+
+# do the subsets cover everything in vars?
+setdiff(vars, c(vars_actor, vars_act, vars_act_kind, vars_fatalities, vars_forces, vars_geoscope, vars_location, vars_location_other, vars_territory, vars_domains, vars_units, vars_say, vars_think))
+```
+
+
+# Load and apply normalizations 
+
+Load normalization dictionaries
+
+```{r message=FALSE}
+target_file <- paste0(here::here(),"/replication_data/in/icb_manual_recoding_master_sheet.xlsx")
+downloaded_file <- googledrive::drive_download(file="https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", path=target_file, type = "xlsx", overwrite=T)
+# in not working, run googledrive::drive_auth() and select new token
+
+dictionary_actions  <- readxl::read_excel(target_file, sheet="actions") %>% dplyr::distinct()
+dictionary_actors    <- readxl::read_excel(target_file, sheet="actors") %>% dplyr::select(crisno,value, value_normalized=value_normalized_wikidata_id) %>% dplyr::distinct()
+
+#Locations and dates are both really hard to do
+dictionary_locations <- readxl::read_excel(target_file, sheet="locations", na = c("", "NA")) 
+dictionary_dates <- readxl::read_excel(target_file, sheet="dates", col_types="text") #This is the tricky one and why he had to add values 
+
+
+```
+
+
+
+```{r}
+# Create dateset to reconnect location dictionary to individual rows through 'sentence_number_int_aligned'
+location_merge_directory <- icb_wide_aligned %>% 
+    dplyr::mutate(crisno3 = stringr::str_pad(crisno, 3, pad = "0"), 
+                  sentence_number_int_aligned3 = stringr::str_pad(sentence_number_int_aligned, 3, pad = "0")) %>% 
+  dplyr::mutate(email_crisis_sent_event = paste(email_id,crisno3,sentence_number_int_aligned3,event_number_int, sep="_")) %>%
+  dplyr::select(-crisno3, -sentence_number_int_aligned3) %>%
+  dplyr::mutate(crisis_sent = paste0(crisno,"_",sentence_number_int_aligned)) %>%
+  dplyr::select(crisno, email_crisis_sent_event, do_actor_a, do_actor_b, interact_location, interact_location_other) %>% 
+  dplyr::mutate(do_actor_a=strsplit(do_actor_a, ";")) %>% tidyr::unnest(do_actor_a) %>%
+  dplyr::mutate(do_actor_b=strsplit(do_actor_b, ";")) %>% tidyr::unnest(do_actor_b) %>%
+  dplyr::mutate(interact_location_other=strsplit(interact_location_other, ";")) %>% tidyr::unnest(interact_location_other) %>%
+  dplyr::mutate(do_actor_a=tolower(do_actor_a), do_actor_b=tolower(do_actor_b),
+                interact_location_other=trimws(tolower(interact_location_other))) %>%
+  dplyr::left_join(dictionary_locations %>%
+                     dplyr::mutate() %>% 
+                     dplyr::mutate(interact_location_other = tolower(interact_location_other)) %>% 
+                     dplyr::select(do_actor_a, do_actor_b, interact_location, interact_location_other, norm_name)) %>%
+  dplyr::mutate(crisno = as.numeric(crisno)) %>% 
+  unique() %>% 
+  dplyr::filter(!is.na(interact_location_other))
+
+
+```
+
+
+Apply the cleaning dictionaries to the relevant subsets
+
+```{r}
+  #ACTOR
+icb_long_actor_clean <- icb_long_split %>% 
+  dplyr::filter(variable %in% vars_actor) %>%
+    dplyr::left_join(tibble::tibble(variable=vars_actor) %>% 
+                       dplyr::mutate(temp="temp") %>%
+                       dplyr::left_join(dictionary_actors %>% dplyr::mutate(temp="temp")) %>%
+                       dplyr::select(-temp) %>% 
+                       dplyr::select(crisno, variable, value, value_normalized) %>%
+                     dplyr::mutate(crisno = as.character(crisno)) %>%
+                     # dplyr::mutate(value_normalized = ifelse(is.na(value_normalized), "no_cleaning", value_normalized)) %>% 
+                       unique(),
+                     by=c('crisno','variable','value')) %>%
+    dplyr::mutate(variable_normalized = paste0(variable, "_clean")) %>% 
+  dplyr::mutate(value_normalized = strsplit(as.character(value_normalized), ";")) %>% 
+  tidyr::unnest(value_normalized) %>%
+  dplyr::mutate(value_normalized=value_normalized %>% trimws())
+
+# check for unmatched
+icb_long_actor_clean %>% dplyr::filter(is.na(value_normalized)) %>% dplyr::select(crisno, variable, value)
+```
+
+```{r}
+  #ACTION
+icb_long_action_clean <- icb_long_split %>% 
+                        dplyr::filter(variable %in% vars_act) %>% 
+                        dplyr::left_join(dplyr::bind_rows(dictionary_actions,
+                                         dictionary_actions %>% 
+                                           dplyr::mutate(variable = paste0("condition_", variable)) %>% 
+                                           dplyr::mutate(variable_normalized = ifelse(is.na(variable_normalized), 
+                                                                                            variable_normalized, 
+                                                                                            paste0("condition_", variable_normalized)))) %>% 
+                                           dplyr::select(variable, value, variable_normalized, value_normalized) %>%
+                                           dplyr::mutate(variable_normalized = ifelse(!is.na(value_normalized) & is.na(variable_normalized), 
+                                                                                   variable, variable_normalized)),
+                                         by=c('variable','value')) 
+
+# check for unmatched
+icb_long_action_clean %>% dplyr::filter(is.na(value_normalized)) %>% dplyr::select(crisno, variable, value, variable_normalized, value_normalized) 
+```
+
+```{r}
+ #LOCATION
+icb_long_location_clean <- icb_long_split %>% 
+  dplyr::filter(variable == "interact_location_other") %>% 
+  dplyr::full_join(location_merge_directory %>%
+                     dplyr::mutate(crisno = as.character(crisno)) %>% 
+                     dplyr::rename(value = interact_location_other)) %>% 
+  dplyr::rename(value_normalized = norm_name) %>%
+  dplyr::mutate(variable_normalized = "interact_location_other_clean") %>%   
+  dplyr::select(-do_actor_a, -do_actor_b, -interact_location) %>% 
+  dplyr::mutate(value_normalized = ifelse(is.na(value_normalized), "no_cleaning", value_normalized))
+```
+
+
+```{r}
+  #DATES
+icb_long_dates_clean <- icb_long_split %>% 
+  dplyr::filter(variable=="date") %>% 
+  dplyr::left_join(dictionary_dates %>% 
+                   dplyr::select(-coder, -notes) %>%
+                   dplyr::rename(value=date_orig)) %>%
+  tidyr::pivot_longer(cols = point_in_time:latest_date2,
+               names_to = "variable_normalized",
+               values_to = "value_normalized",
+               values_drop_na = TRUE) %>%
+  dplyr::mutate(variable_normalized = ifelse(variable_normalized %in% c("point_in_time2", "point_in_time3", "point_in_time4", "point_in_time5"), "point_in_time", variable_normalized))
+
+```
+
+
+
+```{r}
+# combine cleaned variables 
+
+icb_long_clean <- icb_long_split %>% 
+  dplyr::left_join(icb_long_action_clean, by=names(icb_long_split)) %>% 
+  dplyr::left_join(icb_long_actor_clean, by=names(icb_long_split), suffix = c("", ".actor")) %>% 
+      dplyr::mutate(variable_normalized = (ifelse(is.na(variable_normalized), variable_normalized.actor, variable_normalized))) %>%
+      dplyr::mutate(value_normalized = (ifelse(is.na(value_normalized), value_normalized.actor, value_normalized))) %>%
+      dplyr::select(-variable_normalized.actor, -value_normalized.actor) %>% 
+  dplyr::left_join(icb_long_location_clean, by=names(icb_long_split), suffix = c("", ".location")) %>% 
+      dplyr::mutate(variable_normalized = (ifelse(is.na(variable_normalized), variable_normalized.location, variable_normalized))) %>%
+      dplyr::mutate(value_normalized = (ifelse(is.na(value_normalized), value_normalized.location, value_normalized))) %>%
+      dplyr::select(-variable_normalized.location, -value_normalized.location) %>% 
+  dplyr::full_join(icb_long_dates_clean, by=names(icb_long_split), suffix = c("", ".date")) %>% 
+      dplyr::mutate(variable_normalized = (ifelse(is.na(variable_normalized), variable_normalized.date, variable_normalized))) %>%
+      dplyr::mutate(value_normalized = (ifelse(is.na(value_normalized), value_normalized.date, value_normalized))) %>%
+      dplyr::select(-variable_normalized.date, -value_normalized.date)
+
+```
+
+```{r}
+# As the dictionaries translate some groups into multiple values, need to split out rows with multiple values
+
+icb_long_clean <- icb_long_clean %>% 
+  dplyr::mutate(value_normalized = strsplit(as.character(value_normalized), ";")) %>% 
+  tidyr::unnest(value_normalized) %>%
+  dplyr::mutate(value_normalized=value_normalized %>% trimws()) %>% 
+  dplyr::mutate(crisno=as.numeric(crisno)) %>% 
+  dplyr::mutate(value=tolower(value)) 
+
+dim(icb_long_clean) #507699
+```
+
+
+
+
+```{r}
+# Fix several typos:
+
+print(paste("change 'premption' to 'preemption'", icb_long_clean %>% dplyr::filter(stringr::str_detect(value, "premption")==TRUE) %>% nrow(), "times."))
+icb_long_clean <- icb_long_clean %>% dplyr::mutate(value = stringr::str_replace(value, "premption", "preemption"))
+
+print(paste("change 'disaprove' to 'disapprove'", icb_long_clean %>% dplyr::filter(stringr::str_detect(value, "disaprove")==TRUE) %>% nrow(), "times."))
+icb_long_clean <- icb_long_clean %>% dplyr::mutate(value = stringr::str_replace(value, "disaprove", "disapprove"))
+
+print(paste("change 'uncoperative' to 'uncooperative'", icb_long_clean %>% dplyr::filter(stringr::str_detect(value, "uncoperative")==TRUE) %>% nrow(), "times."))
+icb_long_clean <- icb_long_clean %>% dplyr::mutate(value = stringr::str_replace(value, "uncoperative", "uncooperative"))
+
+print(paste("change 'capitol' to 'capital'", icb_long_clean %>% dplyr::filter(stringr::str_detect(value, "capitol")==TRUE) %>% nrow(), "times."))
+icb_long_clean <- icb_long_clean %>% dplyr::mutate(value = stringr::str_replace(value, "capitol", "capital"))
+
+print(paste("change 'survailance' to 'surveillance'", icb_long_clean %>% dplyr::filter(stringr::str_detect(value, "survailance")==TRUE) %>% nrow(), "times."))
+icb_long_clean <- icb_long_clean %>% dplyr::mutate(value = stringr::str_replace(value, "survailance", "surveillance"))
+
+```
+
+
+Create variable "preceding_event"
+Create a lead / lag that points to the previous event by group
+
+Create variable "previous_event_timing"
+```{r}
+alignment_key <- icb_wide_aligned_raw %>% 
+  dplyr::ungroup() %>% 
+  dplyr::select(email_id, crisno, sentence, raw_sentence_number_int, sentence_number_int_aligned, crisisno_crisis_version) %>% 
+  dplyr::mutate(crisno = as.numeric(crisno))
+```
+
+
+```{r}
+icb_long_preceding_event <- icb_long_clean %>% 
+  # get do_timing_reorder and do_timing variables
+  dplyr::filter(variable=="do_timing_reorder") %>% 
+  dplyr::mutate(value = as.numeric(stringr::str_remove(value, "sentence "))) %>% 
+  dplyr::rename(prior_sent_raw = value) %>% 
+  # merge in "crisisno_crisis_version""
+  dplyr::left_join(alignment_key %>% 
+                     dplyr::select(email_id, crisno, sentence, crisisno_crisis_version)) %>% 
+  dplyr::left_join(alignment_key %>% 
+                     dplyr::select(-sentence) %>%
+                     dplyr::rename(prior_sent_raw = raw_sentence_number_int, 
+                                   prior_sent_aligned = sentence_number_int_aligned) %>% 
+                     dplyr::mutate(prior_sent_raw = as.numeric(prior_sent_raw))) %>%
+  dplyr::rename(value = prior_sent_raw) %>% 
+  dplyr::mutate(value = as.character(value)) %>% 
+  dplyr::mutate(variable_normalized = "do_timing_reorder_clean") %>% 
+  dplyr::mutate(value_normalized = ifelse(value==1, "drop", prior_sent_aligned)) %>%
+  dplyr::select(-c(crisisno_crisis_version, prior_sent_aligned)) %>% 
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert5_397_080_1" & variable_normalized=="do_timing_reorder_clean", 60)) %>% 
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert5_403_064_1" & variable_normalized=="do_timing_reorder_clean", 60)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert5_403_099_1" & variable_normalized=="do_timing_reorder_clean", 53)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_115_006_1" & variable_normalized=="do_timing_reorder_clean", 4)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_115_006_2" & variable_normalized=="do_timing_reorder_clean", 4)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_119_031_1" & variable_normalized=="do_timing_reorder_clean", 22)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_123_010_1" & variable_normalized=="do_timing_reorder_clean", 8)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_123_011_1" & variable_normalized=="do_timing_reorder_clean", 8)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_149_017_1" & variable_normalized=="do_timing_reorder_clean", 11)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_149_018_1" & variable_normalized=="do_timing_reorder_clean", 12)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_152_029_1" & variable_normalized=="do_timing_reorder_clean", 22)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_152_029_2" & variable_normalized=="do_timing_reorder_clean", 22)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_152_031_1" & variable_normalized=="do_timing_reorder_clean", 22)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_342_013_2" & variable_normalized=="do_timing_reorder_clean", 9)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_186_018_1" & variable_normalized=="do_timing_reorder_clean", 15)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_233_009_1" & variable_normalized=="do_timing_reorder_clean", 3)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_240_009_1" & variable_normalized=="do_timing_reorder_clean", 14)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_241_015_1" & variable_normalized=="do_timing_reorder_clean", 13)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_252_020_1" & variable_normalized=="do_timing_reorder_clean", 7)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_256_026_1" & variable_normalized=="do_timing_reorder_clean", 16)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_264_025_1" & variable_normalized=="do_timing_reorder_clean", 16)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_264_026_1" & variable_normalized=="do_timing_reorder_clean", 16)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_299_020_1" & variable_normalized=="do_timing_reorder_clean", 18)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_330_015_1" & variable_normalized=="do_timing_reorder_clean", 8)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_330_015_2" & variable_normalized=="do_timing_reorder_clean", 8)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_348_042_1" & variable_normalized=="do_timing_reorder_clean", 25)) %>%
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="undergrada31ef865_410_025_1" & variable_normalized=="do_timing_reorder_clean", 24))
+
+```
+
+
+
+```{r}
+icb_long_think_event <- icb_long_clean %>% 
+  # get do_timing_reorder and do_timing variables
+  dplyr::filter(variable=="think_sentence_events") %>% 
+  dplyr::mutate(value = trimws(stringr::str_remove(value, "sentence "))) %>% 
+  # dplyr::mutate(value = if(value %in% c("act in this sentence", "speech in this sentence")), raw_sentence_number_int, value) %>%
+  dplyr::rename(think_sent_raw = value) %>% 
+  # merge in "crisisno_crisis_version""
+  dplyr::left_join(alignment_key %>% 
+                     dplyr::select(email_id, crisno, sentence, crisisno_crisis_version)) %>% 
+  dplyr::left_join(alignment_key %>% 
+                     dplyr::select(-sentence) %>%
+                     dplyr::rename(think_sent_raw = raw_sentence_number_int, 
+                                   think_sent_aligned = sentence_number_int_aligned) %>% 
+                     dplyr::mutate(think_sent_raw = trimws(as.character(think_sent_raw)))) %>%
+  # dplyr::filter(prior_sent_raw != 1) %>% # drop if prior_sentence==1 which seems to be GUI default
+  dplyr::rename(value = think_sent_raw) %>% 
+  dplyr::mutate(value = as.character(value)) %>% 
+  dplyr::mutate(variable_normalized = "think_sentence_events_clean") %>% 
+  dplyr::mutate(value_normalized = ifelse(value %in% c("act in this sentence", "speech in this sentence"), 
+                                          sentence_number_int_aligned, think_sent_aligned)) %>%
+  dplyr::mutate(value_normalized = as.character(value_normalized)) %>%
+  dplyr::select(-c(crisisno_crisis_version, think_sent_aligned)) %>% 
+  # clean up some NAs
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_392_017_1" & variable_normalized=="think_sentence_events", 16)) %>% 
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert3_007_007_1" & variable_normalized=="think_sentence_events", 7)) %>% 
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_173_012_1" & variable_normalized=="think_sentence_events", 11)) %>% 
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert4_203_004_1" & variable_normalized=="think_sentence_events", 3)) %>% 
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="expert2_253_012_1" & variable_normalized=="think_sentence_events", 9)) %>% 
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="undergrad32faf6f6_004_016_1" & variable_normalized=="think_sentence_events", 15)) %>% 
+  dplyr::mutate(value_normalized=replace(value_normalized, email_crisis_sent_event=="undergraddb11c211_092_008_1" & variable_normalized=="think_sentence_events", 6))
+```
+
+
+
+
+
+```{r}
+icb_long_clean  <- dplyr::bind_rows(
+  icb_long_clean %>% 
+    #dplyr::mutate(event_number_int = as.character(event_number_int)) %>% 
+    dplyr::filter(variable!="do_timing_reorder") %>% 
+    dplyr::filter(variable!="think_sentence_events"),
+  icb_long_preceding_event,
+  icb_long_think_event
+)
+
+rm(icb_long_preceding_event, icb_long_think_event)
+
+```
+
+
+```{r}
+icb_long_clean <- icb_long_clean %>% 
+      dplyr::mutate(variable_normalized = (ifelse(is.na(variable_normalized), variable, variable_normalized))) %>%
+      dplyr::mutate(value_normalized = (ifelse(is.na(value_normalized), value, value_normalized)))
+```
+
+Join in google sheet of tree simplification and drop variables that we replace
+
+```{r message=FALSE}
+
+full_tree <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/10tZGzjYgmvrbgQTV3oadVEV8m1LxLEDJEq9pzqq90Fc/edit?usp=sharing", sheet="Codebook in Tree Form")
+
+full_tree <- full_tree %>% dplyr::filter(!is.na(leaf) & leaf!='')
+
+#The leafs aren't unique here because you can get to the same branch multiple ways
+
+#This ignores conditions FYI
+#Behavior # 3 bits
+#think_aggression #1 bit
+#say_aggression #1 bit
+#do_aggression #1 bit
+#Do_Armed_Unarmed #1 bit
+#do_Act_Interact #1 bit
+#full_tree$leaf_Simplified %>% unique() %>% length() #66 bits
+
+#Only 70 bits total
+  
+#That's only another 29 bits
+
+full_tree$leaf_think_simplified %>% unique() %>% length() #6
+full_tree$leaf_say_simplified %>% unique() %>% length() #5
+full_tree$leaf_do_simplified %>% unique() %>% length() #18
+
+# full_tree$think_type_l0 %>% unique() %>% length() #6
+# full_tree$say_type_l0 %>% unique() %>% length() #5
+# full_tree$do_type_l0 %>% unique() %>% length() #18
+
+```
+
+
+```{r}
+
+drops <- c(
+'interact_escalate',
+'interact_deescalate',
+'act_uncooperative',
+'act_deescalate',
+'act_cooperative',
+'do_interact_kind',
+'do_kind',
+'interact_decreasecoop',
+'interact_increasecoop',
+'interact_deescalate',
+'act_escalate',
+'condition_interact_deescalate',
+'condition_interact_escalate',
+'condition_interact_increasecoop',
+'condition_interact_decreasecoop',
+'condition_act_cooperative',
+'condition_act_deescalate',
+'condition_act_escalate',
+'condition_act_uncooperative',
+'do_interact_kind',
+'interact_escalate',
+'sayintkind',
+'sayintkind_react',
+'interact_deescalate',
+'interact_decreasecoop',
+'act_escalate',
+'act_uncooperative',
+'act_deescalate',
+'act_cooperative',
+'act_descalate', 
+'act_escalate',
+'act_uncooperative',
+'interact_decreasecoop',
+'interact_descalate',
+'interact_deescalate', #there's a mispelling here
+'interact_escalate',
+'interact_increasecoop',
+'thinkkind',
+'sayintkind'
+) %>% unique()
+
+
+icb_long_clean2 <- icb_long_clean %>% 
+                            dplyr::distinct() %>%
+                            dplyr::mutate(variable_normalized= variable_normalized %>%
+                                            stringr::str_replace("_other_clean","")) %>% 
+  #We want to collapse others in with regulars
+                            dplyr::mutate(variable_normalized= variable_normalized %>% 
+                                            stringr::str_replace("_clean","")) %>% 
+  #These only exist with actors now
+                            dplyr::mutate(variable_normalized= variable_normalized %>% 
+                                            stringr::str_replace("_other","")) %>% 
+  #Only really matters for location_other
+            
+                            dplyr::filter(value_normalized!='drop') %>%
+                            dplyr::filter(email_id!='expert3') %>% #expert3 Looks broken all the time
+                            #I'm going to move to a structure where event numbers can have a subsection that is condition rather than keeping it in the variable names
+                            dplyr::mutate(event_number_int_condition=variable_normalized %>%
+                                            stringr::str_detect('condition_') %>% as.numeric() ) %>%
+                            dplyr::mutate(variable_normalized=variable_normalized %>%
+                                            stringr::str_replace('condition_',''))  
+
+
+temp_wide <- icb_long_clean2 %>%
+             dplyr::select(icb_survey_version, email_id,  crisno, sentence_number_int_aligned, section, sentence,event_number_int,  event_number_int_condition, variable_normalized, value_normalized) %>%
+             dplyr::mutate(value_normalized= value_normalized %>% trimws() %>% tolower()) %>%
+             dplyr::mutate(variable_normalized= variable_normalized %>% trimws() %>% tolower()) %>%
+             dplyr::filter(variable_normalized %in% (c( 'sentence_events', drops ) %>% trimws() %>% tolower()) ) %>%
+             dplyr::distinct() %>% 
+             dplyr::left_join(full_tree %>% 
+                       dplyr::rename(value_normalized=leaf)  %>% 
+                       dplyr::mutate(value_normalized= value_normalized %>% trimws() %>% tolower()) 
+                       ) 
+
+temp_long <- temp_wide %>% 
+         dplyr::select(-variable_normalized,-value_normalized) %>%
+         tidyr::pivot_longer(-c(icb_survey_version, email_id, crisno, sentence_number_int_aligned, section, sentence,   event_number_int,event_number_int_condition),
+                      names_to='variable_normalized' , values_to= 'value_normalized')  %>%
+         dplyr::filter(!is.na(value_normalized))
+
+icb_long_clean_final <- icb_long_clean2 %>%
+                   dplyr::select(icb_survey_version, email_id, crisno, sentence_number_int_aligned, section,  sentence,  event_number_int, event_number_int_condition, variable_normalized, value_normalized) %>%
+                  rbind(temp_long) %>% dplyr::distinct() %>% 
+                  dplyr::filter(!variable_normalized %in% drops)
+                  
+```
+
+Save icb_long_clean!
+```{r}
+saveRDS(icb_long_clean_final, paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds"))
+```
+
+
+# create wide file
+
+```{r}
+
+listtostring <- function(x){
+  x %>% unlist() %>% paste(., collapse="; ")
+}
+
+paste_rex <- function(x){ x %>% sort() %>% paste( sep=";", collapse=";")   } 
+icb_wide_clean <- icb_long_clean_final %>% 
+  #dplyr::select(-variable,-value) %>%
+  tidyr::pivot_wider(names_from=variable_normalized, values_from=value_normalized, values_fn=paste_rex)  %>%
+  
+  dplyr::filter(!(event_number_int==0 & sentence_events %in% c('1','2','3'))) #It does not appear that we ever need an e0 if number of events is greater than zero
+  #There's also a weird situation where they sometimes created events without tagging it as a think, do,say
+
+saveRDS(icb_wide_clean, paste0(here::here(), "/replication_data/temp/icb_wide_clean.Rds")) 
+
+```

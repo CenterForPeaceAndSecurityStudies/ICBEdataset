@@ -1,0 +1,416 @@
+---
+title: 'ICBEdataset_paper_prep_metro_map'
+site: bookdown::bookdown_site
+bibliography: ../ICBintro.bib
+output: 
+  rticles::arxiv_article:
+    keep_tex: true
+header-includes:
+  - \usepackage[utf8]{inputenc}
+  - \usepackage{pifont}
+  - \usepackage{newunicodechar}
+  - \newunicodechar{✓}{\ding{51}}
+  - \newunicodechar{✗}{\ding{55}}
+  - \usepackage{array}
+  - \usepackage{ctable} # added for demo
+  - \usepackage{natbib} #added for latex citation within huxtable
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{multirow}
+  - \usepackage{wrapfig}
+  - \usepackage{colortbl}
+  - \usepackage{pdflscape}
+  - \usepackage{tabu}
+  - \usepackage{threeparttable}
+  - \usepackage{threeparttablex}
+  - \usepackage[normalem]{ulem}
+  - \usepackage{makecell}
+  - \usepackage{titlesec}
+  - \usepackage[parfill]{parskip}
+  - \usepackage{makecell}
+  - \usepackage{graphicx}
+  - \usepackage{caption}
+  - \usepackage[capposition=top]{floatrow}
+  - \titleformat{\subsubsection}{\normalfont\normalsize\itshape}{\thesubsubsection}{1em}{}
+  - \titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{0ex plus .2ex}
+  - \DeclareUnicodeCharacter{00A0}{ }
+  - \usepackage{setspace}
+  - \usepackage{cellspace}
+  - \setlength\cellspacetoplimit{0.8ex}
+  - \renewcommand{\arraystretch}{0.8}
+  - \AtBeginEnvironment{tabular}{\singlespacing}
+  - \AtBeginEnvironment{lltable}{\singlespacing}
+  - \usepackage{float}
+---
+
+
+# Intro
+
+## Library Loads
+
+
+```{r}
+library(flextable)
+library(tidyverse)
+library(googlesheets4)
+library(janitor)
+library(ftExtra)
+library(igraph)
+
+set_flextable_defaults(fonts_ignore=TRUE) #Warning: fonts used in `flextable` are ignored because the `pdflatex` engine is used and not `xelatex` or `lualatex`. You can avoid this warning by using the `set_flextable_defaults(fonts_ignore=TRUE)` command or use a compatible engine by defining `latex_engine: xelatex` in the YAML header of the R Markdown document.
+options(tidyverse.quiet = TRUE)
+options(gargle_oauth_email = TRUE)
+
+
+icb_crises <- read.csv(paste0(here::here(), "/inst/extdata/","icb1v14.csv")) 
+#icb_crises <-readRDS(paste0(here::here(), "/data/icb1v14.Rds"))
+
+```
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+# MOVED TO figures/ICBEdataset_figure_semantic_embeddings.Rmd
+
+#child=c('ICBEdataset_paper_PlotInterCoderAgreement.Rmd')
+p_semantic_embeddings <- readRDS(file=paste0(here::here(), '/paper/figures/p_semantic_embeddings.Rds'))
+ggsave(file=paste0(here::here(), '//paper/figures/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=8, height=8)
+```
+
+#Case  196 Cuban Missile
+
+```{r}
+
+crisis=196
+plot_title <- icb_crises %>%
+            filter(crisno==crisis) %>%
+            #mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>%
+            mutate(title= crisname %>% paste0( " (", yrtrig, "-",yrterm,")")) %>%
+            pull(title)
+
+```
+
+## ICBe Crisis Map
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+#ICBe  196
+library(ggplot2)
+p_metro_map_196 <- readRDS(file=paste0(here::here(), '/paper/figures/metro_plots/p_metro_plot_196.Rds'))
+actor_colors <- p_metro_map_196$actor_colors
+ggsave(file=paste0(here::here(), '/paper/figures/p_metro_map_196.png'),
+       plot = p_metro_map_196 +
+         theme(plot.margin=unit(c(0,0,0,0),"in")) +
+         scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+         scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))),
+       width=12, height=14)
+
+```
+
+## Phoenix Crisis Map
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+#ICBe  196
+library(ggplot2)
+p_phoenix_metro_plot_196 <- readRDS(file=paste0(here::here(), '/paper/figures/metro_plots/p_phoenix_metro_plot_196.Rds'))
+actor_colors <- p_phoenix_metro_plot_196$actor_colors
+
+save_file=paste0(here::here(), '/paper/figures/metro_plots/p_phoenix_metro_plot_196.Rds')
+
+subtitle="Phoenix Dyadic Events"
+caption=paste0("Data: Cline Center Historical Phoenix Event Data (Althaus et al. 2017)
+             ", p_metro_plot$labels$caption) #tag original to bottom
+
+p_metro_plot <- readRDS(save_file) +
+           theme(plot.margin=unit(c(0,0,0,0),"in")) +
+  labs(
+    title = plot_title ,
+    subtitle = subtitle ,
+    caption = caption
+  ) +
+   theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+   scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))) 
+ggsave(file=paste0(here::here(), '/paper/figures/p_phoenix_metro_plot_196.png'),
+       plot = p_metro_plot ,
+       width=12, height=14)
+
+```
+
+## Dyadic ICB
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+
+library(ggplot2)
+save_file=paste0(here::here(), '/paper/figures/metro_plots/p_icb_metro_plot_196.Rds')
+p_metro_plot <- readRDS(save_file)
+actor_colors <- p_metro_plot$actor_colors
+subtitle="ICB Dyadic Events"
+caption=paste0("Data: Dyadic International Crisis Behavior (ICB) (Hewitt 2003)
+             ", p_metro_plot$labels$caption) #tag original to bottom
+
+p_metro_plot <- p_metro_plot +
+           theme(plot.margin=unit(c(0,0,0,0),"in")) +
+  labs(
+    title = plot_title ,
+    subtitle = subtitle ,
+    caption = caption
+  ) +
+   theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+   scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))) 
+ggsave(file=paste0(here::here(), '/paper/figures/p_icb_metro_plot_196.png'),
+       plot = p_metro_plot ,
+       width=12, height=14)
+
+```
+
+
+## MIDs
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+
+library(ggplot2)
+save_file=paste0(here::here(), '/paper/figures/metro_plots/p_mids_metro_plot_196.Rds')
+p_metro_plot <- readRDS(save_file)
+actor_colors <- p_metro_plot$actor_colors
+subtitle="Dyadic Militarized Interstate Disputes (MIDs)"
+caption=paste0("Source: CrisisEvents.org (Douglass et al. 2021)
+                Data: Dyadic Militarized Interstate Disputes (MIDs) (Maoz et al. 2019)
+             ", p_metro_plot$labels$caption) #tag original to bottom
+p_metro_plot <- p_metro_plot +
+           theme(plot.margin=unit(c(0,0,0,0),"in")) +
+  labs(
+    title = plot_title ,
+    subtitle = subtitle ,
+    caption = caption
+  ) +
+   theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+   scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))) 
+ggsave(file=paste0(here::here(), '/paper/figures/p_mids_metro_plot_196.png'),
+       plot = p_metro_plot ,
+       width=12, height=14)
+
+```
+
+
+# Crisis 426
+
+```{r}
+
+crisis=426
+plot_title <- icb_crises %>%
+            filter(crisno==crisis) %>%
+            #mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>%
+            mutate(title= crisname %>% paste0( " (", yrtrig, "-",yrterm,")")) %>%
+            pull(title)
+
+```
+
+
+## ICBe 
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+
+# #ICBe  426
+p_metro_map_426 <- readRDS(file=paste0(here::here(), '/paper/figures/metro_plots/p_metro_plot_426.Rds'))
+actor_colors <- p_metro_map_426$actor_colors
+ggsave(file=paste0(here::here(), '/paper/figures/p_metro_map_426.png'),
+      plot = p_metro_map_426 +
+        theme(plot.margin=unit(c(0,0,0,0),"in")) +
+        scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+        scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))),
+      width=12, height=14)
+
+devtools::install_github('davidgohel/ggiraph')
+
+```
+
+
+## Phoenix Crisis Map
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+#ICBe  426
+library(ggplot2)
+p_metro_plot <- readRDS(file=paste0(here::here(), '/paper/figures/metro_plots/p_phoenix_metro_plot_426.Rds'))
+actor_colors <- p_metro_plot$actor_colors
+
+save_file=paste0(here::here(), '/paper/figures/metro_plots/p_phoenix_metro_plot_426.Rds')
+subtitle="Phoenix Dyadic Events"
+caption=paste0("Data: Cline Center Historical Phoenix Event Data (Althaus et al. 2017)
+             ", p_metro_plot$labels$caption) #tag original to bottom
+
+p_metro_plot <- p_metro_plot +
+           theme(plot.margin=unit(c(0,0,0,0),"in")) +
+  labs(
+    title = plot_title ,
+    subtitle = subtitle ,
+    caption = caption
+  ) +
+   theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+   scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))) 
+ggsave(file=paste0(here::here(), '/paper/figures/p_phoenix_metro_plot_426.png'),
+       plot = p_metro_plot ,
+       width=12, height=14)
+
+```
+
+
+## ICEWs Crisis Map
+
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+
+library(ggplot2)
+save_file=paste0(here::here(), '/paper/figures/metro_plots/p_icews_metro_plot_426.Rds')
+p_metro_plot <- readRDS(file=save_file)
+actor_colors <- p_metro_plot$actor_colors
+
+subtitle="ICEWS Dyadic Events"
+caption=paste0("Source: CrisisEvents.org (Douglass et al. 2021)
+                Data: Integrated Crisis Early Warning System (ICEWS) (Boschee et al. 2018)
+             ", p_metro_plot$labels$caption) #tag original to bottom
+
+p_metro_plot <- p_metro_plot +
+           theme(plot.margin=unit(c(0,0,0,0),"in")) +
+  labs(
+    title = plot_title ,
+    subtitle = subtitle ,
+    caption = caption
+  ) +
+   theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+   scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))) 
+ggsave(file=paste0(here::here(), '/paper/figures/p_icews_metro_plot_426.png'),
+       plot = p_metro_plot ,
+       width=12, height=14)
+
+```
+
+
+
+## Terrier Crisis Map
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+
+library(ggplot2)
+save_file=paste0(here::here(), '/paper/figures/metro_plots/p_terrier_metro_plot_426.Rds')
+p_metro_plot <- readRDS(file=save_file)
+actor_colors <- p_metro_plot$actor_colors
+
+subtitle="Terrier Dyadic Events"
+caption=paste0("Source: CrisisEvents.org (Douglass et al. 2021)
+             Data: TERRIER (Temporally Extended, Regular, Reproducible International Event Records) (Liang et al. 2018)
+             ", p_metro_plot$labels$caption) #tag original to bottom
+
+p_metro_plot <- p_metro_plot +
+           theme(plot.margin=unit(c(0,0,0,0),"in")) +
+  labs(
+    title = plot_title ,
+    subtitle = subtitle ,
+    caption = caption
+  ) +
+   theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+   scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))) 
+ggsave(file=paste0(here::here(), '/paper/figures/p_terrier_metro_plot_426.png'),
+       plot = p_metro_plot ,
+       width=12, height=14)
+
+```
+
+
+
+
+
+## Dyadic ICB
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+
+library(ggplot2)
+save_file=paste0(here::here(), '/paper/figures/metro_plots/p_icb_metro_plot_426.Rds')
+p_metro_plot <- readRDS(save_file)
+actor_colors <- p_metro_plot$actor_colors
+subtitle="ICB Dyadic Events"
+caption=paste0("Data: Dyadic International Crisis Behavior (ICB) (Hewitt 2003)
+             ", p_metro_plot$labels$caption) #tag original to bottom
+
+p_metro_plot <- p_metro_plot +
+           theme(plot.margin=unit(c(0,0,0,0),"in")) +
+  labs(
+    title = plot_title ,
+    subtitle = subtitle ,
+    caption = caption
+  ) +
+   theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+   scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))) 
+ggsave(file=paste0(here::here(), '/paper/figures/p_icb_metro_plot_426.png'),
+       plot = p_metro_plot ,
+       width=12, height=14)
+
+```
+
+
+## MIDs
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+
+library(ggplot2)
+save_file=paste0(here::here(), '/paper/figures/metro_plots/p_mids_metro_plot_426.Rds')
+p_metro_plot <- readRDS(save_file)
+actor_colors <- p_metro_plot$actor_colors
+subtitle="Dyadic Militarized Interstate Disputes (MIDs)"
+caption=paste0("Source: CrisisEvents.org (Douglass et al. 2021)
+                Data: Dyadic Militarized Interstate Disputes (MIDs) (Maoz et al. 2019)
+             ", p_metro_plot$labels$caption) #tag original to bottom
+p_metro_plot <- p_metro_plot +
+           theme(plot.margin=unit(c(0,0,0,0),"in")) +
+  labs(
+    title = plot_title ,
+    subtitle = subtitle ,
+    caption = caption
+  ) +
+   theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+   scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))) 
+ggsave(file=paste0(here::here(), '/paper/figures/p_mids_metro_plot_426.png'),
+       plot = p_metro_plot ,
+       width=12, height=14)
+
+```
+
+
+
+
+## MIDs
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+
+library(ggplot2)
+save_file=paste0(here::here(), '/paper/figures/metro_plots/p_mids_incidents_metro_plot_426.Rds')
+p_metro_plot <- readRDS(save_file)
+actor_colors <- p_metro_plot$actor_colors
+
+subtitle="Militerized Interstate Dispute Incidents"
+caption=paste0("Source: CrisisEvents.org (Douglass et al. 2021)
+                Data: Militerized Interstate Dispute Incidents 5.0 (MIDs) (Palmer et al. 2021)
+             ", p_metro_plot$labels$caption) #tag original to bottom
+
+p_metro_plot <- p_metro_plot +
+           theme(plot.margin=unit(c(0,0,0,0),"in")) +
+  labs(
+    title = plot_title ,
+    subtitle = subtitle ,
+    caption = caption
+  ) +
+   theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+   scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))) 
+ggsave(file=paste0(here::here(), '/paper/figures/p_mids_incidents_metro_plot_426.png'),
+       plot = p_metro_plot ,
+       width=12, height=14)
+
+```
+
+

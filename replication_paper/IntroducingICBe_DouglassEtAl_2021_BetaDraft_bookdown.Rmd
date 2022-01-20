@@ -1,0 +1,814 @@
+---
+title: |
+  | DRAFT, NOT FOR DISTRIBUTION 
+  | Introducing the ICBe Dataset: Very High Recall and Precision Event Extraction from Narratives about International Crises
+author:
+  - Rex W. Douglass^[Department of Political Science, University of California, San Diego, CA, USA.]
+  - Thomas Leo Scherer^[Department of Political Science, University of California, San Diego, CA, USA.]
+  - J. Andrés Gannon^[Belfer Center for Science and International Affairs, Harvard Kennedy School, MA, USA.]
+  - Erik Gartzke^[Department of Political Science, University of California, San Diego, CA, USA.]
+  - Jon Lindsay^[School of Cybersecurity and Privacy | Sam Nunn School of International Affairs, Georgia Institute of Technology, GA, USA.]
+  - Shannon Carcelli^[Department of Government and Politics, University of Maryland, College Park, MD, USA.]
+  - Jonathan Wilkenfeld^[Department of Government and Politics, University of Maryland, College Park, MD, USA.]
+  - David M. Quinn^[Faculty Specialist, National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland, College Park, MD, USA.]
+  - Catherine Aiken^[Edmund A. Walsh School of Foreign Service, Georgetown University, Washington, DC, USA.]
+  - Jose Miguel Cabezas Navarro^[Society and Health Research Center, Universidad Mayor, Santiago, Chile.]
+  - Neil Lund^[Department of Government and Politics, University of Maryland, College Park, MD, USA.]
+  - Egle Murauskaite^[ICONS Project // START,  University of Maryland, College Park, MD, USA.]
+  - Diana Partridge^[Department of Government and Politics, University of Maryland, College Park, MD, USA.]
+
+date: "`r Sys.Date()`"
+abstract:  How do international crises unfold? We conceive of international affairs as a strategic chess game between adversaries, necessitating a systematic way to measure pieces, moves, and gambits accurately and consistently over different contexts and periods. We develop such a measurement strategy with an ontology of crisis actions and interactions and apply it to a high-quality corpus of crisis narratives recorded by the International Crisis Behavior (ICB) Project. We demonstrate that the ontology has high coverage over most of the thoughts, speech, and actions contained in these narratives and produces high inter-coder agreement when applied by human coders. We introduce a new crisis event dataset ICB Events (ICBe). We find that ICBe captures the process of a crisis with greater accuracy and granularity than other well-regarded events or crisis datasets. We make the data, replication material, and additional visualizations available at a companion website www.crisisevents.org.
+
+site: bookdown::bookdown_site
+keywords:
+  - International Crisis Behavior
+  - Event data
+bibliography: ICBintro.bib
+output: 
+  bookdown::pdf_document2:
+    toc: false
+    keep_tex: true
+header-includes:
+  - \usepackage[utf8]{inputenc}
+  - \usepackage{pifont}
+  - \usepackage{newunicodechar}
+  - \newunicodechar{✓}{\ding{51}}
+  - \newunicodechar{✗}{\ding{55}}
+  - \usepackage{array}
+  - \usepackage{ctable} # added for demo
+  - \usepackage{natbib} #added for latex citation within huxtable
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{multirow}
+  - \usepackage{wrapfig}
+  - \usepackage{colortbl}
+  - \usepackage{pdflscape}
+  - \usepackage{tabu}
+  - \usepackage{threeparttable}
+  - \usepackage{threeparttablex}
+  - \usepackage[normalem]{ulem}
+  - \usepackage{makecell}
+  - \usepackage{titlesec}
+#  - \usepackage[parfill]{parskip}
+  - \usepackage{makecell}
+  - \usepackage{graphicx}
+  - \usepackage{caption}
+  - \usepackage[capposition=top]{floatrow}
+  - \titleformat{\subsubsection}{\normalfont\normalsize\itshape}{\thesubsubsection}{1em}{}
+  - \titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{0ex plus .2ex}
+  - \DeclareUnicodeCharacter{00A0}{ }
+  - \usepackage{setspace}
+  - \usepackage{cellspace}
+  - \setlength\cellspacetoplimit{0.8ex}
+  - \renewcommand{\arraystretch}{0.8}
+  - \AtBeginEnvironment{tabular}{\singlespacing}
+  - \AtBeginEnvironment{lltable}{\singlespacing}
+  - \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
+  - \usepackage{subcaption}
+  - \usepackage{atbegshi}% http://ctan.org/pkg/atbegshi
+  - \usepackage{float}
+  - \usepackage{eso-pic,graphicx,transparent}
+  - \usepackage[perpage]{footmisc}
+
+---
+
+
+
+```{r, echo=F, cache=F, messages=F, results='hide', warnings=F, include=FALSE}
+#International Crisis Behavior Events (ICBe) Dataset
+knitr::opts_chunk$set(echo=F, cache=TRUE, messages=F, results='hide', warnings=F, include=FALSE) #fig.width = 8, fig.height = 8, message=F, warning=F, , results=F
+
+TLS = FALSE
+```
+
+```{r, eval=T, echo=F, cache=F}
+
+#library(pacman)
+library(googlesheets4)
+library(tidyverse)
+library(janitor)
+library(flextable)
+set_flextable_defaults(fonts_ignore=TRUE) #Warning: fonts used in `flextable` are ignored because the `pdflatex` engine is used and not `xelatex` or `lualatex`. You can avoid this warning by using the `set_flextable_defaults(fonts_ignore=TRUE)` command or use a compatible engine by defining `latex_engine: xelatex` in the YAML header of the R Markdown document.
+library(ftExtra)
+options(tidyverse.quiet = TRUE)
+options(gargle_oauth_email = TRUE)
+
+#install.packages('stargazer')
+#install.packages('kableExtra')
+#! sh: 1: pdflatex: not found
+#sudo apt-get install texlive-latex-recommended texlive-fonts-recommended
+
+#! LaTeX Error: File `letltxmacro.sty' not found.
+#sudo apt-get install texlive-latex-extra
+
+```
+
+
+```{r, echo=F}
+#Notes
+#https://tex.stackexchange.com/questions/83440/inputenc-error-unicode-char-u8-not-set-up-for-use-with-latex
+#- \DeclareUnicodeCharacter{00A0}{ }
+
+```
+
+
+
+```{r, include=FALSE}
+# options(tinytex.verbose = TRUE)
+```
+
+
+```{r, echo=FALSE}
+
+`%>%` <- magrittr::`%>%`
+
+```
+
+
+```{r, echo=FALSE}
+
+codings_wide_agreed <- readRDS(file=paste0(here::here(),'/replication_data/out/codings_wide_agreed.Rds'))
+codings_long_agreed <- readRDS( paste0(here::here(), '/replication_data/out/codings_long_agreed.Rds'))
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds"))
+icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_wide_clean.Rds"))
+
+#Load original icb data
+
+#oh is it because break is reserved in R? lol
+#icb_crises <- read_csv(file=paste0(here::here(), "/data_other_datasets/icb/icb1v14.csv")) %>% janitor::clean_names()
+icb_crises  <- read.csv(paste0(here::here(), "/replication_data/in/icb1v14.csv")) %>% janitor::clean_names()
+
+#somehow break of all things is a b roken name
+#icb_actors <- read_csv(file=paste0(here::here(), "/data_other_datasets/icb/icb2v14.csv"))
+icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
+
+
+```
+
+
+
+
+```{r include=F}
+#Load the ICB wide codings
+icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_wide_clean.Rds"))
+
+n_crisis <- icb_wide_clean %>% dplyr::select(crisno) %>% unique() %>% nrow()
+n_sentences <- icb_wide_clean %>% dplyr::select(crisno, sentence_number_int_aligned) %>% unique() %>% nrow()
+n_events <- icb_wide_clean %>% dplyr::filter(event_number_int %in% c(1,2,3)) %>% nrow()
+n_events_cuba <- icb_wide_clean %>% dplyr::filter(crisno == 196 & event_number_int %in% c(1,2,3)) %>% nrow()
+n_coders <- icb_wide_clean %>% dplyr::select(email_id) %>% unique() %>% nrow()
+
+avg_coders_per_crisis <- icb_wide_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_coder = paste(crisno, email_id)) %>% dplyr::select(crisno, email_id) %>% unique() %>% dplyr::count(crisno) %>% dplyr::select(n) %>% lapply(mean)
+
+avg_coders_per_sentence <- icb_wide_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_sent = paste(crisno, sentence_number_int_aligned)) %>% dplyr::select(cris_sent, email_id) %>% unique() %>% dplyr::count(cris_sent) %>% dplyr::select(n) %>% lapply(mean)
+
+avg_events_per_coder_crisis <- icb_wide_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_coder = paste(crisno, email_id)) %>% dplyr::count(cris_coder) %>% dplyr::select(n) %>% lapply(mean)
+
+events_per_sentence <- icb_wide_clean %>%
+  filter(!is.na(sentence_number_int_aligned)) %>%
+  dplyr::select(email_id, crisno,sentence_number_int_aligned,  event_type) %>%  #event_number_int
+  group_by(email_id,crisno,sentence_number_int_aligned) %>%
+  summarise(event_count = sum(!is.na(event_type) ) ) %>%
+  mutate_all(as.numeric) %>%
+  group_by(crisno,sentence_number_int_aligned) %>%
+  summarise(
+    event_count_min=event_count %>% min(),
+    event_count_mean=event_count %>% mean(na.rm=T),
+    event_count_max=event_count %>% max()
+  ) %>%
+  arrange(crisno,sentence_number_int_aligned)
+
+events_per_crisis <- events_per_sentence %>% group_by(crisno) %>% summarise(event_count_mean_sum=sum(event_count_mean))
+
+crisis_text_counts <- icb_wide_clean %>%
+  #mutate( input_crisis = input_crisis %>% str_replace_all("[^A-Za-z0-9 ]","") ) %>% #Throws a latex error  #inputenc Error: Unicode char \u8: not set up for use with LaTeX
+  #https://www.google.com/search?q=R+replace+00A0&oq=R+replace+00A0&aqs=chrome..69i57j0i20i263i512j0i512l2j69i65j69i60l3.1744j0j7&sourceid=chrome&ie=UTF-8
+  dplyr::select(crisno, sentence) %>%
+  #mutate(input_crisis = input_crisis %>% stringr::str_to_title()) %>%
+  #mutate(input_crisis = input_crisis %>% stringr::str_replace_all('[0-9]$','')) %>%
+  mutate(sentence = sentence %>% stringr::str_to_lower()) %>%
+  distinct() %>%
+  #filter(!is.na(input_crisis)) %>%
+  filter(!is.na(sentence)) %>%
+  mutate(word_count=str_count(sentence, '\\w+')) %>%
+  group_by(crisno) %>%
+  summarise(
+    sentence_count=n(),
+    word_count=sum(word_count)
+  )
+
+
+#Even type
+
+library(sjmisc)
+event_type_per_sentence <- icb_wide_clean %>%
+  filter(!is.na(sentence_number_int_aligned)) %>%
+  dplyr::select(email_id, crisno,sentence_number_int_aligned,  event_type)  %>%
+  to_dummy(event_type, suffix = "label") %>%
+  bind_cols( icb_wide_clean %>%
+               filter(!is.na(sentence_number_int_aligned)) %>%
+               dplyr::select(email_id, crisno,sentence_number_int_aligned,  event_type) ) %>%
+
+  group_by(email_id,crisno,sentence_number_int_aligned) %>%
+  summarise_if( is.numeric, sum ) %>%
+
+  group_by(crisno,sentence_number_int_aligned) %>%
+  summarise_if( is.numeric, mean, na.rm=T ) %>%
+  arrange(crisno,sentence_number_int_aligned)
+
+event_type_per_sentence_totals <- event_type_per_sentence %>% ungroup() %>% summarise_if( is.numeric, sum, na.rm=T ) %>% dplyr::select(-crisno)
+event_type_per_sentence_totals_perc <- event_type_per_sentence_totals/sum(event_type_per_sentence_totals)
+
+```
+
+
+
+```{r , message=F}
+
+icb_text <- icb_wide_clean %>% dplyr::select(crisno,sentence_number_int_aligned, sentence) %>% distinct() %>% dplyr::mutate_at(vars(sentence_number_int_aligned), as.numeric) %>% arrange(crisno,sentence_number_int_aligned)
+
+# writeLines(icb_text$sentence %>% na.omit() %>% iconv("UTF-8", "ASCII", "?"), paste0(here::here(), "/replication_data/temp/sentences.txt"), useBytes = T)
+
+fromscratch=F
+if(fromscratch){
+
+  library("spacyr")
+  #spacy_install()
+  spacy_initialize(model = "en_core_web_sm")
+
+  parsed <- spacy_parse(icb_text$sentence, nounphrase = TRUE)
+  parsed_consolidated <- nounphrase_consolidate(parsed)
+  parsed$doc_id_num <- parsed$doc_id %>% str_replace_all("text","") %>% as.numeric()
+  parsed$crisno <- icb_text$crisno[parsed$doc_id_num]
+  parsed$sentence_number_int_aligned <- icb_text$sentence_number_int_aligned[parsed$doc_id_num]  %>% as.numeric()
+  parsed$sentence <- icb_text$sentence[parsed$doc_id_num]
+
+  parsed %>% saveRDS(paste0(here::here(), "/replication_data/temp/parsed.Rds"))
+
+  entities <- entity_extract(parsed, type = "all")
+  entities %>% saveRDS(paste0(here::here(), "/replication_data/temp/entities.Rds"))
+
+} else {
+  parsed <- readRDS(paste0(here::here(), "/replication_data/temp/parsed.Rds"))
+  entities <- readRDS(paste0(here::here(), "/replication_data/temp/entities.Rds"))
+
+}
+
+entities$doc_id_num <- entities$doc_id %>% str_replace_all("text","") %>% as.numeric()
+entities$crisno <- icb_text$crisno[entities$doc_id_num]
+entities_unique <- entities %>% dplyr::select(entity,entity_type) %>% mutate(entity = entity %>% str_to_lower() %>% str_replace_all("[^A-Za-z0-9]","") ) %>% distinct()
+
+target_file <- paste0(here::here(),"/replication_data/in/icb_manual_recoding_master_sheet.xlsx")
+
+if(!TLS){
+downloaded_file <- googledrive::drive_download(file="https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit#gid=0", path=target_file, type = "xlsx", overwrite=T)
+}
+dictionary_actors    <- readxl::read_excel(target_file, sheet="actors")
+actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator")
+
+
+unique_agent_q_codes <- dictionary_actors$value_disaggregated_wikidata_id %>% na.omit() %>% unique() %>% str_split(";") %>% unlist() %>% trimws() %>% unique()
+unique_actor_q_codes <- dictionary_actors$value_normalized_wikidata_id %>% na.omit() %>% unique() %>% str_split(";") %>% unlist() %>% trimws() %>% unique()
+
+verbs_sentence <- parsed %>% filter(pos=="VERB")
+
+verbs <- parsed %>% filter(pos=="VERB") %>% dplyr::select(lemma, pos) %>% distinct()
+
+entities_per_sentence <- entities %>%
+  count(doc_id) %>%
+  summarise(
+    entities_per_sentence_min=min(n),
+    entities_per_sentence_mean=mean(n),
+    entities_per_sentence_max=max(n),
+  )
+
+```
+
+```{r, messages=F, results='hide', warnings=F, include=FALSE}
+
+#wordnet rdf (in tripple format)
+fromscratch=F
+
+ym   4
+wordnet_rdf <- readRDS(paste0(here::here(), "/replication_data/in/wordnet_rdf.Rds") )
+
+
+subject_headings <- wordnet_rdf %>% as_tibble() %>% filter(value %>% str_detect('http://purl.org/dc/terms/subject'))
+subject_headings_verbs <- subject_headings %>%
+  filter(value %>% str_detect('-v>')) %>%
+  mutate(value=value %>% str_replace("<http://wordnet-rdf.princeton.edu/id/","2")) %>%
+  mutate(value=value %>% str_replace("-v> <http://purl.org/dc/terms/subject> ","\t")) %>%
+  separate(value, c("a", "b"), extra = "drop", fill = "right", sep="\t") %>%
+  mutate(b = b %>% str_replace_all('\\"| \\.',""))
+
+#wordnet csv
+filenames <- list.files(path=paste0(here::here(), "/data_replication/in/wncsv-master/csv/") )
+filepaths <- list.files(path=paste0(here::here(), "/data_replication/in/wncsv-master/csv/"), full.names = T)
+
+
+wordnet_list <- lapply(filepaths, read_csv, col_names=F, progress=F #, show_col_types=F)
+)
+names(wordnet_list) <- filenames
+
+hypernyms <- wordnet_list[['wn_hyp.csv']] %>%
+  dplyr::select(a=X1,b=X2) %>%
+  left_join(wordnet_list[["wn_s.csv"]] %>% dplyr::select(a=X1, a_lemma=X3) ) %>%
+  left_join(wordnet_list[["wn_s.csv"]] %>% dplyr::select(b=X1, b_lemma=X3) )
+
+library(igraph)
+g_hypernyms <-  graph_from_data_frame(hypernyms, directed = TRUE)
+
+
+wordnet <- wordnet_list[["wn_s.csv"]] %>% dplyr::select(wordnetid=X1, lemma=X3, tense=X4) %>% full_join( wordnet_list[['wn_g.csv']] %>% dplyr::select(wordnetid=X1, gloss=X2) )
+
+wordnet_verbs <- wordnet %>% filter(tense=='v')
+
+verbs_sentence_wordnet <- verbs_sentence %>% left_join(wordnet_verbs)
+#dim(verbs_sentence_wordnet) #227,426
+
+#I think we use sbert to embed the original sentence and the gloss and then calculate pairwise distances
+
+```
+
+
+```{r, echo=F, messages=F, warnings=F, results='hide', eval=T}
+
+fromsrcatch=F
+if(fromsrcatch){
+  #py$sentences
+  #py$glosses
+  sentences_embeddings <- py$sentences_embeddings
+  glosses_embeddings <- py$glosses_embeddings
+
+  rownames(sentences_embeddings) <- py$sentences #[1:100]
+  rownames(glosses_embeddings) <- py$glosses #[1:100]
+  dim(glosses_embeddings)
+
+  condition_glosses_embeddings <- verbs_sentence_wordnet$gloss %in% rownames(glosses_embeddings)
+  table(condition_glosses_embeddings) #there are 130 glosses that aren't in there
+  gloss_clean <- verbs_sentence_wordnet$gloss
+  gloss_clean[!condition_glosses_embeddings] <- rownames(glosses_embeddings)[1] #just a placeholder need to kill after
+  glosses_embeddings_expanded <- glosses_embeddings[gloss_clean ,]
+  dim(glosses_embeddings_expanded)
+
+  condition_sentences_embeddings <- verbs_sentence_wordnet$sentence %in% rownames(sentences_embeddings)
+  table(condition_sentences_embeddings) #all are in it
+  sentences_clean <- verbs_sentence_wordnet$sentence
+  sentences_clean[!condition_sentences_embeddings] <- rownames(sentences_embeddings)[1] #just a placeholder need to kill after
+  sentences_embeddings_expanded <- sentences_embeddings[sentences_clean ,]
+  dim(sentences_embeddings_expanded)
+
+  #Isn't it just one minus the other?
+  verbs_sentence_wordnet$distances <- rowSums((glosses_embeddings_expanded-sentences_embeddings_expanded)^2)
+  verbs_sentence_wordnet <- verbs_sentence_wordnet %>% arrange(crisno, sentence_number_int_aligned, token_id, distances)
+  verbs_sentence_wordnet %>% saveRDS(paste0(here::here(), "/data_replication/temp/verbs_sentence_wordnet.Rds"))
+
+} else {
+
+  verbs_sentence_wordnet <- readRDS(paste0(here::here(),"/data_replication/temp/verbs_sentence_wordnet.Rds"))
+
+}
+
+verbs_sentence_wordnet_top <- verbs_sentence_wordnet %>% group_by(crisno, sentence_number_int_aligned, token_id) %>% filter(row_number()==1)
+verbs_sentence_wordnet_top_unique <- verbs_sentence_wordnet_top %>% ungroup() %>% dplyr::select(lemma, wordnetid,tense, gloss) %>% group_by(lemma, wordnetid,tense, gloss) %>% count() %>% arrange(desc(n))
+
+```
+
+\AddToShipoutPictureFG{
+  \AtPageCenter{% or \AtTextCenter
+    \makebox[0pt]{\rotatebox[origin=c]{45}{%
+      \scalebox{5}{\texttransparent{0.1}{Unrefereed Preprint}}%
+    }}
+  }
+}
+
+# Introduction
+
+If we record every event between countries in all of diplomacy, military conflict, and international political economy, how much information would this chronicle amount to, and how surprised would we be to see something new? In other words, what is the entropy of international relations? This record could, in principle, be unbounded. Still, the central conceit of political science is that there are structural regularities that limit what actors can do, their best options, and even which actors are likely to survive [@brecherInternationalStudiesTwentieth1999; @reiterShouldWeLeave2015]. If so, then these events can be systematically measured. Massive effort is expended in social science recording these regularities.^[See work on crises [@brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020], militarized disputes [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018; @maozDyadicMilitarizedInterstate2019], wars [@sarkeesResortWar181620072010; @reiterRevisedLookInterstate2016], organized violence [@ralphsundbergUCDPGEDCodebook2016; @petterssonOrganizedViolence19892018], political violence [@raleighIntroducingACLEDArmed2010], sanctions [@felbermayrGlobalSanctionsData2020], trade [@barariDemocracyTradePolicy], and international agreements [@kinneDefenseCooperationAgreement2020; @owsiakInternationalBorderAgreements2018; @vabulasCooperationAutonomyBuilding2021], dispute resolution [@vabulasCooperationAutonomyBuilding2021; @frederickIssueCorrelatesWar2017], and diplomacy [@moyerWhatAreDrivers2020; @sechserMilitarizedCompellentThreats2011].] With improvements in natural language processing, more open-ended efforts have sought to capture entire unstructured streams of international events drawn from news reports.^[See @liComprehensiveSurveySchemabased2021; @haltermanExtractingPoliticalEvents2020; @brandtPhoenixRealTimeEvent2018; @boscheeICEWSCodedEvent2015; @hegreIntroducingUCDPCandidate2020; @grantOUEventData2017] How close these efforts are to accurately measuring all or even most of what is essential in international relations is an open empirical question, one for which we provide new evidence here.
+
+Our contribution is a high coverage ontology and event dataset for key historical episodes in 20th and 21st-century international relations (IR). We develop a large, flexible ontology of international events with the help of both human coders and natural language processing. We apply it sentence-by-sentence to an unusually high-quality corpus of historical narratives of international crises [@brecherInternationalStudiesTwentieth1999;@brecherCrisisEscalationWar2000;@wilkenfeldInterstateCrisesViolence2000;@jamesWhatWeKnow2019;@iakhnisCrisesWorldPolitics2019]. The result is a new lower bound estimate of how much actually happens between states during pivotal historical episodes. We then develop several methods for objectively gauging how well these event codings reconstruct the information contained in the original narrative. We conclude by benchmarking our event codings against several current state-of-the-art event data collection efforts. As should come as no surprise to anyone who works with event data, we find that existing systems produce sequences of events that do not contain enough information to reconstruct the underlying historical episode. The underlying fine-grained variation in international affairs that we care about is unrecognizable through the lens of current quantification efforts.
+
+This is a measurement paper and therefore makes the following argument --- there is a real-world unobserved latent concept known as international relations, we propose a method for systematically measuring it, we successfully apply this method producing a new large scale set of measurements, those measurements exhibit several desirable kinds of internal and external validity, and those measurements out-perform other existing approaches. The article organizes that argument into eight sections. Section 2 defines the task of event extraction and proposes evaluation criteria for objectively gauging the performance of that task. Section 3 is a literature review that synthesizes a reasonable prior belief behind the existence of the unobserved latent concept we intend to measure and highlights existing current approaches for measuring them. Section 4 details our proposed method for measuring events, including the ICB Events (ICBe) dataset's ontology, coding procedures, and methodology. Section 5 demonstrates the internal validity of our coding exercise, the high agreement between coders and their self-reported confidence in codings, and external validity in the form of high coherence in side-by-side comparisons of source sentences and resulting codings. Section 6 evaluates internal validity by showing that like-codings cluster when their source sentences are mapped into semantic space. Section 7 offers a comparison against existing systems with case studies at the crisis level where we show both much higher recall of events that occurred and precision in what those events were and how they fit into the overall macro-level event. A final section concludes.
+
+<!--Section 7 moves from qualitative comparison to an objective criteria with multiple choice reading comprehension questions about each crisis drawn from the original ICB project, where we show LSTMs trained on ICBe sequences can answer substantive macro level questions but not when trained on existing event project codings. -->
+
+# Task Definition and Ground Truth
+
+We consider the task of high-coverage information extraction from a historical episode between two or more states (e.g., the Cuban Missile Crisis). A historical episode is demarcated by a period of time $[T_{start}, T_{end}] \in T$ and a set of players $p \in P$. We posit that an episode can be divided into unique discrete events, $e \in E$, each consisting of a time period, one or more players, and a single behavior $e \equiv \{T_e, P_e, B_e\}$. The task is to produce sequences of parsimonious events that still reconstruct the important details of the original macro narrative.
+
+We take as ground truth an unusually high-quality corpus of historical narratives and quantitative codings from the International Crisis Behavior (ICB) project [@brecherInternationalCrisisBehavior2017; @brecher_study_1997]. Their domain is 20th and 21st-century crises, defined as a change in the type or an increase in the intensity of disruptive interaction with a heightened probability of military hostilities that destabilizes states' relationships or challenges the structure of the international system [@brecherCrisesWorldPolitics1982].^[On near crises see @iakhnisCrisesWorldPolitics2019.] Crises are a significant focus of detailed single case studies or case comparisons because they provide an opportunity to examine behaviors in IR short of, or at least prior to, full conflict  [@holsti1914Case1965; @paigeKoreanDecisionJune1968; @allisonEssenceDecisionExplaining1971; @snyderConflictNationsBargaining1977; @gavinHistorySecurityStudies2014; @georgeDeterrenceAmericanForeign1974; @brecherCrisesWorldPolitics1982; @gaddisExpandingDataBase1987; @brecherPatternsCrisisManagement1988]. The corpus is unique in IR because it is designed to be used in downstream quantitative coding projects. Each narrative was written by consensus by a small number of scholars, using a uniform coding scheme, with similar specificity [@hewittEngagingInternationalData2001]. Case selection was exhaustive based on a survey of world news archives and region experts, cross-checked against other databases of war and conflict, and non-English sources [@kangUSBiasStudy2019; @brecherInternationalCrisisBehavior2017 p. 59]. Each of the `r n_crisis %>% scales::comma()` crises $c \in C$ are listed with summary information in Appendix \ref{app:crises}.
+
+# Prior Beliefs and Existing State of the Art
+
+Successful measurement requires the existence of an unobserved latent state among all possible states, $\omega \in \Omega$ and a systematic data generating process (DGP) that converts that state into observables that enter the historical record, $X=f(\omega)$. We organize our prior beliefs about possible states, $\Omega$, and the DGP, $f()$, along two overarching axes, summarized in detail by Table \ref{tbl:litreview}. The first axes (rows) represents the types of information we expect to find in IR and forms the basis for our proposed ontology. We employ a metaphor of international affairs as a chess game, with players (polities, rebel groups, IGOs, etc.), pieces (military platforms, civilians, domains), and behaviors (think, say, do). Precise sequencing is required to capture gambits (sequences of moves) and outcomes (victory, defeat, peace, etc.), while precise geo-coding is required to understand the chessboard (medium of conflict). The resulting codebook for events includes 117 different verbs and is available in full in the online material.^[See the Github Repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).]
+
+The second axis (columns) represents sources of evidence for our concept priors and the existing state of the art. The first column ('Literature') maps each type of information to recent studies documenting its importance to IR. The second column ('ICB Corpus') documents the presence of that information in the ICB Corpus as identified by an expert review and natural language processing (Appendix \ref{app:verbs}). The third set of columns compare the ontologies of event-level datasets beginning with our contribution ICBe, then Cameo dictionary lookup based systems (Real-Time Phoenix [@brandtPhoenixRealTimeEvent2018]; Historical Phoenix [@althausClineCenterHistorical2019]; ICEWS [@boscheeICEWSCodedEvent2015; @hegreIntroducingUCDPCandidate2020]; Terrier [@grantOUEventData2017]), the Militarized Interstate Disputes Incidents dataset, and the UCDP-GED dataset [@ralphsundbergUCDPGEDCodebook2016; @petterssonOrganizedViolence19892018; @sundbergIntroducingUCDPGeoreferenced2013]. Finally, the fourth set of columns compares episode-level datasets beginning with the original ICB project [@brecherInternationalCrisisBehavior; @brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020]; the Militarized Interstate Disputes dataset [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018;@braithwaiteMIDLOCIntroducingMilitarized2010;@braithwaiteCodebookMilitarizedInterstate2009], and the Correlates of War [@sarkeesResortWar181620072010].
+
+
+```{r, eval=T, echo=F, results='asis', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75}
+
+#Lit review
+#child=c('ICBEdataset_paper_litreviewtable.Rmd')
+flextable::set_flextable_defaults(fonts_ignore=TRUE)
+library(flextable)
+library(ftExtra)
+litreview_ft  <- readRDS(file=paste0(here::here(), '/replication_paper/tables/litreview_ft.Rds'))
+
+if(!TLS){
+  litreview_ft <- litreview_ft %>% ftExtra::colformat_md(j = 4, part="body")
+}
+
+litreview_ft %>%
+  flextable::set_caption("Prior Beliefs, State of the Art, and Existing Data \\label{tbl:litreview}")  %>% 
+  flextable_to_rmd()
+```
+
+# ICBe Coding and Aggregation Process
+
+Each crisis was assigned to at least two expert coders, 3 to 5 novice coders, with a third tie-breaking expert coder assigned to sentences with high disagreement. Expert coders were graduate students or postgraduates who collaboratively developed the ontology and documentation for the codebook, while novice coders were undergraduate students who engaged in classroom workshops. Each coder was instructed to thoroughly read and familiarize themselves with the full text. Once a coder felt that they understood the crisis, the coder was presented with a novel graphic user interface (GUI) that steps the coder through the narrative sentence by sentence (Figure \ref{fig:coding_gui}).
+
+\begin{figure}[H]
+\caption{Graphical User Interface (GUI) for coding ICBe\label{fig:coding_gui}}
+\centering{\includegraphics[width=17cm]{figures/gui_example}}
+\end{figure}
+
+The GUI and the ontology follow a hierarchical design philosophy where a smaller number of significant decisions are made early on and then progressively refined into more specific details [@brustIntegratingDomainKnowledge2020]. Proceeding in order, coders chose the number of events (0-3), the highest behavior (thought, speech, or activity), a set of players ($P$), whether the means were primarily armed or unarmed, whether there was an increase or decrease in aggression (uncooperative/escalating or cooperative/de-escalating), and finally one or more non-mutually exclusive specific activities. Identifying armed means triggered questions regarding force size, fatalities, domains, units, etc. Location and timing information is always collected, each calling for specific answers when possible and general approximations. Together, this process quickly focuses the coder on a smaller number of relevant options while also allowing them to apply multiple tags if the sentence explicitly includes more than one or there is insufficient evidence to choose only one tag. The guided coding process also allows for the possibility that earlier coarse decisions have less error than later fine-grained decisions.
+
+A novel feature of the ontology is that thought, speech, and do behaviors can be nested into combinations so that any unique combination is reachable if warranted by the event. For example, a speech could be about a threat to perform a do unless another do is performed, and each can be specified in full detail. Likewise, a thought can be about a fully defined speech or do. For example, in the Cuban Missile Crisis, the United States became aware that the Soviet Union performed an interaction of placing missile sites in Cuba. Through compounding, we can capture what players were said to have known, learned, or felt about specific fully described behaviors.
+
+```{r include=FALSE}
+icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_wide_clean.Rds"))
+n_crisis <- icb_wide_clean %>% dplyr::select(crisno) %>% unique() %>% nrow()
+n_sentences <- icb_wide_clean %>% dplyr::select(crisno, sentence_number_int_aligned) %>% unique() %>% nrow()
+n_events <- icb_wide_clean %>% dplyr::filter(event_number_int %in% c(1,2,3)) %>% nrow()
+n_events_cuba <- icb_wide_clean %>% dplyr::filter(crisno == 196 & event_number_int %in% c(1,2,3)) %>% nrow()
+n_coders <- icb_wide_clean %>% dplyr::select(email_id) %>% unique() %>% nrow()
+
+avg_coders_per_crisis <- icb_wide_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_coder = paste(crisno, email_id)) %>% dplyr::select(crisno, email_id) %>% unique() %>% dplyr::count(crisno) %>% dplyr::select(n) %>% lapply(mean)
+
+avg_coders_per_sentence <- icb_wide_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_sent = paste(crisno, sentence_number_int_aligned)) %>% dplyr::select(cris_sent, email_id) %>% unique() %>% dplyr::count(cris_sent) %>% dplyr::select(n) %>% lapply(mean)
+
+avg_events_per_coder_crisis <- icb_wide_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_coder = paste(crisno, email_id)) %>% dplyr::count(cris_coder) %>% dplyr::select(n) %>% lapply(mean)
+```
+
+
+# Internal Measurement Validity -- Intercoder Agreement and Aggregating Disagreements
+
+```{r, eval=T}
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds"))
+
+codings_long_agreement <- readRDS(file=paste0(here::here(),  '/replication_data/temp/codings_long_agreement.Rds'))
+
+means1 <- codings_long_agreement %>%
+  filter(value_normalized!='') %>%
+  filter(total_coders>1) %>% #about 9k only had one coder
+  #filter(selected_by_experts>=1) %>%
+  dplyr::select(All=selected_by_any_perc,Experts=selected_by_experts_perc,Undergraduates=selected_by_undergrads_perc) %>% summarise_all(mean, na.rm=T)
+means1_keep <- codings_long_agreement %>%
+  filter(value_normalized!='') %>%
+  filter(total_coders>1) %>% #about 9k only had one coder
+  #filter(selected_by_experts>=1) %>%
+  filter(keep==1) %>% dplyr::select(Accepted=selected_by_any_perc) %>% summarise_all(mean, na.rm=T)
+meansall <- bind_rows(means1,means1_keep) %>% mutate(x=1) %>% pivot_longer(cols=c(-x)) %>% na.omit()
+
+```
+
+One form of internal validity for these codings is high agreement between coders when applying the ontology. We employ three ways to evaluate and maximize agreement: (1) multiple expert and novice coders per sentence (often including a tie-breaking expert coder where there were disagreements), (2) a theoretically motivated scheme for aggregating across disagreements, and (3) survey questions on self-reported confidence and reasons for low confidence. The unit of analysis for these comparisons is the individually applied tag; every answer to every question in the ontology is a separate tag applied to that sentence (e.g., an actor, a behavior, a date, etc.). There were `r icb_long_clean %>% pull(email_id) %>% unique() %>% length()` coders (including `r icb_long_clean %>% filter(email_id %>% str_detect("expert")) %>% pull(email_id) %>% unique() %>% length()` expert coders) who recorded `r icb_long_clean %>% nrow() %>% scales::comma()` coder-tags across the entire corpus. Of those, there were `r codings_long_agreement %>% filter(value_normalized!='') %>% nrow() %>% scales::comma()` unique sentence-tags applied by at least one coder. We ask how much support those possible tags received across coders, and how we should adjudicate disagreements when a tag was not chosen by every coder.
+
+We evaluate agreement as the percentage of coders who voted for a tag proposed by any coder (Figure \ref{fig:intercoderagreement}). The average agreement across all coders is `r means1$All %>% round(2) %>% scales::percent()` (`r means1$Experts %>% round(2) %>% scales::percent()` across experts and `r means1$Undergraduates %>% round(2) %>% scales::percent()` across undergraduates). A post-aggregation algorithm described below raises mean agreement considerably to `r means1_keep$Accepted %>% round(2) %>% scales::percent()`. Further, there is expected heterogeneity in agreement with higher agreement for coarse, high-level decisions near the root of the ontology than for fine-grained, high-dimensional concepts further down the tree.
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+# #child=c('ICBEdataset_paper_PlotInterCoderAgreement.Rmd')
+# 
+# 
+# # moved to ICBEdataset_paper_PlotInterCoderAgreement
+# p_percent_chose_tag_by_concept <- readRDS(file=paste0(here::here(), '/paper/figures/p_percent_chose_tag_by_concept.Rds'))
+# 
+# ggplot2::ggsave(file=paste0(here::here(), '/paper/figures/p_percent_chose_tag_by_concept.png'), 
+#                 plot = p_percent_chose_tag_by_concept, width=8, height=6)
+# 
+# # created in ICBEdataset_paper_PlotInterCoderAgreement.Rmd. Has \\label{fig:intercoderagreement}. 
+```
+
+<!-- moved to paper/figure/ICBEdataset_paper_PlotInterCoderAgreement -->
+
+\begin{figure}[H]
+\caption{Intercoder Agreement by Concept/Type \label{fig:intercoderagreement}}
+\centering{\includegraphics[width=15cm]{figures/p_percent_chose_tag_by_concept.png}}
+\end{figure}
+
+To understand when and why coders disagree, we required self-reported confidence scores and reasons for low confidence. Overall, expert coders self-reported a high level of confidence in their own codings, reporting low confidence only about 20% of the time. When coders reported low confidence, they cited a mismatch between the ontology and the text about half of the time ("survey doesn't fit event" 45%) and noted a lack of information or confused writing in the source text the other half ("more knowledge needed" 40%, "confusing sentence" 6%). In addition, we observed that individual coders exhibit nontrivial coding styles. Some coders are more expressive and apply multiple tags per concept, while others focus on only the single best match and differ in how many events to code. We also observed unintended synonymity (e.g., the same information can be framed as a threat to do something or a promise not to do something if a condition is met).
+
+This data-generating process suggests a theoretically motivated algorithm for aggregating over disagreements (Algorithm 1). We filter tokens to only those with (1) at least one expert coder vote and (2) a majority of expert votes or a majority of novice votes. If neither majority exists, we accept the one token with the most votes. This leaves `r codings_long_agreement %>% filter(value_normalized!='' & keep==T) %>% nrow() %>% scales::comma()` (`r (codings_long_agreement %>% filter(value_normalized!='' & keep==T) %>% nrow() / codings_long_agreement %>% filter(value_normalized!='') %>% nrow()) %>% round(2) %>% scales::percent()`) accepted tokens. In practice, this screens noisy tags that no expert considered possible but leverages novice knowledge to tie-break between equally plausible tags chosen by experts. A final step handles possible disagreement over the number of events or participants in the events. An event is emitted for each unique set of actors along with their surviving tags.
+
+\begin{algorithm}[H]
+\SetAlgoLined
+\KwData{Coder-Sentence-Tokens}
+\KwResult{Sentence-Events}
+\ForEach{sentence in sentences}{
+  \ForEach{concept in concepts}{
+    \ForEach{token in tokens}{
+      \lIf{expert votes==0}{reject; \tcc*[f]{Require at least one expert vote}}
+      \uElseIf{expert votes > expert voters/2}{accept; \tcc*[f]{And a majority of expert votes}}
+      \uElseIf{novice votes > novice voters/2}{accept; \tcc*[f]{Or a majority of novice votes}}
+    }
+    \If{sum(accepted) == 0}{
+      sort tags by votes;
+      head 1;
+      accept; \tcc*[f]{If still no tag, take one with most votes}
+    }
+  }
+  \ForEach{ActorSet in unique(ActorSets)}{
+    emit event;
+  }
+}
+\caption{Aggregating Coder-Tokens into Sentence-Events}
+\end{algorithm}
+
+# Sentence Level Intrinsic Evaluation
+
+Next, we ask whether codings agree with the raw source material at the sentence level. There are `r icb_long_clean %>% dplyr::select(sentence) %>% distinct() %>% nrow()  %>% scales::comma()` distinct sentences in the corpus. We start with a high-level view, taking the sentence texts and embedding them into a latent semantic space with a large language model specializing in sentence similarity, Sentence-BERT [@reimersSentenceBERTSentenceEmbeddings2019].^[We preprocess sentences to replace named entities with a generic Entity token.] Sentence embeddings are shown in Figure \ref{fig:semantic_embeddings}, disaggregated by four high-level ontology questions and each possible tag. Superficially, user applied tags tend to separate and cluster across semantic space in ways that suggests they are cueing on information actually provided by the text of the source sentence.
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+# MOVED TO figures/ICBEdataset_paper_figure_prep.Rmd
+
+# #child=c('ICBEdataset_paper_PlotInterCoderAgreement.Rmd')
+# p_semantic_embeddings <- readRDS(file=paste0(here::here(), '/paper/figures/p_semantic_embeddings.Rds'))
+# ggsave(file=paste0(here::here(), '//paper/figures/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=8, height=8)
+```
+
+\begin{figure}[H]
+\caption{ICBe event codings in comparison to Semantic Embeddings from the Sentence-BERT large language model\label{fig:semantic_embeddings}}
+\centering{\includegraphics[width=15cm]{figures/p_semantic_embeddings.png}}
+\textit{Notes:}
+\end{figure}
+
+Going further, we examine accepted tokens side-by-side with the original source material. We perform stratified sampling across the semantic space, and provide comparisons for 15 sentences here in Table \ref{tbl:15samplesentences}, 50 more in the online Appendix \ref{app:50samplesentences}, and the full set online. To enhance readability, we map selected tokens into a form sentence more akin to the source sentence (original tokens shown underlined). At the sentence level, we find codings accurately reflect the key events of the text. Further, we note that human-in-the-loop coding correctly performs entity resolution, which is often not explicitly mentioned in the text, posing a problem for automated systems.
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
+
+codings_wide_agreed_embeded_stratified_sample_ft_smaller <- readRDS(file=paste0(here::here(), '/replication_paper/tables/codings_wide_agreed_embeded_stratified_sample_ft_smaller.Rds')) %>%
+  flextable::set_caption("ICBe Codings for a Stratified Sample of Sentences (15) \\label{tbl:15samplesentences}") 
+codings_wide_agreed_embeded_stratified_sample_ft_smaller
+
+```
+
+# Episode Level Intrinsic Evaluation and Comparison to State of the Art
+
+To demonstrate validity at the level of entire episodes, we conduct two qualitative case studies; we choose the Cuban Missile Crisis for being very high stakes and widely recognized and the DRC Civil War for being particularly complicated, lengthy, and modern. In addition, we provide visualizations for every crisis with side-by-side comparisons across datasets on the companion website. Our goals are as follows: (1) establish necessary and secondary details of each crisis from secondary historical sources independent of the ICB corpus; (2) evaluate the precision and overall coherence of ICBe codings using a type of timeline visualization we call a 'crisis map'; and (3) assess the recall of key events by the ICBe codings in comparison to the existing state-of-the-art datasets. For an event dataset to have good performance, it must both have high recall of salient facts, catching the key details and not just the trivia, and good precision, recording only events that actually occurred without distracting duplicates, miscodings, or other apparent examples of measurement error.
+
+## Case Study: Cuban Missiles Crisis (1962)
+
+The Cuban Missile Crisis occurred between the United States, the Soviet Union, and Cuba from October 16, 1962, to November 20, 1962. There are two critical points of context. First, the United States and Soviet Union enjoyed only a partial mutually assured destruction nuclear posture; the United States had accurate short-range ballistic missiles (SRBMs) in Europe and ICBMs, and the Soviet Union only had long-range, slow to arm, and relatively inaccurate ICBMs. Second, the United States launched the unsuccessful Bay of Pigs invasion of Cuba in April 1961. 
+
+The Soviet Union and Cuba reached an agreement to stage Soviet troops, tactical nuclear weapons, and medium-range ballistic missiles (MRBMs) in Cuba in May 1962. U.S. intelligence suspected these plans in August, and their presence was later confirmed by reconnaissance flights (October 14), ultimately triggering the main arc of the crisis.
+
+The two great powers responded with both escalation and de-escalation. As escalations, the United States prepared a complete invasion of Cuba (October 17) and raised the nuclear alert status to DEFCON 3 (October 22) then partially to DEFCON 2 (October 24) [@brugioniEyeballEyeballStory1991]. Likewise, the Soviet Union mobilized (October 11) and went on alert (October 22). As de-escalations, the United States sought a diplomatic solution and imposed a naval blockade as a non-violent military measure to buy time while preventing further Soviet reinforcements from reaching Cuba. The main arc concludes with an agreement by the Soviet Union to withdraw entirely from Cuba, the U.S. agreeing never to invade Cuba, and a clandestine agreement by the U.S. to retire MRBMs based in Turkey.
+
+A secondary crisis arc included several dangerous steps. Cuba mobilized all of its forces in preparation for an invasion (October 22). The United States continued aggressive violations of Cuban airspace by reconnaissance flights leading to the shooting down of a U.S. U-2 (October 27). Both sides went ahead with previously scheduled nuclear weapons tests (October 27-28). Finally, Cuba extended the crisis after the United States and Soviet Union reached their agreement, attempting and failing to retain Soviet bombers.
+
+The precision and overall coherence of ICBe codings are shown in a side-by-side comparison of the source narrative and codings in Appendix \ref{app:ft_sentence_table_196} and via the crisis map in Figure \ref{fig:196metromap} below. The entire back-and-forth of the conflict can be directly read from the timeline. The deployment of the missiles is recorded as the cause of the crisis for the United States. The United States is recorded as demanding specifically that they be removed. After the agreement is reached, the fulfillment of that obligation is recorded with the withdrawal of the missiles specifically and the end of the blockade. There are some details lost in the translation. The tit-for-tat details of the agreement, particularly the exchange of missiles in Turkey, are lost. The detail of the missiles deployed to Cuba being nuclear is not recorded at first because the narrative only refers to them as missiles initially, but is later recorded correctly when the narrative becomes explicit. The brief Cuban gambit to keep some weapons is present in the ICB narrative but mostly ignored by the coders as of low importance. In sum, the ICBe codings correctly record the cause, response, and resolution of the crisis, the correct order of moves, and the size of the stakes at play. In comparison crisis maps of Cameo (Phoenix) (Figure \ref{fig:196metromap_phoenix}), ICB Dyadic Codings (Figure \ref{fig:196metromap_icb}), and MIDs (Figure \ref{fig:196metromap_mids}) in Appendix \ref{app:ft_sentence_table_196} do not reflect the overlying macro story nor the specific details of interest.
+
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+# moved to figures/ICBEdataset_paper_figure_prep.Rmd
+
+# #ICBe  196
+# library(ggplot2)
+# p_metro_map_196 <- readRDS(file=paste0(here::here(), '/paper/figures/metro_plots/p_metro_plot_196.Rds'))
+# actor_colors <- p_metro_map_196$actor_colors
+# ggsave(file=paste0(here::here(), '/paper/figures/p_metro_map_196.png'),
+#        plot = p_metro_map_196 +
+#          theme(plot.margin=unit(c(0,0,0,0),"in")) +
+#          scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+#          scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))),
+#        width=12, height=14)
+
+```
+
+\begin{figure}[H]
+\caption{Cuban Missile Crisis according to ICBe (us) \label{fig:196metromap}}
+\centering{\includegraphics[width=19cm]{figures/p_metro_map_196.png}}
+\end{figure}
+
+Recall of critical events for ICBe and other state-of-the-art systems are shown in Table \ref{tbl:casestudy196}. ICBe records 8 of 10 critical events identified by the case history. It misses the mobilization of Cuba's military forces, owing to an emphasis of the ICB crisis narrative on the United States and the Soviet Union as the primary actors. It also misses the secondary events of the inconveniently timed nuclear weapons tests by both the United States and the Soviet Union, which was also excluded from the narrative. 
+
+Only three other datasets have temporal coverage of this case. The Cline Historical Phoenix event dataset, which is based on Cameo dictionary codings of the New York Times and Wall Street Journal articles, only includes events that could be loosely mapped to one key turning point, the withdraw of missiles and peaceful resolution of the crisis. Two episode-level datasets contain temporal information on this crisis. A dyadic version of the original ICB dataset [@hewittDyadicProcessesInternational2003] contains information on 6 of the critical events, but describes them in terms that are too vague to reconstruct the episode. For example, the deployment of nuclear weapons is described only as an "external change," and the response of mobilizations for war and the blockade are a "non-violent military act." The Dyadic Militarized Interstate Disputes (MIDs) dataset [@maozDyadicMilitarizedInterstate2019] includes only two possible mappings, a 'show of troops' near the start of the crisis, and a 'yield to' near the end.
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
+CaseStudy196_ft <- readRDS(file=paste0(here::here(), '/replication_paper/tables/CaseStudy196_ft.Rds'))
+CaseStudy196_ft %>%
+  flextable::set_caption("Cuban Missile Crisis ground truth and event data \\label{tbl:casestudy196}") %>%
+    flextable::width( j = 1, width=0.5)  %>%
+    flextable::width( j = 2, width=1.25)  %>%
+    flextable::width( j = 3, width=0.5) %>%
+    flextable::width( j = 4, width=1.1) %>%
+    flextable::width( j = 5, width=1) %>%
+    flextable::width( j = 6, width=0.75) %>%
+    flextable::width( j = 7, width=0.65) 
+
+```
+
+
+## Case Study: DRC Civil War (1998)
+
+The civil war in the Democratic Republic of Congo (DRC), also called the Second Congo War and the Great African War, took place between 29 July 1998 and 30 July 2002 and included Angola, Chad, the DRC, Namibia, Rwanda, Uganda, and Zimbabwe. The necessary background for the episode is that in May 1997 Rwandan-backed rebels helped install Laurent Kabila as President of the DRC. The main arc of the episode begins a year later when Kabila then seeks to distance himself from Rwanda and demands that the rebels leave DRC territory (July 27, 1998). The main response is that they refuse and instead begin a campaign for the capital, still backed by Rwanda. The main arc ends with the DRC successfully defending against the campaign and reaching a peace agreement with Rwanda (July 30, 2002), Uganda (September 6, 2002), and other participants, including rebel groups (December 17, 2002) [@lansfordPoliticalHandbookWorld2021; @kisanganiHistoricalDictionaryDemocratic2010].
+
+A secondary arc concerns third-party involvement and political upheaval within the DRC. First, the conflict brings Uganda in on the side of Rwanda, and Angola, Namibia, Zimbabwe, and Chad in on the side of the DRC. Second, a United Nations-sponsored mediation produced a failed cease-fire (July 10, 1999) and a U.N. peacekeeping mission (MONUC) (September 30) [@lansfordPoliticalHandbookWorld2021; @kisanganiHistoricalDictionaryDemocratic2010]. Finally, Laurent Kabila was assassinated (January 17, 2001) and was succeeded by his son Joseph Kabila (January 24), who showed a higher tolerance of U.N. involvement [@schererPeaceKeepsUnited2015].
+
+Precision and overall narrative coherence for the DRC case is strong, as demonstrated by side-by-side ICBe event codings in Appendix \ref{app:ft_sentence_table_426}, and shown visually as a crisis map in Figure \ref{fig:426metromap} below. The overall details of the crisis can be read from the timeline, particularly the invasion by Uganda and Rwanda of the DRC, several short-lived cease fires,  the shift in internal politics of the DRC due to the assassination and leadership change, a U.N. intervention, and final formal agreements to end the crisis. The role of the numerous third parties (Chad, Zimbabwe, Angola, and Namibia) who intervened on different sides is less clear. Similarly, the group structure of sub-national actors, who are represented as agents acting on behalf of Rwanda and Uganda, is ambiguous.
+
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+
+# moved to figures/ICBEdataset_paper_figure_prep.Rmd
+
+# #ICBe  426
+# p_metro_map_426 <- readRDS(file=paste0(here::here(), '/paper/figures/metro_plots/p_metro_plot_426.Rds'))
+# actor_colors <- p_metro_map_426$actor_colors
+# ggsave(file=paste0(here::here(), '/paper/figures/p_metro_map_426.png'),
+#        plot = p_metro_map_426 +
+#          theme(plot.margin=unit(c(0,0,0,0),"in")) +
+#          scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+#          scale_y_continuous(expand = expansion(mult = c(0.05, 0.05))),
+#        width=12, height=14)
+
+#devtools::install_github('davidgohel/ggiraph')
+
+```
+
+\begin{figure}[H]
+\caption{DRC Civil War according to ICBe (us)  \label{fig:426metromap}}
+\centering{\includegraphics[width=19cm]{figures/p_metro_map_426.png}}
+\end{figure}
+
+By comparison, crisis maps of Cameo (Phoenix) (Figure \ref{fig:426metromap_phoenix}), ICEWS (Figure \ref{fig:426metromap_icews}), and Terrier (Figure \ref{fig:426metromap_terrier}), are unintelligible despite deduplication and heavy filtering of irrelevant or uninteresting events. The automated dictionary coding of news articles produces too many irrelevant events between unimportant actors or describes important events too vaguely to be used directly, and instead may only be interpretable in terms of weighted counts over time [@terechshenkoHotCollarLatent2020]. ICB Dyadic Events (Figure \ref{fig:426metromap_icb}), MIDs Incidents (Figure \ref{fig:426metromap_mids_incidents}), and MIDs Episodes (Figure \ref{fig:426metromap_mids}) do a good job showing the start and stop of conflict and between which actors, but lose any detailed context.
+
+Recall of critical events is shown in Table \ref{tbl:casestudy426} below. ICBe records 10 of 14 critical events identified by the case history. It performs poorly on subnational conflict events, missing the formation of the RCD, the deployment of a U.N. peacekeeping mission, the withdraw of Rwandan troops following the peace agreements, and the separate peace struck with the rebel groups RDC and MLC. These details were under-textualized in the ICB narrative. Temporal coverage of this more recent crisis was much greater across datasets, and so we can compare the ICBe codings to five other event-level and two episode-level datasets. As before, Cameo dictionary codings from the Cline Center's historical Phoenix dataset offer possible coverage of 8 events. Cameo codings from Terrier, which includes a much larger number of news sources from the LexisNexis database, only provide possible coverage of one event. The DARPA-funded ICEWs system produces possible coverage of 7 events and notably was the only system to catch the assassination of Kabila. The MIDs incident-level dataset includes possible coverage of 4 events. MIDs episode-level data incorporates possible coverage of 6 events. Finally, Dyadic ICB data cover 7 events.
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
+CaseStudy426_ft <- readRDS(file=paste0(here::here(), '/replication_paper/tables/CaseStudy426_ft.Rds'))
+CaseStudy426_ft  %>%
+  flextable::set_caption("DRC Civil War ground truth and event data \\label{tbl:casestudy426}") %>%
+      width(j=1, width=0.5) %>%
+      width(j=2, width=0.75) %>%
+      width(j=3, width=0.3) %>%
+      width(j=4, width=0.65) %>%
+      width(j=5, width=1.0) %>%
+      width(j=6, width=0.5) %>%
+      width(j=7, width=0.75) %>%
+      width(j=8, width=0.75) %>%
+      width(j=9, width=0.5) %>%
+      width(j=10, width=0.5) 
+  
+```
+
+# Conclusion
+
+We investigated event extraction from narratives describing key historical episodes in international relations. We synthesized a prior belief about the latent unobserved phenomena that drive these events in international relations and proposed a mapping to observable concepts that enter into the observed historical record. We designed an ontology with high coverage over those concepts and developed a training procedure and technical stack for human coding of historical texts. Multiple validity checks find the resulting codings have high internal validity (e.g. intercoder agreement) and external validity (i.e. matching source material in both micro-details at the sentence level and macro-details spanning full historical episodes). Further, these codings perform much better in terms of recall, precision, coverage, and overall coherence in capturing these historical episodes than existing event systems used in international relations.
+
+We release several open-source products along with supporting code and documentation to further advance the study of IR, event extraction, and natural language processing. The first is the International Crisis Behavior Events (ICBe) dataset, an event-level aggregation of what took place during the crises identified by the ICB project. These data are appropriate for statistical analysis of hard questions about the sequencing of events (e.g. escalation and de-escalation of conflicts). Second, we provide a coder-level disaggregation with multiple codings of each sentence  by experts and novices that allows for the introduction of uncertainty and human interpretation of events. Further, we release a direct mapping from the codings to the source text at the sentence level as a new resource for natural language processing. Finally, we provide a companion website that incorporates detailed visualizations of all of the data introduced here (www.crisisevents.org).
+
+#### Acknowledgments:
+We would like to thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We would like to make a special acknowledgment to Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day. 
+
+We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Thank you to the many research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
+
+#### Author contributions (alphabetical):
+<!-- following https://docs.google.com/document/d/1aJxrQXYHW5U6By3KEAHrx1Iho6ioeh3ohNsRMwsoGPM/edit -->
+Conceptualization: R.W.D., E.G., J.L.;
+Methodology: R.W.D., T.L.S.;
+Software: R.W.D.;
+Validation: R.W.D., T.L.S.;
+Formal Analysis: R.W.D., T.L.S.;
+Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.;
+Data Curation: R.W.D., D.Q., T.L.S., J.W.;
+Writing - Original Draft: R.W.D., T.L.S.;
+Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.;
+Visualization: R.W.D., T.L.S.;
+Supervision: E.G.;
+Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.;
+Funding Acquisition: E.G., J.L.
+
+\newpage
+# References
+
+<!-- uses zotero folder ICBintro -->
+<div id="refs"></div>
+<!-- https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html -->
+<!-- may require additional software -->
+
+\newpage
+
+
+# Online Appendix
+
+## Appendix 1: ICB Crises and Summary Information {#app:crises}
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75}
+#ICBEdataset_paper_appendixICBCrises.Rmd
+crisis_text_counts_ft  <- readRDS(file=paste0(here::here(), '/replication_paper/tables/ft_crisis_text_counts.Rds'))
+crisis_text_counts_ft
+```
+
+## Appendix 2: Verb Meanings (Glosses) found in the ICB Corpus (top 200) {#app:verbs}
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75}
+#, child=c('ICBEdataset_paper_appendixVerbMeanings.Rmd')
+
+verbs_sentence_wordnet_top_ft  <- readRDS(file=paste0(here::here(), '/replication_paper/tables/verbs_sentence_wordnet_top_ft.Rds'))
+verbs_sentence_wordnet_top_ft
+```
+
+
+## Appendix 3: Sentence Examples {#app:50samplesentences}
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
+codings_wide_agreed_embeded_stratified_sample_ft <- readRDS(file=paste0(here::here(), '/replication_paper/tables/codings_wide_agreed_embeded_stratified_sample_ft.Rds')) %>%
+  flextable::set_caption("ICBe Codings for 50 Sample Sentences \\label{tbl:50samplesentences}") 
+
+codings_wide_agreed_embeded_stratified_sample_ft %>%
+      flextable::width( j = 1, width=0.3) %>%
+      flextable::width( j = 2, width=3.5) %>%
+      flextable::width( j = 3, width=3.5)
+```
+
+
+## Appendix 4: Cuban Missile Crisis {#app:ft_sentence_table_196}
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
+ft_sentence_table_196 <- readRDS(file=paste0(here::here(), '/replication_paper/tables/sentence_tables/ft_sentence_table_196.Rds'))  %>%
+  flextable::set_caption("ICBe Codings for Cuban Missile Crisis (Crisis 196) \\label{tbl:ft_sentence_table_196}") 
+ft_sentence_table_196 %>%
+      flextable::width( j = 1, width=0.3) %>%
+      flextable::width( j = 2, width=3.25) %>%
+      flextable::width( j = 3, width=3.25)
+```
+
+
+
+\begin{figure}[H]
+\caption{Cuban Missile Crisis according to Phoenix \label{fig:196metromap_phoenix}}
+\centering{\includegraphics[width=19cm]{figures/p_phoenix_metro_plot_196.png}}
+\end{figure}
+
+
+\begin{figure}[H]
+\caption{Cuban Missile Crisis according to ICB \label{fig:196metromap_icb}}
+\centering{\includegraphics[width=19cm]{figures/p_icb_metro_plot_196.png}}
+\end{figure}
+
+\begin{figure}[H]
+\caption{Cuban Missile Crisis according to MIDs Episodes \label{fig:196metromap_mids}}
+\centering{\includegraphics[width=19cm]{figures/p_mids_metro_plot_196.png}}
+\end{figure}
+
+
+## Appendix 5: DRC {#app:ft_sentence_table_426}
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
+ft_sentence_table_426 <- readRDS(file=paste0(here::here(), '/replication_paper/tables/sentence_tables/ft_sentence_table_426.Rds'))  %>%
+  flextable::set_caption("ICBe Codings for DRC Civil War (Crisis 426) \\label{tbl:ft_sentence_table_426}") 
+ft_sentence_table_426 %>%
+      flextable::width( j = 1, width=0.3) %>%
+      flextable::width( j = 2, width=3.25) %>%
+      flextable::width( j = 3, width=3.25)
+```
+
+
+
+
+\begin{figure}[H]
+\caption{DRC Civil War according to Phoenix \label{fig:426metromap_phoenix}}
+\centering{\includegraphics[width=19cm]{figures/p_phoenix_metro_plot_426.png}}
+\end{figure}
+
+\begin{figure}[H]
+\caption{DRC Civil War according to ICEWS \label{fig:426metromap_icews}}
+\centering{\includegraphics[width=19cm]{figures/p_icews_metro_plot_426.png}}
+\end{figure}
+
+\begin{figure}[H]
+\caption{DRC Civil War according to Terrier \label{fig:426metromap_terrier}}
+\centering{\includegraphics[width=19cm]{figures/p_terrier_metro_plot_426.png}}
+\end{figure}
+
+\begin{figure}[H]
+\caption{DRC Civil War according to Dyadic ICB \label{fig:426metromap_icb}}
+\centering{\includegraphics[width=19cm]{figures/p_icb_metro_plot_426.png}}
+\end{figure}
+
+\begin{figure}[H]
+\caption{DRC Civil War according to MIDs Incidents \label{fig:426metromap_mids_incidents}}
+\centering{\includegraphics[width=19cm]{figures/p_mids_incidents_metro_plot_426.png}}
+\end{figure}
+
+\begin{figure}[H]
+\caption{DRC Civil War according to MIDs Episodes \label{fig:426metromap_mids}}
+\centering{\includegraphics[width=19cm]{figures/p_mids_metro_plot_426.png}}
+\end{figure}
+
+
+
+
