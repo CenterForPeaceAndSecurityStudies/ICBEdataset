@@ -1,5 +1,5 @@
 ---
-title: "Metro Maps"
+title: "ICBEdataset figure Metro Maps"
 output: html_document
 ---
 
@@ -31,22 +31,21 @@ rex_count <- function(x) { x %>% unique() %>% na.omit() %>% sort() %>% paste0(se
 
 ```{r echo=FALSE, include=FALSE, eval=T}
 
-icb_crises <- read.csv(paste0(here::here(), "/replication_data/in/icb1v14.csv")) 
+icb_crises <- read.csv(paste0(here::here(), "/replication_paper/data/in/icb1v14.csv")) 
 #icb_crises <-readRDS(paste0(here::here(), "/data/icb1v14.Rds") )
 
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds")) 
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_paper/data/in/icb_long_clean.Rds")) 
 
 crisno_name_years <- icb_crises %>% dplyr::select(crisno, crisname, yrtrig, yrterm)
 
-target_file <- paste0(here::here(),"/replication_data/in/icb_manual_recoding_master_sheet.xlsx")
-downloaded_file <- googledrive::drive_download(file="https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", path=target_file, type = "xlsx", overwrite=T)
+target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
 
 dictionary_actors_labels    <- readxl::read_excel(target_file, sheet="actors") %>% dplyr::select(crisno, value_normalized=value_normalized_wikidata_id, value_normalized_label) %>% dplyr::distinct() %>% na.omit()
 
-codings_long <- readRDS( paste0(here::here(), "/replication_data/temp/codings_long.Rds")) 
-codings_long_agreement <- readRDS( paste0(here::here(), "/replication_data/temp/codings_long_agreement.Rds")) 
-codings_long_agreed <- readRDS( paste0(here::here(), "/replication_data/out/codings_long_agreed.Rds")) 
-codings_wide_agreed <- readRDS( paste0(here::here(), "/replication_data/out/codings_wide_agreed.Rds")) 
+codings_long <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long.Rds")) 
+codings_long_agreement <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long_agreement.Rds")) 
+codings_long_agreed <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long_agreed.Rds")) 
+codings_wide_agreed <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_wide_agreed.Rds")) 
 
 #Design specification
 #Time flows downward
@@ -78,7 +77,7 @@ icbe_metro_plots <- function(crisis=196, prune_rare=T){
   print(crisis)
   #crisis=426
   plot_title <- crisno_name_years %>% filter(crisno==crisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-  save_file <- paste0(here::here(), "/paper/figures/metro_plots/p_metro_plot_",crisis,".Rds")
+  save_file <- paste0(here::here(), "/replication_paper/figures/metro_plots/p_metro_plot_", crisis, ".Rds")
   
   codings_wide_agreed_subset <- codings_wide_agreed %>% 
                                  ungroup() %>%
@@ -222,7 +221,7 @@ icbe_metro_plots <- function(crisis=196, prune_rare=T){
   units <-   codings_wide_agreed_subset %>% dplyr::select(sent=final_event_ordering, do_actor_a, interact_units) %>% na.omit()  %>% 
               mutate(interact_units = strsplit(as.character(interact_units), ";")) %>% unnest(interact_units) %>%
               mutate(do_actor_a = strsplit(as.character(do_actor_a), ";")) %>% unnest(do_actor_a) %>%
-              mutate(IMAGE=paste0(here::here, '/paper/figures/metro_plots/symbols/',interact_units,'.png')) %>%
+              mutate(IMAGE=paste0(here::here, '/replication_paper/figures/metro_plots/symbols/',interact_units,'.png')) %>%
               mutate(actor_sent= do_actor_a %>% paste0("_", str_pad(sent, 2, pad = "0") )) %>%
               left_join(codings_wide_agreed_subset_nodes %>% dplyr::select(actor_sent, x, y) ) %>%
               dplyr::select(-sent, -do_actor_a) %>% distinct() %>% 
@@ -257,7 +256,7 @@ icbe_metro_plots <- function(crisis=196, prune_rare=T){
   units <-   codings_wide_agreed_subset %>% dplyr::select(sent=final_event_ordering, do_actor_a, interact_units) %>% na.omit()  %>% 
               mutate(interact_units = strsplit(as.character(interact_units), ";")) %>% unnest(interact_units) %>%
               mutate(do_actor_a = strsplit(as.character(do_actor_a), ";")) %>% unnest(do_actor_a) %>%
-              mutate(IMAGE=paste0(here::here(), "/paper/figures/metro_plots/symbols/",interact_units,'.png')) %>%
+              mutate(IMAGE=paste0(here::here(), "/replication_paper/figures/metro_plots/symbols/",interact_units,'.png')) %>%
               mutate(actor_sent= do_actor_a %>% paste0("_", str_pad(sent, 2, pad = "0") )) %>%
               left_join(codings_wide_agreed_subset_nodes %>% dplyr::select(actor_sent, x, y) ) %>%
               dplyr::select(-sent, -do_actor_a) %>% distinct() %>% 
@@ -449,7 +448,7 @@ Go ahead an out the sentence tables too here why not
 icb_sentence_tables <- function(crisis=196){
   print(crisis)
   ft_title <- crisno_name_years %>% filter(crisno==crisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-  save_file <- paste0(here::here(), "/paper/tables/sentence_tables/ft_sentence_table_",crisis,".Rds")
+  save_file <- paste0(here::here(), "/replication_paper/tables/sentence_tables/ft_sentence_table_",crisis,".Rds")
   
   temp <- codings_wide_agreed %>% 
           filter(crisno==crisis) %>%
@@ -534,7 +533,7 @@ mids_metro_plots <- function(crisis=196, prune_rare=T){
   print(crisis)
   #crisis=426
   plot_title <- crisno_name_years %>% filter(crisno==crisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-  save_mids_file <- paste0(here::here(), "/paper/figures/metro_plots/p_mids_metro_plot_",crisis,".Rds")
+  save_mids_file <- paste0(here::here(), "/replication_paper/figures/metro_plots/p_mids_metro_plot_",crisis,".Rds")
 
   year_start <-icb_crises[icb_crises$crisno==crisis,]$yrtrig
   year_end   <- icb_crises[icb_crises$crisno==crisis,]$yrterm 
@@ -787,9 +786,9 @@ mid_df4 <- data.frame(
                        "501-999 deaths","> 999 deaths")
 )
 
-midip <- read_csv(paste0(here::here(), '/data_other_datasets/mids_incidents/MIDIP_5.01.csv'))
+midip <- read_csv(paste0(here::here(), '/replication_paper/data/in/MIDIP_5.01.csv'))
 
-midii <- read_csv(paste0(here::here(), '/data_other_datasets/mids_incidents/MIDI_5.01.csv'))
+midii <- read_csv(paste0(here::here(), '/replication_paper/data/in/MIDI_5.01.csv'))
 
 
 midip_clean <- midip %>% distinct() %>%
@@ -829,7 +828,7 @@ mids_incidents_metro_plots <- function(crisis=196, prune_rare=T){
 
   print(crisis)
   #crisis=426
-  save_mids_incidents_file <- paste0(here::here(), "/paper/figures/metro_plots/p_mids_incidents_metro_plot_",crisis,".Rds")
+  save_mids_incidents_file <- paste0(here::here(), "/replication_paper/figures/metro_plots/p_mids_incidents_metro_plot_",crisis,".Rds")
 
   year_start <-icb_crises[icb_crises$crisno==crisis,]$yrtrig
   year_end   <- icb_crises[icb_crises$crisno==crisis,]$yrterm 
@@ -1201,7 +1200,7 @@ data.frame(
 )
 
 
-icbdy_20 <- read_tsv(here::here(), "/data_other_datasets/icb_dyad/icbdy_20.dat")
+icbdy_20 <- read_tsv(here::here(), "/replication_paper/data/in/icbdy_20.dat")
 
 icbdy_20_clean <- icbdy_20 %>%
                   left_join( icb_df %>% dplyr::select(STATEA=icb_code, actor_1=icb_name ) %>% mutate(STATEA=STATEA %>% as.numeric())  ) %>%
@@ -1212,7 +1211,7 @@ icbdy_20_clean <- icbdy_20 %>%
 icb_diadic <- icbdy_20_clean %>% dplyr::select(CRISNO, NAMEA, NAMEB,  STATEA, STATEB, actor_1,actor_2, IWCA_label,IWCB_label) #%>% filter(is.na(actor_1) | is.na(actor_2))
 
 
-icb2v14 <- read_csv(here::here(), "/data_other_datasets/icb/icb2v14.csv")
+icb2v14 <- read_csv(here::here(), "/replication_paper/data/in/icb2v14.csv")
 
 
 df_trigger <- data.frame(
@@ -1283,7 +1282,7 @@ icb_monadic <-
 icb_metro_plots <- function(crisis=196, prune_rare=T){
       
     print(crisis)
-    save_icb_file <- paste0(here::here(), "/paper/figures/metro_plots/p_icb_metro_plot_",crisis,".Rds")
+    save_icb_file <- paste0(here::here(), "/replication_paper/figures/metro_plots/p_icb_metro_plot_",crisis,".Rds")
   
     icb_diadic_subset <- icb_diadic %>% filter(CRISNO==crisis) #Not all of them are diadic apparently
     icb_monadic_subset <- icb_monadic %>% rename(actor=actor_label) %>% filter(crisno==crisis) %>%
@@ -1486,10 +1485,9 @@ df1 <- data.frame(
                                type_of_violence_label = c("state-based conflict","non-state conflict","one-sided violence")
 )
 
-ged211 <- read_csv(here::here(), "/data_other_datasets/ucdp_ged/ged211.csv")
+ged211 <- read_csv(here::here(), "/replication_paper/data/in/ucdp_ged/ged211.csv")
 
-target_file <- paste0(here::here(),"/data/icb_manual_recoding_master_sheet.xlsx")
-downloaded_file <- googledrive::drive_download(file="https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", path=target_file, type = "xlsx", overwrite=T)
+target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
 actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator")
 
 ged211_clean <- ged211 %>%
@@ -1513,7 +1511,7 @@ ucdp_ged_metro_plots <- function(crisis=466, prune_rare=T){
 
     print(crisis)
     #crisis=426
-    save_ucdp_incidents_file <- paste0(here::here(), "/paper/figures/metro_plots/p_ucdp_metro_plot_",crisis,".Rds")
+    save_ucdp_incidents_file <- paste0(here::here(), "/replication_paper/figures/metro_plots/p_ucdp_metro_plot_",crisis,".Rds")
   
     year_start <-icb_crises[icb_crises$crisno==crisis,]$yrtrig
     year_end   <- icb_crises[icb_crises$crisno==crisis,]$yrterm 
@@ -1722,7 +1720,7 @@ icb_crises %>% filter(yrtrig>=1989) %>% pull(crisno) %>% unique()  %>% sapply(FU
 
 ```{r}
 
-CAMEO_eventcodes <- read_tsv(here::here(), "/data_other_datasets/icews/CAMEO.eventcodes.txt", col_types='cc') %>% janitor::clean_names()
+CAMEO_eventcodes <- read_tsv(here::here(), "/replication_paper/data/in/CAMEO.eventcodes.txt", col_types='cc') %>% janitor::clean_names()
 
 
 cameo_code_rejects <- c('Make statement, not specified below', 'Consult, not specified below','Praise or endorse','Accuse, not specified below',
@@ -1834,7 +1832,7 @@ cameo_role_codes <- data.frame(
   
   
   
-#CAMEO_eventcodes <- read_tsv(paste0(here::here(), "/data_temp/CAMEO.eventcodes.txt")) %>% janitor::clean_names()
+#CAMEO_eventcodes <- read_tsv(paste0(here::here(), "/replication_paper/data/in/CAMEO.eventcodes.txt")) %>% janitor::clean_names()
 
 
 ```
@@ -1893,17 +1891,16 @@ kill_sectors <- c(
 )
 kill_sectors_regex <- paste0(kill_sectors, collapse="|")
 
-files <- list.files(path = paste0(here::here(), "/data_other_datasets/icews/dataverse_files (1)/"), pattern = ".tab$", full.names = T)
+files <- list.files(path = paste0(here::here(), "/replication_paper/data/in/dataverse_files (1)/"), pattern = ".tab$", full.names = T)
 icews <- bind_rows(lapply(files, FUN=function(x) read_tsv(x) )  ) %>% janitor::clean_names()
 dim(icews)
 
-CAMEO_eventcodes <- read_tsv(paste0(here::here(),"/data_other_datasets/icews/CAMEO.eventcodes.txt"), col_types='cc') %>% janitor::clean_names()
+CAMEO_eventcodes <- read_tsv(paste0(here::here(),"/replication_paper/data/in/CAMEO.eventcodes.txt"), col_types='cc') %>% janitor::clean_names()
 
 codes_used <-icews %>% count(cameo_code)
 
 
-target_file <- paste0(here::here(),"/data/icb_manual_recoding_master_sheet.xlsx")
-downloaded_file <- googledrive::drive_download(file="https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", path=target_file, type = "xlsx", overwrite=T)
+target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
 actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator") 
 
 #Rex start here tomorrow, figure out how to do this join correctly
@@ -1957,10 +1954,10 @@ icews_metro_plots <- function(crisis=426, topactor=F, exclude='', save_icews_fil
   print(crisis)
   #crisis=426
   #exclude = c('Chad', 'Southern African Development Community','United States','European Union','South Africa','Zambia','Namibia', 'Angola','United Nations','Zimbabwe')
-  #save_icews_file = paste0(here::here(), "/paper/figures/p_icews_metro_plot_",crisis,"_paper.Rds")
+  #save_icews_file = paste0(here::here(), "/replication_paper/figures/p_icews_metro_plot_",crisis,"_paper.Rds")
   plot_title <- crisno_name_years %>% filter(crisno==crisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
   if(is.null(savefile)){
-    save_icews_file <- paste0(here::here(), "/paper/figures/metro_plots/p_icews_metro_plot_",crisis,".Rds")
+    save_icews_file <- paste0(here::here(), "/replication_paper/figures/metro_plots/p_icews_metro_plot_",crisis,".Rds")
   }
     
   date_start <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==crisis,]$yrtrig , "-", icb_crises[icb_crises$crisno==crisis,]$motrig, "-01"))
@@ -2316,16 +2313,15 @@ library(ggraph)
 
 
 
-a <- read_csv(paste0(here::here, '/data_other_datasets/phoenix/PhoenixBLN-NYT_1980-2018.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
-b  <- read_csv(paste0(here::here, '/data_other_datasets/phoenix/PhoenixBLN-SWB_1979-2019.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
-c  <- read_csv(paste0(here::here, '/data_other_datasets/phoenix/PhoenixFBIS_1995-2004.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
-d  <- read_csv(paste0(here::here, '/data_other_datasets/phoenix/PhoenixNYT_1945-2005.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
-e <- read_csv(paste0(here::here, '/data_other_datasets/phoenix/PhoenixWSJ_1945-2006.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
+a <- read_csv(paste0(here::here, '/replication_paper/data/in/phoenix/PhoenixBLN-NYT_1980-2018.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
+b  <- read_csv(paste0(here::here, '/replication_paper/data/in/phoenix/PhoenixBLN-SWB_1979-2019.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
+c  <- read_csv(paste0(here::here, '/replication_paper/data/in/phoenix/PhoenixFBIS_1995-2004.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
+d  <- read_csv(paste0(here::here, '/replication_paper/data/in/phoenix/PhoenixNYT_1945-2005.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
+e <- read_csv(paste0(here::here, '/replication_paper/data/in/phoenix/PhoenixWSJ_1945-2006.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
 
 phoenix <- bind_rows(a, b, c, d , e)
 
-target_file <- paste0(here::here(),"/data/icb_manual_recoding_master_sheet.xlsx")
-downloaded_file <- googledrive::drive_download(file="https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", path=target_file, type = "xlsx", overwrite=T)
+target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
 actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator") 
 
 #8,491,556
@@ -2378,7 +2374,7 @@ phoenix_metro_plots <- function(crisis=196, topactor=F){
   print(crisis)
   #crisis=426
   plot_title <- crisno_name_years %>% filter(crisno==crisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-  save_phoenix_file <- paste0(here::here(), "/paper/figures/metro_plots/p_phoenix_metro_plot_",crisis,".Rds")
+  save_phoenix_file <- paste0(here::here(), "/replication_paper/figures/metro_plots/p_phoenix_metro_plot_",crisis,".Rds")
   
   date_start <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==crisis,]$yrtrig , "-", icb_crises[icb_crises$crisno==crisis,]$motrig, "-01"))
   date_end <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==crisis,]$yrterm , "-", icb_crises[icb_crises$crisno==crisis,]$moterm, "-31"))
@@ -2785,15 +2781,14 @@ df <- data.frame(
 ) %>% janitor::clean_names()
 
 
-files <- list.files(path = paste0(here::here(), "/data_other_datasets/terrier/largegeolocateddata/"), pattern = ".tsv$", full.names = T)
+files <- list.files(path = paste0(here::here(), "/replication_paper/data/in/largegeolocateddata/"), pattern = ".tsv$", full.names = T)
 terrier <- bind_rows(lapply(files, FUN=function(x) read_tsv(x,col_names=F, col_types=paste0(rep('c',50), collapse='')  )  ) ) %>% janitor::clean_names()
 dim(terrier) #28,370,448       28
 
-CAMEO_eventcodes <- read_tsv(paste0(here::here(), "/data_other_datasets/terrier/CAMEO.eventcodes.txt"), col_types='cc' ) %>% janitor::clean_names()
+CAMEO_eventcodes <- read_tsv(paste0(here::here(), "/replication_paper/data/in/CAMEO.eventcodes.txt"), col_types='cc' ) %>% janitor::clean_names()
 #codes_used <-terrier_clean %>% count(cameo_code)
 
-target_file <- paste0(here::here(),"/data/icb_manual_recoding_master_sheet.xlsx")
-downloaded_file <- googledrive::drive_download(file="https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", path=target_file, type = "xlsx", overwrite=T)
+target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
 actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator")
 
 #Maybe it's just ISO3 country codes?
@@ -2873,7 +2868,7 @@ terrier_metro_plots <- function(crisis=196, topactor=F){
   print(crisis)
   #crisis=426
   plot_title <- crisno_name_years %>% filter(crisno==crisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-  save_terrier_file <- paste0(here::here(), "/paper/figures/metro_plots/p_terrier_metro_plot_",crisis,".Rds")
+  save_terrier_file <- paste0(here::here(), "/replication_paper/figures/metro_plots/p_terrier_metro_plot_",crisis,".Rds")
   
   date_start <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==crisis,]$yrtrig , "-", icb_crises[icb_crises$crisno==crisis,]$motrig, "-01"))
   date_end <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==crisis,]$yrterm , "-", icb_crises[icb_crises$crisno==crisis,]$moterm, "-31"))

@@ -504,11 +504,16 @@ keep_sentence=38
 ```{r, eval=T}
 
 saveRDS(codings_long, paste0(here::here(), "/replication_data/temp/codings_long.Rds")) 
-saveRDS(codings_long_agreement, paste0(here::here(), "/replication_data/temp/codings_long_agreement.Rds")) 
+saveRDS(codings_long, paste0(here::here(), "/replication_paper/data/in/codings_long.Rds")) 
 
+saveRDS(codings_long_agreement, paste0(here::here(), "/replication_data/temp/codings_long_agreement.Rds")) 
+saveRDS(codings_long_agreement, paste0(here::here(), "/replication_paper/data/in/codings_long_agreement.Rds")) 
 
 saveRDS(codings_long_agreed, paste0(here::here(), "/replication_data/out/codings_long_agreed.Rds")) 
+saveRDS(codings_long_agreed, paste0(here::here(), "/replication_paper/data/in/codings_long_agreed.Rds")) 
+
 saveRDS(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_data/out/codings_wide_agreed.Rds")) 
+saveRDS(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_paper/data/in/codings_wide_agreed.Rds")) 
 
 ```
 

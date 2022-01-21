@@ -14,8 +14,7 @@ library(googlesheets4)
 ```
 
 ```{r, echo=F, results='asis', message=F, warning=F, eval=T , cache=F}
-
-CaseStudy196 <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1lnFqrnCwjWWd_rdWLVHGkxSEcFpw-5XrV7MiQ6rA7KY/edit?usp=sharing", sheet="CaseStudy196")
+CaseStudy196 <- readxl::read_excel(paste0(here::here(),"/replication_paper/data/in/CaseStudies.xlsx"), sheet="CaseStudy196")
 
 ```
 
@@ -78,7 +77,7 @@ CaseStudy196_ft <- CaseStudy196 %>%
 
 #https://cran.r-project.org/web/packages/ftExtra/vignettes/format_columns.html
 
-CaseStudy196_ft  %>% saveRDS(paste0(here::here(), '/paper/tables/CaseStudy196_ft.Rds'))
+CaseStudy196_ft  %>% saveRDS(paste0(here::here(), '/replication_paper/tables/CaseStudy196_ft.Rds'))
 
 CaseStudy196_ft 
   

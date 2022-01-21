@@ -648,6 +648,8 @@ icb_long_clean_final <- icb_long_clean2 %>%
 Save icb_long_clean!
 ```{r}
 saveRDS(icb_long_clean_final, paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds"))
+saveRDS(icb_long_clean_final, paste0(here::here(), "/replication_paper/data/input/icb_long_clean.Rds")) 
+
 ```
 
 
