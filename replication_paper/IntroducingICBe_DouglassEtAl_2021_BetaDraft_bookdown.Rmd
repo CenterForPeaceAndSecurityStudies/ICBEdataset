@@ -80,7 +80,7 @@ header-includes:
 #International Crisis Behavior Events (ICBe) Dataset
 knitr::opts_chunk$set(echo=F, cache=TRUE, messages=F, results='hide', warnings=F, include=FALSE) #fig.width = 8, fig.height = 8, message=F, warning=F, , results=F
 
-TLS = TRUE
+TLS = FALSE
 ```
 
 ```{r, eval=T, echo=F, cache=F}
