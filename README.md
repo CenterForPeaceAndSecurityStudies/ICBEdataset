@@ -8,29 +8,42 @@ This is a github repository for the International Crisis Behavior Events
 github repository using [the issues
 tab](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/issues/new/choose).
 
-# The Paper:
+## The Paper:
 
-[Introducing the International Crisis Behavior Event (ICBe)
-Dataset](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf)
+[Introducing the ICBe Dataset: Very High Recall and Precision Event
+Extraction from Narratives about International
+Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf)
+
+## The Data:
+
+  - [codings\_long\_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_long_agreed.Rds)
+  - [codings\_wide\_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_wide_agreed.Rds)
+  - [icb\_coder\_crisis\_sentence\_event\_aligned.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/icb_coder_crisis_sentence_event_aligned.Rds)
+  - [ICBEdataset
+    Codebook](https://docs.google.com/document/d/1aJkweohbfIWtNpJw1CmXbeIiK6czbJ5iPyKwiYP1YlU/edit?usp=sharing)
 
 ## The Authors:
 
-  - [Rex W. Douglass](http://www.rexdouglass.com), [Thomas Leo
-    Scherer](http://tlscherer.com/), [J. Andrés
-    Gannon](https://jandresgannon.com/), [Erik
-    Gartzke](http://erikgartzke.com/), [Jon
-    Lindsay](https://www.jonrlindsay.com/), [Shannon
-    Carcelli](https://www.shannoncarcelli.com/), Jonathan Wilkenfeld,
-    David M. Quinn, Catherine Aiken, Jose Miguel Cabezas Navarro, Neil
-    Lund, Egle Murauskaite, and Diana Partridge.
+[Rex W. Douglass](http://www.rexdouglass.com), [Thomas Leo
+Scherer](http://tlscherer.com/), [J. Andrés
+Gannon](https://jandresgannon.com/), [Erik
+Gartzke](http://erikgartzke.com/), [Jon
+Lindsay](https://www.jonrlindsay.com/), [Shannon
+Carcelli](https://www.shannoncarcelli.com/), Jonathan Wilkenfeld, David
+M. Quinn, Catherine Aiken, Jose Miguel Cabezas Navarro, Neil Lund, Egle
+Murauskaite, and Diana Partridge.
 
-## Data:
+## Citation:
 
-# ICBe Dataset
+For any use of the dataset or paper, please cite:
 
-  - ICBe Dataset
-  - [ICBEdataset
-    Codebook](https://docs.google.com/document/d/1aJkweohbfIWtNpJw1CmXbeIiK6czbJ5iPyKwiYP1YlU/edit?usp=sharing)
+Douglass, Rex, Thomas Leo Scherer, J. Andrés Gannon, Erik Gartzke, Jon
+Lindsay, Shannon Carcelli, Jonathan Wiklenfeld, David M. Quinn,
+Catherine Aiken, Jose Miguel Cabezas Navarro, Neil Lund, Egle
+Murauskaite, and Diana Partridge. 2022. “Introducing the ICBe Dataset:
+Very High Recall and Precision Event Extraction from Narratives about
+International Crises.” Unpublished Manuscript. Retrieved from
+<https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset>.
 
 ## Replication Code and Analysis
 
@@ -46,6 +59,8 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
 ```
 
 ## RMarkdown files
+
+### Replication Data
 
   - 01\_compile\_saves\_and\_align
       - compiles the original coding files into
@@ -64,6 +79,17 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
         `./data_out/codings_long_agreement.Rds`,
         `./data_out/codings_long_agreed.Rds`,
         `./data_out/codings_wide_agreed.Rds`.
+
+### Replication Paper
+
+  - CaseStudy196
+  - CaseStudy426
+  - ICBEdataset\_figure\_metro\_maps
+  - ICBEdataset\_figure\_semantic\_embeddings
+  - ICBEdataset\_paper\_appendixICBCrises
+  - ICBEdataset\_paper\_appendixVerbMeanings
+  - ICBEdataset\_paper\_figure\_prep
+  - ICBEdataset\_paper\_PlotInterCoderAgreement
 
 ## ICBe data products
 
@@ -92,7 +118,7 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
 
 ## Data inputs:
 
-### ICBe preperation
+### ICBe preparation
 
   - Cleaning dictionaries: used to clean raw codings for actors,
     actions, locations, and dates
@@ -133,4 +159,4 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
         ICBEdata/replication\_paper/data/ignore/icews\_dataverse/ and
         decompress
 
-### Acknowledgementes
+### Acknowledgements

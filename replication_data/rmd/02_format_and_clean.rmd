@@ -523,8 +523,9 @@ icb_long_clean <- icb_long_clean %>%
 Join in google sheet of tree simplification and drop variables that we replace
 
 ```{r message=FALSE}
+target_file <- paste0(here::here(),"/replication_data/in/icbe_litreview_trees_sentences.xlsx")
+full_tree    <- readxl::read_excel(target_file, sheet="Codebook in Tree Form")
 
-full_tree <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/10tZGzjYgmvrbgQTV3oadVEV8m1LxLEDJEq9pzqq90Fc/edit?usp=sharing", sheet="Codebook in Tree Form")
 
 full_tree <- full_tree %>% dplyr::filter(!is.na(leaf) & leaf!='')
 
@@ -669,6 +670,6 @@ icb_wide_clean <- icb_long_clean_final %>%
   #There's also a weird situation where they sometimes created events without tagging it as a think, do,say
 
 saveRDS(icb_wide_clean, paste0(here::here(), "/replication_data/temp/icb_wide_clean.Rds")) 
-saveRDS(icb_wide_clean, paste0(here::here(), "/replication_paper/in/icb_wide_clean.Rds")) 
+saveRDS(icb_wide_clean, paste0(here::here(), "/replication_paper/data/in/icb_wide_clean.Rds")) 
 
 ```

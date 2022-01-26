@@ -280,10 +280,10 @@ if(fromscratch & length(files_worker_saves)>0){
     icb_coder_crisis_sentence_event <- icb_wide
     remove(icb_wide)
     saveRDS(icb_coder_crisis_sentence_event,
-            file=paste0(here::here(),"/replication_data/temp/icb_coder_crisis_sentence_event.Rds"))
+            file=paste0(here::here(),"/replication_data/in/icb_coder_crisis_sentence_event.Rds"))
   }  else  {
     icb_coder_crisis_sentence_event <-
-      readRDS(file=paste0(here::here(),"/replication_data/temp/icb_coder_crisis_sentence_event.Rds"))
+      readRDS(file=paste0(here::here(),"/replication_data/in/icb_coder_crisis_sentence_event.Rds"))
 }
 
 ```

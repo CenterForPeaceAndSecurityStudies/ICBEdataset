@@ -18,24 +18,30 @@ The International Crisis Behavior Events (ICBe)
 
 This is a github repository for the International Crisis Behavior Events (ICBe) dataset. Submit any issues regarding the dataset, paper, or github repository using [the issues tab](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/issues/new/choose). 
 
-# The Paper:
+## The Paper:
 
-[Introducing the International Crisis Behavior Event (ICBe) Dataset](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf)
+[Introducing the ICBe Dataset: Very High Recall and Precision Event Extraction from Narratives about International Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf)
+
+## The Data:
+
+The agreed datasets are the final, dataset used in much of the paper and figures. It includes our best efforts at cleaning the data and reconciling intercoder agreement. The dataset is available in long and wide format.
+  - [codings_long_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_long_agreed.Rds)
+  - [codings_wide_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_wide_agreed.Rds)
+
+The initial codings pre-cleaning and reconciling intercoder agreement are also available. 
+  - [icb_coder_crisis_sentence_event_aligned.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/icb_coder_crisis_sentence_event_aligned.Rds)
+  
+The coding and cleaning process are described in the paper with additional information and details about the variables in the codebook.
+  - [ICBEdataset Codebook](https://docs.google.com/document/d/1aJkweohbfIWtNpJw1CmXbeIiK6czbJ5iPyKwiYP1YlU/edit?usp=sharing)
 
 ## The Authors:
 
-- [Rex W. Douglass](http://www.rexdouglass.com), [Thomas Leo Scherer](http://tlscherer.com/), [J. Andrés Gannon](https://jandresgannon.com/), [Erik Gartzke](http://erikgartzke.com/), [Jon Lindsay](https://www.jonrlindsay.com/), [Shannon Carcelli](https://www.shannoncarcelli.com/), Jonathan Wilkenfeld, David M. Quinn, Catherine Aiken, Jose Miguel Cabezas Navarro, Neil Lund, Egle Murauskaite, and Diana Partridge.
+[Rex W. Douglass](http://www.rexdouglass.com), [Thomas Leo Scherer](http://tlscherer.com/), [J. Andrés Gannon](https://jandresgannon.com/), [Erik Gartzke](http://erikgartzke.com/), [Jon Lindsay](https://www.jonrlindsay.com/), [Shannon Carcelli](https://www.shannoncarcelli.com/), Jonathan Wilkenfeld, David M. Quinn, Catherine Aiken, Jose Miguel Cabezas Navarro, Neil Lund, Egle Murauskaite, and Diana Partridge.
 
-## Data:
+## Citation:
+For any use of the dataset or paper, please cite:
 
-
-
-# ICBe Dataset
-
-- ICBe Dataset
-- [ICBEdataset Codebook](https://docs.google.com/document/d/1aJkweohbfIWtNpJw1CmXbeIiK6czbJ5iPyKwiYP1YlU/edit?usp=sharing)
-
-
+Douglass, Rex W.,  Thomas Leo Scherer, J. Andrés Gannon, Erik Gartzke, Jon Lindsay, Shannon Carcelli, Jonathan Wiklenfeld, David M. Quinn, Catherine Aiken, Jose Miguel Cabezas Navarro, Neil Lund, Egle Murauskaite, and Diana Partridge. 2022. "Introducing the ICBe Dataset: Very High Recall and Precision Event Extraction from Narratives about International Crises." Unpublished Manuscript. Retrieved from https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset. 
 
 
 Replication Code and Analysis
@@ -43,14 +49,12 @@ Replication Code and Analysis
 
 ### Self Contained Package
 
-All of the files necessary for reproducing our analysis are including in a self contained R package "ICBEdataset" You can install the package icb from github with:
-
-``` r
-# install.packages("devtools")
-devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
-```
+All of the files used to create the datasets, tables, figures. 
 
 ## RMarkdown files
+
+### Replication Data
+
  - 01_compile_saves_and_align
     + compiles the original coding files into `./replication_data/temp/icb_coder_crisis_sentence_event.Rds`
     + the original coding files are not on the public repository; this can only be run by authors
@@ -60,6 +64,17 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
     + applies cleaning dictionaries to create `./data/icb_wide_clean.Rds` and `./data/icb_long_clean.Rds`.
  - 03_aggregation
     + applies aggregation algorithm to create `./data_out/codings_long.Rds`, `./data_out/codings_long_agreement.Rds`, `./data_out/codings_long_agreed.Rds`, `./data_out/codings_wide_agreed.Rds`.
+
+### Replication Paper
+
+  - CaseStudy196
+  - CaseStudy426
+  - ICBEdataset_figure_metro_maps
+  - ICBEdataset_figure_semantic_embeddings
+  - ICBEdataset_paper_appendixICBCrises
+  - ICBEdataset_paper_appendixVerbMeanings
+  - ICBEdataset_paper_figure_prep
+  - ICBEdataset_paper_PlotInterCoderAgreement
 
 
 ## ICBe data products
@@ -81,7 +96,7 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
 
 ## Data inputs:
 
-### ICBe preperation
+### ICBe preparation
   - Cleaning dictionaries: used to clean raw codings for actors, actions, locations, and dates (./data/icb_manual_recording_master_sheet.xlsx)
     + actor_translator to compare actors across different datasets, created by hand with assistance from [07_actor_dictionaries](https://centerforpeaceandsecuritystudies.github.io/ICBEdataset/07_actor_dictionaries.html).
   - [Lit review and tree/leaf codebook](https://docs.google.com/spreadsheets/d/10tZGzjYgmvrbgQTV3oadVEV8m1LxLEDJEq9pzqq90Fc/edit#gid=1604363724)
@@ -102,6 +117,6 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
     + to replicate, download the .tsv and .tab files to ICBEdata/replication_paper/data/ignore/icews_dataverse/ and decompress
 
 
-### Acknowledgementes
+### Acknowledgements
  
  
