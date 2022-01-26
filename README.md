@@ -65,10 +65,17 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
         `./data_out/codings_long_agreed.Rds`,
         `./data_out/codings_wide_agreed.Rds`.
 
-## ICBe raw data
+## ICBe data products
 
   - Agreed Data, long form (LINK NEEDED)
   - Agreed Data, wide form (LINK NEEDED)
+  - [Raw
+    codings](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/data/icb_coder_crisis_sentence_event_aligned.Rds)
+      - the initial codings from different GUI versions adjusted so that
+        sentence numbers are aligned.
+
+### Additional data versions
+
   - [Clean data, wide
     form](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/data/icb_wide_clean.Rds)
       - each row is a coder-crisis-event-sentence (i.e. each time a
@@ -82,14 +89,10 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
       - the information about that sentence is distributed across
         multiple rows in the columns *variable* and *value*
       - each value contains a single entry
-  - [Raw
-    codings](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/data/icb_coder_crisis_sentence_event_aligned.Rds)
-      - the initial codings from different GUI versions adjusted so that
-        sentence numbers are aligned.
 
-## Other data inputs:
+## Data inputs:
 
-### ICBe prep
+### ICBe preperation
 
   - Cleaning dictionaries: used to clean raw codings for actors,
     actions, locations, and dates
@@ -100,12 +103,34 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
   - [Lit review and tree/leaf
     codebook](https://docs.google.com/spreadsheets/d/10tZGzjYgmvrbgQTV3oadVEV8m1LxLEDJEq9pzqq90Fc/edit#gid=1604363724)
 
-### Existing datasets
+### External datasets
 
-  - [The ICB project](https://sites.duke.edu/icbdata/) system-level
-    (./data/icb1v14.Rds) and actor-level (./data/icb2v14.Rds) datasets.
+  - [The ICB project](https://sites.duke.edu/icbdata/)
+      - System-level (./data/icb1v14.Rds) and Actor-level
+        (./data/icb2v14.Rds) datasets
+      - Dyadic-Level Crisis Data
+        ([source](https://sites.duke.edu/icbdata/data-collections/))
+  - [Militarized Interstate Disputes
+    (MID)](https://correlatesofwar.org/data-sets/MIDs) version 5.01 at
+    the incident level (MIDI 5.01) and incident-participant level (MIDIP
+    5.01) converted to Rds.
+  - [UCDP Georeferenced Event Dataset (GED) Global
+    version 21.1](https://ucdp.uu.se/downloads/index.html#ged_global)
+  - cameo.eventcode.txt adapted from [CAMEO Conflict and Mediation Event
+    Observations
+    Codebook](https://parusanalytics.com/eventdata/cameo.dir/CAMEO.09b6.pdf)
+  - [Phoenix Event
+    data](https://databank.illinois.edu/datasets/IDB-2796521)
+  - [Terrier event data](https://osf.io/4m2u7/files/)
+      - too large to include in the github repository
+      - to replicate, download the folder ‘largegeolocatedata’ to
+        ICBEdata/replication\_paper/data/ignore and decompress
   - [ICEWS data
-    sample](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/28075/WNOBVV&version=30.0)
-    from 1995 (./inst/extdata/icews.actors.20181119.RData).
+    sample](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28075&version=30.0)
+    from 1995 (./inst/extdata/icews.actors.20181119.RData)
+      - too large to include in the github repository
+      - to replicate, download the .tsv and .tab files to
+        ICBEdata/replication\_paper/data/ignore/icews\_dataverse/ and
+        decompress
 
 ### Acknowledgementes

@@ -228,7 +228,6 @@ Load normalization dictionaries
 
 ```{r message=FALSE}
 target_file <- paste0(here::here(),"/replication_data/in/icb_manual_recoding_master_sheet.xlsx")
-downloaded_file <- googledrive::drive_download(file="https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", path=target_file, type = "xlsx", overwrite=T)
 # in not working, run googledrive::drive_auth() and select new token
 
 dictionary_actions  <- readxl::read_excel(target_file, sheet="actions") %>% dplyr::distinct()

@@ -786,10 +786,9 @@ mid_df4 <- data.frame(
                        "501-999 deaths","> 999 deaths")
 )
 
-midip <- read_csv(paste0(here::here(), '/replication_paper/data/in/MIDIP_5.01.csv'))
 
-midii <- read_csv(paste0(here::here(), '/replication_paper/data/in/MIDI_5.01.csv'))
-
+midii <- readRDS(paste0(here::here(), '/replication_paper/data/in/MIDI_5.01.Rds'))
+midip <- readRDS(paste0(here::here(), '/replication_paper/data/in/MIDIP_5.01.Rds'))
 
 midip_clean <- midip %>% distinct() %>%
                       left_join(actor_translator %>% dplyr::select(ccode=COWcode, actor=QCode_name, actor_qcode=QCode)) %>%
@@ -1200,7 +1199,8 @@ data.frame(
 )
 
 
-icbdy_20 <- read_tsv(here::here(), "/replication_paper/data/in/icbdy_20.dat")
+#icbdy_20 <- read_tsv(here::here(), "/replication_paper/data/in/icbdy_20.dat")
+icbdy_20 <- readRDS(paste0(here::here(), '/replication_paper/data/in/icbdy_20.Rds'))
 
 icbdy_20_clean <- icbdy_20 %>%
                   left_join( icb_df %>% dplyr::select(STATEA=icb_code, actor_1=icb_name ) %>% mutate(STATEA=STATEA %>% as.numeric())  ) %>%
@@ -1720,7 +1720,7 @@ icb_crises %>% filter(yrtrig>=1989) %>% pull(crisno) %>% unique()  %>% sapply(FU
 
 ```{r}
 
-CAMEO_eventcodes <- read_tsv(here::here(), "/replication_paper/data/in/CAMEO.eventcodes.txt", col_types='cc') %>% janitor::clean_names()
+CAMEO_eventcodes <- read_tsv(paste0(here::here(), "/replication_paper/data/in/CAMEO.eventcodes.txt"), col_types='cc') %>% janitor::clean_names()
 
 
 cameo_code_rejects <- c('Make statement, not specified below', 'Consult, not specified below','Praise or endorse','Accuse, not specified below',
@@ -1891,8 +1891,9 @@ kill_sectors <- c(
 )
 kill_sectors_regex <- paste0(kill_sectors, collapse="|")
 
-files <- list.files(path = paste0(here::here(), "/replication_paper/data/in/dataverse_files (1)/"), pattern = ".tab$", full.names = T)
+files <- list.files(path = paste0(here::here(), "/replication_paper/data/ignore/icews_dataverse/"), full.names = T)
 icews <- bind_rows(lapply(files, FUN=function(x) read_tsv(x) )  ) %>% janitor::clean_names()
+
 dim(icews)
 
 CAMEO_eventcodes <- read_tsv(paste0(here::here(),"/replication_paper/data/in/CAMEO.eventcodes.txt"), col_types='cc') %>% janitor::clean_names()
@@ -1915,8 +1916,9 @@ actor_translator_icews <- actor_translator %>%  dplyr::select(ICEWS_Actor.Name, 
 
 dim(icews) #15,751,586
 icews_clean <- icews %>% 
-               left_join(CAMEO_eventcodes %>% mutate(cameoeventcode=cameoeventcode) %>%  #You have 
-                           dplyr::select(cameo_code=cameoeventcode, cameo_label= eventdescription)  )  %>%
+               left_join(CAMEO_eventcodes %>% mutate(cameo_code=cameo_code) # %>%  #You have 
+                           # dplyr::select(cameo_code=cameoeventcode, cameo_label= eventdescription)  
+                         )  %>%
                 filter(source_country %in% na.omit(actor_translator$ICEWS_Country) | source_name %in% na.omit(actor_translator$ICEWS_Actor.Name)) %>%
                 filter(target_country %in% na.omit(actor_translator$ICEWS_Country) | target_name %in% na.omit(actor_translator$ICEWS_Actor.Name) ) %>%
                 filter(!source_sectors %>% str_detect(kill_sectors_regex)) %>%
@@ -2311,13 +2313,14 @@ library(countrycode)
 library(igraph)
 library(ggraph)
 
-
-
-a <- read_csv(paste0(here::here, '/replication_paper/data/in/phoenix/PhoenixBLN-NYT_1980-2018.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
-b  <- read_csv(paste0(here::here, '/replication_paper/data/in/phoenix/PhoenixBLN-SWB_1979-2019.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
-c  <- read_csv(paste0(here::here, '/replication_paper/data/in/phoenix/PhoenixFBIS_1995-2004.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
-d  <- read_csv(paste0(here::here, '/replication_paper/data/in/phoenix/PhoenixNYT_1945-2005.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
-e <- read_csv(paste0(here::here, '/replication_paper/data/in/phoenix/PhoenixWSJ_1945-2006.csv', col_types = 'ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc'))
+a <- readRDS(paste0(here::here(), '/replication_paper/data/in/PhoenixBLN-NYT_1980-2018.Rds'))
+b <- dplyr::bind_rows(
+  readRDS(paste0(here::here(), '/replication_paper/data/in/PhoenixBLN-SWB_1979-2019a.Rds')),
+  readRDS(paste0(here::here(), '/replication_paper/data/in/PhoenixBLN-SWB_1979-2019b.Rds')),          
+  readRDS(paste0(here::here(), '/replication_paper/data/in/PhoenixBLN-SWB_1979-2019c.Rds')))
+c <- readRDS(paste0(here::here(), '/replication_paper/data/in/PhoenixFBIS_1995-2004.Rds'))
+d <- readRDS(paste0(here::here(), '/replication_paper/data/in/PhoenixNYT_1945-2005.Rds'))
+e <- readRDS(paste0(here::here(), '/replication_paper/data/in/PhoenixWSJ_1945-2006.Rds'))
 
 phoenix <- bind_rows(a, b, c, d , e)
 
@@ -2781,7 +2784,7 @@ df <- data.frame(
 ) %>% janitor::clean_names()
 
 
-files <- list.files(path = paste0(here::here(), "/replication_paper/data/in/largegeolocateddata/"), pattern = ".tsv$", full.names = T)
+files <- list.files(path = paste0(here::here(), "/replication_paper/data/ignore/largegeolocateddata/"), pattern = ".tsv$", full.names = T)
 terrier <- bind_rows(lapply(files, FUN=function(x) read_tsv(x,col_names=F, col_types=paste0(rep('c',50), collapse='')  )  ) ) %>% janitor::clean_names()
 dim(terrier) #28,370,448       28
 

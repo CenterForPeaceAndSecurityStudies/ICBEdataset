@@ -59,11 +59,11 @@ library(googlesheets4)
 
 ```{r}
 
-codings_wide_agreed <- readRDS(file=paste0(here::here(),'/replication_data/out/codings_wide_agreed.Rds'))
-codings_long_agreed <- readRDS( paste0(here::here(), '/replication_data/out/codings_long_agreed.Rds'))
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds"))
-codings_long <- readRDS(file=paste0(here::here(), '/data_out/codings_long.Rds'))
-codings_long_agreement <- readRDS(file=paste0(here::here(), '/data_out/codings_long_agreement.Rds'))
+codings_wide_agreed <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_wide_agreed.Rds")) 
+codings_long_agreed <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long_agreed.Rds")) 
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_paper/data/in/icb_long_clean.Rds")) 
+codings_long <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long.Rds")) 
+codings_long_agreement <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long_agreement.Rds")) 
 
 ```
 
@@ -83,6 +83,8 @@ sentences_unique_sanitized <- sentences_unique %>% str_replace_all("[A-Z][a-z]*"
 ```{r, messages=F, results='hide'}
 library(reticulate)
 #py_discover_config()
+
+
 use_python("/home/skynet3/anaconda3/bin/python/")
 
 ```
@@ -117,12 +119,12 @@ embedding <- umap(sentences_embeddings  )
 sentences_embeded <- embedding[,c('UMAP1','UMAP2')] %>% as.data.frame()
 sentences_embeded$sentence <- sentences_unique
 
-codings_long_agreed <- readRDS( paste0(here::here(), "/replication_data/out/codings_long_agreed.Rds")) 
+codings_long_agreed <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long_agreed.Rds")) 
 codings_long_agreed_embeded <- codings_long_agreed %>% ungroup() %>% left_join(sentences_embeded)
 
-codings_long_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_data/temp/codings_long_agreed_embeded.Rds'))
+codings_long_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_paper/temp/codings_long_agreed_embeded.Rds'))
 
-codings_wide_agreed <- readRDS(paste0(here::here(), '/replication_data/out/codings_wide_agreed.Rds'))
+codings_wide_agreed <- readRDS(paste0(here::here(), '/replication_paper/data/in/codings_wide_agreed.Rds'))
 codings_wide_agreed_embeded <- codings_wide_agreed %>% ungroup() %>% left_join(sentences_embeded)
 
 codings_wide_agreed_embeded_stratified_sample  <- codings_wide_agreed_embeded %>% 
@@ -134,7 +136,7 @@ codings_wide_agreed_embeded_stratified_sample  <- codings_wide_agreed_embeded %>
 sampled <- codings_wide_agreed_embeded_stratified_sample %>% ungroup() %>% mutate(crisno_sent=paste0(crisno,'.',sentence_number_int_aligned)) %>%
   dplyr::select(crisno_sent, UMAP1,UMAP2) %>% distinct()
 
-codings_wide_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_data/temp/codings_wide_agreed_embeded.Rds'))
+codings_wide_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_paper/temp/codings_wide_agreed_embeded.Rds'))
 
 
 var_keep <- c('Behavior','do_aggression','Do_Armed_Unarmed','leaf_do_original') %>% tolower() #'Event_Any',
@@ -190,7 +192,7 @@ p_semantic_embeddings <-
 
 
 
-p_semantic_embeddings   %>% saveRDS(paste0(here::here(), '/paper_replication/figures/p_semantic_embeddings.Rds'))
+p_semantic_embeddings %>% saveRDS(paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings.Rds'))
 p_semantic_embeddings
 
 ```
