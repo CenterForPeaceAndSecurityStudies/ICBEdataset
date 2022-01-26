@@ -51,9 +51,9 @@ header-includes:
 
 ```{r}
 
-library(flextable); library(ftExtra)
+library(flextable)
+library(ftExtra)
 library(tidyverse)
-library(googlesheets4)
 
 ```
 
@@ -83,7 +83,6 @@ sentences_unique_sanitized <- sentences_unique %>% str_replace_all("[A-Z][a-z]*"
 ```{r, messages=F, results='hide'}
 library(reticulate)
 #py_discover_config()
-
 
 use_python("/home/skynet3/anaconda3/bin/python/")
 

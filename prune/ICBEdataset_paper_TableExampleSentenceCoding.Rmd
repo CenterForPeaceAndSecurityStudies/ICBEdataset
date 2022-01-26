@@ -17,7 +17,7 @@ p_load(ftExtra)
 
 ```{r, echo=F, results='asis', message=F, warning=F, eval=T , cache=F}
 
-target_file <- paste0(here::here(),"/replication_paper/data/in/icbe_litreview,_trees_sentences.xlsx")
+target_file <- paste0(here::here(),"/replication_paper/data/in/icbe_litreview_trees_sentences.xlsx")
 sentence_example_sheet    <- readxl::read_excel(target_file, sheet="Sentence Tree Example Table")
 
 ```

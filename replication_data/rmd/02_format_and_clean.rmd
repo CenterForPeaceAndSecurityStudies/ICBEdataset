@@ -622,7 +622,7 @@ icb_long_clean2 <- icb_long_clean %>%
 
 
 temp_wide <- icb_long_clean2 %>%
-             dplyr::select(icb_survey_version, email_id,  crisno, sentence_number_int_aligned, section, sentence,event_number_int,  event_number_int_condition, variable_normalized, value_normalized) %>%
+             dplyr::select(icb_survey_version, email_id, input_crisis,  crisno, sentence_number_int_aligned, section, sentence,event_number_int,  event_number_int_condition, variable_normalized, value_normalized) %>%
              dplyr::mutate(value_normalized= value_normalized %>% trimws() %>% tolower()) %>%
              dplyr::mutate(variable_normalized= variable_normalized %>% trimws() %>% tolower()) %>%
              dplyr::filter(variable_normalized %in% (c( 'sentence_events', drops ) %>% trimws() %>% tolower()) ) %>%
@@ -634,12 +634,12 @@ temp_wide <- icb_long_clean2 %>%
 
 temp_long <- temp_wide %>% 
          dplyr::select(-variable_normalized,-value_normalized) %>%
-         tidyr::pivot_longer(-c(icb_survey_version, email_id, crisno, sentence_number_int_aligned, section, sentence,   event_number_int,event_number_int_condition),
+         tidyr::pivot_longer(-c(icb_survey_version, email_id,  input_crisis, crisno, sentence_number_int_aligned, section, sentence,   event_number_int,event_number_int_condition),
                       names_to='variable_normalized' , values_to= 'value_normalized')  %>%
          dplyr::filter(!is.na(value_normalized))
 
 icb_long_clean_final <- icb_long_clean2 %>%
-                   dplyr::select(icb_survey_version, email_id, crisno, sentence_number_int_aligned, section,  sentence,  event_number_int, event_number_int_condition, variable_normalized, value_normalized) %>%
+                   dplyr::select(icb_survey_version, email_id, input_crisis, crisno, sentence_number_int_aligned, section,  sentence,  event_number_int, event_number_int_condition, variable_normalized, value_normalized) %>%
                   rbind(temp_long) %>% dplyr::distinct() %>% 
                   dplyr::filter(!variable_normalized %in% drops)
                   

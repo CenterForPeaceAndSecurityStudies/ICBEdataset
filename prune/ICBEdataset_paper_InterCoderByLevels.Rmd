@@ -24,7 +24,7 @@ icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_paper/data/in/
 
 ```{r}
 
-target_file <- paste0(here::here(),"/replication_paper/data/in/icbe_litreview,_trees_sentences.xlsx")
+target_file <- paste0(here::here(),"/replication_paper/data/in/icbe_litreview_trees_sentences.xlsx")
 full_tree    <- readxl::read_excel(target_file, sheet="Codebook in Tree Form")
 
 

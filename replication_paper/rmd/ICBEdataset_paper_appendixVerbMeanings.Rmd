@@ -52,7 +52,7 @@ entities$doc_id_num <- entities$doc_id %>% str_replace_all("text","") %>% as.num
 entities$crisno <- icb_text$crisno[entities$doc_id_num]
 entities_unique <- entities %>% dplyr::select(entity,entity_type) %>% mutate(entity = entity %>% str_to_lower() %>% str_replace_all("[^A-Za-z0-9]","") ) %>% distinct()
 
-target_file <- paste0(here::here(),"/data/icb_manual_recoding_master_sheet.xlsx")
+target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
 dictionary_actors    <- readxl::read_excel(target_file, sheet="actors")
 
 unique_agent_q_codes <- dictionary_actors$value_disaggregated_wikidata_id %>% na.omit() %>% unique() %>% str_split(";") %>% unlist() %>% trimws() %>% unique()

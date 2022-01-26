@@ -598,7 +598,7 @@ icb_crises_qa_wide <- icb_crises_qa %>%
 
 
 ```{r include=F}
-#Load the ICB wide codings
+# #Load the ICB wide codings
 icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_paper/data/in/icb_wide_clean.Rds"))
 n_crisis <- icb_wide_clean %>% dplyr::select(crisno) %>% unique() %>% nrow()
 n_sentences <- icb_wide_clean %>% dplyr::select(crisno, sentence_number_int_aligned) %>% unique() %>% nrow()
@@ -606,19 +606,19 @@ n_events <- icb_wide_clean %>% dplyr::filter(event_number_int %in% c(1,2,3)) %>%
 n_events_cuba <- icb_wide_clean %>% dplyr::filter(crisno == 196 & event_number_int %in% c(1,2,3)) %>% nrow()
 n_coders <- icb_wide_clean %>% dplyr::select(email_id) %>% unique() %>% nrow()
 
-avg_coders_per_crisis <- icb_wide_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_coder = paste(crisno, email_crc32)) %>% dplyr::select(crisno, email_crc32) %>% unique() %>% dplyr::count(crisno) %>% dplyr::select(n) %>% lapply(mean)
+avg_coders_per_crisis <- icb_wide_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_coder = paste(crisno, email_id)) %>% dplyr::select(crisno, email_id) %>% unique() %>% dplyr::count(crisno) %>% dplyr::select(n) %>% lapply(mean)
 
 avg_coders_per_sentence <- icb_wide_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_sent = paste(crisno, sentence_number_int_aligned)) %>% dplyr::select(cris_sent, email_id) %>% unique() %>% dplyr::count(cris_sent) %>% dplyr::select(n) %>% lapply(mean)
 
-avg_events_per_coder_crisis <- icb_wide_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_coder = paste(crisno, email_crc32)) %>% dplyr::count(cris_coder) %>% dplyr::select(n) %>% lapply(mean)
+avg_events_per_coder_crisis <- icb_wide_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_coder = paste(crisno, email_id)) %>% dplyr::count(cris_coder) %>% dplyr::select(n) %>% lapply(mean)
 
-events_per_sentence <- icb_wide_clean %>% 
+events_per_sentence <- icb_wide_clean %>%
                         filter(!is.na(sentence_number_int_aligned)) %>%
                         dplyr::select(email_id, crisno,sentence_number_int_aligned,  event_type) %>%  #event_number_int
-                        group_by(email_id,crisno,sentence_number_int_aligned) %>% 
+                        group_by(email_id,crisno,sentence_number_int_aligned) %>%
                         summarise(event_count = sum(!is.na(event_type) ) ) %>%
                         mutate_all(as.numeric) %>%
-                        group_by(crisno,sentence_number_int_aligned) %>% 
+                        group_by(crisno,sentence_number_int_aligned) %>%
                         summarise(
                           event_count_min=event_count %>% min(),
                           event_count_mean=event_count %>% mean(na.rm=T),
@@ -628,16 +628,16 @@ events_per_sentence <- icb_wide_clean %>%
 
 events_per_crisis <- events_per_sentence %>% group_by(crisno) %>% summarise(event_count_mean_sum=sum(event_count_mean))
 
-crisis_text_counts <- icb_wide_clean %>% 
+crisis_text_counts <- icb_wide_clean %>%
   mutate( input_crisis = input_crisis %>% str_replace_all("[^A-Za-z0-9 ]","") ) %>% #Throws a latex error  #inputenc Error: Unicode char \u8: not set up for use with LaTeX
   #https://www.google.com/search?q=R+replace+00A0&oq=R+replace+00A0&aqs=chrome..69i57j0i20i263i512j0i512l2j69i65j69i60l3.1744j0j7&sourceid=chrome&ie=UTF-8
-  dplyr::select(crisno, input_crisis, sentence) %>% 
-  #mutate(input_crisis = input_crisis %>% stringr::str_to_title()) %>% 
-  mutate(input_crisis = input_crisis %>% stringr::str_replace_all('[0-9]$','')) %>% 
-  mutate(sentence = sentence %>% stringr::str_to_lower()) %>% 
-  distinct() %>% 
-  filter(!is.na(input_crisis)) %>% 
-  filter(!is.na(sentence)) %>% 
+  dplyr::select(crisno, input_crisis, sentence) %>%
+  #mutate(input_crisis = input_crisis %>% stringr::str_to_title()) %>%
+  mutate(input_crisis = input_crisis %>% stringr::str_replace_all('[0-9]$','')) %>%
+  mutate(sentence = sentence %>% stringr::str_to_lower()) %>%
+  distinct() %>%
+  filter(!is.na(input_crisis)) %>%
+  filter(!is.na(sentence)) %>%
   mutate(word_count=str_count(sentence, '\\w+')) %>%
   group_by(crisno, input_crisis) %>%
   summarise(
@@ -649,18 +649,18 @@ crisis_text_counts <- icb_wide_clean %>%
 #Even type
 
 library(sjmisc)
-event_type_per_sentence <- icb_wide_clean %>% 
+event_type_per_sentence <- icb_wide_clean %>%
                             filter(!is.na(sentence_number_int_aligned)) %>%
-                            dplyr::select(email_id, crisno,sentence_number_int_aligned,  event_type)  %>% 
-                            to_dummy(event_type, suffix = "label") %>% 
-                            bind_cols( icb_wide_clean %>% 
+                            dplyr::select(email_id, crisno,sentence_number_int_aligned,  event_type)  %>%
+                            to_dummy(event_type, suffix = "label") %>%
+                            bind_cols( icb_wide_clean %>%
                             filter(!is.na(sentence_number_int_aligned)) %>%
                             dplyr::select(email_id, crisno,sentence_number_int_aligned,  event_type) ) %>%
 
-                            group_by(email_id,crisno,sentence_number_int_aligned) %>% 
+                            group_by(email_id,crisno,sentence_number_int_aligned) %>%
                             summarise_if( is.numeric, sum ) %>%
 
-                            group_by(crisno,sentence_number_int_aligned) %>% 
+                            group_by(crisno,sentence_number_int_aligned) %>%
                             summarise_if( is.numeric, mean, na.rm=T ) %>%
                             arrange(crisno,sentence_number_int_aligned)
 

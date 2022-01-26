@@ -25,7 +25,7 @@ rex_count <- function(x) { x %>% unique() %>% na.omit() %>% sort() %>% paste0(se
 ## Hand coded aggregations
 
 ```{r}
-target_file <- paste0(here::here(),"/replication_paper/data/in/icbe_litreview,_trees_sentences.xlsx")
+target_file <- paste0(here::here(),"/replication_paper/data/in/icbe_litreview_trees_sentences.xlsx")
 full_tree    <- readxl::read_excel(target_file, sheet="Codebook in Tree Form")
 
 full_tree <- full_tree %>% filter(!is.na(Leaf) & Leaf!='')

@@ -8,8 +8,6 @@ output: html_document
 library(pacman)
 p_load(flextable)
 p_load(ftExtra)
-p_load(googlesheets4)
-library(googlesheets4)
 
 ```
 
