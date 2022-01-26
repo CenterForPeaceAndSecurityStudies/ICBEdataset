@@ -55,11 +55,11 @@ library(tidyverse)
 ```
 
 ```{r}
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/data/in/icb_long_clean.Rds")) 
-codings_long <- readRDS(paste0(here::here(), '/replication_data/data/in/codings_long.Rds'))
-codings_long_agreement <- readRDS( paste0(here::here(), '/replication_data/data/in/codings_long_agreement.Rds'))
-codings_long_agreed <- readRDS( paste0(here::here(), '/replication_data/data/in/codings_long_agreed.Rds'))
-codings_wide_agreed <- readRDS( paste0(here::here(), '/replication_data/data/in/codings_wide_agreed.Rds'))
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_paper/data/in/icb_long_clean.Rds")) 
+codings_long <- readRDS(paste0(here::here(), '/replication_paper/data/in/codings_long.Rds'))
+codings_long_agreement <- readRDS( paste0(here::here(), '/replication_paper/data/in/codings_long_agreement.Rds'))
+codings_long_agreed <- readRDS( paste0(here::here(), '/replication_paper/data/in/codings_long_agreed.Rds'))
+codings_wide_agreed <- readRDS( paste0(here::here(), '/replication_paper/data/in/codings_wide_agreed.Rds'))
 
 ```
 

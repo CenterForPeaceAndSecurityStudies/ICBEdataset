@@ -62,7 +62,7 @@ options(tidyverse.quiet = TRUE)
 options(gargle_oauth_email = TRUE)
 
 
-icb_crises <- read.csv(paste0(here::here(), "/replication_paper/data/in/","icb1v14.csv")) 
+icb_crises <- read.csv(paste0(here::here(), "/replication_paper/data/in/icb1v14.csv")) 
 #icb_crises <-readRDS(paste0(here::here(), "/data/icb1v14.Rds"))
 
 ```
@@ -71,8 +71,8 @@ icb_crises <- read.csv(paste0(here::here(), "/replication_paper/data/in/","icb1v
 # MOVED TO figures/ICBEdataset_figure_semantic_embeddings.Rmd
 
 #child=c('ICBEdataset_paper_PlotInterCoderAgreement.Rmd')
-p_semantic_embeddings <- readRDS(file=paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings.Rds'))
-ggsave(file=paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=8, height=8)
+# p_semantic_embeddings <- readRDS(file=paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings.Rds'))
+# ggsave(file=paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=8, height=8)
 ```
 
 #Case  196 Cuban Missile

@@ -121,7 +121,7 @@ sentences_embeded$sentence <- sentences_unique
 codings_long_agreed <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long_agreed.Rds")) 
 codings_long_agreed_embeded <- codings_long_agreed %>% ungroup() %>% left_join(sentences_embeded)
 
-codings_long_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_paper/temp/codings_long_agreed_embeded.Rds'))
+codings_long_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/codings_long_agreed_embeded.Rds'))
 
 codings_wide_agreed <- readRDS(paste0(here::here(), '/replication_paper/data/in/codings_wide_agreed.Rds'))
 codings_wide_agreed_embeded <- codings_wide_agreed %>% ungroup() %>% left_join(sentences_embeded)
@@ -135,7 +135,7 @@ codings_wide_agreed_embeded_stratified_sample  <- codings_wide_agreed_embeded %>
 sampled <- codings_wide_agreed_embeded_stratified_sample %>% ungroup() %>% mutate(crisno_sent=paste0(crisno,'.',sentence_number_int_aligned)) %>%
   dplyr::select(crisno_sent, UMAP1,UMAP2) %>% distinct()
 
-codings_wide_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_paper/temp/codings_wide_agreed_embeded.Rds'))
+codings_wide_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/codings_wide_agreed_embeded.Rds'))
 
 
 var_keep <- c('Behavior','do_aggression','Do_Armed_Unarmed','leaf_do_original') %>% tolower() #'Event_Any',
@@ -193,6 +193,8 @@ p_semantic_embeddings <-
 
 p_semantic_embeddings %>% saveRDS(paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings.Rds'))
 p_semantic_embeddings
+
+ggsave(file=paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=8, height=8)
 
 ```
 
