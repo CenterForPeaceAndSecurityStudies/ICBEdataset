@@ -80,7 +80,7 @@ header-includes:
 #International Crisis Behavior Events (ICBe) Dataset
 knitr::opts_chunk$set(echo=F, cache=TRUE, messages=F, results='hide', warnings=F, include=FALSE) #fig.width = 8, fig.height = 8, message=F, warning=F, , results=F
 
-TLS = FALSE
+TLS = TRUE
 ```
 
 ```{r, eval=T, echo=F, cache=F}
@@ -245,14 +245,14 @@ if(fromscratch){
   parsed$sentence_number_int_aligned <- icb_text$sentence_number_int_aligned[parsed$doc_id_num]  %>% as.numeric()
   parsed$sentence <- icb_text$sentence[parsed$doc_id_num]
 
-  parsed %>% saveRDS(paste0(here::here(), "/replication_data/temp/parsed.Rds"))
+  parsed %>% saveRDS(paste0(here::here(), "/replication_paper/data/temp/parsed.Rds"))
 
   entities <- entity_extract(parsed, type = "all")
-  entities %>% saveRDS(paste0(here::here(), "/replication_data/temp/entities.Rds"))
+  entities %>% saveRDS(paste0(here::here(), "/replication_paper/data/temp/entities.Rds"))
 
 } else {
-  parsed <- readRDS(paste0(here::here(), "/replication_data/temp/parsed.Rds"))
-  entities <- readRDS(paste0(here::here(), "/replication_data/temp/entities.Rds"))
+  parsed <- readRDS(paste0(here::here(), "/replication_paper/data/temp/parsed.Rds"))
+  entities <- readRDS(paste0(here::here(), "/replication_paper/data/temp/entities.Rds"))
 
 }
 
@@ -262,9 +262,6 @@ entities_unique <- entities %>% dplyr::select(entity,entity_type) %>% mutate(ent
 
 target_file <- paste0(here::here(),"/replication_data/in/icb_manual_recoding_master_sheet.xlsx")
 
-if(!TLS){
-downloaded_file <- googledrive::drive_download(file="https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit#gid=0", path=target_file, type = "xlsx", overwrite=T)
-}
 dictionary_actors    <- readxl::read_excel(target_file, sheet="actors")
 actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator")
 
@@ -291,9 +288,7 @@ entities_per_sentence <- entities %>%
 #wordnet rdf (in tripple format)
 fromscratch=F
 
-ym   4
-wordnet_rdf <- readRDS(paste0(here::here(), "/replication_data/in/wordnet_rdf.Rds") )
-
+wordnet_rdf <- readRDS(paste0(here::here(), "/replication_paper/data/in/wordnet_rdf.Rds") )
 
 subject_headings <- wordnet_rdf %>% as_tibble() %>% filter(value %>% str_detect('http://purl.org/dc/terms/subject'))
 subject_headings_verbs <- subject_headings %>%
@@ -304,8 +299,8 @@ subject_headings_verbs <- subject_headings %>%
   mutate(b = b %>% str_replace_all('\\"| \\.',""))
 
 #wordnet csv
-filenames <- list.files(path=paste0(here::here(), "/data_replication/in/wncsv-master/csv/") )
-filepaths <- list.files(path=paste0(here::here(), "/data_replication/in/wncsv-master/csv/"), full.names = T)
+filenames <- list.files(path=paste0(here::here(), "/replication_paper/data/in/wncsv-master/csv/") )
+filepaths <- list.files(path=paste0(here::here(), "/replication_paper/data/in/wncsv-master/csv/"), full.names = T)
 
 
 wordnet_list <- lapply(filepaths, read_csv, col_names=F, progress=F #, show_col_types=F)
@@ -363,11 +358,11 @@ if(fromscratch){
   #Isn't it just one minus the other?
   verbs_sentence_wordnet$distances <- rowSums((glosses_embeddings_expanded-sentences_embeddings_expanded)^2)
   verbs_sentence_wordnet <- verbs_sentence_wordnet %>% arrange(crisno, sentence_number_int_aligned, token_id, distances)
-  verbs_sentence_wordnet %>% saveRDS(paste0(here::here(), "/data_replication/temp/verbs_sentence_wordnet.Rds"))
+  verbs_sentence_wordnet %>% saveRDS(paste0(here::here(), "/replication_paper/data/temp/verbs_sentence_wordnet.Rds"))
 
 } else {
 
-  verbs_sentence_wordnet <- readRDS(paste0(here::here(),"/data_replication/temp/verbs_sentence_wordnet.Rds"))
+  verbs_sentence_wordnet <- readRDS(paste0(here::here(),"/replication_paper/data/temp/verbs_sentence_wordnet.Rds"))
 
 }
 
