@@ -9,14 +9,11 @@ p_load(igraph)
 p_load(tidyverse)
 p_load(flextable)
 p_load(ftExtra)
-p_load(googlesheets4)
-library(googlesheets4)
-
 ```
 
 
 ```{r}
-icb_wide_clean <- readRDS(file=paste0(here::here(), "/data/icb_wide_clean.Rds"))
+icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_paper/data/in/icb_wide_clean.Rds"))
 ```
 
 
@@ -40,14 +37,14 @@ if(fromscratch){
   parsed$sentence_number_int_aligned <- icb_text$sentence_number_int_aligned[parsed$doc_id_num]  %>% as.numeric()
   parsed$sentence <- icb_text$sentence[parsed$doc_id_num] 
   
-  parsed %>% saveRDS(paste0(here::here(), "/data/parsed.Rds"))
+  parsed %>% saveRDS(paste0(here::here(), "/replication_paper/data/temp/parsed.Rds"))
   
   entities <- entity_extract(parsed, type = "all")
-  entities %>% saveRDS(paste0(here::here(), "/data/entities.Rds"))
+  entities %>% saveRDS(paste0(here::here(), "/replication_paper/data/temp/entities.Rds"))
 
 } else {
-  parsed <- readRDS(paste0(here::here(), "/data/parsed.Rds"))
-  entities <- readRDS(paste0(here::here(), "/data/entities.Rds"))
+  parsed <- readRDS(paste0(here::here(), "/replication_paper/data/temp/parsed.Rds"))
+  entities <- readRDS(paste0(here::here(), "/replication_paper/data/temp/entities.Rds"))
   
 }
 
@@ -56,7 +53,6 @@ entities$crisno <- icb_text$crisno[entities$doc_id_num]
 entities_unique <- entities %>% dplyr::select(entity,entity_type) %>% mutate(entity = entity %>% str_to_lower() %>% str_replace_all("[^A-Za-z0-9]","") ) %>% distinct()
 
 target_file <- paste0(here::here(),"/data/icb_manual_recoding_master_sheet.xlsx")
-downloaded_file <- googledrive::drive_download(file="https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", path=target_file, type = "xlsx", overwrite=T)
 dictionary_actors    <- readxl::read_excel(target_file, sheet="actors")
 
 unique_agent_q_codes <- dictionary_actors$value_disaggregated_wikidata_id %>% na.omit() %>% unique() %>% str_split(";") %>% unlist() %>% trimws() %>% unique()
@@ -82,7 +78,7 @@ entities_per_sentence <- entities %>%
 #wordnet rdf (in tripple format)
 fromscratch=F
 
-wordnet_rdf <- readRDS(paste0(here::here(), "/replication_data/in/wordnet_rdf.Rds") )
+wordnet_rdf <- readRDS(paste0(here::here(), "/replication_paper/data/in/wordnet_rdf.Rds") )
 
 
 subject_headings <- wordnet_rdf %>% as_tibble() %>% filter(value %>% str_detect('http://purl.org/dc/terms/subject'))
@@ -98,8 +94,8 @@ subject_headings_verbs <- subject_headings %>%
 
 
 #wordnet csv
-filenames <- list.files(path=paste0(here::here(), "/data_replication/in/wncsv-master/csv/"))
-filepaths <- list.files(path=paste0(here::here(), "/data_replication/in/wncsv-master/csv/"), full.names = T)
+filenames <- list.files(path=paste0(here::here(), "/replication_paper/data/in/wncsv-master/csv/"))
+filepaths <- list.files(path=paste0(here::here(), "/replication_paper/data/in/wncsv-master/csv/"), full.names = T)
 
 wordnet_list <- lapply(filepaths, read_csv, col_names=F, progress=F, show_col_types=F)
 names(wordnet_list) <- filenames
@@ -169,11 +165,11 @@ if(fromsrcatch){
   #Isn't it just one minus the other?
   verbs_sentence_wordnet$distances <- rowSums((glosses_embeddings_expanded-sentences_embeddings_expanded)^2)
   verbs_sentence_wordnet <- verbs_sentence_wordnet %>% arrange(crisno, sentence_number_int_aligned, token_id, distances)
-  verbs_sentence_wordnet %>% saveRDS(paste0(here::here(), "/data_replication/temp/verbs_sentence_wordnet.Rds"))
+  verbs_sentence_wordnet %>% saveRDS(paste0(here::here(), "/replication_paper/data/temp/verbs_sentence_wordnet.Rds"))
 
 } else {
   
-  verbs_sentence_wordnet <- readRDS(paste0(here::here(), "/data_replication/temp/verbs_sentence_wordnet.Rds"))
+  verbs_sentence_wordnet <- readRDS(paste0(here::here(), "/replication_paper/data/temp/verbs_sentence_wordnet.Rds"))
   
 }
 
@@ -252,7 +248,7 @@ p <- tblg_hypernyms_verbs_used %>%
       geom_edge_link(width=0.5, alpha=0.25 )  + 
       geom_node_label(aes(label = lemma), repel = TRUE, size=3)
 
-ggsave(filename=paste0(here::here(), "/paper/figures/hypernyms_plot.pdf"), plot=p, height=100,width =32,limitsize = FALSE)
+ggsave(filename=paste0(here::here(), "/replication_paper/figures/hypernyms_plot.pdf"), plot=p, height=100,width =32,limitsize = FALSE)
 
 #
 
@@ -276,7 +272,7 @@ p_rooted <- tblg_hypernyms_verbs_used_rooted %>%
             geom_edge_elbow(width=0.5, alpha=0.25 )  + 
             geom_node_label(aes(label = lemma), repel = TRUE, size=3)
 
-ggsave(filename=paste0(here::here(), "/paper/figures/hypernyms_rooted_plot.pdf"), plot=p_rooted, height=100,width =32,limitsize = FALSE)
+ggsave(filename=paste0(here::here(), "/replication_paper/figures/hypernyms_rooted_plot.pdf"), plot=p_rooted, height=100,width =32,limitsize = FALSE)
 
 
 library(data.tree)
@@ -385,7 +381,7 @@ verbs_sentence_wordnet_top_ft <-
       
 #https://cran.r-project.org/web/packages/ftExtra/vignettes/format_columns.html
 
-verbs_sentence_wordnet_top_ft  %>% saveRDS(paste0(here::here(), '/paper/tables/verbs_sentence_wordnet_top_ft.Rds'))
+verbs_sentence_wordnet_top_ft  %>% saveRDS(paste0(here::here(), '/replication_paper/tables/verbs_sentence_wordnet_top_ft.Rds'))
 verbs_sentence_wordnet_top_ft
 
 ```

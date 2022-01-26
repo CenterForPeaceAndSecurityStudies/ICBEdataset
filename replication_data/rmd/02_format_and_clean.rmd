@@ -647,7 +647,7 @@ icb_long_clean_final <- icb_long_clean2 %>%
 Save icb_long_clean!
 ```{r}
 saveRDS(icb_long_clean_final, paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds"))
-saveRDS(icb_long_clean_final, paste0(here::here(), "/replication_paper/data/input/icb_long_clean.Rds")) 
+saveRDS(icb_long_clean_final, paste0(here::here(), "/replication_paper/data/in/icb_long_clean.Rds")) 
 
 ```
 
@@ -669,5 +669,6 @@ icb_wide_clean <- icb_long_clean_final %>%
   #There's also a weird situation where they sometimes created events without tagging it as a think, do,say
 
 saveRDS(icb_wide_clean, paste0(here::here(), "/replication_data/temp/icb_wide_clean.Rds")) 
+saveRDS(icb_wide_clean, paste0(here::here(), "/replication_paper/in/icb_wide_clean.Rds")) 
 
 ```

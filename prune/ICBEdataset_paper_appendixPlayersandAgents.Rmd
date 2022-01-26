@@ -1,0 +1,70 @@
+---
+title: "Appendix ICBe Players and Agents"
+output: html_document
+---
+
+```{r, echo=F, results='asis', message=F, warning=F, eval=T , cache=F}
+library(pacman)
+p_load(tidyverse)
+p_load(flextable)
+p_load(ftExtra)
+```
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, ft.arraystretch=0.75}
+target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
+dictionary_actors    <- readxl::read_excel(target_file, sheet="actors")
+
+```
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, ft.arraystretch=0.75}
+
+actor_agents <- dictionary_actors %>%
+  #dplyr::select(Player=value_normalized_label, Qcode=value_normalized_wikidata_id, Piece=value_disaggregated_wikidata_label, Qcode_=value_disaggregated_wikidata_id) %>% 
+  filter(!is.na(value_normalized) & value_normalized!='') %>%
+  mutate(
+    value_normalized_label = value_normalized_label %>% str_replace_all("[^A-Za-z0-9 ]",""),   #Throws a latex error  #inputenc Error: Unicode char \u8: not set up for use with LaTeX
+    value_disaggregated_wikidata_label = value_disaggregated_wikidata_label %>% str_replace_all("[^A-Za-z0-9 ]",""),   #Throws a latex error  #inputenc Error: Unicode char \u8: not set up for use with LaTeX
+  ) %>%
+  mutate(Player=paste0(value_normalized_label, " (",value_normalized_wikidata_id,")"),
+         Piece=paste0(value_disaggregated_wikidata_label, " (",value_disaggregated_wikidata_id,")") 
+         ) %>%
+  mutate(Piece= ifelse(Piece %in% "NA (NA)" |  Piece==Player, "",Piece) ) %>%
+  dplyr::select(Player,Piece) %>% 
+  arrange(Player,Piece) %>% 
+  distinct() %>%
+  group_by(Player) %>%
+  summarise(Piece= paste0(Piece, collapse=" ; ")) %>%
+  mutate(Piece= Piece %>% str_replace_all(" ;  ; ","") ) %>%
+  mutate(Piece= Piece %>% str_replace_all("^ ; | ; $","") ) %>%
+  mutate(Player_Pieces = paste0(Player , " {", Piece, "}")) %>%
+  mutate(Player_Pieces= Player_Pieces %>% str_replace_all(" \\{\\}","") )   %>%
+
+  dplyr::select(Player_Pieces) 
+  
+library(officer) #needed for fp_border(color="gray")
+actor_agents_ft <- 
+actor_agents %>% 
+      dplyr::select(Player_Pieces) %>%
+      flextable::as_flextable() %>%
+      bg( i = which( 1:nrow(actor_agents) %% 2 == 1), part = "body", bg = "#EFEFEF") %>%
+      #merge_v(part = "body") %>% 
+      flextable::width( j = 1, width=7) %>%
+      flextable::fontsize(size = 6, part = "body") %>%
+      #flextable::line_spacing( space = 0.5, part = "body") %>% #i=1:nrow(lit_review_alt),
+      flextable::padding(padding = 0, part = "body") %>%
+      #hline(i=which( actor_agents$Player!=c(actor_agents$Player[2:length(actor_agents$Player)], NA) ), border = fp_border(color="gray", width = 0.25), part = "body") 
+  
+      #add_header( "IR Player_Pieces"="Citations"
+
+      #            top = TRUE ) %>%
+      set_header_labels(
+        values = list("Player_Pieces" = "Players {Agents}" ) 
+        ) 
+
+actor_agents_ft  %>% saveRDS(paste0(here::here(), '/replication_paper/tables/actor_agents_ft.Rds'))
+actor_agents_ft
+
+
+#https://cran.r-project.org/web/packages/ftExtra/vignettes/format_columns.html
+
+```

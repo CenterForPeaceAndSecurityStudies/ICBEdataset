@@ -1,5 +1,5 @@
 ---
-title: 'Intercoder Agreement'
+title: 'Plot Intercoder Agreement'
 site: bookdown::bookdown_site
 bibliography: ../ICBintro.bib
 output: 
@@ -52,20 +52,14 @@ header-includes:
 ```{r}
 library(flextable)
 library(tidyverse)
-library(googlesheets4)
-
-
-
 ```
 
 ```{r}
-icb_long_clean <- readRDS(file=paste0(here::here(), "/data/icb_long_clean.Rds")) 
-
-codings_long <- readRDS(paste0(here::here(), '/data_out/codings_long.Rds'))
-codings_long_agreement <- readRDS( paste0(here::here(), '/data_out/codings_long_agreement.Rds'))
-codings_long_agreed <- readRDS( paste0(here::here(), '/data_out/codings_long_agreed.Rds'))
-codings_wide_agreed <- readRDS( paste0(here::here(), '/data_out/codings_wide_agreed.Rds'))
-
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/data/in/icb_long_clean.Rds")) 
+codings_long <- readRDS(paste0(here::here(), '/replication_data/data/in/codings_long.Rds'))
+codings_long_agreement <- readRDS( paste0(here::here(), '/replication_data/data/in/codings_long_agreement.Rds'))
+codings_long_agreed <- readRDS( paste0(here::here(), '/replication_data/data/in/codings_long_agreed.Rds'))
+codings_wide_agreed <- readRDS( paste0(here::here(), '/replication_data/data/in/codings_wide_agreed.Rds'))
 
 ```
 
@@ -75,16 +69,12 @@ codings_wide_agreed <- readRDS( paste0(here::here(), '/data_out/codings_wide_agr
 Self Reported Confidence and Percent Agreement
 
 ```{r}
-
-
 confidence_totals <- bind_rows(
   icb_long_clean %>% filter(email_id %>% str_detect('expert') & variable_normalized=='raterconfidence' ) %>% count(value_normalized) %>% mutate(coder="expert") %>% mutate(n= (n/sum(n)*100) %>% round(1) %>% paste0("%") ),
   icb_long_clean %>% filter(email_id %>% str_detect('undergrad') & variable_normalized=='raterconfidence' ) %>% count(value_normalized)  %>% mutate(coder="undergrad") %>% mutate(n=(n/sum(n)*100) %>% round(1) %>% paste0("%"))
 ) %>%
   mutate(confidence=value_normalized %>% factor(levels=c('none','low','high','complete')) %>% as.numeric() ) %>%
   mutate(x=0.05)
-
-
 
 
 c1 <- codings_long_agreement  %>% filter(keep==T) %>% dplyr::select(selected_by_perc=selected_by_any_perc,confidence=confidence)  %>% mutate(name="Accepted_Either")
@@ -182,10 +172,10 @@ p_percent_chose_tag_by_concept <-
 
 ```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
 
-p_percent_chose_tag_by_concept %>% saveRDS(paste0(here::here(), '/paper/figures/p_percent_chose_tag_by_concept.Rds'))
+p_percent_chose_tag_by_concept %>% saveRDS(paste0(here::here(), '/replication_paper/figures/p_percent_chose_tag_by_concept.Rds'))
 p_percent_chose_tag_by_concept
 
-ggplot2::ggsave(file=paste0(here::here(), '/paper/figures/p_percent_chose_tag_by_concept.png'), 
+ggplot2::ggsave(file=paste0(here::here(), '/replication_paper/figures/p_percent_chose_tag_by_concept.png'), 
                 plot = p_percent_chose_tag_by_concept, width=8, height=6)
 #table(expert_majority=codings_long$expert_majority,
 #      undergrad_majority=codings_long$undergrad_majority)

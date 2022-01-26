@@ -335,8 +335,8 @@ verbs_sentence_wordnet <- verbs_sentence %>% left_join(wordnet_verbs)
 
 ```{r, echo=F, messages=F, warnings=F, results='hide', eval=T}
 
-fromsrcatch=F
-if(fromsrcatch){
+fromscratch=F
+if(fromscratch){
   #py$sentences
   #py$glosses
   sentences_embeddings <- py$sentences_embeddings
