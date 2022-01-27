@@ -221,7 +221,7 @@ icbe_metro_plots <- function(crisis=196, prune_rare=T){
   units <-   codings_wide_agreed_subset %>% dplyr::select(sent=final_event_ordering, do_actor_a, interact_units) %>% na.omit()  %>% 
               mutate(interact_units = strsplit(as.character(interact_units), ";")) %>% unnest(interact_units) %>%
               mutate(do_actor_a = strsplit(as.character(do_actor_a), ";")) %>% unnest(do_actor_a) %>%
-              mutate(IMAGE=paste0(here::here, '/replication_paper/figures/metro_plots/symbols/',interact_units,'.png')) %>%
+              mutate(IMAGE=paste0(here::here(), '/replication_paper/figures/metro_plots/symbols/',interact_units,'.png')) %>%
               mutate(actor_sent= do_actor_a %>% paste0("_", str_pad(sent, 2, pad = "0") )) %>%
               left_join(codings_wide_agreed_subset_nodes %>% dplyr::select(actor_sent, x, y) ) %>%
               dplyr::select(-sent, -do_actor_a) %>% distinct() %>% 
