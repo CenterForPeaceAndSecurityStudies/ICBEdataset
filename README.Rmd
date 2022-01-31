@@ -1,5 +1,7 @@
 ---
-output: github_document
+output: 
+  github_document:
+      toc: true
 ---
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -10,7 +12,7 @@ knitr::opts_chunk$set(
   fig.path = "README-"
 )
 ``` 
-
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 The International Crisis Behavior Events (ICBe)
 -----------------------------
@@ -25,6 +27,7 @@ This is a github repository for the International Crisis Behavior Events (ICBe) 
 ## The Data:
 
 The agreed datasets are the final, dataset used in much of the paper and figures. It includes our best efforts at cleaning the data and reconciling intercoder agreement. The dataset is available in long and wide format.
+
   - [codings_long_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_long_agreed.Rds)
   - [codings_wide_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_wide_agreed.Rds)
 
@@ -117,6 +120,13 @@ All of the files used to create the datasets, tables, figures.
     + to replicate, download the .tsv and .tab files to ICBEdata/replication_paper/data/ignore/icews_dataverse/ and decompress
 
 
-### Acknowledgements
- 
- 
+### License
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg

@@ -1,5 +1,26 @@
 
+  - [The International Crisis Behavior Events
+    (ICBe)](#the-international-crisis-behavior-events-icbe)
+  - [The Paper:](#the-paper)
+  - [The Data:](#the-data)
+  - [The Authors:](#the-authors)
+  - [Citation:](#citation)
+  - [Replication Code and Analysis](#replication-code-and-analysis)
+      - [Self Contained Package](#self-contained-package)
+  - [RMarkdown files](#rmarkdown-files)
+      - [Replication Data](#replication-data)
+      - [Replication Paper](#replication-paper)
+  - [ICBe data products](#icbe-data-products)
+      - [Additional data versions](#additional-data-versions)
+  - [Data inputs:](#data-inputs)
+      - [ICBe preparation](#icbe-preparation)
+      - [External datasets](#external-datasets)
+      - [License](#license)
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+
+[![CC
+BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## The International Crisis Behavior Events (ICBe)
 
@@ -16,11 +37,22 @@ Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/mas
 
 ## The Data:
 
+The agreed datasets are the final, dataset used in much of the paper and
+figures. It includes our best efforts at cleaning the data and
+reconciling intercoder agreement. The dataset is available in long and
+wide format.
+
   - [codings\_long\_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_long_agreed.Rds)
   - [codings\_wide\_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_wide_agreed.Rds)
-  - [icb\_coder\_crisis\_sentence\_event\_aligned.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/icb_coder_crisis_sentence_event_aligned.Rds)
-  - [ICBEdataset
-    Codebook](https://docs.google.com/document/d/1aJkweohbfIWtNpJw1CmXbeIiK6czbJ5iPyKwiYP1YlU/edit?usp=sharing)
+
+The initial codings pre-cleaning and reconciling intercoder agreement
+are also available. -
+[icb\_coder\_crisis\_sentence\_event\_aligned.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/icb_coder_crisis_sentence_event_aligned.Rds)
+
+The coding and cleaning process are described in the paper with
+additional information and details about the variables in the codebook.
+- [ICBEdataset
+Codebook](https://docs.google.com/document/d/1aJkweohbfIWtNpJw1CmXbeIiK6czbJ5iPyKwiYP1YlU/edit?usp=sharing)
 
 ## The Authors:
 
@@ -37,8 +69,8 @@ Murauskaite, and Diana Partridge.
 
 For any use of the dataset or paper, please cite:
 
-Douglass, Rex, Thomas Leo Scherer, J. Andrés Gannon, Erik Gartzke, Jon
-Lindsay, Shannon Carcelli, Jonathan Wiklenfeld, David M. Quinn,
+Douglass, Rex W., Thomas Leo Scherer, J. Andrés Gannon, Erik Gartzke,
+Jon Lindsay, Shannon Carcelli, Jonathan Wiklenfeld, David M. Quinn,
 Catherine Aiken, Jose Miguel Cabezas Navarro, Neil Lund, Egle
 Murauskaite, and Diana Partridge. 2022. “Introducing the ICBe Dataset:
 Very High Recall and Precision Event Extraction from Narratives about
@@ -49,14 +81,7 @@ International Crises.” Unpublished Manuscript. Retrieved from
 
 ### Self Contained Package
 
-All of the files necessary for reproducing our analysis are including in
-a self contained R package “ICBEdataset” You can install the package icb
-from github with:
-
-``` r
-# install.packages("devtools")
-devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
-```
+All of the files used to create the datasets, tables, figures.
 
 ## RMarkdown files
 
@@ -159,4 +184,11 @@ devtools::install_github("centerforpeaceandsecuritystudies/ICBEdataset")
         ICBEdata/replication\_paper/data/ignore/icews\_dataverse/ and
         decompress
 
-### Acknowledgements
+### License
+
+This work is licensed under a [Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International
+License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![CC
+BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
