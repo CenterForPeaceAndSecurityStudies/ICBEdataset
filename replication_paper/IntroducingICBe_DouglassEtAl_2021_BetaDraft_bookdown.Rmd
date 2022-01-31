@@ -1,6 +1,5 @@
 ---
 title: |
-  | DRAFT, NOT FOR DISTRIBUTION 
   | Introducing the ICBe Dataset: Very High Recall and Precision Event Extraction from Narratives about International Crises
 author:
   - Rex W. Douglass^[Department of Political Science, University of California, San Diego, CA, USA.]
