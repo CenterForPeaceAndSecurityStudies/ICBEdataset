@@ -82,9 +82,10 @@ sentences_unique_sanitized <- sentences_unique %>% str_replace_all("[A-Z][a-z]*"
 
 ```{r, messages=F, results='hide'}
 library(reticulate)
-#py_discover_config()
+py_discover_config()
 
-use_python("/home/skynet3/anaconda3/bin/python/")
+#use_python("/home/skynet3/anaconda3/bin/python/")
+use_python("/home/tlscherer/anaconda3/bin/python")
 
 ```
 
@@ -92,7 +93,7 @@ use_python("/home/skynet3/anaconda3/bin/python/")
 #Can't get this and spacy to work in the same run. Once reticulate loads once it sticks with the environment that came first and I can't figure out how to switch it.
 #pip install -U sentence-transformers
 
-fromscratch=True
+fromscratch=False
 
 if fromscratch:
   from sentence_transformers import SentenceTransformer
@@ -107,13 +108,27 @@ else:
 ```
 
 ```{r}
+fromscratch = FALSE
 
-sentences_embeddings <- py$sentences_embeddings
-dim(sentences_embeddings)
+if(fromscratch){
+  sentences_embeddings <- py$sentences_embeddings
+  dim(sentences_embeddings)
+  sentences_embeddings %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/sentences_embeddings.Rds'))
+}else{
+  sentences_embeddings <- readRDS(paste0(here::here(), '/replication_paper/data/temp/sentences_embeddings.Rds'))
+  dim(sentences_embeddings)
+}
+
+```
+
+
+```{r}
+
+
 
 #devtools::install_github("ropenscilabs/umapr")
 library(umapr)
-embedding <- umap(sentences_embeddings  )
+embedding <- umap(sentences_embedding)
 
 sentences_embeded <- embedding[,c('UMAP1','UMAP2')] %>% as.data.frame()
 sentences_embeded$sentence <- sentences_unique
@@ -124,7 +139,7 @@ codings_long_agreed_embeded <- codings_long_agreed %>% ungroup() %>% left_join(s
 codings_long_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/codings_long_agreed_embeded.Rds'))
 
 codings_wide_agreed <- readRDS(paste0(here::here(), '/replication_paper/data/in/codings_wide_agreed.Rds'))
-codings_wide_agreed_embeded <- codings_wide_agreed %>% ungroup() %>% left_join(sentences_embeded)
+codings_wide_agreed_embeded <- codings_wide_agreed %>% dplyr::ungroup() %>% dplyr::left_join(sentences_embeded)
 
 codings_wide_agreed_embeded_stratified_sample  <- codings_wide_agreed_embeded %>% 
                                                   mutate(UMAP1_round=UMAP1 %>%  round(), UMAP2_round=UMAP2 %>%  round()) %>%
@@ -137,6 +152,13 @@ sampled <- codings_wide_agreed_embeded_stratified_sample %>% ungroup() %>% mutat
 
 codings_wide_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/codings_wide_agreed_embeded.Rds'))
 
+```
+
+
+```{r}
+# codings_long_agreed_embeded <- readRDS(paste0(here::here(), '/replication_paper/data/temp/codings_long_agreed_embeded.Rds'))
+# codings_wide_agreed_embeded <- readRDS(paste0(here::here(), '/replication_paper/data/temp/codings_wide_agreed_embeded.Rds'))
+
 
 var_keep <- c('Behavior','do_aggression','Do_Armed_Unarmed','leaf_do_original') %>% tolower() #'Event_Any',
 
@@ -145,11 +167,11 @@ value_means <- codings_long_agreed_embeded %>%
       dplyr::mutate(variable_normalized=variable_normalized %>% as.factor()) %>%
       dplyr::mutate(value_normalized=value_normalized %>% as.factor()) %>%
       dplyr::select(variable_normalized,value_normalized,UMAP1,UMAP2) %>%
-      group_by(variable_normalized, value_normalized) %>% 
-      summarise_all(median) %>%
-      group_by(variable_normalized) %>%
-          mutate(variable_normalized_count=  min(n(),4)  ) %>%
-      ungroup()
+      dplyr::group_by(variable_normalized, value_normalized) %>% 
+      dplyr::summarise_all(median) %>%
+      dplyr::group_by(variable_normalized) %>%
+          dplyr::mutate(variable_normalized_count=  min(dplyr::n(),4)  ) %>%
+      dplyr::ungroup()
 
 
 codings_long_agreed_embeded_subset <- codings_long_agreed_embeded %>%
@@ -158,7 +180,7 @@ codings_long_agreed_embeded_subset <- codings_long_agreed_embeded %>%
 
 
 library(RColorBrewer)
-brewer_pal_info_df <- brewer.pal.info %>% add_rownames( var = "rowname") %>% arrange()
+brewer_pal_info_df <- brewer.pal.info %>% dplyr::add_rownames( var = "rowname") %>% dplyr::arrange()
 brewer_list <- list() 
 for(i in c(11, 1:nrow(brewer_pal_info_df))){
   brewer_list[[as.character(i)]] <- brewer.pal(n=brewer_pal_info_df$maxcolors[i], brewer_pal_info_df$rowname[i])
@@ -169,6 +191,7 @@ value_normalized=codings_long_agreed_embeded_subset$value_normalized %>% unique(
 value_normalized_colors = posible_colors[1:length(value_normalized)] #ok so pick a bewer pallet with lots of values and then assign it to specific values
 names(value_normalized_colors) = levels(value_normalized)
 
+library(ggplot2)
 p_semantic_embeddings <-
       codings_long_agreed_embeded_subset %>%
       ggplot(aes(x=UMAP1,y=UMAP2, color=value_normalized )) +
