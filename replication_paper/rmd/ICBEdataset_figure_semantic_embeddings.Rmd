@@ -79,13 +79,14 @@ sentences_unique_sanitized <- sentences_unique %>% str_replace_all("[A-Z][a-z]*"
 
 ```
 
+To set python, set it in ~/.Renviron. `use_python()` doesn't seem to work as desired. See [stackoverflow](https://stackoverflow.com/questions/50145643/unable-to-change-python-path-in-reticulate/58743111#58743111).
 
 ```{r, messages=F, results='hide'}
 library(reticulate)
-py_discover_config()
+reticulate::py_discover_config()
 
 #use_python("/home/skynet3/anaconda3/bin/python/")
-use_python("/home/tlscherer/anaconda3/bin/python")
+#use_python("/home/tlscherer/anaconda3/bin/python3")
 
 ```
 
@@ -120,7 +121,7 @@ if(fromscratch){
 }
 
 ```
-
+The [umapr](https://github.com/ropensci-archive/umapr) package requires python and [umap](https://github.com/lmcinnes/umap#installing). Please check their repos for installation details.  
 
 ```{r}
 
@@ -128,7 +129,7 @@ if(fromscratch){
 
 #devtools::install_github("ropenscilabs/umapr")
 library(umapr)
-embedding <- umap(sentences_embedding)
+embedding <- umapr::umap(sentences_embeddings)
 
 sentences_embeded <- embedding[,c('UMAP1','UMAP2')] %>% as.data.frame()
 sentences_embeded$sentence <- sentences_unique
@@ -185,11 +186,18 @@ brewer_list <- list()
 for(i in c(11, 1:nrow(brewer_pal_info_df))){
   brewer_list[[as.character(i)]] <- brewer.pal(n=brewer_pal_info_df$maxcolors[i], brewer_pal_info_df$rowname[i])
 }
-posible_colors <- unlist(brewer_list) %>% unique(brewer_list) #%>% sample()
+posible_colors <- unlist(brewer_list) %>% unique(brewer_list)  #%>% sample()
+posible_colors <- posible_colors[! posible_colors %in% c("#FFFFFF", "#FFFF99", "#E6F598", "#E0E0E0")] # drop white
 
 value_normalized=codings_long_agreed_embeded_subset$value_normalized %>% unique() %>% as.factor()
-value_normalized_colors = posible_colors[1:length(value_normalized)] #ok so pick a bewer pallet with lots of values and then assign it to specific values
+value_normalized_colors = posible_colors[1:length(value_normalized)] #ok so pick a brewer pallet with lots of values and then assign it to specific values
 names(value_normalized_colors) = levels(value_normalized)
+
+# do leaf originals to keep labels for
+do_leaf_keep <- codings_long_agreed_embeded_subset %>% dplyr::filter(variable_normalized=="leaf_do_original") %>% dplyr::count(value_normalized) %>% arrange(desc(n)) %>% dplyr::slice_head(n=10) 
+
+value_means <- value_means %>% dplyr::mutate(label=ifelse(
+  variable_normalized=="leaf_do_original" & !(value_normalized %in% do_leaf_keep$value_normalized), 0, 1))
 
 library(ggplot2)
 p_semantic_embeddings <-
@@ -201,8 +209,9 @@ p_semantic_embeddings <-
         facet_wrap( ~ variable_normalized) + 
         theme_bw() +
         theme(legend.position = "none") + 
-        geom_label(data=value_means,
-                   aes(x=UMAP1,y=UMAP2, fill = value_normalized, label=value_normalized, size=50),inherit.aes=F, # #variable_normalized_count
+        geom_label(data=subset(value_means, label==1),
+                   aes(x=UMAP1,y=UMAP2, fill = value_normalized, 
+                       label=value_normalized, size=50), size = 3, inherit.aes=F, # #variable_normalized_count
                    colour = "white", fontface = "bold", label.padding = unit(0.1, "lines")) + 
         labs(
             title = "Variation in Tags by Semantic Embeddings of Source Sentences",
