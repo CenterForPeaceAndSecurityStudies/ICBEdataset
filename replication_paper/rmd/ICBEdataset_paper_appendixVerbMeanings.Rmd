@@ -13,7 +13,8 @@ p_load(ftExtra)
 
 
 ```{r}
-icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_paper/data/in/icb_wide_clean.Rds"))
+icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_wide_clean.Rds"))
+
 ```
 
 

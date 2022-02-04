@@ -29,7 +29,7 @@ rex_count <- function(x) { x %>% unique() %>% na.omit() %>% sort() %>% paste0(se
 
 ```{r}
 
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds")) 
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_long_clean.Rds")) 
 
 #icb_long_clean_original_393_43 <- icb_long_clean_original %>% filter(crisno==393 & sentence_number_int_aligned==43 ) %>% janitor::remove_empty() 
 #Choose the most common sentence for each
@@ -453,33 +453,6 @@ codings_wide_agreed_pruned_labeled <-  codings_wide_agreed_pruned_final %>%
 
 ```
 
-Iterate and visualize sentences until convinced the translation is right
-
-```{r, eval=F}
-
-codings_wide_agreed_labeled_sample_ft <- 
-      codings_wide_agreed_pruned_labeled %>%
-                group_by(crisno, sentence_number_int_aligned, crisno_sent, sentence) %>%
-                summarize(codings_sentence = paste(codings_sentence, collapse="\n")) %>%
-                dplyr::select(crisno_sent, sentence, codings_sentence)  %>%
-                dplyr::filter(codings_sentence!="No events.") %>%
-                group_by(crisno) %>%
-                sample_n(size=1) %>%
-                ungroup() %>%
-                dplyr::select(crisno_sent, sentence, codings_sentence) %>%
-                as_flextable() %>%
-                colformat_md() %>% 
-                flextable::fontsize(size = 7, part = "all") %>%
-                flextable::bg( i = which( 1:nrow(codings_wide_agreed_pruned_labeled) %% 2 == 1)  , j=1:ncol(events_df), part = "body", bg = "#EFEFEF") %>%
-                flextable::width(j = 1, width=0.3, unit = "in") %>%
-                flextable::width(j = 2, width=3, unit = "in") %>%
-                flextable::width(j = 3, width=3, unit = "in")
-
-codings_wide_agreed_labeled_sample_ft  %>% saveRDS(paste0(here::here(), '/replication_paper/tables/codings_wide_agreed_labeled_sample_ft.Rds'))
-codings_wide_agreed_labeled_sample_ft
-
-```
-
 # Validation Tests
 
 ```{r, eval=F}
@@ -499,20 +472,11 @@ keep_sentence=38
 ```
 
 
-
 ```{r, eval=T}
 
-saveRDS(codings_long, paste0(here::here(), "/replication_data/temp/codings_long.Rds")) 
-saveRDS(codings_long, paste0(here::here(), "/replication_paper/data/in/codings_long.Rds")) 
-
-saveRDS(codings_long_agreement, paste0(here::here(), "/replication_data/temp/codings_long_agreement.Rds")) 
-saveRDS(codings_long_agreement, paste0(here::here(), "/replication_paper/data/in/codings_long_agreement.Rds")) 
-
-saveRDS(codings_long_agreed, paste0(here::here(), "/replication_data/out/codings_long_agreed.Rds")) 
-saveRDS(codings_long_agreed, paste0(here::here(), "/replication_paper/data/in/codings_long_agreed.Rds")) 
-
-saveRDS(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_data/out/codings_wide_agreed.Rds")) 
-saveRDS(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_paper/data/in/codings_wide_agreed.Rds")) 
+saveRDS(codings_long_agreement, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreement.Rds")) 
+saveRDS(codings_long_agreed, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreed.Rds")) 
+saveRDS(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_data/out/ICBe_V1_wide_agreed.Rds")) 
 
 ```
 

@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 read in icb_coder_crisis_sentence_event_aligned.Rds
 ```{r}
-icb_wide_aligned_raw <- readRDS(file=paste0(here::here(),"/replication_data/out/icb_coder_crisis_sentence_event_aligned.Rds")) %>% 
+icb_wide_aligned_raw <- readRDS(file=paste0(here::here(),"/replication_data/temp/ICBe_V1_long_unclean.Rds")) %>% 
                     dplyr::mutate(crisno3 = stringr::str_pad(crisno, 3, pad = "0"), sentence_number_int_aligned3 =
                                     stringr::str_pad(sentence_number_int_aligned, 3, pad = "0")) %>%
                     dplyr::mutate(email_crisis_sent_event =
@@ -647,8 +647,7 @@ icb_long_clean_final <- icb_long_clean2 %>%
 
 Save icb_long_clean!
 ```{r}
-saveRDS(icb_long_clean_final, paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds"))
-saveRDS(icb_long_clean_final, paste0(here::here(), "/replication_paper/data/in/icb_long_clean.Rds")) 
+saveRDS(icb_long_clean_final, paste0(here::here(), "/replication_data/temp/ICBe_V1_long_clean.Rds")) 
 
 ```
 
@@ -669,7 +668,6 @@ icb_wide_clean <- icb_long_clean_final %>%
   dplyr::filter(!(event_number_int==0 & sentence_events %in% c('1','2','3'))) #It does not appear that we ever need an e0 if number of events is greater than zero
   #There's also a weird situation where they sometimes created events without tagging it as a think, do,say
 
-saveRDS(icb_wide_clean, paste0(here::here(), "/replication_data/temp/icb_wide_clean.Rds")) 
-saveRDS(icb_wide_clean, paste0(here::here(), "/replication_paper/data/in/icb_wide_clean.Rds")) 
+saveRDS(icb_wide_clean, paste0(here::here(), "/replication_data/temp/ICBe_V1_wide_clean.Rds")) 
 
 ```

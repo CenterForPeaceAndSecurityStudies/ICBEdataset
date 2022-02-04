@@ -128,10 +128,11 @@ options(gargle_oauth_email = TRUE)
 
 ```{r, echo=FALSE}
 
-codings_wide_agreed <- readRDS(file=paste0(here::here(),'/replication_data/out/codings_wide_agreed.Rds'))
-codings_long_agreed <- readRDS( paste0(here::here(), '/replication_data/out/codings_long_agreed.Rds'))
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds"))
-icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_wide_clean.Rds"))
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_long_clean.Rds"))
+icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_wide_clean.Rds"))
+codings_long_agreement <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreement.Rds") )
+codings_long_agreed <- readRDS( paste0(here::here(), '/replication_data/out/ICBe_V1_long_agreed.Rds'))
+codings_wide_agreed <- readRDS(file=paste0(here::here(),'/replication_data/out/ICBe_V1_wide_agreed.Rds'))
 
 #Load original icb data
 
@@ -151,7 +152,6 @@ icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
 
 ```{r include=F}
 #Load the ICB wide codings
-icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_wide_clean.Rds"))
 
 n_crisis <- icb_wide_clean %>% dplyr::select(crisno) %>% unique() %>% nrow()
 n_sentences <- icb_wide_clean %>% dplyr::select(crisno, sentence_number_int_aligned) %>% unique() %>% nrow()
@@ -433,7 +433,7 @@ The GUI and the ontology follow a hierarchical design philosophy where a smaller
 A novel feature of the ontology is that thought, speech, and do behaviors can be nested into combinations so that any unique combination is reachable if warranted by the event. For example, a speech could be about a threat to perform a do unless another do is performed, and each can be specified in full detail. Likewise, a thought can be about a fully defined speech or do. For example, in the Cuban Missile Crisis, the United States became aware that the Soviet Union performed an interaction of placing missile sites in Cuba. Through compounding, we can capture what players were said to have known, learned, or felt about specific fully described behaviors.
 
 ```{r include=FALSE}
-icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_wide_clean.Rds"))
+
 n_crisis <- icb_wide_clean %>% dplyr::select(crisno) %>% unique() %>% nrow()
 n_sentences <- icb_wide_clean %>% dplyr::select(crisno, sentence_number_int_aligned) %>% unique() %>% nrow()
 n_events <- icb_wide_clean %>% dplyr::filter(event_number_int %in% c(1,2,3)) %>% nrow()
@@ -451,9 +451,6 @@ avg_events_per_coder_crisis <- icb_wide_clean %>% dplyr::filter(crisno != 196) %
 # Internal Measurement Validity -- Intercoder Agreement and Aggregating Disagreements
 
 ```{r, eval=T}
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/icb_long_clean.Rds"))
-
-codings_long_agreement <- readRDS(file=paste0(here::here(),  '/replication_data/temp/codings_long_agreement.Rds'))
 
 means1 <- codings_long_agreement %>%
   filter(value_normalized!='') %>%
@@ -469,7 +466,7 @@ meansall <- bind_rows(means1,means1_keep) %>% mutate(x=1) %>% pivot_longer(cols=
 
 ```
 
-One form of internal validity for these codings is high agreement between coders when applying the ontology. We employ three ways to evaluate and maximize agreement: (1) multiple expert and novice coders per sentence (often including a tie-breaking expert coder where there were disagreements), (2) a theoretically motivated scheme for aggregating across disagreements, and (3) survey questions on self-reported confidence and reasons for low confidence. The unit of analysis for these comparisons is the individually applied tag; every answer to every question in the ontology is a separate tag applied to that sentence (e.g., an actor, a behavior, a date, etc.). There were `r icb_long_clean %>% pull(email_id) %>% unique() %>% length()` coders (including `r icb_long_clean %>% filter(email_id %>% str_detect("expert")) %>% pull(email_id) %>% unique() %>% length()` expert coders) who recorded `r icb_long_clean %>% nrow() %>% scales::comma()` coder-tags across the entire corpus. Of those, there were `r codings_long_agreement %>% filter(value_normalized!='') %>% nrow() %>% scales::comma()` unique sentence-tags applied by at least one coder. We ask how much support those possible tags received across coders, and how we should adjudicate disagreements when a tag was not chosen by every coder.
+One form of internal validity for these codings is high agreement between coders when applying the ontology. We employ three ways to evaluate and maximize agreement: (1) multiple expert and novice coders per sentence (often including a tie-breaking expert coder where there were disagreements), (2) a theoretically motivated scheme for aggregating across disagreements, and (3) survey questions on self-reported confidence and reasons for low confidence. The unit of analysis for these comparisons is the individually applied tag; every answer to every question in the ontology is a separate tag applied to that sentence (e.g., an actor, a behavior, a date, etc.). There were 113 coders (including 5 expert coders) who recorded `r icb_long_clean %>% nrow() %>% scales::comma()` coder-tags across the entire corpus. Of those, there were `r codings_long_agreement %>% filter(value_normalized!='') %>% nrow() %>% scales::comma()` unique sentence-tags applied by at least one coder. We ask how much support those possible tags received across coders, and how we should adjudicate disagreements when a tag was not chosen by every coder.
 
 We evaluate agreement as the percentage of coders who voted for a tag proposed by any coder (Figure \ref{fig:intercoderagreement}). The average agreement across all coders is `r means1$All %>% round(2) %>% scales::percent()` (`r means1$Experts %>% round(2) %>% scales::percent()` across experts and `r means1$Undergraduates %>% round(2) %>% scales::percent()` across undergraduates). A post-aggregation algorithm described below raises mean agreement considerably to `r means1_keep$Accepted %>% round(2) %>% scales::percent()`. Further, there is expected heterogeneity in agreement with higher agreement for coarse, high-level decisions near the root of the ontology than for fine-grained, high-dimensional concepts further down the tree.
 

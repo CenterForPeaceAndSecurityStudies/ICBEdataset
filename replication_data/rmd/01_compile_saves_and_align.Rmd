@@ -552,5 +552,5 @@ table(is.na(icb_wide_aligned$sentence_number_int_aligned))
 save dataset with alignment
 ```{r}
 saveRDS(icb_wide_aligned %>% dplyr::arrange(savefile_crc32, sentence_number_int, event_number_int),
-     file=paste0(here::here(),"/replication_data/out/icb_coder_crisis_sentence_event_aligned.Rds"))
+     file=paste0(here::here(),"/replication_data/temp/ICBe_V1_long_unclean.Rds"))
 ```

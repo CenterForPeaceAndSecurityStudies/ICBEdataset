@@ -62,6 +62,9 @@ knitr::opts_chunk$set(echo=F, cache=TRUE, messages=F, results='hide', warnings=F
 icb_crises <- read_csv(file=paste0(here::here(), "/replication_paper/data/in/icb1v14.csv")) %>% janitor::clean_names() #somehow break of all things is a broken name
 icb_actors <- read_csv(file=paste0(here::here(), "/replication_paper/data/in/icb2v14.csv"))
 
+# #Load the ICB wide codings
+icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_wide_clean.Rds"))
+
 ```
 
 
@@ -598,8 +601,6 @@ icb_crises_qa_wide <- icb_crises_qa %>%
 
 
 ```{r include=F}
-# #Load the ICB wide codings
-icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_paper/data/in/icb_wide_clean.Rds"))
 n_crisis <- icb_wide_clean %>% dplyr::select(crisno) %>% unique() %>% nrow()
 n_sentences <- icb_wide_clean %>% dplyr::select(crisno, sentence_number_int_aligned) %>% unique() %>% nrow()
 n_events <- icb_wide_clean %>% dplyr::filter(event_number_int %in% c(1,2,3)) %>% nrow()

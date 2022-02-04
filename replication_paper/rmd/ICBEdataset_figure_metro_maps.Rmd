@@ -31,10 +31,16 @@ rex_count <- function(x) { x %>% unique() %>% na.omit() %>% sort() %>% paste0(se
 
 ```{r echo=FALSE, include=FALSE, eval=T}
 
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_long_clean.Rds"))
+icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_wide_clean.Rds"))
+codings_long_agreement <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreement.Rds") )
+codings_long_agreed <- readRDS( paste0(here::here(), '/replication_data/out/ICBe_V1_long_agreed.Rds'))
+codings_wide_agreed <- readRDS(file=paste0(here::here(),'/replication_data/out/ICBe_V1_wide_agreed.Rds'))
+
+
 icb_crises <- read.csv(paste0(here::here(), "/replication_paper/data/in/icb1v14.csv")) 
 #icb_crises <-readRDS(paste0(here::here(), "/data/icb1v14.Rds") )
 
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_paper/data/in/icb_long_clean.Rds")) 
 
 crisno_name_years <- icb_crises %>% dplyr::select(crisno, crisname, yrtrig, yrterm)
 
@@ -42,10 +48,6 @@ target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recodi
 
 dictionary_actors_labels    <- readxl::read_excel(target_file, sheet="actors") %>% dplyr::select(crisno, value_normalized=value_normalized_wikidata_id, value_normalized_label) %>% dplyr::distinct() %>% na.omit()
 
-codings_long <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long.Rds")) 
-codings_long_agreement <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long_agreement.Rds")) 
-codings_long_agreed <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long_agreed.Rds")) 
-codings_wide_agreed <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_wide_agreed.Rds")) 
 
 #Design specification
 #Time flows downward

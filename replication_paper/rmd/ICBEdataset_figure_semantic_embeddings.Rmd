@@ -55,15 +55,19 @@ library(flextable)
 library(ftExtra)
 library(tidyverse)
 
+#Load it here before the python reticulate business
+#devtools::install_github("ropenscilabs/umapr")
+library(umapr)
+
 ```
 
 ```{r}
 
-codings_wide_agreed <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_wide_agreed.Rds")) 
-codings_long_agreed <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long_agreed.Rds")) 
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_paper/data/in/icb_long_clean.Rds")) 
-codings_long <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long.Rds")) 
-codings_long_agreement <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long_agreement.Rds")) 
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_long_clean.Rds"))
+icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_wide_clean.Rds"))
+codings_long_agreement <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreement.Rds") )
+codings_long_agreed <- readRDS( paste0(here::here(), '/replication_data/out/ICBe_V1_long_agreed.Rds'))
+codings_wide_agreed <- readRDS(file=paste0(here::here(),'/replication_data/out/ICBe_V1_wide_agreed.Rds'))
 
 ```
 
@@ -126,20 +130,15 @@ The [umapr](https://github.com/ropensci-archive/umapr) package requires python a
 ```{r}
 
 
-
-#devtools::install_github("ropenscilabs/umapr")
-library(umapr)
 embedding <- umapr::umap(sentences_embeddings)
 
 sentences_embeded <- embedding[,c('UMAP1','UMAP2')] %>% as.data.frame()
 sentences_embeded$sentence <- sentences_unique
 
-codings_long_agreed <- readRDS( paste0(here::here(), "/replication_paper/data/in/codings_long_agreed.Rds")) 
 codings_long_agreed_embeded <- codings_long_agreed %>% ungroup() %>% left_join(sentences_embeded)
 
 codings_long_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/codings_long_agreed_embeded.Rds'))
 
-codings_wide_agreed <- readRDS(paste0(here::here(), '/replication_paper/data/in/codings_wide_agreed.Rds'))
 codings_wide_agreed_embeded <- codings_wide_agreed %>% dplyr::ungroup() %>% dplyr::left_join(sentences_embeded)
 
 codings_wide_agreed_embeded_stratified_sample  <- codings_wide_agreed_embeded %>% 
@@ -181,23 +180,24 @@ codings_long_agreed_embeded_subset <- codings_long_agreed_embeded %>%
 
 
 library(RColorBrewer)
-brewer_pal_info_df <- brewer.pal.info %>% dplyr::add_rownames( var = "rowname") %>% dplyr::arrange()
+brewer_pal_info_df <- brewer.pal.info %>% dplyr::add_rownames( var = "rowname") %>% dplyr::arrange() %>% filter(category %in% "qual" & rowname %in% c('Dark2','Set2','Paired','Accent','Set1'))
 brewer_list <- list() 
-for(i in c(11, 1:nrow(brewer_pal_info_df))){
+for(i in 1:nrow(brewer_pal_info_df)){
   brewer_list[[as.character(i)]] <- brewer.pal(n=brewer_pal_info_df$maxcolors[i], brewer_pal_info_df$rowname[i])
 }
 posible_colors <- unlist(brewer_list) %>% unique(brewer_list)  #%>% sample()
-posible_colors <- posible_colors[! posible_colors %in% c("#FFFFFF", "#FFFF99", "#E6F598", "#E0E0E0")] # drop white
+posible_colors <- posible_colors[! posible_colors %in% c("#FFFFFF", "#FFFF99", "#E6F598", "#E0E0E0", "#FFD92F","#FFFF33")] # drop white
 
-value_normalized=codings_long_agreed_embeded_subset$value_normalized %>% unique() %>% as.factor()
+value_normalized= codings_long_agreed_embeded_subset %>% count(value_normalized) %>% arrange(desc(n)) %>% filter(n>100) %>% pull(value_normalized) %>% factor()
 value_normalized_colors = posible_colors[1:length(value_normalized)] #ok so pick a brewer pallet with lots of values and then assign it to specific values
-names(value_normalized_colors) = levels(value_normalized)
+names(value_normalized_colors) = as.character(value_normalized)
 
 # do leaf originals to keep labels for
 do_leaf_keep <- codings_long_agreed_embeded_subset %>% dplyr::filter(variable_normalized=="leaf_do_original") %>% dplyr::count(value_normalized) %>% arrange(desc(n)) %>% dplyr::slice_head(n=10) 
 
-value_means <- value_means %>% dplyr::mutate(label=ifelse(
-  variable_normalized=="leaf_do_original" & !(value_normalized %in% do_leaf_keep$value_normalized), 0, 1))
+value_means <- value_means %>% 
+                dplyr::mutate(label=ifelse(
+                variable_normalized=="leaf_do_original" & !(value_normalized %in% do_leaf_keep$value_normalized), 0, 1))
 
 library(ggplot2)
 p_semantic_embeddings <-
@@ -205,7 +205,6 @@ p_semantic_embeddings <-
       ggplot(aes(x=UMAP1,y=UMAP2, color=value_normalized )) +
         geom_point(size=0.5, alpha=0.5) + 
         geom_text(data=sampled, aes(x=UMAP1, y=UMAP2, label=crisno_sent), color='black',size=1.5) + 
-    
         facet_wrap( ~ variable_normalized) + 
         theme_bw() +
         theme(legend.position = "none") + 
