@@ -434,7 +434,7 @@ icbe_metro_plots <- function(crisis=196, prune_rare=T){
   return(NULL)
 }
 
-codings_wide_agreed$crisno %>% unique() %>% sapply(FUN=function(x) icbe_metro_plots(x))
+c(196, 426) %>% sapply(FUN=function(x) icbe_metro_plots(x))
 
 ```
 
@@ -469,7 +469,7 @@ icb_sentence_tables <- function(crisis=196){
   temp_ft  %>% saveRDS(save_file)
 }
 
-codings_wide_agreed$crisno %>% unique() %>% sapply(FUN=function(x) icb_sentence_tables(x))
+c(196, 426) %>% sapply(FUN=function(x) icb_sentence_tables(x))
 
 
 ```
@@ -512,7 +512,7 @@ mid_df2 <- data.frame(
                        "-9 Missing")
 ) %>% mutate(outcome_label= outcome_label %>% str_replace('[0-9]{1,2}\\. ','') %>% str_replace('\\([1-9]\\)','') )
 
-dyadic_mid <- read_csv(paste0(here::here(), "/data_other_datasets/mids/Dyadic MIDs 4.02/dyadic_mid_4.02.csv"))
+dyadic_mid <- read_csv(paste0(here::here(), "/replication_paper/data/in/dyadic_mid_4.02.csv"))
 
 dyadic_mid_clean <- dyadic_mid %>% distinct() %>%
                       left_join(actor_translator %>% dplyr::select(statea=COWcode, actor_1=QCode_name, actor_1_qcode=QCode)) %>%
@@ -731,7 +731,7 @@ mids_metro_plots <- function(crisis=196, prune_rare=T){
   p_mids_metro_map %>% saveRDS(save_mids_file)
 }
 
-codings_wide_agreed$crisno %>% unique() %>% sapply(FUN=function(x) mids_metro_plots(x))
+c(196, 426) %>% sapply(FUN=function(x) mids_metro_plots(x))
 
   
 ```
@@ -1045,7 +1045,7 @@ mids_incidents_metro_plots <- function(crisis=196, prune_rare=T){
   p_mids_incident_metro_map %>% saveRDS(save_mids_incidents_file)
 }
 
-icb_crises %>% filter(yrtrig>=1990) %>% pull(crisno) %>% unique()  %>% sapply(FUN=function(x) mids_incidents_metro_plots(x))
+icb_crises %>% filter(yrtrig>=1990 & crisno %in% c(196, 426)) %>% pull(crisno) %>% unique()  %>% sapply(FUN=function(x) mids_incidents_metro_plots(x))
 
 ```
 
@@ -1211,7 +1211,7 @@ icbdy_20_clean <- icbdy_20 %>%
 icb_diadic <- icbdy_20_clean %>% dplyr::select(CRISNO, NAMEA, NAMEB,  STATEA, STATEB, actor_1,actor_2, IWCA_label,IWCB_label) #%>% filter(is.na(actor_1) | is.na(actor_2))
 
 
-icb2v14 <- read_csv(here::here(), "/replication_paper/data/in/icb2v14.csv")
+icb2v14 <- read_csv(paste0(here::here(), "/replication_paper/data/in/icb2v14.csv"))
 
 
 df_trigger <- data.frame(
@@ -1467,7 +1467,7 @@ icb_metro_plots <- function(crisis=196, prune_rare=T){
       
 }
 
-codings_wide_agreed$crisno %>% unique() %>% sapply(FUN=function(x) icb_metro_plots(x))
+c(196, 426) %>% sapply(FUN=function(x) icb_metro_plots(x))
 
 
 ```
@@ -1485,7 +1485,7 @@ df1 <- data.frame(
                                type_of_violence_label = c("state-based conflict","non-state conflict","one-sided violence")
 )
 
-ged211 <- read_csv(here::here(), "/replication_paper/data/in/ucdp_ged/ged211.csv")
+ged211 <- read_csv(paste0(here::here(), "/replication_paper/data/ignore/ged/ged211.csv"))
 
 target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
 actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator")
@@ -1708,7 +1708,7 @@ ucdp_ged_metro_plots <- function(crisis=466, prune_rare=T){
   p_ucdp_metro_map %>% saveRDS(save_ucdp_incidents_file)
 }
 
-icb_crises %>% filter(yrtrig>=1989) %>% pull(crisno) %>% unique()  %>% sapply(FUN=function(x) ucdp_ged_metro_plots(x))
+icb_crises %>% filter(yrtrig>=1989 & crisno %in% c(196, 426) ) %>% pull(crisno) %>% unique()  %>% sapply(FUN=function(x) ucdp_ged_metro_plots(x))
 
 
 ```
@@ -1891,7 +1891,7 @@ kill_sectors <- c(
 )
 kill_sectors_regex <- paste0(kill_sectors, collapse="|")
 
-files <- list.files(path = paste0(here::here(), "/replication_paper/data/ignore/icews_dataverse/"), full.names = T)
+files <- list.files(path = paste0(here::here(), "/replication_paper/data/ignore/icews_dataverse/dataverse_files/"), full.names = T)
 icews <- bind_rows(lapply(files, FUN=function(x) read_tsv(x) )  ) %>% janitor::clean_names()
 
 dim(icews)
@@ -1951,7 +1951,7 @@ dim(icews_clean) #1,965,573 it's still too many but it's just close enough now #
 
 
 
-icews_metro_plots <- function(crisis=426, topactor=F, exclude='', save_icews_file=NULL){
+icews_metro_plots <- function(crisis=426, topactor=F, exclude='', savefile=NULL){
 
   print(crisis)
   #crisis=426
@@ -1959,7 +1959,7 @@ icews_metro_plots <- function(crisis=426, topactor=F, exclude='', save_icews_fil
   #save_icews_file = paste0(here::here(), "/replication_paper/figures/p_icews_metro_plot_",crisis,"_paper.Rds")
   plot_title <- crisno_name_years %>% filter(crisno==crisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
   if(is.null(savefile)){
-    save_icews_file <- paste0(here::here(), "/replication_paper/figures/metro_plots/p_icews_metro_plot_",crisis,".Rds")
+    savefile <- paste0(here::here(), "/replication_paper/figures/metro_plots/p_icews_metro_plot_",crisis,".Rds")
   }
     
   date_start <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==crisis,]$yrtrig , "-", icb_crises[icb_crises$crisno==crisis,]$motrig, "-01"))
@@ -2292,11 +2292,11 @@ icews_metro_plots <- function(crisis=426, topactor=F, exclude='', save_icews_fil
   p_icews_metro_map$actor_colors <- actor_colors
   p_icews_metro_map$icews_clean_subset <- icews_clean_subset
   
-  p_icews_metro_map  %>% saveRDS(save_icews_file)
+  p_icews_metro_map  %>% saveRDS(savefile)
 
 }
 
-icb_crises %>% filter(yrtrig>=1995) %>% pull(crisno) %>% unique()  %>% sapply(FUN=function(x) icews_metro_plots(x))
+icb_crises %>% filter(yrtrig>=1995  & crisno %in% c(196, 426)) %>% pull(crisno) %>% unique()  %>% sapply(FUN=function(x) icews_metro_plots(x))
 
 ```
 
@@ -2322,7 +2322,12 @@ c <- readRDS(paste0(here::here(), '/replication_paper/data/in/PhoenixFBIS_1995-2
 d <- readRDS(paste0(here::here(), '/replication_paper/data/in/PhoenixNYT_1945-2005.Rds'))
 e <- readRDS(paste0(here::here(), '/replication_paper/data/in/PhoenixWSJ_1945-2006.Rds'))
 
-phoenix <- bind_rows(a, b, c, d , e)
+phoenix <- bind_rows(a %>% mutate_all(as.character),
+                     b %>% mutate_all(as.character),
+                     c %>% mutate_all(as.character),
+                     d %>% mutate_all(as.character) ,
+                     e %>% mutate_all(as.character)
+                     )
 
 target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
 actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator") 
@@ -2337,9 +2342,9 @@ phoenix_clean <- phoenix %>%
                  #mutate(code=code %>% str_pad(4, pad = "0") %>% str_replace("0{1,3}","0")) %>%
                  #mutate(root_code=root_code %>% str_pad(2, pad = "0") %>% str_replace("0{1,3}","0")) %>%
   
-                 left_join(CAMEO_eventcodes %>% dplyr::select(code=cameoeventcode     , cameo_event_label=eventdescription) ) %>%
+                 left_join(CAMEO_eventcodes %>% dplyr::select(code=cameo_code     , cameo_event_label=cameo_label) ) %>%
   
-                 left_join(CAMEO_eventcodes %>% dplyr::select(root_code=cameoeventcode, cameo_event_root_label=eventdescription) %>% filter(nchar(root_code)==2)) %>%
+                 left_join(CAMEO_eventcodes %>% dplyr::select(root_code=cameo_code, cameo_event_root_label=cameo_label) %>% filter(nchar(root_code)==2)) %>%
   
                  mutate(joined_issues=ifelse( joined_issues=='',";", joined_issues)  ) %>% #Apparently unnesting an empty string just gets dropped
                  mutate(joined_issues = strsplit(as.character(joined_issues), ";") ) %>%  unnest(joined_issues)  %>% #This drops if the row is missing, I did not know that was it
@@ -2732,7 +2737,7 @@ phoenix_metro_plots <- function(crisis=196, topactor=F){
 
 }
 
-codings_wide_agreed$crisno %>% unique() %>% sapply(FUN=function(x) phoenix_metro_plots(x))
+c(196, 426) %>% sapply(FUN=function(x) phoenix_metro_plots(x))
 
 ```
 
@@ -2784,7 +2789,7 @@ df <- data.frame(
 ) %>% janitor::clean_names()
 
 
-files <- list.files(path = paste0(here::here(), "/replication_paper/data/ignore/largegeolocateddata/"), pattern = ".tsv$", full.names = T)
+files <- list.files(path = paste0(here::here(), "/replication_paper/data/ignore/terrier/largegeolocateddata/"), pattern = ".tsv$", full.names = T)
 terrier <- bind_rows(lapply(files, FUN=function(x) read_tsv(x,col_names=F, col_types=paste0(rep('c',50), collapse='')  )  ) ) %>% janitor::clean_names()
 dim(terrier) #28,370,448       28
 
@@ -2814,8 +2819,8 @@ terrier_clean <- terrier %>%
     filter(!is.na(src_country) & !is.na(target_country)) %>%
     distinct() %>% 
      mutate(cameo_code=cameo_code %>% as.numeric()) %>% 
-     left_join(CAMEO_eventcodes %>% mutate(cameoeventcode=cameoeventcode %>% as.numeric(cameoeventcode)) %>%
-                 dplyr::select(cameo_code=cameoeventcode, cameo_label= eventdescription)  ) %>%
+     left_join(CAMEO_eventcodes %>% mutate(cameo_code=cameo_code %>% as.numeric()) %>%
+                 dplyr::select(cameo_code=cameo_code, cameo_label= cameo_label)  ) %>%
     mutate( cameo_label= cameo_label %>% str_replace(', not specified below','')) %>%
     distinct() %>%
 
@@ -3177,7 +3182,7 @@ terrier_metro_plots <- function(crisis=196, topactor=F){
 
 }
 
-icb_crises %>% filter(yrtrig>=1977) %>% pull(crisno) %>% unique()  %>% sapply(FUN=function(x) terrier_metro_plots(x))
+icb_crises %>% filter(yrtrig>=1977 & crisno %in% c(196, 426)) %>% pull(crisno) %>% unique()  %>% sapply(FUN=function(x) terrier_metro_plots(x))
 
 
 ```
