@@ -31,8 +31,6 @@ The agreed datasets are the final, dataset used in much of the paper and figures
   - [codings_long_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_long_agreed.Rds)
   - [codings_wide_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_wide_agreed.Rds)
 
-The initial codings pre-cleaning and reconciling intercoder agreement are also available. 
-  - [icb_coder_crisis_sentence_event_aligned.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/icb_coder_crisis_sentence_event_aligned.Rds)
   
 The coding and cleaning process are described in the paper with additional information and details about the variables in the codebook.
   - [ICBEdataset Codebook](https://docs.google.com/document/d/1aJkweohbfIWtNpJw1CmXbeIiK6czbJ5iPyKwiYP1YlU/edit?usp=sharing)
@@ -59,24 +57,26 @@ All of the files used to create the datasets, tables, figures.
 ### Replication Data
 
  - 01_compile_saves_and_align
-    + compiles the original coding files into `./replication_data/temp/icb_coder_crisis_sentence_event.Rds`
-    + the original coding files are not on the public repository; this can only be run by authors
+    + compiles the original coding files into `./replication_data/in/icb_coder_crisis_sentence_event.Rds`. The original coding files are not on the public repository. Public users will load `icb_coder_crisis_sentence_event.Rds` directly.
     + aligns codings from multiple GUI versions on similar source sentences
-    + creates `./data/icb_code_crisis_sentence_event_aligned.Rds`
+    + creates `./replication_data/temp/ICBe_V1_long_unclean.Rds.Rds` (not included in online repo)
  - 02_format_and_clean
-    + applies cleaning dictionaries to create `./data/icb_wide_clean.Rds` and `./data/icb_long_clean.Rds`.
+    + applies cleaning dictionaries to create `./replication_data/temp/ICBe_V1_long_clean.Rds` and `./replication_data/temp/ICBe_V1_long_clean.Rds` (not included in online repo)
  - 03_aggregation
-    + applies aggregation algorithm to create `./data_out/codings_long.Rds`, `./data_out/codings_long_agreement.Rds`, `./data_out/codings_long_agreed.Rds`, `./data_out/codings_wide_agreed.Rds`.
+    + applies aggregation algorithm to create `./replication_data/out/ICBe_V1_long_agreement.Rds`, `./replication_data/out/ICBe_V1_long_agreed.Rds`, `./replication_data/out/ICBe_V1_wide_agreed.Rds`.
+
 
 ### Replication Paper
 
   - CaseStudy196
+      + creates Cuban Missile Crisis comparison table `/tables/CaseStudy196_ft.Rds`. 
   - CaseStudy426
   - ICBEdataset_figure_metro_maps
   - ICBEdataset_figure_semantic_embeddings
   - ICBEdataset_paper_appendixICBCrises
   - ICBEdataset_paper_appendixVerbMeanings
   - ICBEdataset_paper_figure_prep
+  - ICBEdataset_paper_litreviewtable
   - ICBEdataset_paper_PlotInterCoderAgreement
 
 
