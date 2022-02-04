@@ -187,6 +187,7 @@ for(i in 1:nrow(brewer_pal_info_df)){
 }
 posible_colors <- unlist(brewer_list) %>% unique(brewer_list)  #%>% sample()
 posible_colors <- posible_colors[! posible_colors %in% c("#FFFFFF", "#FFFF99", "#E6F598", "#E0E0E0", "#FFD92F","#FFFF33")] # drop white
+posible_colors <- c('red','blue','maroon','purple','','','','','','')
 
 value_normalized= codings_long_agreed_embeded_subset %>% count(value_normalized) %>% arrange(desc(n)) %>% filter(n>100) %>% pull(value_normalized) %>% factor()
 value_normalized_colors = posible_colors[1:length(value_normalized)] #ok so pick a brewer pallet with lots of values and then assign it to specific values
