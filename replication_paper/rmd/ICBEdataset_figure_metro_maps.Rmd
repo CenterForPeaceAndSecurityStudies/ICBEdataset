@@ -201,7 +201,7 @@ icbe_metro_plots <- function(crisis=196, prune_rare=T){
                    y=sent*-1 *100)
   
   actors=codings_wide_agreed_subset_nodes$actor %>% unique() %>% as.factor()
-  actor_colors = c(brewer.pal(n=11, "Dark2"), brewer.pal(n=11, "Set1"))[1:length(actors)] #ok so pick a bewer pallet with lots of values and then assign it to specific values
+  actor_colors = c(brewer.pal(n=11, "Dark2"), brewer.pal(n=11, "Set1"))[1:length(actors)] #pick a bewer pallet with lots of values and then assign it to specific values
   names(actor_colors) = levels(actors)
   
   
@@ -442,7 +442,7 @@ c(196, 426) %>% sapply(FUN=function(x) icbe_metro_plots(x))
 
 ## ICBe Tables
 
-Go ahead an out the sentence tables too here why not
+out the sentence tables 
 
 ```{r}
 
@@ -1487,7 +1487,10 @@ df1 <- data.frame(
                                type_of_violence_label = c("state-based conflict","non-state conflict","one-sided violence")
 )
 
-ged211 <- read_csv(paste0(here::here(), "/replication_paper/data/ignore/ged/ged211.csv"))
+load(paste0(here::here(), "/replication_paper/data/in/GEDEvent_v21_1.RData"))
+ged211 <- GEDEvent_v21_1
+
+#ged211 <- read_csv(paste0(here::here(), "/replication_paper/data/ignore/ged211.csv"))
 
 target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
 actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator")
@@ -1893,6 +1896,11 @@ kill_sectors <- c(
 )
 kill_sectors_regex <- paste0(kill_sectors, collapse="|")
 
+
+if(!file.exists(paste0(here::here(), "/replication_paper/data/ignore/icews_dataverse/dataverse_files/"))){
+  stop("Missing 'UCDP Georeferenced Event Dataset (GED)'. See README.")
+}
+
 files <- list.files(path = paste0(here::here(), "/replication_paper/data/ignore/icews_dataverse/dataverse_files/"), full.names = T)
 icews <- bind_rows(lapply(files, FUN=function(x) read_tsv(x) )  ) %>% janitor::clean_names()
 
@@ -1906,7 +1914,6 @@ codes_used <-icews %>% count(cameo_code)
 target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
 actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator") 
 
-#Rex start here tomorrow, figure out how to do this join correctly
 actor_translator_icews <- actor_translator %>%  dplyr::select(ICEWS_Actor.Name, ICEWS_Country, QCode, QCode_name)
 #%>% mutate(icews=ifelse(ICEWS_Country=="International Government Organizations", ICEWS_Actor.Name, ICEWS_Country))
 
@@ -2790,6 +2797,10 @@ df <- data.frame(
                             "Radical/extremist/fundamentalist")
 ) %>% janitor::clean_names()
 
+if(!file.exists(paste0(here::here(), "/replication_paper/data/ignore/terrier/largegeolocateddata//"))){
+  stop("Missing Terrier event data. See README.")
+}
+
 
 files <- list.files(path = paste0(here::here(), "/replication_paper/data/ignore/terrier/largegeolocateddata/"), pattern = ".tsv$", full.names = T)
 terrier <- bind_rows(lapply(files, FUN=function(x) read_tsv(x,col_names=F, col_types=paste0(rep('c',50), collapse='')  )  ) ) %>% janitor::clean_names()
@@ -2801,8 +2812,13 @@ CAMEO_eventcodes <- read_tsv(paste0(here::here(), "/replication_paper/data/in/CA
 target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
 actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator")
 
+```
+
+
+
+```{r}
 #Maybe it's just ISO3 country codes?
-terrier_clean <- terrier %>% 
+terrier_clean_temp <- terrier %>% 
     dplyr::select(
       cameo_code=x3,
       src_country=x8,
@@ -2824,8 +2840,15 @@ terrier_clean <- terrier %>%
      left_join(CAMEO_eventcodes %>% mutate(cameo_code=cameo_code %>% as.numeric()) %>%
                  dplyr::select(cameo_code=cameo_code, cameo_label= cameo_label)  ) %>%
     mutate( cameo_label= cameo_label %>% str_replace(', not specified below','')) %>%
-    distinct() %>%
+    distinct() 
 
+#done
+
+```
+
+```{r}
+terrier_clean_temp <- terrier_clean_temp %>%
+  
    mutate(src_other_agent=ifelse( src_other_agent=='',";", src_other_agent)  ) %>% #Apparently unnesting an empty string just gets dropped
    mutate(src_other_agent = strsplit(as.character(src_other_agent), ";") ) %>%  unnest(src_other_agent)  %>% #This drops if the row is missing, I did not know that was it
 
@@ -2833,9 +2856,13 @@ terrier_clean <- terrier %>%
    mutate(target_other_agent = strsplit(as.character(target_other_agent), ";") ) %>%  unnest(target_other_agent)  %>% #This drops if the row is missing, I did not know that was it
      
    left_join(df %>% dplyr::select(src_other_agent=agent   , src_other_agent_label=agent_label) %>% distinct() %>% na.omit() ) %>%
-   left_join(df %>% dplyr::select(target_other_agent=agent, target_other_agent_label=agent_label) %>% distinct() %>% na.omit() ) %>%
-  
-   left_join(df %>% dplyr::select(src_agent=agent, src_agent_label=agent_label) %>% distinct() %>% na.omit() ) %>%
+   left_join(df %>% dplyr::select(target_other_agent=agent, target_other_agent_label=agent_label) %>% distinct() %>% na.omit() ) 
+
+```
+
+```{r}
+terrier_clean <- terrier_clean_temp %>%
+     left_join(df %>% dplyr::select(src_agent=agent, src_agent_label=agent_label) %>% distinct() %>% na.omit() ) %>%
    left_join(df %>% dplyr::select(target_agent=agent, target_agent_label=agent_label) %>% distinct() %>% na.omit() )  %>% 
    distinct() %>%
    filter(
@@ -2869,8 +2896,7 @@ dim(terrier_clean) #2,049,759
 
 ### Plot
 
-
-```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+```{r}
 
 
 terrier_metro_plots <- function(crisis=196, topactor=F){
@@ -3184,10 +3210,13 @@ terrier_metro_plots <- function(crisis=196, topactor=F){
 
 }
 
-icb_crises %>% filter(yrtrig>=1977 & crisno %in% c(196, 426)) %>% pull(crisno) %>% unique()  %>% sapply(FUN=function(x) terrier_metro_plots(x))
-
 
 ```
 
 
 
+```{r, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+
+icb_crises %>% filter(yrtrig>=1977 & crisno %in% c(196, 426)) %>% pull(crisno) %>% unique()  %>% sapply(FUN=function(x) terrier_metro_plots(x))
+
+```

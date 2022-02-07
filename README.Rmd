@@ -71,7 +71,9 @@ All of the files used to create the datasets, tables, figures.
   - CaseStudy196
       + creates Cuban Missile Crisis comparison table `/tables/CaseStudy196_ft.Rds`. 
   - CaseStudy426
+      + creates DRC Civil War comparison table `/tables/CaseStudy426_ft.Rds`. 
   - ICBEdataset_figure_metro_maps
+      + creates the metroplot figures in `/figures/metro_plots/.`.
   - ICBEdataset_figure_semantic_embeddings
   - ICBEdataset_paper_appendixICBCrises
   - ICBEdataset_paper_appendixVerbMeanings
@@ -115,9 +117,9 @@ All of the files used to create the datasets, tables, figures.
   - [Terrier event data](https://osf.io/4m2u7/files/) 
     + too large to include in the github repository
     + to replicate, download the folder 'largegeolocatedata' to ICBEdata/replication_paper/data/ignore and decompress
-  - [ICEWS data sample](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28075&version=30.0) from 1995 (./inst/extdata/icews.actors.20181119.RData)
+  - [ICEWS data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28075&version=30.0)
     + too large to include in the github repository
-    + to replicate, download the .tsv and .tab files to ICBEdata/replication_paper/data/ignore/icews_dataverse/ and decompress
+    + to replicate, download folder 'dataverse_files' to ICBEdata/replication_paper/data/ignore/ and decompress
 
 
 ### License

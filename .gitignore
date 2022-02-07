@@ -13,6 +13,7 @@ replication_data/temp/*
 replication_data/ignore/*
 !replication_data/temp/.empty
 ### Paper ###
+replication_paper/data/ignore/*
 replication_paper/data/ignore/icews_dataverse/*
 replication_paper/data/ignore/largegeolocateddata/*
 !replication_paper/data/ignore/icews_dataverse/.empty
