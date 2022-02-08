@@ -10,8 +10,6 @@
   - [RMarkdown files](#rmarkdown-files)
       - [Replication Data](#replication-data)
       - [Replication Paper](#replication-paper)
-  - [ICBe data products](#icbe-data-products)
-      - [Additional data versions](#additional-data-versions)
   - [Data inputs:](#data-inputs)
       - [ICBe preparation](#icbe-preparation)
       - [External datasets](#external-datasets)
@@ -33,21 +31,24 @@ tab](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/issues/new/
 
 [Introducing the ICBe Dataset: Very High Recall and Precision Event
 Extraction from Narratives about International
-Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf)
+Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/replication_paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf)
 
 ## The Data:
 
-The agreed datasets are the final, dataset used in much of the paper and
+The agreed datasets are the final dataset used in much of the paper and
 figures. It includes our best efforts at cleaning the data and
 reconciling intercoder agreement. The dataset is available in long and
 wide format.
 
-  - [codings\_long\_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_long_agreed.Rds)
-  - [codings\_wide\_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/codings_wide_agreed.Rds)
-
-The initial codings pre-cleaning and reconciling intercoder agreement
-are also available. -
-[icb\_coder\_crisis\_sentence\_event\_aligned.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/icb_coder_crisis_sentence_event_aligned.Rds)
+  - [ICBe\_V1\_long\_agreement.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed.Rds)
+      - All coded values and information about how often they were
+        selected by coders.  
+  - [ICBe\_V1\_long\_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_long_agreed.Rds)
+      - `ICBe_V1_long_agreement.Rds` filtered down only to those codings
+        that were agreed upon (see Algorithm 1 in paper).
+  - [ICBe\_V1\_wide\_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed.Rds)
+      - `ICBe_V1_long_agreed.Rds` in wide form where each row is an
+        event.
 
 The coding and cleaning process are described in the paper with
 additional information and details about the variables in the codebook.
@@ -89,57 +90,49 @@ All of the files used to create the datasets, tables, figures.
 
   - 01\_compile\_saves\_and\_align
       - compiles the original coding files into
-        `./replication_data/temp/icb_coder_crisis_sentence_event.Rds`
-      - the original coding files are not on the public repository; this
-        can only be run by authors
+        `./replication_data/in/icb_coder_crisis_sentence_event.Rds`. The
+        original coding files are not on the public repository. Public
+        users will load `icb_coder_crisis_sentence_event.Rds` directly.
       - aligns codings from multiple GUI versions on similar source
         sentences
-      - creates `./data/icb_code_crisis_sentence_event_aligned.Rds`
+      - creates `./replication_data/temp/ICBe_V1_long_unclean.Rds.Rds`
+        (not included in online repo)
   - 02\_format\_and\_clean
       - applies cleaning dictionaries to create
-        `./data/icb_wide_clean.Rds` and `./data/icb_long_clean.Rds`.
+        `./replication_data/temp/ICBe_V1_long_clean.Rds` and
+        `./replication_data/temp/ICBe_V1_long_clean.Rds` (not included
+        in online repo)
   - 03\_aggregation
       - applies aggregation algorithm to create
-        `./data_out/codings_long.Rds`,
-        `./data_out/codings_long_agreement.Rds`,
-        `./data_out/codings_long_agreed.Rds`,
-        `./data_out/codings_wide_agreed.Rds`.
+        `./replication_data/out/ICBe_V1_long_agreement.Rds`,
+        `./replication_data/out/ICBe_V1_long_agreed.Rds`,
+        `./replication_data/out/ICBe_V1_wide_agreed.Rds`.
 
 ### Replication Paper
 
   - CaseStudy196
+      - creates Cuban Missile Crisis comparison table
+        `/tables/CaseStudy196_ft.Rds`.
   - CaseStudy426
+      - creates DRC Civil War comparison table
+        `/tables/CaseStudy426_ft.Rds`.
   - ICBEdataset\_figure\_metro\_maps
+      - creates the metroplot Rds files in `/figures/metro_plots/.`.
   - ICBEdataset\_figure\_semantic\_embeddings
+      - creates the figure `/figures/p_semantic_embeddings.png` and the
+        `/tables/codings_wide_agreed_embeded_stratified_sample_ft.Rds`
+        and
+        `/tables/codings_wide_agreed_embeded_stratified_sample_ft_smaller.Rds`
   - ICBEdataset\_paper\_appendixICBCrises
+      - creates `/tables/ft_crisis_text_counts.Rds`.
   - ICBEdataset\_paper\_appendixVerbMeanings
+      - creates `/tables/verbs_sentence_wordnet_top_ft.Rds`
   - ICBEdataset\_paper\_figure\_prep
+      - creates the metroplot pngs in `/figures/.`.
+  - ICBEdataset\_paper\_litreviewtable
+      - creates the table `/tables/litreview_ft.Rds`.
   - ICBEdataset\_paper\_PlotInterCoderAgreement
-
-## ICBe data products
-
-  - Agreed Data, long form (LINK NEEDED)
-  - Agreed Data, wide form (LINK NEEDED)
-  - [Raw
-    codings](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/data/icb_coder_crisis_sentence_event_aligned.Rds)
-      - the initial codings from different GUI versions adjusted so that
-        sentence numbers are aligned.
-
-### Additional data versions
-
-  - [Clean data, wide
-    form](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/data/icb_wide_clean.Rds)
-      - each row is a coder-crisis-event-sentence (i.e. each time a
-        coder looking at a certain sentence in a certain crisis
-        identified an event)
-      - values may contain multiple entries separating with a semicolon
-  - [Clean data, long
-    form](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/data/icb_long_clean.Rds)
-      - each row contains identifying information for a
-        coder-crisis-event-sentence
-      - the information about that sentence is distributed across
-        multiple rows in the columns *variable* and *value*
-      - each value contains a single entry
+      - creates the figure `figures/p_percent_chose_tag_by_concept.png`
 
 ## Data inputs:
 
@@ -147,12 +140,10 @@ All of the files used to create the datasets, tables, figures.
 
   - Cleaning dictionaries: used to clean raw codings for actors,
     actions, locations, and dates
-    (./data/icb\_manual\_recording\_master\_sheet.xlsx)
-      - actor\_translator to compare actors across different datasets,
-        created by hand with assistance from
-        [07\_actor\_dictionaries](https://centerforpeaceandsecuritystudies.github.io/ICBEdataset/07_actor_dictionaries.html).
-  - [Lit review and tree/leaf
-    codebook](https://docs.google.com/spreadsheets/d/10tZGzjYgmvrbgQTV3oadVEV8m1LxLEDJEq9pzqq90Fc/edit#gid=1604363724)
+    `/replication_paper/data/in/icb_manual_recording_master_sheet.xlsx`
+  - Lit review and tree/leaf codebook:
+    `/replication_paper/data/in/icbe_litreview_trees_sentences.xlsx`
+  - Case study tables: `/replication_paper/data/in/CaseStudies.xlsx`
 
 ### External datasets
 
@@ -176,13 +167,11 @@ All of the files used to create the datasets, tables, figures.
       - too large to include in the github repository
       - to replicate, download the folder ‘largegeolocatedata’ to
         ICBEdata/replication\_paper/data/ignore and decompress
-  - [ICEWS data
-    sample](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28075&version=30.0)
-    from 1995 (./inst/extdata/icews.actors.20181119.RData)
+  - [ICEWS
+    data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28075&version=30.0)
       - too large to include in the github repository
-      - to replicate, download the .tsv and .tab files to
-        ICBEdata/replication\_paper/data/ignore/icews\_dataverse/ and
-        decompress
+      - to replicate, download folder ‘dataverse\_files’ to
+        ICBEdata/replication\_paper/data/ignore/ and decompress
 
 ### License
 
