@@ -142,6 +142,7 @@ All of the files used to create the datasets, tables, figures.
     actions, locations, and dates
     `/replication_paper/data/in/icb_manual_recording_master_sheet.xlsx`
   - Lit review and tree/leaf codebook:
+    `replication_data/in/icbe_litreview_trees_sentences.xlsx` and
     `/replication_paper/data/in/icbe_litreview_trees_sentences.xlsx`
   - Case study tables: `/replication_paper/data/in/CaseStudies.xlsx`
 

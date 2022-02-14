@@ -396,12 +396,12 @@ We take as ground truth an unusually high-quality corpus of historical narrative
 
 # Prior Beliefs and Existing State of the Art
 
-Successful measurement requires the existence of an unobserved latent state among all possible states, $\omega \in \Omega$ and a systematic data generating process (DGP) that converts that state into observables that enter the historical record, $X=f(\omega)$. We organize our prior beliefs about possible states, $\Omega$, and the DGP, $f()$, along two overarching axes, summarized in detail by Table \ref{tbl:litreview}. The first axes (rows) represents the types of information we expect to find in IR and forms the basis for our proposed ontology. We employ a metaphor of international affairs as a chess game, with players (polities, rebel groups, IGOs, etc.), pieces (military platforms, civilians, domains), and behaviors (think, say, do). Precise sequencing is required to capture gambits (sequences of moves) and outcomes (victory, defeat, peace, etc.), while precise geo-coding is required to understand the chessboard (medium of conflict). The resulting codebook for events includes 117 different verbs and is available in full in the online material.^[See the Github Repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).]
+Successful measurement requires the existence of an unobserved latent state among all possible states, $\omega \in \Omega$ and a systematic data generating process (DGP) that converts that state into observables that enter the historical record, $X=f(\omega)$. We organize our prior beliefs about possible states, $\Omega$, and the DGP, $f()$, along two overarching axes, summarized in detail by Table 1. <!-- {tbl:litreview}  -->The first axes (rows) represents the types of information we expect to find in IR and forms the basis for our proposed ontology. We employ a metaphor of international affairs as a chess game, with players (polities, rebel groups, IGOs, etc.), pieces (military platforms, civilians, domains), and behaviors (think, say, do). Precise sequencing is required to capture gambits (sequences of moves) and outcomes (victory, defeat, peace, etc.), while precise geo-coding is required to understand the chessboard (medium of conflict). The resulting codebook for events includes 117 different verbs and is available in full in the online material.^[See the Github Repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).]
 
 The second axis (columns) represents sources of evidence for our concept priors and the existing state of the art. The first column ('Literature') maps each type of information to recent studies documenting its importance to IR. The second column ('ICB Corpus') documents the presence of that information in the ICB Corpus as identified by an expert review and natural language processing (Appendix \ref{app:verbs}). The third set of columns compare the ontologies of event-level datasets beginning with our contribution ICBe, then Cameo dictionary lookup based systems (Real-Time Phoenix [@brandtPhoenixRealTimeEvent2018]; Historical Phoenix [@althausClineCenterHistorical2019]; ICEWS [@boscheeICEWSCodedEvent2015; @hegreIntroducingUCDPCandidate2020]; Terrier [@grantOUEventData2017]), the Militarized Interstate Disputes Incidents dataset, and the UCDP-GED dataset [@ralphsundbergUCDPGEDCodebook2016; @petterssonOrganizedViolence19892018; @sundbergIntroducingUCDPGeoreferenced2013]. Finally, the fourth set of columns compares episode-level datasets beginning with the original ICB project [@brecherInternationalCrisisBehavior; @brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020]; the Militarized Interstate Disputes dataset [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018;@braithwaiteMIDLOCIntroducingMilitarized2010;@braithwaiteCodebookMilitarizedInterstate2009], and the Correlates of War [@sarkeesResortWar181620072010].
 
 
-```{r, eval=T, echo=F, results='asis', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75}
+```{r litreview, eval=T, echo=F, results='asis', include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
 
 #Lit review
 #child=c('ICBEdataset_paper_litreviewtable.Rmd')
@@ -415,7 +415,8 @@ if(!TLS){
 }
 
 litreview_ft %>%
-  flextable::set_caption("Prior Beliefs, State of the Art, and Existing Data \\label{tbl:litreview}")  %>% 
+  flextable::set_caption(caption = "Prior Beliefs, State of the Art, and Existing Data") %>%
+  # flextable::set_caption("Prior Beliefs, State of the Art, and Existing Data \\label{tbl:litreview}")  %>% 
   flextable_to_rmd()
 ```
 
@@ -536,12 +537,12 @@ Next, we ask whether codings agree with the raw source material at the sentence 
 \textit{Notes:}
 \end{figure}
 
-Going further, we examine accepted tokens side-by-side with the original source material. We perform stratified sampling across the semantic space, and provide comparisons for 15 sentences here in Table \ref{tbl:15samplesentences}, 50 more in the online Appendix \ref{app:50samplesentences}, and the full set online. To enhance readability, we map selected tokens into a form sentence more akin to the source sentence (original tokens shown underlined). At the sentence level, we find codings accurately reflect the key events of the text. Further, we note that human-in-the-loop coding correctly performs entity resolution, which is often not explicitly mentioned in the text, posing a problem for automated systems.
+Going further, we examine accepted tokens side-by-side with the original source material. We perform stratified sampling across the semantic space, and provide comparisons for 15 sentences here in Table 2,<!-- \ref{tbl:15samplesentences} --> 50 more in the Appendix \ref{app:50samplesentences}, and the full set online. To enhance readability, we map selected tokens into a form sentence more akin to the source sentence (original tokens shown underlined). At the sentence level, we find codings accurately reflect the key events of the text. Further, we note that human-in-the-loop coding correctly performs entity resolution, which is often not explicitly mentioned in the text, posing a problem for automated systems.
 
 ```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
 
 codings_wide_agreed_embeded_stratified_sample_ft_smaller <- readRDS(file=paste0(here::here(), '/replication_paper/tables/codings_wide_agreed_embeded_stratified_sample_ft_smaller.Rds')) %>%
-  flextable::set_caption("ICBe Codings for a Stratified Sample of Sentences (15) \\label{tbl:15samplesentences}") 
+  flextable::set_caption("ICBe Codings for a Stratified Sample of Sentences (15)") 
 codings_wide_agreed_embeded_stratified_sample_ft_smaller
 
 ```
@@ -584,14 +585,14 @@ The precision and overall coherence of ICBe codings are shown in a side-by-side 
 \centering{\includegraphics[width=19cm]{figures/p_metro_map_196.png}}
 \end{figure}
 
-Recall of critical events for ICBe and other state-of-the-art systems are shown in Table \ref{tbl:casestudy196}. ICBe records 8 of 10 critical events identified by the case history. It misses the mobilization of Cuba's military forces, owing to an emphasis of the ICB crisis narrative on the United States and the Soviet Union as the primary actors. It also misses the secondary events of the inconveniently timed nuclear weapons tests by both the United States and the Soviet Union, which was also excluded from the narrative. 
+Recall of critical events for ICBe and other state-of-the-art systems are shown in Table 3.<!-- \ref{tbl:casestudy196} --> ICBe records 8 of 10 critical events identified by the case history. It misses the mobilization of Cuba's military forces, owing to an emphasis of the ICB crisis narrative on the United States and the Soviet Union as the primary actors. It also misses the secondary events of the inconveniently timed nuclear weapons tests by both the United States and the Soviet Union, which was also excluded from the narrative. 
 
 Only three other datasets have temporal coverage of this case. The Cline Historical Phoenix event dataset, which is based on Cameo dictionary codings of the New York Times and Wall Street Journal articles, only includes events that could be loosely mapped to one key turning point, the withdraw of missiles and peaceful resolution of the crisis. Two episode-level datasets contain temporal information on this crisis. A dyadic version of the original ICB dataset [@hewittDyadicProcessesInternational2003] contains information on 6 of the critical events, but describes them in terms that are too vague to reconstruct the episode. For example, the deployment of nuclear weapons is described only as an "external change," and the response of mobilizations for war and the blockade are a "non-violent military act." The Dyadic Militarized Interstate Disputes (MIDs) dataset [@maozDyadicMilitarizedInterstate2019] includes only two possible mappings, a 'show of troops' near the start of the crisis, and a 'yield to' near the end.
 
 ```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
 CaseStudy196_ft <- readRDS(file=paste0(here::here(), '/replication_paper/tables/CaseStudy196_ft.Rds'))
 CaseStudy196_ft %>%
-  flextable::set_caption("Cuban Missile Crisis ground truth and event data \\label{tbl:casestudy196}") %>%
+  flextable::set_caption("Cuban Missile Crisis ground truth and event data") %>%
     flextable::width( j = 1, width=0.5)  %>%
     flextable::width( j = 2, width=1.25)  %>%
     flextable::width( j = 3, width=0.5) %>%
@@ -636,12 +637,12 @@ Precision and overall narrative coherence for the DRC case is strong, as demonst
 
 By comparison, crisis maps of Cameo (Phoenix) (Figure \ref{fig:426metromap_phoenix}), ICEWS (Figure \ref{fig:426metromap_icews}), and Terrier (Figure \ref{fig:426metromap_terrier}), are unintelligible despite deduplication and heavy filtering of irrelevant or uninteresting events. The automated dictionary coding of news articles produces too many irrelevant events between unimportant actors or describes important events too vaguely to be used directly, and instead may only be interpretable in terms of weighted counts over time [@terechshenkoHotCollarLatent2020]. ICB Dyadic Events (Figure \ref{fig:426metromap_icb}), MIDs Incidents (Figure \ref{fig:426metromap_mids_incidents}), and MIDs Episodes (Figure \ref{fig:426metromap_mids}) do a good job showing the start and stop of conflict and between which actors, but lose any detailed context.
 
-Recall of critical events is shown in Table \ref{tbl:casestudy426} below. ICBe records 10 of 14 critical events identified by the case history. It performs poorly on subnational conflict events, missing the formation of the RCD, the deployment of a U.N. peacekeeping mission, the withdraw of Rwandan troops following the peace agreements, and the separate peace struck with the rebel groups RDC and MLC. These details were under-textualized in the ICB narrative. Temporal coverage of this more recent crisis was much greater across datasets, and so we can compare the ICBe codings to five other event-level and two episode-level datasets. As before, Cameo dictionary codings from the Cline Center's historical Phoenix dataset offer possible coverage of 8 events. Cameo codings from Terrier, which includes a much larger number of news sources from the LexisNexis database, only provide possible coverage of one event. The DARPA-funded ICEWs system produces possible coverage of 7 events and notably was the only system to catch the assassination of Kabila. The MIDs incident-level dataset includes possible coverage of 4 events. MIDs episode-level data incorporates possible coverage of 6 events. Finally, Dyadic ICB data cover 7 events.
+Recall of critical events is shown in Table 4 below.<!-- \ref{tbl:casestudy426} --> ICBe records 10 of 14 critical events identified by the case history. It performs poorly on subnational conflict events, missing the formation of the RCD, the deployment of a U.N. peacekeeping mission, the withdraw of Rwandan troops following the peace agreements, and the separate peace struck with the rebel groups RDC and MLC. These details were under-textualized in the ICB narrative. Temporal coverage of this more recent crisis was much greater across datasets, and so we can compare the ICBe codings to five other event-level and two episode-level datasets. As before, Cameo dictionary codings from the Cline Center's historical Phoenix dataset offer possible coverage of 8 events. Cameo codings from Terrier, which includes a much larger number of news sources from the LexisNexis database, only provide possible coverage of one event. The DARPA-funded ICEWs system produces possible coverage of 7 events and notably was the only system to catch the assassination of Kabila. The MIDs incident-level dataset includes possible coverage of 4 events. MIDs episode-level data incorporates possible coverage of 6 events. Finally, Dyadic ICB data cover 7 events.
 
 ```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
 CaseStudy426_ft <- readRDS(file=paste0(here::here(), '/replication_paper/tables/CaseStudy426_ft.Rds'))
 CaseStudy426_ft  %>%
-  flextable::set_caption("DRC Civil War ground truth and event data \\label{tbl:casestudy426}") %>%
+  flextable::set_caption("DRC Civil War ground truth and event data") %>%
       width(j=1, width=0.5) %>%
       width(j=2, width=0.75) %>%
       width(j=3, width=0.3) %>%
@@ -693,7 +694,7 @@ Funding Acquisition: E.G., J.L.
 \newpage
 
 
-# Online Appendix
+# Appendix
 
 ## Appendix 1: ICB Crises and Summary Information {#app:crises}
 
@@ -717,7 +718,7 @@ verbs_sentence_wordnet_top_ft
 
 ```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
 codings_wide_agreed_embeded_stratified_sample_ft <- readRDS(file=paste0(here::here(), '/replication_paper/tables/codings_wide_agreed_embeded_stratified_sample_ft.Rds')) %>%
-  flextable::set_caption("ICBe Codings for 50 Sample Sentences \\label{tbl:50samplesentences}") 
+  flextable::set_caption("ICBe Codings for 50 Sample Sentences") # \\label{tbl:50samplesentences}
 
 codings_wide_agreed_embeded_stratified_sample_ft %>%
       flextable::width( j = 1, width=0.3) %>%
@@ -730,7 +731,7 @@ codings_wide_agreed_embeded_stratified_sample_ft %>%
 
 ```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
 ft_sentence_table_196 <- readRDS(file=paste0(here::here(), '/replication_paper/tables/sentence_tables/ft_sentence_table_196.Rds'))  %>%
-  flextable::set_caption("ICBe Codings for Cuban Missile Crisis (Crisis 196) \\label{tbl:ft_sentence_table_196}") 
+  flextable::set_caption("ICBe Codings for Cuban Missile Crisis (Crisis 196)") # \\label{tbl:ft_sentence_table_196}
 ft_sentence_table_196 %>%
       flextable::width( j = 1, width=0.3) %>%
       flextable::width( j = 2, width=3.25) %>%
@@ -760,7 +761,7 @@ ft_sentence_table_196 %>%
 
 ```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=1}
 ft_sentence_table_426 <- readRDS(file=paste0(here::here(), '/replication_paper/tables/sentence_tables/ft_sentence_table_426.Rds'))  %>%
-  flextable::set_caption("ICBe Codings for DRC Civil War (Crisis 426) \\label{tbl:ft_sentence_table_426}") 
+  flextable::set_caption("ICBe Codings for DRC Civil War (Crisis 426)") #\\label{tbl:ft_sentence_table_426}
 ft_sentence_table_426 %>%
       flextable::width( j = 1, width=0.3) %>%
       flextable::width( j = 2, width=3.25) %>%
