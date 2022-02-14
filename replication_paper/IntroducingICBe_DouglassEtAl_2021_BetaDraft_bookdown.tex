@@ -4,10 +4,14 @@
 %
 \documentclass[
 ]{article}
+\title{Introducing the ICBe Dataset: Very High Recall and Precision Event Extraction from Narratives about International Crises}
+\author{Rex W. Douglass\footnote{Department of Political Science, University of California, San Diego, CA, USA.} \and Thomas Leo Scherer\footnote{Department of Political Science, University of California, San Diego, CA, USA.} \and J. Andrés Gannon\footnote{Belfer Center for Science and International Affairs, Harvard Kennedy School, MA, USA.} \and Erik Gartzke\footnote{Department of Political Science, University of California, San Diego, CA, USA.} \and Jon Lindsay\footnote{School of Cybersecurity and Privacy \textbar{} Sam Nunn School of International Affairs, Georgia Institute of Technology, GA, USA.} \and Shannon Carcelli\footnote{Department of Government and Politics, University of Maryland, College Park, MD, USA.} \and Jonathan Wilkenfeld\footnote{Department of Government and Politics, University of Maryland, College Park, MD, USA.} \and David M. Quinn\footnote{Faculty Specialist, National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland, College Park, MD, USA.} \and Catherine Aiken\footnote{Edmund A. Walsh School of Foreign Service, Georgetown University, Washington, DC, USA.} \and Jose Miguel Cabezas Navarro\footnote{Society and Health Research Center, Universidad Mayor, Santiago, Chile.} \and Neil Lund\footnote{Department of Government and Politics, University of Maryland, College Park, MD, USA.} \and Egle Murauskaite\footnote{ICONS Project // START, University of Maryland, College Park, MD, USA.} \and Diana Partridge\footnote{Department of Government and Politics, University of Maryland, College Park, MD, USA.}}
+\date{2022-02-14}
+
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -42,7 +46,8 @@
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage[margin=1in]{geometry}
-\usepackage{longtable,booktabs}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
 \makeatletter
@@ -51,7 +56,7 @@
 % Allow footnotes in longtable head/foot
 \IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
 \makesavenoteenv{longtable}
-\usepackage{graphicx,grffile}
+\usepackage{graphicx}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -68,6 +73,29 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
 \usepackage[utf8]{inputenc}
 \usepackage{pifont}
 \usepackage{newunicodechar}
@@ -115,10 +143,9 @@
 \usepackage{longtable}
 \usepackage{array}
 \usepackage{hyperref}
-
-\title{Introducing the ICBe Dataset: Very High Recall and Precision Event Extraction from Narratives about International Crises}
-\author{Rex W. Douglass\footnote{Department of Political Science, University of California, San Diego, CA, USA.} \and Thomas Leo Scherer\footnote{Department of Political Science, University of California, San Diego, CA, USA.} \and J. Andrés Gannon\footnote{Belfer Center for Science and International Affairs, Harvard Kennedy School, MA, USA.} \and Erik Gartzke\footnote{Department of Political Science, University of California, San Diego, CA, USA.} \and Jon Lindsay\footnote{School of Cybersecurity and Privacy \textbar{} Sam Nunn School of International Affairs, Georgia Institute of Technology, GA, USA.} \and Shannon Carcelli\footnote{Department of Government and Politics, University of Maryland, College Park, MD, USA.} \and Jonathan Wilkenfeld\footnote{Department of Government and Politics, University of Maryland, College Park, MD, USA.} \and David M. Quinn\footnote{Faculty Specialist, National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland, College Park, MD, USA.} \and Catherine Aiken\footnote{Edmund A. Walsh School of Foreign Service, Georgetown University, Washington, DC, USA.} \and Jose Miguel Cabezas Navarro\footnote{Society and Health Research Center, Universidad Mayor, Santiago, Chile.} \and Neil Lund\footnote{Department of Government and Politics, University of Maryland, College Park, MD, USA.} \and Egle Murauskaite\footnote{ICONS Project // START, University of Maryland, College Park, MD, USA.} \and Diana Partridge\footnote{Department of Government and Politics, University of Maryland, College Park, MD, USA.}}
-\date{2022-02-14}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
 
 \begin{document}
 \maketitle
@@ -206,7 +233,7 @@ The second axis (columns) represents sources of evidence for our concept priors 
 
 
 
-\multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.1in+0\tabcolsep+0\arrayrulewidth}}{\rotatebox[origin=c]{270}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 0.1in+0\tabcolsep+0\arrayrulewidth}}{\rotatebox[origin=c]{270}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 2.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{N}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 1.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{NA}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{10,749}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{10k+}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{1M+}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{9,620}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{128k+}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{1,078}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{5,884}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}!{\color[HTML]{000000}\vrule width 0pt}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{1,039}}} \\
+\multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.1in+0\tabcolsep+0\arrayrulewidth}}{\rotatebox[origin=c]{270}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 0.1in+0\tabcolsep+0\arrayrulewidth}}{\rotatebox[origin=c]{270}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 2.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{N}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 1.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{10,749}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{10k+}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{1M+}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{9,620}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{128k+}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{1,078}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{5,884}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}!{\color[HTML]{000000}\vrule width 0pt}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{1,039}}} \\
 
 \hhline{>{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}-}
 
@@ -302,13 +329,13 @@ The second axis (columns) represents sources of evidence for our concept priors 
 
 
 
-\multicolumn{2}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.2in+2\tabcolsep+1\arrayrulewidth}}{\multirow[c]{-4}{*}{\rotatebox[origin=c]{270}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Say}}}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 2.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Predict\ with\ condition\ (Offer,\ Ultimatum)}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 1.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Powell}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2002)}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{✓}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{✓}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}!{\color[HTML]{000000}\vrule width 0pt}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} \\
+\multicolumn{2}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.2in+2\tabcolsep+1\arrayrulewidth}}{\multirow[c]{-4}{*}{\rotatebox[origin=c]{270}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Say}}}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 2.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Predict\ with\ condition\ (Offer,\ Ultimatum)}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 1.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{R.}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Powell}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2002)}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{✓}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{✓}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\cellcolor[HTML]{EFEFEF}\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}!{\color[HTML]{000000}\vrule width 0pt}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} \\
 
 \hhline{>{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}->{\arrayrulecolor[HTML]{666666}\global\arrayrulewidth=1pt}-}
 
 
 
-\multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.1in+0\tabcolsep+0\arrayrulewidth}}{} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 0.1in+0\tabcolsep+0\arrayrulewidth}}{} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 2.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Government\ (Leadership/Institution\ Change,\ Coup,\ Assasination)}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 1.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Goemans,}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Gleditsch,}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{and}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Chiozza}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2009)}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{;}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Harkness}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2016)}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{;}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Jones}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{and}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Olken}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2009)}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{;}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Matanock}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2017)}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{;}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Powell}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{and}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Thyne}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2011)}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}!{\color[HTML]{000000}\vrule width 0pt}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} \\
+\multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.1in+0\tabcolsep+0\arrayrulewidth}}{} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 0.1in+0\tabcolsep+0\arrayrulewidth}}{} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 2.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Government\ (Leadership/Institution\ Change,\ Coup,\ Assasination)}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 1.5in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Goemans,}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Gleditsch,}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{and}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Chiozza}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2009)}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{;}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Harkness}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2016)}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{;}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Jones}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{and}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Olken}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2009)}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{;}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Matanock}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2017)}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{;}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{J.}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{M.}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Powell}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{and}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{Thyne}}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{\ }}\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{(2011)}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{666666}\vrule width 1pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} & \multicolumn{1}{!{\color[HTML]{000000}\vrule width 0pt}>{\centering}p{\dimexpr 0.25in+0\tabcolsep+0\arrayrulewidth}!{\color[HTML]{000000}\vrule width 0pt}}{\fontsize{7}{4}\selectfont{\textcolor[HTML]{000000}{}}} \\
 
 
 
@@ -878,170 +905,173 @@ Funding Acquisition: E.G., J.L.
 \section{References}\label{references}}
 
 \hypertarget{refs}{}
-\leavevmode\hypertarget{ref-allisonEssenceDecisionExplaining1971}{}%
-Allison, Graham T., and Philip Zelikow. 1971. \emph{Essence of Decision: Explaining the Cuban Missile Crisis}. Vol. 327. 729.1. Little, Brown Boston.
+\begin{CSLReferences}{1}{0}
+\leavevmode\vadjust pre{\hypertarget{ref-allisonEssenceDecisionExplaining1971}{}}%
+Allison, Graham T., and Philip Zelikow. 1971. \emph{Essence of Decision: {Explaining} the {Cuban} Missile Crisis}. Vol. 327. 729.1. Little, Brown Boston.
 
-\leavevmode\hypertarget{ref-althausClineCenterHistorical2019}{}%
-Althaus, Scott, Joseph Bajjalieh, John F. Carter, Buddy Peyton, and Dan A. Shalmon. 2019. ``Cline Center Historical Phoenix Event Data Variable Descriptions.'' \emph{Cline Center Historical Phoenix Event Data}.
+\leavevmode\vadjust pre{\hypertarget{ref-althausClineCenterHistorical2019}{}}%
+Althaus, Scott, Joseph Bajjalieh, John F. Carter, Buddy Peyton, and Dan A. Shalmon. 2019. {``Cline {Center} {Historical} {Phoenix} {Event} {Data} {Variable} {Descriptions}.''} \emph{Cline Center Historical Phoenix Event Data}.
 
-\leavevmode\hypertarget{ref-barariDemocracyTradePolicy}{}%
-Barari, Soubhik, and In Song Kim. n.d. ``Democracy and Trade Policy at the Product Level: Evidence from a New Tariff-Line Dataset,'' 16.
+\leavevmode\vadjust pre{\hypertarget{ref-barariDemocracyTradePolicy}{}}%
+Barari, Soubhik, and In Song Kim. n.d. {``Democracy and {Trade} {Policy} at the {Product} {Level}: {Evidence} from a {New} {Tariff}-Line {Dataset},''} 16.
 
-\leavevmode\hypertarget{ref-beardsleyInternationalCrisisBehavior2020}{}%
-Beardsley, Kyle, Patrick James, Jonathan Wilkenfeld, and Michael Brecher. 2020. ``The International Crisis Behavior Project.'' \emph{Oxford Research Encyclopedia of Politics}. \url{https://doi.org/10.1093/acrefore/9780190228637.013.1638}.
+\leavevmode\vadjust pre{\hypertarget{ref-beardsleyInternationalCrisisBehavior2020}{}}%
+Beardsley, Kyle, Patrick James, Jonathan Wilkenfeld, and Michael Brecher. 2020. {``The {International} {Crisis} {Behavior} {Project}.''} \emph{Oxford Research Encyclopedia of Politics}. \url{https://doi.org/10.1093/acrefore/9780190228637.013.1638}.
 
-\leavevmode\hypertarget{ref-boscheeICEWSCodedEvent2015}{}%
-Boschee, Elizabeth, Jennifer Lautenschlager, Sean O'Brien, Steve Shellman, James Starz, and Michael Ward. 2015. ``ICEWS Coded Event Data.'' \emph{Harvard Dataverse} 12.
+\leavevmode\vadjust pre{\hypertarget{ref-boscheeICEWSCodedEvent2015}{}}%
+Boschee, Elizabeth, Jennifer Lautenschlager, Sean O'Brien, Steve Shellman, James Starz, and Michael Ward. 2015. {``{ICEWS} Coded Event Data.''} \emph{Harvard Dataverse} 12.
 
-\leavevmode\hypertarget{ref-braithwaiteCodebookMilitarizedInterstate2009}{}%
-Braithwaite, Alex. 2009. ``Codebook for the Militarized Interstate Dispute Location (MIDLOC) Data, V 1.0.'' \emph{University College London}.
+\leavevmode\vadjust pre{\hypertarget{ref-braithwaiteCodebookMilitarizedInterstate2009}{}}%
+Braithwaite, Alex. 2009. {``Codebook for the {Militarized} {Interstate} {Dispute} {Location} ({MIDLOC}) {Data}, v 1.0.''} \emph{University College London}.
 
-\leavevmode\hypertarget{ref-braithwaiteMIDLOCIntroducingMilitarized2010}{}%
----------. 2010. ``MIDLOC: Introducing the Militarized Interstate Dispute Location Dataset.'' \emph{Journal of Peace Research} 47 (1): 91--98. \url{https://doi.org/10.1177/0022343309350008}.
+\leavevmode\vadjust pre{\hypertarget{ref-braithwaiteMIDLOCIntroducingMilitarized2010}{}}%
+---------. 2010. {``{MIDLOC}: {Introducing} the {Militarized} {Interstate} {Dispute} {Location} Dataset.''} \emph{Journal of Peace Research} 47 (1): 91--98. \url{https://doi.org/10.1177/0022343309350008}.
 
-\leavevmode\hypertarget{ref-brandtPhoenixRealTimeEvent2018}{}%
-Brandt, Patrick T., Vito DOrazio, Jennifer Holmes, Latifur Khan, and Vincent Ng. 2018. ``Phoenix Real-Time Event Data.'' \url{http://eventdata.utdallas.edu}.
+\leavevmode\vadjust pre{\hypertarget{ref-brandtPhoenixRealTimeEvent2018}{}}%
+Brandt, Patrick T., Vito DOrazio, Jennifer Holmes, Latifur Khan, and Vincent Ng. 2018. {``Phoenix {Real}-{Time} {Event} {Data}.''} \url{http://eventdata.utdallas.edu}.
 
-\leavevmode\hypertarget{ref-brecherInternationalStudiesTwentieth1999}{}%
-Brecher, Michael. 1999. ``International Studies in the Twentieth Century and Beyond: Flawed Dichotomies, Synthesis, Cumulation: ISA Presidential Address.'' \emph{International Studies Quarterly} 43 (2): 213--64.
+\leavevmode\vadjust pre{\hypertarget{ref-brecherInternationalStudiesTwentieth1999}{}}%
+Brecher, Michael. 1999. {``International Studies in the Twentieth Century and Beyond: {Flawed} Dichotomies, Synthesis, Cumulation: {ISA} Presidential Address.''} \emph{International Studies Quarterly} 43 (2): 213--64.
 
-\leavevmode\hypertarget{ref-brecherPatternsCrisisManagement1988}{}%
-Brecher, Michael, and Patrick James. 1988. ``Patterns of Crisis Management.'' \emph{Journal of Conflict Resolution} 32 (3): 426--56.
+\leavevmode\vadjust pre{\hypertarget{ref-brecherPatternsCrisisManagement1988}{}}%
+Brecher, Michael, and Patrick James. 1988. {``Patterns of Crisis Management.''} \emph{Journal of Conflict Resolution} 32 (3): 426--56.
 
-\leavevmode\hypertarget{ref-brecherCrisisEscalationWar2000}{}%
-Brecher, Michael, Patrick James, and Jonathan Wilkenfeld. 2000. ``Crisis Escalation to War: Findings from the International Crisis Behavior Project.'' \emph{What Do We Know About War}.
+\leavevmode\vadjust pre{\hypertarget{ref-brecherCrisisEscalationWar2000}{}}%
+Brecher, Michael, Patrick James, and Jonathan Wilkenfeld. 2000. {``Crisis Escalation to War: {Findings} from the {International} {Crisis} {Behavior} {Project}.''} \emph{What Do We Know About War}.
 
-\leavevmode\hypertarget{ref-brecherCrisesWorldPolitics1982}{}%
-Brecher, Michael, and Jonathan Wilkenfeld. 1982. ``Crises in World Politics.'' \emph{World Politics} 34 (3): 380--417. \url{https://doi.org/10.2307/2010324}.
+\leavevmode\vadjust pre{\hypertarget{ref-brecherCrisesWorldPolitics1982}{}}%
+Brecher, Michael, and Jonathan Wilkenfeld. 1982. {``Crises in {World} {Politics}.''} \emph{World Politics} 34 (3): 380--417. \url{https://doi.org/10.2307/2010324}.
 
-\leavevmode\hypertarget{ref-brecher_study_1997}{}%
----------. 1997. \emph{A Study of Crisis}. University of Michigan Press.
+\leavevmode\vadjust pre{\hypertarget{ref-brecher_study_1997}{}}%
+---------. 1997. \emph{A {Study} of {Crisis}}. University of Michigan Press.
 
-\leavevmode\hypertarget{ref-brecherInternationalCrisisBehavior2017}{}%
-Brecher, Michael, Jonathan Wilkenfeld, Kyle C. Beardsley, Patrick James, and David Quinn. 2017. ``International Crisis Behavior Data Codebook.'' Codebook Version 12. \url{http://sites.duke.edu/icbdata/data-collections/}.
+\leavevmode\vadjust pre{\hypertarget{ref-brecherInternationalCrisisBehavior2017}{}}%
+Brecher, Michael, Jonathan Wilkenfeld, Kyle C. Beardsley, Patrick James, and David Quinn. 2017. {``International {Crisis} {Behavior} {Data} {Codebook}.''} Codebook Version 12. \url{http://sites.duke.edu/icbdata/data-collections/}.
 
-\leavevmode\hypertarget{ref-brecherInternationalCrisisBehavior}{}%
-Brecher, Michael, Jonathan Wilkenfeld, Kyle Beardsley, Patrick James, and David Quinn. n.d. ``International Crisis Behavior Data Codebook, Version 12,'' 69.
+\leavevmode\vadjust pre{\hypertarget{ref-brecherInternationalCrisisBehavior}{}}%
+Brecher, Michael, Jonathan Wilkenfeld, Kyle Beardsley, Patrick James, and David Quinn. n.d. {``International {Crisis} {Behavior} {Data} {Codebook}, {Version} 12,''} 69.
 
-\leavevmode\hypertarget{ref-brugioniEyeballEyeballStory1991}{}%
-Brugioni, Dino A. 1991. \emph{Eyeball to Eyeball: The Inside Story of the Cuban Missile Crisis}. Random House.
+\leavevmode\vadjust pre{\hypertarget{ref-brugioniEyeballEyeballStory1991}{}}%
+Brugioni, Dino A. 1991. \emph{Eyeball to {Eyeball}: {The} {Inside} {Story} of the {Cuban} {Missile} {Crisis}}. Random House.
 
-\leavevmode\hypertarget{ref-brustIntegratingDomainKnowledge2020}{}%
-Brust, Clemens-Alexander, and Joachim Denzler. 2020. ``Integrating Domain Knowledge: Using Hierarchies to Improve Deep Classifiers.'' \emph{arXiv:1811.07125 {[}Cs{]}}, January. \url{http://arxiv.org/abs/1811.07125}.
+\leavevmode\vadjust pre{\hypertarget{ref-brustIntegratingDomainKnowledge2020}{}}%
+Brust, Clemens-Alexander, and Joachim Denzler. 2020. {``Integrating Domain Knowledge: Using Hierarchies to Improve Deep Classifiers.''} \emph{arXiv:1811.07125 {[}Cs{]}}, January. \url{http://arxiv.org/abs/1811.07125}.
 
-\leavevmode\hypertarget{ref-felbermayrGlobalSanctionsData2020}{}%
-Felbermayr, Gabriel, Aleksandra Kirilakha, Constantinos Syropoulos, Erdal Yalcin, and Yoto V. Yotov. 2020. ``The Global Sanctions Data Base.'' \emph{European Economic Review} 129 (October): 103561. \url{https://doi.org/10.1016/j.euroecorev.2020.103561}.
+\leavevmode\vadjust pre{\hypertarget{ref-felbermayrGlobalSanctionsData2020}{}}%
+Felbermayr, Gabriel, Aleksandra Kirilakha, Constantinos Syropoulos, Erdal Yalcin, and Yoto V. Yotov. 2020. {``The Global Sanctions Data Base.''} \emph{European Economic Review} 129 (October): 103561. \url{https://doi.org/10.1016/j.euroecorev.2020.103561}.
 
-\leavevmode\hypertarget{ref-frederickIssueCorrelatesWar2017}{}%
-Frederick, Bryan A, Paul R Hensel, and Christopher Macaulay. 2017. ``The Issue Correlates of War Territorial Claims Data, 1816--20011.'' \emph{Journal of Peace Research} 54 (1): 99--108. \url{https://doi.org/10.1177/0022343316676311}.
+\leavevmode\vadjust pre{\hypertarget{ref-frederickIssueCorrelatesWar2017}{}}%
+Frederick, Bryan A, Paul R Hensel, and Christopher Macaulay. 2017. {``The {Issue} {Correlates} of {War} {Territorial} {Claims} {Data}, 1816--20011.''} \emph{Journal of Peace Research} 54 (1): 99--108. \url{https://doi.org/10.1177/0022343316676311}.
 
-\leavevmode\hypertarget{ref-gaddisExpandingDataBase1987}{}%
-Gaddis, John Lewis. 1987. ``Expanding the Data Base: Historians, Political Scientists, and the Enrichment of Security Studies.'' \emph{International Security} 12 (1): 3--21. \url{https://doi.org/10.2307/2538915}.
+\leavevmode\vadjust pre{\hypertarget{ref-gaddisExpandingDataBase1987}{}}%
+Gaddis, John Lewis. 1987. {``Expanding the {Data} {Base}: {Historians}, {Political} {Scientists}, and the {Enrichment} of {Security} {Studies}.''} \emph{International Security} 12 (1): 3--21. \url{https://doi.org/10.2307/2538915}.
 
-\leavevmode\hypertarget{ref-gavinHistorySecurityStudies2014}{}%
-Gavin, Francis J. 2014. ``History, Security Studies, and the July Crisis.'' \emph{Journal of Strategic Studies} 37 (2): 319--31. \url{https://doi.org/10.1080/01402390.2014.912916}.
+\leavevmode\vadjust pre{\hypertarget{ref-gavinHistorySecurityStudies2014}{}}%
+Gavin, Francis J. 2014. {``History, {Security} {Studies}, and the {July} {Crisis}.''} \emph{Journal of Strategic Studies} 37 (2): 319--31. \url{https://doi.org/10.1080/01402390.2014.912916}.
 
-\leavevmode\hypertarget{ref-georgeDeterrenceAmericanForeign1974}{}%
-George, Alexander L., and Richard Smoke. 1974. \emph{Deterrence in American Foreign Policy: Theory and Practice}. Columbia University Press.
+\leavevmode\vadjust pre{\hypertarget{ref-georgeDeterrenceAmericanForeign1974}{}}%
+George, Alexander L., and Richard Smoke. 1974. \emph{Deterrence in {American} Foreign Policy: {Theory} and Practice}. Columbia University Press.
 
-\leavevmode\hypertarget{ref-giblerInternationalConflicts181620102018}{}%
-Gibler, Douglas M. 2018. \emph{International Conflicts, 1816-2010: Militarized Interstate Dispute Narratives}. Rowman \& Littlefield.
+\leavevmode\vadjust pre{\hypertarget{ref-giblerInternationalConflicts181620102018}{}}%
+Gibler, Douglas M. 2018. \emph{International {Conflicts}, 1816-2010: {Militarized} {Interstate} {Dispute} {Narratives}}. Rowman \& Littlefield.
 
-\leavevmode\hypertarget{ref-grantOUEventData2017}{}%
-Grant, Christan, Andrew Halterman, Jill Irvine, Yan Liang, and Khaled Jabr. 2017. ``OU Event Data Project,'' December. \url{https://osf.io/4m2u7/}.
+\leavevmode\vadjust pre{\hypertarget{ref-grantOUEventData2017}{}}%
+Grant, Christan, Andrew Halterman, Jill Irvine, Yan Liang, and Khaled Jabr. 2017. {``{OU} {Event} {Data} {Project},''} December. \url{https://osf.io/4m2u7/}.
 
-\leavevmode\hypertarget{ref-haltermanExtractingPoliticalEvents2020}{}%
-Halterman, Andy. 2020. ``Extracting Political Events from Text Using Syntax and Semantics.''
+\leavevmode\vadjust pre{\hypertarget{ref-haltermanExtractingPoliticalEvents2020}{}}%
+Halterman, Andy. 2020. {``Extracting {Political} {Events} from {Text} {Using} {Syntax} and {Semantics}.''}
 
-\leavevmode\hypertarget{ref-hegreIntroducingUCDPCandidate2020}{}%
-Hegre, Håvard, Mihai Croicu, Kristine Eck, and Stina Högbladh. 2020. ``Introducing the UCDP Candidate Events Dataset.'' \emph{Research \& Politics} 7 (3): 2053168020935257.
+\leavevmode\vadjust pre{\hypertarget{ref-hegreIntroducingUCDPCandidate2020}{}}%
+Hegre, Håvard, Mihai Croicu, Kristine Eck, and Stina Högbladh. 2020. {``Introducing the {UCDP} {Candidate} {Events} {Dataset}.''} \emph{Research \& Politics} 7 (3): 2053168020935257.
 
-\leavevmode\hypertarget{ref-hewittEngagingInternationalData2001}{}%
-Hewitt, J. Joseph. 2001. ``Engaging International Data in the Classroom: Using the ICB Interactive Data Library to Teach Conflict and Crisis Analysis.'' \emph{International Studies Perspectives} 2 (4): 371--83. \url{https://doi.org/10.1111/1528-3577.00066}.
+\leavevmode\vadjust pre{\hypertarget{ref-hewittEngagingInternationalData2001}{}}%
+Hewitt, J. Joseph. 2001. {``Engaging {International} {Data} in the {Classroom}: {Using} the {ICB} {Interactive} {Data} {Library} to {Teach} {Conflict} and {Crisis} {Analysis}.''} \emph{International Studies Perspectives} 2 (4): 371--83. \url{https://doi.org/10.1111/1528-3577.00066}.
 
-\leavevmode\hypertarget{ref-hewittDyadicProcessesInternational2003}{}%
----------. 2003. ``Dyadic Processes and International Crises.'' \emph{Journal of Conflict Resolution} 47 (5): 669--92. \url{https://doi.org/10.1177/0022002703252973}.
+\leavevmode\vadjust pre{\hypertarget{ref-hewittDyadicProcessesInternational2003}{}}%
+---------. 2003. {``Dyadic {Processes} and {International} {Crises}.''} \emph{Journal of Conflict Resolution} 47 (5): 669--92. \url{https://doi.org/10.1177/0022002703252973}.
 
-\leavevmode\hypertarget{ref-holsti1914Case1965}{}%
-Holsti, Ole R. 1965. ``The 1914 Case.'' \emph{The American Political Science Review} 59 (2): 365--78. \url{https://doi.org/10.2307/1953055}.
+\leavevmode\vadjust pre{\hypertarget{ref-holsti1914Case1965}{}}%
+Holsti, Ole R. 1965. {``The 1914 {Case}.''} \emph{The American Political Science Review} 59 (2): 365--78. \url{https://doi.org/10.2307/1953055}.
 
-\leavevmode\hypertarget{ref-iakhnisCrisesWorldPolitics2019}{}%
-Iakhnis, Evgeniia, and Patrick James. 2019. ``Near Crises in World Politics: A New Dataset.'' \emph{Conflict Management and Peace Science}, July, 0738894219855610. \url{https://doi.org/10.1177/0738894219855610}.
+\leavevmode\vadjust pre{\hypertarget{ref-iakhnisCrisesWorldPolitics2019}{}}%
+Iakhnis, Evgeniia, and Patrick James. 2019. {``Near Crises in World Politics: {A} New Dataset.''} \emph{Conflict Management and Peace Science}, July, 0738894219855610. \url{https://doi.org/10.1177/0738894219855610}.
 
-\leavevmode\hypertarget{ref-jamesWhatWeKnow2019}{}%
-James, Patrick. 2019. ``What Do We Know About Crisis, Escalation and War? A Visual Assessment of the International Crisis Behavior Project.'' \emph{Conflict Management and Peace Science} 36 (1): 3--19. \url{https://doi.org/10.1177/0738894218793135}.
+\leavevmode\vadjust pre{\hypertarget{ref-jamesWhatWeKnow2019}{}}%
+James, Patrick. 2019. {``What Do We Know about Crisis, Escalation and War? {A} Visual Assessment of the {International} {Crisis} {Behavior} {Project}.''} \emph{Conflict Management and Peace Science} 36 (1): 3--19. \url{https://doi.org/10.1177/0738894218793135}.
 
-\leavevmode\hypertarget{ref-kangUSBiasStudy2019}{}%
-Kang, David C., and Alex Yu-Ting Lin. 2019. ``US Bias in the Study of Asian Security: Using Europe to Study Asia.'' \emph{Journal of Global Security Studies} 4 (3): 393--401.
+\leavevmode\vadjust pre{\hypertarget{ref-kangUSBiasStudy2019}{}}%
+Kang, David C., and Alex Yu-Ting Lin. 2019. {``{US} Bias in the Study of {Asian} Security: {Using} {Europe} to Study {Asia}.''} \emph{Journal of Global Security Studies} 4 (3): 393--401.
 
-\leavevmode\hypertarget{ref-kinneDefenseCooperationAgreement2020}{}%
-Kinne, Brandon J. 2020. ``The Defense Cooperation Agreement Dataset (DCAD).'' \emph{Journal of Conflict Resolution} 64 (4): 729--55. \url{https://doi.org/10.1177/0022002719857796}.
+\leavevmode\vadjust pre{\hypertarget{ref-kinneDefenseCooperationAgreement2020}{}}%
+Kinne, Brandon J. 2020. {``The {Defense} {Cooperation} {Agreement} {Dataset} ({DCAD}).''} \emph{Journal of Conflict Resolution} 64 (4): 729--55. \url{https://doi.org/10.1177/0022002719857796}.
 
-\leavevmode\hypertarget{ref-kisanganiHistoricalDictionaryDemocratic2010}{}%
-Kisangani, Emizet F. 2010. \emph{Historical Dictionary of the Democratic Republic of the Congo by Emizet François Kisangani and F. Scott Bobb.} 3rd ed. Historical Dictionaries of Africa ; No. 112. Lanham, Md: Scarecrow Press.
+\leavevmode\vadjust pre{\hypertarget{ref-kisanganiHistoricalDictionaryDemocratic2010}{}}%
+Kisangani, Emizet F. 2010. \emph{Historical Dictionary of the {Democratic} {Republic} of the {Congo} by {Emizet} {François} {Kisangani} and {F}. {Scott} {Bobb}.} 3rd ed. Historical Dictionaries of {Africa} ; No. 112. Lanham, Md: Scarecrow Press.
 
-\leavevmode\hypertarget{ref-lansfordPoliticalHandbookWorld2021}{}%
-Lansford, Tom. 2021. \emph{Political Handbook of the World 2020-2021}. Thousand Oaks, California. \url{https://doi.org/10.4135/9781544384702}.
+\leavevmode\vadjust pre{\hypertarget{ref-lansfordPoliticalHandbookWorld2021}{}}%
+Lansford, Tom. 2021. \emph{Political {Handbook} of the {World} 2020-2021}. Thousand Oaks, California. \url{https://doi.org/10.4135/9781544384702}.
 
-\leavevmode\hypertarget{ref-liComprehensiveSurveySchemabased2021}{}%
-Li, Qian, Hao Peng, Jianxin Li, Yiming Hei, Rui Sun, Jiawei Sheng, Shu Guo, et al. 2021. ``A Comprehensive Survey on Schema-Based Event Extraction with Deep Learning.'' \emph{arXiv:2107.02126 {[}Cs{]}}, August. \url{http://arxiv.org/abs/2107.02126}.
+\leavevmode\vadjust pre{\hypertarget{ref-liComprehensiveSurveySchemabased2021}{}}%
+Li, Qian, Hao Peng, Jianxin Li, Yiming Hei, Rui Sun, Jiawei Sheng, Shu Guo, et al. 2021. {``A {Comprehensive} {Survey} on {Schema}-Based {Event} {Extraction} with {Deep} {Learning}.''} \emph{arXiv:2107.02126 {[}Cs{]}}, August. \url{http://arxiv.org/abs/2107.02126}.
 
-\leavevmode\hypertarget{ref-maozDyadicMilitarizedInterstate2019}{}%
-Maoz, Zeev, Paul L. Johnson, Jasper Kaplan, Fiona Ogunkoya, and Aaron P. Shreve. 2019. ``The Dyadic Militarized Interstate Disputes (MIDs) Dataset Version 3.0: Logic, Characteristics, and Comparisons to Alternative Datasets.'' \emph{Journal of Conflict Resolution} 63 (3): 811--35. \url{https://doi.org/10.1177/0022002718784158}.
+\leavevmode\vadjust pre{\hypertarget{ref-maozDyadicMilitarizedInterstate2019}{}}%
+Maoz, Zeev, Paul L. Johnson, Jasper Kaplan, Fiona Ogunkoya, and Aaron P. Shreve. 2019. {``The {Dyadic} {Militarized} {Interstate} {Disputes} ({MIDs}) {Dataset} {Version} 3.0: {Logic}, {Characteristics}, and {Comparisons} to {Alternative} {Datasets}.''} \emph{Journal of Conflict Resolution} 63 (3): 811--35. \url{https://doi.org/10.1177/0022002718784158}.
 
-\leavevmode\hypertarget{ref-moyerWhatAreDrivers2020}{}%
-Moyer, Jonathan D, Sara D Turner, and Collin J Meisel. 2020. ``What Are the Drivers of Diplomacy? Introducing and Testing New Annual Dyadic Data Measuring Diplomatic Exchange.'' \emph{Journal of Peace Research}, September, 0022343320929740. \url{https://doi.org/10.1177/0022343320929740}.
+\leavevmode\vadjust pre{\hypertarget{ref-moyerWhatAreDrivers2020}{}}%
+Moyer, Jonathan D, Sara D Turner, and Collin J Meisel. 2020. {``What Are the Drivers of Diplomacy? {Introducing} and Testing New Annual Dyadic Data Measuring Diplomatic Exchange.''} \emph{Journal of Peace Research}, September, 0022343320929740. \url{https://doi.org/10.1177/0022343320929740}.
 
-\leavevmode\hypertarget{ref-owsiakInternationalBorderAgreements2018}{}%
-Owsiak, Andrew P, Allison K Cuttner, and Brent Buck. 2018. ``The International Border Agreements Dataset.'' \emph{Conflict Management and Peace Science} 35 (5): 559--76. \url{https://doi.org/10.1177/0738894216646978}.
+\leavevmode\vadjust pre{\hypertarget{ref-owsiakInternationalBorderAgreements2018}{}}%
+Owsiak, Andrew P, Allison K Cuttner, and Brent Buck. 2018. {``The {International} {Border} {Agreements} {Dataset}.''} \emph{Conflict Management and Peace Science} 35 (5): 559--76. \url{https://doi.org/10.1177/0738894216646978}.
 
-\leavevmode\hypertarget{ref-paigeKoreanDecisionJune1968}{}%
-Paige, Glenn D. 1968. \emph{The Korean Decision, June 24-30, 1950}. Free Press.
+\leavevmode\vadjust pre{\hypertarget{ref-paigeKoreanDecisionJune1968}{}}%
+Paige, Glenn D. 1968. \emph{The {Korean} {Decision}, {June} 24-30, 1950}. Free Press.
 
-\leavevmode\hypertarget{ref-palmerMID5Dataset20112021}{}%
-Palmer, Glenn, Roseanne W McManus, Vito D'Orazio, Michael R Kenwick, Mikaela Karstens, Chase Bloch, Nick Dietrich, Kayla Kahn, Kellan Ritter, and Michael J Soules. 2021. ``The MID5 Dataset, 2011--2014: Procedures, Coding Rules, and Description.'' \emph{Conflict Management and Peace Science}, February, 0738894221995743. \url{https://doi.org/10.1177/0738894221995743}.
+\leavevmode\vadjust pre{\hypertarget{ref-palmerMID5Dataset20112021}{}}%
+Palmer, Glenn, Roseanne W McManus, Vito D'Orazio, Michael R Kenwick, Mikaela Karstens, Chase Bloch, Nick Dietrich, Kayla Kahn, Kellan Ritter, and Michael J Soules. 2021. {``The {Mid5} {Dataset}, 2011--2014: {Procedures}, Coding Rules, and Description.''} \emph{Conflict Management and Peace Science}, February, 0738894221995743. \url{https://doi.org/10.1177/0738894221995743}.
 
-\leavevmode\hypertarget{ref-petterssonOrganizedViolence19892018}{}%
-Pettersson, Therése, and Kristine Eck. 2018. ``Organized Violence, 1989--2017.'' \emph{Journal of Peace Research} 55 (4): 535--47. \url{https://doi.org/10.1177/0022343318784101}.
+\leavevmode\vadjust pre{\hypertarget{ref-petterssonOrganizedViolence19892018}{}}%
+Pettersson, Therése, and Kristine Eck. 2018. {``Organized Violence, 1989--2017.''} \emph{Journal of Peace Research} 55 (4): 535--47. \url{https://doi.org/10.1177/0022343318784101}.
 
-\leavevmode\hypertarget{ref-raleighIntroducingACLEDArmed2010}{}%
-Raleigh, Clionadh, Andrew Linke, Håavard Hegre, and Joakim Karlsen. 2010. ``Introducing ACLED: An Armed Conflict Location and Event Dataset: Special Data Feature.'' \emph{Journal of Peace Research} 47 (5): 651--60.
+\leavevmode\vadjust pre{\hypertarget{ref-raleighIntroducingACLEDArmed2010}{}}%
+Raleigh, Clionadh, Andrew Linke, Håavard Hegre, and Joakim Karlsen. 2010. {``Introducing {ACLED}: An Armed Conflict Location and Event Dataset: Special Data Feature.''} \emph{Journal of Peace Research} 47 (5): 651--60.
 
-\leavevmode\hypertarget{ref-ralphsundbergUCDPGEDCodebook2016}{}%
-Ralph Sundberg, and Mihai Croicu. 2016. ``UCDP GED Codebook Version 5.0.'' Department of Peace; Conflict Research, Uppsala University.
+\leavevmode\vadjust pre{\hypertarget{ref-ralphsundbergUCDPGEDCodebook2016}{}}%
+Ralph Sundberg, and Mihai Croicu. 2016. {``{UCDP} {GED} {Codebook} Version 5.0.''} Department of Peace; Conflict Research, Uppsala University.
 
-\leavevmode\hypertarget{ref-reimersSentenceBERTSentenceEmbeddings2019}{}%
-Reimers, Nils, and Iryna Gurevych. 2019. ``Sentence-BERT: Sentence Embeddings Using Siamese BERT-Networks.'' \emph{arXiv:1908.10084 {[}Cs{]}}, August. \url{http://arxiv.org/abs/1908.10084}.
+\leavevmode\vadjust pre{\hypertarget{ref-reimersSentenceBERTSentenceEmbeddings2019}{}}%
+Reimers, Nils, and Iryna Gurevych. 2019. {``Sentence-{BERT}: {Sentence} {Embeddings} Using {Siamese} {BERT}-{Networks}.''} \emph{arXiv:1908.10084 {[}Cs{]}}, August. \url{http://arxiv.org/abs/1908.10084}.
 
-\leavevmode\hypertarget{ref-reiterShouldWeLeave2015}{}%
-Reiter, Dan. 2015. ``Should We Leave Behind the Subfield of International Relations?'' \emph{Annual Review of Political Science} 18 (1): 481--99. \url{https://doi.org/10.1146/annurev-polisci-053013-041156}.
+\leavevmode\vadjust pre{\hypertarget{ref-reiterShouldWeLeave2015}{}}%
+Reiter, Dan. 2015. {``Should {We} {Leave} {Behind} the {Subfield} of {International} {Relations}?''} \emph{Annual Review of Political Science} 18 (1): 481--99. \url{https://doi.org/10.1146/annurev-polisci-053013-041156}.
 
-\leavevmode\hypertarget{ref-reiterRevisedLookInterstate2016}{}%
-Reiter, Dan, Allan C. Stam, and Michael C. Horowitz. 2016. ``A Revised Look at Interstate Wars, 1816--2007.'' \emph{Journal of Conflict Resolution} 60 (5): 956--76. \url{https://doi.org/10.1177/0022002714553107}.
+\leavevmode\vadjust pre{\hypertarget{ref-reiterRevisedLookInterstate2016}{}}%
+Reiter, Dan, Allan C. Stam, and Michael C. Horowitz. 2016. {``A {Revised} {Look} at {Interstate} {Wars}, 1816--2007.''} \emph{Journal of Conflict Resolution} 60 (5): 956--76. \url{https://doi.org/10.1177/0022002714553107}.
 
-\leavevmode\hypertarget{ref-sarkeesResortWar181620072010}{}%
+\leavevmode\vadjust pre{\hypertarget{ref-sarkeesResortWar181620072010}{}}%
 Sarkees, Meredith Reid, and Frank Wayman. 2010. \emph{Resort to War: 1816-2007}. CQ Press.
 
-\leavevmode\hypertarget{ref-schererPeaceKeepsUnited2015}{}%
-Scherer, Thomas Leo. 2015. ``Peace for Keeps: United Nations Peacekeeping and Government Power.'' Ph.D., United States -- New Jersey: Princeton University. \url{https://www.proquest.com/dissertations/docview/1750068129/abstract/E1C9AF8AAF1F4F55PQ/1}.
+\leavevmode\vadjust pre{\hypertarget{ref-schererPeaceKeepsUnited2015}{}}%
+Scherer, Thomas Leo. 2015. {``Peace for {Keeps}: {United} {Nations} {Peacekeeping} and {Government} {Power}.''} Ph.\{D\}., United States -- New Jersey: Princeton University. \url{https://www.proquest.com/dissertations/docview/1750068129/abstract/E1C9AF8AAF1F4F55PQ/1}.
 
-\leavevmode\hypertarget{ref-sechserMilitarizedCompellentThreats2011}{}%
-Sechser, Todd S. 2011. ``Militarized Compellent Threats, 1918--2001.'' \emph{Conflict Management and Peace Science} 28 (4): 377--401. \url{https://doi.org/10.1177/0738894211413066}.
+\leavevmode\vadjust pre{\hypertarget{ref-sechserMilitarizedCompellentThreats2011}{}}%
+Sechser, Todd S. 2011. {``Militarized {Compellent} {Threats}, 1918--2001.''} \emph{Conflict Management and Peace Science} 28 (4): 377--401. \url{https://doi.org/10.1177/0738894211413066}.
 
-\leavevmode\hypertarget{ref-snyderConflictNationsBargaining1977}{}%
-Snyder, Glenn Herald, and Paul Diesing. 1977. \emph{Conflict Among Nations: Bargaining and Decision Making in International Crises}. Princeton University Press.
+\leavevmode\vadjust pre{\hypertarget{ref-snyderConflictNationsBargaining1977}{}}%
+Snyder, Glenn Herald, and Paul Diesing. 1977. \emph{Conflict Among Nations: {Bargaining} and Decision Making in International Crises}. Princeton University Press.
 
-\leavevmode\hypertarget{ref-sundbergIntroducingUCDPGeoreferenced2013}{}%
-Sundberg, Ralph, and Erik Melander. 2013. ``Introducing the UCDP Georeferenced Event Dataset.'' \emph{Journal of Peace Research} 50 (4): 523--32.
+\leavevmode\vadjust pre{\hypertarget{ref-sundbergIntroducingUCDPGeoreferenced2013}{}}%
+Sundberg, Ralph, and Erik Melander. 2013. {``Introducing the {UCDP} Georeferenced Event Dataset.''} \emph{Journal of Peace Research} 50 (4): 523--32.
 
-\leavevmode\hypertarget{ref-terechshenkoHotCollarLatent2020}{}%
-Terechshenko, Zhanna. 2020. ``Hot Under the Collar: A Latent Measure of Interstate Hostility.'' \emph{Journal of Peace Research} 57 (6): 764--76. \url{https://doi.org/10.1177/0022343320962546}.
+\leavevmode\vadjust pre{\hypertarget{ref-terechshenkoHotCollarLatent2020}{}}%
+Terechshenko, Zhanna. 2020. {``Hot Under the Collar: {A} Latent Measure of Interstate Hostility.''} \emph{Journal of Peace Research} 57 (6): 764--76. \url{https://doi.org/10.1177/0022343320962546}.
 
-\leavevmode\hypertarget{ref-vabulasCooperationAutonomyBuilding2021}{}%
-Vabulas, Felicity, and Duncan Snidal. 2021. ``Cooperation Under Autonomy: Building and Analyzing the Informal Intergovernmental Organizations 2.0 Dataset.'' \emph{Journal of Peace Research} 58 (4): 859--69. \url{https://doi.org/10.1177/0022343320943920}.
+\leavevmode\vadjust pre{\hypertarget{ref-vabulasCooperationAutonomyBuilding2021}{}}%
+Vabulas, Felicity, and Duncan Snidal. 2021. {``Cooperation Under Autonomy: {Building} and Analyzing the {Informal} {Intergovernmental} {Organizations} 2.0 Dataset.''} \emph{Journal of Peace Research} 58 (4): 859--69. \url{https://doi.org/10.1177/0022343320943920}.
 
-\leavevmode\hypertarget{ref-wilkenfeldInterstateCrisesViolence2000}{}%
-Wilkenfeld, Jonathan, and Michael Brecher. 2000. ``Interstate Crises and Violence: Twentieth-Century Findings.'' \emph{Handbook of War Studies II}, 282--300.
+\leavevmode\vadjust pre{\hypertarget{ref-wilkenfeldInterstateCrisesViolence2000}{}}%
+Wilkenfeld, Jonathan, and Michael Brecher. 2000. {``Interstate Crises and Violence: Twentieth-Century Findings.''} \emph{Handbook of War Studies II}, 282--300.
+
+\end{CSLReferences}
 
 \newpage
 
