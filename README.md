@@ -31,7 +31,10 @@ tab](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/issues/new/
 
 [Introducing the ICBe Dataset: Very High Recall and Precision Event
 Extraction from Narratives about International
-Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/replication_paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf)
+Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf).
+
+The [ArXiv pre-print](https://arxiv.org/abs/2202.07081) was posted on
+February 15, 2022.
 
 ## The Data:
 
@@ -75,8 +78,8 @@ Jon Lindsay, Shannon Carcelli, Jonathan Wiklenfeld, David M. Quinn,
 Catherine Aiken, Jose Miguel Cabezas Navarro, Neil Lund, Egle
 Murauskaite, and Diana Partridge. 2022. “Introducing the ICBe Dataset:
 Very High Recall and Precision Event Extraction from Narratives about
-International Crises.” Unpublished Manuscript. Retrieved from
-<https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset>.
+International Crises.” arXiv:2202.07081 \[cs, stat\].
+<http://arxiv.org/abs/2202.07081>.
 
 ## Replication Code and Analysis
 
