@@ -475,8 +475,13 @@ keep_sentence=38
 ```{r, eval=T}
 
 saveRDS(codings_long_agreement, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreement.Rds")) 
+readr::write_tsv(codings_long_agreement, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreement.tsv")) 
+
 saveRDS(codings_long_agreed, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreed.Rds")) 
+readr::write_tsv(codings_long_agreed, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreed.tsv")) 
+
 saveRDS(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_data/out/ICBe_V1_wide_agreed.Rds")) 
+readr::write_tsv(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_data/out/ICBe_V1_wide_agreed.tsv")) 
 
 ```
 
