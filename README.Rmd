@@ -28,7 +28,7 @@ The [ArXiv pre-print](https://arxiv.org/abs/2202.07081) was posted on February 1
 
 ## The Data:
 
-The agreed datasets are the final dataset used in much of the paper and figures. It includes our best efforts at cleaning the data and reconciling intercoder agreement. The dataset is available in long and wide format.
+The agreed datasets are the final dataset used in much of the paper and figures. It includes our best efforts at cleaning the data and reconciling intercoder agreement. The dataset is available in long and wide format. The data is also available in .tsv format in the same folders.
 
   - [ICBe_V1_long_agreement.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed.Rds)
       + All coded values and information about how often they were selected by coders.  

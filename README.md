@@ -41,7 +41,8 @@ February 15, 2022.
 The agreed datasets are the final dataset used in much of the paper and
 figures. It includes our best efforts at cleaning the data and
 reconciling intercoder agreement. The dataset is available in long and
-wide format.
+wide format. The data is also available in .tsv format in the same
+folders.
 
   - [ICBe\_V1\_long\_agreement.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed.Rds)
       - All coded values and information about how often they were
