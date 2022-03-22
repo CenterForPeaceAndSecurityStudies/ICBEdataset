@@ -73,24 +73,27 @@ All of the files used to create the datasets, tables, figures.
 
 ### Replication Paper
 
-  - CaseStudy196
-      + creates Cuban Missile Crisis comparison table `/tables/CaseStudy196_ft.Rds`. 
-  - CaseStudy426
-      + creates DRC Civil War comparison table `/tables/CaseStudy426_ft.Rds`. 
-  - ICBEdataset_figure_metro_maps
-      + creates the metroplot Rds files in `/figures/metro_plots/.`.
-  - ICBEdataset_figure_semantic_embeddings
-      + creates the figure `/figures/p_semantic_embeddings.png` and the `/tables/codings_wide_agreed_embeded_stratified_sample_ft.Rds` and `/tables/codings_wide_agreed_embeded_stratified_sample_ft_smaller.Rds`
-  - ICBEdataset_paper_appendixICBCrises
-      +  creates `/tables/ft_crisis_text_counts.Rds`.
-  - ICBEdataset_paper_appendixVerbMeanings
-      + creates `/tables/verbs_sentence_wordnet_top_ft.Rds`
-  - ICBEdataset_paper_figure_prep
-      + creates the metroplot pngs in `/figures/.`.
-  - ICBEdataset_paper_litreviewtable
-      + creates the table `/tables/litreview_ft.Rds`. 
-  - ICBEdataset_paper_PlotInterCoderAgreement
+
+  - 04_ICBEdataset_paper_litreviewtable
+      + creates the table `/tables/litreview_ft.Rds`.
+  - 05_ICBEdataset_paper_PlotInterCoderAgreement
       + creates the figure `figures/p_percent_chose_tag_by_concept.png`
+  - 06_ICBEdataset_figure_metro_maps
+      + creates the metroplot Rds files in `/figures/metro_plots/.`.
+  - 07_ICBEdataset_figure_semantic_embeddings
+      + creates the figure `/figures/p_semantic_embeddings.png` and the `/tables/codings_wide_agreed_embeded_stratified_sample_ft.Rds` and `/tables/codings_wide_agreed_embeded_stratified_sample_ft_smaller.Rds`
+  - 08_CaseStudy196
+      + creates Cuban Missile Crisis comparison table `/tables/CaseStudy196_ft.Rds`. 
+  - 09_CaseStudy426
+      + creates DRC Civil War comparison table `/tables/CaseStudy426_ft.Rds`. 
+  - 10_ICBEdataset_paper_figure_prep
+      + creates the metroplot pngs in `/figures/.`.
+  - 11_ICBEdataset_paper_appendixICBCrises
+      +  creates `/tables/ft_crisis_text_counts.Rds`.
+  - 12_ICBEdataset_paper_appendixVerbMeanings
+      + creates `/tables/verbs_sentence_wordnet_top_ft.Rds`
+
+ 
 
 
 ## Data inputs:
