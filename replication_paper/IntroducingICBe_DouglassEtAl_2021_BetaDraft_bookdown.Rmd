@@ -404,9 +404,9 @@ The second axis (columns) represents sources of evidence for our concept priors 
 
 #Lit review
 #child=c('ICBEdataset_paper_litreviewtable.Rmd')
-flextable::set_flextable_defaults(fonts_ignore=TRUE)
 library(flextable)
 library(ftExtra)
+flextable::set_flextable_defaults(fonts_ignore=TRUE)
 litreview_ft  <- readRDS(file=paste0(here::here(), '/replication_paper/tables/litreview_ft.Rds'))
 
 litreview_ft <- litreview_ft %>% ftExtra::colformat_md(j = 4, part="body")
@@ -414,7 +414,7 @@ litreview_ft <- litreview_ft %>% ftExtra::colformat_md(j = 4, part="body")
 litreview_ft %>%
   flextable::set_caption(caption = "Prior Beliefs, State of the Art, and Existing Data") %>%
   # flextable::set_caption("Prior Beliefs, State of the Art, and Existing Data \\label{tbl:litreview}")  %>% 
-  flextable_to_rmd()
+  flextable::flextable_to_rmd()
 ```
 
 # ICBe Coding and Aggregation Process

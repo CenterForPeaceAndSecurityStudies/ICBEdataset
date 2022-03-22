@@ -110,6 +110,7 @@ ggsave(file=paste0(here::here(), '/replication_paper/figures/p_metro_map_196.png
 #ICBe  196
 library(ggplot2)
 p_metro_plot <- readRDS(file=paste0(here::here(), '/replication_paper/figures/metro_plots/p_phoenix_metro_plot_196.Rds'))
+
 actor_colors <- p_metro_plot$actor_colors
 
 save_file=paste0(here::here(), '/replication_paper/figures/metro_plots/p_phoenix_metro_plot_196.Rds')

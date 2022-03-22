@@ -884,7 +884,7 @@ mids_incidents_metro_plots <- function(crisis=196, prune_rare=T){
     bind_rows(
       incident_mid_clean_subset %>% 
         mutate(label=
-                 paste0( act_1_label %>% replace_na(''),", ", revtype1_2_label %>% replace_na('') ,", ", fatality_1_label %>% replace_na('')) %>% trimws() %>%
+                 paste0( act_1_label %>% tidyr::replace_na(''),", ", revtype1_2_label %>% tidyr::replace_na('') ,", ", fatality_1_label %>% tidyr::replace_na('')) %>% trimws() %>%
                  str_replace_all("None|Not applicable","") %>% trimws() %>% str_replace("^,|,$|","") %>% trimws()
                ) %>%
         dplyr::select(stday, stmon, styear, endday, start,   end, start, actor_1=actor_1,actor_2=actor_2, leaf=label) 
