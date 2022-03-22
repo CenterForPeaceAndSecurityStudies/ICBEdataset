@@ -31,14 +31,18 @@ tab](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/issues/new/
 
 [Introducing the ICBe Dataset: Very High Recall and Precision Event
 Extraction from Narratives about International
-Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/replication_paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf)
+Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf).
+
+The [ArXiv pre-print](https://arxiv.org/abs/2202.07081) was posted on
+February 15, 2022.
 
 ## The Data:
 
 The agreed datasets are the final dataset used in much of the paper and
 figures. It includes our best efforts at cleaning the data and
 reconciling intercoder agreement. The dataset is available in long and
-wide format.
+wide format. The data is also available in .tsv format in the same
+folders.
 
   - [ICBe\_V1\_long\_agreement.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed.Rds)
       - All coded values and information about how often they were
@@ -75,8 +79,8 @@ Jon Lindsay, Shannon Carcelli, Jonathan Wiklenfeld, David M. Quinn,
 Catherine Aiken, Jose Miguel Cabezas Navarro, Neil Lund, Egle
 Murauskaite, and Diana Partridge. 2022. “Introducing the ICBe Dataset:
 Very High Recall and Precision Event Extraction from Narratives about
-International Crises.” Unpublished Manuscript. Retrieved from
-<https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset>.
+International Crises.” arXiv:2202.07081 \[cs, stat\].
+<http://arxiv.org/abs/2202.07081>.
 
 ## Replication Code and Analysis
 

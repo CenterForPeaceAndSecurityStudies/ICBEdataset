@@ -55,7 +55,7 @@ options(warn = -1) #Groups that have no values generate max errors
 #This doesn't have this yet
 #event_number_int,  event_number_int_condition
 rex_paste <- function(x){ paste0(x  %>% trimws() %>% sort() %>% unique() %>% na.omit(), collapse=";")  }
-temp_long <- 
+temp_long_step1 <- 
   icb_long_clean %>% 
     #filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence )  %>% #for debugging
     dplyr::select(email_id,crisno,sentence_number_int_aligned, section, sentence, event_number_int, event_number_int_condition,variable_normalized, value_normalized) %>% 
@@ -71,7 +71,14 @@ temp_long <-
       section= section %>% as.character(),
       sentence= sentence %>% as.character(),
       variable_normalized= variable_normalized %>% as.factor()
-    ) %>%
+    ) 
+
+```
+
+
+```{r}
+
+temp_long_step2 <- temp_long_step1 %>%
     dplyr::select(email_id , crisno,sentence_number_int_aligned, event_number_int_condition, variable_normalized, value_normalized) %>%
     distinct() %>%
     dplyr::group_by(email_id , crisno,sentence_number_int_aligned, event_number_int_condition, 
@@ -86,10 +93,15 @@ temp_long <-
     dplyr::distinct() %>%
     #add a confidence score for every token
     dplyr::mutate(confidence=ifelse(variable_normalized=='raterconfidence', value_normalized, NA)) %>%
-  
     dplyr::mutate(confidence=confidence %>% factor(levels=c('none','low','high','complete')) %>% as.numeric() ) %>%
     dplyr::mutate(confidence_expert= email_id %>% stringr::str_detect('expert') %>% ifelse(confidence,NA) %>% max(na.rm=T) ) %>%
-    dplyr::mutate(confidence_undergrad= email_id %>% stringr::str_detect('undergrad') %>% ifelse(confidence,NA) %>% max(na.rm=T) ) %>%
+    dplyr::mutate(confidence_undergrad= email_id %>% stringr::str_detect('undergrad') %>% ifelse(confidence,NA) %>% max(na.rm=T) ) 
+
+```
+
+
+```{r}
+temp_long <- temp_long_step2 %>%
 
     dplyr::group_by(crisno,sentence_number_int_aligned) %>%
       dplyr::mutate(
@@ -475,8 +487,13 @@ keep_sentence=38
 ```{r, eval=T}
 
 saveRDS(codings_long_agreement, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreement.Rds")) 
+readr::write_tsv(codings_long_agreement, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreement.tsv")) 
+
 saveRDS(codings_long_agreed, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreed.Rds")) 
+readr::write_tsv(codings_long_agreed, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreed.tsv")) 
+
 saveRDS(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_data/out/ICBe_V1_wide_agreed.Rds")) 
+readr::write_tsv(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_data/out/ICBe_V1_wide_agreed.tsv")) 
 
 ```
 

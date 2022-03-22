@@ -37,6 +37,8 @@ icb_wide_aligned_raw <- readRDS(file=paste0(here::here(),"/replication_data/temp
                     ) #%>%
 
 dim(icb_wide_aligned_raw) #87710    85
+
+dim(unique(icb_wide_aligned_raw))
 ```
 
 
@@ -99,6 +101,31 @@ dim(icb_wide_aligned) #51098    78
 ```
 
 
+Drop other instances where coder enters the same information twice
+
+```{r}
+
+# YUGOSLAVIA I: CROATIA-SLOVENIA1 and YUGOSLAVIA I: CROATIA-SLOVENIA2 overlap for one coder, otherwise rows are identical
+
+# z1 <- icb_wide_aligned %>% dplyr::filter(email_id == "expert1" & input_crisis=="YUGOSLAVIA I: CROATIA-SLOVENIA1" & sentence_number_int_aligned %in% c(37:50))
+# z2 <- icb_wide_aligned %>% dplyr::filter(email_id == "expert1" & input_crisis=="YUGOSLAVIA I: CROATIA-SLOVENIA2" & sentence_number_int_aligned %in% c(37:50))
+# z1==z2
+
+icb_wide_aligned <- icb_wide_aligned %>% dplyr::filter(!(email_id == "expert1" & input_crisis=="YUGOSLAVIA I: CROATIA-SLOVENIA2" & sentence_number_int_aligned %in% c(37:50)))
+
+# one coders entry for SAND WALL appear in duplicate
+icb_wide_aligned <- icb_wide_aligned %>% dplyr::mutate(duplicate = duplicated(icb_wide_aligned))
+icb_wide_aligned <- icb_wide_aligned %>% dplyr::filter(!(email_id == "undergrad49addaea" & input_crisis=="SAND WALL" & duplicate==TRUE)) %>% dplyr::select(-duplicate)
+
+```
+
+
+```{r}
+# check for duplicates (should be empty)
+icb_wide_aligned %>% dplyr::filter(icb_wide_aligned %>% dplyr::select(-input_crisis) %>% duplicated())
+```
+
+
 
 
 Pivot to long form 
@@ -117,7 +144,10 @@ icb_long <- icb_wide_aligned %>% dplyr::ungroup() %>%
 dim(icb_long) #491757     15
 
 ```
-
+```{r}
+# Check that each entry has only one event_type entry (should be all false)
+icb_long %>% dplyr::filter(variable=="event_type") %>% dplyr::select(email_crisis_sent_event) %>% duplicated() %>% table()
+```
 
 Now split values with a list (separated by a semicolon)
 
@@ -130,6 +160,9 @@ icb_long_split <- icb_long %>%
 dim(icb_long_split) #536397     15
 
 ```
+
+
+
 
 
 # Define subsets of variables 
@@ -220,6 +253,11 @@ setdiff(unique(icb_long_split$variable), vars)
 # do the subsets cover everything in vars?
 setdiff(vars, c(vars_actor, vars_act, vars_act_kind, vars_fatalities, vars_forces, vars_geoscope, vars_location, vars_location_other, vars_territory, vars_domains, vars_units, vars_say, vars_think))
 ```
+
+
+
+
+
 
 
 # Load and apply normalizations 
@@ -600,6 +638,11 @@ drops <- c(
 ) %>% unique()
 
 
+```
+
+
+```{r}
+
 icb_long_clean2 <- icb_long_clean %>% 
                             dplyr::distinct() %>%
                             dplyr::mutate(variable_normalized= variable_normalized %>%
@@ -621,16 +664,33 @@ icb_long_clean2 <- icb_long_clean %>%
                                             stringr::str_replace('condition_',''))  
 
 
+# THIS IS WHERE I AM
+# give every entry its own event_type var to control merging (avoid merging in details for actions that were 'thought about' or 'said')
+# confirm that no email_crisis_sent_event have more than one event_type entry
+icb_long_clean2 %>% dplyr::filter(variable_normalized == "event_type") %>% 
+  dplyr::select("email_crisis_sent_event", "value_normalized") %>% 
+  dplyr::rename(event_type=value_normalized) %>% dplyr::count(email_crisis_sent_event) %>% dplyr::filter(n>1)
+
+icb_long_clean2 <- icb_long_clean2 %>% 
+  dplyr::left_join(icb_long_clean2 %>% dplyr::filter(variable_normalized == "event_type") %>% 
+                     dplyr::select("email_crisis_sent_event", "value_normalized") %>% 
+                     dplyr::rename(event_type=value_normalized)) 
+
+```
+
+```{r}
 temp_wide <- icb_long_clean2 %>%
-             dplyr::select(icb_survey_version, email_id, input_crisis,  crisno, sentence_number_int_aligned, section, sentence,event_number_int,  event_number_int_condition, variable_normalized, value_normalized) %>%
+             dplyr::select(icb_survey_version, email_id, input_crisis,  crisno, sentence_number_int_aligned, section, sentence,event_number_int,  event_number_int_condition, event_type, variable_normalized, value_normalized) %>%
              dplyr::mutate(value_normalized= value_normalized %>% trimws() %>% tolower()) %>%
              dplyr::mutate(variable_normalized= variable_normalized %>% trimws() %>% tolower()) %>%
              dplyr::filter(variable_normalized %in% (c( 'sentence_events', drops ) %>% trimws() %>% tolower()) ) %>%
              dplyr::distinct() %>% 
              dplyr::left_join(full_tree %>% 
-                       dplyr::rename(value_normalized=leaf)  %>% 
-                       dplyr::mutate(value_normalized= value_normalized %>% trimws() %>% tolower()) 
-                       ) 
+                       dplyr::rename(value_normalized=leaf, variable_normalized=leaf_var)  %>% 
+                       dplyr::mutate(value_normalized= value_normalized %>% trimws() %>% tolower()) %>% 
+                       dplyr::mutate(variable_normalized= variable_normalized %>% trimws() %>% tolower())
+                       ) %>% 
+  dplyr::select(-event_type) #no longer needed after merge
 
 temp_long <- temp_wide %>% 
          dplyr::select(-variable_normalized,-value_normalized) %>%
@@ -648,6 +708,8 @@ icb_long_clean_final <- icb_long_clean2 %>%
 Save icb_long_clean!
 ```{r}
 saveRDS(icb_long_clean_final, paste0(here::here(), "/replication_data/temp/ICBe_V1_long_clean.Rds")) 
+
+# readr::write_tsv(icb_long_clean_final, paste0(here::here(), "/replication_data/temp/ICBe_V1_long_clean.tsv")) 
 
 ```
 
@@ -669,5 +731,8 @@ icb_wide_clean <- icb_long_clean_final %>%
   #There's also a weird situation where they sometimes created events without tagging it as a think, do,say
 
 saveRDS(icb_wide_clean, paste0(here::here(), "/replication_data/temp/ICBe_V1_wide_clean.Rds")) 
+
+# readr::write_tsv(icb_wide_clean, paste0(here::here(), "/replication_data/temp/ICBe_V1_wide_clean.tsv")) 
+
 
 ```
