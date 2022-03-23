@@ -47,6 +47,7 @@ This aggregates across conditions too
 
 
 ```{r}
+my.max <- function(x) ifelse( !all(is.na(x)), max(x, na.rm=T), NA)
 
 keep_crisis=393
 keep_sentence=38
@@ -55,78 +56,78 @@ options(warn = -1) #Groups that have no values generate max errors
 #This doesn't have this yet
 #event_number_int,  event_number_int_condition
 rex_paste <- function(x){ paste0(x  %>% trimws() %>% sort() %>% unique() %>% na.omit(), collapse=";")  }
-temp_long_step1 <- 
-  icb_long_clean %>% 
-    #filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence )  %>% #for debugging
-    dplyr::select(email_id,crisno,sentence_number_int_aligned, section, sentence, event_number_int, event_number_int_condition,variable_normalized, value_normalized) %>% 
-    dplyr::filter(value_normalized!='' & !is.na(value_normalized)) %>%
-    dplyr::group_by(crisno,sentence_number_int_aligned, event_number_int_condition, variable_normalized, value_normalized) %>%
-    dplyr::select(-event_number_int) %>%
-    dplyr::distinct() %>%
-    dplyr::mutate(
-      email_id = email_id %>% as.factor(), 
-      #crisno= crisno %>% as.factor(),
-      #sentence_number_int_aligned= sentence_number_int_aligned %>% as.factor(),
-      crisno_sentence_number_int_aligned= paste0(crisno, "_", sentence_number_int_aligned) %>% as.factor(), #make sure these are the only factors or it'll try to criss cross sentence number and crisno etc.
-      section= section %>% as.character(),
-      sentence= sentence %>% as.character(),
-      variable_normalized= variable_normalized %>% as.factor()
-    ) 
-
-```
 
 
-```{r}
 
-temp_long_step2 <- temp_long_step1 %>%
-    dplyr::select(email_id , crisno,sentence_number_int_aligned, event_number_int_condition, variable_normalized, value_normalized) %>%
-    distinct() %>%
-    dplyr::group_by(email_id , crisno,sentence_number_int_aligned, event_number_int_condition, 
-             variable_normalized,.drop=FALSE) %>% 
-      #This drop false means every coder gets a '' whether they filled in that variable or not #section, sentence going to have to ignore the sentence text for now
-      #You'll get a warning about adding it as a group
-      summarise(value_normalized=value_normalized %>% rex_paste() ) %>%
-    #that will add in dead ones now we want to split them back out
-    dplyr::mutate(value_normalized = value_normalized %>% stringr::str_replace_all(";;",";")) %>% 
-    dplyr::mutate(value_normalized = strsplit(as.character(value_normalized), ";", fixed=T)) %>% 
-    tidyr::unnest(value_normalized) %>%
-    dplyr::distinct() %>%
-    #add a confidence score for every token
-    dplyr::mutate(confidence=ifelse(variable_normalized=='raterconfidence', value_normalized, NA)) %>%
-    dplyr::mutate(confidence=confidence %>% factor(levels=c('none','low','high','complete')) %>% as.numeric() ) %>%
-    dplyr::mutate(confidence_expert= email_id %>% stringr::str_detect('expert') %>% ifelse(confidence,NA) %>% max(na.rm=T) ) %>%
-    dplyr::mutate(confidence_undergrad= email_id %>% stringr::str_detect('undergrad') %>% ifelse(confidence,NA) %>% max(na.rm=T) ) 
-
-```
-
-
-```{r}
-temp_long <- temp_long_step2 %>%
-
-    dplyr::group_by(crisno,sentence_number_int_aligned) %>%
-      dplyr::mutate(
-        total_coders=email_id %>% unique() %>% length(),
-        total_coders_expert=email_id %>% unique() %>% stringr::str_detect('expert') %>% sum() ,
-        total_coders_undergrad=email_id %>% unique() %>% stringr::str_detect('undergrad') %>% sum()
-      ) %>%
-    dplyr::ungroup() %>%
+for(crisis in unique(icb_long_clean$crisno)){
+  print(crisis)
   
-    #Selected By
-    dplyr::group_by(crisno,sentence_number_int_aligned, event_number_int_condition, variable_normalized, value_normalized) %>%
+  temp_long_partial <- 
+    icb_long_clean %>% 
+      dplyr::filter(crisno == crisis) %>%
+      #filter(crisno==keep_crisis & sentence_number_int_aligned==keep_sentence )  %>% #for debugging
+      dplyr::select(email_id,crisno,sentence_number_int_aligned, section, sentence, event_number_int, event_number_int_condition,variable_normalized, value_normalized) %>% 
+      dplyr::filter(value_normalized!='' & !is.na(value_normalized)) %>%
+      dplyr::group_by(crisno,sentence_number_int_aligned, event_number_int_condition, variable_normalized, value_normalized) %>%
+      dplyr::select(-event_number_int) %>%
+      dplyr::distinct() %>%
       dplyr::mutate(
-        selected_by_experts=email_id %>% unique() %>% stringr::str_detect('expert') %>% sum() ,
-        selected_by_undergrads=email_id %>% unique() %>% stringr::str_detect('undergrad') %>% sum()
+        email_id = email_id %>% as.factor(), 
+        #crisno= crisno %>% as.factor(),
+        #sentence_number_int_aligned= sentence_number_int_aligned %>% as.factor(),
+        crisno_sentence_number_int_aligned= paste0(crisno, "_", sentence_number_int_aligned) %>% as.factor(), #make sure these are the only factors or it'll try to criss cross sentence number and crisno etc.
+        section= section %>% as.character(),
+        sentence= sentence %>% as.character(),
+        variable_normalized= variable_normalized %>% as.factor()
+      )  %>%
+      dplyr::select(email_id , crisno,sentence_number_int_aligned, event_number_int_condition, variable_normalized, value_normalized) %>%
+      distinct() %>%
+      dplyr::group_by(email_id , crisno, sentence_number_int_aligned, event_number_int_condition, 
+               variable_normalized,.drop=FALSE) %>% 
+        #This drop false means every coder gets a '' whether they filled in that variable or not #section, sentence going to have to ignore the sentence text for now
+        #You'll get a warning about adding it as a group
+        summarise(value_normalized=value_normalized %>% rex_paste() ) %>%
+      #that will add in dead ones now we want to split them back out
+      dplyr::mutate(value_normalized = value_normalized %>% stringr::str_replace_all(";;",";")) %>% 
+      dplyr::mutate(value_normalized = strsplit(as.character(value_normalized), ";", fixed=T)) %>% 
+      tidyr::unnest(value_normalized) %>%
+      dplyr::distinct() %>%
+      #add a confidence score for every token
+      dplyr::mutate(confidence=ifelse(variable_normalized=='raterconfidence', value_normalized, NA)) %>%
+      dplyr::mutate(confidence=confidence %>% factor(levels=c('none','low','high','complete')) %>% as.numeric() ) %>%
+      dplyr::mutate(confidence_expert= email_id %>% stringr::str_detect('expert') %>% ifelse(confidence,NA) %>% my.max() ) %>%
+      dplyr::mutate(confidence_undergrad= email_id %>% stringr::str_detect('undergrad') %>% ifelse(confidence,NA) %>% my.max() )  %>%
+  
+      dplyr::group_by(crisno,sentence_number_int_aligned) %>%
+        dplyr::mutate(
+          total_coders=email_id %>% unique() %>% length(),
+          total_coders_expert=email_id %>% unique() %>% stringr::str_detect('expert') %>% sum() ,
+          total_coders_undergrad=email_id %>% unique() %>% stringr::str_detect('undergrad') %>% sum()
+        ) %>%
+      dplyr::ungroup() %>%
+    
+      #Selected By
+      dplyr::group_by(crisno,sentence_number_int_aligned, event_number_int_condition, variable_normalized, value_normalized) %>%
+        dplyr::mutate(
+          selected_by_experts=email_id %>% unique() %>% stringr::str_detect('expert') %>% sum() ,
+          selected_by_undergrads=email_id %>% unique() %>% stringr::str_detect('undergrad') %>% sum()
+        ) %>%
+      dplyr::ungroup() %>%
+      dplyr::mutate(selected_by_any=selected_by_experts+selected_by_undergrads) %>%
+      dplyr::left_join(sentences) %>%
+      dplyr::mutate(
+          selected_by_any_perc=selected_by_any/total_coders,
+          selected_by_experts_perc=selected_by_experts/total_coders_expert ,
+          selected_by_undergrads_perc=selected_by_undergrads/total_coders_undergrad ,
       ) %>%
-    dplyr::ungroup() %>%
-    dplyr::mutate(selected_by_any=selected_by_experts+selected_by_undergrads) %>%
-    dplyr::left_join(sentences) %>%
-    dplyr::mutate(
-        selected_by_any_perc=selected_by_any/total_coders,
-        selected_by_experts_perc=selected_by_experts/total_coders_expert ,
-        selected_by_undergrads_perc=selected_by_undergrads/total_coders_undergrad ,
-    ) %>%
-    dplyr::ungroup() 
+      dplyr::ungroup() 
 
+ if(exists("temp_long")){
+   temp_long <- dplyr::bind_rows(temp_long, temp_long_partial)
+   }else{
+     temp_long <- temp_long_partial
+   }
+}
 ```
 
 

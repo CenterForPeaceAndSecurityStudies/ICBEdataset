@@ -1,0 +1,315 @@
+---
+title: 'Intercoder ICBEdataset_figure_semantic_embeddings'
+site: bookdown::bookdown_site
+bibliography: ../ICBintro.bib
+output: 
+  rticles::arxiv_article:
+    keep_tex: true
+header-includes:
+  - \usepackage[utf8]{inputenc}
+  - \usepackage{pifont}
+  - \usepackage{newunicodechar}
+  - \newunicodechar{✓}{\ding{51}}
+  - \newunicodechar{✗}{\ding{55}}
+  - \usepackage{array}
+  - \usepackage{ctable} # added for demo
+  - \usepackage{natbib} #added for latex citation within huxtable
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{multirow}
+  - \usepackage{wrapfig}
+  - \usepackage{colortbl}
+  - \usepackage{pdflscape}
+  - \usepackage{tabu}
+  - \usepackage{threeparttable}
+  - \usepackage{threeparttablex}
+  - \usepackage[normalem]{ulem}
+  - \usepackage{makecell}
+  - \usepackage{titlesec}
+  - \usepackage[parfill]{parskip}
+  - \usepackage{makecell}
+  - \usepackage{graphicx}
+  - \usepackage{caption}
+  - \usepackage[capposition=top]{floatrow}
+  - \titleformat{\subsubsection}{\normalfont\normalsize\itshape}{\thesubsubsection}{1em}{}
+  - \titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{0ex plus .2ex}
+  - \DeclareUnicodeCharacter{00A0}{ }
+  - \usepackage{setspace}
+  - \usepackage{cellspace}
+  - \setlength\cellspacetoplimit{0.8ex}
+  - \renewcommand{\arraystretch}{0.8}
+  - \AtBeginEnvironment{tabular}{\singlespacing}
+  - \AtBeginEnvironment{lltable}{\singlespacing}
+---
+
+
+# Intro
+
+## Library Loads
+
+
+```{r}
+
+library(flextable)
+library(ftExtra)
+library(tidyverse)
+
+#Load it here before the python reticulate business
+#devtools::install_github("ropenscilabs/umapr")
+library(umapr)
+
+```
+
+```{r}
+
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_long_clean.Rds"))
+icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_wide_clean.Rds"))
+codings_long_agreement <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreement.Rds") )
+codings_long_agreed <- readRDS( paste0(here::here(), '/replication_data/out/ICBe_V1_long_agreed.Rds'))
+codings_wide_agreed <- readRDS(file=paste0(here::here(),'/replication_data/out/ICBe_V1_wide_agreed.Rds'))
+
+```
+
+
+
+```{r}
+
+sentences_unique <- icb_long_clean %>% dplyr::select(sentence) %>% distinct() %>% pull(sentence) %>% unique() %>% na.omit()
+length(sentences_unique )
+
+sentences_unique_sanitized <- sentences_unique %>% str_replace_all("[A-Z][a-z]*","Entity")
+#sentences_unique_sanitized %>% as.data.frame() %>% View()
+
+```
+
+To set python, set it in ~/.Renviron. `use_python()` doesn't seem to work as desired. See [stackoverflow](https://stackoverflow.com/questions/50145643/unable-to-change-python-path-in-reticulate/58743111#58743111).
+
+```{r, messages=F, results='hide'}
+library(reticulate)
+reticulate::py_discover_config()
+
+#use_python("/home/skynet3/anaconda3/bin/python/")
+#use_python("/home/tlscherer/anaconda3/bin/python3")
+
+```
+
+```{python}
+#Can't get this and spacy to work in the same run. Once reticulate loads once it sticks with the environment that came first and I can't figure out how to switch it.
+#pip install -U sentence-transformers
+
+fromscratch=False
+
+if fromscratch:
+  from sentence_transformers import SentenceTransformer
+  import numpy as np
+  sentences=r.sentences_unique_sanitized
+  len(sentences) #10383
+  model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
+  sentences_embeddings = model.encode(sentences) #[0:100]
+else:
+  print("Skipping")
+
+```
+
+```{r}
+fromscratch = FALSE
+
+if(fromscratch){
+  sentences_embeddings <- py$sentences_embeddings
+  dim(sentences_embeddings)
+  sentences_embeddings %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/sentences_embeddings.Rds'))
+}else{
+  sentences_embeddings <- readRDS(paste0(here::here(), '/replication_paper/data/temp/sentences_embeddings.Rds'))
+  dim(sentences_embeddings)
+}
+
+```
+The [umapr](https://github.com/ropensci-archive/umapr) package requires python and [umap](https://github.com/lmcinnes/umap#installing). Please check their repos for installation details.  
+
+```{r}
+
+
+embedding <- umapr::umap(sentences_embeddings)
+
+sentences_embeded <- embedding[,c('UMAP1','UMAP2')] %>% as.data.frame()
+sentences_embeded$sentence <- sentences_unique
+
+codings_long_agreed_embeded <- codings_long_agreed %>% ungroup() %>% left_join(sentences_embeded)
+
+codings_long_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/codings_long_agreed_embeded.Rds'))
+
+codings_wide_agreed_embeded <- codings_wide_agreed %>% dplyr::ungroup() %>% dplyr::left_join(sentences_embeded)
+
+codings_wide_agreed_embeded_stratified_sample  <- codings_wide_agreed_embeded %>% 
+                                                  mutate(UMAP1_round=UMAP1 %>%  round(), UMAP2_round=UMAP2 %>%  round()) %>%
+                                                  dplyr::group_by(UMAP1_round,UMAP2_round) %>%
+                                                  arrange(UMAP1,UMAP2) %>%
+                                                  filter(crisno==crisno[1], sentence_number_int_aligned==sentence_number_int_aligned[1] )
+
+sampled <- codings_wide_agreed_embeded_stratified_sample %>% ungroup() %>% mutate(crisno_sent=paste0(crisno,'.',sentence_number_int_aligned)) %>%
+  dplyr::select(crisno_sent, UMAP1,UMAP2) %>% distinct()
+
+codings_wide_agreed_embeded %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/codings_wide_agreed_embeded.Rds'))
+
+```
+
+
+```{r}
+# codings_long_agreed_embeded <- readRDS(paste0(here::here(), '/replication_paper/data/temp/codings_long_agreed_embeded.Rds'))
+# codings_wide_agreed_embeded <- readRDS(paste0(here::here(), '/replication_paper/data/temp/codings_wide_agreed_embeded.Rds'))
+
+
+var_keep <- c('Behavior','do_aggression','Do_Armed_Unarmed','leaf_do_original') %>% tolower() #'Event_Any',
+
+value_means <- codings_long_agreed_embeded %>%
+      dplyr::filter(variable_normalized %in% var_keep) %>% 
+      dplyr::mutate(variable_normalized=variable_normalized %>% as.factor()) %>%
+      dplyr::mutate(value_normalized=value_normalized %>% as.factor()) %>%
+      dplyr::select(variable_normalized,value_normalized,UMAP1,UMAP2) %>%
+      dplyr::group_by(variable_normalized, value_normalized) %>% 
+      dplyr::summarise_all(median) %>%
+      dplyr::group_by(variable_normalized) %>%
+          dplyr::mutate(variable_normalized_count=  min(dplyr::n(),4)  ) %>%
+      dplyr::ungroup()
+
+
+codings_long_agreed_embeded_subset <- codings_long_agreed_embeded %>%
+                                      dplyr::filter(variable_normalized %in% var_keep) %>%
+                                      dplyr::mutate(value_normalized=value_normalized %>% as.factor()) 
+
+value_means <- value_means %>% 
+  #dplyr::mutate(UMAP1 = UMAP1+1, UMAP2 = UMAP2+1) %>% 
+  dplyr::mutate(UMAP1=replace(UMAP1, value_normalized=='invasion/occupation', as.numeric(value_means[value_normalized=='invasion/occupation','UMAP1'])+.5)) %>%
+  dplyr::mutate(UMAP1=replace(UMAP1, value_normalized=='meeting', as.numeric(value_means[value_normalized=='meeting','UMAP1'])-.3)) %>%
+  dplyr::mutate(UMAP2=replace(UMAP2, value_normalized=='invasion/occupation', as.numeric(value_means[value_normalized=='invasion/occupation','UMAP2'])-.7)) %>%
+  dplyr::mutate(UMAP2=replace(UMAP2, value_normalized=='meeting', as.numeric(value_means[value_normalized=='meeting','UMAP2'])-.3)) 
+
+```
+
+
+```{r}
+do_leaf_all <- codings_long_agreed_embeded_subset %>% dplyr::filter(variable_normalized=="leaf_do_original") %>% dplyr::count(value_normalized) %>% arrange(desc(n)) 
+do_leaf_grey <- do_leaf_all %>% dplyr::slice_tail(n=(nrow(do_leaf_all)-10)) 
+
+
+value_normalized = codings_long_agreed_embeded_subset %>% count(variable_normalized, value_normalized) %>% arrange(variable_normalized, desc(n)) %>% pull(value_normalized) %>% factor()
+
+# safe_colorblind_palette <- c(#"#88CCEE", drop light blue
+#   "#CC6677", 
+#   #"#DDCC77", drop yellow
+#   "#117733", "#332288", "#AA4499", "#44AA99", "#999933", "#882255", "#661100", "#6699CC"#, "#888888" drop grey
+#   )
+
+# https://jacksonlab.agronomy.wisc.edu/2016/05/23/15-level-colorblind-friendly-palette/
+  pal <- c(#"#000000",
+  "#6db6ff","#004949","#ff6db6", 
+  #"#ffb6db", "#24ff24",
+ "#db6d00","#b66dff","#009292",
+ #"#b6dbff",
+ "#920000","#924900","#006ddb","#490092"
+ #,"#ffff6d"
+ )
+
+value_normalized_colors = rep(pal, ceiling(length(value_normalized)/length(pal)))
+names(value_normalized_colors) = as.character(value_normalized)
+
+
+value_normalized_colors[names(value_normalized_colors) %in% do_leaf_grey$value_normalized] <- "#c8c8c8"
+
+```
+
+
+
+```{r}
+value_means <- value_means %>% 
+                dplyr::mutate(label=ifelse(
+                variable_normalized=="leaf_do_original" & value_normalized %in% do_leaf_grey$value_normalized, 0, 1))
+
+library(ggplot2)
+p_semantic_embeddings <-
+      codings_long_agreed_embeded_subset %>%
+      ggplot(aes(x=UMAP1,y=UMAP2, color=value_normalized )) +
+        geom_point(size=0.5, alpha=0.5) + 
+        geom_text(data=sampled, aes(x=UMAP1, y=UMAP2, label=crisno_sent), color='black',size=1.5) + 
+        facet_wrap( ~ variable_normalized) + 
+        theme_bw() +
+        theme(legend.position = "none") + 
+        geom_label(data=subset(value_means, label==1),
+                   aes(x=UMAP1,y=UMAP2, fill = value_normalized, 
+                       label=value_normalized, size=50), size = 3, inherit.aes=F, # #variable_normalized_count
+                   colour = "white", fontface = "bold", label.padding = unit(0.1, "lines")) + 
+        labs(
+            title = "Variation in Tags by Semantic Embeddings of Source Sentences",
+            subtitle = "Sentences Embedding Sentence-BERT, UMAP Projection ",
+            caption = ""
+        ) +
+       scale_color_manual(values = value_normalized_colors) +
+       scale_fill_manual(values = value_normalized_colors)
+
+
+
+p_semantic_embeddings %>% saveRDS(paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings.Rds'))
+p_semantic_embeddings
+
+ggsave(file=paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=8, height=8)
+
+```
+
+
+
+```{r}
+
+codings_wide_agreed_embeded_stratified_sample  <- codings_wide_agreed_embeded %>% 
+                                                  mutate(UMAP1_round=UMAP1 %>%  round(), UMAP2_round=UMAP2 %>%  round()) %>%
+                                                  dplyr::group_by(UMAP1_round,UMAP2_round) %>%
+                                                  arrange(UMAP1,UMAP2) %>%
+                                                  filter(crisno==crisno[1], sentence_number_int_aligned==sentence_number_int_aligned[1] )
+
+```
+
+
+```{r}
+
+codings_wide_agreed_embeded_stratified_sample_table <-       codings_wide_agreed_embeded_stratified_sample %>%
+                                                              group_by(crisno, sentence_number_int_aligned, crisno_sent, sentence) %>%
+                                                                summarize(codings_sentence = paste(codings_sentence, collapse="\n")) %>%
+                                                              ungroup() %>%
+                                                              dplyr::select(crisno_sent, sentence, codings_sentence)  %>%
+                                                              dplyr::filter(codings_sentence!="No events.") %>%
+                                                              dplyr::select(id=crisno_sent, sentence, codings_sentence)
+
+n=nrow(codings_wide_agreed_embeded_stratified_sample_table)
+k=ncol(codings_wide_agreed_embeded_stratified_sample_table)
+codings_wide_agreed_embeded_stratified_sample_ft <- 
+            codings_wide_agreed_embeded_stratified_sample_table %>%
+            as_flextable() %>%
+            colformat_md(j=3) %>% 
+            flextable::fontsize(size = 7, part = "all") %>%
+            flextable::bg( i = which( 1:n %% 2 == 1)  , j=1:3, part = "body", bg = "#EFEFEF") %>%
+            flextable::width(j = 1, width=0.3, unit = "in") %>%
+            flextable::width(j = 2, width=3, unit = "in") %>%
+            flextable::width(j = 3, width=3, unit = "in")
+
+codings_wide_agreed_embeded_stratified_sample_ft  %>% saveRDS(paste0(here::here(), '/replication_paper/tables/codings_wide_agreed_embeded_stratified_sample_ft.Rds'))
+codings_wide_agreed_embeded_stratified_sample_ft
+
+
+#Smaller for main paper
+temp2 <- codings_wide_agreed_embeded_stratified_sample_table[rep_len(c(T,F,F),length.out=nrow(codings_wide_agreed_embeded_stratified_sample_table)),] 
+n=nrow(temp2)
+codings_wide_agreed_embeded_stratified_sample_ft_smaller <- 
+            temp2 %>%
+            as_flextable() %>%
+            colformat_md(j=3) %>% 
+            flextable::fontsize(size = 7, part = "all") %>%
+            flextable::bg( i = which( 1:n %% 2 == 1)  , j=1:3, part = "body", bg = "#EFEFEF") %>%
+            flextable::width(j = 1, width=0.3, unit = "in") %>%
+            flextable::width(j = 2, width=3, unit = "in") %>%
+            flextable::width(j = 3, width=3, unit = "in")
+
+codings_wide_agreed_embeded_stratified_sample_ft_smaller  %>% saveRDS(paste0(here::here(), '/replication_paper/tables/codings_wide_agreed_embeded_stratified_sample_ft_smaller.Rds'))
+codings_wide_agreed_embeded_stratified_sample_ft_smaller
+
+
+```
