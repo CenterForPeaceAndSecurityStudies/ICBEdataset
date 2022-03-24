@@ -140,6 +140,7 @@ p_percent_chose_tag_by_concept <-
     mutate(variable_normalized=variable_normalized %>% str_replace_all("_"," ") %>% tolower() ) %>%
     filter(value_normalized!='') %>%
     filter(total_coders>1) %>% #about 9k only had one coder
+  filter(variable_normalized!="date")%>%
   # filter(event_number_int_condition==0) %>%
     #filter(selected_by_experts>=1) %>%
     dplyr::select(variable_normalized,selected_by_any_perc,selected_by_experts_perc,selected_by_undergrads_perc,keep) %>%
