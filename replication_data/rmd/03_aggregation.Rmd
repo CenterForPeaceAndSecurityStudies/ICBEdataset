@@ -36,7 +36,6 @@ icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe
 sentences <- icb_long_clean %>% dplyr::count(crisno,sentence_number_int_aligned,sentence) %>% arrange(crisno, sentence_number_int_aligned, desc(n)) %>% 
   group_by(crisno, sentence_number_int_aligned) %>% filter(row_number()==1) %>% dplyr::select(-n)
 
-
 ```
 
 # Sentence Level Agreement
@@ -56,7 +55,6 @@ options(warn = -1) #Groups that have no values generate max errors
 #This doesn't have this yet
 #event_number_int,  event_number_int_condition
 rex_paste <- function(x){ paste0(x  %>% trimws() %>% sort() %>% unique() %>% na.omit(), collapse=";")  }
-
 
 
 for(crisis in unique(icb_long_clean$crisno)){
@@ -127,6 +125,10 @@ for(crisis in unique(icb_long_clean$crisno)){
    }else{
      temp_long <- temp_long_partial
    }
+  
+  # for debugging
+    # try(if("icb_survey_version" %in% names(temp_long$icb_survey_version)) stop("icb_survey_version appeared..."))
+    
 }
 ```
 
@@ -224,6 +226,11 @@ codings_long_agreed %>% dplyr::select(keep_majority_expert, keep_majority_underg
 #              1 0.40 0.16
 
 
+```
+
+
+```{r}
+
 #
 #
 #
@@ -231,7 +238,7 @@ codings_long_agreed %>% dplyr::select(keep_majority_expert, keep_majority_underg
 rex_paste <- function(x){ paste0(x %>% unlist() %>% trimws() %>% sort() %>% unique() %>% na.omit(), collapse=";")  }
 codings_wide_agreed <- icb_long_clean  %>% arrange(crisno,sentence_number_int_aligned) %>%
                         #filter(crisno==59) %>%
-                        inner_join(codings_long_agreed) %>% #only keep ones that show up in both
+                        dplyr::inner_join(codings_long_agreed) %>% #only keep ones that show up in both
                         filter(email_id %>% str_detect('expert') ) %>%
                         dplyr::select(email_id,crisno,sentence_number_int_aligned, event_number_int, event_number_int_condition, sentence,variable_normalized, value_normalized) %>%
                         distinct() %>%

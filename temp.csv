@@ -1,0 +1,432 @@
+do_actor_a,do_actor_b,condition_interact_location,condition_interact_location_other,norm_name
+u.s.,panama,Another Territory,de coto (disputed territory),NA
+u.k.,turkey,Another Territory,neutral zone drawn around the city of chanak,NA
+u.k.,turkey,On Border Between,mosul,Iraq
+nicaragua,NA,Target,nicaragua,NA
+league of nations,peru,Target,leticia,NA
+italy,austria,Target,austria,Austria
+italy,germany,Target,austria,Austria
+italy,ethiopia,Target,portion of southern ethiopia,NA
+italy,ethiopia,Target,area near italian somaliland,NA
+u.s.,china,NA,quemoy and matsu,Kinmen;Nangan
+east germany,NA,Actor,west berlin,NA
+ussr,us,On Border Between,west berlin,NA
+ussr,u.k.,On Border Between,west berlin,NA
+ussr,france,On Border Between,west berlin,NA
+thailand,pathet lao,Target,within 10 miles of thakek,NA
+tunisia,france,Target,bizerta,Tunisia
+china,india,On Border Between,near chinese border,NA
+south vietnam,north vietnam,Target,south vietnam,South Vietnam
+south vietnam,u.s.,Target,south vietnam,NA
+cuba,angola,Target,cunene,NA
+cuba,angola,Target,cuando-cubango,NA
+ussr,angola,Target,cunene,NA
+ussr,angola,Target,cuando-cubango,NA
+ussr,mozambique,Target,mozambique,NA
+u.s.,libya,Coast of Actor,mediterranean sea,NA
+libya,us,Coast of Target,libya's territorial waters,NA
+libya,us,Coast of Target,gulf of syrtre,NA
+argentina,u.k.,Another Territory,falkland islands,Falkland Islands
+angola,swapo,Target,angola,NA
+india,pakistan,Target,kashmir,Kashmir
+u.k.,iraq,Target,kuwait,NA
+u.s.,iraq,Target,kuwait,Kuwait
+uae,iraq,Target,kuwait,NA
+france,iraq,Target,kuwait,NA
+saudi arabia,iraq,Target,kuwait,NA
+israel,iraq,Target,kuwait,NA
+croatia,yugoslavia,NA,croatia,NA
+croatia,yugoslavia,NA,slovenia,NA
+slovenia,yugoslavia,NA,croatia,NA
+slovenia,yugoslavia,NA,slovenia,NA
+croatia,yugoslavia,Target,croatia,Croatia
+myanmar,thailand,Actor,"sleeping dog hill near manerplaw, thailand",NA
+north korea,iaea,Actor,south korea,NA
+pakistan,india,NA,pakistan,NA
+thailand,myanmar,Target,thailand,Thailand
+spain,morocco,Another Territory,parsley island,Perejil Island
+u.k.,iraq,Actor,iraq,NA
+u.s.,iraq,Actor,iraq,Iraq
+georgia,russia,Coast of Target,black sea waters of abkhazia,NA
+un,eritrea,On Border Between,eritrea-ethiopia border,NA
+un,ethiopia,On Border Between,eritrea-ethiopia border,NA
+un,iran,Actor,iran,NA
+georgia,abkhazia,On Border Between,georgian cities,NA
+georgia,south ossetia,On Border Between,georgian cities,NA
+georgia,russia,On Border Between,georgian cities,NA
+north korea,japan,Target,north korea,NA
+north korea,south korea,Target,north korea,NA
+north korea,united states,Target,north korea,NA
+united states,syrian rebels,Target,syria,NA
+united states,syria,Actor,syria,NA
+france,russia,Target,ukraine (donbass),NA
+germany,russia,Target,ukraine (donbass),NA
+u.k.,hungary,On Border Between,proposed neutral zone on hungary-romania border and in eastern hungary,NA
+u.s.,hungary,On Border Between,proposed neutral zone on hungary-romania border and in eastern hungary,NA
+france,hungary,On Border Between,proposed neutral zone on hungary-romania border and in eastern hungary,NA
+italy,hungary,On Border Between,proposed neutral zone on hungary-romania border and in eastern hungary,NA
+other allied states,hungary,On Border Between,proposed neutral zone on hungary-romania border and in eastern hungary,NA
+france,hungary,Target,"slovakia, in czechoslovakia",NA
+russia,romania,Target,bessarabia region,NA
+u.k.,france,Target,mosul,NA
+u.k.,turkey,On Border Between,"mosul, on turkey-british iraq border",Iraq
+japan,china,Actor,tsinan,NA
+japan,china,Coast of Actor,"withdraw from shanghai, on chinese coast",NA
+japan,china,Coast of Actor,withdraw to area 20km beyond shanghai,NA
+japan,china,On Border Between,"various points south of the great wall in jehol, on china-manchukuo (aka manchuria) border",People's Republic of China
+manchukuo (aka manchuria),china,On Border Between,"various points south of the great wall in jehol, on china-manchukuo (aka manchuria) border",People's Republic of China
+japan,china,On Border Between,"jehol, on china-manchukuo (aka manchuria) border",China–Japan border
+manchukuo (aka manchuria),china,On Border Between,"jehol, on china-manchukuo (aka manchuria) border",China–Japan border
+ussr,poland,Target,lithuania,NA
+u.k.,germany,On Border Between,germany-czechoslovakia border,NA
+u.k.,germany,On Border Between,czechoslovakia,NA
+france,germany,On Border Between,germany-czechoslovakia border,NA
+france,germany,On Border Between,czechoslovakia,NA
+germany,czechoslovakia,Target,sudetenland,Czechoslovakia
+ussr,poland,On Border Between,czechoslovakia-polish border,NA
+u.k.,germany,Another Territory,sudetenland,Czechoslovakia
+u.k.,germany,Another Territory,czechoslovakia,Czechoslovakia
+germany,czechoslovakia,Target,czechoslovakia,Czechoslovakia
+germany,czechoslovakia,Actor,czechoslovakia,NA
+germany,poland,Target,free city of danzig,Poland
+u.k.,poland,Target,poland,NA
+france,poland,Target,poland,NA
+u.k.,italy,Target,greece,NA
+u.k.,greece,Target,greece,Greece
+ussr,estonia,Another Territory,naval base and airfields in estonia,NA
+ussr,latvia,Another Territory,"naval bases, airbases, and locations for troop garrisoning in latvia",NA
+ussr,latvia,Another Territory,"gulf of riga, on latvian coast",NA
+ussr,lithuania,Another Territory,"air bases, land bases, and locations for troop garrisoning in lithuania",NA
+ussr,romania,Target,romanian regions of bessarabia and northern bukovina,NA
+u.k.,NA,Target,axis powers,NA
+u.k.,NA,Target,allied territories occupied by axis powers,NA
+u.s.,NA,Target,axis powers,NA
+u.s.,NA,Target,allied territories occupied by axis powers,NA
+ussr,NA,Target,axis powers,NA
+ussr,NA,Target,allied territories occupied by axis powers,NA
+soviet union,yugoslavia,Target,yugoslavia,Yugoslavia
+china,rok,On Border Between,"38th parallel, de factor border between rok and dprk",North Korea–South Korea border
+china,u.s.,On Border Between,"38th parallel, de factor border between rok and dprk",North Korea–South Korea border
+china,un,On Border Between,"38th parallel, de factor border between rok and dprk",North Korea–South Korea border
+u.s.,dprk,Actor,dprk,NA
+un,dprk,Actor,dprk,NA
+ussr,u.k.,Target,"sinai, suez canal zone",NA
+ussr,france,Target,"sinai, suez canal zone",NA
+ussr,israel,Target,"sinai, suez canal zone",NA
+u.s.,ussr,Target,"london, paris",NA
+israel,iraq,Target,jordan,NA
+israel,jordan,Target,jordan,Jordan
+iraq,jordan,Target,jordan,Jordan
+un,israel,Target,jordan and israel,Jordan;Israel
+un,jordan,Target,jordan and israel,Jordan;Israel
+u.s.,turkey,Target,"turkey, any middle eastern state threatened by syria",NA
+u.s.,any middle eastern state threatened by syria,Target,"turkey, any middle eastern state threatened by syria",NA
+nato,ussr,Target,turkey,NA
+ussr,NA,NA,west berlin,NA
+ussr,east germany,NA,east germany,NA
+ussr,u.k.,Target,west berlin,United Kingdom
+ussr,u.s.,Target,west berlin,United States of America
+ussr,france,Target,west berlin,France
+thailand,pathet lao,Target,takhek,Laos
+u.s.,cuba,Target,cuba,Cuba
+india,china,On Border Between,"aksai chin region, on china-india border",NA
+u.s.,saudi arabia,Target,yemen,NA
+u.s.,jordan,Target,yemen,NA
+france,dahomey,On Border Between,dahomey-niger border,NA
+france,niger,On Border Between,dahomey-niger border,NA
+china,india,NA,"border of sikkim, india and tibet, china",NA
+ussr,india,Target,indian side of 1949 cease-fire line in southern kashmir,NA
+soviet union,israel,Target,"egypt, and jordan",NA
+north vietnam,u.s.,Target,north vietnam,North Vietnam
+guyana,venezuela,Target,guyana essequibo,Guayana Esequiba
+oas,el salvador,Target,honduras,NA
+u.s.,israel,Target,jordan,NA
+u.s.,jordan,Target,jordan,Jordan
+u.s.,ussr,Target,jordan,NA
+u.s.,egypt,Target,jordan,NA
+u.s.,syria,Target,jordan,NA
+south vietnam,north vietnam,Target,laos,Laos
+uganda,ugandan separatists in kenya or sudan,Target,kenya,NA
+uganda,ugandan separatists in kenya or sudan,Target,sudan,NA
+uganda,kenya,Actor,kenya,NA
+uganda,kenya,Actor,sudan,NA
+uganda,sudan,Actor,kenya,NA
+uganda,sudan,Actor,sudan,NA
+kenya,uganda,Target,"kenya, especially large area to within 20 miles of nairobi",NA
+libya,ugandan national liberation forces,Another Territory,kampala,NA
+libya,ugandan national liberation forces,Another Territory,uganda,NA
+france,libya,Target,another african state besides chad,NA
+libya,u.s.,Open Ocean,"central mediterranean sea, gulf of syrte, and airspace above both of them",Mediterranean Sea
+u.s.,libya,Open Ocean,mediterranean sea,Mediterranean Sea
+libya,u.s.,Coast of Target,gulf of syrte and airpsace above it,NA
+egypt,libya,Target,sudan,NA
+egypt,sudan,Target,sudan,Sudan
+france,libya,Target,faya-largeau,NA
+libya,chad,Target,chad,Chad
+france,libya,Target,"n'djamena, chad",NA
+u.s.,pakistan,Actor,kashmir,NA
+u.s.,pakistan,Actor,india and pakistan,NA
+cameroon,nigeria,Coast of Target,"islands of diamond and djsbana in bakassi region, in gulf of guinea",NA
+south korea,north korea,Target,south korea,South Korea
+ethiopia,eritrea,On Border Between,"area in northwestern ethiopia where fighting occurred on 6 may 1998, near eritrea-ethiopia border",NA
+uic,ethiopia,Another Territory,somalia,Somalia
+ethiopia,uic,Target,ethiopia,NA
+ethiopia,uic,Target,ethiopia-somalia border,NA
+uic,ethiopia,Another Territory,baidoa,Somalia
+uic,somalian tfg,Another Territory,baidoa,Somalia
+uic,somalian tfg,Another Territory,somalia,Somalia
+cambodia,thailand,On Border Between,thailand-cambodia border,Cambodia–Thailand border
+cambodia,thailand,On Border Between,near preah vihear temple,Cambodia–Thailand border
+sudan,chad,On Border Between,airspace above sudan,Chad–Sudan border
+sudan,chad,On Border Between,chad-sudan border,Chad–Sudan border
+north korea,south korea,Coast of Target,somewhere off coast of south korea (yellow sea or sea of japan),NA
+north korea,south korea,Coast of Target,north korean-south korean maritime border,NA
+north korea,u.s.,Coast of Target,somewhere off coast of south korea (yellow sea or sea of japan),NA
+north korea,u.s.,Coast of Target,north korean-south korean maritime border,NA
+north korea,south korea,Actor,south korea,South Korea
+north korea,south korea,Actor,"off coast of south korea (yellow sea, sea of japan, or east china sea)",NA
+north korea,u.s.,Actor,south korea,NA
+north korea,u.s.,Actor,"off coast of south korea (yellow sea, sea of japan, or east china sea)",NA
+north korea,south korea,Actor,"yeonpyeong island, in yellow sea",NA
+north korea,south korea,Actor,south korean coast,NA
+north korea,south korea,Actor,north korea-south korea maritime border,NA
+north korea,south korea,Actor,"off south korean coast (yelllow sea, sea of japan, or east china sea)",NA
+u.s.,north korea,Actor,north korea,NA
+south korea,north korea,Actor,north korea,North Korea
+turkey,russia,Target,"turkish airspace over hatay province, near turkey-syria border",NA
+france,russia,Actor,turkey,NA
+france,russia,Actor,airspace above turkey,NA
+france,russia,Actor,syria,NA
+france,russia,Actor,turkey-syria border,NA
+germany,russia,Actor,turkey,NA
+germany,russia,Actor,airspace above turkey,NA
+germany,russia,Actor,syria,NA
+germany,russia,Actor,turkey-syria border,NA
+luxembourg,russia,Actor,turkey,NA
+luxembourg,russia,Actor,airspace above turkey,NA
+luxembourg,russia,Actor,syria,NA
+luxembourg,russia,Actor,turkey-syria border,NA
+nato,russia,Actor,turkey,NA
+nato,russia,Actor,airspace above turkey,NA
+nato,russia,Actor,syria,NA
+nato,russia,Actor,turkey-syria border,NA
+france,turkey,Actor,turkey,NA
+france,turkey,Actor,airspace above turkey,NA
+france,turkey,Actor,syria,NA
+france,turkey,Actor,turkey-syria border,NA
+germany,turkey,Actor,turkey,NA
+germany,turkey,Actor,airspace above turkey,NA
+germany,turkey,Actor,syria,NA
+germany,turkey,Actor,turkey-syria border,NA
+luxembourg,turkey,Actor,turkey,NA
+luxembourg,turkey,Actor,airspace above turkey,NA
+luxembourg,turkey,Actor,syria,NA
+luxembourg,turkey,Actor,turkey-syria border,NA
+nato,turkey,Actor,turkey,NA
+nato,turkey,Actor,airspace above turkey,NA
+nato,turkey,Actor,syria,NA
+nato,turkey,Actor,turkey-syria border,NA
+turkey,syria,Target,syria,Syria
+germany,NA,Target,germany,NA
+russia,poland,Target,upper silesia,NA
+germany,france,Target,ruhr,NA
+japan,china,Actor,shanghai,NA
+france,germany,Target,czechoslovakia,Czechoslovakia
+u.k.,germany,Target,czechoslovakia,Czechoslovakia
+u.k.,france,Actor,czechoslovakia,NA
+uk,germany,Target,poland,NA
+netherlands,germany,Target,netherlands,Kingdom of the Netherlands
+ussr,germany,Target,stalingrad,NA
+romania,allies,Actor,germany,NA
+hungary,allies,Actor,germany,NA
+bulgaria,allies,Actor,germany,NA
+u.k.,france,Target,syrian cities,NA
+u.k.,israel,On Border Between,sinai,NA
+u.s.,ussr,Target,israel,NA
+israel,iraq,NA,jordan,NA
+israel,jordan,NA,jordan,Jordan
+u.s.,prc,Target,quemoy,NA
+ussr,u.k.,NA,west berlin,NA
+ussr,u.s.,NA,west berlin,NA
+ussr,france,NA,west berlin,NA
+east germany,u.k.,On Border Between,berlin wall,German Democratic Republic
+east germany,u.s.,On Border Between,berlin wall,German Democratic Republic
+east germany,france,On Border Between,berlin wall,German Democratic Republic
+east germany,west germany,On Border Between,berlin wall,German Democratic Republic
+taiwan,anti-communist elements,Target,mainland china,NA
+ussr,cuba,Target,turkey,NA
+turkey,cyprus,On Border Between,cyprus,NA
+greece,turkish cypriots,NA,cyprus,Republic of Cyprus
+turkey,greek cypriots,NA,cyprus,Republic of Cyprus
+greece,greek cypriots,Target,cyprus,NA
+ussr,cyprus,NA,cyprus,NA
+nlc,NA,Actor,eastern congo,NA
+congo-kinshasa,NA,Actor,eastern congo,NA
+soviet union,israel,Target,"syria, egypt, and jordan",NA
+guyana,venezuela,Coast of Target,territorial waters,NA
+zambia,rhodesia,Target,zambia,Zambia
+ussr,israel,NA,suez canal,Suez Canal
+morocco,polisario front,Target,morocco,NA
+ussr,pakistan,On Border Between,afghanistan and pakistan,NA
+afghanistan,pakistan,On Border Between,afghanistan and pakistan,NA
+rhodesia-zimbabwe,zambia,Another Territory,rhodesia-zimbabwe,NA
+libya,egypt,Target,libya,NA
+israel,syria,Target,suria,NA
+israel,syria,On Border Between,israeli border,NA
+greece,turkey,Coast of Target,greece territorial waters,NA
+greece,u.s.,NA,greek territorial waters,NA
+honduras,nicaragua,On Border Between,honduras-nicaragua border,Honduras–Nicaragua border
+philippines,prc,Another Territory,spratlys,NA
+philippines,vietnam,Another Territory,spratlys,NA
+morocco,mauritania,NA,morocco/western sahara,NA
+united states,iraq,Target,kuwait,NA
+european community,croatia,Actor,croatia and slovenia,NA
+european community,slovenia,Actor,croatia and slovenia,NA
+u.s.,croatia,Actor,croatia and slovenia,NA
+u.s.,slovenia,Actor,croatia and slovenia,NA
+turkey,armenia,On Border Between,shusha and lachin,NA
+un,bosnian muslims,Target,"gorazde, srebrenica, tuzla, zepa in the east, bihac in the north",NA
+un,bosnian serbs,NA,safe areas,NA
+thailand,myanmar,Target,thai territory,NA
+cameroon,nigeria,Target,diamond and djsbana,NA
+greece,turkey,Target,paphos,NA
+eu,cyprus,Actor,paphos,NA
+ethiopia,eritrea,On Border Between,ethiopian-eritrean border,Eritrea–Ethiopia border
+syria,turkey,Target,syria,NA
+egypt,turkey,Target,syria,NA
+un,iraq,Actor,iraq,NA
+u.s.,north korea,Target,north korea,North Korea
+north korea,u.s.,Target,north korea,NA
+south korea,north korea,NA,north korea,North Korea
+russia,romania,Another Territory,bessarabia,NA
+ukraine,romania,Another Territory,bessarabia,NA
+u.k.,france,Target,frankfurt and darmstadt,NA
+ussr,poland,Target,"germany, upper silesia",NA
+soviet union,poland,Target,lithuania,NA
+u.k.,china,Another Territory,china,NA
+u.k.,japan,Another Territory,tientsin,NA
+uk,germany,Target,polish frontier,NA
+australia,uk,Target,europe,NA
+france,germany,Target,"poland, polish frontier",NA
+new zealand,uk,Target,europe,NA
+germany,finland,Another Territory,northern sweden and norway,NA
+italy,greece,Actor,military bases in greece,NA
+u.k.,iraq,Actor,habbaniya british air base,NA
+ussr,romania,Another Territory,romania,NA
+ussr,romania,Actor,romania,NA
+france,u.k.,Target,syrian cities,NA
+u.k.,israel,On Border Between,egyptian territory in sinai,NA
+soviet union,yugoslavia,Actor,yugoslavia,Yugoslavia
+china,u.s.,On Border Between,38th parallel,NA
+china,south korea,On Border Between,38th parallel,38th Parallel North
+israel,egypt,Target,sinai,Egypt
+un,jordan,On Border Between,jordan and israel,NA
+un,israel,On Border Between,jordan and israel,NA
+greece,cyprus,Target,cyprus,Republic of Cyprus
+u.s.,turkey,Target,cyprus,NA
+ussr,cyprus,Target,cyprus,NA
+rwanda,NA,Target,"rwanda, burundi-rwanda border",NA
+china,NA,On Border Between,chinese border,NA
+ussr,india,On Border Between,kashmir,NA
+iran,iraq,Target,iran,Iran
+tanzania,uganda,On Border Between,"kagera river, tanzania-uganda border",Tanzania Uganda border crossing #353
+british fishers,u.k.,Open Ocean,"north atlantic ocean, iceland claimed waters",NA
+ussr,israel,On Border Between,west bank of the suez canal,NA
+spain,morocco,Another Territory,western sahara,Western Sahara
+uganda,kenya,Open Ocean,uganda's access to indian ocean,NA
+uganda,tanzania,Open Ocean,uganda's access to indian ocean,NA
+kenya,uganda,Target,kenya,NA
+angola,zaire,On Border Between,angola. angola-zaire border,Angola–Democratic Republic of the Congo border
+angola,flnc,On Border Between,angola. angola-zaire border,Angola–Democratic Republic of the Congo border
+morocco,algeria,Another Territory,algeria,NA
+morocco,algeria,Target,morocco,NA
+morocco,polisario,Target,morocco,NA
+ussr,afghanistan,Target,afghanistan,Afghanistan
+cuba,angola,Target,southern angola,NA
+ussr,angola,Target,southern angola,NA
+france,libya,Target,an african state,NA
+guyana,cuba,Target,guyana,NA
+iran,kuwait,Target,kharg island,NA
+turkey,north aegean petroleum company,Coast of Target,aegean,NA
+greece,u.s.,Coast of Actor,aegean sea,NA
+india,pakistan,Target,indian kashmir,NA
+us,pakistan,On Border Between,kashmir,NA
+turkey,armenia,Target,"shusha and lachin, nagornyy-karabakh",NA
+russia,armenia,Target,armenia,NA
+un,bosnia-hercegovina,Target,"sarajevo, gorazde, srebrenica, tuzla, zepa, and bihac",Bosnia and Herzegovina
+un,bosnian serbs,Target,"sarajevo, gorazde, srebrenica, tuzla, zepa, and bihac",Bosnia and Herzegovina
+un,bosnian croats,Target,"sarajevo, gorazde, srebrenica, tuzla, zepa, and bihac",Bosnia and Herzegovina
+european union,serbia,Target,central bosnia,Bosnia and Herzegovina
+bosnian serbs,bosnia-hercegovina,Target,sarajevo,Bosnia and Herzegovina
+nato,bosnian serbs,Target,"sarajevo, gorazde, srebrenica, tuzla, zepa, and bihac",NA
+russia,NA,Target,bosnia,NA
+rwanda,zaire,Target,rwanda,NA
+greece,turkey,Another Territory,cyprus,Republic of Cyprus
+eu,cyprus,Actor,"cyprus, military airfield base near paphos",NA
+turkey,greece,Actor,crete,NA
+india,pakistan,On Border Between,kashmir,Kashmir
+pakistan,india,Target,pakistan,NA
+ethiopia,eritrea,Target,ethiopia,NA
+un,eritrea,On Border Between,ethiopia - eritrea border,NA
+un,ethiopia,On Border Between,ethiopia - eritrea border,NA
+uic,ethiopia,Target,somalia,Somalia
+uic,somalia,Target,somalia,Somalia
+uic,somalia,Another Territory,somalia,NA
+chad,janjaweed,Target,"chad, chad-sudan border",NA
+ufdd,france,Another Territory,chad,Chad
+north korea,south korea,On Border Between,military demarcation line,North Korea–South Korea border
+soviet,cuba,Open Ocean,cuba,NA
+soviet,cuba,Another Territory,turkey,NA
+soviet,cuba,NA,gulf of mexico,NA
+ussr,u.s.,Target,cuba,Cuba
+ussr,u.s.,Another Territory,cuba and turkey,NA
+soviet,china,Actor,cer,NA
+ussr,cuba,Actor,cuba,Cuba
+ussr,cuba,Actor,turkey,NA
+NA,NA,Target,cuba,NA
+somalia,ethiopia,On Border Between,not specified,Ethiopia–Somalia border
+NA,NA,Actor,pkk camps,NA
+ussr,cuba,Target,cuba,Cuba
+u.k.,france,NA,czechoslovakia,NA
+soviet,cuba,Target,cuba,Cuba
+soviet,cuba,Target,turkey,NA
+ussr,cuba,Open Ocean,cuba,NA
+u.k.,israel,Target,sinai peninsula,Israel
+france,austria,Actor,austria,NA
+chad,libya,Actor,chad,Chad
+germany,ruhr,Target,germany,NA
+ussr,cuba,Coast of Target,cuba,Cuba
+ussr,cuba,On Border Between,cuba,NA
+iraq,un,Target,iraq,NA
+greece,turkey,Target,cyprus,NA
+japan,china,Target,shanghai,People's Republic of China
+allies,japan,Target,japan,Japan
+soviet union,cuba,Target,turkey,NA
+soviet union,united states,Target,turkey,NA
+guatemala,mexico,Coast of Actor,guatemala,Guatemala
+ussr,cuba,Coast of Actor,cuba,NA
+myanmar,thailand,Actor,thailand,Thailand
+dominican republic,haiti,On Border Between,border with haiti,Dominican Republic–Haiti border
+dominican republic,haiti,Target,haiti,Haiti
+ussr,cuba,Target,"cuba, gulf of mexico",NA
+ussr,us,Target,turkey,NA
+NA,NA,Target,turkey,NA
+turkey,cyprus,Target,pophos,Republic of Cyprus
+u.s.,turkey,Target,turkey,Turkey
+u.s.,turkey,Target,cuba,NA
+us,cuba,Target,cuba,Cuba
+ussr,cuba,Coast of Target,gulf of mexico,Gulf of Mexico
+greece,turkey,Coast of Target,aegean sea,Aegean Sea
+turkey,greece,Open Ocean,aegean sea,Aegean Sea
+u.k.,germany,Target,poland,NA
+france,germany,Target,poland,NA
+germany,u.k.,Another Territory,sudetenland,NA
+germany,france,Another Territory,sudetenland,NA
+ussr,cuba,Coast of Target,coast of cuba and gulf of mexico,NA
+u.k.,france,Target,syria,NA
+u.s.,north korea,Coast of Target,cuba,NA
+israel,lebanon,Target,israel,NA
+israel,syria,Target,israel,Israel
+u.s.,cuba,Another Territory,cuba,Cuba
+soviet,cuba,Actor,cuba,Cuba
+ussr,cuba,NA,cuba,Cuba

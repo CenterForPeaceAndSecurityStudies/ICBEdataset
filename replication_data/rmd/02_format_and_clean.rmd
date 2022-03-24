@@ -273,6 +273,7 @@ dictionary_actors    <- readxl::read_excel(target_file, sheet="actors") %>% dply
 
 #Locations and dates are both really hard to do
 dictionary_locations <- readxl::read_excel(target_file, sheet="locations", na = c("", "NA")) 
+dictionary_condition_locations <- readxl::read_excel(target_file, sheet="condition_locations", na = c("", "NA")) 
 dictionary_dates <- readxl::read_excel(target_file, sheet="dates", col_types="text") #This is the tricky one and why he had to add values 
 
 
@@ -301,6 +302,27 @@ location_merge_directory <- icb_wide_aligned %>%
   dplyr::mutate(crisno = as.numeric(crisno)) %>% 
   unique() %>% 
   dplyr::filter(!is.na(interact_location_other))
+
+
+condition_location_merge_directory <- icb_wide_aligned %>% 
+    dplyr::mutate(crisno3 = stringr::str_pad(crisno, 3, pad = "0"), 
+                  sentence_number_int_aligned3 = stringr::str_pad(sentence_number_int_aligned, 3, pad = "0")) %>% 
+  dplyr::mutate(email_crisis_sent_event = paste(email_id,crisno3,sentence_number_int_aligned3,event_number_int, sep="_")) %>%
+  dplyr::select(-crisno3, -sentence_number_int_aligned3) %>%
+  dplyr::mutate(crisis_sent = paste0(crisno,"_",sentence_number_int_aligned)) %>%
+  dplyr::select(crisno, email_crisis_sent_event, do_actor_a, do_actor_b, condition_interact_location, condition_interact_location_other) %>% 
+  dplyr::mutate(do_actor_a=strsplit(do_actor_a, ";")) %>% tidyr::unnest(do_actor_a) %>%
+  dplyr::mutate(do_actor_b=strsplit(do_actor_b, ";")) %>% tidyr::unnest(do_actor_b) %>%
+  dplyr::mutate(condition_interact_location_other=strsplit(condition_interact_location_other, ";")) %>% tidyr::unnest(condition_interact_location_other) %>%
+  dplyr::mutate(do_actor_a=tolower(do_actor_a), do_actor_b=tolower(do_actor_b),
+                condition_interact_location_other=trimws(tolower(condition_interact_location_other))) %>%
+  dplyr::left_join(dictionary_condition_locations %>%
+                     dplyr::mutate() %>% 
+                     dplyr::mutate(condition_interact_location_other = tolower(condition_interact_location_other)) %>% 
+                     dplyr::select(do_actor_a, do_actor_b, condition_interact_location, condition_interact_location_other, norm_name)) %>%
+  dplyr::mutate(crisno = as.numeric(crisno)) %>% 
+  unique() %>% 
+  dplyr::filter(!is.na(condition_interact_location_other))
 
 
 ```
@@ -360,6 +382,18 @@ icb_long_location_clean <- icb_long_split %>%
   dplyr::mutate(variable_normalized = "interact_location_other_clean") %>%   
   dplyr::select(-do_actor_a, -do_actor_b, -interact_location) %>% 
   dplyr::mutate(value_normalized = ifelse(is.na(value_normalized), "no_cleaning", value_normalized))
+
+
+icb_long_condition_location_clean <- icb_long_split %>% 
+  dplyr::filter(variable == "condition_interact_location_other") %>% 
+  dplyr::full_join(condition_location_merge_directory %>%
+                     dplyr::mutate(crisno = as.character(crisno)) %>% 
+                     dplyr::rename(value = condition_interact_location_other)) %>% 
+  dplyr::rename(value_normalized = norm_name) %>%
+  dplyr::mutate(variable_normalized = "condition_interact_location_other_clean") %>%   
+  dplyr::select(-do_actor_a, -do_actor_b, -condition_interact_location) %>% 
+  dplyr::mutate(value_normalized = ifelse(is.na(value_normalized), "no_cleaning", value_normalized))
+
 ```
 
 
@@ -393,6 +427,10 @@ icb_long_clean <- icb_long_split %>%
       dplyr::mutate(variable_normalized = (ifelse(is.na(variable_normalized), variable_normalized.location, variable_normalized))) %>%
       dplyr::mutate(value_normalized = (ifelse(is.na(value_normalized), value_normalized.location, value_normalized))) %>%
       dplyr::select(-variable_normalized.location, -value_normalized.location) %>% 
+  dplyr::left_join(icb_long_condition_location_clean, by=names(icb_long_split), suffix = c("", ".condition_location")) %>% 
+      dplyr::mutate(variable_normalized = (ifelse(is.na(variable_normalized), variable_normalized.condition_location, variable_normalized))) %>%
+      dplyr::mutate(value_normalized = (ifelse(is.na(value_normalized), value_normalized.condition_location, value_normalized))) %>%
+      dplyr::select(-variable_normalized.condition_location, -value_normalized.condition_location) %>% 
   dplyr::full_join(icb_long_dates_clean, by=names(icb_long_split), suffix = c("", ".date")) %>% 
       dplyr::mutate(variable_normalized = (ifelse(is.na(variable_normalized), variable_normalized.date, variable_normalized))) %>%
       dplyr::mutate(value_normalized = (ifelse(is.na(value_normalized), value_normalized.date, value_normalized))) %>%
@@ -417,7 +455,7 @@ dim(icb_long_clean) #507699
 
 
 ```{r}
-# Fix several typos:
+# Fix typos:
 
 print(paste("change 'premption' to 'preemption'", icb_long_clean %>% dplyr::filter(stringr::str_detect(value, "premption")==TRUE) %>% nrow(), "times."))
 icb_long_clean <- icb_long_clean %>% dplyr::mutate(value = stringr::str_replace(value, "premption", "preemption"))
@@ -642,29 +680,30 @@ drops <- c(
 
 
 ```{r}
-
 icb_long_clean2 <- icb_long_clean %>% 
-                            dplyr::distinct() %>%
-                            dplyr::mutate(variable_normalized= variable_normalized %>%
-                                            stringr::str_replace("_other_clean","")) %>% 
+  dplyr::distinct() %>%
+  dplyr::mutate(variable_normalized= variable_normalized %>%
+                  stringr::str_replace("interact_location_other_clean","interact_location_defined")) %>%
+  dplyr::mutate(variable_normalized= variable_normalized %>%
+                  stringr::str_replace("condition_interact_location_other","condition_interact_location_defined")) %>% 
+  dplyr::mutate(variable_normalized= variable_normalized %>%
+                  stringr::str_replace("_other_clean","")) %>% 
   #We want to collapse others in with regulars
-                            dplyr::mutate(variable_normalized= variable_normalized %>% 
-                                            stringr::str_replace("_clean","")) %>% 
+  dplyr::mutate(variable_normalized= variable_normalized %>% 
+                  stringr::str_replace("_clean","")) %>% 
   #These only exist with actors now
-                            dplyr::mutate(variable_normalized= variable_normalized %>% 
-                                            stringr::str_replace("_other","")) %>% 
+  dplyr::mutate(variable_normalized= variable_normalized %>% 
+                  stringr::str_replace("_other","")) %>% 
   #Only really matters for location_other
-            
-                            dplyr::filter(value_normalized!='drop') %>%
-                            dplyr::filter(email_id!='expert3') %>% #expert3 Looks broken all the time
-                            #I'm going to move to a structure where event numbers can have a subsection that is condition rather than keeping it in the variable names
-                            dplyr::mutate(event_number_int_condition=variable_normalized %>%
-                                            stringr::str_detect('condition_') %>% as.numeric() ) %>%
-                            dplyr::mutate(variable_normalized=variable_normalized %>%
-                                            stringr::str_replace('condition_',''))  
+  dplyr::filter(value_normalized!='drop') %>%
+  dplyr::filter(email_id!='expert3') %>% #expert3 Looks broken all the time
+  #I'm going to move to a structure where event numbers can have a subsection that is condition rather than keeping it in the variable names
+  dplyr::mutate(event_number_int_condition=variable_normalized %>%
+                  stringr::str_detect('condition_') %>% as.numeric() ) %>%
+  dplyr::mutate(variable_normalized=variable_normalized %>%
+                  stringr::str_replace('condition_',''))  
 
 
-# THIS IS WHERE I AM
 # give every entry its own event_type var to control merging (avoid merging in details for actions that were 'thought about' or 'said')
 # confirm that no email_crisis_sent_event have more than one event_type entry
 icb_long_clean2 %>% dplyr::filter(variable_normalized == "event_type") %>% 
@@ -675,6 +714,19 @@ icb_long_clean2 <- icb_long_clean2 %>%
   dplyr::left_join(icb_long_clean2 %>% dplyr::filter(variable_normalized == "event_type") %>% 
                      dplyr::select("email_crisis_sent_event", "value_normalized") %>% 
                      dplyr::rename(event_type=value_normalized)) 
+
+
+
+# icb_long_clean %>% dplyr::select(variable_normalized) %>% table()
+# 
+# icb_long_clean %>% dplyr::filter(variable_normalized=="interact_location") %>% dplyr::select(value_normalized) %>% table()
+# icb_long_clean %>% dplyr::filter(variable_normalized=="condition_interact_location_other") %>% dplyr::select(value_normalized) %>% table()
+# 
+# icb_long_clean2 %>% dplyr::filter(variable_normalized=="interact_location") %>% dplyr::select(value_normalized) %>% table()
+# icb_long_clean2 %>% dplyr::filter(variable_normalized=="interact_location_defined") %>% dplyr::select(value_normalized) %>% table()
+# 
+# temp <- icb_wide_aligned_raw %>% dplyr::select("do_actor_a", "do_actor_b", "condition_interact_location", "condition_interact_location_other") %>% dplyr::filter(!is.na(condition_interact_location_other))
+
 
 ```
 

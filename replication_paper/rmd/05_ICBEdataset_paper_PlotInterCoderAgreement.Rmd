@@ -118,6 +118,7 @@ p1_confidence_agreement + theme(legend.position="bottom")
 ```
 
 ```{r}
+#codings_long_agreement <- codings_long_agreement %>% dplyr::filter(event_number_int_condition == 0)
 
 #Calculate average agreements by group
 means1 <- codings_long_agreement %>% 
@@ -139,6 +140,7 @@ p_percent_chose_tag_by_concept <-
     mutate(variable_normalized=variable_normalized %>% str_replace_all("_"," ") %>% tolower() ) %>%
     filter(value_normalized!='') %>%
     filter(total_coders>1) %>% #about 9k only had one coder
+  # filter(event_number_int_condition==0) %>%
     #filter(selected_by_experts>=1) %>%
     dplyr::select(variable_normalized,selected_by_any_perc,selected_by_experts_perc,selected_by_undergrads_perc,keep) %>%
     group_by(variable_normalized) %>%
