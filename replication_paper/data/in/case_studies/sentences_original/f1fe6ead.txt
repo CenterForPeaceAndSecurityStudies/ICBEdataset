@@ -1,0 +1,2 @@
+PRESIDENT, I have studied with great | Course Hero // NREUM is only defined in production.
+Descalzo"",""dept_acro"":""AP WORLD HISTORY"",""term_string"":""Fall"",""course_id"":9969715,""canonical_course_id"":9969715,""school_id"":55484,""dept_id"":1194359,""course_num"":""1134"",""year"":2018,""term"":1,""prof_id"":2012646,""course_name"":""AP World History"",""verified"":0,""professor"":{""prof_id"":2012646,""school_id"":55484,""dept_id"":0,""name"":""Ms.

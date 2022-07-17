@@ -1,0 +1,258 @@
+Four Models After the Bomb* Alexandre Debs† October 6, 2021 ∙ Francis J Gavin.20.
+Greater resolve, not greater military capabilities, determines the outcome of crises.
+In fact, critics argue, Washington’s pursuit of nuclear superiority is rational.
+Yet despite their spirited attack, these critiques are very narrow in scope.
+Most concede that nuclear weapons have been a force for peace and that they are the ultimate tools of deterrence.
+They do not explain how nuclear compellence could succeed, and how greater nuclear capabilities bolsters compellence.
+TNR scholars themselves were tentative in arguing for the superiority of deterrence.
+For Thomas Schelling, deterrence is easier than compellence if countries know each other’s resolve.
+But in the real world, uncertainty abounds, and countries do not know each other’s resolve.
+In that world, Schelling hesitated to proclaim the superiority of deterrence.
+Thirty years later, we still have much to learn in understanding how compellence could overcome deterrence.
+I address this problem in a game-theoretic model where states exchange compellent and deterrent threats, bargain over an issue in dispute, and enter a preemption game.
+I show in a baseline set-up that, consistent with TNR, compellence fails because the coercer would never trigger a nuclear disaster.
+I show that compellence may then indeed succeed, and that its success is bolstered by greater military capabilities.
+However, I conclude that greater capabilities provide coercive leverage by increasing the risk of disaster, with first-strike capabilities being especially destabilizing.
+TNR was correct to highlight the dangers of pursuing nuclear superiority.
+Proof of the formal results and discussion of coding rules are contained in the Appendices.
+They are the ultimate instruments of deterrence, the weapon of the weak.
+In the pre-nuclear age, conventional superiority could produce military victory.
+In the nuclear age, the prospect of a nuclear attack acts as a powerful deterrent.
+A critique of TNR could question whether its implications are correct and whether it outlines the right mechanism generating the predictions.
+Most recent critiques accept that nuclear weapons have encouraged peace between great powers.
+Green is more skeptical, but he only goes so far as saying that “the prediction of peace” is “difficult to evaluate” because there could be alternative explanations.
+Recent critiques also do little to challenge TNR’s prediction that nuclear weapons are the ultimate tools of deterrence and help enforce the status quo.
+They “are uniquely deterring because they appear to make victory in war impossible.
+Kennedy then announced a blockade, a classic example of a probabilistic threat, and he succeeding in compelling the Soviets to withdraw from Cuba.
+Moreover, Sechser and Fuhrmann do not show that deterrence is easier than compellence.
+Sechser suggests 7 It is important to establish whether and how compellent threats could prevail.
+If deterrence is stable, then TNR’s main implications, on peace between great powers and the preservation of the status quo, will endure.
+Once states exchange these threats, they may worry about rapid escalation.
+Recent work has made progress in understanding crisis preemption games, but debates remain.
+Powell (1990, Chapter 5) concluded that peace would prevail, if any country could end the crisis.
+It is not clear, though, that there is then “no “fundamental” basis for an attack by either side,” or that this set-up captures the strategic outlook of states facing a nuclear disaster.
+Revisiting this question, Fearon adds that if countries receive a warning, even imperfect, of their enemy’s action, then peace prevails when first-strike advantages are small.
+None of these models allows that compellence may be slightly less effective than deterrence, as documented by other datasets.
+Yet he admits that the difference is small (41.4% vs.-59%) and the “conclusion is only tentative,” given concerns over selection effects and confounding factors. 8 for strategic selection, crisis bargaining, and the exchange of compellent and deterrent threats.
+They concede TNR’s most important prediction peace between great powers and the main mechanism generating this prediction nuclear weapons are the ultimate tools of deterrence.
+Their critique really centers on Jervis (1989, Chapter 1)’s fifth implication that there is a link between the military balance and political outcomes.
+The fact that nuclear weapons are the ultimate tools of deterrence does not mean that strategic territory and alliances are worthless.
+Great powers continue to have interests even if they possess nuclear weapons.
+Lieber and Press ’s most powerful critique argues for a link between the military balance and political outcomes.
+Lieber and Press do not offer any evidence of such a link, and they offer very little evidence of policymakers’ 10 strategic outlook.
+Their technological analyses may show that the United States was close to acquiring a first-strike capability, but this does not prove that United States policymakers intended to build such a capability, or that greater military capabilities improved their coercive leverage.
+TNR actually provides valuable insights for understanding the United States drive for nuclear superiority.
+Trapped by previous discourse on the essential features of competent nuclear management, policymakers may choose policies that appear sensible, but are in fact inefficient, even dangerous.
+As Jervis did not spell out how this insight captures the evolution of United States nuclear strategy, it may easily be discounted, but it is actually powerful.
+Soon after, the French invoked this logic to justify their own force de frappe.
+The problem for Washington is that it risked entrapment by a small, autonomous nuclear arsenal, as Moscow developed its ICBM capabilities.
+Flexible response could reduce the risk of entrapment, pressing for the centralization of nuclear decisions, while shifting some of the burden for conventional defense onto United States allies.
+Kennedy had campaigned on the dangers of a missile gap, believing at the time that the Soviets were ahead.
+After learning that the reverse was true, the administration could now boast of its superiority.
+Yet discussions of nuclear superiority could again trap United States officials.
+United States officials continued to speak of nuclear superiority, but downplayed its importance and devised a criterion for effective deterrence assured destruction which did not rely on the nuclear balance.
+However, the relationship of this “superiority” to U.S. military and political objectives is unclear. nce each side has enough nuclear forces virtually to eliminate the other’s urban society in a second strike, the utility of extra nuclear forces is dubious at best.
+By the time Nixon took office, the end of United States nuclear superiority appeared imminent.
+This objective was vague, seemingly consistent with assured destruction while allowing future flexibility.
+In the short run, though, Washington’s policies would be measured against previous standards.
+Ultimately, the SALT accords enshrined Soviet quantitative superiority.
+We haven’t developed a new missile for 15 years and they have three new ones.
+The elusive evaluation of nuclear strategy also complicated United States relations with the Soviet Union.
+In this context, Washington’s subsequent move to counterforce didn’t square with a commitment to sufficiency.
+In early 1983, Soviet General Secretary Yuri Andropov warned Warsaw Pact leaders that “the new round of the arms race, imposed by the USA, has major, qualitative differences ... in creating modified missile systems, do not hide the that they are really intended for a future war.
+In sum, TNR does offer a compelling logic for understanding the U.S. drive for nuclear superiority.
+Rational policymakers, eager to convince audiences of their competent nuclear management, may be trapped by previous discourse and changing circumstances, even if nuclear superiority does not necessarily advance United States security.
+According to the standard narrative, the logic of TNR dominated U.S. policymaking until the turn to counterforce in the mid-1970s.
+President Nixon had adopted the logic of TNR in pursuing arms control agreements with the Soviet Union.
+Throughout the 1969-1979 period, United States policymakers did not believe in TNR, and competed aggressively with the Soviet Union in their nuclear acquisition, employment, and arms control policy.
+Whether and how it does so depends on its “comparative constitutional fitness” on competitive and cooperative dimensions.
+The competitive dimensions are resource production, which favors intense competition; resource extraction, which favors high quantitative targets; resource direction, which permits technological innovation.
+The cooperative dimensions are efficiency at distributional bargaining, which bolsters diplomatic negotiations; enforcement, which helps ensure the enemy’s compliance.
+When a state has an advantage in all competitive tasks, it does not pursue an arms control agreement.
+When it has an advantage in all cooperative tasks, it pursues an arms control agreement favoring qualitative stability.
+This general theory explains United States nuclear policy between 1969 and 1979, Green contends, when it agreed to quantitative limitations while pursuing qualitative advantages.
+Its great economic potential, innovative industries, and productive civil-military relations supported resource production and direction.
+Its political institutions and ideology undermined distributional bargaining and enforcement.
+Liberal ideology 17 bound the country to international agreements, irrespective of its terms or the enemy’s compliance.
+Green’s theory is complex and the evidence is very rich, analyzing well over 20,000 pages of declassified documents.
+This close engagement with the qualitative evidence generates two important contributions.
+TNR, as I argue above, can explain how policymakers may feel trapped by previous discourse on competent nuclear management.
+Still, it is helpful to document how they justified their policy privately.
+Second, Green highlights the fluidity of policymakers’ assessment of the nuclear balance.
+Even with large nuclear arsenals, states may worry about losing their retaliatory capabilities.
+Between 1969 and 1974, Washington went from confidence that neither side could obtain a first strike, to concern that Moscow may have such a capability, to confidence that it was alone in possessing it.
+Packard thus explained in March 1970, “we must then rely increasingly on the Polaris.
+Despite these important contributions, the book fares better in explaining how a nuclear power would compete than whether and why it does.
+If they correctly predict the arms control agreements of 1969-1979, they fail to predict the absence of such agreements in 1959-1969, when the United States arsenal more than doubled.
+Moreover, Green 19 ’s theory does not spell out how state preferences aggregate into arms control agreements.
+A state may also need to trade restrictions in areas of strength to obtain restrictions in areas of weakness.
+For example, United States policymakers had the advantage in ABM technology and cruise missiles.
+They traded concessions on ABM technology for limits on quantitative competition, but they pressed unsuccessfully for an agreement condoning competition on cruise missiles.
+TNR, in fact, offers a more compelling explanation of the United States drive for nuclear superiority.
+Green , like Lieber and Press , downplays TNR’s explanation as focused on “irrational” or “parochial” interests.
+Yet TNR explains how rational policymakers would pursue superiority, even if it does not in fact serve the United States national security interest.
+Whether superiority does serve United States national security is the crux of the matter, which Green ’s evidence does not elucidate.
+It is certainly helpful to document that United States policymakers turned against it sooner.
+As we argued above, TNR has a compelling explanation for the United States drive for nuclear superiority, in which, it should be noted, concerns for reassuring allies play a central role.
+The fact that nuclear weapons are the ultimate tools of deterrence does not mean 8 Gavin ’s historiography is also confusing.
+Gavin 21 that the United States should view nuclear proliferation favorably.
+Suggesting that nonproliferation has always been a first priority would be incorrect.
+Gavin ’s broad generalizations obscure the role that history would play in informing debates on nuclear politics.
+Unfortunately, Gavin refrains from doing so, instead copying his prior reviews, published some six and eight years earlier.
+When presenting MIDAR theory, Gavin does not discuss any primary evidence, calling the theory “a heuristic framework” which “does not fully capture the nuance and context of the history of United States nuclear statecraft.
+In sum, TNR and Gavin actually agree on the importance of allied considerations in the United States drive for nuclear superiority.
+Whether and how military capabilities truly coerce enemies, however, remains an open question.
+In his view, United States officials believed in nuclear superiority, which did offer coercive benefits.
+Statistical tests show that larger arsenals are associated with more favorable crisis outcomes.
+They provide bargaining leverage, according to Kroenig’s “superiority-brinkmanship” theory.
+But the fact that larger arsenals inflict greater damage is not surprising.
+What remains to be shown is whether the resulting differences are politically and diplomatically meaningful.
+With fewer United States nuclear weapons to destroy, Russia could hurl more missiles at United States cities.
+In a conflict with North Korea, Kroenig argues, the continental United States would be spared a nuclear disaster.
+Until somebody solves the part of the equation that shows me that 10 million people in Seoul don’t die in the first 30 minutes from conventional weapons, I don’t know what you’re talking about, there’s no military solution here, they got us” .10 Assessing his own work, Kroenig highlights not its quantitative evidence but its qualitative evidence and theoretical argument.
+The theory was the “biggest contribution” of a 2013 article, a precursor to the book .11 The correlation between the nuclear balance and crisis outcomes should indeed be taken with caution, given the small number of crises, and the difficulty of establishing causation.
+We already know that United States policymakers seemed to believe in nuclear superiority in their turn to counterforce in the mid-1970s, and Green ’s evidence suggests that the transition may have begun sooner.
+Qualitative evidence that United States policymakers believed in nuclear superiority in actual crises, and that such beliefs explained their policy choices, would be valuable.
+Unfortunately, Kroenig misrepresents the views of key officials, does not engage with evidence contradicting his view, and does not provide any new evidence to adjudicate between competing interpretations.
+Key United States officials, including McNamara and President Kennedy himself, did not attribute their success in the crisis to their nuclear superiority.
+McNamara did not “take into account” the nuclear balance of power and “explicitly link it” to policy recommendations about crisis escalation.
+He recommended restraint, based solely on the risk of nuclear disaster.
+His statement, quoted 11 For critical reviews, see,g., Glaser ; Sechser . 27 above, describes the inescapable mathematical fact that casualties increase with the number of nuclear weapons detonated.
+Yet McNamara did not believe that superiority should instruct policy choices.
+Dillon himself recognized as much, in the very statement quoted by Kroenig.
+McNamara indeed declared that “nuclear weapons serve no military purpose whatsoever.
+They are totally useless, except to deter one’s opponent from using them.
+The Cuban missile crisis illustrates not the significance but the insignificance of nuclear superiority in the face of survivable thermonuclear retaliatory forces.
+Early in the crisis, hawks pressed for an attack on Cuba, convinced that United States nuclear superiority would deter Soviet escalation.
+Ultimately, President Kennedy’s handling of the crisis appears more consistent with TNR than with superiority-brinkmanship theory.
+If Kroenig takes exception with the characterization of his argument as “simply standard bargaining theory” , earlier proponents embraced it.
+For example, Nitze argued that it was “a copybook principle in strategy that, in actual war, advantage tends to go to the side in a better position to raise the stakes by expanding the scope, duration or destructive intensity of the conflict.
+By the same token, at junctures of high contention short of war, the side better able to cope with the potential consequences of raising the stakes has the advantage.
+Kroenig’s contribution is to reinterpret the variables of Powell’s model, assume that military capabilities factor into a country’s resolve, so that they affect diplomatic outcomes.
+In the game of Chicken, the stronger power does not necessarily prevail.
+If country 𝑖 stands firm and country 𝑗 submits, country 𝑖 wins, country 𝑗 loses.
+The equilibrium risk dominates if and only if 𝑠 𝐼 − 𝑑𝐼 𝑠𝐼𝐼 − 𝑑𝐼𝐼 < 𝑤 𝐼 − 𝑐𝐼 𝑤𝐼𝐼 − 𝑐𝐼𝐼 12 Another criterion, payoff dominance, is undiscriminating here.
+A more favorable nuclear balance reduces a country’s concerns for standing firm.
+This risk of inadvertent war, it turns out, may allow the weaker power to prevail in the risk dominant equilibrium.
+Assume that disaster strikes with probability 𝑓 > 0 if only one country stands firm.
+However, the weaker country may now prevail in the risk dominant equilibrium, even if it would not absent any 13 Let 𝑓 𝑑𝑖 + 𝑤𝑖 > 𝑐𝑖 , so that this remains a game of Chicken. 32 exogenous risk of disaster.
+Here, the weaker nuclear power does fear the harsh consequences of a nuclear exchange.
+Put differently, nuclear threats are effective only if assurances are credible .15 Such is a key feature of brinkmanship crises.
+In short, while Kroenig is thought provoking, it misses important nuances of nuclear dynamics and does little to explain whether and how nuclear superiority promotes national security.
+In sum, critics argue that TNR should be abandoned, yet they consent that nuclear weapons have been a force for peace, the ultimate tools of deterrence.
+They do not establish how compellence could overcome deterrence, or how military capabilities correlate with diplomatic success.
+Nuclear threats never succeeded when triggering a crisis and often succeeded in enforcing the status quo.
+This evidence could support TNR’s claim about the effectiveness of deterrence.
+TNR itself would caution that the status quo may be ambiguous, that countries could successfully compel, by attempting to do so despite its cost, given uncertainty about countries’ resolve, and strategic selection into crises.
+Country 1 decides whether to issue a compellent threat, requesting revisions to the status quo.
+Country 2 decides whether to accept country 1’s demand or to issue a deterrent threat, hoping to enforce the status quo.
+Country 1 decides whether to back down, accepting the status quo, or to stand firm, triggering a preemption game.
+Then the paper lets country 1 use any of the standard techniques bolstering the credibility of threats.
+If country 1 burns bridges, i.e. if it commits to attack after country 2’s rejection, then compellence is more effective than deterrence.
+If country 1 uses a probabilistic threat,e. if it commits to attack with some probability after country 2’s rejection, then compellence may succeed, depending on how closely probabilistic threats resemble burning bridges.
+If country 1 feigns irrationality,e. if it mimics the behavior of types preferring war to the status quo, then compellence may fully succeed.
+Under some conditions, all types pool on the same, relatively generous offer.
+Next, I conclude that a more favorable nuclear balance improves a country’s peaceful terms without increasing the risk of disaster.
+Greater first-strike capabilities, however, may improve peaceful terms, but only under a heightened risk of nuclear disaster.
+They make even more aggressive offers, tolerating a greater risk of war.
+They exchange compellent and deterrent before entering a crisis preemption game, with reciprocal fear of surprise attack.
+Country 1 chooses whether to trigger a crisis to revise the status quo.
+If it does not, country 1 can back down, accepting the status quo after all, giving country 𝑖 a payoff of 𝜋𝑖 , or stand firm, triggering a preemption game.
+In the crisis preemption game, both countries simultaneously choose whether to attack.
+Still, countries fear being the target of a surprise attack, and may prefer to attack if they expect their enemy to do so.
+We solve this game for a Perfect Bayesian Equilibrium, where strategies 37 are optimal given beliefs and the strategies of other players, and beliefs are consistent with Bayes’ rule whenever possible.
+We evaluate the relative effectiveness of “compellent” and “deterrent” threats.
+A compellent threat is issued when country 1 triggers a crisis to revise the status quo.
+A deterrent threat is issued when country 2 rejects country 1’s offer and attempts to enforce the status quo.
+We also evaluate the effect of military capabilities on the terms of peace and the odds of war, through their effect on the nuclear balance and firststrike advantages.
+It is not sequentially rational for country 1 to stand firm if the preemption game produces war with positive probability; There is no equilibrium where a peaceful revision of the status quo occurs with positive probability.
+These results confirm TNR’s intuition about the challenges of compellence.
+Country 1 could successfully coerce if it lacked the option of backing down after country 2’s rejection or if it convinced country 2 that it prefers war to a dishonorable peace.
+By burning bridges, country 1 ensures that any rejection by country 2 triggers a nuclear disaster.
+A more aggressive offer generates a more favorable peace but it is more likely to be rejected.
+Consistent with TNR, the more country 1 is willing to run the risk of nuclear disaster, the more favorable are the terms of peace.
+In contrast with TNR, however, the more resolved a state is, the least likely it is to succeed.
+First, a greater display of resolve could coerce only if it corresponded with a greater risk of war after rejection, but by burning bridges, country 1 ensures that war follows any rejection.
+The more resolved a state is, the more willing it is to run the risk of war.
+It chooses a more aggressive offer, which is more likely to be rejected.
+A more favorable nuclear balance increases country 1’s war payoff at the expense of country 2.
+Country 1’s first-strike capabilities, for their part, matter only if country 2 would not attack, knowing that country 1 would, or only if country 2 is a strategy dominant dove.
+These types accept the lowest offers, made by the most hostile types of country 1.
+Nevertheless, it serves as a useful benchmark for probabilistic threats, which we turn to next.
+This model stands as a middle ground between the previous two, approximating the baseline model as 𝜖 approaches 0 and the model of burning bridges as 𝜖 approaches 1.
+Whenever policymakers deploy military power, officers assess proximate threats and decide whether to take actions that could quickly escalate.
+The greater is the risk of disaster (the closer 𝜖 is to 1), the more probabilistic threats resemble burning bridges, making compellence more effective, and increasing the concessions obtained by country 1.
+Otherwise, assume that condition holds for all ℎ2 , and conditions and hold.
+We ask whether a “rational” type, which would not trigger nuclear war, can extract concessions by appearing irrational.
+In this equilibrium, all types pool on the same offer, which is accepted by country 2.
+Compellence succeeds, not because it signals anything about country 1’s willingness to fight, but precisely because it does not.
+Country 2 cannot discern whether it faces a bluffing rational type or an irrational type, which would prefer to trigger a nuclear war.
+To sustain this equilibrium, ′ country 2 cannot be too bellicose , so that it accepts significant concessions, and country 1’s most bellicose preferences must be intermediate ︁ , so that the threat of its irrationality is effective, but it is willing to accept peaceful concessions.
+Result 2 If country 1 may be irrational: as the nuclear balance becomes more favorable to country 1, it enjoys more favorable peaceful terms and the probability of war remains unchanged; as country 1’s first-strike capabilities improve, it affects neither the terms of peace nor the probability of war.
+As before, the nuclear balance may safely improve country 1’s diplomatic outcome.
+Here, country 1’s first strike capabilities have no effect, because its offer targets the most resolved type of country 2, which would fight in the preemption game, denying country 1 the possibility of striking first.
+Recent critiques are quite narrow, generally accepting that nuclear weapons have been a force for peace and that they are the ultimate tools of deterrence.
+They mainly focus on the U.S. drive for nuclear superiority, arguing that it was rational and there is a link between military capabilities and political outcomes.
+Yet they do little to explain how nuclear weapons compel, and how greater military capabilities provide coercive leverage.
+The fact that United States policymakers pursued nuclear superiority does not mean that it served United States national security interests.
+In 46 fact, TNR offered a compelling explanation for the United States pursuit for nuclear superiority, explaining how policymakers may be trapped by previous discourse on competent nuclear management.
+This paper shows that compellence may ovecome deterrence once we account for strategic selection into crises, and allow coercers to use standard techniques to bolster the credibility of their threats.
+At the same time, it shows that improved coercion may come at the cost of an increased risk of nuclear disaster.
+If TNR scholars were too sanguine about the stability of MAD, they were right to raise the alarm in the late 1970s and 1980s, when Washington came close to escaping the nuclear stalemate.
+Future nuclear policy choices should weigh any potential coercive benefit with the increased risk of disaster.
+References Anderson, Nicholas D., Alexandre Debs and Nuno P Monteiro.19.
+The Demise of America’s First Missile Defense System and the Rise of Strategic Arms Limitation.
+The Quest for American Atomic Supremacy from World War II to the Present.
+In The Nixon Administration, the SIOP, and the Search for Limited Nuclear Options, 1969-1974, ed.
+It is straightforward to show, using backward induction, that the strategies for an equilibrium.
+Country 2’s decision to attack, and its response to 𝑥2 , are straightforward.
+If conditions and fail, then for some ℎ1 , the optimal offer is the interior solution.
+Indeed, 𝜕2𝜖 the left-hand side of the above condition is concave in ℎ1 , since 2 < 0.
+Moving up, country 1 prefers to trigger a crisis, since offering 𝑥2 generates strict concessions and is accepted with probability 1.
+Proof. and are immediate from equation and the fact that peace prevails.
+Whether threats trigger a crisis is based on the ICB project and Sechser and Fuhrmann , unless otherwise noted.
+The nuclear coercer was successful if it achieved “victory” peacefully, according to the ICB project, unless otherwise noted.
+After PRC-DPRK attacks on UN troops on April 16, 1953, Washington approved contingency nuclear war plans on May 19.
+A month later, Beijing agreed to an armistice, making key concessions on the issue of prisoners of war.
+Sechser and Fuhrmann identify a single crisis for the entire war, but adopt a narrower time frame in other wars,e. the Indochina War and the Vietnam War.
+In March, Dulles told the press that the conflict might easily escalate to massive attacks on China itself.
+In August 1954, the creation of SEATO, to include the ROC, was being discussed.
+The PRC began shelling Quemoy and Matsu, controlled by the ROC, on September 3.
+On July 26, 1956, Egypt nationalized the canal from an Anglo-French corporation.
+Two days later, Washington deployed military forces to the region, invoking the nuclear option.
+On September 17, Washington deployed three nuclear-capable artillery guns on Quemoy.
+Talks between the United States and PRC led to a ceasefire on October 6, later extended.
+On October 23, the United States and the ROC issued a joint communique, reaffirming their alliance while stressing its defensive nature.
+On November 27, 1958, Khrushchev gave six months for West Berlin to be demilitarized and declared a “Free City,” threatening to sign a peace treaty with East Germany, which would control access routes to West Berlin, and come to its defense against the West.
+In May 1959, Washington redeployed aircraft carriers, armed with nuclear weapons, to the Mediterranean.
+Though the ICB codes the crisis as beginning in August 1961, triggered by a non-state actor refugees moving to West Berlin Sechser and Fuhrmann begin their narrative with Khrushchev’s ultimatum, a conventional choice.
+Though the ICB dataset codes the Soviet Union as achieving “victory” it did restrict defections to the West, the status quo otherwise prevailed.
+On October 16, Kennedy learned of the Soviet deployment to Cuba and announced a quarantine on October 22 to remove them.
+On October 28, the United States and USSR agreed on the removal of Soviet missiles.
+On January 21, 1968, a DPRK commando unit attempted to assassinate the ROK president in his residence.
+On January 22, the DPRK seized the USS Pueblo, a U.S. intelligence vessel.
+President Johnson demanded the return of the ship and its crew, threatening a military response, deploying forces, equipped with nuclear weapons, to the area.
+On March 2, 1969, Chinese forces ambushed Soviet guards on Zhenbao Island in the Ussuri River.
+Moscow struck back on March 15, later placing their Strategic Rocket Forces on high alert, reminding Beijing in radio broadcasts of its nuclear superiority.
+By early February 1970, the Soviets had ceded Zhenbao and other disputed islands, and adopted a less aggressive patrolling posture.
+In 1970, the Awami League won the right to form the government of Pakistan.
+As East Pakistan, supported by India, was prevailing, Washington deployed a task force to the region, equipped with nuclear weapons.
+Israel allegedly readied its nuclear forces, hoping to catalyze United States intervention.
+On March 31, 1982, the UK learned of an imminent invasion by Argentina of the Falklands islands.
+The UK deployed troops to area, carrying nuclear weapons, and attacked on June 3, winning on June 14.
+On January 20, 1990, Indian police fired on rioters in Srinagar, Jammu and Kashmir, killing at least thirty-five.
+Pakistan allegedly readied its nuclear arsenal, hoping to catalyze United States intervention.
+In May, United States Deputy National Security Advisor Robert Gates traveled to the region.
+The ICB project says that it began when Pakistan formulated its policy on January 14, reacting a January 13 massacre.
+The PRC interpreted this move as promoting Taiwanese independence, and conducted military exercises in the East China Sea in July.
+In October, PRC Lieutenant General Xiong Guangkai told United States diplomat Charles Freeman that unlike in the 1950s, when the United “threatened nuclear strikes on us,” the PRC “can hit back.
+In March 1996, the PRC tested nuclear-capable M-9 missiles near Taiwan, hoping to hurt Lee’s chances in the upcoming elections.
+Sechser and Fuhrmann codes nuclear threats by “China/US” against “Taiwan/China/US,” but only discuss those issued by the PRC , my focus of analysis as well.
+India blamed Pakistan, retaliating against guerrilla positions on May 26.
+Pakistan allegedly readied its arsenal, detected by United States and Indian 72 intelligence.
+On July 4, Sharif met with President Bill Clinton, who insisted on Pakistan’s withdrawal.
+On December 13, 2001, Pakistani-backed militants attacked the Indian parliament.
+On January 12, 2002, Pakistani President Parvaz Musharraf agreed to crack down on terrorism.
+The ICB dataset identifies two separate episodes, December 13, 2001-January 12, 2002 and May 14October 17, 2002, but both begin with terrorist attacks.
+Arguably, it hoped for a loosening of sanctions, recognition as a nuclear power, and an end to joint US-ROK exercises.
+On March 7, the United Nations condemned the nuclear test, imposing additional sanctions.

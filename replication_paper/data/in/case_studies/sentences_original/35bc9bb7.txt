@@ -1,0 +1,97 @@
+Permission is granted to print and copy this page on paper for non-commercial use.
+For other uses, including electronic redistribution, please contact us. features january 2001 Game theory and the Cuban missile crisis by Steven J Brams Theory of Moves ""We're eyeball to eyeball, and I think the other fellow just blinked"" were the eerie words of Secretary of State Dean Rusk at the height of the Cuban missile crisis in October 1962.
+Chicken is the usual game used to model conflicts in which the players are on a collision course.
+The players may be drivers approaching each other on a narrow road, in which each has the choice of swerving to avoid a collision or not swerving.
+In the novel Rebel without a Cause, which was later made into a movie starring James Dean, the drivers were two teenagers, but instead of bearing down on each other they both raced toward a cliff, with the object being not to be the first driver to slam on his brakes and thereby ""chicken out"", while, at the same time, not plunging over the cliff.
+While ostensibly a game of Chicken, the Cuban missile crisis is in fact not well modelled by this game.
+Another game more accurately represents the preferences of American and Soviet leaders, but even for this game standard game theory does not explain their choices.
+On the other hand, the ""theory of moves,"" which is founded on game theory but radically changes its standard rules of play, does retrodict, or make past predictions of, the leaders' choices.
+More important, the theory explicates the dynamics of play, based on the assumption that players think not just about the immediate consequences of their actions but their repercussions for future play as well.
+I will use the Cuban missile crisis to illustrate parts of the theory, which is not just an abstract mathematical model but one that mirrors the real-life choices, and underlying thinking, of flesh-and-blood decision makers.
+Classical Game Theory and the Missile Crisis Game theory is a branch of mathematics concerned with decision-making in social interactions.
+The possible outcomes of a game depend on the choices made by all players, and can be ranked in order of preference by each player.
+This will be true when neither player, by departing from its strategy, can do better.
+Two such strategies are together known as a Nash equilibrium, named after John Nash, a mathematician who received the Nobel prize in economics in 1994 for his work on game theory.
+Nash equilibria do not necessarily lead to the best outcomes for one, or even both, players.
+Moreover, for the games that will be analyzed in which players can only rank outcomes (""ordinal games"") but not attach numerical values to them they may not always exist.
+The Cuban missile crisis was precipitated by a Soviet attempt in October 1962 to install medium-range and intermediate-range nuclear-armed ballistic missiles in Cuba that were capable of hitting a large portion of the United States.
+A naval blockade , or ""quarantine"" as it was euphemistically called, to prevent shipment of more missiles, possibly followed by stronger action to induce the Soviet Union to withdraw the missiles already installed.
+A ""surgical"" air strike to wipe out the missiles already installed, insofar as possible, perhaps followed by an invasion of the island.
+Thus, the higher the number, the greater the payoff; but the payoffs are only ordinal, that is, they indicate an ordering of outcomes from best to worst, not the degree to which a player prefers one outcome over another.
+Both sides considered more than the two alternatives listed, as well as several variations on each.
+The Soviets, for example, demanded withdrawal of American missiles from Turkey as a quid pro quo for withdrawal of their own missiles from Cuba, a demand publicly ignored by the United States.
+Nevertheless, most observers of this crisis believe that the two superpowers were on a collision course, which is actually the title of one book describing this nuclear confrontation.
+They also agree that neither side was eager to take any irreversible step, such as one of the drivers in Chicken might do by defiantly ripping off the steering wheel in full view of the other driver, thereby foreclosing the option of swerving.
+Although in one sense the United States ""won"" by getting the Soviets to withdraw their missiles, Premier Nikita Khrushchev of the Soviet Union at the same time extracted from President Kennedy a promise not to invade Cuba, which seems to indicate that the eventual outcome was a compromise of sorts.
+But this is not game theory's prediction for Chicken, because the strategies associated with compromise do not constitute a Nash equilibrium.
+To see this, assume play is at the compromise position , that is, the U.S. blockades Cuba and the S.U. withdraws its missiles.
+This strategy is not stable, because both players would have an incentive to defect to their more belligerent strategy.
+Finally, should the players be at the mutually worst outcome of , that is, nuclear war, both would obviously desire to move away from it, making the strategies associated with it, like those with , unstable.
+Theory of Moves and the Missile Crisis Using Chicken to model a situation such as the Cuban missile crisis is problematic not only because the compromise outcome is unstable but also because, in real life, the two sides did not choose their strategies simultaneously, or independently of each other, as assumed in the game of Chicken described above.
+The Soviets responded specifically to the blockade after it was imposed by the United States.
+Moreover, the fact that the United States held out the possibility of escalating the conflict to at least an air strike indicates that the initial blockade decision was not considered final that is, the United States considered its strategy choices still open after imposing the blockade.
+As a consequence, this game is better modelled as one of sequential bargaining, in which neither side made an all-or-nothing choice but rather both considered alternatives, especially should the other side fail to respond in a manner deemed appropriate.
+In the most serious breakdown in the nuclear deterrence relationship between the superpowers that had persisted from World War II until that point, each side was gingerly feeling its way, step by ominous step.
+Before the crisis, the Soviets, fearing an invasion of Cuba by the United States and also the need to bolster their international strategic position, concluded that installing the missiles was worth the risk.
+They thought that the United States, confronted by a fait accompli, would be deterred from invading Cuba and would not attempt any other severe reprisals.
+Even if the installation of the missiles precipitated a crisis, the Soviets did not reckon the probability of war to be high (President Kennedy estimated the chances of war to be between 1/3 and 1/2 during the crisis), thereby making it rational for them to risk provoking the United States.
+There are good reasons to believe that United States policymakers did not view the confrontation to be Chicken-like, at least as far as they interpreted and ranked the possible outcomes.
+This is because world opinion, it may be surmised, would severely condemn the air strike as a flagrant overreaction and hence a ""dishonourable"" action of the United States if there were clear evidence that the Soviets were in the process of withdrawing their missiles anyway.
+On the other hand, given no such evidence, a United States air strike, perhaps followed by an invasion, would action to dislodge the Soviet missiles.
+In responding to a letter from Khrushchev, Kennedy said, ""If you would agree to remove these weapons systems from Cuba . . . we, on our part, would agree . . . to remove promptly the quarantine measures now in effect and to give assurances against an invasion of Cuba,"" which is consistent with Alternative since is preferred to by the United States, whereas is not preferred to in Chicken.
+As Robert Kennedy, a close adviser to his brother during the crisis, said, ""If they did not remove those bases, we would remove them,"" which is consistent with Alternative, since the United States prefers to but not to in Chicken.
+Finally, it is well known that several of President Kennedy's advisers felt very reluctant about initiating an attack against Cuba without exhausting less belligerent courses of action that might bring about the removal of the missiles with less risk and greater sensitivity to American ideals and values.
+Pointedly, Robert Kennedy claimed that an immediate attack would be looked upon as ""a Pearl Harbor in reverse, and it would blacken the name of the United States in the pages of history,"" which is again consistent with the Alternative since the United States ranks AW next worst a ""dishonourable"" United States action rather than best a United States victory in Chicken.
+If Alternative provides a more realistic representation of the participants' perceptions than Chicken does, standard game theory offers little help in explaining how the compromise was achieved and rendered stable.
+These are strategies in which players randomize their choices, choosing each of their two so-called pure strategies with specified probabilities.
+But mixed strategies cannot be used to analyse Alternative, because to carry out such an analysis, there would need to be numerical payoffs assigned to each of the outcomes, not the rankings I have assumed.
+The instability of outcomes in Alternative can most easily be seen by examining the cycle of preferences, indicated by the arrows going in a clockwise direction in this game.
+Again we have indeterminacy, but not because of multiple Nash equilibria, as in Chicken, but rather because there are no equilibria in pure strategies in Alternative.
+By postulating that players think ahead not just to the immediate consequences of making moves, but also to the consequences of countermoves to these moves, countercountermoves, and so on, TOM extends the strategic analysis of conflict into the more distant future.
+To be sure, game theory allows for this kind of thinking through the analysis of ""game trees,"" where the sequential choices of players over time are described.
+But the game tree continually changed with each development in the crisis.
+By contrast, what remained more or less constant was the configuration of payoffs of Alternative, though where the players were in the matrix changed.
+In effect, TOM, by describing the payoffs in a single game but allowing players to make successive calculations of moves to different positions within it, adds nonmyopic thinking to the economy of description offered by classical game theory.
+While the rules of TOM apply to all games between two players, here I will assume that the players each have just two strategies.
+Play starts at an initial state, given at the intersection of the row and column of a payoff matrix.
+Either player can unilaterally switch its strategy, or make a move, and thereby change the initial state into a new state, in the same row or column as the initial state.
+Player 2 can respond by unilaterally switching its strategy, thereby moving the game to a new state.
+The alternating responses continue until the player whose turn it is to move next chooses not to switch its strategy.
+When this happens, the game terminates in a final state, which is the outcome of the game.
+To assume otherwise would require that payoffs be numerical, rather than ordinal ranks, which players can accumulate as they pass through states.
+But in many real-life games, payoffs cannot easily be quantified and summed across the states visited.
+Moreover, the big reward in many games depends overwhelmingly on the final state reached, not on how it was reached.
+In politics, for example, the payoff for most politicians is not in campaigning, which is arduous and costly, but in winning.
+Rule l differs drastically from the corresponding rule of play in standard game theory, in which players simultaneously choose strategies in a matrix game that determines its outcome.
+Instead of starting with strategy choices, TOM assumes that players are already in some state at the start of play and receive payoffs from this state only if they stay.
+Based on these payoffs, they must decide, individually, whether or not to change this state in order to try to do better.
+Of course, some decisions are made collectively by players, in which case it is reasonable to say that they choose strategies from scratch, either simultaneously or by coordinating their choices.
+But if, say, two countries are coordinating their choices, as when they agree to sign a treaty, the important strategic question is what individualistic calculations led them to this point.
+The formality of jointly signing the treaty is the culmination of their negotiations and does not reveal the move-countermove process that preceded the signing.
+It is precisely these negotiations, and the calculations underlying them, that TOM is designed to uncover.
+Eventually they may arrive at a new state, after, say, treaty negotiations, in which it is rational for both countries to sign the treaty that was previously negotiated.
+As with a treaty signing, almost all outcomes of games that we observe have a history.
+TOM seeks to explain strategically the progression of states that lead to a outcome.
+Consequently, play of a game starts in an initial state, at which players collect payoffs only if they remain in that state so that it becomes the final state, or outcome, of the game.
+They move precisely because they calculate that they can do better by switching strategies, anticipating a better outcome when the move-countermove process finally comes to rest.
+The game is different, but not the configuration of payoffs, when play starts in a different state.
+While condition of this rule needs no defence, condition requires justification.
+It says that if it is rational, after P1 moves, for play of the game to cycle back to the initial state, P1 will not move in the first place.
+Backward Induction To determine where play will end up when at least one player wants to move from the initial state, I assume the players use backward induction.
+This is a reasoning process by which the players, working backward from the last possible move in a game, anticipate each other's rational choices.
+For this purpose, I assume that each has complete information about the other's preferences, so each can calculate the other player's rational choices, as well as its own, in deciding whether to move from the initial state or any subsequent state.
+United States starts | Survivor This is a game tree, though drawn horizontally rather than vertically.
+The survivor is a state selected at each stage as the result of backward induction.
+Hence, becomes the survivor when United States must choose between stopping at and moving to which, as I just showed, would become once is reached.
+Similarly, at the initial state, , because United States prefers the previous survivor, , to , is the survivor at this state as well.
+That is, after working backwards from S.U.'s choice of completing the cycle or not from , the players can reverse the process and, looking forward, determine what is rational for each to do.
+I indicate that it is rational for the process to stop at by the vertical line blocking the arrow emanating from , and underscoring at this point.
+S.U. starts | Survivor S.U., by acting ""magnanimously"" in moving from victory at BM to compromise at BW, makes it rational for United States to terminate play at , as seen by the blocked arrow emanating from state 2.
+This, of course, is exactly what happened in the crisis, with the threat of further escalation by the United States, including the forced surfacing of Soviet submarines as well as an air strike (the United States Air Force estimated it had a 90 percent chance of eliminating all the missiles), being the incentive for the Soviets to withdraw their missiles.
+Because it is less costly for both sides if the Soviet Union is the initiator of compromise eliminating the need for an air strike it is not surprising that this is what happened.
+To sum up, the Theory of Moves renders game theory a more dynamic theory.
+By postulating that players think ahead not just to the immediate consequences of making moves, but also to the consequences of countermoves to those moves, counter-countermoves, and so on, it extends the strategic analysis of conflicts into the more distant future.
+TOM has also been used to elucidate the role that different kinds of power moving, order and threat may have on conflict outcomes, and to show how misinformation can affect player choices.
+These concepts and the analysis have been illustrated by numerous cases, ranging from conflicts in the Bible to disputes and struggles today.
+He is the author or co-author of 13 books that involve applications of game theory and social choice theory to voting and elections, bargaining and fairness, international relations, and the Bible and theology.
+From Cake-Cutting to Dispute Resolution and The Win-Win Solution: Guaranteeing Fair Shares to Everybody , both co-authored with Alan D Taylor.

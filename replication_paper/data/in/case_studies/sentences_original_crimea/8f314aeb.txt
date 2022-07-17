@@ -1,0 +1,23 @@
+This article is part of a citizen-media data-analysis project, a collaboration between RuNet Echo and the Maryland Institute for Technology in the Humanities.
+Explore the complete article series on the All the Presidents’ Tweets page.
+In our previous posts, we've looked at the language distribution and the geospatial variety of the tweets in our six-million-strong data set.
+But one of the goals of our analysis was to delve deeper into the content from Twitter users in Ukraine and Russia in order to see how they were talking about the presidents of their countries.
+Thus, we filtered the tweets by “country code”—one of the many characteristics Twitter provides for each user as part of its metadata.
+While not every user chooses to specify their country on Twitter, the “country code” designation is still a reliable and transparent way to narrow down our huge pool of tweets to those that represent a meaningful sample of users based in our countries of interest.
+This is a much smaller amount of data than six million tweets, but it is more meaningful, since it represents a sample of Twitter users united by language, geography, citizenship and many other things.
+At the same time, comparing Ukrainian and Russian users tweeting about Putin and Poroshenko can yield some insights into how the conversation around the key political figures differs by country.
+To give our readers an overview of the Ukrainian and Russian discourse about the heads of states on Twitter, we decided to use word clouds.
+A word cloud is a simple, but effective graphic format that allows to visualize a text or, in this case, a collection of tweets containing text, as a cloud-like shape made of words, in which the size of each word indicates its frequency or importance.
+In our case, the size of each keyword reflects the frequency of the words in the tweets from each subset.
+We used a tool called Twarc Wordcloud to generate word clouds for the Ukrainian and Russian Twitter samples.
+Perhaps surprisingly, Ukrainian president Poroshenko features more heavily in tweets by Russian users during the fall of 2014 than his counterpart, Putin.
+Also used quite often is the verb “accused,” although it would require closer analysis of tweets to see who exactly was accusing whom, and of what—but certainly, plenty of accusations were flung both ways during the fall of 2014.
+Other words that featured often in the Russian sample include the names of some world leaders, like Obama and Assad, and historical figures, like Hitler and Stalin.
+Another set of terms features key events of the Ukrainian crisis, such as the MH17 tragedy, Crimea, and the G-20 summit.
+Words like “war,” “threat,” and “propaganda” are also prominent, indicating that Russian Twitter users seemingly talk quite often about both presidents in the context of the conflict and its political circumstances.
+Interestingly, Putin features more prominently in the Ukrainian Twitter sample discourse—a mirror opposite to the Russian discourse favoring Poroshenko.
+These indicate that the context for discussions of top political brass by Ukrainians is similar to that of Russians in our sample.
+The word “change” is also used fairly often, suggesting perhaps, some positive sentiments in the post-Euromaidan political discourse.
+In our next posts, we'll delve deeper into more comparative analysis of the tweets’ content.
+We'll also examine the network of users behind the tweets to better understand who is tweeting about the Russian and Ukrainian presidents.
+The data visualizations for this post were created by RuNet Echo contributor Lawrence Alexander.

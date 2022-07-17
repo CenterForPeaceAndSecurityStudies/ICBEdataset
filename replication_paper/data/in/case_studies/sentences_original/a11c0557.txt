@@ -1,0 +1,70 @@
+The essay concludes by acknowledging the rhetorical nature of interpreting scientific images and calling for a more rhetorically informed perspective of such ostensibly logos-driven images.
+There seems to be a developing consensus that the visual cues prevalent in advertising are most often pathos-driven, appealing to our emotional selves in their effort to sell a product.
+Remotely sensed images collected by overhead platforms such as satellites and airplanes have been studied by geographers , but have attracted surprisingly little attention from humanities scholars who study other types of logos-driven visual texts from a more rhetorical perspective.
+Remote sensing plays an increasingly important role in shaping a variety of policy decisions.
+Technological advances and relaxation of governmental controls have resulted in satellite imagery, in particular, that is of higher quality in terms of its increased resolution and timely collection, cheaper, and more widely available than ever before.
+On a daily basis, more and more information is being extrapolated or interpolated from remotely sensed images and used to influence policy decisions at the local, national, and international levels.
+Online resources such as Google Maps, Google Earth and Terraserver speak to the broad availability of the technology.
+But as remote sensing assumes an increasingly prominent role in our society, we must ask ourselves how meaning is constructed from these images, how they are read, and how they are potentially misread.
+It should be clear in the current era of digitization that photography is most often not a strictly objective medium, that it does not document incontestable, infallible freeze-frames of reality, that images are easily staged or divorced from their larger contexts.
+Increasingly, cynical consumers are keenly aware of the relative ease with which a model’s features can be enhanced, a political rival’s expression can be exaggerated, or a subject can be posed – or even placed in an entirely new setting.
+Advertisers, politicians, and the news media continually bombard us with images that have been either subtly or grossly tweaked, cropped, edited and/or otherwise manipulated.
+Satellite imagery really is no different from the more traditional photography of which many of us have become skeptical about consuming at face value.
+However, even without nefarious manipulations of content – which I do not think are a common problem facing remotely sensed images, yet – satellite images are unusually subjective texts that must be read, just as we might read a literary text, and are similarly prone to potentially quite divergent readings.
+Resolution, atmospheric conditions, collection angles, topography, and a spectrum of other factors from the physical world can influence how remotely sensed images are created and read.
+That assumption led to the accidental United States bombing of a Chinese embassy, despite the presumably sophisticated imagery available to the analysts responsible.
+While the logos-driven medium of remote sensing does construct meaning through subjective interpretive processes, the medium enjoys a certain empirical or scientific credibility.
+Worrisomely, remotely sensed images are largely exempt from the skepticism that is often used to query the meanings of more conventionally acquired images or other types of texts.
+Any deference to the authority of analysts of a scientific imaging system such as remote sensing is problematic because it denies the public the authority to fully examine decisions that are made based upon readings of that scientific imaging system.
+Throughout the history of Western science, the idea that science is a separate social realm, one unaffected by ideologies or politics, has been a central doctrine of the hard sciences.
+Scholarship in science studies of the last few decades has forcefully pointed out, on the contrary, that what science signifies depends on social, political, and cultural meanings, and what kind of science is practised and rewarded is a highly political issue.
+I too would like to point out that, as a science, remote sensing also is dependent upon social, political, and cultural influences in its construction of meaning from specific images.
+In 1962, United States Ambassador to the United Nations Adlai Stevenson made a presentation to the United Nations Security Council in which he exposed the covert Soviet effort to place nuclear missiles in Cuba.
+Stevenson’s presentation was based largely upon evidence gathered from remotely sensed images collected by the U-2 spy plane.
+During the crisis, a glut of corroborating evidence confirmed what photo interpreters at first only suspected.
+But in order to prove the Soviet placement of missiles in Cuba to the American public and to “the court of world opinion,” as Stevenson phrased it, the Kennedy administration released to the public its most tangible evidence of the nuclear threat, dozens of images gathered by U-2 spy planes.
+Not surprisingly, the credit for the United States intelligence coup was given over almost entirely to the U-2 photographs, erroneously establishing remote sensing as a purely “objective” or “honest,” not to mention omniscient and omnipresent, form of evidence.
+Articles accompanied by slick spreads of the U-2 photos appeared in Time, Newsweek, and dozens of smaller publications.
+The act of taking the photos is a refined science, but by conflating the taking of photos with the interpretation of photos and ignoring the subjectivity of interpretation, a dangerous assumption was established, an assumption explicitly articulated here by Newsweek.
+Some of the annotations indicate that the vehicles are “erector launchers” for “SS-4 medium range ballistic missiles,” “oxidizer tank trucks,” a “theodolite station for missile guidance,” and other menacing instruments of nuclear war.
+The photographs were presumably released by the United States government and printed by Newsweek in order to verify the Soviets’ actions in Cuba, but the equipment depicted was so specialized, and documented from such a unique perspective, entirely foreign to most people’s experience, that readers had no choice other than to take the government’s word – its reading of the photos – at face value.
+Significantly, by the end of the crisis, Khrushchev and the Soviets no longer publicly contested the American evidence, further bolstering the implication that remote sensing provided a categorically objective and incontestable perspective on the world.
+A U-2 spy plane photograph of a Soviet medium range ballistic missile site.
+A U-2 spy plane photograph depicting another Soviet missile launch site and associated heavy equipment.
+But, just as in the Newsweek article, the photos would have been virtually meaningless without the extensive captions and annotations, provided by the United States government, that explained the threats on the Cuban ground as the photo interpreters had seen them.
+Certainly, intelligence officers would have used specialized magnification equipment, mensuration tools, and identification keys to bring out the details in the photos, but as the photos were presented to the public they had little or no intrinsically discernible meaning.
+I do not think that it is surprising for Newsweek, Time, and other publications to have revered the new remote sensing technologies and assigned them an unquestionable scientific authority, given the magnitude of the larger crisis that had just been averted.
+The government’s release of reconnaissance photos and Time and Newsweek’s coverage of the photos were somewhat odd, in that the photos were offered as proof of the Soviet missiles, yet neither the media nor the public had the means to evaluate the photos independently.
+There is a disturbing irony in offering the public a set of evidence that is essentially unverifiable, an irony that would be repeated in 2003.
+A total of six of these images appeared in five PowerPoint slides during the presentation.
+Powell’s appearance before the United Nations Security Council shows us that the U.S. government’s public use of remotely sensed images has changed little over the past four decades.
+The photos once again contained highly technical, largely unexplained and publicly unverifiable annotations.
+It appears that, despite making such photos available, rather than serve as convincing evidence, these pictures demand that the public trust the government’s interpretation of events on the Iraqi ground.
+The four that are in red squares represent active chemical munitions bunkers.
+The two arrows indicate the presence of sure signs that the bunkers are storing chemical munitions.
+Slide 12 from Colin Powell’s PowerPoint presentation to the U.N. in February 2003, depicting alleged chemical munitions bunkers.
+Slide 13 from Colin Powell’s PowerPoint presentation to the U.N. in February 2003, depicting alleged deception by Iraqi forces at an alleged chemical munitions bunker.
+Because the logic behind the government’s readings of remotely sensed images was never revealed, buying into Powell’s argument remained an act of faith.
+The Bush administration’s assumption, or at least their public argument, seems to have been that pictures simply don’t lie.
+In retrospect, it appears that analysts, the administration, or both, rationalized what they saw in the photos to fit preconceived notions.
+Biological and chemical weapons programs for the most part can exist inside commercial buildings with no suspicious signatures.
+This means that we can gets piles of incredibly sharp photos of an adversary’s chemical weapons factories and still not know much about its chemical weapons programs.
+The Commission’s comment is in direct opposition to Powell’s U.N. presentation, in which he referred at least a half dozen times to “signs” or “signatures” on remotely sensed imagery in an attempt to prove the alleged Iraqi weapons of mass destruction activities.
+The problem with pre-war imagery analysis isn’t that no signs of W.M.D. activity were spotted, but that a whole host of activities were incorrectly assumed to be associated with W.M.D. programs.
+And the scientific status of remote sensing precluded any questioning of analysts’ or the Bush administration’s assumptions, at least within the federal intelligence bureaucracy.
+Powell’s United Nations presentation is, among other things, a somber reminder of what’s at stake when analysts or policy makers lose sight of the uncertainties inherent to remote sensing and overstate the possibilities depicted in individual pieces of imagery.
+It is a subtle distinction, but these types of qualifications were absent from Powell’s presentation, replaced entirely by false certainty.
+The distinction is perhaps indicative of a broader shift in analytical tactics, wherein analysts are pressured to produce a definite reading rather than a range of possible readings.
+Analytic ‘tradecraft’ – the way analysts think, research, evaluate evidence, write, and communicate – must be strengthened.
+In many instances, we found finished intelligence that was loosely reasoned, ill-supported, and poorly communicated.
+An acknowledgement that remotely sensed images are ambiguous enough to provide for a range of meanings might go a long way towards forcing analysts to re-examine their own arguments, and, ultimately, towards producing more accurate intelligence products.
+Kent continues his reflections, elaborating that When it came to photos of less obvious things than the aircraft and SAMs , all viewers but those indispensable middlemen, the photo-interpreters, had to take virtually everything on faith.
+Kent’s acknowledgement that, for all their scientific origins and appearance, the credibility of remotely sensed images depends upon the credibility of their purveyors is profound, especially so coming from a career intelligence professional.
+Despite the cutting-edge technology they exploit, making meaning from remotely sensed images is still fundamentally a rhetorical enterprise, governed by established rhetorical principles.
+But the idea that meaning is subjectively constructed from remotely sensed images should probably come as very little surprise to those of us who are experienced in working with literary texts and/ or more conventionally produced images.
+Perhaps what is unique about my position regarding remotely sensed images is my willingness to see these types of images as texts, as something that a human being must read before any meaning can be ascribed to it.
+Remotely sensed images are becoming more prolific and more influential daily, whether they are used to influence international policy or the local zoning commission’s development policies, and it seems valuable to recognize that the arguments drawn from remotely sensed images are open to a whole spectrum of questioning and counter-argument, despite their seemingly objective authority.
+At the very least, acknowledging that remotely sensed images (or any other scientific imaging systems, for that matter) are subjective texts empowers citizens and consumers to question professional image readings or to at least seek second opinions.
+At the risk of sounding hyperbolic, the correct and judicious reading of remotely sensed may have averted thousands or even millions of deaths in 1962, just as the incorrect and prejudicial reading of remotely sensed images in 2003 has, at least in part, led to the deaths of over 4,200 United States soldiers and untold thousands of Iraqi civilians.
+That contrast, if nothing else, makes a compelling case for approaching scientific images with a rhetorical critical lens.
+Nate Kreuter worked as an imagery analyst for the National Geospatial Intelligence Agency from 2002 to 2004.

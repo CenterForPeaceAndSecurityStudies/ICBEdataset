@@ -1,0 +1,156 @@
+---
+title: "Case Study:Cuban Missile"
+output: html_document
+date: '2022-05-13'
+---
+
+
+```{r, eval=T, echo=F, cache=F, results='hide', message=F}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+#library(pacman)
+library(googlesheets4)
+library(tidyverse)
+library(janitor)
+library(flextable)
+set_flextable_defaults(fonts_ignore=TRUE) #Warning: fonts used in `flextable` are ignored because the `pdflatex` engine is used and not `xelatex` or `lualatex`. You can avoid this warning by using the `set_flextable_defaults(fonts_ignore=TRUE)` command or use a compatible engine by defining `latex_engine: xelatex` in the YAML header of the R Markdown document.
+library(ftExtra)
+options(tidyverse.quiet = TRUE)
+options(gargle_oauth_email = TRUE)
+
+#install.packages('stargazer')
+#install.packages('kableExtra')
+#! sh: 1: pdflatex: not found
+#sudo apt-get install texlive-latex-recommended texlive-fonts-recommended
+
+#! LaTeX Error: File `letltxmacro.sty' not found.
+#sudo apt-get install texlive-latex-extra
+
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r pressure, echo=FALSE}
+library(googlesheets4) #Do this high up so you get the prompt early
+library(lubridate, warn.conflicts = FALSE)
+case_study_cuban <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1NuRWFB1HEbQbJu_JoEzJ9WYk7kfwwCryF7wBfKPT6uc/edit?usp=sharing", 
+                                sheet="Final") %>% janitor::clean_names() 
+dim(case_study_cuban)
+case_study_cuban$date <- case_study_cuban$date %>% lapply(FUN=function(x) { ifelse(is.null(x), "", x[[1]] %>% as.character() )   }   ) %>% unlist() %>% as.Date()
+
+case_study_cuban_clean <- case_study_cuban %>% 
+                          filter(!is.na(date)) 
+
+#https://davidgohel.github.io/flextable/reference/knit_print.flextable.html#chunk-options
+# NOTE: If one of the citations is degenerate this will throw an error when knitting that is annoying to track down. You have to remove cite by cite to see which one it is.
+set_flextable_defaults(fonts_ignore=TRUE)
+ft <- case_study_cuban_clean %>% flextable::as_flextable() %>% 
+  flextable::width( j = 2, width=2)  %>% 
+  flextable::width( j = 3, width=5) 
+ft
+
+ft  %>% saveRDS(paste0(here::here(), '/replication_paper/tables/cuban_case_study_ft_pnas.Rds'))
+```
+
+```{r, eval=F}
+
+lit_review_alt <- case_study_cuban %>% 
+                  mutate(Literature = paste0("[",Literature,"]")) %>%
+                  mutate(Concept= Concept %>% paste0(Literature)) %>%
+                  dplyr::select(-Codebook, -`Cameo Codes`, -`ICB Codes`, -Literature, -`ICB Corpus`) 
+                  #dplyr::filter(is.na(group))
+
+
+n=nrow(lit_review_alt)
+ft <- NULL
+ft <- lit_review_alt %>%
+      flextable::as_flextable() %>%
+      add_header( 
+                  #"ICB Corpus"="Corpus",
+                  "ICBe (us)"="Events Datasets",
+                  "Cameo"="Events Datasets",
+                  "MIDs Incidents"="Events Datasets",
+                  "UCDP-GED"="Events Datasets",
+                  "ICB"="Episodes Datasets",
+                  "COW"="Episodes Datasets",
+                  "MIDs"="Episodes Datasets",
+                  top = TRUE ) %>%
+
+      set_header_labels(
+        values = list("...1" = "" , "...2" = "" ) 
+        ) %>%
+      merge_h(part = "header") %>%
+  
+      #bg( i=1:(n) , j = condition, part = "body", bg = "#EFEFEF") %>%
+      #bg( i=2 , j = condition, part = "header", bg = "#EFEFEF") %>%
+      bg( i = which( 1:nrow(lit_review_alt) %% 2 == 1)  , j=3:ncol(lit_review_alt), part = "body", bg = "#EFEFEF") %>%
+      #width(j = 1, width=1.25) %>%
+      #width(j = 2:ncol(lit_review_alt), width=0.25) %>%
+      flextable::fontsize(size = 7, part = "all") %>%
+      flextable::rotate(i=2, rotation="tbrl",part="header") %>%
+      #flextable::set_header_labels( values = list(x1 = "", x2 = "")) %>%
+      flextable::align(align = "center", part = "body") %>%
+      flextable::align(align = "center", part = "header")   %>%
+
+      flextable::colformat_char(
+          j = 1:ncol(lit_review_alt),
+          na_str = "",
+          prefix = "",
+          suffix = ""
+      ) %>%
+
+      hline(i=c(1), j=3:ncol(lit_review_alt),  border = NULL, part = "header") %>%
+      hline(i=c(2,3,7,10,15, 19, 27), border = NULL, part = "body") %>% #,10,14, 20,27,37, n
+
+      #set_table_properties(layout="autofit")  %>%
+      vline( i = 1:2, j = c(1,2,3,7)+2, border = NULL, part = "header") %>%
+      vline( i = 1:(n), j = 1:2, border = NULL, part = "body")  %>%
+      vline( i = 1:(n), j = c(1,2,3,7)+2, border = NULL, part = "body") 
+  
+      #autofit()
+      #fit_to_width(max_width=12) #This is crazy slow
+      #flextable::autofit() 
+      #set_table_properties(width = 1, layout = "autofit")
+
+#https://cran.r-project.org/web/packages/ftExtra/vignettes/format_columns.html
+
+litreview_ft_pnas <- ft %>% 
+  flextable::width( j = 3, width=4) %>% 
+  flextable::width( j = (4):ncol(lit_review_alt), width=0.25) %>%
+  flextable::line_spacing( space = 0.5, part = "body") %>% #i=1:nrow(lit_review_alt),
+  flextable::padding(padding = 0, part = "body") %>%
+  #merge_v( j = 1,  part = "body", combine = T) %>%
+  #merge_v( j = 2,  part = "body", combine = T) %>%
+  #merge_h( i = 1:2,  part = "body") %>%
+  
+  merge_at(i = 4:7, j = 1:2, part = "body") %>%
+  merge_at(i = 8:10, j = 1:2, part = "body") %>%
+  merge_at(i = 11:15, j = 1:2, part = "body") %>%
+  merge_at(i = 16:19, j = 1:2, part = "body") %>%
+  
+  merge_at(i = 20:n, j = 1, part = "body") %>%
+  merge_at(i = 20:28, j = 2, part = "body") %>%
+  merge_at(i = 29:n, j = 2, part = "body") %>%
+  
+  #merge_v( j = 1,  part = "body", combine = T) %>%
+  
+  #merge_at(i = NULL, j = NULL, part = "body") %>%
+  #merge_at(i = NULL, j = NULL, part = "body") %>%
+  
+  flextable::rotate(j=1, rotation="tbrl",part="all") %>%
+  flextable::rotate(j=2, rotation="tbrl",part="all") %>%
+  flextable::width( j = 1:2, width=0.1)  %>%
+  ftExtra::colformat_md(j = 3, part="body")   #Make sure this goes last or it'll get overwritten by the colformat above
+      
+
+litreview_ft_pnas  %>% saveRDS(paste0(here::here(), '/replication_paper/tables/litreview_ft_pnas.Rds'))
+
+litreview_ft_pnas
+
+
+
+
+```

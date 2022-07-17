@@ -1,0 +1,311 @@
+Scholars have produced an empirically rich and theoretically diverse literature on the Cuban missile crisis.
+Not only can one trace the evolution of the crisis hour by hour,2 one can also read how participants and scholars reacted as key historical points were revealed for the first time.
+But little has been written about the intelligence aspects of the superpower nuclear standoff that blossomed in the fall of 1962.
+During the Cold War, the performance of intelligence organizations in the autumn of 1962 was shrouded in secrecy.
+Despite early interest in the role of intelligence during the crisis,"" the nuclear and diplomatic elements of the Soviet-American confrontation soon dominated popular and academic attention.
+The classic Cold War work on the crisis, Essence of Decision, even seemed to provide the final word on American intelligence performance.
+Given that this volume was also the standard introduction to organizational politics for students of international relations, questions about intelligence performance and organization were resolved before they were clearly raised.
+Today, the vast literature on the Cuban crisis, including a largely declassified American documentary record, offers some intriguing insights into the role of intelligence during the crisis.
+To draw these insights, this essay will be divided into three sections.
+The first section describes how the different strategic positions of Americans, Russians and Cubans shaped the intelligence challenges they faced in October 1962.
+The second section applies this framework to identify how the actors involved met the intelligence challenges posed by the crisis.
+Although this section does not provide a complete overview of the Cuban missile crisis, it will highlight some important intelligence aspects of the confrontation.
+The concluding section will offer a few observations about how each of the states involved met the intelligence challenges posed by the crisis and how these insights might help those interested in organizing for future crisis intelligence.
+THREE CRISES In the introduction to his essay on the role of Cuban intelligence during the crisis, Domingo Amuchastegui suggests that policymakers and citizens in different countries experienced rather different crises.
+If one views the crisis from both a structural and domestic political perspective, this observation also applies to assessments of crisis intelligence.
+In a structural sense, an intelligence organization's contribution to policy formulation is shaped by a state's position in a given strategic interaction.
+Cuban, American, and Soviet policymakers needed different intelligence assessments in the autumn of 1962 because of the different part their respective states played in the crisis.
+Similarly, a state's domestic structure, the overall way it is organized to conduct diplomatic and military initiatives, and the spirit that animates intragovernmental relations, all affect the potential contribution intelligence organizations can make in guiding crisis decision making.
+If few channels of communication exist between intelligence analysts and policymakers, or if policymakers do not value intelligence, it is unlikely that intelligence estimates will have much influence over state policy.
+When combined, these structural and domestic political constraints identify the key challenges that faced each state's intelligence community during the crisis.
+Challengers are states that have taken some initiative which is the proximate cause of an event intended to surprise an opponent.
+The Allies prior to the invasion of Normandy, Japan prior to Pearl Harbor, North Vietnam prior to the Tet offensive, and Egypt prior to the 1973 war are examples of states that attempted to surprise their opponents.
+Intelligence assessments can help challengers achieve surprise by identifying opponents' beliefs about their military and political weaknesses and strengths.
+This information would be especially useful in devising deception operations to mask preparations for a surprise initiative.
+Challengers would also benefit from intelligence estimates of the likelihood that targeted states might respond preemptively if their clandestine preparations to achieve surprise were detected, catching the challenger in an extremely vulnerable position.
+In other words, since the side seeking surprise is taking the initiative, intelligence assessments of the opponent seem superfluous ex ante.
+The victim of a failure of intelligence will dance to the tune of the side that achieves surprise; actors taking the initiative do not worry about estimates of future events because they plan on literally controlling the future.
+The rationale for attempting to achieve surprise often is based on the assumption that it will produce desirable future outcomes by eliminating an opponent's ability to oppose effectively one's political or military initiatives.
+Indeed, estimates of how an opponent will respond to some initiative are usually incorporated into the plan for surprise as justification for undertaking the overall operation.
+This sort of intermingling of estimates and planning often produces a variety of cognitive and bureaucratic barriers to effective policy-intelligence interaction.
+But the fundamental stumbling block to effective intelligence participation in the planning of a surprise initiative is that it requires the development of a net assessment.
+To predict an initiative's likelihood of success, analysts would have to estimate the outcome of a strategic interaction between intelligence challengers and defenders.
+Intelligence analysts are often unwilling to conduct this kind of analysis, however, because it deviates from their traditional focus on opponents' activities and might result in a critical assessment of their own state's foreign and military policies.
+Additionally, Aleksandr Fursenko and Timothy Naftali's overall description of the Komitet Gosudarstvennoy Bezopasnosti and Glavnoe Rasvedyvatel'noe Upravelenie's approach to intelligence suggests that Soviet intelligence was at a particular disadvantage in conducting this kind of net assessment.
+Soviet intelligence managers were more interested in reporting the results of clandestinely collected data (e.g., overheard remarks of gossiping United States officials) than the results of rigorous analytical assessments.
+Individuals rarely discuss their responses to events they do not anticipate; thus, if surprise is complete, or if the effort to achieve surprise fails disastrously, espionage agents will not detect indications of an opponent's response to a secret initiative.
+And even highly informed speculation about a defender's response to some future scenario can be highly misleading.
+Political conditions often undergo a profound transformation following surprise initiatives; military or diplomatic actions viewed ex ante as politically unsupportable become politically unstoppable in the aftermath of surprise.
+In the months leading up to American entry into World War II, for example, President Roosevelt adopted provocative policies toward Nazi Germany.
+He told disappointed British officials, however, that stronger American action would have to await an 'incident' that could be used to justify hostilities to Congress and the public.
+Ironically, when Americans turned decidedly belligerent following Pearl Harbor, Roosevelt no longer needed the Japanese attack as a pretext for war against Germany.
+The German declaration of war against the United States settled the issue.
+But the German action allowed Roosevelt to capture the political high ground by demonstrating America's defensive stance to an already enraged public.
+Defenders states seeking to avoid surprise by discovering their opponents' intentions before some surprise or fait accompli face a variety of challenges beyond the fact that their opponents will go to great lengths to mislead them about their initiatives.
+For example, states seeking surprise often are the weaker side in a conflict; without surprise as a military or diplomatic force multiplier, their initiatives are unlikely to succeed.
+Thus, the defender must reach the conclusion that challengers will actually undertake initiatives that appear extraordinarily risky and ill-conceived ex ante.
+Today, for instance, many Americans have a clear conception from film and books of the workings of Nazi concentration camps, but the reality of the camps was difficult for people to grasp quickly.
+When Judge Felix Frankfurter was first confronted with accurate evidence of the extent and nature of the Holocaust, he told Jan Karski, a Polish emissary who had escaped the camps, that he did not believe him.
+Bystanders states that are interested observers, allies, or opponents of challengers and defenders face the problem of estimating the actions of both challengers and defenders.
+Bystanders often have an interest in supplying information to one or even all the parties involved to influence the course of events.
+On the eve of Operation 'Barbarossa', the Nazi invasion of the Soviet Union, both American and British leaders warned Joseph Stalin that an invasion was imminent.
+Clients or weak states are especially interested in supplying information to their strong allies.
+Policymakers in weak states would be worried that in a pinch, stronger allies might consider abandoning them as some crisis makes the potential costs of an alliance highly salient to the patron.
+Indeed, a patron might even want to cultivate this fear because it would increase the leverage it can exert over a client.
+Thus, bystanders will be sensitive to influencing a patron's perception of the crisis to shape the patron's response to fit the needs of the client.
+In a sense, the client or small power would like to be the tail that wags the great power dog in a crisis; conversely, clients or bystanders must avoid the disaster of becoming the battleground in a great power confrontation.
+Domestic Challenges At a domestic level of analysis, Henry Kissinger linked leadership styles and associated government structures to 'the conjectural element of foreign policy the need to gear actions to an assessment that cannot be proved true when it is made'.17 For Kissinger, leaders' behavior and perceptions are shaped by their experiences as they rise to the top of governments, societal values, and the way governments are organized.
+These styles influence the formation and content of a state's foreign policies.
+Kissinger's categories are not theoretically elegant or even exclusive.
+In fact, it is difficult to escape the conclusion that his typology really only applies to three countries.
+When Kissinger identifies the bureaucratic-pragmatic leadership style and associated government organizations, he clearly has the United States in mind.
+Americans also believe that virtually any problem will yield to a solution.
+When some crisis does manage to make its way onto policymakers' agendas, according to Kissinger, they will divide it up into its constituent parts to solicit bureaucratic expertise.
+Leadership, under these circumstances, involves coordinating well-defined organizational outputs to fabricate a policy consensus.
+Moreover, once a problem receives consideration, policymakers will use all available assets to find an appropriate solution.
+Kissinger also notes that bureaucratic-pragmatic leaders often ignore the political history leading up to a crisis; instead, they pay more attention to the technical aspects of international issues.
+Americans, in Kissinger's view, tend to depict international disputes in black and white terms; they lack an appreciation for political nuance.
+Kissinger's description of an ideological style of leadership is meant to describe conditions inside the Soviet Union in the mid-1960s.
+In comparison with the bureaucratic-pragmatic leadership style, ideologues are less likely to value or attend to the personal convictions or histories of individual statesmen.
+In estimating an opponent's likely course of action, they will give more weight to 'objective factors' that make up the 'correlation of forces', the social and economic structure of opposing nations and the relative balance of military and political capabilities.
+Security cannot rest on the 'good will' of others, but only on a favorable correlation of forces.
+In ideological states that are heavily bureaucratized like the Soviet Union, ideology also bounds the range of bureaucratic debate and serves as the arbiter of organizational disputes.
+According to Kissinger, 'leaders rise to the top by eliminating sometimes physically, always bureaucratically all possible opponents.
+In other words, since succession is the concern of paramount importance, policymakers and bureaucrats will view crises with the goal of aligning with the domestic political faction or leader that 'wins' the crisis politically.
+Charismatic-revolutionary leaders here Kissinger is describing Fidel Castro 'are more interested in the future which they wish to construct than in the manipulation of the environment which dominates the thinking of the pragmatists'.20 David Koresh, one-time leader of the Branch Davidians, or Shoko Asahara, leader of the Aum Shinrikyo cult, are typical charismaticrevolutionaries.
+Because charismatics often experience enormous hardships and suffering on their rise to power, they become resigned to the fact that human suffering is an unavoidable part of political progress.
+Charismaticrevolutionaries often care little about traditional measures of power, but they are extraordinarily sensitive to internal challenges to their domestic political position.
+As the challengers in the crisis, Soviet intelligence analysts and policymakers needed to develop accurate estimates of the opponent's likely response to surprise and to validate the strategic assumptions behind the decision to place missiles in Cuba.
+Intelligence organizations had to achieve these objectives, however, in a policymaking environment influenced by an ideological leadership style.
+Efforts to avoid adopting a strategy based on wishful thinking (i.e., the idea that the opponent will act in a way that facilitates one's plans) have domestic political implications under these circumstances because they might call into question the effectiveness of the dominant leader or faction.
+Indeed, gaining access to the leadership itself produces immediate implications for succession politics.
+They also had to recognize what amounted to an extraordinary Soviet initiative before it became a fait accompli.
+Given their bureaucratic-pragmatic leadership style, one would expect that Americans would do well with monitoring the technical aspects of the crisis, but would fail to grasp the political nuances of the Soviet decision to deploy missiles to Cuba.
+Additionally, to avoid intelligence failure, American analysts and policymakers needed to avoid their penchant for developing a consensus estimate on Soviet activities in Cuba.
+In other words, it is unlikely that all observers would agree that the Soviets had undertaken such an extraordinary and risky enterprise without perfect information about events in Cuba.
+To succeed, Americans would have to act before Soviet intentions and actions became a fait accompli.
+Cubans bystanders in the conflict needed to develop accurate estimates of both Soviet and American actions in the crisis.
+Cuban estimates also had to support efforts to forestall Soviet abandonment when their alliance was tested by crisis.
+In terms of domestic impediments, Cuban intelligence organizations faced a Herculean task of penetrating Castro's mindset.
+As a revolutionary at the peak of his fame and political fortunes, Castro rarely sought counsel outside of a small circle of trusted comrades.
+The framework also highlights a series of 'non-events' that might otherwise be overlooked in discussions of the intelligence aspects of the crisis.
+Intelligence success, for instance, might be linked to standard operating procedures that simply worked as intended.
+Enormous pitfalls identified by the framework might, in practice, be avoided by rather mundane organizational procedures.
+The Caribbean Crisis Just hours before President Kennedy gave his televised address on 22 October 1962 announcing the presence of Soviet medium and intermediaterange missiles in Cuba, Secretary of State Dean Rusk called on Soviet Ambassador Anatoly Dobrynin to deliver a copy of the President's speech and a letter from the President to Nikita S Khrushchev.
+Rusk noted that he was not instructed to add any comments, but he wanted to say informally that it was incomprehensible to him how leaders in Moscow could make such a gross error of judgment about what was acceptable to the United States.
+Years later, Rusk noted that Dobrynin was so shaken by the news that he aged ten years right before his eyes.
+The Soviet Ambassador to the United States was unaware of his country's initiative in Cuba,27 but he was the first Soviet to learn of the greatest intelligence failure to befall his country since the Nazi invasion of 1941.
+The answer can be found largely in a policymaking process in which far too much power was in the hands of far too few people and an environment in which those responsible for devising a plan were also responsible for estimating its chances for success.
+Although current Russian concerns about secrecy might be responsible for an absence of information about intelligence matters during the Caribbean crisis, there is little evidence that Soviet intelligence organizations had much to do with planning the missile deployments.
+Ideas vary about when Khrushchev first conceived of deploying Soviet nuclear-armed missiles to Cuba.
+But Khrushchev's idea began to take the form of a proposal by mid-May 1962.
+He apparently discussed the initiative with Anastas Mikoyan, First Deputy Prime Minister, who argued that Americans would view the deployment as a provocation, and Foreign Minister Andrei Gromyko, who suggested that the deployment would cause a 'political explosion' in the United States.
+Mikoyan again objected to the proposal on the grounds that Castro would not accept the missiles and that the Americans would detect them before they were completely deployed.
+Khrushchev decided that these objections could be met if Castro's permission was secured in advance and if a clandestine military mission conducted a reconnaissance in Cuba to determine the prospects for secretly deploying the missiles.
+In another meeting later in May, Aleksandr Alekseev, selected to become the new Soviet Ambassador to Cuba, and candidate Presidium member Sharaf Rashidov joined Khrushchev's ad hoc group.
+When Alekseev expressed doubts that Castro would accept the missiles, Khrushchev said that it was important to find an effective way to deter an impending American invasion of Cuba and that conventional aid to Castro might not be sufficient.
+Khrushchev stated that faced with a fait accompli of secretly installed missiles, pragmatic Americans would not take any irrational risks and would follow the Soviet lead and simply learn to live with the nuclear threat.
+Several observations can be made about these Soviet deliberations to present the Kennedy administration with a fait accompli in Cuba.
+First, virtually no references exist in the literature on the crisis, or in the remarks offered by the Soviets who participated in conferences on the crisis, about the contributions made by the KGB or GRU in deliberations about the missile deployments.
+During the 1987 Cambridge conference, for example, Ernest May asked where Khrushchev received his information and analysis about the United States.
+Fyodor Burlatsky noted that Khrushchev 'probably' would have consulted Ambassador Dobrynin and Oleg Troyanovsky, a noted American specialist, although Mikoyan quickly added that Dobrynin could not have been consulted because he was not informed about the deployments.
+The exact bureaucratic affiliation of these individuals, however, remains unclear.
+But, it is unlikely that this kind of sensitive analysis would be conducted in the United States, especially when the local ambassador was uninformed about the purpose of the analysis, namely, to estimate the possible American response to Soviet missile deployments in Cuba.
+By contrast, Khrushchev's fear of an impending American invasion of Cuba probably was based on his own reading of recent events, for example, the American-backed Bay of Pigs invasion.
+Fursenko and Naftali note, however, that the KGB was tasked to discern the Kennedy administration's attitude toward Cuba in the aftermath of the Bay of Pigs invasion and that Soviet intelligence had some success in discerning American attitudes.
+They note that KGB and diplomatic reporting suggested that a United States invasion of Cuba was unlikely in the spring and summer of 1962.
+Senior officials in the Kennedy administration have repeatedly stated that despite military plans, exercises and clandestine activities, the administration never entertained the political decision to invade Cuba before the missile crisis.
+It is difficult to avoid the conclusion that if Soviet leaders believed in the spring or summer of 1962 that a United States invasion of Cuba was likely, then their beliefs were based on an impressionistic assessment of recent events, not on what the KGB was able to discover about American intentions toward Cuba.
+Second, while there is agreement that a sort of 'collegiaP decisionmaking style was practiced in the Kremlin in the early 1960s, Khrushchev was clearly primus inter pares.
+According to Burlatsky, 'In '62, Khrushchev had the biggest authority during all his time in power.
+Although Khrushchev was clearly able to manipulate this decisionmaking process to enhance his short-run interests, the lack of any institutionalized constraints on his maneuvering proved counterproductive.
+For example, Khrushchev apparently was able to ignore Mikoyan's and Gromyko's contradictory advice when it was privately delivered.
+For that matter, neither Mikoyan nor Gromyko was apparently able to secure intelligence analysis or support to bolster their expert opinions about the deployments.
+When reservations emerged during the May meeting of Khrushchev's ad hoc group about Castro's willingness to accept the missiles and the likelihood that they could be deployed clandestinely, Khrushchev responded by mollifying his critics, not addressing the fundamental flaws in his plan.
+In this sense, the Soviet delegation to Havana was more than just a fact-finding mission; it served to blur the distinction between political reservations and technical concerns about the military feasibility of the initiative.
+The clandestine mission to Havana resolved the political reservations about Castro, but it also gave the task of assessing the feasibility of secretly deploying missiles to Marshal Biryuzov, a supporter of the deployment.
+When combined, the achievement of one necessary condition for success , masked the fact that only a positive estimate of another necessary condition for success was available.
+Khrushchev outmaneuvered his opponents, but at the price of abandoning a realistic assessment of his initiative.
+No mention is made by any primary or secondary source on the crisis of an independent Soviet intelligence assessment of the likely American response to the missile deployment.
+Third, several logical inconsistencies emerge in the justifications Khrushchev and his colleagues provide for the missile deployment.
+These inconsistencies appear to be produced by a pervasive cognitive failure to perceive value tradeoffs, the opportunity costs that accompany all human activity.
+America would respond in a way that fit the expectations of the Kremlin.
+Khrushchev was both scared and angered by America's forward deployed missiles; he wanted to give the United States a taste of its own medicine.
+Khrushchev failed to realize that he was willing to undertake great risks in response to the perception that his adversary had undertaken a gratuitously provocative operation.
+Ironically, he argued that Americans would respond in a risk-averse manner to what could be viewed by non-Soviet observers as a gratuitous provocation, even though the Soviets were responding vigorously to a similar insult.
+In sum, Soviet policymakers failed to overcome the intelligence hurdles created by their role as challenger in the Caribbean crisis.
+Honest intelligence assessments of the likely American reaction to their missile deployments were never undertaken; wishful thinking, the idea that opponents will somehow cooperate in their own demise, substituted for intelligence estimates.
+Moreover, the Soviet decision making style exacerbated the structural challenges faced by the Soviet leaders.
+Khrushchev delivered a virtuoso performance in political infighting, but bureaucratic success came at the price of a logical assessment of the Soviet initiative.
+The Soviets simply forgot that the sauce that is good for the goose is also good for the gander.
+Although the American intelligence community, with one notable exception, failed to predict that the Soviets would place missiles in Cuba in fact just weeks before the crisis, the CIA's Special National Intelligence Estimate 85-3-62 predicted that the Soviets would not place missiles in Cuba"" it succeeded in detecting and identifying the missiles in time to allow American leaders to take the initiative to obtain their removal.
+The intelligence community also provided timely reports on the technical capabilities of the weapons deployed to Cuba.
+Indeed, when the performance of American intelligence is explored from both its structural position as defender and its bureaucraticpragmatic orientation, several unique observations emerge about the role of the United States intelligence community during the crisis.
+Attempting to surprise the Castro regime with a 'covert' CIA-backed emigre invasion, Americans, in their role as intelligence challengers, failed to anticipate the likely outcome of their initiative.
+There was no really detached body of experts giving a critical evaluation as to the chances of success and failure.
+It was essentially the same group of people processing the intelligence, planning the operation, 'selling' the project to the policy makers, and directing the final effort.
+Morale in the intelligence community apparently plummeted in the aftermath of the Bay of Pigs disaster.
+The fiasco seemed to highlight CIA Director Allen Dulles's inability or unwillingness to bring coherent management not only to the CIA's three separate Directorates, but also to direct and rationalize a sprawling United States intelligence community.
+Inadequacies in community management became increasingly apparent as analysts, community managers and service representatives struggled to adjust to revolutionary developments in technical collection (e.g., spy satellites and other reconnaissance systems) that were coming on line by the early 1960s.
+McCone, a staunch anti-communist and former Chairman of the Atomic Energy Commission, had a reputation as a forceful, demanding, yet openminded administrator.
+McCone was a CIA outsider and intelligence 'amateur'; unlike his predecessor, he spent World War II not in the Office of Strategic Services, but in organizing and managing war industries.
+Armed with a forceful letter of authorization from the president,46 he reasserted the DCI's position as the overall manager of the intelligence community.
+To free himself from becoming too involved in the day-to-day management of the CIA, he instituted what were known as the McCone reforms to manage the Agency's competing Directorates at a level below the DCI.47 McCone also believed that covert operations had been given too much emphasis by his predecessors; he wanted to boost the intelligence community's analytical contribution to policy formulation.
+On the one hand, he would have to make sure that the intelligence community did not become committed to an 'institutional' perspective on Cuba that would preclude debate the kind of problem that bedeviled the Bay of Pigs operation.
+On the other hand, if McCone waited until a convincing and complete intelligence consensus on developments in Cuba emerged, the USSR could present the United States with a fait accompli.
+By July 1962, CIA analysts, relying on reports from intelligence agents in Cuba, Cuban refugees, U-2 aerial photography and routine shipping intelligence, noted that significant amounts of Soviet conventional military hardware were arriving in Cuba.
+Almost immediately, DCI McCone began warning senior officials that the Soviets might be placing Medium Range Ballistic Missiles in Cuba.
+On 10 August 1962, McCone updated key members of the Kennedy administration (e.g., McGeorge Bundy, the President's Special Assistant for National Security Affairs, Secretary of State Dean Rusk, Chairman of the Joint Chiefs of Staff General Maxwell Taylor, Secretary of Defense Robert McNamara, Deputy Undersecretary of State U Alexis Johnson, and Deputy Undersecretary of Defense Roswell Gilpatric) about developments in Cuba and raised the possibility that the Soviets might send MRBMs to the island.
+On 21 August, McCone's intelligence brief prompted virtually the same group of officials to begin discussing United States options (a blockade of Cuba, 'drastic action' against suspected missile sites) following Soviet MRBM deployments and likely Soviet responses (pressure on Berlin, 'drastic action' against United States missile sites in Turkey).52 On 22 and 23 August, prior to departing for a one-month European honeymoon, McCone again delivered a series of briefings on Cuban developments.
+With President Kennedy, McCone discussed the difficulty of distinguishing Soviet surface-to-air missile sites from MRBM sites; the President requested CIA analyses of the threat posed to the United States and Latin America by 'missile' deployments in Cuba and asked if an air or ground operation would be necessary to destroy Soviet missiles there.
+In meetings with senior Kennedy advisers and members of the Russell and Vinson congressional subcommittees, McCone suggested that an extensive SAM network in Cuba could help conceal MRBM deployments.
+McCone had all along said that the Russians were not putting in antiaircraft missiles just for the fun of it: they were putting them in to defend something, and that was missile capability or something of that sort.
+What was wrong was that it did not consider the nature of Soviet military production.
+One might also add that in the aftermath of the Bay of Pigs, SA-2 deployments could reasonably be explained as a product of Soviet and Cuban expectations of an American invasion of Cuba.
+The SAM deployment, as Fursenko and Naftali note, was for the purpose of air defense, and was not related to the Soviet decision to deploy MRBMs to Cuba.
+During his European vacation, McCone, in cable exchanges with acting DCI Lt General Marshall S Carter, continued to fret about the possibility of MRBM deployments in Cuba.
+On 25 August and 7 September he urged Carter to obtain permission for low-level overflights of Cuba.
+McCone's request for low-level reconnaissance, however, was sidetracked by two setbacks to the U-2 program.
+On 7 September 1962, the Soviet Union protested a U-2 overflight of Sakhalin Island, and on 8 September the People's Republic of China downed a 'Taiwanese' U-2.59 These incidents, and the Kennedy administration's concerns about the political consequences of U-2 overflights of Cuba, not only led to modifications in aerial reconnaissance of the island, but also prompted McCone to explain his estimates of Cuban developments.
+Appears to me quite possible that measures now being taken [SAM deployments] are for purposes of insuring secrecy of some offensive capability such as MRBMs to be installed by Soviets after present phase completed and country secured from overflights.
+I recognize Cuban policy decision most delicate and beyond Agency or my competence.
+However believe we must give those making decisions our best estimate of possible developments and alternative situations which might evolve and unexpectedly confront us.
+McCone was suggesting that the Soviets had created a situation in which it was now possible to surprise the United States by secretly deploying MRBMs in Cuba.
+As an intelligence amateur, McCone had not embraced analysts' empirical bias.
+Unlike analysts, who were primarily interested in describing observed developments and their immediate military or diplomatic impact, McCone was willing to speculate about what known 'facts' meant about Soviet objectives in Cuba.
+McCone apparently reasoned that since the SAM network would have the effect of masking potential MRBM deployments, the Soviets were probably deploying MRBMs in Cuba.
+McCone also appears to have engaged in mirror-imaging (using one's own values, procedures, goals etc., to account for the behavior of others) to explain what the Soviets were doing.
+On 19 September 1962, the CIA issued Special National Intelligence Estimate 85-3-62, which predicted that because of the inherent risks involved, the Soviet Union would not place offensive weapons in Cuba.
+As Garthoff notes, this estimate remains the source of much irony to the present day.
+But what is particularly interesting about this inaccurate prediction which was intended to reflect the intelligence community's consensus about Cuba was that it did not preclude development of an accurate estimate of Soviet initiatives before they became a fait accompli.
+The intelligence community somehow avoided allowing debate over the Cuban estimate from deteriorating into open bureaucratic warfare, while at the same time the 'consensus' on Soviet activity in Cuba was also allowed to continue to evolve.
+DCI McCone deserves credit for allowing SNIE 85-3-62 to contain conclusions that clearly contradicted his views.
+One might argue that McCone could not really alter SNIE 85-3-62 on the basis of just a hunch; but it must have been difficult for him not to use his authority to stop the Agency from issuing an estimate which contradicted views that he already communicated to the NCA and Congress.
+If McCone had interfered in the SNIE in a heavyhanded way, however, analysts would have objected to what inevitably would have been viewed as politicization of their estimate.
+In other words, BNE analysts might have suspected that McCone was acting for Kennedy administration officials to deliberately shape intelligence products to fit political preferences.
+For their part, analysts involved in drafting SNIE 85-3-62 also deserve credit for not defending what turned out to be a flawed estimate.
+Almost immediately after its publication, CIA analysts received credible eyewitness reports of military convoys delivering missiles to a large area in Pinar Del Rio Province that had been secured by Soviet troops.
+The missiles described by these witnesses seemed to match the characteristics of SS-4 MRBMs.
+By 3 October, analysts had developed what amounted to a priority request for photographic coverage that was used to direct the 14 October overflight of western Cuba which discovered an MRBM site near San Cristobal.
+Again, the fact that analysts avoided the obvious urge to defend their recently published estimate by ignoring discrepant information is no small accomplishment.
+At a crucial juncture, then, both McCone and Agency analysts worked together, albeit without any deliberate orchestration, to lift the veil of secrecy surrounding Soviet activities in Cuba.
+Indeed, this final push to get to the bottom of events in Cuba came without a moment to spare.
+By early September, McCone's worst fears about the SAM network in Cuba were coming true.
+Kennedy administration officials placed restrictions on U-2 overflights of Cuba, which temporarily eliminated photographic coverage of key portions of the island.
+The Kennedy administration was conducting quiet negotiations with the Castro regime to gain the release of the Cuban emigres captured at the Bay of Pigs; overflights might have threatened those negotiations.
+The administration was also concerned about a public perception that overflying Cuba was gratuitously provocative.
+Kennedy officials believed that a public outcry against reconnaissance missions might erupt, especially if some flight culminated in a mishap reported in the world press.
+Following the loss of a 'Taiwanese' U-2 over the People's Republic of China, confidence in the survivability of the U-2 was low.
+To overcome these political concerns about renewed reconnaissance of Cuba, however, McCone had to be armed with more than just a hunch about events on the island.
+Intelligence collection requirements, now justified by analysis of reports that the Soviets might be deploying MRBMs in Cuba, supplied McCone with the ammunition needed to renew U-2 reconnaissance.
+At 11:45, 16 October 1962, Acting DCI Carter, Director of the National Photographic Interpretation Center Art Lundahl, and Sidney Graybeal told the National Security Council that U-2 photography indicated that the USSR was deploying MRBMs in Cuba.
+In a sense, analysts' ability to prevent a Soviet fait accompli is largely a story about non-events, a story about mistakes that never happened.
+In the aftermath of the Bay of Pigs fiasco, the United States intelligence community, especially DCI McCone, apparently felt a special responsibility to improve the quality of their analysis and reporting of events in Cuba.
+Analysts produced highly conservative estimates following the Bay of Pigs, but this tendency to report only the facts without embellishment was counteracted by McCone's willingness to speculate about Soviet intentions in Cuba.
+McCone confronted both policymakers and analysts with his concerns, which produced a highly productive exchange.
+McCone forced policymakers to confront the most unsettling implications of Soviet activity in Cuba, while he encouraged analysts to justify their estimates and to disconfirm his suspicions that the Soviets were placing MRBMs on the island.
+Without the backing of his own intelligence community, McCone repeatedly confronted the Kennedy administration with evidence that its Cuban policies might backfire disastrously.
+Simultaneously, he avoided the temptation to use his role as DCI to shape estimates to suit his hunches.
+In the summer and fall of 1962 there was just enough danger in the air to prevent secondary personal, bureaucratic, and political concerns from getting in the way of discerning what the Soviets were doing in Cuba.
+The October Crisis During the October crisis, the Cuban intelligence community faced three challenges.
+First, as Domingo Amuchastegui notes, Cuban intelligence was making the transition in 1962 from a counterintelligence service that guarded a revolutionary movement from internal enemies to a community capable of monitoring a superpower confrontation over Cuba.
+Under these circumstances, anticipating the potential for disaster in the fall of 1962 was a great accomplishment.
+After all, Soviet intelligence and political leaders, who had both the initiative and the benefit of mature institutions, failed to anticipate how their policies toward Cuba would precipitate a superpower confrontation.
+Second, to protect Cuba's interests during the October crisis, Cuban intelligence had to guard against becoming a pawn of their great power patron and even to attempt to manipulate Soviet policy to suit Cuban interests.
+In other words, even though Christ never consulted the disciples, Cuban intelligence analysts now faced the task of offering advice to a successful revolutionary at the peak of his fame and fortune.
+On balance, the revolutionary atmosphere in Cuba"" not some flawed intelligence estimate would ultimately prevent the Cuban intelligence community from fully overcoming the challenges it faced during the crisis.
+According to Amuchastegui's account, the Cuban intelligence community, relying heavily on assistance from Soviet and Warsaw Pact intelligence organizations, was developing a capability to conduct independent intelligence analysis by 1962.
+This effort at independent analysis, however, was undermined in the aftermath of the Escalante affair of March 1962.
+As a charismatic-revolutionary leader in the process of consolidating his hold on power, Castro was clearly sensitive to both internal and external threats.
+Castro responded to this challenge by literally embracing the Soviets; in April 1962, according to Amuchastegui's account, Castro dispatched a senior delegation of Cuban revolutionaries to Moscow to demonstrate both the Revolution's loyalty to Castro and its interests in working with the Soviet Union.
+But he still must have been wary of individuals and institutions that remained well connected to Moscow.
+On the one hand, PSP supporters individuals who could be counted on to parrot the party line from Moscow were removed from the Cuban intelligence community, boosting its professionalism and its ability to conduct independent analysis.
+On the other hand, since the Cuban intelligence community was heavily reliant on technical and analytical support from the Warsaw Pact, Castro kept a watchful eye on his own intelligence analysts and officials lest they grow too friendly with the Soviets.
+Castro even maintained personal contacts with intelligence analysts and operatives in an apparent effort to retain an independent appreciation of the mood within his intelligence community.
+The fact that Castro was willing to embrace the Soviet Union to preclude internal challenges to his position explains some of his reaction to Cuban intelligence estimates during the October crisis.
+Castro rejected these Cuban estimates, according to Amuchastegui, because they conflicted with his own estimate of the situation.
+But he also warned Cuban intelligence officials not to discuss their analytical differences with their Soviet counterparts.
+This order not only prevented professional collaboration, which could threaten Castro's hold on power, but it also prevented the emergence of a point of contention between Havana and Moscow.
+Similarly, Castro's willingness to accept MRBM deployments as Cuba's contribution to socialism might also be interpreted as simply a manifestation of his eagerness to cooperate with Moscow for his own domestic political purposes.
+By September 1962, Castro's acceptance of the Kremlin's view of the American threat to his regime and his tendency to keep his own counsel were setting the stage for a major intelligence disaster.
+Instead of positioning Cuba to manipulate its superpower patron, Castro was no longer receiving assessments of the strategic situation from a Cuban perspective.
+Castro did not inform Cuban intelligence about the plan to deploy MRBMs.
+In June 1962, Castro even ordered Manuel Pineiro Losada, the Director of Cuban Intelligence, not to assess the impact of Soviet military deployments in Cuba.
+In mid-September 1962, analysts produced a highly perceptive estimate that warned that Cuba could be dragged into a superpower war if the United States came to perceive Castro's regime as a Soviet proxy in the Cold War.
+Soviet deployments in Cuba would bring about the very turn of events they were intended to deter, a disastrous war with America.
+Pineiro, however, refused to present this assessment to the Cuban leadership because it would contradict Castro's thinking.
+In fact, just days before the October crisis erupted, Pineiro was still not willing to admit to his intelligence analysts that the Soviets were deploying MRBMs in Cuba.
+Pineiro clearly understood that Castro did not seek the intelligence community's advice when it came to receiving military aid from the Soviet Union; he would not bring the emperor bad news.
+Between 16 and 18 October, Cuban intelligence delivered a final 'precrisis' estimate of the United States response to the Soviet buildup in Cuba.
+According to Amuchastegui, the report stated that the United States would strike preemptively to eliminate the Soviet threat developing in Cuba.
+Pineiro passed this estimate to Castro, who now seemed to recognize the enormous and immediate risk entailed in accepting Soviet MRBM deployments on Cuban soil.
+Castro used this report to urge Soviet commanders to shoot down American reconnaissance aircraft overflying Cuba in an apparent effort to preserve the secrecy of Soviet MRBM deployments.
+But, by 16 October, the ability of the Cuban intelligence community or Fidel Castro to influence events was diminishing rapidly.
+There was little Castro could now do to avoid the Soviet-American confrontation brewing over Cuba.
+Although Cuban intelligence analysts failed to anticipate how quickly the Soviets would abandon their Cuban clients to their fate during the October crisis, they did anticipate the enormous risks posed by Soviet MRBM deployments in Cuba.
+Cuban analysts, however, faced an enormous challenge in attempting to warn Castro's regime about the impending threat to their country.
+Not only did Castro seek his own counsel, he had also embraced a 'Soviet view' of the strategic situation.
+In other words, Cuban analysts not only had to persuade Castro to listen to them, they had to persuade him that he had made a major error by blindly accepting Soviet strategic assumptions.
+Once Castro had given up Cuban independence, Cuban intelligence faced a hopeless battle in trying to preserve Cuba's room for maneuver and ability to manipulate its Soviet patron.
+Given the varied strategic and domestic political situations faced by the Soviet Union, the United States, and Cuba in the autumn of 1962, it is difficult to generalize across the cases explored in this analysis.
+Still, it is possible to venture three conclusions about the performance of intelligence organizations during the crisis.
+Nevertheless, the virtual absence of any intelligence contribution to the Soviet and Cuban policymaking process leading up to the crisis is astounding.
+But Soviet and Cuban intelligence analysts never had the opportunity to share their insights with policymakers for the simple reason that policymakers never asked for their analytical input.
+In subtle and sometimes not so subtle ways, intelligence analysts and managers were clearly told that analyses that conflicted with the preferences of policymakers were not welcome.
+Cuban analysts, sensing that their nation was facing catastrophe, attempted to break through the barrier erected by Fidel Castro, but were stopped in their efforts by senior Cuban intelligence officials.
+Second, on the issue of missiles in Cuba, the relationship between the US intelligence community and the Kennedy administration was highly constructive and successful.
+As Garthoff notes, Americans never understood the political factors that led to the Soviet-American confrontation over Cuba, but this did not prove to be a critical impediment to detecting Soviet missile deployments.
+Instead, policymakers and intelligence analysts, led by DCI McCone, conducted a serious and protracted debate about events in Cuba, all the while avoiding the political, bureaucratic and personal acrimony that often bedevils interaction between policymakers and members of the intelligence community.
+Maybe the American intelligence community was simply well suited to detecting the Soviet military deployment in Cuba; after all, detecting the exact nature of Soviet activity on the island was primarily a technical intelligence problem addressed by technical collection methods.
+But it is equally likely that the Bay of Pigs fiasco highlighted the need for American officials and analysts to work together to avoid another disaster in Cuba.
+McCone's willingness to stand above the political and bureaucratic fray, and maybe even to risk ridicule to protect the interests of the President, also contributed greatly to the American intelligence success during the Cuban missile crisis.
+Third, sound analytical work, not some intelligence coup produced by espionage, was the key to the successes of the Cuban and American intelligence communities.
+Although Americans benefited from myriad collection methods and data, only a rigorous and sustained analytical effort produced timely warning of Soviet missile deployments.
+Similarly, Cuban analysts, probably using deductive reasoning, began sounding warnings that the Castro regime was headed for disaster.
+Maybe Khrushchev and his policymaking entourage understood the Soviet intelligence community's limitations in supporting an intelligence challenger; this might offer an explanation of Khrushchev's decision to serve as chief intelligence analyst for the Soviet Union.
+At a time when excitement about the 'information revolution' is increasing, the idea that a torrent of data can serve as a substitute for quality analysis is clearly misguided.
+Only through analysis can one hope to recognize an unprecedented event before it becomes an historical fact.
+An ever growing data flow also places an ever increasing premium on high quality analysis; more, not less, analytical effort will be needed to separate the wheat from the chaff.
+Additionally, anything that places a barrier between the process of intelligence analysis and the pervasive bureaucratic ramifications that often accompany intelligence estimates is likely to improve the quality of intelligence support to policymakers.
+Finally, whether one attributes John McCone's foresight to dumb luck, cognitive flaws, or genius, he turned in a virtuoso performance as the NCA's chief intelligence officer.
+The DCI should continue to serve in this dual capacity because ultimate responsibility and authority for intelligence needs to rest with one person but it also is unlikely that any individual could ever fully undertake both jobs.
+Although McCone apparently never delegated his managerial duties, he concentrated on his analytical duties.
+He served as a bridge between the policy concerns of the Kennedy administration and the analytical output of the intelligence community.
+He told analysts that anything that might produce a surprise for the President was a cause for alarm.
+He told the President that it was extraordinarily dangerous to guard against the possibility of political embarrassment by placing restrictions on the analytical process.
+Nevertheless, DCIs should always consider delegating one of their responsibilities to a subordinate better qualified to undertake one of these extraordinarily demanding tasks.
+The incident has generated a whole sub-field of studies on crisis management and inadvertent escalation.
+During the March 1987 Hawk's Cay conference attended by members of the Kennedy administration and scholars interested in the Cuban missile crisis, it was revealed that President Kennedy set in motion a plan to defuse the crisis using the United Nations as an intermediary.
+This piece of evidence is crucial in estimating Kennedy's willingness to risk war to remove the missiles from Cuba, but Dean Rusk was the only person alive who knew about the incident when he chose to make this information available.
+Needless to say, participants and observers of the crisis do not agree about the proximate cause of the showdown.
+Cubans and to a lesser extent Soviets maintain that the Bay of Pigs invasion was the proximate cause of the Cuban missile crisis since it raised the salience of the defense of Cuba in the minds of Soviet leaders.
+James J Wirtz, 'Miscalculation, Surprise and American Intelligence After the Cold War', Int.
+The Case of the Yom Kippur War (Jerusalem: The Leonard Davis Institute 1976) 16; and Michael Handel, 'Intelligence and the Problem of Strategic Surprise', Journal of Strategic Studies 7/3 230.
+Pragmatists often respond to this challenge with offers of financial aid.
+In 1965, for example, Lyndon Johnson offered Ho Chi Minh a project on the scale of the Tennessee Valley Authority if North Vietnam would only end military pressure against South Vietnam.
+Steven David's theory of omnibalancing explores the implications of this focus on preserving domestic political power.
+Dobrynin made this statement during the Jan.89 Moscow conference; see Allyn, Blight and Welch, Back to the Brink 145.
+Raymond Garthoff also notes that Dobrynin informed him before the Moscow conference that he was unaware of the deployments.
+The story might be apocryphal, but while visiting the Bulgarian seaside resort of Vama in May 1962, Khrushchev commented about the tranquility of his surroundings.
+Marshal Rodion Malinovsky, the Soviet Defense Minister, who was with Khrushchev, then mentioned to him that American missiles were being deployed against the Soviet Union just over the seemingly tranquil horizon.
+Khrushchev noted that the Americans had not asked permission to deploy these missiles and that maybe the Soviet Union should replicate the American action by placing missiles in Cuba.
+Blight and Welch, On the Brink 252; and Fursenko and Naftali, in this volume.
+According to Sergo Mikoyan, whose father was Soviet First Deputy Premier at the time of the crisis, 'Khrushchev had some reason to think the United States would repeat the Bay of Pigs, but not make mistakes anymore.
+In 1962, at Punta del Este, Cuba was excluded from the Organization of American States.
+Biryuzov also appears to have been incompetent, and might have been incapable of conducting a useful assessment of Khrushchev's plan.
+It is unclear, however, whether Khrushchev was aware of Biryuzov's abilities when he selected him for the mission.
+The source and motivations for Keating's warnings remain unclear and are not reflected in the documents used in this study.
+According to Fursenko and Naftali, SA-2 production was, in fact, very tight; Khrushchev diverted to Cuba SAMs slated to be delivered to Egypt.
+McCone's initial response to Soviet weapons shipments was to state the intelligence implications behind the Soviet initiative, further demonstrating how the principle of availability may have guided his thinking.
+This is not to suggest that McCone was especially sensitive to his personal or institutional position,e., he was not driven by careerism.
+Indeed, by advocating unpopular and disturbing views, he placed his reputation on the line.
+There is nothing theoretically inconsistent with the observation that McCone's reasoning might have been affected by the availability heuristic even though he was sincerely concerned with protecting national security.
+The mistaken estimate contained in SNIE 85-3-2, however, did carry consequences.
+The Office of National Estimates lost credibility as a result of the SNIE, laying the groundwork for its eventual breakup.
+By contrast, photographic intelligence gained legitimacy during the crisis.
+In the decades ahead, this legitimacy would translate into increasing budgets and greater reliance on imagery in intelligence analysis.
+McCone was not present to savor this moment of glory; he was in Seattle attending his stepson's funeral.
+Amuchastegui notes that in the summer of 1962, 'Cuba was still in a virtual state of civil war'; ibid., 101.
+This behavior is predicted by Steven David's theory of omnibalancing; Choosing Sides (note 23), passim.
+Intelligence analysts often face a point of diminishing returns when warning is available, but time no longer permits military or strategic countermeasures needed to avoid disaster.
+Ho Chi Minh and his followers in Hanoi win the award for turning their country into the Cold War's major battleground.

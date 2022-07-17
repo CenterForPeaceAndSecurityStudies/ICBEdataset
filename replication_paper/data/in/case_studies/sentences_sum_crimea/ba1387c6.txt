@@ -1,0 +1,772 @@
+ The Library of Congress Cataloging-in-Publication Data is available for this publication . For more information, visit www.rand.org/t/RR2237 .
+ Nikita Buida/Freepik Limited Print and Electronic Distribution Rights . This document and trademark contained herein are protected by law .
+ RAND Make a tax-deductible charitable contribution at www.rand.org/giving/contribute . Preface Russia is engaged in an active, worldwide propaganda campaign .
+ Russia disseminates propaganda to Russian speakers in Baltics, Ukraine, and other nearby states through a variety of means, including social media .
+ In some cases, it has used this outreach to sow dissent against host and neighboring governments, as well as the North Atlantic Treaty Organization and the European Union .
+ The purpose of this project was to better understand the nature and effectiveness of pro-Russia outreach on social media and identify countermessaging opportunities . The project was designed to better understanding the nature of social media.
+ The views of the sources rendered anonymous are solely their own and do not represent the official policy or position of the Department of Defense or the U.S. government .
+Research was sponsored by the Office of the Secretary of Defense’s Rapid Reaction Technology Office . The research was conducted within the International Security and Defense Policy Center of the RAND National Defense Research Institute .
+ Top Influencers in the Pro-Ukraine Activist Community . 44 vii viii Russian Social Media Influence 4.1.1 .
+ Ukraine has been an active propaganda battleground since the 2014 Ukrainian revolution . Nowhere is this threat more tangible than in Ukraine, which has been a major propaganda battleground .
+ Other countries in the region look at Russia’s actions and annexation of Crimea and recognize the need to pay careful attention to Russian propaganda campaign .
+ We begin by gaining an understanding of the breadth and scope of Russia’s social media campaign in the former Soviet states .
+ The near abroad is a term that has historically referred to the former Soviet states . The Kremlin aims to leverage shared elements of the post-Soviet experience to drive wedges between ethnic Russian or Russianspeaking populations .
+ The Kremlin attempts to achieve policy paralysis by sowing confusion, stoking fears, and eroding trust in Western and democratic institutions . Farther abroad, the Kremlin is trying to achievepolicy paralysis, according to the Kremlin .
+ Our literature review paid special attention to the role of such nonattributed social media accounts . Such accounts are frequently but not solely employed on Twitter and Facebook .
+ We searched for examples of pro-Russia propaganda within Russian-language social media content . We then searched for pro-Russian propaganda within Twitter .
+ community lexical analysis. To do this, we employed a recently established method, community lexic analysis .
+ This method combines lexical and social network analysis in an iterative approach to identify and characterize different communities on Twitter . It uses data associated with accounts emanating from the former Soviet states of Estonia, Latvia, Lithuania, and Ukraine, as well as Moldova and Belarus .
+ We distilled 22,825,114 Russian-language tweets from 512,143 unique user accounts into ten of the most central communities . The tweets were drawn on community detection algorithms .
+ Examining communities with lexical analysis revealed two large and highly influential communities . Examining these communities with Lexical analysis found two large, highly influential community .
+ One of these communities, which we call pro-Russia activists, consists of approximately 41,000 users who both 1 and 1 . In most cases, centrality is correlated with size, so many of the communities are quite large .
+ A few communities that are surprisingly central given their small size. However, we also include a few communities with a small size .
+ They were written between May and July 2016, they contained primarily Russian language . They belonged to authors in any of the six eastern European countries that had been part of the former Union of Soviet Socialist Republics .
+Nearly 39,000 users fight back with pro-Ukraine, anti-Russia content . The anti-Ukraine community is called pro- Ukraine activists .
+ Using lexical analysis, we examined the key themes and topics within each community . We examined key themes, topics and topics.
+ We also employed social network analysis to both understand communities’ internal structures and identify potentially influential users . We also used social networks to identify potential users .
+We tested whether we could examine the influence of the proRussia activist community over time and in different regions in eastern Europe . We tested whether they could examine whether they were influenced over time .
+ To do this, we developed a lexical fingerprint of the content from the pro-Russia activist community . The content is based on the content of a pro-Russian activist group .
+Eight longitudinal panels of Twitter users were geo-inferenced to the region . We then compared that finger­ print with that of that of eight longitudinal panels .
+ The goal was to identify the number of accounts in the Twitter panel whose tweet content statistically matched the pro-Russia activist fingerprint . The goal is to identify a number of Twitter accounts that match the fingerprint .
+ Twitter users who use the same language content patterns as a known group of partisans share in that group’s ideological beliefs . The assumption underlying this quantitative approach, referred to as resonance analysis.
+ 15 percent of users in Crimea and Donetsk share the same linguistic pattern as the pro-Russia activist Twitter community . Rates drop the farther one goes away from the zone of Russian influence .
+ The method could be used to track the spread of Russian propaganda over time in various regions . It could be a critical component to an effort to detect malign Russian information-shaping campaigns in real time .
+ More than 40 U.S. and regional experts on the Russian threat. To do this, we interviewed more than 40 experts on Russian threat .
+ U.S., European Union, and NATO efforts to counter Russian influence in the region should consider several key factors, we found . Using these qualitative data, we used these data to identify key factors .
+ Russia has a unique opportunity to communicate with a sympathetic audience . The relatively high presence of Russian-language populations in the region gives Russia a unique chance to communicate .
+ Some government policies giving priority to national languages have limited government outreach via the Russian language . Some policies have limited state outreach to Russian linguists .
+ Second, Russian broadcast media dominate in the region, particularly the Baltics . Second, Russia's broadcast media dominates the region .
+ This makes identification of Russian-language bots, trolls, and other nonattributed content difficult . This makes identifying of Russian language bots and trolls difficult .
+ Fourth, the panoply of EU, U.S., and NATO actors engaged in counterpropaganda efforts challenges coordination and synchronization . The EU, US, EU, and NATO actor involved in counter-propaganda.
+ Heavy-handed anti-Russia messaging could backfire in the region, we note . It could also be a variety of dialects unique to the region .
+We offer policy recommendations based on analytic observations and interviews with local and international experts . We also offer in-depth interviews with experts from around the world .
+ Russian colinguists and others in the region better identify fake news and other propagandist content . Introduce media literacy training in the education system .
+Public information campaign can more immediately convey concepts of media literacy to mass audience . Consider launching a public information campaign that can more quickly convey the concepts ofMedia literacy to a mass audience.
+ To effectively compete with Russian propaganda, providers must offer alternative TV, social media, and other media content . The pro-Russia media narrative can effectively displace the pro-Russian media narrative .
+Social media and other activists in the region should identify key influencers and offer a series of programming geared to enhance their influence potential .
+ We recommend training of journalists and funding the creation of alternative media content . We also recommend training and funding of journalists .
+ The United States, NATO, and EU should offer a compelling argument for populations to align with the West or with individual nation-states . The U.S. should offer an argument for aligning with the EU, NATO and other nations .
+ NATO should further communicate the purpose and intent of its Enhanced Forward Presence units now stationed in the Baltics . NATO should also better communicate the intent and purpose of its enhanced Forward Presence Units .
+ The information requirements include identifying fake-news stories and their sources, understanding Russian narrative themes and content, and understanding the broader Russian strategy .
+ The analytic approach identified in Chapter Four of this report, resonance analysis, provides at least one framework for tracking the impact of Russian propaganda and influence .
+ Acknowledgments many people contributed to the completion of this report . The report was completed by the end of the year .
+ We are particularly grateful to many of the people who supported and participated in interviews and otherwise supported our travel to Stuttgart, Estonia, and Latvia .
+Rand Waltzman has offered his advice and guidance to this study . We also appreciate and acknowledge the assistance of Rand Waltzman, for offering his advice .
+ The study was conducted by the Office of the Secretary of Defense's Rapid Reaction Technology Office . The study is the latest in a series of studies by the Department of Defense .
+ Information operations is a major part of Russia’s foreign policy, and social media is one important element of Russia's state-led information activities .
+ Russia uses propaganda, cyberoperations, and proxies to influence neighboring and Western countries . In this confrontation, Russia is using propaganda and cyberoperation to influence neighbors .
+ A statefunded Russian television network, Russia Today, broadcasts abroad in English, Arabic, and Spanish .
+ The Russian state’s approach to social media appears to have become significantly more sophisticated following the antigovernment protests in 2011 .
+ These capabilities were likely then adapted and expanded to be used abroad . These capabilities are likely to be adapted and expand to be use abroad .
+ Russia has adopted increasingly sophisticated social media techniques, including sophisticated trolling on news sites, fake hashtag and Twitter campaigns . Russia has also adopted close coordination between social media operations and other media .
+ Russia's propaganda on social media appears to have multiple objectives, including inducing paralysis, strengthening groups that share Russia’s objectives or point of view, and creating alternative media narratives that match Russia.
+ Russia seems to have a near-worldwide scope to its propaganda campaign . Russia's near abroad may be of particular interest in what it refers to as its near abroad .
+ It has historically referred to the Baltic states of Estonia, Latvia, and Lithuania . It also includes Belarus, Moldova, and Ukraine, and it has also referred to Moldova .
+ The Russian threat to these states is evidenced in Ukraine, where Russia has illegally annexed Crimea . Russia has engaged in an ongoing hybrid warfare campaign that includes fake news, hostile Twitter bots, and encouraged protests .
+ Other neighboring countries look at Russia's actions and wonder where it will turn next . Other neighboring nations look at these actions and question where Russia will turn.
+ Russia has several reasons for training its propaganda machine on the former communist countries . Russia has a long history of training propaganda machines .
+First, effectively influencing the political outcomes of these countries helps establish a cushion against what it considers malign Western influence . First, effectively influence the political outcome of these nations helps establish the cushion against the West .
+ Some countries, including the Baltics and Ukraine, have minority populations of Russian speakers who are former Soviet citizens and their descendants .
+ The compatriot policy is to protect the interests of this population and, more importantly, influence the population to support pro-Russia causes . It is to effectively influence the politics of its neighbors .
+ The purpose of this study was to examine the Russian social media and broader propaganda threat to the region of former Soviet states . Estonia, Latvia, Lithuania, and Ukraine were the focus of the study . The study was designed to look at the threat of Russia's social media .
+ The study also sought to identify potential strategies that can mitigate the Russian propaganda threat to this region .
+ The ongoing conflict between Russia and Ukraine makes Ukraine an ideal location to consider Russia’s propaganda campaign capabilities .
+ Estonia, Latvia, and Lithuania have significant Russian-speaking minorities who consume media mainly by Russian state-controlled entities . We chose these countries because these countries have significant Russians-speaking minority .
+ The U.S. and its allies are also European Union and North Atlantic Treaty Organization members . Russia might make them more-attractive targets for Russia to undermine consensus within these bodies, he says .
+ The study used both qualitative and quantitative methods . It used both quantitative and qualitative methods .
+ Specific research methods are detailed in each chapter . We provide a brief synopsis of each chapter.
+ People who used to hold Soviet citizenship are people who migrated from the Russian Soviet Federative Socialist Republic . People who moved to Russia from the Soviet Union are descendants of those in the three previous categories . Those who moved from Russia to the United States are Russian citizens living abroad
+ This chapter examines the aims and themes of Russia propaganda . It examines the impact of this propaganda, and illuminates specific Russian social media propaganda operations .
+ Both Chapters Three and Four draw on recently developed RAND social media analytic capabilities to provide a deep dive into Russian propaganda efforts on Twitter . Both Chapters 3 and 4 draw on recent developed social media analytics capabilities .
+ Chapter Three uses a method called community lexical analysis to identify a major battle of ideas that is currently being waged in Ukraine .
+ We specifically identified communities of closely connected Twitter users in a Russian-language database . The database was geo-inferenced to Estonia, Latvia, Lithuania, Moldova, Belarus, and Ukraine .
+ A RAND-developed lexical analysis tool was used to identify a community of pro-Russia propagandists . The community includes approximately 40,000 users, in addition to a similarly sized community of anti-Russia pro-Ukraine activists .
+In Chapter Four, we employ a method called resonance analysis to assess the spread and potential impact of the pro-Russia propagandist community identified in Chapter Three . In Chapter Three, we use resonance analysis.
+ We do this by creating a linguistic “fingerprint’ of the pro-Russia propagandist community . We compare it with the content from a longitudinal panel of regional Twitter users .
+ In Chapter Five, we identify the challenges associated with countering Russian propaganda in the region . In Chapter five, we discuss the challenges of countering Russia's propaganda .
+ We present findings from field trips conducted in January 2017 to Stuttgart, Germany . We meet with representatives of the United States European Command and to the capitals of Estonia and Latvia .
+ We complemented this with additional in-person and phone interviews conducted with U.S. interagency and NATO representatives and other regional experts .
+In Chapter Six, we present recommendations for reducing Russian social media and other propaganda influence in the region . Finally, in Chapter Six we present Recommendations for reducing Russia's social media .
+ We draw these recommendations from findings presented in Chapters Two through Five, as well as insights offered by our varied interview and document sources .
+ The Kremlin aims to leverage shared elements of the post-Soviet experience in order to drive wedges between ethnic Russian and Russian-speaking populations and their host governments .
+ We conclude with literature that attempts to evaluate the impact of these operations. We conclude that attempts are to evaluate these operations .
+ Aims of Russian Propaganda Moscow blends attributed, affiliated, and nonattributed elements . Team members performed the literature review using keyword searches on Google and Google Scholar .
+ The Kremlin spent US$1. billion on mass media in 2014 and increased its spending on foreign-focused media in 2015 . Russian media outlets RT and the agency that heads Sputnik News, Rossiya Segodnya, also increased spending .
+ The Kremlin’s social media campaigns cannot be entirely separated from its information operations involving traditional media . Traditional news stories are now crafted and disseminated online .
+ The Kremlin’s narrative spin extends far beyond its network of media outlets and social media trolls . It is echoed and reinforced through constellations of ‘civil society’ organizations, political parties, churches, and other actors .
+ Moscow leverages think tanks, human rights groups, election observers, Eurasianist integration groups, and orthodox groups . Russia leverages Think tanks, Human Rights groups, human Rights groups and election observers .
+Russian propaganda also blends and balances multiple aims within a set of information operations . Russian propaganda also balances and balances several aims within the set of operations .
+Keir Giles at Chatham House 2 On the Kremlin's spending on mass media, see Wilson, 2015 .
+ Aspen Institute divides Russia’s outwardfacing propaganda into three categories . Andrew Wilson at the Aspen institute.
+ The second seeks to target entities that already have entrenched worldviews with antisystemic leanings and nudge them in useful directions . The second tries to target people who already have established worldviews. The second attempts to nudge people into useful directions.
+ The Russian government’s sphere of influence is global . It conducts these multifaceted propaganda campaigns in Russian, English, Arabic, French, Czech, Georgian, and a host of other languages .
+ Moscow’s reach is most direct in neighboring states and former Soviet republics that house sizable ethnic Russian and Russianspeaking populations, also called compatriots .
+ The commonality of Russian language provides a springboard for common communication, as well as a potential wedge to leverage compatriots against their host countries and governments .
+In Chapter Five, we address issues that cause the ethnic Russian populations to be receptive to Russian state messaging . In Chapter Five we address the issues that make the ethnic Russians receptive to state messaging.
+ This literature review focuses on the Baltic states of Estonia, Latvia, and Lithuania . It also focuses on Belarus, Ukraine, and Moldova .
+ The Kremlin can leverage Russian-identifying populations to amplify the Kremlin's message . Drawing on these shared aspects, the Kremlin can use them to incite unrest in their host regions or countries .
+ Russian disinformation seeks to erode trust in institutions. In the “far abroad’s’far abroad, the ‘far abroad' seeks to erase trust.
+ The common theme is the goal of creating confusion and undermining trust in Western democratic institutions . The goal is to create confusion and undermine trust in western democratic institutions.
+ The Kremlin has built a complex production and dissemination apparatus that integrates actors at varying levels of attribution to enable large-scale and complex information operations .
+ Actors at the first and second levels of attribution produce or circulate exploitable content . Actors are responsible for producing or circulating exploitable material .
+ The first level involves overtly attributed or “white” outlets, including official Russian government agencies, such as the Ministry of Foreign Affairs . The second level involves state-controlled, state-affiliated, and state-censored media and think tanks .
+ These activities are conducted by a network of trolls, bots, honeypots, and hackers . The activities are carried out by a number of trolls.
+ Trolls, bots, and honeypot accounts all refer to fake social media accounts used for various purposes . Trolls are operated by humans, while bot accounts are automated .
+ Both trolls and bots are typically used to push particular narratives . honeypots instead tend to solicit information and compromise accounts via malicious links or sexual exchanges .
+ A typical Russian disinformation operation, seeking to affect foreign policymaker decisions via democratic pressures, erode trust in such institutions as foreign governments and media, or achieve paralysis through the proliferation of multiple narratives, is built in three parts .
+ These three basic phases are repeated and layered on top of each other to create a polyphony that overwhelms individuals’ ability and will be able to distinguish between fact and falsehood .
+ false or misleading content is created by Russianaffiliated media outlets, such as RT, Sputnik News, and Russia Insider . The first step is to make sure the content is accurate and accurate .
+ Second, force multipliers, such as trolls and bots, disseminate and amplify this content, adding fear-mongering commentary . Third, force- multipliers such as bots and bots amplify and amplify the content .
+ Third, mutually reinforcing digital entities pick up and perpetuate the narrative, whether they are ideo4 On media outlets, see PropOrNot Team, 2016 .
+ The impact of Russia’s disinformation operations in the near and far abroad is difficult to measure. RAND RR2237-2.2 14 Russian Social Media Influence Impact .
+ There are some indications of the success of Russian media campaigns and other information operations . However, there are some signs of success.
+ Gerber and Zavisca wrote in Washington Quarterly about a survey they conducted in Russia, Ukraine, Azerbaijan, and Kyrgyzstan .
+ More frequent consumption of Russian television is associated with a greater tendency to accept the Russian narrative blaming the U.S. government for the Ukraine conflict .
+ There are a variety of reasons for the popularity of Russian TV among ethnic Russian populations . We explore these more in Chapter Five of Chapter Five .
+ The impact of Russian propaganda in the near abroad is likely to be limited by the extent of which compatriots identify with Russia or as Russians .
+ 2011 accusations that Russian President Vladimir Putin’s party rigged Russian elections as a precursor to the current incarnation of Putin's information warfare . However, observers point to the 2011 accusations as the true precursor to Putin's Information warfare .
+ Putin reportedly blamed the West for instigating the protests within Russia . Putin reportedly blames the West.
+ Maria Katasonova, assistant to Russian legislator Evgeny Fedorov, faked her “on-scene” news reporting with recorded explosion noises . In August 2014, she faked her news reporting.
+ Russian Social Media Influence trolls were discussed in Russia’s near abroad . This misleading content was amplified in Russia's near abroad, even outside of Ukraine .
+ Of the 200,000 comments posted on Latvia’s primary online news portals between July 29 and August 5, 2014, only 1.45 percent came from trolls .
+ Russia was able to mobilize support, spread disinformation and hatred, and try to destabilize the situation in Ukraine . Russia is able to use social media to mobilize support and spread disinformation .
+ Hundreds of thematic groups have been created in social media and became a channel for distributing disinformation to, engaging, and influencing the public .
+ In October 2014, an antigovernment protest took place in Kyiv, which included service members from the internal troops . The protest was held in the city of Kyiv .
+ In the beginning of 2016, Ukrainian journalists exposed a network of dozens of social media groups, including Patriots of Ukraine, across multiple social media platforms .
+ Russia’s information campaigns appear simultaneously cutting edge and old school, potentially extending forward to the use of malware and malware .
+ In April 2015, Trustwave reported that a Bedep Trojan malware kit had begun infecting machines and forcing them to browse certain sites . The malware was used to inflate traffic to pro-Russia Russian Propaganda on social media .
+ This, in turn, made these videos more visible to users of the sites in question . This made the videos more available to users in question. This made this video more visible. This is in turn.
+Multiple foreign-policy analysis books in their name had been published in Russian without their knowledge . That same year, multiple Western authors discovered that foreign- policy analysis books had been released in Russian .
+ In 2016, the Kremlin’s information operations apparently continued to pursue simultaneous tracks of traditional and nontraditional media .
+ A Russian-language news story spreading to a Czech news site serves as a reminder of the global scale of disinformation campaigns in an age in which borders provide no barrier to fake news epidemics .
+ Russia’s Social Media Operations in the Far Abroad have ranged from disinformation spread by social media trolls and bots to fake-news sites backed by spurious polls .
+ One such harassment campaign kicked off in September 2014, after Finnish reporter Jessikka Aro posted an article asking for readers 18 Russian Social Media Influence to respond to her with information about their experiences with Kremlin trolls .
+ Aro was dogged by fake-news sites and Facebook and Twitter trolls after publication of her article . She was accused of assisting foreign security services and constructing an illegal database of Kremlin supporters .
+ Another signature harassment campaign appeared to blend with a larger attempt to leverage trolling networks, potentially in collaboration with Iran and Russia . The campaign was aimed at trolling networks.
+ In 2014, Weisburd, Watts, and Berger observed that when Western foreign-policy experts condemned the regime of Syrian President Bashar Al-Assad, they would be attacked by “organized hordes of trolls’ on social media. In 2013, they wrote
+ Fake news advanced by Russian sources can easily be picked up and echoed by respected Western news outlets and influence search engine autosuggestions .
+ The story and summary infographic circulated on the internet, initially appearing primarily on French sites . The infographic was initially appearing on French websites .
+ On September 11, 2014, a network of trolls and bots with links to Russia kicked off a series of operations targeting the United States . The hoax referred to as the Columbian Chemicals plant explosion in Louisiana .
+ Thousands of Russian troll and bot accounts created the hashtag #ColumbianChemicals . The campaign was backed by digitally altered graphics and pictures .
+ Accounts associated with this network of trolls followed up with a string of U.S. disinformation operations in 2015 . The trolls are advancing messages to exacerbate racial tensions, stoke fears of radical jihadi terrorism, promote pro-Russia stances .
+ In November 2016, PropOrNot found that a single misleading story about Secretary of State Hillary Clinton's health that had been supported by Russia-affiliated outlets gained access to 90,000 Facebook accounts and accumulated 8 million reads .
+ The Washington Post article also claimed that the Russian propaganda apparatus also spread a fake-news story about an anti-Donald Trump protester being paid to demonstrate . The story had originated as satire .
+ In October 2017, news broke that Russia had exploited Facebook as part of its information campaign . In October 2016, it was reported that Russia was using Facebook to gain information .
+ Russia had created dozens of Facebook pages that sought to exploit and expand various social divisions within the United States . The pages included race, religion, political affiliation, and class .
+ These pages used Facebook advertising algorithms to target the ads to populations most vulnerable to the intended message . These pages were used to target vulnerable populations .
+ Russia created a “Blacktivist’s” page that served as an extreme version of the Black Lives Matter movement .
+ Advertisements created by this page issued denunciations of the criminal justice system and posted videos of police violence .
+ The page "Being Patriotic" sought to rally Americans against expansions of refugee settlements .
+ It also sent out missives attempting to dupe audiences into believing that federal employees were, in effect, seizing land from private property owners . It also tried to convince audiences that federal workers were seizing land .
+ "Secured Borders" disseminated a video claiming that Michigan allowed Muslim immigrants to collect welfare checks for up Russian Propaganda on Social Media .
+ "Texas Rebels" advocated for Texas’ cessation from the union . Another site, ‘Texas Rebels,’ advocated for the union's cessation .
+ Russia also targeted YouTube, Google Search, Pokemon Go, and others, according to new reports .
+ Europe also suffered a barrage of Russian propaganda operations in 2016 . Europe in 2016 also suffered the barrage of Russia propaganda operations .
+ In Germany, the family of a 13-year-old Berlin schoolgirl of Russian origin identified as “Lisa’s” claimed that three men of Middle Eastern origin abducted and raped her .
+ Russian media continued to amplify the original story. But even after German police debunked the allegations, Russian media continue to amplify it .
+ In Turkey, Sputnik and RT falsely reported on thousands of armed police officers at Incirlik Air Base, and retweets claimed that nuclear weapons were being stored at the base .
+ Trolls and Bots The Kremlin's pioneering use of fake social media accounts deserve closer examination .
+ Russian trolls and bots serve as force multipliers for Russian disinformation operations . Russian trolls are a force multiplier for disinformation operations.
+ Life as a Kremlin-employed troll requires pumping out large volumes of posts through multiple accounts, creating the appearance of genuine engagement . The Russian government says it is investigating the situation .
+ NATO Strategic Communications Centre of Excellence study of trolling behavior found trolls used a three-step process of luring, taking the bait, and hauling in .
+ One troll would post a controversial, topical comment to capture readers’ attention and provoke one of them to respond .
+ The trolls would then wait for someone to oppose them, sometimes having to engage with the original post by clumsy opposition or exaggerated agreement to provoke a nontroll .
+ Kremlin troll and bot accounts have evolved and diversified in order to expand their impact . Kremlin troll accounts have expanded their impact in recent years .
+ @Vaalit and @Euro Vaalit are two usernames that mean “elections’ in Finnish . Another type of troll involves “false accounts posing as authoritative information sources on social media,” such as @EuroVAalit .
+ This diversification of troll types also serves to help networks evade detection . This diversified of troll type also helps network evade detection.
+ Accounts with profile pictures displaying attractive young women are called “bikini trolls’ by Martins Daugulis from the NATO StratCom COE . The Russian troll networks fly under the radar.
+ In April 2015, internet researcher Lawrence Alexander conducted a study of pro-Kremlin bot activity . He found 17,590 Twitter accounts, the majority of which exhibited characteristics highly suggestive of bots .
+ Alexander had constructed a sample of friends and followers of accounts tweeting an exact 11-word phrase spreading an anti-Ukraine rumor about the shooting of Boris Nemtsov .
+ Alexander found 2,900 accounts that he identified as bots, based on suspicious network structure . The accounts were highly connected with no outliers, and atypically low percentages of profiles.
+ In April 2015, Alexander gathered a larger sample based on usernames harvested from screenshots of alleged bot-like activity . The sample yielded a total of 17,590 Twitter accounts .
+ The accounts were largely bots, with less than 10 percent of the users having humanlike indicators on their profiles . On average, the accounts produced 2,830 tweets, on average .
+ These Kremlin bots likely boost the visibility of Russia-supported news outlets .
+ On average, 20. percent of Russian-language news outlets’ retweets were from accounts with bot-like behavior, higher than the 18. percent for English- language news outlets .
+ A study conducted by NATO StratCom attempted to assess the impact of Russian trolling . It found at least some indicators of efficacy .
+ The study team hand-coded 3,671 articles on Crimea or the war in eastern Ukraine posted on a variety of Russian-, Lithuanian-, Latvian-, Estonian-, and Polish-language internet portals .
+ The study also found that trolls’ pasted links were associated with a decrease in the number of comments .
+ Social media is by no means the sole platform of this campaign .
+ Russia appears to synchronize social media products with those of other information outlets, including web news, proxy civil society agencies, and web outlets . Russia also appears to actively synchronize web news and TV broadcasts with other outlets .
+ The Kremlin’s web campaign relies on anonymous web comments and nonattributed social media content disseminated by bots and trolls . Russia is targeting un­suspecting audiences with malign and often fake-news content .
+ It will be critical for U.S., EU, and NATO policymakers to confront this information campaign . The campaign is aimed at the United States, EU and NATO .
+ Russia-based nonattributed social media accounts will also be critical . Investing resources in identifying, monitoring, and, if necessary, targeting the Russian-based accounts will be critical, say experts .
+ Assessing Russian propaganda’s impact on social media requires understanding where in this network the propaganda exists, what user communities are sharing it .
+ Twitter data to find evidence of Russian propaganda operations . In this chapter, we examine Twitter data.
+ Twitter ranks only third or so in social media penetration in the region . We choose to use Twitter for several reasons, including the use of Twitter for a number of reasons .
+ Twitter is relatively easy to study because its data is public. First, Twitter's data is easy because it is public .
+ Russia actively uses Twitter as a platform, thus making it an ideal testing ground for our methods . Also, as demonstrated in Chapter Two, we know that Russia actively Uses Twitter to test its methods .
+ In Ukraine, 38 percent use Facebook, 66 percent VK, 14 percent Twitter, 9 percent LinkedIn, and 32 percent Tumblr . It is difficult to say whether our findings are generalizable to the region’s broader population .
+ 32 percent use Facebook, only 2 percent use Twitter, and 9 percent use Odnoklassniki . In Estonia, 32 percent Use Facebook, and only 2% use Twitter .
+Local influencers detected via Twitter networks are likely local influencers in other online and off-line channels as well . Local influencers are likely to be found via Twitter and other social networks .
+ The content and themes gleaned from Russia and Russia-supporting populations, as well as anti-Russia activists, likely swirl in other online and off-line mediums .
+ Using the same methods, we were able to identify and consequently study distinct communities of ISIS supporters, supporters of the antiAssad rebel fight, and Shia and Sunni nationalists . Using these same method, we could identify and subsequently study different communities .
+ Russian propaganda content, including nonattributed bot and troll accounts, would operate as a highly interconnected community . This chapter is an ideal method for finding and analyzing Russian propaganda on Twitter, we say .
+ Our approach combines network and lexical analysis to relatively quickly understand the structure and content of conversations on Twitter using large data sets .
+ GNIP gathers social media data across multiple platforms and makes these data available for bulk historical and real-time purchase . GNIP, now part of Twitter, gathers social Media data across several platforms and provides data for bulk data .
+ The goal was to generate a comprehensive data set of what people in the former USSR in eastern Europe were saying on Twitter .
+ In total, this yielded 22,825,114 tweets from 512,143 unique user accounts .
+ A directed, weighted network in which each node represents a user and each edge the number of mentions between users . The network was developed in similar projects .
+ The Clauset–Newman-Moore community detection algorithm was used to determine what made each community distinct in terms of key themes and topics being discussed .
+ Twitter users appear to have large impact on the Twitter conversation . We performed user-level SNA to identify influential users who appear to be influential .
+ This chapter discusses our analytical findings using this approach and highlights implications for combating Russian propaganda on Twitter . The remainder of this chapter discusses the findings using the approach .
+ This approach allows for fairly accurate geo-inferencing of tweets and has been widely adopted for social media data analysis . But it is not perfect, this approach is still not perfect .
+ In a Twitter mention, a user will include in the tweet content @ username, the user whom the original poster wants to mention . The tweet content will include the user who wants to be mentioned .
+ This is used in the standard format of retweets, attributing content to the original author . This is also used in a standard format for retweet .
+ Many tweets do not include any mentions at all and thus are not included in the data set . Note that there are fewer edges than tweets; some edges include more than one mention .
+Community detection algorithm found 7,773 distinct user communities . The Clauset-Newman–Newman-Moore algorithm was used to detect community communities .
+ Each of these communities represents a group of Twitter user accounts that are more tightly connected to each other than they are to the others in the network .
+ The number of communities is too large to analyze in depth, we used a standard “communityof-communities’ procedure to reduce the number of Communities to analyze . Two large metacommunities.
+We analyzed each of these large metacommunities with RAND-Lex . We then analyzed the two large metACommunity with RAND.Lex .
+ RAND-Lex provides a test of “aboutness’s through keyness testing for conspicuously overpresent or absent words .
+ It identifies both individual keywords and collocates, or unique combinations of words that can then be analyzed in context by our language expert . The language expert's language expert can then analyze words in context .
+ The colors represent the network community to which that user belongs, using the Clauset–Newman– Moore algorithm .
+ The legend lists the eight largest communities, which are wellrepresented in the core network . The legend also lists the largest communities in the world .
+ The second community (labeled metacommunity 2 in the figure and discussion) consists of more-focused and politicized discussion topics, including the Ukraine–Russia conflict .
+ The network on the left represents the entire user-level network, colored by metacommunity . The right represents the collapsed community level network, also colored by meetacomunity .
+ Informed by these findings, we focused our analysis on the more politically focused metacommunity 2 . We focused on the political and political aspects of the meeting .
+ Community Lexical Analysis selected ten of the most-central communities within metacommunity 2 for further lexical analysis .
+Centrality measures, such as in-degree, out-degree and betweenness, will be correlated with size . In most cases, centrality measures will be linked to size .
+ In our data, several of the most central communities are also quite large . The most central community is located in the U.S.
+ A few communities for lexical analysis that are notably central given their small size . We also include a few communities that are notable given their large size .
+ In the context of the community network, in-degree represents the number of unique communities with users who mention users in the given community . In-degree means users mention users.
+Out-degree represents the number of unique communities with users in the given community mention . Out-degree includes users who are in the community mention.
+ Its name in Korean is Bangtan Sonyeondan, and it is also known as BTS, or the Bangtan Boys . The Bangtan boys are known as Bangtan.
+ Community 1278 has 38,783 users, while community 4369 has 40,942, but they clearly differ in content . Community 4369 is more than 40,000 users, but the content is different .
+ The conversation in community 1278 focuses on the Ukraine–Russia conflict . It appears to promote nationalist pro-Ukraine viewpoints .
+Community 4369 also focuses on the same conflict but promotes a pro-Russia viewpoint . Community 4369 focuses on same conflict and promotes pro-Russian viewpoint .
+ In the next sections, we present the detailed lexical analysis findings and reasoning for these two communities . We include the others in the appendix .
+ The Pro-Ukraine Activist Community Informed by our lexical analysis, we determined that this community is concerned about the Ukraine–Russia conflict and is actively fighting Russian propaganda .
+ Geographic names that are overpresent in this community are also related to the Ukraine–Russia conflict .
+ Overpresent keywords include several strong anti-Russia terms, such as vata, krymnahsa, and rusnya . Over present keywords include vata and krynnya.
+ The most frequent collocate is “v Ukraine,” or “in Ukraine, or ‘in Ukraine’ The most frequently collocated is ‘v Ukraine.’ It clearly indicates the community’s focus on this conflict .
+ Discussion themes in this community include news and events around Russian aggression, Crimea, and eastern Ukraine, as well as Ukrainian politics, with a focus on anticorruption .
+ Russia is discussed mostly in context of its intervention in Ukraine, war, and related sanctions . Russia is also discussed in relation to its involvement in the Ukraine war and other issues .
+ Several initiatives aimed at identifying and exposing Russian propaganda are among them . @stopfake, @inforesist, and @informnapalm are among the initiatives .
+ Geographically, the users in this community are concentrated in Ukraine, much more concentrated than in the other communities, we analyzed .
+ lexical and lexicogrammatical analyses work poorly at the level of individuals’ utterances . semantics and function at that level are highly context-variable .
+ Word and word-type aggregates that vary in statistically meaningful ways show structural difference in text collections . However, at the level of aggregates, these methods have high validity and reliability, says author .
+ This can seem counterintuitive because human readers experience only “serial reading’s one sentence at a time, doing human-level fine-grained context work, but never able to see large-scale statistical patterns .
+ Decades of empirical work in corpus support the notion that quantified lists of statistically variant words have meaning . Linguistics support the idea that statistically variant names have meaning.
+R. RAND RR2237-3.3 community supports our conclusion that this community consists of pro-Ukraine activists . The community is based in Ukraine .
+ The Pro-Russia Activist Community consists of consumers and disseminators of Russian propaganda . In sharp contrast to the pro-Ukraine activist community, this community clearly consists of consumer and disseminator of Russianpropaganda .
+ Retweets are mostly from pro-Russia media (e.g., @zvezdanews, @rt_russian) and Russian propaganda accounts .
+ Over present terms are specific to Russian propaganda, including #RussianWorld, #RussianSpring, #CrimeaIsOurs, and #Novorossia .
+@history_rf is dedicated to highlighting Russian history . One account in particular is mentioned more than any others .
+ Frequent geographic names include Russia, Crimea, Ukraine, USA, Europe, France, Belarus, Syria, and Turkey .
+ Top themes focus on events in Ukraine: Donetsk People’s Republic, war, sanctions, the Ukrainian military, and antiterrorist operations .
+ Novorossiya, Donetsk, and Luhansk People's Republics are all discussed in a positive context . Ukrainian President Petro Poroshenko, Ukraine, and the Ukrainian army are presented in a very negative light .
+ Other popular topics include World War II, TV shows, sports, and dating . These are likely secondary content from TV channel accounts .
+ The two politically oriented communities, pro-Ukraine activists and pro-Russia activists appear to form two opposing poles in the community network .
+ Both have many small, exclusively connected communities, and multiple smaller communities . Both are connected to both of them .
+ The pro-Russia activist community has 51 exclusively connected communities . It represents potential additional pro- Russia accounts . The community has been formed by a number of pro-Russian activists .
+ Those that are connected to both political communities could potentially be “fence-sitters’’sitters. Those who are neither pro-Russia nor pro-Ukraine could be swayed one way or another via propaganda and information operations .
+Each node represents a community within metacommunity 2 identified using the Clauset–Newman–Moore algorithm . Each node represents the community within the community .
+ The size of the node indicates the number of accounts in each community, and the edge weight and arrow size indicate the number and direction of mentions between accounts .
+ RAND RR2237-3.5 40 Russian Social Media Influence pro-, anti- and neutral . RAND RR 2237-2.5.5 .
+ In Chapter Four, we will address this question using resonance analysis . In Chapter four, we'll address this issue using resonance Analysis .
+Pro-Russia and pro-Ukraine activist communities appear to differ slightly in strategy, as indicated by their network positions . The two are similar in size, but the two are different in size .
+ The pro-Ukraine activist community is actively mentioning other accounts in distinct communities on Twitter . This difference could indicate that the pro- Ukraine activist community pursues a more aggressive outreach campaign .
+ The pro-Ukraine activists, on average, mention the pro-Russia activists more often than they are mentioned in return, even when accounting for the difference in community size .
+Ukrainian activists are trying to “identify and call out Russian propaganda’s’ strategy, they say . This disparity could represent the ‘identify’ and “call out Russia propaganda” strategy pursued by many Ukrainian activists .
+Pro-Russia activist community could represent a more concentrated, possibly state-directed approach from the pro-Russia community . Alternatively, these differences could represent more concentrated and state- directed approach .
+State-directed messaging has received a lot of attention lately . The use of bots for amplifying certain messages and themes has received some attention . One particular aspect of state-directed messages is the use of bot bots .
+ Some characteristics can be used to classify accounts as possible bots, including frequency of tweets, profile characteristics, and retweet behavior .
+ More accounts exhibit bot-like behavior in pro-Russia than in the pro-Ukraine activist community, according to the study .
+ The total numbers of accounts with this type of behavior are fairly small for both groups . At least with currently available techniques, it does not appear that bots form a large part of either community .
+ Many of the accounts listed here are individual rather than institutional accounts . Many accounts listed are individual instead of institutional accounts. Many accounts are individual, rather than institutions .
+ Pro-Russia activist influencers spew anti-Ukraine propaganda and frequently operate out of Russian or pro-Russia locations in Ukraine .
+ Node size indicates unweighted in-degree, and color represents subcommunities found using the Clauset–Newman–Moore algorithm .
+ Ukraine activist influencers criticize, frequently using sarcasm, the Russian government .
+ Analyses such as this can be used to identify key influencers in a range of Twitter-based networks . We suggest this can play a key role in campaigns designed to empower antiRussia influencers .
+ State sponsorship of these accounts remains unclear and needs further analysis . However, state sponsorship of the accounts is unclear .
+ Russia has created nonattributed Twitter accounts that can serve as part of its bot and troll campaign . Russia can also support like-minded activists situated in the region adjacent to Russia .
+ Russia is already supporting this group, either through bots or by providing particular content . Twitter data for May to July 2016 will be released in July .
+ U.S. government organizations could use data from this group to identify specific areas and topics that are being targeted for Russian propaganda .
+ 45 Activists in Ukraine appear to be central to the counter-propaganda fight . They actively connect to fence-sitter communities, providing a potential option for expanding influence .
+ Themes common to both pro-Ukraine activist and fence-sitter communities would be ‘low-hanging fruit’ to use for countermessaging Russian propaganda . Themes are similar to both the pro-Ukrainian activist and fences-sitters communities .
+ The U.S. Department of State should be able to identify key themes important to particular populations . This analysis should be extended to identify the key themes.
+ Organizations interested in countering Russian propaganda on Twitter should consider identifying activists who are influential in their own and other communities .
+ Gathering the relevant Twitter data is relatively inexpensive and easy, and the network analysis required to identify key influencers is not particularly computationally expensive . gathering the relevant data on Twitter is relatively cheap and easy .
+ The results could then be used to reach out to identified users and offer support through training or resources . The results are then used to offer support to those in need .
+ network analysis can also be used to identify central users in the pro-Russia activist community . Network analysis can be used in the anti-Russia debate .
+ It is possible that some of these are bots or trolls and could be flagged for suspension for violating Twitter’s terms of service .
+ Further analysis could be performed to confirm whether Twitter is actively removing accounts . If not, relevant U.S. and other government organizations could use such findings to encourage Twitter to expand .
+ Alternatively, identifying accounts as sources of propaganda might be helpful to prevent the spread of their message to audiences that otherwise would consider them factual .
+Russian propaganda can be used to assess the effect that Russian propaganda has on Twitter . In this chapter, we propose and test a method to assess Twitter's effect .
+ We specifically assess the prevalence of those disseminating pro-Russia content . The anti-Ukraine content is similar to that of the pro-Russian activist community described in Chapter Three .
+ Twitter is not the dominant platform in all areas of the world, but it serves as a testing ground for developing approaches to quantify this impact . Twitter is one of the most popular social networks in the world .
+ Resonance analysis is a developing methodology for identifying statistical differences in how social groups use language and quantifying how common those statistical differences are within a larger population .
+ In essence, it hypothesizes how much affinity might exist for a specific group within a general population, based on the language its members employ .
+ Theoretical Foundation Language is a versatile tool kit for expressing ideas . It is also a tool kit to express ideas .
+ The language's versatility is demonstrated not only in the ideological complexity it can convey but also in the variety of ways that the same idea can be formulated as language .
+ Language is so versatile, there is ample room for individual people and groups of people to use it in distinctive ways .
+ There are many variations within any language, and they correspond 47 48 Russian Social Media Influence to meaningful distinctions in social organization .
+ These differences perpetuate themselves through intention, habit, and unconscious reaction . The difference is made through intention and habit .
+ Resonance analysis exploits the close connection between social structure and language .
+ language use within a particular group of interest is distinct from language use in a general baseline population . Language use in particular groups of interest searches for distinctive language signature within target population .
+ resonance analysis hypothesizes how much linguistic and social affinity exists between a target population and a group of interest . Through this process, resonance analysis.
+ Approach Resonance analysis is about measuring how much any given populace uses the distinctive language of a group of interest .
+User by user by user in a region, for how close the match is is .
+ If user A has little or no match with the signature, user A and the group are not resonant . If user B exceeds match thresholds, user B and the Group are resonant. If A has no match, users A and a group are also resonant if user B is
+In this chapter, we develop resonance analysis toward the challenge of detecting Twitter users in former-USSR eastern Europe who use language in a manner reminiscent of the community of users identified in Chapter Three as pro-Russia activists .
+ This might be useful for understanding pro-Russia influence operations in the region and in developing a computationally inexpensive approach for mapping affinities .
+ The list is referred to as a signature . Together with the keywords’ keyness scores, the list is called ‘keyness’
+ Resonance Analysis of Pro-Russia Activists 49 found that distinguishing between two sides of a debate requires a more specific set of signatures and baseline text than previously thought .
+ All corpora should be drawn from text that is written in the same language . It contains enough users to cancel out the language-use idiosyncrasies of any particular user .
+ corpora would also be drawn over a sufficiently long period of time to cancel out trends in word use due to any particular current event .
+ The signature will become increasingly ineffective as that event recedes into the past . Otherwise, the signature will be increasingly ineffective .
+ For each corpus, we then regularized the text by removing punctuation, regularizing spacing and capitalization . We then performed other processing to enhance the signal-to-noise ratio .
+ Count the numbers of times that words and two-word collocates appear in the signature and baseline text . Count the number of times the words and phrases appear in a single text .
+ No small subset of words can drive resonance scores on its own . Truncate score outliers are outliers so that no small subset can drive resonant scores .
+ Any reasonable outlier truncation strategy will suffice, as long as it keeps outlier keywords from dominating the resulting scores . The best strategy is to keep outlier words from dominating.
+ Discard collocates if the collocate keyness score is not equal to or greater than 1 percent of the sum of keyness scores for its component terms . Discard Collocates. If the collocated keynessscore is notequal to or more than 1% of the
+ The phrase “two words” 52 Russian Social Media Influence would need a keyness score of at least 2 to not be discarded from the signature . For example, if the word ‘two’ and the word’s “words’
+ If computational resources are sufficient, there is no harm in keeping in all collocates, says author . "There are no problems with keeping in every collocate"
+ They are unlikely to have a significant impact on the final resonance scores if they do not meet this criterion . However, they are likely to have an impact on their final resonance score .
+ This process could yield thousands of words that score as (at least mildly) distinctive of one group compared with the baseline .
+ The highest-quality resonance scores are the ones in which no small subset of terms dominates the outcome . We generally used all of them as the signature because of the highest- quality resonance scores .
+ We then calculated the average keyword score per word for each user in the signature, baseline, and test texts . The average score is based on each user's signature and baseline .
+ This step is particularly important for population assessment because it keeps high-volume tweeters from drowning out low- volume tweeters . This step was particularly important to population assessment .
+ The last step in the resonance analysis process is to identify resonant users . The next step is to find out who is resonant .
+ For many applications, this involves using the baseline text to determine what level of resonance score could likely occur by chance alone . This involves setting a threshold higher than what one would expect at random .
+ partisans on opposing sides of a conflict talk more like each other than like the general public . However, we have found that partisans on both sides of the conflict talk much more about each other .
+ Pro-Russia Activists 53 score highly on signatures developed against a general population baseline .
+ To compensate for this similarity, we employed a two-stage resonance process . We employed the same process to compensate the similarity .
+ The first stage calculates a signature that distinguishes partisans of either side from the baseline general population . The second stage calculates the signature of partisans of both sides .
+ The second stage uses a signature ratio procedure to distinguish partisans of one side from partisans of the other side . The secondstage uses only topic-resonant content as a baseline .
+ The user scored as resonant with both the first-stage topic signature and the second-stage partisanship signature . We labeled a user as resonateant with the pro-Russia activist community if the user scored.
+ Identify a moderately large number of users who are known partisans of each group . Identify some of the most common users in the world .
+ In this case, we used the members of the pro-Russia and pro-Ukraine activist communities . In the case, they used members of both pro-Russian and anti-Ukraine activists .
+ Calculate the resonance score for all users in P using the topic signature . Use the topic signatures to create a resonance score .
+True positives for users in P are maximized while false positives remain below 5 percent . Choose a threshold such that true positives for Users in P were maximized .
+ The 0.0 threshold achieves a 73-percent true positive and 4-percent false positive rate . The 0-0 threshold is the lowest level of true positive or true positive .
+ The topic and partisan-resonance scores are calculated for all users in the test population . The test population is based on the number of users in a test population.
+We chose them so that we would have high confidence in any matches, at the cost of likely not identifying all the resonant users in the population . We chose them to be chosen so that they would be able to play any matches .
+ Applying the determined thresholds, users identify users who are resonant with both the topic and partisan signatures . The threshold is determined by the user's level of interest .
+ We scored members of the pro-Ukraine activist and pro-Russia activist communities against the topic and partisan signatures . Specifically, we scored members.
+ This is essentially a common-sense check to ensure that our signatures represent what we believe they represent . This is basically a common sense check. This is an attempt to make sure that our signature represents what we think it represents .
+ If our procedure executes accurately, it should label members of both communities as resonant with the pro-Russia activist signature .
+ The majority of accounts are labeled resonant with the signatures with which we would expect them to be resonant . The detection rate is not perfect.
+ This suggests that the methodology can distinguish between partisans and partisans, even when they are vigorously discussing the same subjects . The methodology suggests that partisans can distinguish.
+ A single-blind, out-of-sample test of the methodology was also validated by a human analyst’s ability to distinguish between proand anti-Russia content .
+ This table shows the percentage of users in each community who exceeded the resonance thresholds for the topic and pro-Russia activist signatures, respectively . This table includes the percentage that exceeded the threshold for a topic or activist signature .
+Each of the 55 tudinal panel data, each of whom had tweeted at least 1,000 words total, each had tweet at least one in at least five of the nine months .
+ This means that, compared with the baseline population, they did not favor the topics of interest to the proor anti-Russia partisans . This is because they were not interested in the topic of interest. This means they didn't favor the topic as much as they did with a baseline population
+ These users were resonant with both the topic and pro-Russia activist signatures . The users were also resonant.
+ The Russian government is accused of using language characteristic of consumers and disseminators of Russian propaganda . They met both criteria necessary to label them as using language. That is, according to the Russian government .
+ An expert on Russian language examined these accounts on Twitter 5 . This means there was sufficient content for each user but also that content was not limited to a single short time period .
+ On average, the Russian-language expert rated likely Russian propaganda supporter accounts as pro-Russia propaganda . All other groups as not pro- Russia propaganda, the expert said .
+ The expert rated both likely supporters of Russian propaganda and topic-resonant accounts as discussing partisan-favored topics . The expert also rated both Likely supporters of Russia propaganda and topics-res onant accounts .
+ The difference in means for this rating was also statistically significant . The difference is also statisticallysignificant .
+ This totals to an 83-percent true positive rate, at the cost of only an 8-percent false positive rate . This is a true positive rates of 83- percent . This total is at the costs of only 8- percent false positive rates .
+ Expert scoring was highly consistent with the 6 We used >3 as a cutoff point .
+ T-tests assessed the difference in mean rating of likely supporter of Russian propaganda and topic-resonant accounts .
+ For “Appears to Disseminate and Consume Pro-Russia Propaganda,’ we compared the difference in mean rating of likely supporter of Russian propaganda accounts with all others .
+ computerized scoring using the resonance analysis approach. Both t-tests were two-tailed, nonpaired, Welch t- tests .
+ This test confirms that resonance analysis can make determinations consistent with a human analyst’s judgment . The analysis is more recent than the data fueling the computational analysis, the test says .
+ To count toward the vertical-axis percentages in this table, a user would need to be labeled as topic resonant and partisan resonant .
+ Roughly 20 percent of sampled Crimean accounts were labeled resonant . 15 percent of sample accounts were labelled resonant. Roughly 15 percent were labeled resonanceant .
+ Pro-Russia activist resonance was particularly low in places known to lean pro-Western, such as Riga and Kyiv . It generally stayed under 5 percent .
+ Our other three Ukrainian locations tend to align more with Kyiv than Donetsk . Our other 3 Ukrainian locations are more than Kyiv .
+ Within each location, resonance scores were generally stable over time . Within each place, resonance score was generally stable .
+All places experienced a surge of pro-Russia activist resonance between April and May 2016 . However, all places experienced an increase in pro-Russian activist resonance .
+ Most locations experienced a rise of 2 to 3 percent, but Crimea and Minsk rose 5 to 6 percent . Most locations in Crimea experienced a 2-3 percent rise .
+ The assumption was that Twitter users who use the same language content patterns as a known group of partisans share in that group’s ideological beliefs . The assumption underlying this approach was the notion that Twitter Users who use same language patterns as known partisans share that group .
+ 15 percent of users from our panels in Crimea and Donetsk share the same linguistic pattern as the pro-Russia activist Twitter community . The rates drop as one goes farther away from the zone of pro-Russian influence .
+ That populations highly resonant with pro-Russia activists are concentrated in such areas of strong pro- Russia influence gives the analysis a degree of validity . The analysis shows that such populations of pro-Russian activists are more resonant in those areas .
+Computer-generated assessments of resonance accurately correspond to the manual assessments of a blind rater . Also suggesting that the method is valid, we suggest that it is valid .
+ This method could be used to assess the potential growth of this pro-Russia activist group over time .
+ It is difficult to immediately distinguish such accounts from more-authentic conversation . We suspect that this group consists of a high number of pro-Russia bot and troll accounts .
+ There is value in tracking the potential growth and geographic spread of this group over time, we believe . Regardless, we think there is value.
+Experts in the region report a critical need for tracking pro-Russia social media . Such changes might presage pro-Russian influence and operations that are more malign, they say .
+ This method can detect changes across both geography and time of social media influence or activity . It could serve as a valuable tool in this endeavor .
+ We believe this method could serve as a potentially useful tool in assessing the potential impact of a variety of different propaganda sources .
+ In Appendix C, we identify the lexical fingerprints of four different sources of Russian propaganda disseminated via Twitter .
+Pro-Russia thought leaders, pro-Russia media, and pro-Russian trolls are included in a list of Russian officials . The list includes Russian officials, thought leaders and thought leaders .
+Russia uses different sources to communicate different messages to different audiences . Reviewing these lexical fingerprints offers value in that it highlights how Russia uses different methods to communicate with different audiences.
+ The method is possible to measure the resonance of this propaganda in a population of Twitter sources .
+ More than 40 U.S. and regional experts interviewed on Russian threat, current efforts to counter the threat, and recommendations for improving existent policy .
+ This chapter details the challenges associated with countering Russian propaganda in the region . This chapter includes the challenges related to countering Russia's propaganda in Russia .
+ We conducted interviews with key subject-matter experts and U.S., EU, and NATO officials engaged in countering Russia's influence .
+ RAND analysts conducted field travel to U.S. European Command headquarters in Stuttgart, Germany . They interviewed officials in several information-relevant staff sections .
+ We also traveled to Estonia and Latvia, where we conducted interviews with U.S. embassy personnel, host-nation security officials, journalists, and academic experts .
+ Back in the United States, we also conducted interviews with officials at the U.S. Department of State and the Pentagon .
+ We also conducted phone interviews with civil society experts based in Ukraine and the Baltics and officials in Ukraine .
+ We identified participants in Latvia and Estonia based on earlier RAND research . We conducted more than 30 interviews .
+ RAND analysts took detailed notes during each interview and informally coded the content to enable subsequent analysis . The content was coded for subsequent analysis.
+ For our analysis, we supplemented interview content with content derived from the literature . For ourAnalysis, we supplement interviews with content from the Literature .
+ The breakup of the Soviet Union in 1991 led to the creation of 15 independent countries that had formerly been Soviet republics . Findings History of a Shared Legacy with Russia and Modern Disenfranchisement Increase Local Russian-Language Populations’ Vulnerability to Russian Messaging .
+ The impact of the Soviet period varied across countries but led to significant demographic, linguistic, and cultural changes that would have long-standing political implications . Russian influence more than two decades later .
+ Many other people in the former Soviet republics speak and understand Russian and so might be swayed or compelled by Russian-language propaganda .
+ We identified all remaining interview participants via the snowball method . Initial contacts recommended others within the U.S. and allied governments .
+ The Soviet Union engaged in a deliberate strategy of settling populations from elsewhere in the Soviet Union . In Estonia and Latvia, the Russian Information Threat is 63 .
+ Estonia and Latvia adopted policies of legal continuity with the pre-World War II governments . People who could not trace their ancestries to pre-1940 Estonia or Latvia did not automatically gain citizenship .
+ Nationalist movements in both countries sought to ensure that the language and culture associated with the majority population dominated the new governments .
+ Both countries liberalized their citizenship policies and made it easier for Russian speakers to gain citizenship . Both countries are part of the process of joining the EU .
+ The socioeconomic status, political opinions, and loyalty of the Russian speakers in the Baltic states vary extensively .
+ In both Estonia and Latvia, the Russian-speaking population is concentrated in capital cities and in regions close to the Russian border .
+ Urban Russian speakers tend to be relatively well off, while rural populations are, on average, in lower income brackets . incomes in these regions still favorably compare with those in the neighboring regions .
+ In both countries, there is a spectrum of levels of loyalty and integration into the majority society . In both nations, there are levels of loyalism and integration .
+ In Estonia and Latvia, nationalist movements remain strong, and in both countries, there have been shifting political coalitions made up of center-right parties . The majority population are skeptical of granting additional recognition to Russian speakers .
+ Ukraine has had a highly complex and disputed national identity . Many people traced their roots to Russia, and many Ukrainians were bilingual or even used Russian as their primary language .
+ Ukraine’s ethnic composition was shaped by many factors, including human-caused demographic catastrophes, migration and economic conditions .
+ According to the 2001 census, 29. percent defined Russian as their native language, while 67. percent indicated Ukrainian . The 2001 census also indicated Ukrainian as their language .
+54. percent selected Ukrai2 Interview with technology blogger, Riga, Latvia, January 2017 . In another survey, which allowed multiple choices, 54. percent of respondents chose a technology blogger .
+ The Russian Information Threat is 65 nian, 30. percent Russian, and 12. percent both Ukrainian and Russian .
+ Ukraine-Russia ties are deeply fraught under Stalin and the manufactured famine . In addition, ties between Ukraine and Russia have a lot of mutually reinforcing cleavages .
+ It's hard to find a Ukrainian family without some relatives in Russia, and vice versa . For example, it is hard tofind a family in Ukraine without a Russian family .
+ divisions within Ukraine about its relationship with Russia and the West were brought to the fore in the 2004 Orange Revolution and 2014 Revolution of Dignity .
+ People in western Ukraine tended to identify more often with a Western-aligned Ukrainian government and use Ukrainian as their primary language . Those in the east tended to more often use Russian and see themselves as closer to Russian .
+ Many Ukrainians still retain their ability to understand Russian and consume Russian media . Still, even as Russian aggression in Crimea and eastern Ukraine turned many Ukrainians against Russia, they still retained their ability.
+ The nationalist political influence in Estonia and Latvia further limit the potential for developing alternative media in Russia . Discriminatory Policies Against the Russian Language Enhance Disenfranchisement and Limit Opportunities for Outreach .
+ The major Estonian and Latvian political parties oppose official recognition of the Russian language . They fear of undermining or diluting their own national culture .
+ The Latvian government cannot fund a Russian-language station, and domestic stations must broadcast at least 65 percent of the time in the country . Latvians are the official language, and LatVian is the officiallanguage .
+ Russian-language programs from Russia are easily available on cable stations .6 Estonia and Latvia have attempted to remedy the dominance of Moscow-controlled media .
+ A Russian-language, Estonian government-funded ETV+ went on the air in September 2015 . “a good addition, but is still under development,’s one official says .
+ In the Baltics, Russian Broadcast Television and News are the Biggest Threat Russia-controlled TV remains a key source of entertainment and information for Russian-language populations .
+ interviewees emphasized that the Russian speakers consume mainly Russian state-controlled media . About both Latvia and Estonia, interviewees emphasize that the Russians consume mainly state-run media .
+ Many Russian speakers in Estonia and Latvia get most of their information from TV . The most-popular stations among the Russian-speaking popula5 Interview with government official, Riga, Latvia, January 2017 .
+ Key Challenges to Responding to Russian Information Threat 67 include rebroadcasted or adapted versions of Moscow-controlled stations .
+ Many Russian speakers cannot easily understand TV programs in the majority language . Many, especially older, Russian speakers can't understand TV shows .
+ Production value and entertainment level of Moscow-funded media tend to be significantly higher, in part because of government subsidies and in part due to greater economies.
+ First Baltic Channel includes general entertainment, global news, and local news at a higher level of production than Estoniaor Latviarun local stations . For example, the popular First Baltic channel includes entertainment and global news .
+ Russian speakers live in such an information cocoon, many would tend to adopt the Kremlin’s perspective about current events .
+ The whole world’s capitalists and their governments, as they pant to win the Soviet market, will close their eyes to the above mentioned reality and turn themselves into men who are deaf, dumb and blind .
+ They will give us credits . . . they will toil to prepare their own suicide . They will also give us credit for their suicide .
+ The active presence of such sources complicates targeting of Russian propaganda . It is often difficult to discriminate between authentic views and opinions on the internet and those disseminated by the Russian state .
+ The varied Twitter accounts identified as part of the pro-Russia activist community are a perfect example of this . The varied accounts are part of a pro-Russian activist community .
+ These accounts disseminate Russian propaganda themes and messages, but it is difficult to determine the degree to which they are “fake’ troll accounts or real Twitter users engaged in genuine dialogue .
+ No UK soldiers present at the hospital in question at the time were described in the story . In fact, on further investigation, no UK soldiers were present at hospital .
+ Security officials think that this story might have been started by a fake Facebook page that presumably has Russian troll origins . Security officials believe that the story might be started by the fake page .
+ The content seemed to have the hallmarks of Russian origin . However, this does not appear to have been the actual origin .
+ The campaign was started by a relatively radical Russian-speaking member of the European Parliament . There was no clear indication that the Russian government was involved .
+Latvian social media campaign indicates there are significant challenges in attributing Russian-language information operations . Latvian Social Media campaign indicates, there are major challenges.
+ Russian Information Threat 69 to the Russian government. Key Challenges to Responding to Russian Informationthreat 69 to Russia .
+ Estonian officials observe and monitor Russian social media . They have tracked most negative social media campaigns to disgruntled local Russian speakers . Estonian authorities have also reported that they monitor and monitor social media.
+ Social and economic problems that are unrelated to the presence of Russian speakers can also offer an opportunity for Russian influence . Russian speakers are also able to influence social and economic issues .
+ Such campaigns do not necessarily directly echo Russia's own interests, they do align with Russia’s general political objectives . But such campaigns do aligns with Russia's general political objective .
+ Russia can take advantage of the ethnic divisions within the Baltics . But it also has a wide range of other tactics at its disposal .
+ The diversity of the three Baltic states, their small size and the unique culture of Russian speakers also create problems for developing media that are competitive with Russia’s programming .
+ Given the small size of the Baltic states, developing sufficient scale for a campaign might be difficult . Developing sufficient scale is difficult for Latvia and Estonia .
+In 2014, in reaction to Russian aggression and the current state of conflict with Rus12 Interviews with analysts, Riga, Latvia, January 2017 . In 2014, Russia was in the midst of a state of war with Russia . In 2013, Russia and Russia were in the middle of
+ Ukraine experts recommended that other states in the region apply a similar tact . European values of a free press likely mitigate against such moves .
+ The U.S. military, the State Department, the Broadcasting Board of Governors, and other agencies have a role in monitoring, analyzing, and responding to Russian influence .
+ Most of the TV channels are private, so enforcement of a complete ban of Russian content might be challenging . Also, because most of the channels arePrivate, enforcement of the ban might be difficult .
+ Russian Information Threat 71 have final say over what occurs in their particular countries . Key challenges to Responding to the Russian Information threat are to respond to the threat .
+ A wide and growing range of State Department activities also seeks to counter the threat of Russian propaganda, including public diplomacy, and personto-person exchanges . The State Department is also trying to counter Russian propaganda .
+ The United States military also plays a role given its extensive resources and considerable authorities . The U.S. military also has considerable authorities and resources .
+ Heavy-Handed Anti-Russia Messaging Could Backfire. Interviewed analysts emphasized that many Russian speakers are deeply skeptical of Western propaganda because of their experience of the Soviet Union .
+ Russian-language media is directly produced by Western state-funded media, such as Radio Free Europe/Radio Liberty or Deutsche Welle . They might be unlikely to embrace Russian- language media, for example .
+Linguistic and cultural specificities of particular communities within the Baltic states will make it difficult to effectively message to some populations that are most vulnerable to Russian propaganda . Other linguistic and cultural specialities will also make it hard to effectively communicate to some communities .
+Russian speakers in Estonia appear to use a unique dialect, which could make any Western attempt to directly communicate with Russian speakers in the country backfire . For example, Russian speakers use a different dialect, making any attempt to communicate with them backfire.
+ Europe is challenging and highly politically sensitive theater for information operations . Europe is a challenging and politically sensitive Theater for information. Europe is also a challenging theater for Information operations .
+ Heavy-handed or obvious U.S. “propaganda,’ or information activities that can be traced back to the United States government, could backfire and set back United States objectives, interviews say .
+ Russian Social Media Influence United States government effort directing information operations at NATO partner . The U.S. government is trying to counter Russian social media influence .
+ Several in the region note various sensitivities. In addition, some disagreement on this point exists, several in the area note various sensitivity .
+ Of course, not all contacts agree with these concerns, but they suggest a need for some caution .
+ Department of Defense and intelligence community in order to ensure that any political sensitivities are addressed .
+ A given country's ambassador approves all U.S.-initiated information campaigns . One of the most significant hurdles is ensuring that a given country’s ambassador approves.
+ Acquiring such approval demands close coordination with the ambassador and embassy staff during the development phase of any such effort . Acquiring this approval requires close coordination.
+ The Global Engagement Center within the State Department could take a new role leading the response to state actors . As of the time of this writing, the GEC’s role was still developing .
+ EU and NATO could, in theory, be best suited to respond to Russian information, but they have limited resources and difficulty formulating a coherent and organized approach .
+ A NATO official noted that Russia had a very consistent narrative and approach . But that the West had failed to implement a comprehensive diplomatic, the official said .
+ Russian Information Threat 73 informational, military, and economic approach or coherent message. Key Challenges to Responding to the Russian Information threat are to respond to it .
+ NATO appears to lack a capability for social media outreach . NATO's public relations office appears to have no social media presence .
+ The NATO StratCom COE is a collaborative effort led by Latvia and other sponsoring nations . It is relatively new but is a relatively new effort .
+ East StratCom has only 11 people on staff . The European External Action Service has just 11 people. The main response is to the European External action Service East Stratcom .
+ It appears difficult to imagine how the EU could develop an effective message given the complexities of the European bureaucracy and need for consensus across member states .
+ In Russia’s favor lies regional “compatriots’ who speak Russian, hail ancestrally from Russia . In some cases, they have not been eagerly adopted by their resident countries .
+ Russian government broadcasts in the region serve as a potent propaganda weapon for Russia . The region is one with relatively few regional competitors .
+ Ukraine has addressed this problem with outright censorship, but alternative remedies will likely be necessary in the Baltics .
+ In this media environment, it is difficult to distinguish genuine and authentic web conversation from formal Russian propaganda . Russian nonattributed content can intermix freely among like-minded activists .
+ Heavy-handed anti-Russia messaging might backfire in the region given local skepticism of Western propaganda, as could the variety of dialects unique to the region . We note that heavy- handed anti-Russian messaging might be backfire.
+ Russia's web and media content can rival that of Russia . It will be critical to work with local populations and media producers to create web content .
+ It will be critical to develop mechanisms to identify Russia propaganda content and, if necessary, help label it as such .
+Anti-Russia messaging will have to be conducted with care, of course .
+Local 74 Russian Social Media Influence messengers have credibility and influence in the region . This might mean relying on local 74 Russian social media messengers who have credibility .
+ NATO and local governments offer genuine communications that explain policies and offer a credible alternative to alignment with Russia . It might also require careful public relations messaging.
+In the text for each recommendation, we highlight what is known about existing and related policies . In the text, we also highlight what's known about current and related Policies .
+Russian propaganda initiatives focus on exposing examples of Russian influence and fake news . Highlight and “Block’s Russian Propaganda Numerous counter-Russian propaganda.
+ In Ukraine, volunteer journalists and students have developed initiatives to identify and counter Russian propaganda on the internet . The Cyber Army, Infosprotyv, Myrotvorets and Cyber Army are among the initiatives .
+ StopFake is a crowd-sourced journalism project that seeks to counter fake information about events in Ukraine . One such program, StopFake, is a program that aims to counter false information .
+ Recent headlines refute claims that German Chancellor Angela Merkel was 75 76 Russian Social Media Influence ending Russian sanctions .
+ The EU East StratCom Task Force also seeks to expose Russian propaganda . The European East Stratcom Task Force seeks to exposed Russian propaganda.
+ Better communicate EU policies in eastern European countries and countries east of Europe, support independent media in the region, and raise awareness of Russia’s information campaign .
+Russian disinformation efforts to highlight Russian disinformation should be lauded, we observe at least two key limitations . But such efforts should be applauded, we also observe two key limiting.
+ Russian disinformation has likely already reached and possibly influenced key audiences . By the time examples of Russian disinformation are highlighted, the information is likely to be at risk .
+ Second, the audiences most at risk of being influenced by 1 Phone interview with European official, February 2017 .
+ Recommendations 77 by Russian disinformation might be the least likely to routinely consume or access disinformation sites .
+ New approaches may be needed to effectively counter Russian propaganda . New approaches could take advantage of advances in modern technology .
+ Facebook, including Facebook, have initiated some efforts to address fake news . First, various technology firms have begun efforts to tackle fake news.
+ Facebook has developed a “disputed tag” that warns users that fact-checkers or Facebook’s own algorithms have identified the content as suspect .
+ Google offers a Fact Check tag that it applies to suspect content displayed on the Google News portal .
+ Google and Facebook are working to combat fake news . The extent of these initiatives remains to be seen .
+ Twitter is offering a chance for users to verify accounts . It's not as effective as terminating accounts known as trolls or automated bot accounts .
+ Ross Frenett of the firm Moonshot CVE argues that Google Ads might provide an alternative effort to counter Russian propaganda . The firm says Google Ads may provide a way to counter Russia's propaganda .
+ One counter-violent extremism program has received significant attention in the press . The Redirect Method is a potentially effective approach to reducing the appeal of the Islamic State .
+ Google AdWords identifies potential ISIS recruits through their Google searches . This method exposes them to curated YouTube videos debunking ISIS recruiting themes .
+ Google AdWords can identify instances in which people search Google about fake-news 2 Interview with Ross Frenett, Moonshot CVE, D.C.
+ These people could then be exposed to information that disputes such stories or otherwise exposes them to alternative news or video content . These people may then be expose to information about such stories .
+Russian trolls have used comment sections in various news articles to promote their messages in nonattributed ways . Third, we previously noted that Russian trolls have been using comment sections to promote messages .
+ Facebook requires that a prospective user use the user’s real name, and the organization can ferret out those who attempt to sign up with fake names .
+ Facebook users can use anonymous troll farms to take over a comment page . Russian actor, such as Russia, can take over the comment page.
+ A second potential technology, called Perspective, has been developed by Jigsaw, a technology incubator at Alphabet .
+ Jigsaw created a machine learning tool that identifies toxic and incendiary comments that can then be queued up for review and potential elimination by comment forum moderators . Jigsaw has created a tool to identify toxic comments.
+ Russia systematically uses nonattributed social media accounts in the form of trolls and automated social media bots to conduct its information campaign . Russia also uses social media bot accounts to conduct information campaigns .
+ It is critical that the U.S. monitor this campaign closely and track the nonattributed social media accounts employed as part of the campaign .
+ One approach is to attempt to “out’ out these accounts by publicizing their sources . One approach to ‘out” these accounts is to try to publicize their sources.
+ Alqimi National Security analyzed Russian troll accounts and U.S.-directed hashtag campaigns on Twitter .
+ On Twitter, this could include sending out retweets or mentions that publicize the user’s deceptive and malicious nature .
+Government accounts would be able to post a correction directly using the same hashtag . Government accounts would also have to respond to the hoax .
+ Authorities can identify accounts to social media companies that might be able to terminate accounts based on terms-of-service violations . Authorities can also identify such accounts.
+ The most-influential bot and troll accounts should be prioritized for such terms-of-service violations . In particular, the most-Influentialbot and troll account should be priority for such violations .
+ Build the Resilience of At-Risk Populations. Building the resilience of at-risk populations focuses on helping Russian colinguists and others in the former Soviet states .
+ Numerous experts in Estonia, Latvia, and Ukraine made such recommendations . They focus on media literacy training .
+ Analyze and explore how messages are ‘constructed’ Whether through social media, print, verbal, visual or multimedia, they are “constructed.’s’
+ Evaluate media's explicit and implicit messages against one’s own ethical, moral and/or democratic principles .
+ Express or create their own messages using a variety of media tools, digital or not . Express and others can use their own messaging tools .
+ The Baltic Centre for Media Excellence provides training to journalists in the Baltics . It conducts media literacy training in the region .
+ The center also works to guide schoolchildren with media production programs and raise awareness of fake news on social media .
+ The U.S. embassy in Latvia is looking to initiate media literacy programming . The embassy is also looking to start media literacy programs .
+Media literacy training as part of a national curriculum could be critical, authors say . Media literacy training could be part of the national curriculum .
+ She argues that such training has been proven effective and is increasingly critical in an informationempowered age . She says such training is increasingly important in an Informationempowered era .
+ Sweden has launched a nationwide school program to 4 Interview with technology blogger, Riga, Latvia, January 2017 . Sweden, out of concern about Russian fake news and propaganda, has also launched a national school program .
+ Jolls says a curriculum-based training program will take time to develop and establish impact . Jolls recommends that authorities launch a public information campaign that teaches the concepts of media literacy to a mass audience .
+ This campaign, disseminated via conventional and new media, could be targeted to the populations in greatest need . This campaign could be disseminated by conventional and New media .
+ It is possible to meld a public information campaign with social media-driven training programs . It is also possible to use social media to promote public information campaigns .
+ Facebook has also launched its own media literacy campaign . The social media site has been distributing tips for spotting fakenews stories .
+ This has been publicized in the UK ahead of the upcoming parliamentary elections . This is the first time the UK has published this information in the past .
+ It would be possible to develop such programs for an eastern European and Ukrainian audience . It would certainly be possible for such programs.
+ Several respondents interviewed for the study raised the question of whether it is necessary to counter Russian propaganda or to compete with it .
+ Most speak only Russian; they are not integrated into Estonian Latvian societies . They are alienated and isolated; all they can do is watch TV shows coming out of Russia .
+ Ukraine and its Ministry of Information Policy have also taken a similar approach by supporting the creation of an Information Army . The Information Army is an online platform to unite volunteers who wish to help fight Russian propaganda .
+Russian state-sponsored programming is a major source of Russian state programming . The region often receives a heavy dose of state- sponsored programming .
+Empower Influencers on Social Media Commercial marketers use brand ambassador programs to identify key influencers within their fan bases . Empower influencers through a series of engagements that seek to enhance their social media skills .
+ This approach is premised on the fact that such influencers already have an established audience and that they are viewed as more credible, in large part because of their independence, than a brand's paid advertisements .
+ Recommendations 83 “The more supporters on our side, they observe, “the bigger the bubble of positive messaging,’ they say . The more supporters are on the side, the more positive messaging .
+ A lot of problem we have is we should be getting others to carry weight for us . We need to get others to help us carry weight. We have a lot of problems we have with our weight .
+ The best person to argue the Russians in Latvia, it is a Russian in Latvia saying they are ok .
+ We need to target people who have credibility, and we need to support them, says the U.S. government .
+ There is a real opportunity to strengthen their voice and have them represent the idea that there is a Russian-speaking European identity .
+ Russian-speaking minorities. You can believe in the value of NATO, European Union, and liberal democracy and still speak Russian .
+This is the concept that underlies the findings reported in Chapter Three . This is the idea that underlie the findings in Chapter 3 .
+ In January 2017, NATO StratCom COE used community detection algorithms . In that chapter, we used community discovery algorithms . We used the algorithms to find out what to find .
+ We also identified relevant fence-sitter communities that are connected to pro-Ukraine activists but have not yet been galvanized to participate in the anti-Russia fight .
+ Applying various measures of centrality that can assess the influence of individual accounts would make identifying key accounts that are influential among fence-sitter communities relatively straightforward .
+ Organizations seeking to counter Russian propaganda can then seek to work with these accounts to enhance their influence potential . Organizations trying to counter Russia's propaganda can also seek to use these accounts as a tool .
+ Applying a brand ambassador model to this community would mean identifying and reaching out to influential users and establishing a trusted relationship . Applying an ambassador model would be a great way to connect with users .
+ In-person or online training programs could be used to help pro-Ukraine people use social media and offline communication techniques .
+ Efforts could also be undertaken to connect these users to better social media content and to inform their efforts with powerful social media analytics .
+ This could expand beyond just the pro-Ukraine activist community . Of course, this could also expand beyond the Pro-Ukraine community .
+Brand ambassador programs could be used with influencers across a variety of social media channels .
+ It could target other prominent experts, such as academics, business leaders, and other potentially prominent people . It could also target academics and business leaders . It would also target other potential prominent people.
+ Authorities must ultimately take care in implementing such a program given the risk that contact with United States or NATO authorities might damage influencer reputations .
+Engagements must be made with care, and if possible, government interlocutors should work through local NGOs . Engagements must also be made by local NGOs, and the government should work with them .
+ Those managing influencer engagement programs should not seek to unduly influence an influencer’s messaging content . In addition, those managing influencers engagement programs shouldn’t try to influence their content .
+ Influencers maintain their credibility because of their independence . Sometimes, this independence leads them to communicate content that does not fit the preferred message of a brand manager or government or NGO .
+ In such instances, efforts to control the character of this content can often do more harm than good .
+ Fund Content Creation Current efforts are under way to support the creation of alternative media content . The fund is trying to create alternative media.
+International donors will donate to a basket fund that will pay a committee of local experts who will manage and distribute the money to Russian-language producers and broadcasters that pitch various projects .
+ funding Russian-language and local media creators gives the work a local level of relevance that foreign broadcasters cannot achieve . Funding Russian- language andLocal media creators give the work of foreign broadcasters a local relevance that they cannot achieve.
+Train Russian-Language Journalists is to support journalism training in the Baltic region and Ukraine .
+An Estonian security official tells us how the international community can help counter Russian influence .
+ The United States sponsored a TechCamp in the region that brought together local journalists from eastern Europe . The program also included a sponsored yearlong investigative project .
+ The Baltic Centre for Media Excellence provides training opportunities for journalists and local media outlets in the Baltics .
+ The center spent a week with the editors and journalists of one local newspaper in Latvia . The center also offered follow-up sessions for journalists .
+ It conducts small and targeted training efforts, such as a half-day effort on digital strategies, depending on the needs of the outlet or journalist . It also conducts small, targeted training and other training efforts .
+ One challenge is the lack of effective media outlets in the region. One challenge, however, is that there are not enough media outlets .
+ One expert talked of supporting a start-up hub in the region that could attract and keep trained local Russian-language journalists .
+Hyperlocal media initiatives will need outside funding and mentorship to become self-sustaining . Such efforts will require outside start-up funding and careful training and training .
+ Training on one weekend a month a month covers all the different topics . Training helps you interact with different media actors and media actors .
+ So level 2, hyperlocal media platforms . . . need to figure out other .
+ Recommendations 87 own social media channels with projects funded through a contentcreation hub . Recommendations were discussed in the previous section .
+ Increase Russian-Language Programming is another alternative to support Russian-language TV programming in the region . Increase Russia-language programming is another option to support TV programming .
+ It broadcasts in both Estonian and Russian languages . It is intended to provide the Russian minority living in Estonia access to a broadcast channel not controlled by Russia .
+Latvian TV station LTV-7 offers some programming in the Russian language but must offer Latvian programming as well . By law, by law, the station must also offer LatVian programming .
+ One of the first initiatives of the Ukrainian Ministry of Information Policy was a launch of a global International Broadcasting Multimedia Platform of Ukraine channel with objective information about Ukraine to dismantle Russian propaganda .
+ Current Time reportedly complements its TV programming with digital content . Current Time also airs documentary programming and reportedly complemented its TV shows with digital material .
+ BBG is conducting surveys to assess market penetration outside Russia . Current Time gains a broad following is an empirical question .
+ Current Time could draw viewers away from Russian TV programming of RT and Sputnik . It would certainly be a positive development if Current Time was on Current Time .
+ One effort that might assist in this regard is expanding programming to include more conventional entertainment programming . One effort is to expand programming for more conventional programming .
+ Current Time reportedly plans to air travel, cooking, and other entertainment programs . There are reportedly plans for Current Time to air Travel, cooking and other programs .
+ One U.S. embassy staffer from the region gave the importance this program had on influencing national opinions about the gay and lesbian community .
+ It could be done in a way Western values, and it could be interesting enough for folks to watch . It could also be interesting to watch, says author .
+ Such programming is so transparent that it can avoid the risks that might otherwise be associated with propaganda campaigns .
+ U.S., NATO, EU to offer their own messages that offer compelling argument for populations to align with the West . Beyond “countering these messages in a tit-for-tat way, it will likely be critical for the United States, NATO, and the EU to
+ Recommendations 89 Support Enhanced Forward Presence with Effective Public Relations . Consider NATO’s EFP in eastern Europe .
+ NATO has deployed battalion-sized battle groups to Estonia, Latvia, Lithuania, and Poland . To provide a deterrent against threatening Russian actions in eastern Europe, NATO deploys battle groups .
+ A potential example of this affect on social media is of the previously noted fake story of UK soldiers harassing an elderly woman in an Estonian hospital .
+ Security experts in Estonia and Latvia urge that proper efforts be undertaken to ensure integration of NATO's presence in eastern Europe .
+Civil engagement activities conducted on the part of EFP forces. One approach that has apparently paid dividends is civil engagement activities .
+ In Latvia, for example, U.S. soldiers have reportedly conducted numerous civil engagements with local populations .
+Soldiers cut firewood for local Russian-speaking Latvians. In one example, soldiers cut fire wood for local Russians .
+ The EFP will also be critical to support the EFP forces with effective communication . In addition to such events, it will also help support the U.S. military forces .
+ NATO expert says 30 percent of Russian sympathetic if not pro-Russian . Estonia, Latvia, and Lithuania still have 30 percent who are Russian sympathetic .
+ EFP forces need to communicate the intent and purpose behind the forces and reassures concerned local populations . They need to understand who we are, and why we are there, and that we are part of their team .
+ Efforts that support EFP civil engagement activities with compelling video and 24 Interview with United States officials, Riga, Latvia, January 2017 .
+ NATO should likewise provide support and training, where needed, to local public affairs and other communication personnel . And NATO should also provide support, training and support to local officials and others .
+ Local government and military public affairs personnel can play their part in creating and disseminating entertaining and sharable content that supports the EFP mission . EFP is a non-profit organization that aims to provide information to the public .
+ EFP exercises and events might prove particularly credible among Russian-speaking audiences . There might also be value in working with selected Russian-language journalists .
+ There is a need to offer skeptical Russian speakers in the Baltics and Ukraine a compelling vision for siding with the West . Offer a Clear and Convincing Strategic Message, says John Sutter .
+ It might be that liberal democracies no longer sell themselves or at least it is a more difficult sell when confronted with a fire hose of contradictory content .
+ NATO and the EU need to craft a message around the benefits and value of EU and NATO membership, says the Baltics .
+ It is an impossible task to effectively correct all fake-news stories maligning the Baltics or Ukraine and their relationships with the West .
+ To the extent that the West, including the EU, the United States, and NATO, can tell its story in a clear and convincing manner, that might make Russia’s job at propaganda that much harder .
+ Each nation in the region should likewise make concerted efforts to speak to Russian lin26 Phone interview with NATO official, February 2017 .
+ Recommendations for 91 guists living in that country and clearly articulate how and why that nation offers them a brighter future .
+ Track Russian Media and Develop Analytic Methods will be critical to counter Russian propaganda .
+ It will be important to identify and track the identities and influence of unattributed Russian social media accounts that take the form of bots or trolls .
+ These accounts represent a potentially pernicious form of influence, according to CNN . The accounts are targeted against audiences in eastern Europe and Ukraine and the United States .
+ Monitoring various social media channels in the Baltics and Ukraine will also be important as a way of identifying any Russian shaping campaign that could prelude political or military action .
+ The study did not seek to conduct a comprehensive analysis of U.S. and allied efforts to monitor Russian propaganda on social media . The study was conducted by a Pentagon official, Washington, D.C.
+ It is impossible to attest to the degree to which effective monitoring mechanisms are put in place .
+ The EU’s East StratCom Task Force publishes information on Russian propaganda efforts . In addition to NGOs, such as StopFake, the East Stratcom Task Force also publishes information .
+ Estonian security officials report that they routinely monitor Russian media efforts . Estonian officials say that they monitor media efforts.
+ EUCOM has recently worked to gain contracted support to conduct social media monitoring and analysis . EUCOM is also working to gain contracts to conduct monitoring of social media .
+ NATO StratCom COE drafts research papers on a host of strategic communication topics confronting NATO . The COE is based in Riga, Latvia, based in Latvia .
+ The number of security organizations that lacked situational awareness of Russian social media and other propaganda campaigns was surprising .
+ We do not know how many disinformation channels, how many messages spread per day . How many people believe in disinformation messaging, we do not .
+ NATO, EU, and key nations in eastern Europe will have effective mechanisms in place to identify and understand Russian propaganda . Ultimately, it will be key for different members of relevant U.S. agencies .
+This might include working with relevant technology firms to ensure that contracted analytic support is available . This might include work with relevant tech firms. This might also include working on a contract with relevant companies .
+ Contracted support is reportedly valuable because technology to monitor social media data is continually evolving . Such firms can provide expertise to help identify and analyze trends, and can more effectively stay abreast of the changing systems .
+ One U.S. official observed that it is a "great think tank" and suggested that the United States would be well served to contribute United States analysts to the international body .
+ Additional approaches will need to be developed and refined as Russia's methods evolve . Russia’s methods are currently being developed and developed .
+ Chapter Four describes an approach that develops a linguistic fingerprint of a propaganda source . It then scans a longitudinal panel of Twitter users in the region to identify the number of accounts with Twitter content that represents a statistical match .
+ This then allows one to track the potential spread and adoption of that propaganda across both time and geography . This then lets one track the possible spread of propaganda across the world . This is then able to track it across both times and geography. This then gives one the chance to
+ If pro-Russia activist group is constituted with a high percentage of Russia-managed bot and troll accounts, the method could serve as a tool to assess the spread of these accounts . It might, in turn, serve as an indicator and warning for Russian influence operations .
+ The appendix lists additional technical details related to lexical and resonance analysis . This appendix lists more technical details.
+ Text Regularization to enhance the signal-to-noise ratio for lexical and resonance analysis . Text regularization is important to first standardize text .
+ Remove all letters outside the common letters of the targeted language . The targeted language is the most common language in the world .
+ The character set to select Unicode characters in the U+0400 through U+045F Cyrillic block . That is to say, constrain the character set for Unicode characters .
+ U+007E Latin Unicode block allows usernames and numeric values to be added to the U+0020 block . For example, weernames are used in Latin Latin languages .
+ Some study designs might wish to relax this constraint, in order to capture emoji . Some designs may wish to use emoji to capture images .
+ Resonance analysis can support this, but our advice is to be conservative in how many total characters are allowed .
+ Stem the language to remove all conjugation, diacritics, and similar features . The language is used to remove the language of conjugations and other features .
+ The language stemmed is based on Twitter’s categorization of the language used in the tweet . The language was used in a tweet .
+ An ideal threshold must be calibrated so that it delivers a high true positive rate while keeping false positives to a minimum . Detector Calibration should be calibrated to deliver a hightrue positive rate .
+Two communities discussed targeted topics at an elevated rate, of which one consisted of proRussia Twitter accounts . Using network analysis, we identified two communities that discuss targeted topics .
+ We used these communities to calibrate our thresholds, as described in this section . We used this community to test our thresholds .
+ The thresholds are standard deviations above the topicresonance scores . We might expect to see by chance alone, given how often topic signature words appear in tweets .
+ A user is considered to be topic resonant if that user’s score is at least 1. standard deviations above the average topic-resonance score .
+ The vertical axis indicates the percentage of users in a particular category who qualified as topic resonant at a given threshold .
+ Using these data, we identified 0. standard deviations as an appropriately conservative threshold . The threshold is 0.standard deviations .
+ At this threshold, about 80 percent of known pro-Ukraine activists are labeled topic resonant . Just under 70 of known anti-Russia activists are known to be pro-Russia .
+ In the process, we also labeled 23 percent of the baseline population as topic resonant .
+ The blue bars indicate the percentage of members in the pro-Ukraine activist community who were labeled topic resonant at a given threshold .
+ The black bars indicate the percentage of members in the pro-Russia activist community who were labeled topic resonant at a given threshold .
+ The gold bars report the percentage of the baseline general population labeled topic resonant at that threshold . Gold bars report a percentage of a general population that is labeled " Topic resonant"
+ A wellcalibrated threshold should mark most known partisans as resonant but should not mark most of the general population as topic resonant in process .
+ Ukraine and Russia’s actions in the region received significant media coverage during this period . The actions were widely discussed on Twitter .
+ The horizontal axis indicates the detection threshold, and the vertical axis indicates a percentage of users in a particular category who would be labeled as partisan resonant .
+Green bars indicate percentage of known pro-Russia activists who would be labeled as partisan resonant at a given threshold . The green bars indicate the percentage ofknown pro-Russian activists who are considered partisan .
+ The red bars indicate the percentage of known pro-Ukraine activists labeled as partisan resonant with the Russian propaganda signature .
+ All pro-Russia activists but no pro-Ukraine activists are labeled partisan resonant . The signature is specifically designed to distinguish between these two groups .
+ We would rather underestimate than overestimate, we set a goal of keeping the false positive rate under 5 percent . We chose a threshold of 60 percent for a false positive Rate .
+ At this threshold, 4 percent of pro-Ukraine activist accounts are falsely labeled as partisan resonant with Russian propaganda, but 73 percent of those accounts are correctly labeled .
+ This appendix details the analytic findings pertaining to other communities in our data set .
+ A few with fewer than 10,000 users were surprisingly central and so were included in the analysis . For the most part, size was highly correlated with centrality .
+ Many of these communities are extraneous to the conversation about the Ukraine–Russia conflict . Because they are still connected to those accounts and communities that are discussing that conflict, they add some value and context to the overall analysis .
+ Apolitical Belarusians Community 1040 is part of the more political metacommunity, and consists of 17,207 users . The community is mostly of Belarusian accounts and topics .
+ Belarus and cities in Belarus include Belarus—Minsk, Gomel, and Brest . Over present locations include Belarus, Belarus, and Belarus.
+Personal accounts belong to Belarusians, covering domestic issues and events related to Belarus . Over present personal accounts belong.
+ Under­present terms include propaganda and terms related to events in Ukraine . Under­ present terms include propaganda and terms related to events in the Ukraine .
+ Politics and propaganda are mentioned in the context of formal news reports . Lukashenko, Putin, and Novorossiya are mentioned.
+ Gadgets and Life Hacks Community 1049 is part of the more political metacommunity, with 29,776 users . The community is focused on tech and gadgets, as well as humor and cat pics .
+Sumy, Luhansk, Zakarpattya, and Mykolaiv. Overpresent geographic terms include some Ukrainian cities and regions .
+ Terms related to propaganda are all under present, as are #news and accounts of news agencies .
+ Personal pronouns and curse words are overpresent, indicating that a significant part of the content is probably original human tweets and lively discussions . Personal pronouns are over present, suggesting that the content may be original .
+ Discussion themes represent a broad range of interests. Most frequent are tech, gadgets, iPhones, Xboxes, life hacks, humor, and business . Most frequent topics are tech and gadgets, including life hacks and life hacks .
+ Events and propaganda around Ukraine, Russia, Donbass, and Crimea are mostly ignored . Events, propaganda and events around the region are largely ignored .
+ Putin and Poroshenko are presented in a neutral way, mostly in the context of official news reports .
+ Celebrities and Show Business Community 1117, part of the more politically-oriented meta-community, is apolitical . Its 33,864 members are interested in entertainment and TV shows .
+ One overpresent hashtag is #newsCrimea, but its content is very neutral, with only local daily news and no geopolitics . One over present hashtag is @NewsCrimea .
+ Geographic terms are fairly broad and include Germany, France, Russia, Ukraine, USA, Turkey, Moscow, Crimea, and many Ukrainian cities .
+ Propaganda terms are generally underpresent and appear mostly in the context of neutral news reports . Propaganda term is generally under present and appears mostly in a neutral news report .
+ Sports Fans Community 1127 is a medium-size community within the more political metacommunity . It is organized around sportsrelated conversations .
+ Politics and propaganda are under present, as are the terms Russia, USA, and Ukraine . Russia, U.S. and Ukraine are among those under present .
+Ukrainian Business People Community 1135 is a small community within meta­ community 2 that is interested in online commerce . Ukrainian Business People community 1135 was formed by a small group of business people .
+ #aukro (online marketplace) includes seller, price, buy, condition, hryvna, dollar, and production . Other over­present terms are related to commerce, including #auKro, seller, prices, and other over-present terms .
+ The discussion themes in this community are focused on busi102 Russian Social Media Influence ness, finances, and sales . The discussion topics include busi 102 Russian social media users .
+ Poroshenko is often mentioned in a neutral context, as part of official news . Putin and Russia are often presented in a negative or sarcastic manner .
+ Russian Pop Music Fans Community 1220 in metacommunity 2 is a medium-size community centered on Russian pop singers .
+Russian singers such as @fkirkorov, @dkoldun, @nikolaibaskov, and @bilanofficial. Over present accounts include those of popular Russian singers .
+ Geographic terms that are overpresent include locations in Crimea, Russia, and Ukraine . Geographic terms are over present.
+ Some overpresent terms relate to filming, fashion, style, cars, and jewelry . Some commerce is also present with such terms as personal ad, order, and hryvnas .
+Both Putin and Poroshenko are mentioned in a mostly neutral context . Propaganda is under present, and both Putin and Petrooshenko are under present .
+ Ukrainian News Community 2435 is a small community that is part of metacommunity 2 . It is focused on sharing Ukrainian news .
+ Over present users include pro-Ukraine news accounts @newsdaily_ukr and @novodvorskialex .
+ Discussion themes focus on news in Ukraine, with a lot of attention paid to the conflict in eastern Ukraine .
+ Accounts use terms conventional for Ukrainian media and government officials . Accounts use conventional terms for Ukrainian authorities and media .
+ ‘LNR’ (Luganskaya Narodnaya Respublika) and “DNR” are used (with the quotation marks) and the term guerillas is used for separatists .
+ Network of Bots Community 2613 appears to be a network of 1,108 bot accounts . The network is part of a more political metacommunity .
+ The majority of tweets from accounts in this community mention multiple other accounts for no reason . With high regularity, post jokes, comments, and non­ personal pictures from the internet .
+ Many of the accounts post comments that make little or no sense but look like random computergenerated phrases . Many of them are made up of random computer generated phrases .
+ The majority of the content is generic pictures and jokes . There are occasionally pro-Russia, anti-Ukraine, and anti-U.S. hate posts .
+ Tweets from such accounts are mostly opinions about or interpretations of the current events . Tweets are often accompanied by graphical images .
+ The large number of tweets, more than 100,000 in the case of @zapvv, suggests that these accounts might be run by professional trolls .
+ propaganda presents Ukraine as a nationalist and fascist state, the United States as Russia’s global competitor, and Russia as a place of progress and traditional values .
+ A thousand of U.S. troops are marching in the city of Russian naval glory .
+ ‘The most prominent Russophobes and critics of Russian government are on the USA payroll,’ says an American expert . ‘I am ready to suffer any sanctions for Gergiev’s concert in Palmira.’ ‘You can steal from us Olympic
+ The overpresent terms, which are not account names, include rt, #news, #Ukraine, #ua, #odessa, Ukraine, #Crimea, RF, and #Donetsk .
+ Content of tweets covers a wide variety of topics and events . The majority of tweets are linked to Ukraine or Russia .
+ This narrative is supported by stories that expose Russian propaganda and support the actions of Ukraine and its partners . This narrative has been supported by Stories that expose Russia's propaganda.
+ We analyzed tweets from 84 different accounts from July 2015 to April 2016 as exemplars of different kinds of pro-Russia influencers .
+ The baseline corpus was a data set of 21. million Russian-language tweets from 227,000 users across Estonia, Latvia, Lithuania, Belarus, Ukraine, and Moldova .
+ For each propaganda source, we performed keyness testing with log likelihood scoring to find distinctive words in the source text . We identified troll accounts as suspicious if they had inhuman levels of volume and mentioned troll-favored hashtags, sites, or users .
+ Once we identified a suspect account, we passed it to our Russian linguist . He personally inspected the accounts on Twitter .
+Sources used to inform this approach include Alexander, 2015a, and Shandra, 2016 . Sources used to advise this approach included Alexander,2015a, Shandra and Alexander .
+ The list of keywords, together with their keyness scores, is referred to as a signature . The list is also known as "Keyness scores"
+ To verify that the computer-generated results were correct, we employed a human domain expert review of a sample of the keywords in each signature . To verify the results, we used a human Domain expert review.
+ We wanted the context-sensitive check of a human expert eye to ensure that those words made sense . We wanted to make sure those words make sense .
+Computer-based method likely did not accurately pull out the distinctive features of pro-Russia propaganda talk in the region .
+ The rest of this section details the key features of each signature that our subject-matter expert considered informative . The other section includes the features of the signature .
+26,800 tweets from 18 Twitter accounts of Kremlin officials, representative of Russia's political leadership .
+ A large share of the keywords refer to political and policy issues, both domestic and international issues .
+ The tone of tweets from which this signature comes is balanced and official, often positive, emphasizing hard efforts and successes of Russian government .
+ Zakharova and Lavrov, representing the Russian MFA, are mentioned in a context of bilateral or multilateral international relations or MFA statements regarding events abroad .
+ Terms related to military and conflict are often used in a context of Russia's defense minister’s official statements on issues related to the armed forces and operation in Syria .
+ The data set consists of 39,100 tweets from nine Twitter accounts of thought leaders in the Kremlin ideology .
+ Tweets are consistently promoting a pro-Russia view of the world, with a lot of focus abroad . Tweets that form this signature are regularly promoted by Russian politicians .
+ The signature has a high proportion of words related to conflict in Ukraine . It portrays Ukraine negatively as an aggressor and the separatists as victims . The signature is the most prominent signer of the conflict .
+ “Syrian fighters are scared when they see how modern arms are used against ISIS,’ says Navalniy . “Russia beats USA in simplicity and price of arms,” he says. “Navalniy —is an obedient tool of Western political will,
+ Twenty-two percent of the keywords in the thought leader signature are unique terms not present in the other three signatures .
+ Unique terms with the highest scores include Aramis (name of the Russian propaganda movie about events in Donbass), directive, directive and directive .
+ This data set consisted of 239,000 tweets from 39 Twitter accounts of pro-Russia news sources .
+ Tweets that form this signature are mostly news headlines, covering a wide variety of topics .
+ The largest share of terms can be classified as related to international issues . The headlines are sometimes provocative, biased, or fake, and the largest share is related to global issues .
+ Both Ukrainian and Syrian conflicts are covered from Russia’s perspective . Russia often blames Ukraine and the West for these conflicts .
+ Fifteen percent of the keywords in the media signature are unique terms not present in the other three signatures .
+ The troll signature was formed using 668,000 tweets from 18 handconfirmed Twitter accounts of pro-Kremlin trolls .
+ The tweets that form this signature use less-formal language than those in the other signatures . The tweets are more likely to contain hate talk than other signatures.
+ Tweets are often antiWest, talking about threat and aggression in eastern Europe coming from NATO countries . Turkey's support of terrorists, Turkey’s support of terrorism, and Russia’'s role in Syria are among them .
+ About 17 percent of the keywords in the troll signature are unique terms that are not present in the other signatures .
+ Each of the Russian propaganda signatures comes from a different source and contains subtle differences from the others .
+ Comparing the words used to describe the same topic or that fall into the same category allows for a finergrained understanding of the different language used by each propaganda source .
+ Lexical and lexicogrammatical analyses work poorly at the level of individual utterances for just the reasons listed below .semantics and function at that level are highly context variable .
+ Word and word-type aggregates that vary in statistically meaningful ways show structural differences in text collections . However, at the level of aggregates, these methods have high validity and reliability, says author .
+ "SNA" is a new form of analysis of corpus linguistics . It is the first time such analysis has been done in a novel fashion .
+ This appendix reproduces, unedited, our interview protocol . The interview protocol is published in this appendix .
+ The RAND Corporation is seeking to understand how the U.S. and NATO can best counter Russian propaganda on social media . The RAND is a non-profit policy research institution .
+ As part of this effort, we are conducting an analysis of Russian social media . We are conducting analysis of social media in Russia .
+ This analysis is focused on understanding the nature and impact of Russian outreach on social media to Russia’s neighboring states . Estonia, Latvia, Ukraine, Lithuania, Belarus, Belarus and Moldova are among the states .
+ The U.S., NATO, and Russia's neighboring states can best counter Russian propaganda on social media . We would like to solicit your feedback on how the United States, NATO and Russia can counter Russia's propaganda .
+ There might be risks if your specific comments were made outside the research team. As with any important topic there might be risk.
+ Risks associated with such a disclosure might increase if you provide comments that were critical of your agency or employer . Risks may increase if, for example, you provided comments critical of a company or employer.
+ RAND will keep the information you provide confidential and will not release it without your permission, except as required by law . RAND will also not release the information without the permission of RAND .
+ Removing all direct identifiers such as your name and contact information from the interview notes . Storing all interview notes in a password protected computer . Destroying all interviews notes once the project is complete .
+ We will treat your remarks as confidential and will not cite you in connection with anything you say . We will not give your remarks to anyone else .
+ Your participation in this interview is entirely voluntary . You should feel free to decline or you may choose not to answer any given question . You may choose to refuse to answer a question .
+ The mailing address is Human Subjects Protection Committee, RAND, 1700 Main Street, Santa Monica, CA 90407 . It is the mailing address of the Human Subjects protection Committee .
+ "About Snopes.com, undated; last accessed July 10, 2017. References “About Snope.com”
+ Borthwick, John, “Media Hacking,’s,” is a new series of TV shows . The series is based on the work of CNN's John Sutter .
+ GemiusAudience, “Internet-auditoriya Uaneta za mart 2015 goda,’s May 6, 2015. Gemius Audience: ‘Internet-Audience’
+ Continuity and Innovation in Moscow's Exercise of Power,’s Exercise of power, is March 21, 2016 . The event will take place at Chatham House in Moscow .
+ Greenberg, Andy, “Now Anyone Can Deploy Google’s Troll-Fighting AI,’ he says .
+ International Broadcasting Multimedia Platform of Ukraine, home page, undated . The home page of Ukraine is undated.
+Rehionalʹni osoblyvosti ta tendentsiyi zmin za roky nezalezhnosti . Rehional    "Ethno-linguistic structure of Ukraine: Regional features and tendencies of changes
+ Brig Gen. Charles Moore, Deputy Director for Global Operations, Joint Staff,’s statement was released October 22, 2015 .
+ International broadcasting or hairdressing courses? Ukrainska Pravda, August 29, 2016 .
+Twitter's New Policy Misused by Pro-Kremlin Accounts to Block Ukrainian Bloggers, says Alya .
+ Smith, Oli, ‘Russia’s Fake Ukraine War Report Exposed in Putin PR Disaster,’ he says .
+ "Ukrainian Extremists Will Only Triumph If Russia Invades," says Timothy Snyder . Snyder, Timothy, “Ukrainia Extremists will Only Triumph if Russiainvades,’ he says .
+ Russia is trying to destroy our democracy, says Vladimir Putin . Putin has been accused of trying to undermine the U.S. government .

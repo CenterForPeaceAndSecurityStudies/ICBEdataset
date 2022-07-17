@@ -1,0 +1,345 @@
+---
+title: 'Intercoder ICBEdataset_figure_semantic_embeddings'
+site: bookdown::bookdown_site
+bibliography: ../ICBintro.bib
+---
+
+
+# Intro
+
+## Library Loads
+
+
+```{r}
+
+library(flextable)
+library(ftExtra)
+library(tidyverse)
+
+#Load it here before the python reticulate business
+#devtools::install_github("ropenscilabs/umapr")
+#library(umapr)
+
+```
+
+```{r}
+
+ICBe_events_agreed_markdown <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.Rds")) 
+
+```
+
+
+
+```{r}
+
+ICBe_events_agreed_markdown_embedded <- ICBe_events_agreed_markdown %>%
+                                        mutate(sentence_span_text_clean = sentence_span_text %>% str_replace_all("\\(.*?\\)|\\[.*?\\]","") ) %>%
+                                        mutate(sentences_unique_sanitized = sentence_span_text_clean %>%
+                                                 str_replace_all("[A-Z][a-z]*","Entity") %>%
+                                                 str_replace_all("[0-9]{4}","Entity") %>%
+                                                 str_replace_all("Entity Entity","Entity") %>%
+                                                 str_replace_all("Entity Entity","Entity") %>%
+                                                 str_replace_all("Entity Entity","Entity") %>%
+                                                 str_replace_all("Entity Entity","Entity") %>%
+                                                 str_replace_all(" {1,}"," ") 
+                                               )  #
+  
+sentences_unique <- ICBe_events_agreed_markdown_embedded %>% 
+                    dplyr::select(sentences_unique_sanitized) %>% 
+                    distinct() %>%
+                    pull(sentences_unique_sanitized) %>% 
+                    unique() %>% na.omit()
+length(sentences_unique ) #12162
+head(sentences_unique)
+
+
+```
+
+To set python, set it in ~/.Renviron. `use_python()` doesn't seem to work as desired. See [stackoverflow](https://stackoverflow.com/questions/50145643/unable-to-change-python-path-in-reticulate/58743111#58743111).
+
+```{r, messages=F, results='hide'}
+
+library(reticulate)
+reticulate::py_discover_config()
+
+#use_python("/home/skynet3/anaconda3/bin/python/")
+#use_python("/home/tlscherer/anaconda3/bin/python3")
+
+```
+
+```{python}
+#Can't get this and spacy to work in the same run. Once reticulate loads once it sticks with the environment that came first and I can't figure out how to switch it.
+#pip install -U sentence-transformers
+
+fromscratch=False
+
+if fromscratch:
+  from sentence_transformers import SentenceTransformer
+  import numpy as np
+  sentences=np.array(r.sentences_unique) #sentences_unique_sanitized
+  sentence_chars = np.array([len(q) for q in sentences])
+  #sentences=sentences[sentence_chars<1000] #cull anything with too many characters
+  len(sentences) #12161 12162
+  n=len(sentences)
+  chunk_length=100
+  n_chunks = int(np.ceil(n/chunk_length)) #can only 
+  sentences_chunks=[sentences[i:i + chunk_length] for i in range(0, n, chunk_length)]
+  len(sentences_chunks)
+  len(sentences_chunks[0])  
+  #model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
+  #model = SentenceTransformer('sentence-transformers/gtr-t5-xxl')
+  #model = SentenceTransformer('sentence-transformers/gtr-t5-xl')
+  model = SentenceTransformer('paraphrase-mpnet-base-v2')
+  #sentences
+  #sentences_test=['That is a happy person','That is a happy dog','That is a not happy person','That person is happy','This person is happy']
+  #temp = model.encode(sentences_chunks[0])
+  sentences_embeddings = np.vstack([model.encode(q) for q in sentences_chunks])  #[0:100] #cpu is possible just painfully slow #, device='0'
+  sentences_embeddings.shape #12161, 768
+  #At this point we're done, we don't need to cluster for this step
+  #Parallel version
+  #pool = model.start_multi_process_pool()
+  #emb = model.encode_multi_process(sentences, pool) #Compute the embeddings using the multi-process pool
+  #model.stop_multi_process_pool(pool) #Optional: Stop the proccesses in the pool
+  #
+  #sentences_embeddings.shape
+  #from sentence_transformers import SentenceTransformer, util
+  #cosine_scores = util.cos_sim(sentences_embeddings, sentences_embeddings)
+  #xxl
+  #  tensor([[1.0000, 0.7225, 0.8346, 0.9151, 0.9066],
+  #        [0.7225, 1.0000, 0.5697, 0.6481, 0.6713],
+  #        [0.8346, 0.5697, 1.0000, 0.7935, 0.7862],
+  #        [0.9151, 0.6481, 0.7935, 1.0000, 0.9403],
+  #        [0.9066, 0.6713, 0.7862, 0.9403, 1.0000]])
+  #xl
+  #tensor([[1.0000, 0.7127, 0.8432, 0.9232, 0.9157],
+  #        [0.7127, 1.0000, 0.5873, 0.6428, 0.6830],
+  #        [0.8432, 0.5873, 1.0000, 0.8099, 0.7972],
+  #        [0.9232, 0.6428, 0.8099, 1.0000, 0.9516],
+  #        [0.9157, 0.6830, 0.7972, 0.9516, 1.0000]])  
+  #sentences_embeddings = model.encode(sentences[0:1000]) #
+  #
+  #https://towardsdatascience.com/billion-scale-semantic-similarity-search-with-faiss-sbert-c845614962e2
+  # from numba import cuda 
+  # device = cuda.get_current_device()
+  # device.reset()
+  # import faiss
+  # res = faiss.StandardGpuResources()
+  # index = faiss.IndexIDMap(faiss.IndexFlatIP(768)) #Ip stands for inner product which is cosine on normalized vectors
+  # index.add_with_ids(sentences_embeddings, np.array(range(0, len(sentences_embeddings))))
+  # gpu_index = faiss.index_cpu_to_gpu(res, 0, index)
+  # #faiss.write_index(index, 'abc_news')
+  # #index = faiss.read_index('abc_news')
+  # #import time
+  # #def search(query):
+  # # t=time.time()
+  # # query_vector = model.encode([query])
+  # # k = 5
+  # # top_k = index.search(query_vector, k)
+  # # print('totaltime: {}'.format(time.time()-t))
+  # # return [sentences[_id] for _id in top_k[1].tolist()[0]]
+  # #
+  # n=sentences_embeddings.shape[0]
+  # ncentroids = 50
+  # niter = 20
+  # verbose = True
+  # d = sentences_embeddings.shape[1]
+  # kmeans_125 = faiss.Kmeans(d, 125, niter=niter, verbose=verbose)
+  # kmeans_125.train(sentences_embeddings)
+  # D, cluster_125 = kmeans_125.index.search(sentences_embeddings, 1)
+  # kmeans_250 = faiss.Kmeans(d, 250, niter=niter, verbose=verbose)
+  # kmeans_250.train(sentences_embeddings)
+  # D, cluster_250 = kmeans_250.index.search(sentences_embeddings, 1)
+  # kmeans_500 = faiss.Kmeans(d, 500, niter=niter, verbose=verbose)
+  # kmeans_500.train(sentences_embeddings)
+  # D, cluster_500 = kmeans_500.index.search(sentences_embeddings, 1)
+  # kmeans_1000 = faiss.Kmeans(d, 1000, niter=niter, verbose=verbose)
+  # kmeans_1000.train(sentences_embeddings)
+  # D, cluster_1000 = kmeans_1000.index.search(sentences_embeddings, 1)
+  # kmeans_2000 = faiss.Kmeans(d, 2000, niter=niter, verbose=verbose)
+  # kmeans_2000.train(sentences_embeddings)
+  # D, cluster_2000 = kmeans_2000.index.search(sentences_embeddings, 1)
+  
+else:
+  print("Skipping")
+
+```
+
+```{r, eval=F}
+
+df = data.frame(
+  sentences=py$sentences,
+  cluster_125=py$cluster_125,
+  cluster_250=py$cluster_250,
+  cluster_500=py$cluster_500,
+  cluster_1000=py$cluster_1000,
+  cluster_2000=py$cluster_2000
+) %>%
+  add_count(cluster_1000) %>% arrange(cluster_125, cluster_250, cluster_500, cluster_1000, cluster_2000)
+df$cluster_1000 %>% table() %>% sort()
+
+df %>% filter(cluster_1000==257)
+
+```
+
+
+```{r}
+fromscratch = FALSE
+
+if(fromscratch){
+  sentences_embeddings <- py$sentences_embeddings
+  dim(sentences_embeddings)
+  sentences_embeddings %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/sentences_embeddings.Rds'))
+}else{
+  sentences_embeddings <- readRDS(paste0(here::here(), '/replication_paper/data/temp/sentences_embeddings.Rds'))
+  dim(sentences_embeddings)
+}
+
+```
+The [umapr](https://github.com/ropensci-archive/umapr) package requires python and [umap](https://github.com/lmcinnes/umap#installing). Please check their repos for installation details.  
+
+```{r}
+
+embedding <- umapr::umap(sentences_embeddings)
+plot(embedding[,c('UMAP1','UMAP2')])
+
+sentences_embeded_mpnet <- as.data.frame(sentences_embeddings)
+sentences_embeded_umap <- embedding[,c('UMAP1','UMAP2')] %>% as.data.frame()
+
+sentences_embeded_mpnet$sentences_unique_sanitized <- sentences_unique
+sentences_embeded_umap$sentences_unique_sanitized <- sentences_unique
+
+ICBe_events_agreed_markdown_embedded <- ICBe_events_agreed_markdown_embedded %>% ungroup() %>% 
+                                        left_join(sentences_embeded_umap) %>% 
+                                        left_join(sentences_embeded_mpnet)
+
+ICBe_events_agreed_markdown_embedded %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/ICBe_events_agreed_markdown_embedded.Rds'))
+
+ICBe_events_agreed_markdown_embedded_sample  <- ICBe_events_agreed_markdown_embedded %>% 
+                                                mutate(UMAP1_round=UMAP1 %>%  round(), UMAP2_round=UMAP2 %>%  round()) %>%
+                                                dplyr::group_by(UMAP1_round,UMAP2_round) %>%
+                                                arrange(UMAP1,UMAP2) %>%
+                                                filter(crisno==crisno[1], sentence_number_int_aligned==sentence_number_int_aligned[1] ) #only take one per crisis
+
+
+```
+
+
+```{r, eval=F}
+
+#Moved a copy of this to the paper
+
+ICBe_events_agreed_markdown_embedded <- readRDS(paste0(here::here(), '/replication_paper/data/temp/ICBe_events_agreed_markdown_embedded.Rds'))
+
+
+#act_escalate
+#act_deescalate
+#act_uncooperative
+#act_cooperative
+#interact_escalate
+#interact_deescalate
+#interact_increasecoop
+#interact_decreasecoop
+
+value_means <- ICBe_events_agreed_markdown_embedded %>%
+               dplyr::select(UMAP1,UMAP2, contains("escalate"),contains("coop"),contains("sayintkind"), contains("thinkkind")) %>%
+               pivot_longer(cols=-c(UMAP1,UMAP2)) %>% filter(!is.na(value) & value!='') %>% 
+               mutate(value = value %>% str_split(";")) %>% 
+               unnest(value) %>% 
+               mutate(value = value %>% str_trim()) %>%
+               filter(!value %>% str_detect("sentence|^[0-9]")) %>%
+               mutate(color=NA) %>%
+               mutate(color=ifelse(name %>% str_detect("_escalate"),"red",color)) %>%
+               mutate(color=ifelse(name %>% str_detect("_deescalate"),"darkgreen",color)) %>%
+               mutate(color=ifelse(name %>% str_detect("uncoop|decreasecoop"),"purple",color)) %>%
+               mutate(color=ifelse(name %>% str_detect("_coop|_increasecoop"),"blue",color)) %>%
+               mutate(color=ifelse(name %>% str_detect("sayintkind"),"brown",color)) %>%
+               mutate(color=ifelse(name %>% str_detect("thinkkind"),"darkorange",color)) %>%
+               dplyr::select(-name) %>%
+               group_by(color, value) %>%
+               mutate(n=n()) %>%
+               filter(n>20) %>%
+               dplyr::summarise_all(median) 
+  
+value_normalized_colors <- value_means$color 
+names(value_normalized_colors) = value_means$value
+
+
+library(ggplot2)
+library(ggrepel)
+p_semantic_embeddings <-
+      ICBe_events_agreed_markdown_embedded %>%
+      ggplot(aes(x=UMAP1,y=UMAP2)) +
+      geom_point(size=0.5, alpha=0.25) + 
+      #geom_text(data=value_means, aes(x=UMAP1, y=UMAP2, label=value, color=value %>% as.factor()),size=1.5) + 
+      theme_bw() +
+      theme(legend.position = "none") + 
+      geom_label(data=value_means,
+                 aes(x=UMAP1,y=UMAP2, fill = value %>% as.factor(), label=value, size=50), size = 2.5, inherit.aes=F, 
+                 colour = "white", fontface = "bold", label.padding = unit(0.1, "lines")
+                 ) +   
+      #geom_label_repel(data=value_means,
+      #           aes(x=UMAP1,y=UMAP2, fill = value %>% as.factor(), label=value, size=20), size = 3, inherit.aes=F, 
+      #           colour = "white", fontface = "bold", label.padding = unit(0.1, "lines"),
+      #           min.segment.length = 0
+      #           ) + 
+      labs(
+          title = "Variation in Tags by Semantic Embeddings of Source Sentences",
+          subtitle = "Sentence Embedding Paraphrase-MPNET-base-v2, UMAP Projection ",
+          caption = ""
+      ) +
+     scale_color_manual(values = value_normalized_colors) +
+     scale_fill_manual(values = value_normalized_colors) +
+     scale_x_continuous(expand = c(0, 0)) +
+     scale_y_continuous( expand = c(0, 0)) + 
+       coord_flip()
+
+ggsave(file=paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=12, height=8)
+
+
+```
+
+
+
+```{r cuban case study precision, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
+
+
+temp <- ICBe_events_agreed_markdown_embedded_sample %>%
+        #filter(crisno==196) %>%
+        group_by(crisno, sentence_number_int_aligned) %>%
+          filter(!duplicated(value_markdown %>% trimws() )) %>% #note there are dupe markdowns for some reason
+        ungroup() %>%
+        mutate(banding=sentence_number_int_aligned %% 2)
+temp$is_subsstring <- NA
+for(i in 1:nrow(temp)){
+  temp$is_subsstring[i] <-   stringr::str_detect(temp$value_markdown %>% tolower() %>% str_replace_all('[^a-z0-9]',"") ,
+                                                                                pattern = fixed(temp$value_markdown[i] %>% tolower() %>% str_replace_all('[^a-z0-9]',"") )
+                                                                              ) %>% replace_na(0) %>%  sum()
+}
+temp <-temp %>%
+        mutate(value_markdown = ifelse(is_subsstring<=1,value_markdown,'')) %>%
+        group_by(sentence_number_int_aligned) %>%
+          filter(value_markdown!='' | length(value_markdown)==1) %>%
+        ungroup() %>%
+        mutate(crisno= ifelse(!is.na(lag(sentence_span_text)) & sentence_span_text==lag(sentence_span_text), "", crisno)) %>%
+        mutate(sentence_number_int_aligned= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_number_int_aligned)) %>%
+        mutate(sentence_span_text= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_span_text))   #C=crisno, 
+      #head(100) %>%
+ft_sample_precision <- temp %>%
+                     dplyr::select(C=crisno,S=sentence_number_int_aligned, ICB=sentence_span_text, ICBe=value_markdown)  %>%
+                      flextable::as_flextable() %>%
+                      flextable::width( j = 1, width=0.25)  %>%
+                      flextable::width( j = 2, width=0.25)  %>% 
+                      flextable::width( j = 3, width=8.0)  %>% 
+                      flextable::width( j = 4, width=8.0)  %>% 
+                      flextable::fontsize(size = 9, part = "all") %>%
+                      valign(j = 1:4, valign = "top", part = "body") %>%
+                      flextable::line_spacing( space = 1.0, part = "all") %>% 
+                      padding( padding = 1, part = "all") %>% 
+                      bg( i = which( temp$banding==1 ) , part = "body", bg = "#EFEFEF", j=1:4) %>%
+                      ftExtra::colformat_md(j = 4, part="body")
+#ft_sample_precision
+
+ft_sample_precision %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_sample_precision_precision.png", zoom=1) # webshot = "webshot2"
+temp <- NULL
+
+```

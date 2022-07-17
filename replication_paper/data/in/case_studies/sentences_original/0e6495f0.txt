@@ -1,0 +1,175 @@
+The Missile Crisis and the Early Limitations of Satellite Imagery Intelligence JOSEPH W CADDELL JR* ABSTRACT In the autumn of 1962, two weeks before U-2 aerial photographs confirmed Soviet deployments of nuclear missiles in Cuba, the United States intelligence community attempted to image the island with the spy satellite Corona.
+Insufficient image resolution and extensive cloud cover, however, prevented this photography from providing solid evidence confirming or denying the presence of offensive missiles.
+This event – previously unaddressed either by Missile Crisis or Corona scholars – illustrates both the promise and the limits of early satellite imagery intelligence.
+It further provides insight into the early imagery tasking and coordination process and demonstrates needs that drove further development of national satellite reconnaissance in the years that followed.
+In the late afternoon of 29 September 1962, a very secret, very expensive piece of technology lifted off from Vandenberg Air Force Base, California, atop a Thor Agena-D rocket.
+A Corona photographic reconnaissance satellite, Mission 9045, hurtled beyond the atmosphere and began circling the globe at ground speeds approaching 17,000 mph.
+The satellite travelled in a near-polar orbit, maximizing geographic coverage over the rotating planet below.
+Mission 9045 would acquire images over at least 72 known airfields, missile complexes, nuclear test sites, military garrisons, air defense sites, naval bases, and industrial facilities throughout the Warsaw Pact and the People’s Republic of China.
+In accordance with 17 U.S.C. 105, no copyright protection is available for such works under United States Law.
+Corona photos of ballistic missile complexes in the USSR helped to dispel the IC’s ‘missile gap’ concerns in the fall of 1961.
+Corona imagery also provided accurate mapping data for nuclear targeting efforts, enhancing the credibility of America’s strategic deterrent.
+The imagery acquired by Mission 9045 over Cuba, however, marked a little-known ‘first’ in the realm of satellite reconnaissance.
+Rather than gathering encyclopedic information about Soviet and Chinese military and industrial infrastructure in response to long-standing IC requirements, the handful of images collected over Cuba were meant to fulfill a time-dominant, crisis-monitoring requirement just off United States shores.
+These frames were acquired to sharpen IC understanding of a potential threat by confirming or denying human intelligence reports from Cuban sources of a Soviet military buildup on the island, possibly to include nuclear missiles.
+The story of Corona over Cuba, then, is akin to Mark Twain’s ‘The Private History of a Campaign That Failed’ – the story of something that did not happen, an explanation of why it did not happen, and the processes by which nothing was done.
+Neither the voluminous literature surrounding the Missile Crisis nor the many historical treatments of the Corona program have dealt with this event.
+CIA Handling of the Soviet Build-Up in Cuba, 1 July– 16 October 1962 ’ accessed 4 June 2014.
+Mission 9045 imagery acquired over Cuba in early October 1962, though of good quality by the standards of the KH-4 camera system, was of insufficient resolution to allow photo interpreters to either confirm or deny the presence of the missiles reported on the island.
+The Soviet deployments – which were, in fact, well underway by 1 October6 – would not be confirmed by the IC with overhead photography (this time from a U-2 aircraft) for another two weeks.
+The reporting of these deployments to the Kennedy administration would come perilously close to what might be considered warning failure, as many sites were very nearly operational by the time President Kennedy was briefed of their existence on the morning of 16 October.
+After the Missile Crisis, photo interpreters reexamined the Corona Mission 9045 film to determine – with retrospective knowledge of where and when Soviet medium range and intermediate range ballistic missile (MRBM and IRBM) site locations had been under construction – whether they had missed evidence of the sites.
+Strategic Air Command photo interpreters concluded that, even with the benefit of hindsight, clear indications of these missile sites still were not discernible on the Corona photos.
+This de facto field test of Corona imagery against deployed Soviet missile forces demonstrates some of the early limitations of satellite imagery.
+One postmortem of the Missile Crisis, assembled as a chronology by the President’s Foreign Intelligence Advisory Board in early 1963, characterized NRO Director Dr.
+While it might seem only an historical footnote, this incident – when examined in the context of imagery intelligence history, America’s Cold War intelligence needs, and the later arc of satellite imagery developments – provides critical insight into the evolution of United States national-level imagery intelligence organizations and technology from the 1960s to the present day.
+Eyes in the Sky – and beyond Aerial intelligence collection dates back to late eighteenth-century French balloon reconnaissance.
+The use of cameras from aircraft first became a valued tactical/operational intelligence collection discipline during the First World War.
+Such ‘photoreconnaissance’ became a true source of strategic insight for the Allies during the Second World War.
+British and American aircraft carried powerful cameras on long-distance missions to photograph Axis heavy industry, lines of communication, major garrisons, aviation facilities, and naval bases, and returned imagery safely for exploitation and analysis by national-level intelligence organizations.
+Allied photoreconnaissance provided counts of German transport flotillas in French ports along the Channel during the invasion scare of September 1940, helped to target and assess aerial bombardment of strategic infrastructure, and contributed hard evidence of German long-range weapons developments.
+With the end of the war and emergence of the USSR as the most significant threat to United States national security, photoreconnaissance acolytes lobbied for peacetime – or ‘pre-hostilities’ – strategic reconnaissance of the Soviet state.
+Yet the geographic vastness that seemed ripe for overhead collection also confounded photoreconnaissance platforms of 1945–55.
+Flights by such aircraft along the Soviet border gathered some useful intelligence over Vladivostok and the Kola Peninsula, but nothing over aircraft plants, missile facilities, and nuclear testing grounds thousands of miles into the interior.
+Some peripheral flights were lost to Soviet interceptors and all risked conflict with the USSR, drawing diplomatic objections and threats.
+The U-2 Such limitations led to the development of the U-2.11 Unlike the camera-equipped bombers and fighters that made dangerous runs around the Soviet periphery, the U-2 was intended from the start as a specialized reconnaissance platform.
+Essentially a jet-powered sailplane, the U-2’s operating altitude would be its primary protection from Soviet air defenses rather than armor or armament.
+The IC also hoped that the U-2 would, at least for a time, fly undetected by Soviet air defenses.
+Such resolution meant that, beyond identifying the locations and general layouts of airfields and missile test ranges, individual aircraft and naval vessels could be distinguished from one another by type and missile airframes could be measured with precision, providing information about their range and purpose.
+U-2 photos provided the IC with concrete, reliable counts of Soviet intercontinental bombers, details on the status of ballistic missile development, and critical mapping of Soviet infrastructure necessary both for target development and future imagery collection.
+Fortunately for the IC, the Eisenhower administration had approved the development of photoreconnaissance satellites under United States Air Force project WS-117L nearly four years earlier.
+Just as the U-2 marked a great leap forward from cameraequipped multipurpose aircraft, photoreconnaissance satellites offered another major development in Imint collection.
+Unlike the U-2, satellites operated beyond the range of Soviet air defenses.
+Early Days The satellite program which emerged from project WS-117L ‘Corona’ was the simplest of several options considered.
+The project’s more complicated ‘Samos’ concept included a complex film readout system which would develop and scan photographs in orbit and then transmit the images back to earth via radio signal.
+Corona simply returned the hardcopy film back to earth via a film pod ejected from the disposable satellite.
+The pod was de-orbited and drawn down via parachute to a designated drop zone for mid-air recovery by a transport aircraft with a trailing trapeze hook.
+The film-return system proved more reliable than Samos and yielded better image resolution.
+After a series of launch, orbit, and sensor failures throughout 1959– 60, the first fully successful Corona mission took place on 18 August 1960.16 Mission 9009 orbited the earth 17 times and returned photographs of some 1. million square miles of Soviet territory – more total area coverage than all 24 U-2 flights had acquired over the USSR.17 While the remote nature of Corona collection and sheer size of the ‘take’ were quite impressive, 9009 did not return the same kind of intelligence as U-2 flights.
+With a resolution no better than 35 feet, only large infrastructure like airfields and port facilities could be seen.
+Smaller infrastructure with specialized functions like air defense sites could be identified by unique layouts, but only if such layouts first had been developed from earlier analysis of higher resolution imagery.
+On U-2 imagery, for example, photo interpreters at the National Photographic Interpretation Center were able to identify the ‘hexadic’ or ‘Star of David’ configuration of SA-2 sites created by the cleared cable paths and internal roads linking six missile launch rails sited around a central radar.
+After May 1960, the increasing age of U-2 coverage over the USSR would begin to render some of these signatures obsolete.
+Legacy U-2 photos would not be able to provide insight into site configurations developed after May 1960, of the configurations of new equipment fielded after that time, or of field-deployed equipment not arranged in the doctrinal manner originally identified on overhead imagery.
+In addition to lower resolution, weather over the ‘Sino-Soviet land mass’ also proved a significant limiting factor for Corona.
+U-2 missions focused on a single, narrow mission track and could be timed to take advantage of clear weather over desired areas.
+Missions also could be rerouted in flight by pilots to cover secondary and tertiary objectives if the primary were cloud covered.
+While Corona launches could be timed to take advantage of favorable weather predicted over certain sites in the USSR, early versions of the satellite were preprogrammed and could not take advantage of new weather information as it became available.
+Moreover, even the best weather conditions over one location would still leave many objectives within the coverage footprint obstructed by clouds during any single pass over an area.
+According to one history of the program, roughly 50 – 60 per cent of desired sites photographed by early Corona missions were covered by clouds.
+The Corona program made some progress in these areas – especially in the realm of resolution – in its first two years.
+The original camera system, later issued the descriptor ‘Keyhole-1’ or ‘KH-1’, yielded only 35-foot resolution.
+The follow-on KH-2 and KH-3 systems operated through the end of 1961 offered maximum resolutions of 25 and 12 feet, respectively.
+At this resolution, comprehensive Corona coverage over Soviet missile development sites sufficiently dispelled United States Air Force claims of numerical Soviet intercontinental ballistic missile superiority by providing solid evidence that only 10– 25 such systems likely were operational.
+The KH-4 camera system, first successfully orbited in February 1962, offered a maximum possible resolution of 10 feet.
+Cuba, U-2, SAMS, and the ‘Photo Gap’ In the spring of 1962, as Corona revealed the limitations of Nikita Khrushchev’s strategic arsenal to United States policymakers, the Soviet premier decided to take a different approach to improving his strategic position in the balance between East and West.
+Khrushchev developed and initiated Operation ‘Anadyr’, a covert maritime shipment of Soviet R-12 (SS-4 ‘Sandal’) MRBMs, R-14 IRBMs, and associated ground, coastal, and air defense forces to Cuba.
+By placing these systems within range of the continental US, Khrushchev hoped to approach parity with American nuclear capabilities targeting his country – which already ringed the USSR with missiles, aircraft, and radars in Europe, Turkey, Iran, and the Far East.
+Cloaked in secrecy, the details of Anadyr were tightly controlled and known to only a select few in the Soviet establishment, effectively preventing any early discovery by Western intelligence services.
+By August 1962, while the United States had discerned isolated portions of this operation, it did not recognize them as such.
+Imint – as it had since its inception – would play a confirming role in the US intelligence collection posture.
+Maritime patrol aircraft photographed Cubabound Soviet vessels in the Caribbean, identifying deck cargo associated with guided-missile patrol boats and light bombers.
+U-2s photographed MiG-series fighter aircraft and defensive missile sites around the island.
+On 29 August, a U-2 flight photographed nine SA-2 SAM sites on the island.
+Director of Central Intelligence John McCone took the stance that such advanced air defense systems portended a larger, sensitive deployment of some kind, potentially involving offensive missiles.
+Others, however, took the view that deployment of short-range air defense systems was consistent with the Soviet characterization of their activities in Cuba – provision of defensive arms and advisors for Cuban security.
+The Photo Gap and the Missile Crisis, senior administration officials took a cautious approach to this problem and revised U-2 flight paths over Cuba, producing a 39-day ‘photo gap’ in effective coverage over the island’s interior.
+In a 10 September meeting with the Committee on Overhead Reconnaissance , Secretary of State Dean Rusk and National Security Advisor McGeorge Bundy increased the number of upcoming U-2 flights over Cuba but moved their paths offshore to avoid SA-2 envelopes and minimize violations of Cuban airspace, despite COMOR protests that this would preclude effective coverage of potential Soviet military deployment sites.
+Rusk and Bundy’s decision was guided, in part, by a 30 August violation of Soviet airspace by an Alaska-based U-2 – which served to elevate the public profile of U-2 violations of communist airspace – and the shoot-down of a Taiwan-based U-2 by a Chinese SA-2 on 8 September.
+While perhaps understandable at the time – the SA-2 had proven its effectiveness against U2s, shooting down two between May 1960 and September 1962 and eventually accounting for a third over Cuba during the Crisis – this shift to peripheral coverage for more than five weeks in September and early October effectively blinded United States aerial reconnaissance to Soviet missile deployments at precisely the same time such activity was proceeding under ‘Anadyr’.27 These overflight restrictions left the IC few options for reconnaissance of Cuba.
+General Marshall Carter, Deputy DCI, proposed on 19 September that the United States Intelligence Board consider both manned, low-altitude coverage by RF-101 reconnaissance aircraft and by ‘Fire Fly’ drones – Ryan 147A small pilotless jets – to collect the imagery that the U-2, constrained by Bundy and Rusk’s restrictions, could not.
+U-2 Seeking to satisfy the collection need in the midst of the overflight restrictions, DIA attempted to make use of what was at the time a long-term, strategic research capability as a tactical reconnaissance platform.
+Imaging Cuba with a satellite would mitigate Bundy and Rusk’s concerns about vulnerability to air defenses and associated political risks to US-Soviet-Cuban relations.
+Perhaps as important, despite early Soviet protests regarding Corona overflights in 1960–1, satellite reconnaissance did not carry the same political ramifications of violating sovereign airspace as did aircraft overflights.
+This swath size seemed to offer a footprint much better suited to the task of conducting a broad area search for Soviet military deployments than the ‘soda straw’ view of the U-2.
+Corona’s lower spatial resolution, however, remained a drawback when compared with U-2 imagery; indeed, despite the 1960 Powers shoot-down and subsequent political backlash, some within the IC continued to press for U-2 coverage over the USSR rather than Corona as late as 1962.
+The board later accepted DCI McCone’s recommendation to seek satellite rather than U-2 coverage of the area.
+As the DIA request for Corona imagery over Cuba was approved and an engineering pass was programmed into Mission 9045 to photograph the island on 1 October, the promise of space-based imagery collection would be balanced against the practical utility of the lower resolution photographs it would acquire.
+Corona over Cuba At 4:35pm32 on 29 September, Mission 9045 lifted off from Pad 2 at Vandenberg AFB’s 75-1 launch complex.
+Nearly 48 hours later, after imaging most of its targets across Eastern Europe, China, and the USSR – including the aforementioned antiballistic missile sites on the Kamchatka Peninsula that USIB and COMOR prioritized – 9045 began its 30th pass around the earth, travelling over the western hemisphere.
+The relatively crude nature of satellite camera control meant that film was exposed on the command of a preset command tape which could, under certain circumstances, be manually overridden by signals from the ground.
+Only 12 of the 52 frames actually imaged the island; the rest covered the empty Caribbean to the north and south.
+Frames 11– 22 of the ‘D30’ pass (the 30th pass around the earth with the satellite vehicle travelling north-to-south – ‘down’) covered much of the western half of the island, from La Coloma and Pinar del Rio in the west to Santa Clara and Sagua La Grande in the east.
+The weather was mostly cloudy, especially over the center of the island.
+Unpaved roads appeared as tiny white lines in the clear patches between the cloud banks, while a patchwork of multitonal rectangles marked the presence of agricultural fields.
+In clearer areas of the main island, several towns could be seen, including Paso Real De San Diego, Consolación del Sur, Vegas, Palos, and the port of La Coloma.
+Both the airport at Nueva Gerona and the famous Presidio Modelo prison – where Fidel Castro and his brother Raul spent time from 1953–5 – could be seen.
+What could not be seen, however, were clear signs of Soviet missile deployment.
+According to the latter, the Corona program was named at a meeting on 10 March 1958, either after a cigar or a nearby typewriter.
+Corona Satellite Imagery Coverage over Soviet Ballistic Missile Sites in Cuba, 1 October 1962.
+Haze heavily masked the area west-southwest of Havana, where two IRBM sites around Guanajay and four MRBM sites around San Cristóbal were under construction.
+The original SAC textual interpretation report from the mission, if it survives, could not be located.
+Initial exploitation readouts of the rest of Mission 9045 were performed and published by NPIC analysts in Washington, DC, on these two dates.
+The schedule of satellite missions approved for the remainder of the year will probably provide some intelligence, but it is not timely enough nor of sufficient resolution to meet our needs.
+The next mission will not be till mid-November, some 11 weeks after the last good coverage of some areas.
+FIRE FLY may also prove highly useful in covering specific objectives of limited scope.
+But the small area coverage obtainable by FIRE FLY makes it less desirable than the U-2.
+Tactical reconnaissance using RF-101/F8U-1P aircraft may also prove feasible.
+The COMOR recognizes the increased risk to the aircraft in light of the SA-2 and MIG21 aircraft present there.
+Still needing Imint collection to confirm the otherwise murky Humint reporting of ‘missiles’ and ‘rockets’, administration officials approved the request for resumed flights over the Cuban interior on 9 October.
+On 14 October, a SAC U-2 piloted by Major Richard Heyser photographed Soviet R-12 MRBM sites near San Cristóbal – nearly two weeks after Corona imaged that same area, albeit to insufficient effect.
+Interpreters simply could not make use of Corona imagery to satisfy the question at hand.
+It was entirely possible that Soviet missile sites were under construction in the photographed areas , but 10– 15 foot resolution imagery did not provide any diagnostic information about their presence.
+At this scale, even with magnification, baseball fields were among some of the smaller objects that could be identified on the ground below by their distinctive layout.
+When this Corona photography was checked against the photography obtained from the SAC-operated U-2s it was possible to relate some of the earth scratchings appearing in the Corona photography to the construction at some of the long range missile sites which were detected beginning October 14.
+Without the U-2 photography however, these scratchings could not possibly be identified as being associated in any way with MRBM or IRBM construction.
+The photographic interpreters at the Strategic Air Command believe that if all nine sites had been completed at the time of the Corona pass, the Corona photography might have resulted in the identification of the IRBM sites but not of the MRBM sites.
+The Limits of Early Satellite Imagery Intelligence Resolution and Interpretability Perhaps the most obvious implication of this attempt is the notion that spatial resolution – the relative size of objects that can be discerned on an overhead image – is a critical component of the intelligence value of the imagery.
+Lowenthal’s point is a valid one – resolution is merely one measure of the potential intelligence value of a reconnaissance image and different intelligence questions require different levels of resolution – the critical nature of resolution can be seen clearly in the example of Mission 9045.43 41 PFIAB Chronology,36.
+As such, their layouts in the fields west-southwest of Havana and along the north-central Cuban coast did not necessarily conform to what interpreters had seen on previous imagery coverage over Europe and Eurasia.
+All of our experience, up to that point, had been visual imagery of an MRBM site on KH-4, which might cover half an inch to an inch on the film itself, and even after you blew it up a hundred times it was still – basically, all you were seeing was the outline of the pads and so forth and the roads connecting the pads.
+So when we got into Cuba, and we saw these areas in the woods . . . we didn’t know what we had.
+It was the specific vehicles and equipment at the sites rather than any layout pattern that allowed NPIC interpreters to identify the SS-4 sites around San Cristóbal on the 14 October U-2 coverage.
+These small signatures – tents, trailers, erector stands, and support vehicles – were the diagnostic details that positively marked the areas as MRBM sites, but were only visible on higher resolution U-2 imagery.
+The vague ‘scratchings’ seen by SAC interpreters on the 1 October Corona imagery were, out of context, ambiguous.
+They could not convey any definitive information about the presence of Soviet military deployments.
+Early photoreconnaissance satellite managers and planners regarded resolution as an essential metric for evaluating the utility of imagery and distinguishing between different reconnaissance functions.
+In a January 1963 memo detailing NPIC recommendations for future satellite photographic quality requirements, NPIC Director Arthur Lundahl distinguished between photography of ‘surveillance’ character (which he characterized as ‘satellite photography which can provide general wide-area coverage on a fairly frequent repetitive basis’) and ‘technical intelligence’ value (‘photography of sufficient quality to obtain detailed technical intelligence’), which did not yet exist from satellites.
+He also provided his thoughts on the practical value of KH-4 imagery and its resolution shortcomings; noting that the system was Footnote 43 continued stereoscopic effect for the viewer which allowed the height and depth of objects to be seen in three dimensions.
+The engineering pass programmed over Cuba collected imagery with the aft camera alone, yielding only monoscopic imagery.
+The examples are not intended to discredit the MURAL program which has been extremely successful and has brought in a wealth of exploitable photography, but is intended to indicate that there is room for major improvement.
+After the eventual Soviet withdrawal of missiles from the island, IC members also addressed the potential for further Soviet surface-to-air and surface-tosurface missile deployments outside of the USSR – and the use of overhead imagery of varying types to monitor such developments.
+Under the circumstances it is imperative that we employ every intelligence resource to insure that these military buildups do not include weapons that would extend the Soviet range of striking power to areas of the world which now feel relatively secure from nuclear threats.
+At the present time there is insufficient evidence of missile-related activities in the Middle East to justify a request for U-2 coverage.
+COMOR recommends the acquisition and interpretation of satellite photography on these areas as a necessary preliminary to any request for a development of U-2 capability in the Middle East.
+The resolution limitations of a broad-area system like Corona drove the need for follow-on systems – the KH-7 ‘Gambit’ and KH-8 ‘Gambit-3’ – to provide point-imaging, high-resolution functionality.
+With the fielding of the KH-9 ‘Hexagon’ system in 1971, the IC finally possessed complementary filmreturn systems that could perform both the surveillance and technical intelligence tasks outlined by Lundahl in 1963.
+Concurrently, photo interpreters could either magnify individual areas within a broad area Hexagon image or rely on the Gambit point imaging system for even-higher resolution.
+Obviously, it would have been much easier to deal effectively with a Soviet missile threat in Cuba if the administration had detailed information on the degree of Soviet preparation for quick use of strategic striking forces.
+This, then, was a central consideration in Charyk’s desire to accelerate Gambit progress and to improve the quality of Gambit products.
+The prospect of a program delay rather than acceleration, and of photographic degradation rather than improvement, certainly influenced him.
+The haze over San Cristóbal and Guanajay on the afternoon of 1 October significantly reduced the interpretability of those areas and further precluded any chance the SAC interpreters might have had of identifying ballistic missiles there.
+The November 1962 Lehman Report goes so far as to characterize the results of 9045 over Cuba as being unsatisfactory ‘largely because of cloud cover’.52 It is hard not to speculate about what interpreters might have seen around San Cristóbal and Guanajay had the Corona been launched at such a time as to photograph Cuba earlier in the day on 1 October.
+Even on 10 – 15 foot resolution imagery, it is conceivable that unique scarring or vehicle/equipment concentrations, if seen without any haze at all, might have at least cued photo interpreters to military activity in the area and reinforced COMOR’s plea for U-2 coverage earlier than 14 October.
+It is tempting to consider what warning of the deployments a day or two earlier might have meant for the Kennedy administration’s response to the development.
+The fallacy of such counterfactual considerations, of course, is that they fail to appreciate the Corona 50 Berkowitz, ‘The Soviet Target’,105.
+Corona satellites and their mission parameters were optimized to collect encyclopedic information about Soviet strategic infrastructure.
+Any other potential functions would be performed only after that need was satisfied.
+Even once a system was developed to allow for remote changes to the preset program, it remained very difficult to take advantage of changes in meteorological reporting.
+Moreover, each mission launch was timed to maximize coverage over an area of high priority when that area was in the daytime portion of earth’s rotation and predicted to have favorable weather.
+In the case of Mission 9045, this meant the Kamchatka Peninsula, where Corona was to photograph the suspected Soviet antiballistic missile site at Sary Shagan.
+By designing 9045’s launch time and orbital parameters to pass over Kamchatka during cloud-free daylight hours, subsequent passes over Cuba would occur during a less-than-optimal window.
+As a result, the photos taken over Cuba in the late afternoon of 1 October were heavily cloud covered, as one might expect in the early Caribbean fall at that time of day.
+Images taken in the early morning hours – the decisive 14 October photos taken by Major Heyser’s U-2 were acquired just after 7:30am – would have had a better chance of seeing cloud-free areas, but only if the coverage of this area were made the central priority of the mission.
+The Cuba requirement – a DIA request initially tacked on in informal manner as part of an engineering pass – was naturally accorded less priority and would image in a time consistent with the Corona’s ability to image Kamchatka, not the other way around.
+As the KH-4A and KH-4B systems entered service, more film could be carried and longer missions could be flown .54 This meant more imaging opportunities and greater flexibility to reprogram imaging windows, taking advantage of weather as it changed over desired areas.
+A family of satellites in polar, sun-synchronous orbits, DMSP was designed to take wide-area photographs of cloud formations to provide the United States military and IC with accurate weather forecast data in near-real time.
+This system began transmitting valuable cloud cover data from orbit to help plan aerial and satellite reconnaissance missions in October 1962 – just too late to help Mission 9045.
+Tasking and Exploitation Coordination The attempt to use Corona over Cuba also illuminates some early satellite imagery tasking and coordination pitfalls.
+Use of Corona to image Cuba came at the request of DIA, not CIA; moreover, a request for Corona imagery over Cuba appears to initially have been made in a roundabout, ad hoc manner through the CIA’s Office of Special Activities , the office in charge of the Agency’s involvement in Corona tasking and management.
+Granted that we have covered our tracks occasionally by advising Reber of what we have done, Reber cannot really speak for the Group, and maybe someone might feel that a pass over his pet target is just as important as a pass over ours . . . unless we are more attentive to walking the straight and narrow when it comes to targeting by following the dictates of requirements of COMOR and not our own, then I suggest that decay can rapidly set in to our whole system re COMOR activity.
+In other words, what we are tacitly advocating, and in fact accomplishing, is that the guy who controls the program controls the targeting.
+I have possibly blown this far out of proportion, but I think the thread of corruption is there and should not be woven to a great pattern by our own indulgence.
+Alternatively, this possibly referred to Mission 9043 which launched on 17 September, three days after the memo date; however, mission data available through CREST references no 9043 coverage over Cuba.
+The lack of coordination and use of proper channels noted in McMahon’s memo also appears to have plagued the exploitation of the 9045 film over Cuba.
+The PFIAB Chronology explicitly references Mission 9045 photos of Cuba being exploited by interpreters at SAC – most likely the 544th Reconnaissance Technical Group at Offutt AFB in Omaha, Nebraska – not NPIC, despite the latter’s heavy involvement in exploitation of U-2 imagery of Cuba.
+Indeed, if NPIC interpreters did examine the film, there is no record of it in any of the 9045 initial exploitation reporting from 7–8 October or any other documentation available through the National Archives.
+No such notations are made for any targets in Cuba, suggesting that NPIC analysts did not review Cuba coverage on 9045 as a formal requirement as part of initial priority exploitation.
+In part to deal with such collection and exploitation coordination problems, the Committee on Imagery Requirements and Exploitation replaced COMOR in June 1967 as a coordinating body more focused on rationalizing competing national requirements for satellite and other specialized sources of overhead imagery.
+Ernest May, for example, states that ‘ . . . and related intelligence enabled the president and his associates to judge not only whether missile sites in the Soviet Union were making launch preparations, but also whether other types of Soviet forces were moving into position for offensive operations.
+Whatever the source of that information on 25 October – Humint, Sigint, or otherwise – it was not Corona.
+Mission 9046A, carrying a low-resolution KH-5 mapping camera system, was launched on 9 October and recovered on 13 October.
+Any Corona-derived information on military sites inside the USSR available on 25 October would have been derived from Mission 9045 coverage.
+Limitations pertaining to image resolution, weather, and community tasking and exploitation coordination make clear the needs that led to the development of United States satellite reconnaissance capabilities over the next several decades.
+Indeed, the developments of Gambit, Gambit-3, Hexagon, and the eventual near-real time, digital systems that provided the next great leaps forward – as well as the meteorological systems that supported their operations and the coordinating organizations that guided their use – can only fully be understood in the context of the early promise of the Corona program and the challenges it faced in providing comprehensive answers to diverse intelligence questions.
+While these developments might otherwise seem an obvious inevitability in retrospect, this discussion of Corona over Cuba reminds students of intelligence history that such forward leaps only came in response to earlier shortcomings and unsatisfied needs.

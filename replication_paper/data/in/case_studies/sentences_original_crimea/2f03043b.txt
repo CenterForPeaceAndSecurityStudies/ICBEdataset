@@ -1,0 +1,886 @@
+HOW SHOULD THE United States ABCT BE ORGANIZED AND EQUIPPED TO ADDRESS THE CURRENT HYBRID THREAT A thesis presented to the Faculty of the United States Army Command and General Staff College in partial fulfillment of the requirements for the degree MASTER OF MILITARY ART AND SCIENCE General Studies by SERHII SOBKO, LIEUTENANT COLONEL, UKARAINIAN ARMY Baccalaureate, Odessa Land Forces Institute, Odessa, Ukraine, 2005 Fort Leavenworth, Kansas 2017 Approved for public release; distribution is unlimited.
+ABSTRACT Recent conflicts and military operations in the world have shown that hybrid threat is increasingly common.
+United States combat forces can expect to encounter HTs throughout the entire range of military operations.
+In recent decades, the United States have prepared for and fought mainly in counterinsurgency operations, defeating opponents who did not have the sophisticated capabilities that a current HT would employ.
+That is why objectively assessing the readiness of the United States Army’s ABCT to wage war against a hybrid adversary is important.
+The problem is insufficient assessment of the United States Army’s ABCT organization and equipment in order to answer the question of whether the United States Army can successfully counter the HT or whether the United States Army still needs to learn more, adapt, and change.
+The research plan used is a qualitative approach that included analysis of available documents and studying the separate but similar cases of Israel fighting Hezbollah in Lebanon in 2006 and Ukraine fighting pro-Russian separatists in Eastern Ukraine.
+SUBJECT TERMS United States ABCT, Hybrid Threat, Hezbollah, pro-Russian Separatists 16.
+Recent conflicts and military operations in the world have shown that hybrid threat is increasingly common.
+Resources that Review the Israeli-Hezbollah War in 2006.22 Literature that Analyzes the Ukrainian-Russian Conflict in the Donbas Region, Eastern Ukraine.
+Defining HT.42 Israeli-Hezbollah War of 2006.45 Brief Historical Overview of the Case.
+Explaining why Hezbollah is considered a HT.48 Analysis of the HT.50 Doctrine.
+Analysis of IDF’s Initial Response and Assessment of the Effectiveness of the IDF’s Initial Response.
+Analysis of IDF’s Adjustments to the HT and Assessment of the Effectiveness of the IDF’s Adjustments.
+Ukrainian-Russian Conflict that started in 2014.74 Brief Historical Overview of the Case.
+Explaining why the Separatist Forces are considered a HT.77 Analysis of the HT.78 Doctrine.
+Analysis of UAF’s Initial Response and Assessment of the Effectiveness of the UAF’s Initial Response.
+Analysis of UAF’s Adjustments and Assessment of the Effectiveness of the UAF’s Adjustments to the HT.97 Doctrine.
+Capabilities that a United States Army Unit needs to Counter the HT.105 Doctrine.
+Comparison of the United States ABCT Doctrinal Capabilities and the IDF’s and UAF’s Initial Responses and Adjustments.
+Army forces maintain proficiency in the fundamentals of decisive action and possess capabilities to meet specific geographic combatant command requests.
+Regionally aligned forces provide combatant commanders with an Army headquarters tailored to missions from tactical level to joint task force capable.
+The brigade combat team shapes the security environment and wins across the range of military operations. — Field Manual 3-96, Brigade Combat Team , 2015 The purpose of the study is to determine whether the United States Armored Brigade Combat Team is organized correctly and equipped appropriately to address effectively the current Hybrid Threat as defined in the current United States Army’s references, Training Circular 7-100 Hybrid Threat and Army Doctrine Reference Publication 3-0 Operations.
+The United States combat forces can expect to encounter HTs throughout the entire range of military operations; from Peace Operations across the spectrum of conflict to Total War.
+Today’s operational environment can be characterized as a composite of regular and irregular, legal and illegal, moral and immoral, and backhanded or deceitful.
+A possible, and probable, enemy also would be a formless and extremely adaptable formation, staying away from United States overwhelming strengths and seeking to strike at weaknesses in the forces.
+Combined Arms Center, 2011), 33. 1 satellites have induced new vulnerabilities.
+With the help of GPS technology, the United States Army has improved navigation and targeting systems, but at the same time, these improved systems are susceptible to jamming and deception, which seriously degrades successful mission accomplishment.
+The crux of the issue is that a HT may employ a variety of equipment and methods to influence opponents.
+The current fighting in Ukraine is a vivid example of how the Ukrainian Armed Forces fight against an enemy consisting of a combination of regular and irregular forces with the inclusion of criminal elements.
+This conflict has seriously stressed the Ukrainian Army and forced the Ukrainian Army to make substantial changes in order to be effective.
+In recent decades, the United States have prepared for and fought mainly in counterinsurgency operations, defeating opponents who did not have the 2 Ibid., 28.
+That is why objectively assessing the readiness of the United States Army’s ABCT to wage war against a hybrid adversary is extremely important.
+The problem is insufficient assessment of the United States Army’s ABCT organization and equipment in order to answer the question of whether the United States Army can successfully counter the HT or whether the United States Army still needs to leam more, adapt, and change.
+I intend to answer my research questions by following the qualitative analysis method and focus on analyzing available documents while studying the separate but similar cases of Israel fighting Hezbollah in Lebanon and Ukraine fighting Russia in Crimea and Eastern Ukraine.
+Of special note, I will analyze the observations of Lieutenant-General Zabrodskiy, currently Commanding General of Highly Mobile Airborne force of Ukraine.
+He was the 95th Airborne Brigade commander in 2014 in the UAF during the major operations against the pro-Russian separatists.
+Near future technological innovations will not significantly alter either the HT’s capabilities or United States Army vulnerabilities.
+Personal Observations” (Historical Lessons Learned Workshop Sponsored by John Hopkins Applied Physics Laboratory and United States Army Capabilities Center , 6 July 2015), 35.
+Is a “violent struggle among state and non-state actors for legitimacy and influence over the relevant population.
+Enemy Combatant as “in general, a person engaged in hostilities against the United States or its coalition partners during an armed conflict” 14 who does not adhere to conventional doctrine.
+From ancient and recent history, there are many examples of conflicts pitting a HT against a conventional army.
+However, with the passage of time and the development of modem technology the concepts and capabilities of a hybrid enemy have evolved and therefore become more dangerous and even more difficult to detect.
+Today, libraries and databases have a multiplicity of sources relating to the modern hybrid wars.
+A relatively sufficient quantity of open access information can be found concerning the conflict between Israel and Hezbollah.
+However, there is little information in open sources about the composition of IDF’s brigades.
+Much less information can be found concerning the conflict in eastern Ukraine with the Russians and the Russian proxy organizations.
+This relative lack of information is due primarily to the fact that the conflict started recently and is still ongoing.
+Much more information can be found in different Ukrainian military sources, but unfortunately the sources are classified for internal Ukrainian use only.
+This study 15 United States Army TRADOC, Handbook No 1.08, Irregular Forces , 1-6.
+Additionally, the key limitation of this study is that analysis of the United States ABCT relies solely on doctrinal references, because there is a lack of information in open sources in terms of the ABCT’s combat experience and training in the National Training Centers.
+Possible Investigator bias due to previous Experience with the Model The researcher has direct experience during his army career.
+Before attending the United States Command and General Staff College, he served in an infantry unit fighting against a HT in Eastern Ukraine.
+His service in the Ukrainian Army from 2014 to 2016 enabled him to observe and analyze the Russian sponsored HT on a daily and extremely personal perspective.
+Nevertheless, the use of data based on personal experience will be minimized.
+In order to study the experience of warfare against HTs, two significant case studies will be reviewed.
+One deals with the conflict between Hezbollah and Israel Defense Forces in Israel and Lebanon.
+The second deals with the conflict between Ukraine and Russia in eastern Ukraine.
+This research is based on unclassified information in order to present an analysis useful to the largest number of 7 people.
+In order to present the resulting findings, the information and research cutoff date for this research is 1 March 2017.
+Significance of Study For the last 10 years, the United States armed forces have been mainly concentrated on COIN operations.
+Recent events in Ukraine demonstrate that the United States must prepare to participate in a new type of warfare, so-called hybrid wars, which include a wide range of direct combat operations and covert operations carried out by the armed forces, guerrilla formations and incorporating the effect of different civilian components.
+This research also describes common characteristics of the current HT which is also valuable for United States officers.
+The research results could be used to improve military practices and effectiveness of the ABCT, for example changing or improving organizational structure and equipment.
+On a personal level, soon after the completion of this research project I likely will serve in a key leadership role in a mechanized formation conducting missions against the Russian sponsored HT in Donbas, Ukraine.
+Individually this topic will inform me and prepare me effectively for this assignment.
+This problem is important because in the recent past, the United States has trained to fight and has fought against mainly opponents lacking the sophisticated capabilities that a current HT may use.
+Therefore, objectively assessing the readiness of the United States Army’s ABCT to wage war against a current, advanced hybrid adversary is important.
+Understanding the current knowledge on the subject is essential and will be presented in next part of the thesis.
+Chapter 2 is a review of literature relating to the primary and secondary research questions for this research.
+Increasingly, ‘conflict’ will be something vaguer, something more interdisciplinary, something having more to do with psychology and identity than having to do with military forces.
+The purpose of chapter 2 is to summarize and evaluate briefly the extant literature on the topic.
+In addition, this part of the study identifies patterns and detects gaps in the current literature, which this research will attempt to fill.
+The first section reviews the United States Army doctrine that considers all aspects relating the HT and the United States ABCT characteristics, capabilities, and its employment.
+The second section recapitulates the literature that defines and describes the HT and hybrid warfare, outlines the strategy, operations, and tactics of the HT, and discusses the manner in which such threats may organize and operate to fight United States forces.
+The fourth section examines and 10 assesses the literature, which provides data analysis on the Ukrainian-Russian conflict in the Donbas region, Eastern Ukraine.
+ADRP 3-0 Operations Field Manual 3-96 Brigade Combat Team TC 7-100 Hybrid Threat TC 7-100.
+This publication discusses operations with consideration of foundations, tenets, and doctrine of Unified Fand Operations , which serves as the primary framework for all operations.
+ADRP 3-0 provides a general view on the nature of warfare and a common guidance for resolving military problems and discusses how the Army conducts military operations across numerous domains.
+This manual discusses the tactics and employment of brigade forces during the conduct of decisive action across the range of military operations.
+FM 3-96 focuses on tasks associated with the offense, the defense, and stability operations.
+This publication does not outline capabilities and limitations of the different Brigade Combat Teams.
+In the study, this publication will facilitate the analysis of the ABCT capabilities to address the HT across an operational environment.
+Training Circular 7-100 Hybrid Threat describes a category of threats and actions that do not fall under the definition of conventional and unconventional war.
+This publication focuses on HTs that are simultaneous combinations of various types of activities by enemies and adversaries that change and adapt over time.
+The expanded, detailed examples of HT tactics represented in chapter 5 of TC 7-100, does not explain how HT utilizes armored units.
+Thus, this publication presents a somewhat incomplete view of the HT, presenting it as consisting mainly of light units.
+Hybrid Threat Force Structure Organization Guide describes the HT for the purpose of training United States forces for future potential combat operations.
+This publication focuses on Threat doctrine regarding organization and training-related issues from a United States perspective.
+TC 7-100. is a confusing document with an abundance of too detailed, unnecessary, and overwhelming information and a multitude of contradictions.
+For example, the title of publication is Hybrid Threat Force Structure Organization Guide , but later the title used is Threat Force Structure Organization Guide.
+This TC outlines what could constitute a HT and, as such, covers the entire spectrum of conventional and irregular capabilities.
+Some capabilities such as naval, airborne, aerial, or space are more suited to conventional forces, not what we typically think as hybrid.
+For example, in chapter 2, maneuver brigades and battalions do not have artillery and mortar units.
+In addition, the worldwide equipment guide represented in chapter 4 is very poor, lacking completeness and details necessary for understanding.
+This handbook is complete and comprehensive in terms of understanding Irregular Forces.
+In summary, HTs combine such properties as innovation, adaptability, global interconnectedness, and merger with the local population.
+HTs are able to operate both conventionally and unconventionally, using a combination of traditional, irregular, and criminal tactics.
+Literature that Describes HT and Hybrid Warfare Frank Hoffman is a modern military theorist who has worked as a Research Fellow at the Center for Emerging Threats and Opportunities since 2002.
+His primary responsibility is overall direction, conducting analysis, and developing concepts on future challenges and emerging opportunities for the United States Marine Corps.
+The Rise of Hybrid Wars, examines deeply the concept of a hybrid threat and fills the gap between the linear specification of regular and irregular warfare in 25 Department of the Army, TC 7-100, Hybrid Threat, 1-1.
+This work allows us to understand more deeply the occurrence of changes and their influence on the character of the war.
+In addition, the author outlines possible most dangerous and most likely form of Hybrid Warfare that will challenge the United States conventionally-oriented force and their conception of war.
+The first principle is omni-directionality, according to which a battlefield combines all the traditional domains with politics, economics, culture, and morale factors.
+The second, synchrony, argues that in order to attain the desired end state, actions must be conducted simultaneously and rapidly in different spaces.
+The last one, asymmetry, determines that in the unlimited war there is a greater ability to circumvent the rules.
+These principles provide a broader view on the war composition and challenge the United States conventional thinking.
+To characterize the nature of current hybrid threats, Hoffman studied a variety of different historical examples, such as Irish insurgents of 1919 and 1920, Mujahedeen in Afghanistan in the 1980s, Chechens rebels in their conflict against Russia, Balkans experience, and finally, operations in the Middle East.
+A large portion of his work is in particular focused on Hezbollah-IDF, focusing on the defense missions at the operational and tactical levels.
+In terms of Hezbollah, Hoffman concludes that the 2006 Lebanon War is an important case to study that is worth a deep analysis.
+Hoffman thinks that Hezbollah 27 Hoffman, “Conflicts in the 21st Century,” 16.
+Hezbollah proofed itself as a highly disciplined, well trained, and sophisticated group, capable to fight against a modern conventional force.
+The results of the Hezbollah-Israeli battle in southern Lebanon demonstrate substantial weaknesses of the IDF, which is useful for United States military planners.
+Geltzer is worth attention because the authors re-conceptualize an asymmetric strategy in a crucial way.
+The authors describe many ways in which asymmetric strategies are becoming strategies of increasingly strong parties.
+In order to neutralize or mitigate American power, strong 29 Ibid., 36.
+Considering that the United States is now the dominant world power economically and militarily, the opponents who want to restrain the United States will avoid conducting conventional war; instead, they will be looking for approaches that are more sophisticated.
+They will develop strategies accented to exploit obvious American strengths as factual vulnerabilities.
+The authors also reject the idea that asymmetric strategies can be used only against the United States.
+Moreover, they argue that the United States can use them as well and what benefits may result from this.
+The assertion that asymmetric strategies can be strategies of strong states is especially valuable.
+The research paper of Colonel Leslie F Brown, “Twenty-First Century Warfare Will Be Hybrid” defines HT in the same way as in the previous document, provides information about the emergence of HT, and offers a reasonable explanation of why hybrid warfare will be the prevailing form of warfare in the twenty-first century.
+What makes this document stand out is the fact that it analyzes the National Military Strategy in terms of HT and Joint and Service hybrid warfare doctrine.
+In addition, the author recommends changes in strategy and doctrine that must be implemented in order for the 33 Ibid., 44.
+The Department of Defense must adopt the term hybrid warfare and develop a strategy that properly addresses the hybrid threats.
+The Department of Defense must completely revise the structure of United States forces.
+The need to improve and enhance the capabilities of leaders, headquarters, and units at all levels in the conduct of full spectrum operations in a fluid environment.
+Increase the size of the Special Operations Forces capable of conducting seamless conventional and irregular operations.
+The provisions of this document, in conjunction with the entire literature in this area, help to understand the essence of a hybrid war.
+Brown’s guidance, described above, can help in the formation of the recommendations of this study, which will be presented in chapter five of this study.
+Preparing for Future Conflict” are similar but complementary to the literature discussed above.
+The first resource describes the theory of hybrid conflicts as well as provides an example of the events of the Second World War in Eastern Front , where the authors 36 Colonel Leslie F Brown, “Twenty-First Century Warfare Will Be Hybrid” , 17.
+Also, this report provides operational approaches to hybrid warfare by analyzing the American experience in Vietnam and in Operation Iraqi Freedom.
+Captain Houvinen in his research presented a case study from the Second Lebanon War based on the United States experience gained in Vietnam War.
+Thus, these works can expand the view of the concept of HT and hybrid warfare via additional case studies of the wars in Vietnam, Iraq, and Second World War.
+However, case studies of these three wars will not be implemented in this study.
+The article of Charles K Bartles “Getting Gerasimov Right” provides a review of the chief of the Russian General Staff.
+New Challenges Demand Rethinking the Forms and Methods of Carrying out Combat Operations,” published in Voyenno-Promyshlennyy Kurier newspaper.
+Gerasimov’s thoughts were published a year before the events in Kiev in the winter of 2014.
+Since the beginning of spring 2014, Russia brought to life those provisions, which have been disclosed in this article.
+Gerasimov asserts that the experience of military conflicts, including those associated with the Color Revolutions (“Color Revolution” is a term that was widely used to describe various related movements that developed in several societies 40 ) in North Africa and the Middle East confirm that any state in the shortest period may turn into an arena of bitter warfare, become a victim of foreign intervention, plunge into chaos, 40 Chief of the Russian General Staff Gen.
+The role of non-military methods to achieve political and strategic objectives has increased.
+In some cases, these methods in their effectiveness far exceeded the force of arms.
+Methods of confrontation shift toward the wide use of political, economic, information, humanitarian and other non-military measures implemented by taking advantage of the protest potential of the population.
+These methods are complemented by hidden military means, including the implementation of information warfare measures and special operations forces actions.
+Gerasimov also outlines the characteristics of the operational environment during the conduct of such conflicts.
+Enhancing the role of inter-specific mobile groups of forces acting on the same intelligence and information space through the use of new software control systems features.
+The disappearance of the tactical and operational pauses, which the enemy could use.
+Reduction of gaps in space, time, and information between the troops and authorities through the use of new information technologies.
+At the strategic and operational levels, large forces frontal collisions are gradually disappearing to the past.
+Achievements of operational and battle objectives are mainly due to remote noncontact action against the enemy.
+The absence of differences between strategic, operational and tactical levels, offensive and defensive actions.
+Gerasimov’s views, described in the article, clearly reflect the essence of the Russian campaign in Ukraine.
+The analysis of this paper will facilitate the UkrainianRussian conflict case study of this research.
+Another article, which briefly analyzes the modern Russian military doctrine and provides a short overview of Ukrainian events in 2014-2015, is “A Closer look at Russia’s ‘Hybrid War’,” by Michael Kofman and Matthew Rojansky.
+Hybrid war is just a tag attributed to Russian actions in Ukraine by the West.
+The authors emphasize that the term “hybrid” as a combination of different ways and means across domains is not novel but is as old as warfare itself.
+This term is imprecise and could not be used to describe a new form of warfare.
+Generally, this article is not detailed and provides a cursory review 44 Ibid.
+Nonetheless, Kofman and Rojansky contribute to the discussion of the meaning of Hybrid war.
+Resources that Review the Israeli-Hezbollah War in 2006 Most of the resources discussed in this section include information about the origin and history of Hezbollah.
+In the analysis of each of the sources special attention is paid to the peculiarities of each of them, which will contribute to the analysis in this study.
+Insights from the Israel Defense Forces in Lebanon and Gaza,” David E Johnson assesses recent irregular and hybrid conflicts and their implications for United States Army.
+He provides the characteristics of the forces of Hezbollah, which is the Shi’a Islamist militant group and political party based in Lebanon, and analyzes the experience of the Israel Defense Force in the last conflicts in Lebanon and Gaza to argue for balanced Army forces, capable of joint combined arms fire and maneuver, to provide the range of capabilities needed to prevail in future conflicts.
+The author draws a parallel between the IDF and the United States Armed Forces.
+The United States Armed Forces, specifically the land forces, have achieved notable adaptations to its high-end warfighting skills in response to the irregular war environments in Iraq and Afghanistan.
+Today, the United States leaders believe they must 47 David E Johnson, Military Capabilities for Hybrid War Insights from the Israel Defense Forces in Lebanon and Gaza , 1.
+The basics of combined arms fire and maneuver are essential for countering the hybrid opponents.
+During the second intifada, the Israelis showed that they had lost High-Intensity Conflict skills.
+During the war in Iraq and Afghanistan, the United States Army was in a condition similar to that of the Israelis before 2006.
+The United States military was expert at COIN, but was less ready for sophisticated hybrid opponents.
+In conclusion, the arguments from Johnson’s paper could be informative in the analysis of current structure and capabilities of United States ABCT and its desired shape for facing hybrid threats.
+This is an insightful and comprehensive examination of the 2006 Lebanon War.
+Matthews argues that no conflict in recent past provides a more enlightening study for the United States Armed Forces than the 2006 Hezbollah-Israeli war.
+The biggest mistake for the IDF in this war was a reliance on unclear and debatable Effects-Based Operations and Systemic Operational Design warfighting theories, and a 49 Ibid., 7.
+The 2006 Hezbollah-Israeli War (Fort Leavenworth, KS: Combat Studies Institute Press, 2006), 2. 23 great reliance on air power.
+Moreover, during a long period of time, the IDF were involved in COIN operations in the Gaza Strip and West Bank territories which have a negative effect on their tactical readiness to fight against Hezbollah force that built conventional, fixed-position defense.
+For the United States Armed Forces, which have been involved in irregular warfare for decades, this issue is of primary importance.
+While the United States Forces continue to execute COIN operations throughout the world, they must maintain the ability to perform major combat operations.
+Lessons from the Israeli Experience in Hybrid Warfare by Michael B Kim.
+The author argues that future conflicts will not be limited by unconventional fighting; instead, the combined-arms warfare will be relevant.
+In this work, Michael Kim analyses the role of the main battle tank Ml Abrams in the past and provides his vision about its future role.
+He focuses mostly on the IDF experience during Operation Protective Edge , however, the Lebanon War in 2006 is also under consideration.
+After deep examination of these case studies, Kim concludes that Ml Abrams in 2015 through 2025 will be an effective mobile and survivable precision firepower platform for effective implementation of combined-arms operations against a sophisticated HT in different 52 Ibid„ iii.
+Lessons from the Israeli Experience in Hybrid Warfare (Arlington, VA: Association of The United States Army, 2016), 1. 24 environments.
+In addition, Michael Kim recommends that the United States Army modernize armored platforms with an active armor protection system and improved munitions.
+The results of Kim’s work and his recommendations will be used in the analysis found in this study.
+Hizballah (January 2017) is thorough, complete, and useful; and contains a sufficiently detailed description of all aspects related to Hezbollah.
+This document reveals in detail the essence of this organization, the strategic objectives, and the principles of fighting.
+The publication focuses on the sponsorship relationships through which Hezbollah receives funds and weapons.
+In addition, the document describes organizational structure and size, weapons, equipment, leadership, recruiting, and locations of active current activities.
+In order to demonstrate the breadth of types of attacks Hezbollah has committed since 1982, authors provide an events timeline, where outlined descriptions and sequence of attacks on different military and civilian targets.
+This is the only document among all discussed in this literature review which enables a reader to reach such understanding.
+Implications for Army and Defense Policy,” by Stephen Biddle and Jeffrey A Friedman presents a detailed study of the Lebanon War in 2006, informs the debate over the nature of future warfare and how the United States should prepare for the future conflict.
+The work can be considered valuable because the authors collected information directly from 36 participants of those events who fought on the Israeli side and from captured Hezbollah fighters as well.
+The monograph outlines the key events of the campaign, characterizes Hezbollah’s tactics, theater operations, strategy, and assesses the Hezbollah’s proficiency in fighting.
+Finally, the authors summarize lessons learned and provide implications for United States Army and Defense policy.
+The analysis, outlined in Preliminary “Lessons” of the Israeli-Hezbollah War by Anthony H Cordesman, is based on data collected mostly from media reports, Israeli and Arab military thinkers, senior Israeli officers, and experts.
+Implications for Army and Defense Policy” (Monograph, Strategic Studies Institute, Army War College, September 2008), 8.
+Considering the major lessons about war progress, the contributing experts draw attention to the issues in terms of fighting in civilian areas and the problem of collateral damage.
+In addition, the contributing experts express their views on the conclusions that the United States Armed Forces must do after the analysis of Israeli experience in this war.
+Insights from the Second Lebanon War is the difficulties that Israel and its armed forces confronted during the Second Lebanon War.
+Glenn relies on information provided by active and retired IDF officers during the conference that took place in Tel Aviv in March 2007 and other data sources.
+Subsequently, Glenn proposes an external perspective and lessons for the United States military that will assist in preparing for current and potential challenges.
+In conclusion, the Lebanon War in 2006 was a unique and valuable experience not only for the armed forces of Israel but also for the other countries.
+Many thinkers and military officers carried out the study of all aspects of this war.
+Insights from the Second Lebanon War , xii. 27 more than 10 works will be used in this study.
+Each of the references has its own features but mostly the references repeat what has been described in the previous literature review.
+Literature that Analyzes the Ukrainian-Russian Conflict in the Donbas Region, Eastern Ukraine Compared with the war in Lebanon, the Ukrainian conflict is not yet as well studied and described.
+Nevertheless, recent documents that are released into the world by the United States Army War College, Asymmetric Warfare Group, and Dr.
+Phillip A Karber substantially cover the events in the Crimea and Eastern Ukraine.
+The first question asks what the Russian strategy is in their periphery.
+The second question asks what would be the appropriate United States response.
+The last question asks what the implications are for the United States landpower.
+Despite the fact that these issues are quite global and concern strategy in response to these three questions the War College Analysis refers to the more mundane issues, the analysis of which will be valuable to this study.
+The report analyzes Russian Operations in Crimea and Donbas and provides an analysis of characteristics of Russian Land power today by Doctrine, Organization, Training, Materiel, Leadership and Education, Personnel, and Facilities domains.
+During this time, Russian forces also changed, but this transformation took place in a special way.
+In Crimea and Donbas, the world has seen completely different type of Russian armed forces.
+The Russian Forces learned bitter lessons during past wars and transformed, retaining virtually nothing from the former Soviet time.
+The handbook is concerned with the question of how to defeat such an enemy.
+The United States Armed Forces have not participated in such wars for a long time and must change in order to successfully fight and win in complex maneuver conflicts with peer competitors.
+The purpose of this handbook is to provide an analysis of the tactics used by Russia in Ukraine as the military component of the Russian New Generation Warfare doctrine and identify training priorities for the United States Army that are not currently a focus area.
+In addition, this work describes Russian troop’s capabilities and applications of combat power.
+Finally, and most importantly, this handbook gives recommendations for United States Brigade Combat Teams and battalions in terms of countering these Russian methods of war.
+Dr.Phillip A Karber’s work “Lessons Learned from the Russo-Ukrainian War, Personal Observations” is a unique paper because it is based mostly on personal observation and interviews with Ukrainian combat officers and Ukrainian troops at 64 Asymmetric Warfare Group, Russian New Generation Warfare Handbook, Version 1 , 2.
+Karber made 15 trips to the Anti Terrorists Operation zone and systematically interviewed commanders of different level and troops on the ground.
+Karber about military developments in Ukraine was compared with the views of senior North Atlantic Treaty Organization officials and Allied political and military leaders.
+Karber examines many issues at the tactical level that will be useful for research.
+In addition, the author covers some operational issues such as mobilization and deployment, the experience of major battles, and changing of conventional force structures and organization for combat.
+The Critical Role of Information Operations and Special Operations” is a detailed study of a hybrid 67 Karber, “Lessons Learned from the Russo-Ukrainian War,” 3.
+After a brief consideration of the concept and essence of hybrid war, Perry argues that information operations and special operations played the most important role and ultimately paved the way to Russian success in this war.
+Bogdanov concerning the significance of nonmilitary weapons in current and future wars.
+A new-generation warfare will be dominated by information and psychological warfare that will seek to achieve superiority in troops and weapons control and depress the opponent’s armed forces personnel and population morally and psychologically.
+In the ongoing revolution in information technologies, information and psychological warfare will largely lay the groundwork for • 70 victory.
+The conclusions of Checkinov and Bogdanov are important because the enemy by means of information operations and special operations forces affects the opponent and operational environment at all levels of war; strategic, operational and tactical.
+The United States ABCT, while operating against similar threat, must have capabilities to resist and defeat these factors.
+Putin’s War in Ukraine” by Maksymilian Czuperski, John Herbst, Eliot Higgins, Alina Polyakova, and Damon Wilson is the result of an Atlantic Council Working Group was written to examine direct Russian military participation in Ukraine.
+Igor Sutyagin’s paper “Russian Forces in Ukraine” is also a relevant addition to the previous document.
+The report provides information concerning those units of the Russian Armed Forces which were deployed to Ukraine or were stationed in close proximity to the border.
+The report shows that the number of Russian forces was nearly the same as Ukrainian available forces.
+These two reports provide an opportunity to understand more deeply what the armed forces of Ukraine faced in this war.
+The doctrinal review section considers all aspects relating to the HT and the United States ABCT capabilities.
+The second section recapitulates the literature that defines and describes the HT and hybrid warfare, outlines the strategy, operations, tactics, and organizations of the HT, and discusses the manner in which such threats operationally organize to fight the United States The last two sections summarize the studies that were carried out to provide data analysis on the experience of the IDF in fighting against Hezbollah during 2006 Lebanon War and lessons learned by the UAF during Ukrainian-Russian conflict in the Donbas region, Eastern Ukraine.
+However, the literature on Hybrid Warfare does better defining what the HT can be and can do.
+Most documents, with few exceptions, focused more on the strategic and operational levels of war.
+This study focuses on the tactical level of war and attempts to fill the gap in the literature in terms of the United States ABCT ability to address such hybrid threat as Hezbollah or separatists supported by Russian troops.
+The next chapter describes the research methodology used to generate and analyze data in order to answer the primary and secondary research questions.
+Chapter 2 summarizes and evaluates the existing literature on the research question; identifies patterns and finds gaps in the current literature, which this research will attempt to fill.
+The intention of chapter 3 is to describe the research methodology used to answer the primary and secondary research questions.
+This chapter outlines in detail the specific research method and techniques applied to the problem this study intends to solve; explains how the research moves, step-by-step, to answer all the research questions; and reviews the steps taken by the researcher to obtain information needed to address the primary and secondary questions.
+Research Methodology This study begins with the definition of HT in order to avoid any possible confusion and to provide the reader a common understanding of this term throughout this study.
+Afterward, this study continues with the examination of separate but similar cases of the Israeli-Hezbollah conflict of 2006 and the Ukrainian-Russian conflict that started in 2014.
+The 2006 Lebanon War has become an increasingly important case for the United States defense debate.
+Hezbollah is considered to be the world’s premier non-state hybrid force.
+This is why the study of the capabilities of a hybrid threat using Hezbollah as an example is prudent.
+The second case study, the Ukrainian-Russian conflict, is relevant because this conflict has started in the recent past and is still ongoing.
+It is also considered an exemplar of HT conducted by the Russian Federation.
+First, both Hezbollah and pro-Russian separatists initially were a proxy organization that employed guerrilla-style military tactics.
+Second, Hezbollah and the separatists’ troops put great emphasis on holding ground.
+Third, both groups relied extensively on harassing fires and unattended minefields.
+They had excellent fire discipline, mortar marksmanship, and coordination of direct fire support.
+Fourth, Hezbollah and the separatists’ troops widely used information warfare and UAVs.
+Doctrine, Organization, Training, and Materiel factors of DOTMLPF shape the research into major functional categories.
+DOTMLPF is a helpful framework for the analysis of complex issues and breaking them into separate and compliant components.
+DOTMLPF is a joint term and analysis methodology used by the United States Army.
+Each DOTMLPF domain is an area providing a focus for action officers to investigate solutions, products, and services to meet the required capabilities delineated in Department of Defense directives.
+This model analyzes future capabilities of potential adversaries, technological breakthroughs, the United States national posture, and tries to develop concepts and requirements to counter those adversaries and take advantage of technology.
+D—Doctrine: the fundamental principles by which the military forces or military elements guide their actions in support of national objectives.
+Materiel includes ships, tanks, self-propelled weapons, aircraft, related spares, repair parts, and support equipment, but excludes real property, installations, and utilities.
+As a result of the information provided in the doctrine, it became clear that the areas of Doctrine and Training from DOTMLPF have to be part of the analysis along with Organization and Materiel to better answer the primary research question.
+This research will be limited to four factors of DOTMLPF that are doctrine, organization, training, and materiel.
+Leadership, personnel, and facilities factors are beyond the scope of this study.
+Subsequently, a case study will analyze a HT and IDF’s—UAF’s initial response and assesses the effectiveness of the IDF’s—UAF’s initial response.
+Finally, a case study will analyze the IDF’s—UAF’s adjustments to the HT and assesses effectiveness of the IDF’s—UAF’s adjustments.
+The effectiveness of the initial response is based on the sustainable solutions.
+If either army used a solution that worked and did not change the solution, then the solution will be determined to be effective.
+Similarly, the effectiveness of the changes is based on the sustainable solutions.
+If either army found a solution that worked and adhered to the solution, then the solution would be determined to be effective.
+In the case study, a HT will be analyzed considering only the capabilities of the HT that could affect or influence the opponent’s armored or mechanized infantry formations.
+The IDF—UAF will be analyzed considering only the capabilities of the IDF’s—UAF’s armored or mechanized infantry formations.
+After the case study, based on the experiences of the IDF and the UAF, the analysis will show the capabilities that a United States Army unit needs in order to counter the HT arranged according to DOTM factors.
+Next, the research analyzes the doctrinal United States ABCT in terms of DOTM factors with emphasis upon organization and equipment.
+This study is mostly focused on analysis of the existing information, such as Army and Joint doctrine documents, military papers and publications, articles, newsletters, and research reports.
+Qualitative analysis of narrative data, using a case 39 study method, forms the unifying structure of the thesis.
+Additionally, examination of separate but similar cases of Israel fighting Hezbollah in Lebanon and Ukraine fighting Russia in Eastern Ukraine demonstrates clearly the major points of the analysis.
+This case study relies on multiple sources of information to provide as complete picture as possible and each case uses the same approach.
+In addition, an interview with Lieutenant-General Zabrodskiy, 83 combined with his observations shows the relevance of the study.
+There are potential gaps associated with the analysis of HT, IDF, UAF, and the United States ABCT, given limited access to some information.
+The restricted sources are not used in this study because the purpose was to stay in the unclassified area.
+Finally, when the analysis shows that the United States ABCT capabilities do not meet the requirements to address the current HT, this study presents recommendations for changes in terms of organization, equipment, and training that are explained in detail in chapter 5.
+This is a qualitative study designed to develop a response to the primary research question.
+He led his forces through the execution of the longest raid in modem military history behind the backs of the enemy in August of 2014.
+In addition, another key qualification of Zabrodskiy for this study is his educational background.
+Currently he serves as Commanding General of Highly Mobile Airborne force of Ukraine. 40 found in chapter 2 coupled with analysis derived from the research methodology outlined in chapter 3, to answer the primary and secondary questions presented in chapter 1.
+The purpose of chapter 4 is to present, explain, analyze, and interpret the evidence produced by the research methodology.
+The following analysis provides answers to the primary and seven secondary questions determined in chapter 1.
+Section 1 defines HT in order to avoid any possible confusion and to provide the reader a common understanding of this term throughout the paper.
+Sections 2 and 3 examine separate but similar cases of the IsraeliHezbollah conflict of 2006, and Ukrainian-Russian conflict that started in 2014 respectively.
+Lastly, Section 5 compares the United States ABCT capabilities with the IDE’s and UAL’s initial responses and adjustments.
+The chapter summary provides a review of the chapter and transitions to the chapter 5 that presents conclusions and recommendations.
+Defining HT Threats are an attributive part of the operational environment of any operation.
+Threats can be comprised of individuals, organized or not organized groups of individuals, paramilitary or military forces, nation-states, or national alliances.
+The concept of “HTs” was applied in order to describe the operations that comprise a multiplicity of players and do not have clearly defined elements of warfare.
+The second does not have any limitations and restraints to the execution of assigned missions.
+The ability to incorporate regular and irregular forces, converting between them and operations in order to take advantage of the weaknesses of the other side makes HTs especially effective.
+To be a hybrid, these forces collaborate in the scope of attaining their 84 Department of the Army, ADRP 3-0, Operations , 1-1.
+For instance, criminal elements can thieve repair parts for benefit, while concurrently degrading the readiness of the United States forces’ combat systems.
+Militia forces can protect their settlements with extraordinary strength as part of a composite defensive network.
+Additionally, some HTs may be the result of a non-state actor’s sponsorship by a state or states.
+In its activities, the HT will try to take advantage and superiority through the employment of modern technology and the media.
+In addition, they will embed their components in the political, military and social sphere of the opposing side.
+In opposing United States forces, HTs can be highly adaptive and sophisticated.
+To achieve this, they will combine conventional, unconventional, irregular, and criminal tactics in different variations that modify with the lapse of time.
+With the aim to create people’s distrust of their own armed forces, and to sow instability, the HTs will employ insurgency.
+Carrying out its tasks, HTs often will not have any restrictions or constraints in the use of violence, including the weapons of mass destruction.
+It is important to note that the HT is not a modem discovery and is not something unique.
+They were a constituent element of the military power in most wars and conflicts between traditional forces.
+Among the examples where a significantly weaker opponent uses its relative 89 Department of the Army, TC 7-100, Hybrid Threat, 90 Ibid., vi.
+This category also includes the war in Vietnam in 1954 to 1976 when the Viet Cong and the People’s Army of Vietnam fought against allied United States and French forces, and the war between Hezbollah and IDF in 2006.
+The following analysis provides an examination of two case studies of the IsraeliHezbollah conflict of 2006, and Ukrainian-Russian conflict that started in 2014.
+This militant organization was established in 1982 and conducted operations out of southern Lebanon.
+For 18 years, the main goal of Hezbollah was to push the IDF out of Lebanon by implementing mostly terrorist and guerrilla tactics.
+However, according to Hezbollah’s 1985 platform, the conflict with Israel “was not only 92 Department of the Army, TC 7-100, Hybrid Threat, 1-1.
+After this event, the leaders of Hezbollah decided to widen their vision and transformed into a political organization with a strong military component.
+The United States Department of State recognized Hezbollah as a Foreign Terrorist Organization on October 8, 1997.
+After the involvement of Hezbollah in the conflict in Syria and killing five Israelis and one Bulgarian by using explosives to destroy a bus in Bulgaria in 2012, the European Union applied the terrorist label to Hezbollah as well.
+Israel, Gulf Arab countries, and the Arab League designated Hezbollah as a terrorist organization in 2016.
+Israeli believed that they could force Hezbollah to disarm and withdraw from southern Lebanon as a result of this campaign.
+However, within 24 hours, Hezbollah launched a heavy rocket fire from southern Lebanon into Israel.
+As days went by, Hezbollah’s Katyusha rockets continued to engage the Israeli military targets and the population.
+The situation demonstrated that Israel was not able to quickly and decisively resolve the conflict and the effect-based air campaign did not reach the intended outcome.
+Utilizing prepared, hardened defensive positions, Hezbollah provided stiff resistance, which surprised not only Israeli military but military observers around the world as well.
+For several years, the IDF had been successful in COIN operations against the Palestinians.
+The Israeli ground campaign demonstrated that the IDF were confused by the new EBO doctrine.
+For example, Israeli Air Force campaign planner Ron Tira stated that “officers responsible for planning EBOs in the Air Force could not understand the definition of EBO or the definition of the word “Campaign” in the document.
+The 2006 Lebanon War ended on August 14, 2006, with a cease-fire agreement.
+The IDF suffered a significant defeat and Hezbollah’s victory was absolute and indisputable.
+In particular, Iran and Syria regularly delivered weapons and equipment, provided funding and training for Hezbollah troops.
+Over time, Hezbollah's military power has increased significantly and conventional capabilities in terms of anti-tanks, anti-aircraft, anti-ship weapons, rockets, and artillery have developed.
+Although Hezbollah possessed some capabilities associated with conventional military forces, Hezbollah leaders concluded that the organization should focus soldiers’ training on unconventional warfare with emphasis on individual and small groups’ tactics.
+Hezbollah’s conventional capabilities were supplemented with asymmetric capabilities including criminal and terrorist activities and networks.
+Hezbollah attacked different targets such as civilians, political leaders, military forces, airplanes, and embassies of several countries, to include the United States.
+As a result, Hezbollah acquired all the necessary attributes of a hybrid organization.
+In addition to its activities in Lebanon in 1980s and early 1990s, Hezbollah executed a global terrorist strategy.
+They carried out terrorist attacks against the United States and Israeli targets as well as focused on South America, Southeast Asia, Jordan, the Persian Gulf, and the European • 1OQ continent.
+Analysis of the HT Doctrine Hezbollah uses in its warfare a combination of regular and irregular tactics and techniques that include rocket and artillery attacks, information warfare, suicide bombings, and kidnappings.
+Since the beginning of Hezbollah’s existence, the goal of the organization has been to inflict as many casualties as possible.
+Hezbollah uses a relatively inexpensive and simple means such as vehicle-borne improvised explosive devices.
+Over time, Hezbollah acquired more advanced weapons and the level of training of personnel increased.
+The organization transformed into a more sophisticated threat with a greater breadth of capabilities.
+First, confusing the enemy and obliging its command to call for a constant state of alert, eventually leading to the exhaustion and decline in power.
+Second, spreading panic among enemy troops with the fear of death persisting after every successful or possible resistance attack.
+This served to shake the enemy morale and subsequently affected troop performance.
+In order to defeat a high-tech enemy, Hezbollah developed 13 basic principles of warfare.
+The principles worth mentioning are protecting own fighters, keeping the enemy on constant alert, continuous movement and avoiding the formation of a front line, and avoiding notions of the enemy’s superiority in order to maintain high morale of the fighters.
+In addition, Hezbollah pays special attention to the use of media and local population.
+Hezbollah believes that the media has innumerable guns whose hits are like bullets that need to be used in the battle and the population is a treasure that needs to be nurtured.
+At Bint Jubayl, Hezbollah fought a series of battles over a period of four days.
+Furthermore, they received return fire from the Merkava tanks but continued to fight and launched 10 more rockets.
+Hezbollah used the people of Lebanon as human shields to their advantage, clearly against the rules of the international laws of war.
+The Hezbollah leaders used effectively their own broadcast capabilities.
+Hezbollah adeptly used social media applications such as Facebook, Twitter, and Youtube to spread messages and inform about activities that were aimed to achieve political and military purposes.
+Hezbollah leaders gave interviews in which they sent messages to people to obtain support.
+They sent out messages to their supporters, foes, and the international press.
+For example, Hezbollah spokesmen used information warfare strategies to blame Israel in civilian collateral damages, regardless of who was truly responsible.
+That’s how you win when there’s a few thousand of you and 50,000 of us.
+They pressured journalists and television stations to not demonstrate footage that negatively portrayed the group.
+Organization Hezbollah and its actions can be described as a terrorist organization, insurgency, resistance movement, militia, and guerilla forces.
+In 2006 Lebanon War, Hezbollah has also demonstrated the ability to utilize conventional tactics.
+The foundation for success and strength of Hezbollah are flexible tactics, availability, and employment of different actors who actively carry out the tasks of the organization or provide support.
+According to the United States Department of State information, Hezbollah includes thousands of members, several hundred terrorist operatives, and thousands of more supporters.
+After defeating Israel, Hezbollah’s popularity increased and thousands of people joined the organization.
+Many considered the struggle waged by Hezbollah a national resistance movement.
+Estimates showed that Hezbollah main forces ranged from 2,000 to 3,000 before the fight started.
+Most Hezbollah fighters were locally based and operated near their homes in southern Lebanon.
+They led a normal life with their families, but reported to their units when called up.
+Depending on the area of operations, a unit could have from three to fifteen fighters.
+Thus, Hezbollah achieved decentralization that allowed them to be less vulnerable to Israeli interdiction.
+In addition, Hezbollah soldiers knew perfectly their area of operations, had widespread support of the local population, and had very effective communications network.
+Within this system, the responsibilities were distributed to smaller cells.
+Hezbollah commanders planned to maintain firm operational control over their rocket units while providing more tactical freedom to their ground forces.
+A Study of the Second Lebanon War and Operation Cast Lead (Lort Leavenworth, KS: Combat Studies Institute Press, 2009), 17.
+Training Hezbollah was armed, equipped and trained by Iran and Syria with the involvement of North Korean instructors.
+They effectively used the advanced weapon systems acquired before the war.
+For instance, the anti-tank weapons were used skillfully in terms of tactics.
+Hezbollah fired multiple rounds at the same target indicating that the use of anti-tank weapons was concentrated in anticipated kill zones.
+When IDF ground troops occupied buildings for protection, Hezbollah used anti-tank weapons against Israelis causing many casualties.
+Hezbollah’s veteran military personnel were well prepared to conduct elaborate antitank ambushes.
+Hezbollah soldiers and forward observers were trained to integrate mortars and rockets fire.
+Often they predicted possible Israeli avenues of approach and engaged their formations unexpectedly.
+In 2000, after Israel withdrew from Lebanon, Hezbollah began preparations for the future war, focusing on defense.
+Hezbollah built a complex and secret military infrastructure throughout southern Lebanon that consisted of underground tunnels, bunkers, and fortified observation posts all supplied with stockpiles of large quantities of artillery rockets, ATGMs, mortars, food, water, and medical supplies.
+For example, Hezbollah’s bunkers were 40 meters underground, covering an area of two square kilometers.
+Some of them had double blast doors that allowed protection from destructive overpressure generated by high-explosive munitions.
+Besides this, Hezbollah’s bunkers had access to planned firing positions where fighters could engage the IDF from secure locations.
+All facilities were built from reinforced concrete about three feet thick.
+Hezbollah used these advanced facilities as cache sites, C2 facilities, and defensive positions.
+Bunkers and tunnel networks allowed the leaders of Hezbollah to have continuous control with their units.
+The IDF fires intended to destroy the enemy command posts were not effective and even with knowing the specific placement of Hezbollah leaders, Israel failed to destroy them.
+The network of defensive positions allowed Hezbollah to protect personnel and equipment, restrict freedom of movement of the IDF, and control key pieces of terrain.
+Hezbollah used civilian facilities and homes to store weapons and supplies.
+In fighting Hezbollah also freely used civilian structures, including schools and mosques, for cover.
+Sometimes, the IDF soldiers felt that they were battling invisible fighters who had the “magical” ability to melt away and reappear.
+Materiel In 2000, when IDF withdrew from Lebanon, Hezbollah established close relations with Iran and Syria and began arming itself.
+In addition, Hezbollah exploited relations with criminal organizations to conduct narco-trafficking and smuggling of gold and diamonds.
+In the logistics arena, Hezbollah preserved every item they needed for war.
+The supplies were secret and were located in protected bunkers and entrenchments that were able to withstand IDF firepower.
+Because Hezbollah soldiers lived near their operating areas, they relied mostly on stockpiled supplies.
+They did not have a need to provide transportation or to protect lines of communication.
+Currently there is no data about the exact number of Hezbollah mortars, anti-tank weapons or any estimate of the number and percentages of damaged equipment.
+IDF intelligence experts said that they could only guess that Hezbollah kept at least several hundred thousand rifles and automatic weapons and up to six million rounds of ammunition.
+They could deliver its load anywhere in Israel and engage a target with a high accuracy of 10 These UAVs could not be detected with the normal surveillance radars.
+Iran also created a Hezbollah command center for targeting and controlling missile fire with advanced C2 assets and links to UAVs.
+Hezbollah possessed long and medium range rockets and missiles that were a serious threat to Israel, but the Israel Air Forces dismissed this threat during the first days of the war.
+According to Israeli official’s estimation, Hezbollah had more than 10,000 to 16,000 regular and extended range Katyushas.
+According to some reports, Hezbollah obtained electronic warfare capabilities from Iran.
+Hezbollah was ready to fight against IDF despite the influence of Israeli electronic warfare and maintained its command network throughout the war.
+The EBO was designed to affect “the cognitive domain” of the enemy, focusing less on annihilating it.
+Israelis thought that precision-guided munitions would allow them to destroy specific portions of the enemy with high accuracy.
+According to this theory, the IDF should target key command and control, logistics, radars, transportation, and related capabilities.
+By destroying those, it would make the enemy incapable of employing its military forces and unable to accomplish its military objectives.
+Another key point of the theory was a benefit of reduction in military casualties and collateral damage and the avoidance of extensive ground battles.
+The SOD was a tool intended to help IDF commanders plan their campaigns and an attempt to provide IDF commanders with the aptitude necessary to think critically, systemically and methodologically about war fighting.
+The main problem was the new terminology and methodology as not all IDF officers understood SOD clearly.
+In the first two days of the war, the IAF destroyed most of the Hezbollah’s long and medium-range missile launchers and command centers in Beirut.
+Regardless, Hezbollah still had the capability to use short-range rockets.
+These Hezbollah attacks caused serious morale damage to Israeli civilians who lived in that area.
+Israeli political and military leaders understood that the war could not be won solely by IAF but that they needed to involve the ground forces as well in order to destroy Hezbollah’s positions along the Israel-Lebanon border.
+With a commitment of ground forces, the IDF faced a challenge of target intelligence and collateral damage.
+They did not know how to verify targets to be engaged with different weapons and how to avoid civilian collateral damage.
+The IDF ground forces did not execute sweeping armor attacks with overwhelming firepower.
+Instead, they moved cautiously along a very narrow sector during the attack.
+The IDF units were dispersed and there was no effort to conduct a combined arms attack.
+Because of the threat of improvised explosive devices and mine fields, tanks and IFVs moved forward only if they were led by dismounted infantry conducting clearing operations.
+This slow advance made the IDF’s armored vehicles vulnerable to the enemy’s ATGMs.
+After the IDF accidentally shot down one of its own helicopter, rotary-winged aircraft were prohibited from going ahead of the line of advance.
+IDFs leaders made a decision to leave the division’s artillery units on the Israeli side of the border.
+In addition, many units left behind their organic mortar assets to reduce weight.
+Units often withdrew to a safe area after achieving their nightly objective.
+In summary, the IDF basically ceded the tactical advantage to Hezbollah.
+Northern Command was responsible for the border between Lebanon and Syria.
+Central Command was responsible for the West Bank, Jordan border, and Jerusalem.
+The IDF were under the command of Chief of the General Staff, Lieutenant General Dan Halutz.
+With the adoption of new doctrine, the IDF eliminated corps formations and planned to abolish divisions as well.
+Key military leaders did not see a role for ground formations larger than a brigade.
+These brigades were broken down into battalion and company sized teams.
+During the war, some IDF tanks maneuvered independently, with little support from dismounted infantry, attack helicopters, or fixed-wing close air support.
+The IDF brigades executed missions in a vacuum, with little consideration or understanding of how their attack fit into the overall scheme of maneuver.
+The IDF intelligence had some successes against Hezbollah, specifically in collecting data about its rocket forces and their use of tactical UAVs.
+However, the IDF knew nothing about extended defensive fortifications and positions that Hezbollah created in southern Lebanon.
+In addition, IDF intelligence was also unaware of quantities and capabilities of Hezbollah’s anti-tank and anti-ship missiles, both of which were employed successfully by Hezbollah.
+Moreover, distribution of intelligence information down to the lowest level was hindered by internal barriers such as classification issues.
+One of the most critical failures in IDF intelligence was their unawareness concerning Hezbollah’s electronic warfare and communications capabilities.
+When the IDF attempted to jam enemy’s radio transmissions in the field and strategic communications with Iran and Syria, Hezbollah successfully countered Israeli electronic warfare efforts by using Iranian-supplied communications gear with robust counter-countermeasures.
+On the contrary, Hezbollah effectively employed their own electronic warfare systems to neutralize IDF radar and communications and monitored and exploited IDF communications, obtaining valuable strategical and tactical information.
+The IDF ground forces had about 125,000 active duty and 330,000 reservists divided among 18 divisions.
+The IAF had about 32,500 active and 54,000 reserve aviators divided among 19 combat squadrons.
+By 5 August 2006, the IDF had about 10,000 soldiers in southern Lebanon.
+When the Israeli Prime Minister decided to send ground troops into Lebanon, the Northern Command that was involved in this mission had two active and three reserve divisions.
+From these divisions, only five brigades were operationally available for the attack.
+The IDF commander did not inform the Israeli government of this shortage, nor did the leadership demand early mobilization of the reserves in order to equip and train these forces for a ground attack.
+During the fight, when the reality of the situation on the ground set in, IDF leadership failed to adapt the military way of operation and its goals to the reality on the ground.
+Commanders were not given input or control of the joint force, and the Northern Commander, who was allegedly in charge, could not call in the air force or navy support, nor did he control their assets.
+When Hezbollah attacked Israel with short-range rockets, the army and the air force debated over which service was responsible for defeating them.
+Relations between the Northern Commander and the Chief of Staff became so spiteful that in the middle of the war the Chief of Staff sent his deputy to oversee and coordinate everything with the Northern Command staff.
+Training Prior to the outbreak of 2006 Lebanon War, IDF ground forces received little training.
+The reasoning was to neglect the land forces in favor of the air force and make sizable cuts in the reserve ground forces’ budget and equipment.
+Many high-ranking IDF officers, both regular and reserve, did not receive adequate training at all.
+For example, the IDF brigade generals were under-trained and commanders above brigade level did not command their units in training for years.
+During the major battles, they were not present with their troops and failed to accomplish simple missions.
+Once, an entire IDF battalion was in the same area for several days without moving.
+When the battalion commander received a mission to move deeper into the enemy territory, he was confused and failed to accomplish this task.
+Years of COIN against the Palestinians had a huge impact on IDF and seriously diminished its conventional capabilities.
+Ground forces demonstrated unsatisfactory skills in the conventional arena as well.
+For example, in the fight at Wadi Al-Saluki, Israeli tank crews failed to use smokescreen systems.
+Overall, Hezbollah proved to be a serious adversary for IDF ground forces.
+Hezbollah caused such losses mostly by the sophisticated employment of ATGMs and RPGs.
+Israeli tactical leadership also suffered from poor training and performance.
+Mission orders were indefinite and did not have clear timelines for completing tasks.
+In addition, commanders frequently changed orders that resulted in troop confusion and mistrust between commanders and their subordinates.
+Seven of eight brigade commanders during the war mostly were located at their headquarters instead of leading troops at the front.
+Moreover, many units were broken up and dispersed among different forces resulting in a lack of overall unit cohesiveness.
+Materiel Logistics issues proved problematic for Israel during the war.
+The IDF were not supplied with proper ammunition or body armor and lacked sufficient food and water to carry out a fight against well-supplied and prepared Hezbollah fighters.
+Equipment for the reservists that the IDF kept in the depots was missing, obsolete or broken.
+The goal of this plan was to increase the war fighting ability of the IDF by creating a decisive ground maneuver capability based on modern main battle tanks and other armored fighting vehicles, attack helicopters, low-altitude UAVs, and transport aircraft.
+In addition, Teffen 2012 envisaged advancements in precision strike capability by the IAF as well as intelligence superiority through all means of gathering and preparedness and sustainability through expanding emergency stocks of munitions.
+Organization Almost immediately after the war, the IDF began taking steps to correct identified deficiencies such as placing intelligence cells on brigade and battalion staffs and utilizing new missile defense technologies.
+After the end of 2006 Lebanon War, “Jointness” became the new IDF buzzword.
+Commanders from the IAF, Navy, Military Intelligence, and Shin Bet met to create joint target banks.
+The synergy between arms and branches of the IDF was demonstrated in operation Cast Lead.
+Training After the end of the war, Israel not only returned to the former military principles but also began to treat the training of troops quite differently.
+The IDF armored brigades spent months of training at the Ground Forces Training Center in Negev, Israel.
+For example, 401st Armored Brigade that lost eight crews just in Saluki battle in 2006, conducted a three months training exercise in which they prepared for urban combat.
+The brigade commander of 401st Armored Brigade stated in an interview “Our advantage is our ability to move fast and our firepower.
+The IDF reserve forces, particularly tank and artillery soldiers, were reattached to their designated weapons systems and retrained on the basics.
+They started to conduct live fire exercises and full-scale division maneuver training.
+These exercises that involved both combat and combat support units, for the first time in many years, brought everyone in the units together.
+In addition, reserve officers received professional training in proper schools and conducted exercises with own units under their command.
+Materiel After the war, the reserve forces started to receive their equipment in full quantities.
+Israel also paid attention to reservists’ training to fight in order to make them able to fight side by side with regular army soldiers.
+IDF procured 10,000 ceramic protection vests, 30,000 helmets, 40,000 combat vests, and 60,000-night vision goggles, as well as significant quantities of grenades, small arms ammunition, and magazines.
+As a result, reserve soldiers became ready to address classic warfare needs.
+Trophy creates a defensive canopy around armored vehicles, tracking and destroying incoming projectiles.
+Though there were delays because of budgetary issues, the IDF outfitted tanks from the 401st Brigade with the system, and by the end of 2009, all newly produced tanks were equipped with the Trophy.
+In summary, the performance of the IDF, especially ground forces, in the Second Lebanon War was inadequate.
+Due to such major factors as doctrinal issues, lack of Jointness, individual and collective training, poor intelligence, vulnerability of tactical and strategic communication, weak protection of combat vehicles, and deficient sustainment, Israel failed to meet any of its stated objectives.
+After the 2006 Lebanon War, Israel corrected perceived deficiencies by implementing Teffen-2012, a five-year plan through which the IDF increased war fighting capability, improved precision strike, gained intelligence superiority, and refined sustainment.
+Additionally, the IDF changed the training approach of the troops in terms of focus (from low-intensity conflict to highintensity conflict), increasing the quality, and quantity of training.
+Despite the fact that Israel did not verify the effectiveness of these changes directly in fighting against Hezbollah, the assessment is still possible by the results of the operation Cast Lead in Gaza 2008 to 2009.
+In this operation, Israeli leaders understood, that standoff attack by air, alone, would not create success.
+Unlike the troops who opposed Hezbollah, the Israeli troops in operation Cast Lead were highly trained in HIC, specifically in combined arms maneuver.
+However, Hamas is not as well trained, sophisticated, disciplined, and equipped opponent as Hezbollah.
+Ukrainian-Russian Conflict that started in 2014 Brief Historical Overview of the Case In the winter of 2014, the Revolution of Dignity occurred in Ukraine.
+President Viktor Yanukovych abandoned the country and escaped to Russia.
+In March, while the Ukrainian people attempted to create a new government, the so-called “green men” in unmarked Russian uniforms, with Russian-made modem weapons, and typical Russian accents started to appear in Crimea and soon in eastern Ukraine.
+During the same month, Russia annexed the Crimea through an illegal and falsified referendum that was not recognized by international organizations such as United Nation Security Council and Organization for Security and Co-operation in Europe.
+However, only a year later, Russian President Vladimir Putin made a statement that Russian Special Forces and other troops executed the Crimean operation.
+Russian media disseminated false information to the whole world that the turmoil in Donbas was a civil war.
+In reality, Russian leadership again tried to accomplish the Crimea scenario in the Donbas region.
+The proclaimed President of Donetsk People’s Republic was Aleksander Borodai, a Russian political consultant.
+Donetsk People’s Republic Defense Minister was Igor Girkin, known as “Strelkov,” a Federal Security Service Colonel.
+Putin’s War in Ukraine,” 4. 74 leadership, money, and weapons would be enough to start a rebellion in Donbas against Kyiv.
+Girkin asked Moscow for more and more “volunteers” to organize the rebellion.
+On 25 May 2014, by majority vote Ukrainians elected a new president, Petro Poroshenko.
+Just before the election, the Russian-sponsored authorities in Donetsk and Luhansk region held their own illegal referendums and declared independence from Ukraine for these regions.
+Ukrainian President Poroshenko initiated the military operation to defend Ukraine.
+In June, the UAF started to take back territory, including Slovyansk and Kramatorsk.
+In response to this offensive, Russia sent more sophisticated equipment, including artillery systems, tanks, anti-aircraft missiles, such as “Buk” and other weapons.
+The supply of this equipment did not impede Ukraine’s operation through August.
+Neither did the employment of artillery units from Russian territory against UAF stop Ukrainian advance.
+By mid-August, Kyiv forces were about to encircle separatists in Donetsk and Luhansk regions.
+At that moment, Putin decided to send to Donbas approximately four thousand regular forces.
+Soon, on 5 September 2014, the parties participating in conflict signed an agreement in Minsk that led to a ceasefire.
+Further, the Russians renewed offensive actions in order to seize a railway hub in Debaltseve.
+New fighting in this area led to a second Minsk ceasefire on 15 February 2015.
+After that, the fighting calmed down and the Kremlin used this time to move more arms into Donbas.
+Forces that oppose the UAF are a combination of irregular pro-Russian separatist forces, regular Russian Forces, and regional criminal elements unified to achieve mutually benefitting effects.
+President Vladimir Putin denies Russian involvement in the conflict, but there is a lot of evidence that leads to the opposite.
+The proof of Russian involvement in Ukraine are satellite images of starting positions of artillery and other units in the territory of Russia and Ukraine, photo and video materials proving the transfer of military personnel and equipment from Russia to Ukraine, and employment of sophisticated surface-to-air missile systems that were used against air targets.
+In particular, Malaysian Airlines Flight MH17 was shot down from the Russian-controlled territory in Ukraine by mistake.
+Separatists try to take advantage and superiority through the employment of modern technology and the media.
+In addition, separatists try to embed their components in the political, military and social sphere of the Ukraine.
+Separatists seek from Ukraine the recognition of individual Donetsk and Luhansk republics with a special status with the preservation of a common political, economic, and cultural space.
+Former and current criminals released from the colonies, jail, and prison constitute a significant portion of separatists’ forces.
+Therefore, the activities of separatists are also combined with robbery, looting, and violence.
+Often, combat operations of militant units are accompanied by looting and different violence.
+Analysis of the HT Doctrine The tactics of separatist troops in the east of Ukraine are multifaceted.
+Further analysis reveals the main principles of pro-Russian troops’ actions in Donbas.
+The tactics of the subversive and reconnaissance groups were taken by the Russians from the Chechens.
+Separatists conducted point attacks, passed between enemy positions, mined roads, ambushed convoys, and unexpectedly attacked individual positions.
+In 2014, the use of this tactic was justified because part of the local population, propagandized by the Kremlin TV, sympathized with the green men.
+Additionally, the UAF did not always orient well on the terrain outside the main roads.
+Nevertheless, now, this tactic has lost its effectiveness because Ukraine has created a solid front line, built an echeloned defense, and controls the entire front-line territory.
+In addition, the local population began to help the UAF with providing information about suspicious people with weapons.
+Another foundation of modern Russian tactics learned in Chechnya is coverage by the local population.
+The Russians noticed in Chechnya that when they used civilians and civilian infrastructure as shields the Chechens did not open a fire on the Russian troops.
+The Russians placed firing positions in cemeteries, courtyards of schools, kindergartens, hospitals, and multi-storied houses.
+However, the armed forces of the Russian Federation themselves did not consider these types of positions, if occupied by Chechen fighters, as constraints.
+Instead, the Russians willingly opened fire on Chechen positions intermixed with the civilian population during operations despite the resulting collateral damage.
+The Russians saw how effectively, especially in Western countries, Chechens disseminate information about the crimes of the Russian army against civilians.
+The UAF, in spite of the Russian artillery firing from the residential districts, did not return fire for fear of killing civilians.
+Russian political and military elite lie to the entire world to cover themselves with innocence with peaceful population while committing other war crimes.
+After every new agreement, the Russians immediately begin to violate the agreement.
+For example, using a truce, they can capture a territory or objects in a zone that is not under their control, while they pretend as though nothing happened.
+Another principle of pro-Russian troops’ actions is use of Horde tactics of isolation.
+They always left a way to exit because the enemy, driven into corner, will brutally defend, and the enemy who has a way to retreat, will move relaxed along the corridor provided, where the Horde can conveniently destroy the enemy.
+For example, during the isolation of Illovaisk, the Russians promised a “green corridor” for the Ukrainians.
+Only those who broke out of the environment in a completely different place survived.
+For example, during the battle for Debaltsevo, the separatists, covering with a truce that had just been signed in Minsk, pulled the troops from other sectors of the front.
+In defensive and offensive operations, the separatists use two echelons.
+In the first, there are militia units from the First and Second Army Corps, in which mercenaries serve.
+The regular army of the Russian Federation operates in the second echelon.
+The troops of the militia serve as a “cannon fodder” for the first strike against the Ukrainian troops.
+For example, in February 2015, this role was performed by servicemen from the 5th Armored Brigade of the Armed Forces of the Russian Federation.
+First, there is no need to pay a large amount of money from the state budget to combatants who suffer casualties as a result of fighting.
+For example, in the battles for Shyrokino, the separatists did not even try to take the bodies of their victims from the battlefield.
+The war in Donbas would not have been possible without a grand media campaign, unprecedented in the history of mankind, to misinform the population, and inflict psychological terror against citizens on both sides of the front.
+The separatists conducted a radio-electronic war in Donbas to achieve four main objectives.
+The first objective was to destroy the UAF C2 nodes by massive rocket and artillery fire.
+The separatists detected and engaged any sources of electromagnetic radiation whose characteristics could be determined by the UAVs or any electronic surveillance means.
+The second objective was to block any electromagnetic UAF’s means of communication.
+The third was to suppress Ukrainian UAVs by obstructing their control or passing GPS signals.
+The final objective was to hamper the use of UAF’s artillery and mortars by pre-detonation of artillery or mortar shells with electronic detonators.
+Separatist forces intensively used massive rocket and artillery shelling.
+Increased effectiveness of aerial surveillance systems based on UAVs coupled with massive artillery shelling and MFRS employment led to a new level of intensity of modern traditional combat.
+The separatists successfully used a combination of enhanced action of conventional ammunition, remote mining, cluster munitions, and a thermobaric weapon that has devastating effects when used during planned massive fire strikes.
+The results of the conflict in Donbas show that rocket and artillery fire was the cause of approximately 80 percent of all losses.
+Separatist forces widely used UAVs for intelligence, surveillance, and reconnaissance, determined target grids to specify the massive rocket and artillery strikes in real-time, and more recently as mini-bombers equipped with incendiary ammunition, targeting the storage of fuel and ammunition.
+The combination of small size of UAVs, their limited radar profile, and how difficult it is to detect them visually makes the use of the missile systems class surface-to-air against them ineffective and costly.
+The separatists provided a significant role to heavy armor on the battlefield.
+The separatists used tanks as part of battalion and company tactical groups.
+In offensive operations in open terrain under the artillery support tanks tried to cut the line of defense of the Ukrainians and wedged into defensive positions to a great depth.
+In defensive operations in open terrain, the tanks supported the infantry in defeating the enemy's offensive and conducted counterattacks.
+In the urban operations, tanks were used as a powerful firepower for infantry support.
+Sometimes, the separatists used single tanks to conduct a troublesome fire on Ukrainian positions.
+They strike on Ukrainian positions using indirect tank fire from distances up to 10 kilometers.
+Today, separatists’ forces set up the densest network of mobile defense at the Donbas.
+The combination of self-propelled and man-portable air defense systems dislodged the Ukrainian aircraft in their own sky.
+That is why Ukraine is facing the most critical challenge-superiority in the air by adequate suppression and destruction of enemy air defense systems and their secure bases and positions.
+During the years 2014 through 2016, the Russian military organizers and representatives of the special services of the Russian Federation established a number of separatist gangs on the temporarily occupied Donbas.
+Following the military actions, smuggling, looting and criminal rules of life came to Donbas.
+Now the situation is the same, only the Russian and Caucasian “authorities” with more stringent “rules of the game” came to replace the Donetsk criminals.
+They take away the business, deal with the racket, conduct human trafficking, transfer of drugs and weapons, and use Ukrainian prisoners of war as a labor force.
+If a citizen of Donbas does not want to give up his business, in the best case he can be keep in custody for a long time until he rewrites all his property to bandits.
+The separatists captured more than 10 prisons on the territory of the Donbas.
+With the direct cooperation of the Russian Federation, the First and the Second Army Corps were formed.
+These units are equipped with so-called “militiamen” and volunteers from the Russian Federation.
+At the same time, the recruitment of mercenaries occurs through the Russian military commissariats.
+Professional Russian Armed Forces troops are an integral part of separatists’ forces.
+They are represented with mechanized, tank, artillery, and radio-electronic warfare units.
+The militants units are organized into separate brigades, separate battalions, battalions of territorial defense, regiments, and some other units.
+The typical structure of infantry separatists’ brigades follows the Russian model and includes all the classical components.
+The recruitment of brigades to their authorized strength is still ongoing.
+One motorized brigade usually has 10 to 20 tanks, 40 to 50 armored combat vehicles, a battery of self-propelled howitzers, a battery of multiple launch rocket systems, and a significant number of other vehicles for personnel transportation.
+Experts estimate that in March 2015, about 12 thousand Russian military personnel were present in Eastern Ukraine and approximately 50,000 Russian troops were located in camps along the Russian-Ukrainian border.
+For example, on the night of 25 August 2014, Russia deployed to the Donbas eight battalion tactical groups of the Russian Federation Armed Forces, totaling more than 4,000.
+The company tactical group consisted of three motorized rifle platoons, tank platoon, mortar battery, howitzer self-propelled artillery battery, grenade launchers platoon, engineering sapper platoon, medical squad, portable anti-aircraft missile system squad, ZSU 23-4 squad, and an evacuation group.
+A battalion tactical group usually consisted of three mechanized companies, tank company, mortar battery, 1-3 howitzer self-propelled artillery battery, grenade launchers platoon, medical platoon, electronic warfare platoon, sniper platoon, flamethrowers platoon, reconnaissance company, special group , two UAVs, supply platoon, and an evacuation group.
+They serve as the collecting points for Russian military equipment transported into Ukraine and for Russian soldiers mobilized from the far reaches of the country to cross into Ukraine.
+The camps house thousands of Russian soldiers and pieces of military equipment that appear in Ukraine.
+Representatives of Russian Armed Forces and current employees of the Russian special services serve as curators and military instructors for separatists.
+Training of militants is carried out in such disciplines as weapons firing, sabotage, carrying out terrorist acts, survival in the field, and camouflaging.
+Materiel Separatists’ forces significantly rely on Russian military assistance.
+Russia has provided substantial amounts of heavy weaponry and equipment to them.
+The most important upgrade is an advanced computerized fire control system with improved optics and modern night and all-weather vision devices.
+Considering the experience of the war in Donbas, Russia has also developed modular advanced protection systems (similar to T90) for the T-80, T-72, and T-64 tanks.
+Pro-Russian troops widely used UAVs both for reconnaissance and for a strike of high-value targets during the conflict.
+They employed no less than 13 different fixed wing drone designs and at least one quad-copter design over the Donbas.
+Analysis of UAF’s Initial Response and Assessment of the Effectiveness of the UAF’s Initial Response Doctrine The initial response of UAF demonstrated that, at the beginning of the conflict, the Ukrainian military specialists did not have a consensus on the role of mechanized and armored units in fighting against such hybrid threat.
+The Ukrainian doctrine, unfortunately, did not give clear answers to this question as well.
+In most cases, mechanized and armored units were used only for conducting positional defense.
+In rare cases, they were effective with units of highly mobile airborne troops.
+The use of tanks during the raid operations as the main striking force demonstrated its effectiveness.
+The use of armored units to destroy some well-fortified enemy firing points was effective in the release of Sloviansk and during the relief of Lugansk airport.
+However, mechanized and tank units during combat operations in eastern Ukraine did not use full capacity, strength, and capabilities.
+Organization Tank and mechanized units were used as part of a battalion or company tactical group during the conflict.
+For example, the battalion tactical group included a mechanized battalion in full composition with a tank company, an artillery battery or battalion, and a subunit of flamethrowers and snipers.
+Nevertheless, the Ukrainian command sometimes used tactical groups that included units from different brigades instead of using the entire brigade.
+It also complicated the control, interaction, and sustainment of units.
+Their employment was effective in the capture and destruction of enemy checkpoints.
+Also at this stage, mechanized and tank units, although with more powerful weapons, were often used in the second echelon, while the highly mobile airborne troops were used in the first.
+Training The UAF personnel had poor training at the beginning of the conflict.
+Most mechanized and armored units before the conflict were in the reduced state.
+Officers responsible for combat training were doing mostly life support activities.
+With a transfer to the state of war, these officers failed to organize effective training of personnel that was called for by mobilization.
+Keeping units in a shortened composition did not give an opportunity to complete the effective training of troops, as half of the personnel were continuously involved in duties.
+In such circumstances, a generation of officers has never conducted live fire exercises with their units.
+There were instances when a brigade did not have any specialists to conduct training of mobilized personnel.
+A large number of officer positions remained vacant and were staffed during or after the accomplishment of the unit’s training.
+Because of this, the principle of “every commander trains his subordinates” was not respected.
+During the training of mechanized and armored units, the experience gained by the armed forces of many countries in modem military conflicts was neglected.
+The soldiers were not trained even in basic techniques and methods of survival in the difficult conditions of modem military conflicts.
+The interaction between mechanized, tank, and artillery units was poor.
+Often mechanized and tank units performed assigned tasks together with other services such as special operations forces.
+Often, mechanized and tank units did not comply with basic standards of tactical movement, deployments on the ground, and allocation of command posts.
+This led to a reduction of maneuver capabilities, difficulties with unit’s control, and to a significant reduction in security personnel and equipment to enemy fire exposure.
+Elementary ignorance of tactical and technical characteristics and combat capabilities of its own weapons and military equipment led to “finding new techniques and methods of firing weapons,” which gave a false impression of the effectiveness of fire.
+This led to information leaks about plans and actions that caused unnecessary losses.
+Brigade’s and higher staffs were not proficient in planning and controlling the units during the fight.
+Time for producing the orders was often exaggerated, which made it impossible for battalions and companies to conduct qualitative planning and preparation for the mission accomplishment.
+Because of that, the effectiveness of units, manned with this personnel, was low.
+There were cases when the enemy captured groups of drunken Ukrainian soldiers.
+Sometimes mobilized soldiers had sufficient motivation to perform tasks, but their training was bad.
+They had a lack of combat experience and were uncertain in their own abilities and weapons.
+There were cases when soldiers tried to leave the occupied positions after the first minor attacks of the enemy.
+To prevent their leaving, commanders sometimes threatened them with the officers’ personal weapons.
+In addition, there was no emphasis on morale and psychological support aimed at forming and maintaining the morale and fighting qualities needed for successful combat missions.
+The latest development of Ukrainian gunsmiths appeared in UAF rarely and in limited quantities.
+Physical aging, low maintenance and storage conditions, as well as spare parts understaffing led to this situation.
+As a result, the majority of time during the combat training units spent on restoring and preparing combat vehicles, weapons, and equipment for combat use.
+Communications and reconnaissance assets were in the most critical condition.
+In addition, exploitation of military equipment was carried out with major violations that led to a significant reduction in their reliability.
+Light armored combat vehicles, such as infantry fighting vehicles and armored personnel carriers, whose mobility and firepower have priority over survivability, were vulnerable to anti-tank weapons, automatic medium-caliber guns, artillery cassettes, and thermobaric ammunition.
+When hit, the crews of infantry fighting vehicles generally suffered significant losses, were killed or seriously wounded.
+The presence of advanced protection systems could improve the situation.
+Battalions’ air defense teams in most cases were not able to destroy enemy’s UAVs.
+The logistics supply of the units was also poor due to inadequate funding of the Armed Forces of Ukraine.
+Analysis of UAF’s Adjustments and Assessment of the Effectiveness of the UAF’s Adjustments to the HT Doctrine In connection with the peace agreements and a certain clear line of demarcation, the belligerents were forced to conduct a linear defense.
+Despite the fact that the Ukrainian command understands that positional defense is not effective and should be avoided, all Ukrainian troops conduct this type of defense.
+In the conditions of the extended defense of mechanized and tank brigades, the platoon and company strong points were enlarged in size.
+In the rear of the strong points, the supplementary positions of the anti-tank reserve and hide positions for armored vehicles with the purpose of withdrawing it from the attacks of the enemy artillery were prepared.
+Combat vehicles were placed out in the field where the enemy could easily see them and were masked from aerial observation.
+In order to avoid this, personnel lived in dugouts adapted to long comfortable stays.
+Due to the lack of tanks or Boevaya Mashina Pehoty -Soviet produced Infantry Fighting Vehicles) to reinforce strong points, check points, and other positions, “armored teams” were employed.
+These two methods allowed maintaining a high rate of fire during suppression of enemy for a long time.
+Tank Carousel is based on continuous firing from tanks at the enemy during a certain period of time or until the target is destroyed.
+Two tanks occupy SBF-1, open fire between TRP1 and TRP2, suppress the enemy on Obj Bob.
+When ammunition of the tanks hi SBF-1 is about to finish, tanks hi hiding position start movement to SBF-1.
+When all four tanks are located at SBF-1, two tanks that initially were at SBF-1 start movement to the hiding position.
+The Fire Carousel is based on continuous firing from tanks and artillery at the enemy during a certain period of time or until the target is destroyed.
+After expending all ammunition or when the tanks must move, artillery units opened fire on the target until the tanks were ready to shoot 99 again.
+Once mortar batteiy is ready to open the fire from the second position, company team moves to ATK2.
+Tank units and MLRS units were formed in highly mobile airborne troops.
+A UAVs platoon was organized in a Battery of Control and Artillery Reconnaissance of Brigade Artillery Group.
+As a result, the effectiveness of artillery units significantly increased.
+Training From March 2015, experience and training of UAF personnel grew.
+The interaction between combined arms units and other armed services that perform tasks in one area of operation significantly improved.
+Information exchange, fire support, and comprehensive support improved as well.
+The number of training activities including brigade and battalion tactical exercises increased, but the quality of this training, especially live firing exercises, remains poor.
+Mechanized and armored units continue to use linear tactics in training.
+Higher Command focuses on the conduct of demonstration training and exercises.
+Mobile defense, urban operations, and offensive operations are not practiced.
+Most importantly, personnel has sufficient motivation to protect the state.
+Materiel Russian intervention changed the situation in the matter of equipping Ukrainian forces with the newest weapons and equipment, especially armored vehicles.
+Combat units started to receive new tanks, armored personnel carriers, and armored cars, which immediately went to Donbas for real combat testing.
+In particular, the new Ukrainian tank T-64BM “Bulat” worked very well in Donbas.
+Bulat’s main gun and ammunition were able to destroy the separatist’s tanks.
+T-64BM’s armor enabled effective protection against enemy antitank weapons.
+These factors, in combination with high skills of the crews, often allowed the T-64BM to defeat separatists’ armor in tank duels.
+These missiles proved to be very able to destroy Russian tanks in Donbas.
+The new Ukrainian ATGM “Stugna-P” was effective in the defense of Donetsk and Lugansk airport and other locations.
+Personal protective equipment, such as helmets and vests, and military clothing met international standards.
+Some communication assets, such as old soviet radio stations R-159, R-148, R-162, R123, R-173, were replaced with relatively modem equipment.
+Nevertheless, the Ukrainian Army units do not receive any sophisticated equipment specifically designed to counter the HT, fight against enemy’s informational operations, or counter-UAVs because of financial constraints.
+During the active fighting in 2014 and 2015, armored and mechanized units were involved in executing tasks that shaped the environment for the Ukrainian’s highly mobile forces.
+Even in operating in shaping operations, the factors mentioned above, did not allow to armored and mechanized units to employ all potential capabilities against pro-Russian forces such as maneuver, fire, intelligence, engineer, protection.
+Second, the UAF started to implement improvements in terms of organization, training, and materiel.
+Third, Ukrainian brigades created organic UAVs units, but the UAVs themselves are not yet fully fielded.
+Fourth, training of the UAF personnel improved, but the quality of this training still remains insufficient.
+Fifth, sustainment of UAF became better and Ukraine has many homegrown technical developments, but these improvements, such as new weapons, equipment, and armored vehicles, have not arrive in necessary quantities to the troops.
+Moreover, currently the UAF conduct only defensive operations against separatist forces.
+In such conditions, the assessing of the effectiveness of the UAF’s adjustments is impossible.
+Active fighting must occur in order to set conditions for evaluation of the adjustments.
+Doctrine The experience of Israel demonstrated that the years of COIN operations negatively affected the conventional capabilities of the forces.
+The IDF ground forces demonstrated poor performance and unsatisfactory skills in the conventional arena.
+The evidence indicates that in order to defeat a HT, doctrine needs to be focused on employment of the conventional capabilities of the unit.
+The IDF failed to execute sweeping armor attacks with overwhelming firepower.
+The UAF did not use full capacity and strength of armored and mechanized units.
+The IDF and UAF units were dispersed and did not demonstrate effort to conduct a combined arms attack.
+In addition, ground formations were deprived of aviation and artillery support.
+Ground units must be supported by attack helicopters, fixed wing aviation, artillery, and, if situation allows, naval forces.
+Although the IDF’s intelligence was relatively successful in collecting data about Hezbollah, the distribution of information down to the lowest level was hindered.
+Therefore, the information distribution mechanisms must ensure timely and high-quality data transfer.
+Organization Hezbollah and the separatist forces widely used UAVs for collecting information and targeting the opposing forces.
+Both, the IDF and UAF did not possess capabilities to neutralize or destroy enemy’s UAVs.
+In order to fight with enemy’s UAVs and other aerial targets, which could not be detected with the surveillance radars, a brigade must have an organic air defense capability.
+The IDF and the UAF operated in the environment where the enemy used manmade obstacles to hinder the mobility.
+In 2006 Lebanon War Hezbollah successfully influenced the IDF’s movement by employment of improvised explosive devices, antipersonnel, and anti-tank mines.
+The same effect was achieved by separatist forces during Ukrainian conflict.
+This leads to the fact that a brigade must have an organic engineer capability to provide mobility and counter mobility.
+Hezbollah and separatist forces successfully neutralized the IDF’s and UAF’s radars and communications and obtained valuable strategic and tactical information.
+Ukrainian conflict demonstrates that the primary means of destruction is artillery fires.
+During extended defense, Ukrainian armored or mechanized brigades, possessing four organic artillery battalions had difficulties carrying out the assigned tasks in full.
+This evidence indicates that a brigade must have an organic artillery with counter artillery radars.
+As a result, if a brigade has three maneuver battalions, then each of them could be supported by the self-propelled howitzers battalion and the MLRS battalion could be a brigade commander’s asset.
+The 2006 Lebanon War and Ukrainian conflict proved the effectiveness of UAVs both for collecting information about the enemy and for targeting the enemy.
+In addition, both case studies demonstrated that intelligence superiority is paramount.
+This indicates that a brigade must have an organic reconnaissance unit and an intelligence cell in staffs.
+Separatist forces were able to inflict mass casualties to the UAF by employing heavy artillery fire.
+Thus, a brigade must have a redundancy in command and control capabilities to enable fast reconstitution when C2 nodes are destroyed.
+Training The 2006 Lebanon War and the Ukrainian conflict demonstrate that one of the most significant problems that the IDF and the UAF faced was poor training of personnel.
+Based on the IDF and UAF experience, in order to counter a HT, a brigade’s individual training of personnel must be proficient.
+Training must focus on conventional warfare particularly conducting offensive, defensive, and stability operations.
+Collective training must include full-scale division and brigade maneuvers.
+Commanders and staffs must be trained to make fast and sound decisions.
+Staff must be able to operate with minimum or no reliance on computers.
+During 2006 Lebanon War and Ukrainian conflict, Israeli and Ukrainian troops were not trained in using smoke for obscuration.
+As a result, Hezbollah and separatists could easily engage their opponents’ combat vehicles with ATGMs.
+Thus, a brigade must possess the ability to use smoke through all means of delivery available and codes during communication instead of an opened text.
+Personnel must know how to use the equipment and weapons of the entire unit.
+Personnel must be trained to execute tasks in limited visibility, at night, and when communication is hacked and-or degraded.
+Personnel must be trained to call for aviation and artillery support, to fight in open and urban terrain, to navigate with minimum or no reliance on GPS, to emplace obstacles, and build different constructions.
+A brigade must be trained in counter ambush, counter improvised explosive device activities, fight in isolation, fight under the mass artillery fire, and mass casualties scenarios.
+In training, a brigade should understand that the enemy maintains continuous surveillance over it through UAVs or other means.
+A brigade must be ready to fight under conditions where the enemy is mixed with civilians.
+Personnel must be resilient to sustain a constant state of alert, exhaustion, and enemy informational operations.
+Finally, a brigade must achieve synergy with other arms, services, and branches.
+The unit must have night-vision devices both for combat vehicles and for personnel.
+United States ABCT Analysis Analysis of the United States ABCT in terms of DOTM Doctrine The ABCT has several roles in combat.
+The ABCT operates to close with the enemy using fire and movement, to destroy or capture enemy forces, to repel enemy attacks by fire, to engage the enemy in close combat, and to counterattack the enemy to control land areas including populations and resources.
+For a specific mission, higher commanders can augment the ABCT with aviation, armor, field artillery, air defense, military police, civil affairs, military information support operations elements, engineers, CBRN, and additional information systems assets.
+These combined arms battalions execute combined arms operations within their area of operations to support the ABCT commander.
+The main purpose of the cavalry squadron is to perform reconnaissance and surveillance tasks and conduct security operations.
+The conduct of security operations by the squadron provides an economy of force and allows the ABCT commander to preserve combat power for engagements where he desires.
+The ABCT field artillery battalion supports ABCT operations by providing massing fires on single or multiple targets with precision, near precision, and area fires.
+In addition, the field artillery battalion has two AN/TPQ-53 counter fire radars and four AN/TPQ-50 lightweight counter mortar radars for target acquisition.
+The BSB plans, prepares, executes, and assesses replenishment operations to support ABCT operations.
+The brigade special troops battalion provides control and sustainment to the organic engineer company, signal company, military intelligence company, military police platoon, and the CBRN reconnaissance platoon as well as other units attached to the ABCT, so they can support the ABCT commander and staff.
+Training Over the last decade, the United States military made significant changes in training in order to adapt to nonstate, irregular threats represented in Iraq and Afghanistan.
+The United States enemy in these two theaters did not use effective standoff weapons, such as Man-Portable Air Defense System and ATGMs in large numbers.
+If militants used such weapons, this could be a significant problem for the United States Armed Forces.
+Given the fact that the United States Army in recent years still focused its preparation on irregular warfare, the United States military could face the same challenge as the IDF did in 2006 Lebanon War in fighting against Hezbollah.
+In order to counter a current HT, the United States ABCT requires different skills from those that were obtained through conducting COIN operations.
+The ABCT commander plans and conducts training based on the units’ mission essential task list and priorities of effort.
+He establishes the conditions in which to conduct training according to the determined standards.
+These conditions should include an OPFOR that realistically challenges the ability of the United States unit to accomplish its tasks.
+The United States combat training centers should be focused on training troops for the full range of military operations with inclusion of HT OPFOR into training exercises.
+The BSB distributes Class I , Class II , Class III (petroleum, oil, and lubricants), Class IV , Class V , and Class IX materials.
+The BSB provides food services, the presented above Roles 1 and 2 of the Army Health System (health service support and force health protection), as well as field maintenance and limited recovery.
+The ABCT conducts sustained operations for a limited period of time due to the BSB’s materiel-carrying capability.
+Designated distribution managers coordinate and synchronize logistics flow according to the commander’s priorities.
+Distribution managers have asset and in-transit visibility to optimize the distribution system within their area of operations.
+Advanced information systems such as movement tracking systems, battle command sustainment support systems, and advanced planning and optimization decision support tools provide this capability.
+The ABCT Command, Control, Communications, Computers, and Intelligence capabilities assist in maneuver, command, and control of the BCT units.
+These systems are fielded down to the company level and each combat platform.
+They provide maximal SA enabling quicker C2 and maneuver of the forces.
+All ABCT’s weapons platform systems contribute to the combined arms effort.
+They provide the infantry, armor, reconnaissance, engineer, and fire support elements with firepower, armor protection, and battlefield agility.
+The ABCT’s main weapons platform systems are M1A1 Abrams main battle tank, M2 Infantry Fighting Vehicle, and the M3 Cavalry Fighting Vehicle.
+The current fielded models of the M1A1 Abrams main battle tank are M1A1 , M1A1 HA , M1A1 AIM program, M1A1 AIM ED , M1A1 AIM SA, and M1A2 SEP series.
+The M1A1 AIM program adds various upgrades and extends the life of the aging M1A1 fleet.
+Among some important upgrades that M1A1 AIM SA adds to the M1A1 AIM is Blue force tracker Force XXI command and control system.
+This system allows the crew to communicate digitally with a wider spectrum of Army vehicles.
+Also, M1A1 AIM SA has the First Generation Forward Looking, Infrared radiant thermal sighting system that gives the tank commander and gunner the ability to detect, identify, and engage targets more accurately at a greater range.
+The next system is a position navigation system, which gives the crew the ability to use “far-target locate” to calculate grids to targets for accurate digital calls for fire.
+The DVE is a real-time thermal-imaging system that improves the driver’s SA during limited visibility operations.
+The M1A2 SEP tank system is designed to accommodate new and upgraded components required for the continually expanding performance requirements and to facilitate ease of maintenance.
+CITV allows the tank commander to acquire targets independently from the gunner and then designate the gunner to those targets.
+The TUSK includes such components as add-on explosive reactive armor and a slat armor, which provides protection against RPG rounds, 32 dischargers for 66-mm defensive grenades, which loaded with a combination of smoke and anti-personnel grenades, a transparent shielding around vehicle commander’s 12.7-mm machine gun that allow vehicle commander to be protected from enemy fire.
+The TUSK also has a thermal weapon sight for a shielded loader’s 7.62-mm machine gun that allows him to locate targets and fire from his machine gun at night, additional remotely controlled 12.7-mm machine gun over the main gun that is fitted with a spotlight.
+In addition, the TUSK includes a 7.62-mm coaxial machine gun, a 360degree camera for a vehicle commander that improves SA, new safety sear and rear vision camera for a driver, and an infantry phone that allows the nearby infantry to communicate with the tank commander and coordinate their actions in combat.
+The models of Bradley Fighting Vehicle are the M2 Infantry Fighting Vehicle and the M3 Cavalry Fighting Vehicle.
+M2A2 ODS and M3A2 ODS upgrades include the eye safe laser range finder which is a part of the vehicle’s Integrated Sight Unit.
+The information about BFV hull and turret azimuths, location, directions, distance to way points, and steer-to data shows up on both the commander’s and the driver’s compass displays.
+M2A2 ODS and M3A2 ODS also have the DVE which is an uncooled, FLIR night-vision device.
+The last improvement is the Force XXI Battle Command Brigade and Below that provides to A2 ODS and A3 crews SA and real-time command and control.
+M2A3 and M3A3 BFV have the Turret Drive System that moves the weapon and stabilizes the A3 weapon systems and improved sights and the commander’s tactical display that give the A3 commander a level of SA never before possible.
+It gives more information about the location of each vehicle in the unit.
+It also gives operational graphics, and it allows the commander to send and receive orders and mission updates and respond to an expanding area of operations.
+In addition, M2A3 and M3 A3 BFV have the A3’s fire control system that allows the crew to independently search, track, and conduct target hand-off.
+The system also allows the commander to override the gunner and abort a fired missile.
+Next improvement is the integrated communication, command, and control digital battle command information system provides SA and offers real-time C2 information to A3 crews and squads.
+Finally, M2A3 and M3 A3 BFV have the A3’s subsystem position navigation provides the A3 with accurate positioning and navigation data and improved CBRN Protection.
+Bradley Fighting Vehicles can also be fitted with Urban Survivability Kit.
+The Bradley Urban Survivability Kit incorporates four modifications including a blast-proof fuel cell, a blast-resistant driver seat, a turret survivability system, and an emergency ramp release.
+In addition, BUSK includes high-powered spotlight, sight protection, and non-conductive “dome tent” structure to protect turret and crew from low-hanging electrical power lines.
+In summary, the description of the ABCT’s capabilities is substantially based on what the United States Army doctrinal publications explain the ABCT can do, not on any actual assessment of the ABCT performance either in combat training centers or in actual combat.
+Comparison of the United States ABCT Doctrinal Capabilities and the IDF’s and UAF's Initial Responses and Adjustments Based on the previous analysis the following table compare the United States ABCT doctrinal capabilities with the IDF’s and UAF’s initial responses and adjustments.
+The emphasis is planned to and strength of The UAF stated to upon using all available abolish divisions The IDF put armored and use UAVs for target assets along with as well.
+The comparison above indicates that the United States ABCT tentatively include those capabilities that were available and effective in the IDF and UAF, and those capabilities that were lacking in Israeli and Ukrainian Armies with exception of organic EW and antiUAV capabilities.
+The analysis, outlined in this chapter, provided the answers to the seven secondary questions determined in chapter 1.
+The information, generated above, defined a HT, described the result of examination of cases of the Israeli-Hezbollah conflict of 2006 and the Ukrainian-Russian conflict that started in 2014.
+Lastly, chapter 4 analyzed the United States ABCT and compared the United States ABCT capabilities with the IDF’s and UAF’s initial responses and adjustments.
+Chapter 5 answers the primary research question, states the discoveries that emerged from the interpretation of the research evidence, explains the significance of the conclusions to the field of study, and makes recommendations for further inquiry.
+The research used the qualitative analysis method and focused on analyzing available documents while studying the separate but similar cases of Israel fighting Hezbollah in Lebanon and Ukraine fighting Russia in Eastern Ukraine.
+This chapter will summarize the ABCT’s current capabilities that allow addressing the current HT effectively and outline the recommended changes that the ABCT need to make in order to be more effective.
+The chapter will then provide recommendations for future research followed by the chapter conclusion.
+The ABCT, as doctrinally organized and equipped, maintains significant conventional capabilities and is comprised of heavy forces based on tanks and infantry fighting vehicles as key elements that could fight hybrid enemies.
+Combined arms battalions could operate under responsive and adequate artillery and UAVs support.
+The ABCT personnel, when trained to doctrinal standards, will have high individual and collective skills, including urban warfare.
+These capabilities are superior to near-peer competitors; however, survivability improvements are a valid area for development.
+Another distinctive doctrinal capability is digitization and enhanced SA down to the squad level.
+In addition, the ABCT has night vision capabilities for both combat platforms and personnel.
+The IDF experience indicates that in order to defeat a HT, doctrine needs to be focused on employment of the conventional capabilities of the unit.
+Organization The Ukrainian conflict demonstrates that HT can inflict severe destruction and casualties that could lead to losing command and control over a unit.
+The recommendation is to create reconstitution teams within the ABCT to re-establish C2 in the case when main command post gets destroyed during mission execution.
+Sometimes even that amount of artillery units was not enough to counter the enemy.
+One recommendation is to have more than one organic FA battalion in ABCT including MLRS battalion as well.
+The UAF artillery units were not able to organize their own security in an environment where the enemy could be everywhere.
+Brigade commanders attached mechanized units to each artillery battalion.
+As a result, some mechanized units were not at full strength for combat mission.
+The recommendation is to create a security unit organic to FA battalion.
+Finally, the two case studies demonstrated that the UAVs were a significant force multiplier.
+Therefore, the ABCT should have short-range air defense capabilities effective against UAVs, helicopters, and close air support aircrafts.
+In addition, at company level, the ABCT should have greater UAV capability to gain situational awareness.
+Training Although the ABCT personnel training is high, there may be some areas for improvement.
+Commanders must be trained to be more independent and rely less on staff.
+Leaders must be able to make their own decisions in a short period of time.
+Personnel must be trained to operate without computers during training at company, battalion, and brigade level.
+During training personnel must also understand that they are under a continuous enemy observation.
+Personnel must pay significant attention to camouflage, concealment, and deception.
+Personnel must train to interact effectively with other services and allied forces.
+Personnel within the ABCT must know how to use and must be trained in using all ABCT’s available weapons.
+In the condition when enemy possesses an electronic warfare capabilities, all personnel must be able to navigate without GPS using a map and a compass and to operate on the battlefield without radio communication.
+Finally, in the conditions when enemy possesses significant fires capability, a brigade must train how to equip shelters for personnel using improvised means and trench charges.
+Although the ABCT tanks and Infantry Fighting Vehicles are relatively survivable, development and installation of advanced protection systems such as Israeli “Trophy” will significantly improve protection of combat vehicles.
+However, the United States ABCT can better prepare for the fight against the HT by implementing some improvements in terms of doctrine, organization, training, and materiel.
+Recommendations for Further Research This research was conducted by analyzing information from unclassified sources.
+Some ABCT capabilities, for example electronic warfare capabilities, were therefore studied superficially.
+Furthermore, ABCT training was not deeply analyzed as well for the same reason.
+As a result, recommendations in this area for improvement were developed solely based on the IDF and UAF experience.
+The recommendation for further research is to include analysis of the restricted resources that enable more accurate assessment of the ABCT capabilities.
+In addition, in order to obtain a more realistic information in terms of training and combat performance of ABCT, ABCT need to be objectively assessed against an HT OPFOR at joint or national training center conducting live iterations across all aspects of conventional operations.
+The second recommendation for further research is to conduct an interview with an Israeli officer or another credible person knowledgeable in this area.
+Information on the mentioned above aspects will make the analysis more valuable.
+The recommendation is to include a study of unconventional capabilities of all three parties.
+Monograph, Strategic Studies Institute, Army War College, September 2008.
+Cordesman, Anthony H Preliminary “Lessons” of the Israeli-Hezbollah War.
+Research, Potomac Institute for Policy Studies, Arlington, VA, December 2007.
+Military Capabilities for Hybrid War Insights from the Israel Defense Forces in Lebanon and Gaza.
+Historical Lessons Learned Workshop Sponsored by John Hopkins Applied Physics Laboratory and United States Army Capabilities Center , 6 July 2015.
+Woodrow Wilson International Center for Scholars, Washington, DC, 1 April 2015.
+A Study of the Second Lebanon War and Operation Cast Lead, edited by Lieutenant Colonel Scott C Farquhar, 5-44.
+Russia’s Use of Military Power in Ukraine, Fort Leavenworth, KS: Foreign Military Studies Office.
+Interview of Ukrainian Colonel Victor Shydluh, Deputy Commander, Sector “M”, Eastern Ukraine, 2014-2015.

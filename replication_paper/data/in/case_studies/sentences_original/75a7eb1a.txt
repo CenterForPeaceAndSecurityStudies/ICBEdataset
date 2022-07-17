@@ -1,0 +1,219 @@
+Recent research in the field of microsociology, the study of everyday interactions, most notably the pioneering research of American sociologist Randall Collins, suggests several critical ingredients for a successful interaction, including bodily copresence.
+In this article we interrogate this claim and provide theoretical reasons why textual communication may serve as a proxy for copresence in leader interactions.
+We demonstrate that while copresence, in the form of face-to-face interaction, is required for strong bond formation, mediated interaction in the form of letters can serve to create weak social bonds.
+The strength of weak bonds is in the reduction of distrust and the gradual development of trust that can be critical to the de-escalation of crises.
+We conclude by pointing toward an interdisciplinary research agenda on the determinants of social bond formation in diplomacy.
+Five years later, he was walking alongside Mikhail Gorbachev, shaking hands in the streets of Moscow.
+Reagan and Gorbachev’s own answer to this question was the personal relationship of trust they forged together through first letter writing, a breakthrough face-to-face meeting in Geneva, and follow-up summits in Reykjavik, Washington, and Moscow interspersed with continued communication via letter.
+Intriguingly, however, existing research suggests that diplomats, ambassadors, and heads of state have long been able to create bonds with one another and develop sophisticated social networks, through non-face-to-face modalities of interaction.
+Existing research highlights, as in the Reagan– Gorbachev case, the critical importance of face-to-face interaction for reassuring adversaries, yet text-based communication also played a supporting role.
+And historically, this modality of communication appears to have played a singular role in such reassurance.
+Prior to the advent of telephony and relatively expeditious international travel, letters, cables, and telegrams represented, in many cases, the only form of interaction heads of state or diplomats would have with one another.
+Much later, in Renaissance diplomacy, Italian ambassadors, diplomats, and leaders engaged in intricate and complex signaling through many channels, including the development of the structured and strategic diplomatic letter.
+In short, historically, text communication had to be able to clarify intentions, build trust, and settle disputes, for it was, in some cases, the only way for parties to interact.
+This article investigates whether bonds can form in text-based communication as they do in face-to-face diplomacy.
+We define a process of social bonding as one that involves two individuals changing their understanding of their own and the other’s identity and interests through a process of positive and mutual identification.
+We argue that existing research in a variety of disciplines, from psychology to social information processing theory, highlight the ways in which text can serve as a stimulus to imagination, empathy, and behavior adaptation, causing readers to place themselves in the shoes of unseen others.
+Utilizing these insights, we argue that text can serve as a proxy for face-to-face interaction and ultimately produce social bonds.
+However, the proxy is not a perfect corollary to face-to-face meetings, and therefore the bonds formed are weaker than their face-to-face counterparts.
+What makes this a hard case is that Kennedy and Khrushchev had met face-to-face at the 1961 Vienna summit, prior to their exchange of letters during the CMC, but this was a negative emotional encounter that created deep distrust between the leaders.
+However, Lebow suggests a further explanation for the peaceful ending of the crisis that has not figured prominently in previous accounts.
+Jervis has gone so far as to claim that trust was critical to the peaceful resolution of the crisis.
+But neither Lebow nor Jervis have provided a detailed explanation of how the leaders overcame their preexisting relationship of distrust and developed a new bond of trust in the midst of what to date is the most dangerous crisis of the nuclear age.
+We intervene by explaining the bond that formed between Kennedy and Khrushchev during the crisis as an outcome of what microsociologists term an interaction ritual.
+Utilizing a model of bond formation initially proposed by Randall Collins , we demonstrate that the social interaction between the two leaders produced a bond that comprised a relatively low, though important, level of solidarity between Kennedy and Khrushchev.
+However, we argue that the solidarity created in the CMC case was relatively weak, because it lacked a face-to-face element.
+As a result, the trust between Kennedy and Khrushchev coexisted alongside hedging and risk calculations regarding the current and future intent of the other.
+The key difference here, however, is a variation in the modality of interaction.
+As with Kennedy and Khrushchev, there was an exchange of letters, but crucially also several face-to-face interactions.
+The result, we demonstrate, was a bonding process that resulted in a strong level of solidarity.
+Here, solidarity is achieved at the highest level, and there is a complete absence of risk calculation between two leaders who have bonded in this way.
+In the next section we briefly introduce the Collins model and existing International Relations applications of it.
+We then explore the arguments of those social theorists who argue that social bond formation can develop in non-face-toface interaction through text-based communication.
+We probe the importance of bodily copresence in relation to the letters sent between Kennedy and Khrushchev during the CMC and the letters and face-to-face interaction between Reagan and Gorbachev.
+We pay particular attention to within-case variation and use process tracing techniques to tease out when bonding occurred, or did not occur, in each interaction.
+The conclusion explores the implications of our argument and identifies future research questions.
+Overcoming lack of copresence and barriers to outsiders In previous work , we asked why leaders often “hit it off” and develop “personal chemistry” with one another, whereas other times the interaction remains mired in distrust or apprehension.
+The puzzle is how social bonds can develop in text-based communication where one of the ingredients, bodily copresence is not possible and another, barriers to outsiders, is challenged.
+Turning to the bodily copresence condition first, it is perhaps unsurprising that Collins has been, at times, deeply skeptical regarding the notion that bonding is possible without bodily copresence.
+This, in turn, brings productive effects in establishing shared mood and mutual focus of attention.
+Intriguingly, however, in subsequent work building upon the original model, his stance has been a bit more optimistic regarding the possibilities for bonding through, for example, digital technology.
+Here, Collins opens the door to the possibility of some bonding occurring through non-bodily copresence.
+Collins’ intervention leads us to develop the notion that social bonds might be differentiated by strength, where the strongest bonds will be products of interaction rituals where all four ingredients are present and the outcome variables exist at relatively intense levels due to rhythmic entrainment and the feedback processes that strengthen shared mood and mutual focus of attention.
+Weaker bonds, on the other hand, are products of interaction rituals where bodily copresence is absent and barriers to outsiders challenged, but mutual focus of attention and shared mood are present.
+We begin by investigating reasons why text-based communication is believed to result in weaker bonds and then turn to theoretical reasons why some of the limitations of text-based communication can be overcome.
+Text-based communication makes bonding difficult because of the lack of ability to perceive, and respond to, others.
+The temporal nature of text-based communication, even digitally, means that such synchronicity is challenged.
+This is because text-based communication “lack the flow of interaction in real time; even if electronic communications happen within minutes, this is not the rhythm of immediate vocal participation.
+Text-based communication is therefore asynchronous one-channel communication with relatively low information richness, low feedback, little or no propinquity, and low entrainment.
+To the extent that digital technology aids bonding, it seems to be in a supportive role.
+On the other hand, scholars in a variety of fields and disciplines have long noted the ability of text to substitute, in some ways, for “real” experience.
+The traveler goes some distance from his or her world of origin, which makes some aspects of the world of origin inaccessible.
+Anyone who has “gotten lost in a story” can attest to the aptness of the metaphor of travel, but for psychologists who study reading and imagination, the notion of transporting one’s mental state from one place to another is an important aspect of how text provides meaning.
+Reading fiction is therefore not only narrative transportation, but an exercise in empathy.
+And, as a series of recent studies have shown, skills in empathy practiced through reading may be beneficial in social life as well.
+Yet, it may be one thing to argue that fictional texts can produce empathy; it is quite another to argue that non-fictional portrayals produce similar outcomes.
+As Esther Milne puts it, “resence is a term that need not refer always to material, corporeal presence.
+Relatedly, insights from social information processing theory , which is an interdisciplinary approach that draws upon psychology and cognitive science, are insightful.
+One of the early findings in the study of computer-mediated communication suggested that mediated communication is not necessarily detrimental to interpersonal relations, but rather might enhance a sense of connection between individuals.
+For example, individuals engaged in text-based communication will employ behavioral strategies to make up for the deficit of visual cues.
+One noted complication, however, with non-immediate forms of communication, such as letters, is accounting for the spontaneity of thought of collective effervescence, something more easily measured with instantaneous message delivery in a laboratory than with letters sent over a period of time.
+If individuals utilize words and specific constructions to serve as proxies for the visual cues obtained in bodily copresence, then it is conceivable that bonding may take longer, but ultimately is possible, to some degree, through text.
+While there have been few direct and systematic applications of the Collins model to text-based communication, Ling’s study of cell-phone usage is instructive.
+Utilizing interviewing and ethnographic methods, Ling finds that while face-to-face interaction creates stronger solidarity, cell phone usage , strengthens solidarity.
+I do, however, assert that social bonds can be maintained and nurtured through mediated interaction.
+In other work , Ling goes further and suggests the possibility for weak bonds to form through mediated interaction (such as cell phone text messaging) and then strengthened with subsequent face-to-face interaction.
+While Ling does not identify one central mechanism by which the mediated interaction substitutes for bodily co-presence, his rich empirical work suggests a strong role for imagination and “narrative transportation,” placing oneself closer to the interlocutor through the type of imaginative empathy discussed earlier.
+Overcoming copresence limitations is not the only problem for text-based interaction rituals.
+Barriers to outsiders implies that individuals in an interaction are able to delineate those in the interaction from those that are not.
+Diplomats and leaders are often accompanied by translators, note-takers, advisors, photographers, and so on.
+While each of these individuals tend to occupy the same physical space, leaders can exclude them from the interaction itself.
+Sometimes this exclusion is subtle, such as a whispered conversation in the back of the room.
+In either case, the ability to exclude who is involved in the interaction is achieved.
+Crucially, however, barriers can also be created through non-material means as well.
+Discursively, individuals can utilize linguistic stratagems whose true meaning might only be ascertained by individuals within a particular interaction.
+Overt examples might involve a cryptolect, argot, or anti-language, where a dyad or group utilizes either new language or existing language in new ways, to exclude outsiders from grasping meaning.
+More subtle examples include reference to ideas or concepts that only those in an interaction could fully understand or appreciate, perhaps because of the affect-laden nature of their meaning.
+Meaning is understood by group membership; only individuals with the responsibility of the lives of other human beings can fully appreciate the meaning of the terms used.
+Carol Cohn’s groundbreaking work on the symbolic language used by nuclear defense officials, for example, highlights the group-membership aspect of particular diction that is only completely understood by those within the narrow confines of group borders.
+This cultural membership capital, or knowledge of group symbols, represents a form of barrier creation, as outsiders will be unfamiliar with the symbols that have developed over time in the group.
+We argue that this type of barrier creation could also exist in textbased communication.
+The easiest case would be where two leaders retained exclusive control over the letters they sent to each other, as with private individuals who may choose to keep a bond forged with a significant other through letters and other text-based communication secret from partners, loved ones, and close friends.
+However, this type of overt barrier to outsiders is rare in diplomacy, and in both of our cases, the letters that were sent were drafted by small groups of close and trusted advisors.
+Nevertheless, the absence of an overt barrier does not mean that barriers did not exist between the leaders and their team of drafters.
+While bodily copresence and a clear barrier to outsiders are required ingredients for a strong social bond, individuals are capable of forging weaker social bonds and maintaining those bonds in the absence of bodily copresence and situations where overt barrier construction may not be possible.
+Individuals can substitute for bodily copresence by being present in the interaction through careful and precise textual self-representation of their beliefs, mental states, and emotions, while imaginatively placing oneself into the position of the other through the exercise of empathy.
+A barrier to outsiders can be created through cultural membership capital.
+In short, while individuals may not be able to physically interact together in private, they can still interact and develop mutual focus of attention, shared mood, and exclude outsiders.
+The CMC represents a fascinating puzzle of how two leaders, on the brink of nuclear war, came through the exchange of letters to trust one another such that they could de-escalate the crisis.
+We explain this puzzle by arguing that during these six days of text-based interaction, a weak bond developed between the two leaders that contributed significantly to the peaceful ending of the crisis.
+This requires placing the memoir or other document within the greater social context and set of relationships in which it was created.
+In our investigation of the CMC, we have triangulated the data based on several sources.
+Although we have drawn on Khrushchev’s memoir and his reflections in Khrushchev Remembers , we have also relied on contemporaneous notes, as well as oral and critical oral histories.
+Crucial to our empirical strategy is the ability to demonstrate that the ritual ingredients come together to form the bond, rather than are a result of the bond.
+For instance, with respect to the theory, one might ask why the sharing of emotional states is not an effect of a social bond rather than a cause of it.
+In order to avoid concerns of endogeneity— that it is the bond that creates shared mood (humanization and positive identification of interests) and mutual focus of attention —it is crucial that the process of bond formation be teased out in order to carefully establish causality.
+This requires detailed and incremental step-by-step analysis of the interaction to establish how shared mood and mutual focus of attention obtained, generating collective effervescence, and ultimately solidarity.
+Before turning to the crisis itself, it is important to recall the baseline relationship of the two leaders heading into October 1962.
+Four months earlier, the two leaders met in Vienna for a summit that was perceived differently by each side.
+Kennedy, perhaps because he was unprepared for what was to come in the interaction, remarked afterward that “ just beat the hell out of me,” whereas for his part Khrushchev was in “bubbling good spirits” , because he had been able to dominate Kennedy and, from all accounts, won most of the arguments.
+The two leaders therefore begin their interactions over Cuba not from a position of having a positive relationship, but rather from an attitude of deep distrust and suspicion of each other’s intentions, making this a hard case for bonding.
+The quarantine was aimed at signaling United States resolve and he called upon the Soviet leader to turn back from this course of action and dismantle the missile sites.
+Although in a letter sent two days later, the Soviet leader described Kennedy’s actions as an “ultimatum” and rejected his “arbitrary demands” ; this is also the moment in the crisis when we see the first signs of an imaginative identification between the two leaders and the beginnings of social bond formation.
+Khrushchev wrote, “No, Mr President, I cannot agree to this, and I think that in your own heart you recognize that I am correct.
+Kennedy’s response was sent the following day and in it, the United States leader emphasized to Khrushchev his sense of betrayal and regret, urging the Soviet leader take the necessary steps, crucially the removal of the missiles, to end the crisis.
+After that time, this Government received the most explicit assurance from your Government. . . both publicly and privately, that no offensive weapons were being sent to Cuba.
+However, as the fear increased for each leader that events were slipping out of control, a positive moral identification would grow between the two leaders as each came to positively identify with the other’s responsibility to avoid nuclear war.
+Khrushchev’s response came the following day in the most important letter exchanged between the two leaders during the crisis, ultimately providing the basis for its de-escalation.
+This letter was a critical one because it created the mutual focus of attention and shared mood (positive identification of interests and humanization) between Kennedy and Khrushchev that are essential ingredients in a process of social bond formation.
+What is striking about this letter is how Khrushchev captured the emotion of fear that Kennedy was experiencing at the same time.
+Khrushchev framed the crisis, and the risk of nuclear annihilation it had created, as a responsibility they both shared.
+He told Kennedy, referring to Kennedy’s letter of October 25 that, “I got the feeling that you have some understanding of the situation which has developed and sense of responsibility.
+Khrushchev imaginatively transported himself into Kennedy’s shoes and invited the American president to do the same with regard to him.
+The Soviet leader appealed to Kennedy in this letter to show restraint in language that is directed to him as a fellow human being and not just as the office of President of the United States.
+The problem was that before Kennedy could reply to Khrushchev’s letter, the Soviet leader sent a second letter, this time broadcast on Radio Moscow at 5m. local time.
+Now Khrushchev upped the ante by tying the promise to remove the missiles from Cuba to the removal of United States Jupiter missiles that were based in Turkey.
+Despite the Soviet leader escalating his demands in his public letter of October 27, the limited solidarity that was developing through their communication was in further evidence in this letter.
+Khrushchev publicly appealed to Kennedy to join him in exercising their shared responsibility to avoid a nuclear conflict.
+A weak social bond was forming between the two leaders as each came through their written correspondence to imaginatively realize that the other was experiencing the same anxieties about the specter of nuclear annihilation.
+If this knowledge had been transparently obvious to Kennedy and Khrushchev from the outset, then they would not have needed to write these letters.
+It was their text-based interaction which created the mutual focus of attention and shared mood that produced the bond.
+Khrushchev gave voice to Kennedy’s fears at this time in his letter to Kennedy the following day agreeing to the removal of the missiles.
+The shared mood of fear between the two leaders enabled them to navigate their way out of the crisis.
+The trust that developed between Kennedy and Khrushchev as a result of their textbased interaction was a limited one.
+This was a remarkable transformation in their relationship when it is remembered that Kennedy began the crisis feeling betrayed by Khrushchev.
+As we discuss in the Appendix, Kennedy secretly agreed through the face-to-face meeting between his brother and Dobrynin on Saturday evening that he would remove the Jupiter missiles in Turkey within a few months, but he trusted the Soviet leader to keep the deal confidential.
+Kennedy had no guarantee that Khrushchev would not go public, but Khrushchev honored his trust, never mentioning the deal in public or in his later memoir and reflections.
+Kennedy also trusted Khrushchev when he agreed to remove the missiles and what US intelligence presumed rightly to be the nuclear warheads that had been deployed there.
+The views of the JCS illustrate how the two leaders maintained a barrier to outsiders here in that the JCS were not part of the process of social bonding and trust emergence between Kennedy and Khrushchev, and hence they calculated the risks very differently to their political leaders.
+Khrushchev also had to trust Kennedy to honor his pledge not to invade Cuba and remove the Jupiters as he did a few months later.
+The process of bonding through text-based interaction coexisted uneasily during the crisis with continued hedging and risk calculation on the part of both leaders.
+As we discussed earlier, Lebow has recognized that a personal bond formed between Kennedy and Khrushchev, but he does not provide an argument for how this developed.
+We have highlighted the importance of the letters that were exchanged between Kennedy and Khrushchev; it was the textually mediated interaction that, in substituting for bodily copresence and creating a subtle barrier to outsiders, made possible a level of solidarity between Kennedy and Khrushchev that was so crucial to the peaceful ending of the crisis.
+One of the central puzzles of the Cold War is how the conflictual relationship between the United States and Soviet Union could be transformed in such short order.
+In 1983, Ronald Reagan famously called the Soviet Union the “evil empire” and less than five years later was extolling the partnership in peace the two states had forged, including a historic agreement to ban a large swathe of nuclear weapons.
+Holmes argues, for example, that face-to-face diplomacy between Reagan and Gorbachev allowed both leaders to clarify their intentions, ultimately resulting in a level of reassurance that allowed Reagan and Gorbachev to be comfortable taking on more vulnerability vis-a-vis the other leader.
+Ultimately, this relationship of “bonded trust” meant that the two leaders could effectively disregard hawks in their own administrations and focus on transforming the relationship of the two states from a competitive one to one characterized by partnership.
+In contrast with the CMC, the letters exchanged between Reagan and Gorbachev both preceded and followed the face-to-face diplomacy.
+As such, the series of correspondences, 38 letters in total, that beginning in March 1985 Reagan and Gorbachev sent each other, provide significant insight into how both sides sought to build and maintain social bonds.
+Reagan writes to Gorbachev the same day that the latter takes office as General Secretary.
+The letter is noteworthy both for its conciliatory tone as well as the deep desire conveyed to build a personal relationship.
+Reagan notes that, “Our differences are many, and we will need to proceed in a way that takes both differences and common interests into account in seeking to resolve problems and build a new measure of trust and confidence.
+Reagan shared Gorbachev’s intuitive feeling that a face-to-face meeting was necessary for a breakthrough in the conflict.
+As both Reagan and Gorbachev had anticipated, their first summit meeting in Geneva in November 1985 produced the advance both was seeking.
+The importance of the Geneva meeting is that Reagan and Gorbachev came to positively identify with the other’s anxiety regarding the risk of nuclear war.
+However, what is critical is that beneath these important disagreements, there was over the course of five hours of meetings a growing mutual focus of attention on the part of Reagan and Gorbachev that there could be no security if each acted on the belief they could only be secure if the other was insecure.
+Gorbachev and Reagan were able to impress upon the other that not only did they understand that the two states they represented may each be culpable in the insecurity of the other, but crucially they both came with peaceful intent.
+Given the importance our model places on humanization in social bond formation, it is significant that the process of realizing their interests were aligned and they were in this together occurred in the context of Reagan and Gorbachev coming to see the humanity in one another.
+However, their emerging solidarity showed some signs of faltering as 1986 progressed.
+Gorbachev perceived a growing gap between Reagan’s sincere intent and integrity towards him and his capacity as president of the United States to adopt policies that challenged the “enemy image” of the Soviet Union that had guided previous United States policy.
+Gorbachev became convinced that if real progress was to be made, it had to come from the top, and critical to this was another face-to-face meeting between him and Reagan.
+The meeting in Reykjavik in October 1986 demonstrates the importance of bodily copresence in giving renewed energy and dynamism to a process of bonding.
+This was the turning point in the Reagan–Gorbachev relationship because the process of bonding that developed during the summit produced a level of solidarity between the two that meant both were in a mental state of trust as suspension.
+As noted earlier, the trust that emerges out of a strong bond of this kind exists when neither individual feels the need to hedge against the intent and integrity of the other.
+The contrast is clear with the weak bond that developed between Kennedy and Khrushchev through their textual mediated interaction in the CMC, where both leaders continued to hedge against the future intentions of the other.
+Below, we set out what might count as evidence against our claim that a strong bond of trust existed between Reagan and Gorbachev and why this evidence is not persuasive in this case.
+If there is discursive evidence that Reagan and Gorbachev were calculating risks in relation to the other’s intent and integrity, then this would be evidence that would falsify the theory of suspension.
+It might be argued that the disagreements over SDI that continued between Reagan and Gorbachev throughout the three years of their tenure as leaders demonstrate that each was still seeking to achieve security at the expense of the other.
+Reagan and Gorbachev may have placed less emphasis on the competitive aspects of the US–Soviet relationship than their predecessors, but for all their personal warmth toward each other, they were leaders of two superpowers that viewed each other with suspicion and continued to prepare for the possibility of nuclear conflict.
+The problem with this criticism of the suspension claim is that it conflates hedging at the interstate level, where we recognize enemy images of both sides persisted in key elements of the national security bureaucracy, and the interpersonal relationship where such hedging and risk calculation was absent.
+For example, Caspar Weinberger, Reagan’s Secretary of Defense at the time of the Reykjavik summit, having not been a party to the process of bonding that had taken place between Reagan and Gorbachev, viewed the risks of trusting Gorbachev very differently from Reagan.
+Had Reagan accepted this counsel from Weinberger, he would have betrayed Gorbachev’s trust.
+However, it is erroneous to argue this stemmed from a lack of trust between the two leaders.
+Instead, the obstacle to an agreement was that neither could not be sure that their successors would honor this trust.
+He trusted in Gorbachev’s peaceful intent and integrity, but he wanted SDI as an insurance policy in case Gorbachev’s successors harbored aggressive intent.
+Our key contention is that as a result of their face-to-face interactions at Geneva and Reykjavik, there developed a solidarity between Reagan and Gorbachev that enabled them to suspend risk calculations in relation to each other.
+We have argued that while face-to-face interactions may be required for strong social bonds to develop, leaders, through the text may form weak social bonds, even in the absence of bodily co-presence and an overt barrier to outsiders.
+We find evidence for weak social bonds in letters and strong social bonds in face-to-face interaction.
+With the former, the relationship was characterized by a lower level of solidarity that coexisted with continued suspicion and hedging behavior.
+With the latter, the relationship was characterized by a high degree of solidarity and the absence of risk calculation, or trust as suspension.
+In the end, we argue that while bonds produced through the mediated interaction of letter exchange might be weak, there is strength in weak bonds to the extent it allows leaders to reduce distrust and even, as in the case of Kennedy and Khrushchev, develop enough trust to de-escalate and resolve a nuclear crisis.
+There are several empirical difficulties in studying social bond formation.
+One reason for this is that observational data does not provide direct access to the existence or non-existence of bonds.
+Researchers must instead use empirical indicators of these concepts or proxies, which may be prone to error.
+Second, given the temporal nature of interactions in international politics, which may take place over a condensed time period, as in the CMC, or several years, as in the end of the Cold War, it is impossible to account for, or control, all confounds, such as a changing material environment.
+Nevertheless, despite these limitations, process tracing allows for demonstrating the plausibility of bond formation and to understand its effects.
+Similarly, we have posited a number of different mechanisms by which letters might serve as a proxy for copresence, including empathy, imagination, solidarity, and the way words are used to represent the self.
+While it is difficult to definitively test these qualitatively in historical case studies, laboratory experiments (that gain in internal validity what they give up in external validity) represent a promising area for future research where the ability to isolate and test for specific mechanisms may yield significant dividends.
+Finally, in some respects our cases may be classified as empirically straightforward.
+Both United States and USSR archives are believed to be relatively complete, with declassification procedures that have largely kept the historical record intact.
+There are also theoretical difficulties in interrogating bond formation in diplomacy.
+While the Collins model privileges that which occurs within the interaction, rather than reducing outcomes to the dispositions of the actors or the environment in which the interaction takes place, such interactions can never be isolated from previous interactions nor are the dispositions of the actors unimportant.
+The next theoretical move is to interrogate how a narrowly defined interactional order, as we have done here, can be broadened to account more fully for social structure.
+Finally, other theoretical approaches, such as recognition theory (see Duncombe, 2016; Duncombe, 2019 for example), complement the approach we have taken here and may be useful in explaining how we can make the move from dyadic interactions at the leader level to broader Self/Other identity understandings and narratives, such as that between the United States and USSR, at the state level.
+We argue that Kennedy and Khrushchev bonded, yet it is also true several individuals were part of the overall decision-making process on both sides.
+Even if these internal actors were not integral to the bond formation between the two protagonists, we know empirically that these same outsiders gave advice, pushed particular policy proposals, and this included on both sides, calls for military action.
+We see a similar dynamic with Reagan and Gorbachev, who eschewed hawks in their own administrations in favor of privileging the personal bond they developed dyadically.
+The interaction between bonded leaders and their non-bonded advisors may be a fruitful area for future research.
+Lastly, our focus here has been on the micro-interactions of leaders, but microsociology also investigates the ways in which such interactions scale to create broader social structures.
+This is a critical question that we hope to take up in future research, as it is particularly relevant for explaining how cultures of enmity may change over time, in this case the US-USSR, but it is also crucial for understanding how structures are created that then give rise to new micro-interactions.
+Our focus on letters as the form of mediated interaction captures a time when cablewire and letter-exchange were ubiquitous means of interaction among leaders.
+During the COVID-19 pandemic, leaders and diplomats became all too familiar with the intricacies of these various technologies, often lamenting the inability for them to replace bodily copresent face-to-face diplomacy.
+Theoretically, from a Collins perspective, new technology should increase synchronicity and make collective effervescence easier to achieve.
+Put another way, the fact that we find the existence of weak bonds in letters, which are heavily temporally mediated, bodes well for the notion that bonds may form through more immediate forms of technology.
+Future research may investigate how telephone, texts, or video conferencing, to name a few technologies, affect the imagination process.
+It may be, for instance, that what tweets or text messages gain in speed they lose in length and nuance, affecting the ability for parties to imaginatively place themselves inside the interaction.
+In the end, the means by which leaders reduce distrust and mistrust about one another, through a process of social bonding, represents a potentially fruitful, and interdisciplinary, research agenda.
+Microsociology is interested both in the ways in which micro-interactions, such as those between two individuals, create bonds as well as how those bonds replicate and expand to create social structures.
+Our interest here is on the former, though we elaborate some ideas for future research regarding the latter, in the conclusion.
+For space purposes we elaborate the Collins model, and the meaning of the four conditions, in more detail in the online Appendix.
+In their most detailed treatment of the letters (Blight and Lang, 2012) exchanged between Kennedy and Khrushchev, Blight and Lang engage in a fascinating narrative of imagining how the cognitive and affective mental states of the two leaders changed as they interacted with the other through the letters.
+Because many of the letters contain lengthy, but highly relevant, passages that are relevant for our argument, we have placed a significant amount of detailed process tracing in the Online Appendix for both cases, due to space constraints.
+Dobrynin AF In Confidence – Moscow’s Ambassador to America’s Six Cold War Presidents.
+Dossena M Building trust through appraisal in nineteenth-century business correspondence.
+Theory of mind predicts collective intelligence equally well online and face-to-face.
+Green MC and Brock TC The role of transportation in the persuasiveness of public narratives.
+Spohr K and Reynolds D Transcending the Cold War: Summits, Statecraft, and the Dissolution of Bipolarity in Europe, 1970–1990.
+Cohen R and Westbrook R Amarna Diplomacy: The Beginnings of International Relations.
+Kaufman GF and Libby LK Changing beliefs and behavior through experience-taking.
+Kennedy JF A Radio and television address to the American people on the Soviet arms build-up in Cuba, 22 October 1962.
+Kidd DC and Castano E Reading literary fiction improves theory of mind.
+Lawler D We’re still relying on Trump-Kim chemistry to prevent nuclear war.
+Möllering G The nature of trust from Georg Simmel to a theory of expectation, interpretation and suspension.
+Sherman LE, Michikyan M and Greenfield PM The effects of text, audio, video, and in-person communication on bonding between friends.
+Baumann B and Bultmann D , Social Ontology, Sociocultures and Inequality in the Global South.
+Thies C A pragmatic guide to qualitative historical analysis in the study of international relations.
+Wong S Emotions and the communication of intentions in face-to-face diplomacy.
+Leaders, Intelligence, and Assessment of Intentions in International Relations.
+He is co-editor with Professors Christian Reus-Smit and Evelyn Goh of the Cambridge Series in International Relations, Associate Editor of the Journal of Trust Research, and a Fellow of the Academy of Social Sciences.
+He is director of the Political Psychology and International Relations undergraduate research lab and co-director of the Social Science Research Methods Center.

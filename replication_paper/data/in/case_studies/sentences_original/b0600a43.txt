@@ -1,0 +1,332 @@
+A prominent goal in the analysis of the crisis, whether by scholars or officials, has been to identify the mistakes crucial players made prior to and during the crisis, with an eye toward drawing 'lessons' that will help us avoid similar incidents in the future, or to help us manage them better should we prove unable to avoid them.
+Some of the more notable mistakes can be traced to faulty or inadequate intelligence, or to the misuse of intelligence by political leaders.
+It is natural enough to seek to 'fix' the 'mistakes' made in 1962 for example, by changing the organizational structure of the intelligence community, or the processes of intelligence assessment and exploitation.
+In this essay, I argue that some of the mistakes made during the missile crisis may not have been avoidable, and are of a kind not easily corrected, because they were the direct result of perfectly normal psychological processes.
+Scholars have long been interested in the role of perception in international relations.
+Diplomatic historians, political scientists, and psychologists have all studied the way in which images and beliefs affect the conduct of international affairs.
+This body of literature demonstrates that the way in which leaders perceive themselves, their environment, and their adversaries has an important effect on the course of events.
+Relatively few scholars have applied psychological insights to the study of intelligence assessment specifically, however, though many have done so incidentally.
+The Cuban missile crisis is an appropriate vehicle for such a study because of the richness of the record upon which to draw.
+The ideal of an analyst who is open to any and all information, able accurately to gauge its quality, and capable of perceiving its true import is an ideal without an empirical referent.
+At every stage of the decision making process, biases are apt to introduce error.
+Motivated and cognitive errors may be inconsequential when decision makers are dealing with mundane matters, but they can have far reaching consequences in international crises.
+Unfortunately, to the extent that mistakes made during the Cuban missile crisis have roots in human nature, they are unlikely to be 'fixed' by tinkering with the organizational structure or processes of intelligence.
+I begin by surveying psychological models of decision making and their implications for intelligence assessment.
+I then apply them to Soviet, American, and Cuban judgments about three critical issues in the missile crisis (the likelihood of a United States invasion of Cuba; Soviet motives for deploying nuclear missiles to Cuba; and the likely United States response to the Soviet deployment),2 explaining how psychological models of decision making can account for important differences in judgment, and for egregious errors.
+Finally, I conclude with some general observations about perception and intelligence errors during the Cuban missile crisis.
+PSYCHOLOGY AND INTELLIGENCE ERRORS Motivational models of decision making take as their starting point peoples' needs and emotions.
+These models contend that individuals have a strong need to maintain images of themselves and their environment that are conducive to their emotional well-being.
+At the same time, we seek to avoid feelings of anxiety, fear, shame and guilt.
+Motivational models explain how this need to maintain our sense of well-being can interfere with our ability to process information accurately.
+Humans are emotional beings beset with doubts, who often seek incompatible goals.
+Nevertheless, we naturally seek to avoid uncertainty and painful trade-offs.
+We especially try to avoid these types of situations if the decisions we make will be irrevocable.
+Consequently, we employ a variety of coping mechanisms in an effort to maintain our peace of mind and reduce our anxiety.
+For example, we may pay selective attention to information, preferring that which suggests certainty or minimizes trade-offs.
+We exaggerate the positive consequences of our decision, minimize the negative ones, and go to some trouble to seek out comforting information with which to discredit disturbing information.
+Additionally, we may engage in 'wishful thinking', in which we persuade ourselves that our chosen course will succeed despite many indications to the contrary.
+Whereas motivational models of decision making focus on our emotional and psychological needs, cognitive models focus on the decision rules, shortcuts and simplifications that we employ when processing information.
+Theory-driven information processing is a method of interpreting data on the basis of one's prior beliefs or prior knowledge.
+One begins with an assumption and interprets new information through the prism of that assumption.
+One attends first to the data and then develops theories or conclusions on the basis of this raw information.
+Theory-driven information processing is a deductive manner of reasoning while data-driven processing is inductive.
+Cognitive psychologists contend that we engage in theory-driven thinking far more frequently than we engage in data-driven thinking.
+This is primarily because we prefer to conserve mental energy, and theory-driven processing requires less mental effort.
+Data-driven processing typically requires us to attend to a vast amount of information and to weigh it all before we draw conclusions.
+Most of the decisions in our daily lives concern mundane issues, and it makes sense to expend as little mental energy as possible when attending to them.
+However, our tendency to engage in theory-driven thinking, and to use mental shortcuts, can lead to errors.
+For example, we tend to pay attention only to information that conforms to our previously-held beliefs and to overlook information that challenges our expectations.
+If we do attend to discrepant information, we have a tendency to dismiss it, either by finding fault with the information itself or by questioning the credibility of its source.
+Ironically, encountering and dismissing such information frequently leads to even stronger beliefs that our preconceptions are correct.
+Not only do we have a tendency to pay greater attention to information that confirms our beliefs, we tend to actively seek out such information.
+In a classic study demonstrating priming effects, subjects were divided into two groups and shown a series of slides.
+Both groups were then shown pictures of people shooting rapids in a canoe, and asked to assess the scenario.
+The subjects that had been exposed to negative subliminal phrases were far more likely to assess the scenario in a negative manner, and to conclude that the canoeists were acting irresponsibly.
+Subjects who had been exposed to positive subliminal phrases, however, were more likely to assess the scenario positively.
+First, theory-driven processing undermines our ability to generate alternative interpretations of the data.
+When we reason in a theory-driven manner, we attend first to our preconceptions, and then to the data.
+This inclines us to interpret information in such a way as to make it conform to what we already expect.
+Typically, we inadequately consider the possibility that the same information can support a variety of conclusions.
+Second, because we seek out information that supports our beliefs and ignore information that challenges them, our beliefs resist change.
+The tendency to engage in theory-driven thinking means that two people can observe exactly the same behavior, yet interpret it in completely different ways.
+Since we tend to interpret ambiguous information in such a way as to make it conform to our pre-existing images and expectations, people with different beliefs might attach different meanings to the same information.
+Motivational and cognitive models of decision making thus derive from different premises.
+Motivational models take as their starting point the human desire to avoid the anxiety that accompanies uncertainty and painful trade-offs.
+The starting point for cognitive models is the rules for processing information that we employ in order to make sense of a complex environment.
+Motivational models contend that we see what we want to see, whereas cognitive models contend that we see what we expect to see.
+Despite these different starting points, however, both models seek to explain the same outcomes errors in judgment and inference and, in many instances, lead to similar expectations.
+It is a much more daunting task to explain the way in which government officials made decisions 35 years ago.
+A great deal of information is needed in order to determine whether decision makers' perceptions were rooted in cognitive or motivational biases, and we may never be able to draw such conclusions with certainty.
+Nevertheless, it is useful to consider plausible psychological explanations for the way analysts and leaders interpreted data during the Cuban missile crisis.
+Such an exercise helps us to understand why intelligence assessment and the effective exploitation of intelligence by national leaders are such difficult, error-prone tasks.
+Intelligence errors may be rooted not only in institutional and procedural flaws, which in principle can be fixed, but also in perfectly normal human traits, which cannot.
+In this section I consider the ways in which analysts and national leaders perceived these issues, and I offer plausible psychological explanations for their divergent assessments.
+The Likelihood of a United States Invasion of Cuba In April 1961 the Kennedy administration backed an invasion of Cuba that failed miserably.
+Although United States troops did not take part in the Bay of Pigs landing, the affair was an embarrassment for Kennedy, and both the media and Congress pressured the President to try again.
+While the United States military did draw up contingency plans for an invasion, White House officials were opposed to implementing it for a variety of moral and political reasons.
+Instead, the White House launched Operation 'Mongoose', a program of sabotage designed to harass the Cuban government.
+After the Bay of Pigs, both the Cuban and the Soviet intelligence communities sought to assess the likelihood of a second, more serious invasion of Cuba.
+Most information came through third parties in Europe and Latin America, rather than from sources close to the American President.
+The Soviets relied heavily upon reports from journalists, officials in France and Belgium, and members of the Washington diplomatic community.
+These reports were based to a large extent upon open source material and gossip.
+The Soviets also relied upon Sigint to some extent (analyzing the volume of United States communications traffic to look for signs of imminent military action), but Sigint provided no firm evidence of Kennedy's intentions toward Cuba.
+It is difficult to determine the Soviet intelligence community's assessment of the likelihood of a United States invasion of Cuba.
+According to Aleksandr Fursenko and Timothy Naftali, the KGB's official reports during the spring of 1962 were unable to draw firm conclusions regarding the likelihood of an attack.
+Such waffling was not unusual for the Soviet intelligence community, as its reports were notoriously short on analysis.
+It was politically expedient to provide Soviet leaders with raw data and let them draw their own conclusions, rather than to provide an assessment that might contradict these leaders' views.
+However, Soviet intelligence did suggest that an invasion was not imminent.
+Soviet intelligence officials in Washington believed that Kennedy was reluctant to attempt another invasion because such an attack might undermine some of his other foreign policy initiatives, and because an invasion might lead to retaliatory attacks from the Soviets and the Chinese.
+Cuban testimony, however suggests that Soviet intelligence provided radically different assessments of US intentions to Havana.
+According to Cuban intelligence officials, beginning in late 1961 Soviet intelligence repeatedly reported to Castro that the Kennedy administration was planning a full-scale invasion of Cuba.
+These unrelenting warnings were accompanied by reports that Washington was also actively seeking to assassinate the Cuban leader.
+Because the Soviet intelligence community offered different opinions to different audiences, it is difficult to determine the source of its assessments and to evaluate them.
+However, the fact that the conclusions of the Soviet intelligence community varied from audience to audience suggests that political pressures heavily influenced its findings.
+For example, it is unclear whether the KGB told Soviet leaders it could not reach a conclusion about the likelihood of a United States attack because it could not draw a conclusion perhaps because of a lack of good information or because it would not draw a conclusion, for fear such a conclusion might be unacceptable to Soviet leaders.
+Conceivably, the discrepancy between KGB reports to Soviet leaders and KGB reports to Cuban leaders reflects Khrushchev's attempt to use Soviet intelligence for political purposes.
+By most accounts, the Soviet leadership had firm views about the likelihood of a United States invasion.
+Khrushchev was convinced that President Kennedy would attempt a second attack on Cuba at some point, unless adequate provision were made for deterrence.
+The Soviet leader believed the Americans would not tolerate the continued existence of a communist state 90 miles off the United States coast unless forced to do so.
+Khrushchev therefore interpreted the Bay of Pigs and the harassment of Cuba that followed as precursors to an all-out confrontation.
+Although the available evidence does not allow for a conclusive judgment, it is possible that theory-driven thinking led Khrushchev to become convinced that the United States would invade Cuba.
+Khrushchev may have begun with the assumption that a confrontation was inevitable, and interpreted the Bay of Pigs and Operation 'Mongoose' as evidence for his belief.
+While such a conclusion was plausible, there was no logical connection between Washington's subsequent harassment of Havana and the likelihood of a second invasion.
+In fact, as Cuban intelligence duly noted, the activities associated with 'Mongoose' at least as plausibly suggested that the Kennedy administration did not intend to invade.
+Cuban intelligence concluded that these activities demonstrated that, for the time being at least, Washington had given up plans for an invasion and had instead resigned itself to simple harassment.
+Khrushchev could have reached the same conclusion if he had reasoned differently.
+Data-driven thinking could have led to the conclusion that the Kennedy administration was not planning an attack in 1962.
+After the failed American attempt to invade Cuba in April 1961 the Cuban government devoted the bulk of its intelligence resources to determining the likelihood of another invasion.
+Intelligence priorities revolved around detecting United States plans to invade the island, as well as plans to assassinate Fidel Castro.
+Fidel Castro assumed the United States would never accept the Cuban Revolution.
+After the Bay of Pigs affair, the Cuban leader was convinced that a confrontation with the Americans was inevitable.
+He maintained that Washington sought to exact revenge for the failed invasion, and to crush the Revolution.
+For Castro, the main question was not whether an American invasion would occur, but when.
+Cuban intelligence shared Castro's belief that a confrontation with the United States was inevitable.
+As long as the Cuban Revolution survived, it would rub salt in American wounds.
+At some point, intelligence officials believed, the United States would seek to overthrow Castro.
+However, between the spring of 1961 and the spring of 1962, Cuban intelligence maintained that an attack was not imminent.
+Washington was most certainly engaged in a variety of activities meant to harass the Castro government, but Cuban intelligence concluded that these activities were not necessarily a precursor to invasion.
+As Domingo Amuchastegui has noted, Cuban intelligence actually believed that a United States invasion was becoming increasingly unlikely, as Washington was unable to rally the support of the Organization of American States, something that was crucial in order to make such an invasion politically acceptable both to the international community and to the American public.
+Cuban leaders did not agree with the Cuban intelligence community's conclusions.
+Castro dismissed the intelligence community's judgment that a United States attack was not imminent, and pressured it to search for evidence of an impending conflict.
+Castro instead embraced the Soviet reports that such an invasion was looming.
+Thus, within Havana there were important differences of opinion regarding the likelihood of a United States invasion.
+Both the political leaders and the intelligence community believed a confrontation was inevitable, yet they differed in their estimation of its imminence.
+The available evidence suggests that these discrepancies might have been rooted, at least in part, in different methods of processing information.
+It is plausible that Castro, like Khrushchev, engaged in theory-driven thinking.
+He began with the assumption that an invasion was inevitable, and then sought out information to confirm this expectation.
+Castro embraced Soviet intelligence reports that confirmed his beliefs, and rejected information from Cuban intelligence that challenged his expectations.
+Because he paid attention only to information that confirmed his expectation that an invasion was imminent, the Cuban leader avoided having to revise his expectations.
+On the other hand, Cuban intelligence partly resisted the tendency to engage in theory-driven information processing.
+Despite its own assumption that confrontation was inevitable, despite political pressure to seek out information confirming an invasion, and despite reports from the KGB that an attack was imminent, Cuban intelligence concluded that an invasion was not likely in 1962.
+In this respect, Cuban intelligence attended first to the raw information, and then developed conclusions on the basis of the data.
+Thus different basic assumptions can lead to radically different interpretations of the same information.
+Although it is still unclear which of these motives carried the most weight, it is now generally agreed that Khrushchev's motives were largely defensive.
+He sought to redress a strategic imbalance which strongly favored the United States, and to protect an important ally.
+As the first state in the Western Hemisphere to embrace communism, Cuba had important symbolic significance for the Kremlin.
+In the zero-sum world of the early 1960s, it would have been tragic for Moscow if Washington were able to depose Castro and replace him with someone more palatable to the United States.
+It benefits from an exchange of information that was not available to intelligence analysts and political leaders at the time of the crisis.
+Several puzzling questions arise when one considers US estimates of Soviet motives during the early 1960s: 1.
+The Soviets were engaged in a major buildup of conventional arms on the island during the summer of 1962, and some have charged that the CIA should have foreseen that strategic missiles would be included in this deployment.
+A Special National Intelligence Estimate issued on 19 September 1962 considered the possibility that the Kremlin would deploy medium-and intermediate-range missiles to Cuba, and noted that such a deployment 'would confer considerable military advantage' on the Soviet Union.
+However, this scenario was dismissed as unlikely because such risk-taking would not be congruent with past Soviet behavior.
+However, there was not enough evidence to conclude that the Soviets had ruled out such an option, either.
+Moreover, although not a typical Soviet trait, risk-taking was congruent with Khrushchev's past political behavior.
+In retrospect, the intelligence community clearly should have given greater weight to the possibility of a strategic deployment in Cuba.
+The United States had been monitoring the buildup of Soviet weapons in Cuba closely.
+It is therefore unclear how could it have missed the transshipment of missiles and supporting equipment, and the construction of weapons sites which so scarred the Cuban landscape, especially since the Soviets failed to mask construction work at the sites until after American photo reconnaissance had discovered them.
+Such an oversight is especially puzzling when one considers evidence from Cuban intelligence that information regarding the missile sites was streaming into the United States.
+Although nearly 42,000 members of the Soviet military were deployed to Cuba in the fall of 1962, US intelligence estimated that, at a maximum, there were 16,000 such personnel on the island.
+Although these personnel wore civilian clothing, they all sported crew-cuts and traveled in military formations, and many were fair-complexioned.
+At the outset of the crisis intelligence reports noted the possibility that the Soviets might have deployed nuclear missiles to Cuba for defensive reasons.
+CIA memoranda on 16 and 17 October both discussed the possibility that the Kremlin decided to install the missiles so as to deter the United States from intervening in Cuba.
+Special National Estimates prepared on 19 and 20 October failed to consider the deterrence motivations for the deployment, but they did suggest that the Soviets might have deployed nuclear missiles in an attempt to offset their strategic inferiority vis-a-vis the United States.
+However, these defensive considerations were largely ignored in subsequent assessments.
+McCone failed to note that the military balance strongly favored the United States.
+Likewise, formal CIA assessments prepared for the ExComm failed to mention that the Soviets might have deployed missiles so as to defend Cuba against an American attack.
+They also failed to note the symbolic significance of the island country to the Kremlin.
+The President and his advisers also assumed that the deployment was offensive in nature, believing the action was meant to test American credibility and fortitude.
+It is plausible that these intelligence oversights were all rooted in the intelligence community's image of the Soviet Union and attendant information processing errors.
+Available evidence suggests that American officials began with the assumption that the Soviet Union was an aggressor seeking to expand its influence throughout the globe.
+Such an assumption would have led United States officials to be more attentive to information that confirmed their expectations and relatively insensitive to information that challenged them.
+The American image of the Soviet Union as an expansionist and opportunistic aggressor may have blinded United States officials to the feelings of vulnerability that the strategic nuclear imbalance generated in Moscow.
+Early CIA analyses mentioned the possibility that Khrushchev might have decided to deploy the missiles for partly defensive reasons; but it is noteworthy that this line of thought was neither fully explored nor consistently pursued in American assessments.
+It may have dropped out because defensive motives did not fit with American preconceptions of an expansionist Soviet Union.
+Moreover, such assessments did not fit with Americans' preconceptions about the United States.
+If United States officials had acknowledged that the Kremlin had deployed nuclear missiles for defensive reasons they would have been conceding that the United States could be perceived as an aggressor.
+Moreover, the dominant American image of the Soviet Union was not merely that of an opportunistic expansionist aggressor; it was of a riskaverse opportunistic expansionist aggressor.
+While the Soviets constantly sought to expand their influence, American officials believed, they avoided taking great risks in pursuit of that goal.
+Interestingly, United States analysts failed to consider Khrushchev's attitude toward risk in these analyses.
+Khrushchev had demonstrated a tendency to engage in risk-taking behavior, most notably in his decision to expose Stalin's crimes, in his bluster over Berlin, and in his reckless policy of nuclear bluff.
+The failure to integrate Khrushchev's past behavior into American estimates is puzzling.
+The American failure to anticipate the Soviet deployment, therefore, may well have stemmed at least in part from a misjudgment about Soviet risk-taking.
+But Khrushchev did not deploy the missiles to Cuba to gain advantage over the United States.
+Psychological research on decision making under conditions of risk suggests that this is an important distinction.
+People tend to be risk-acceptant in the domain of loss, and riskaverse in the domain of gains.
+That is, people will take greater risks when trying to redress or avoid a perceived loss than they will when they are trying to realize a gain.
+Of course, United States officials could not have been expected to be aware of developments in the field of behavioral decision theory that had not yet taken place.
+Nevertheless, it is intuitive to expect desperate action from desperate people, and had the Kennedy administration understood that Khrushchev was attempting to shore up a position of vulnerability, they might then have evaluated the possibility of a missile deployment differently.
+Since United States analysts assumed that a Soviet deployment would not occur, they may well have been relatively insensitive to the vast amount of human intelligence such as refugee reports and sightings by operatives in Cuba that suggested such a deployment was underway.
+The CIA may have failed to detect the missiles earlier in part because they did not expect the missiles to be there at all.
+The hypothesis-confirming bias predicts CIA analysts would seek information that supported their expectations, rather than information that would disconfirm them.
+United States officials not only discounted discrepant human intelligence; they also dismissed many of their sources as not credible.
+Motivational errors might also have contributed to the failure to detect the deployment earlier, although this explanation is less satisfactory.
+After the Bay of Pigs incident the CIA suffered a loss of status and influence within the Kennedy administration.
+It is possible that the CIA sought to avoid further blame for inaccuracies and therefore required unequivocal proof of a missile installation before notifying the administration.
+If the CIA was motivated to be as accurate as possible, it might have exercised undue caution in its estimates.
+The problem with such an explanation, however, is that if the CIA had been motivated to be as accurate as possible in order to avoid a further erosion of its bureaucratic position, it could equally plausibly have redoubled its monitoring efforts, leading it to discover the missiles earlier than it otherwise might have done.
+Since a motivational explanation leads to no precise prediction about the CIA's performance in this case, it is less satisfactory than cognitive explanations.
+It is plausible, then, that theory-driven thinking contributed to the American intelligence community's inability to detect the missiles at an earlier point in time.
+If American intelligence had concluded before the onset of the crisis that a Soviet deployment of nuclear missiles was not as unlikely as they thought, then analysts would have been more receptive to evidence that suggested such a deployment was, in fact, taking place.
+The same reasoning might help to explain why United States intelligence so underestimated the number of Soviet military personnel in Cuba.
+Although the extent of the Soviet presence was obvious to many Cubans, it may not have been obvious to those less familiar with the daily rhythms of the island, especially to those neither expecting nor looking for a massive deployment of a complete combat-capable Soviet force.
+In short, United States analysts began with the image of Moscow as an expansionist aggressor, and this image may well have blinded them to Moscow's feelings of vulnerability caused by its position of inferiority.
+Accordingly, United States analysts underestimated the probability that Khrushchev would risk deploying strategic missiles to Cuba.
+The belief that Khrushchev would not make such a deployment may then have caused United States analysts to be insensitive to information that such a deployment was, in fact, taking place.
+When Nikita Khrushchev first broached the idea of a nuclear deployment in Cuba with Castro, the Soviet leader maintained that the purpose of the deployment was to deter an American attack on the island.
+However, the Cuban leader considered Moscow's geostrategic concerns irrelevant.
+He feared that an American invasion was imminent, and was convinced that the Cuban military alone could not deter Washington.
+Castro needed an effective deterrent, and accepted the missiles readily.
+Castro either failed to recognize this trade-off, or chose to ignore it.
+Fearful of an impending attack, convinced the Cuban military could not protect the island, and facing Soviet pressure to deploy strategic missiles, Castro may have engaged in defensive avoidance.
+Evidence suggests that Castro avoided information that would produce anxiety about the trade-offs involved in his decision to accept the deployment.
+For example, information from Cuban intelligence suggests that Castro was not open to the suggestion that a deployment could raise the probability of a United States attack.
+In mid-September 1962 Cuban intelligence prepared a report on the dangers of being seen as a Soviet proxy and the possibility that such perceptions could drag Havana into a superpower war.
+However, these estimates were not forwarded to Castro because of an institutional reluctance to contradict the leader's views.
+Castro might also have engaged in wishful thinking, thus persuading himself that the nuclear deployment was the best option for the defense of Cuba.
+Intelligence analysts in Havana doubted that Cuban security was the Soviets' primary motive for deploying strategic missiles to Cuba.
+Long before learning of the missile installation, Cuban intelligence had grown suspicious of recurring Soviet reports that a United States invasion was imminent.
+Upon learning of the deployment, Cuban intelligence concluded that the Soviets had deliberately skewed their intelligence reports so as to make Castro more amenable to it.
+The Soviets needed to convince Castro that an American invasion was imminent so that they could deploy their nuclear missiles 90 miles off the United States coast.
+It is interesting that Cuban intelligence and American intelligence concurred that Khrushchev deployed the missiles to Cuba primarily for offensive reasons.
+A variety of defensive considerations drove Khrushchev to deploy missiles in Cuba.
+The Cubans acknowledged these defensive considerations to a greater extent than did the Americans, but ultimately considered them secondary.
+It is also interesting to note that while Cuban and American intelligence reached the same conclusion about Soviet motives, they appear to have done so via different methods of information processing.
+Beginning with the assumption that the Soviet Union was a cautious, opportunistic aggressor unlikely to risk a nuclear deployment to Cuba, American analysts concluded that the purpose of the deployment was to give the Soviets a strategic advantage over the United States once the deployment became evident.
+This finding suggests that there is no necessary relationship between one method of information processing and the accuracy of inferences.
+Data-driven and theory-driven information processing can both lead to inaccurate assessments.
+The Likely United States Response to the Soviet Deployment The American response to the Soviet installation of ballistic missiles in Cuba was crucial because of the possibility that Washington would escalate the conflict.
+The ExComm considered a variety of options, including air strikes and an invasion.
+In order to be able to respond effectively to Washington's reaction to the deployment, Cuba and the Soviet Union needed to try to predict it.
+Nikita Khrushchev maintained that the Kennedy administration would accept the deployment of Soviet nuclear missiles to Cuba.
+Some scholars have argued that Khrushchev questioned Kennedy's resolve, and believed the American leader would not force a confrontation over the missiles.
+More recent studies have argued convincingly that the Soviet leader engaged in wishful thinking.
+A successful nuclear deployment would alleviate many of these difficulties.
+Evidence suggests, however, that Khrushchev failed to recognize important trade-offs.
+Needing the deployment to succeed, he persuaded himself that it would succeed, ignoring evidence that his plan would fail, and underestimating the risks involved.
+Oddly enough, given the seriousness of the situation, the KGB was not specifically instructed to estimate the likely United States response to the deployment.
+The reason for this is unclear, although several explanations are possible.
+This information was so crucial that it strains credulity to believe that Khrushchev simply forgot to ask for it.
+More plausibly, the Kremlin may have believed that Soviet intelligence would have been unable to predict the United States response accurately.
+In any case, both agencies were more proficient at data collection than data analysis.
+The failure to task Soviet intelligence with determining the probable US response to the deployment might also have reflected the secondary status of the intelligence agencies in the policy making process.
+IChrushchev largely distrusted the KGB and the GRU, and frequently acted as his own intelligence analyst.
+Perhaps the Soviet leader simply did not value the opinion of the intelligence agencies on this matter.
+Another possibility is that Khrushchev feared that if he tasked Soviet intelligence with assessing the likely United States response, the instructions would leak and he would lose the element of surprise.
+Finally, it is also possible that Khrushchev did not want to know what the United States response would be.
+He may have been so wedded to the idea of deployment that he did not wish to hear that it might provoke a deadly military confrontation with the United States.
+Cuban intelligence was sensitive to the fact that Washington perceived Cuba to be a Soviet proxy.
+Intelligence analysts in Havana reported that it would be dangerous for Cuba to ally itself too closely with Moscow because the island could then become a pawn in the growing hostilities between the superpowers.
+Thus, when it appeared that the Americans were close to discovering the nuclear missiles in Cuba, Cuban analysts assumed that Washington would refuse to accept the deployment.
+The Americans would perceive the deployment not only as a threat to United States security, but -just as importantly as a challenge to American dominance in the Western Hemisphere.
+In the zero-sum world of the Cold War, Washington would not and could not allow the Soviets to deploy nuclear missiles in Cuba.
+While Cuban intelligence was correct in its prediction that the Americans would not accept the deployment, it erred when it assumed that Washington would respond with a military attack.
+It is not entirely clear why Cuban intelligence would make such an assumption, especially since an invasion could have unleashed a confrontation of catastrophic proportions.
+Lack of information may have contributed to the failure of Cuban intelligence to consider the range of policy responses open to the Kennedy administration; Cuba evidently had no sources close to the President.
+In an effort to determine American intentions, Cuban analysts monitored United States military bases at Guantanamo Bay and in the southeastern United States, as well as United States military activities in the Caribbean.
+Like Khrushchev, Castro may have been driven by his need to believe that Kennedy would accept the missile deployment.
+From Castro's perspective, the deployment was necessary to deter a United States invasion of Cuba.
+Castro would not have permitted the deployment if he had believed it would provoke a United States attack.
+The fact that Castro accepted the deployment suggests that he persuaded himself that the Americans would ultimately accept it.
+Evidence also suggests that the Cuban leader took comfort in Khrushchev's confidence that Washington would accept the missiles.
+The Kremlin had far more experience in such matters, and had greater intelligence-gathering capabilities.
+Thus, there was disagreement regarding the likely American response to the missile deployment.
+Khrushchev believed that Washington would accept the missiles, while Cuban intelligence demurred.
+These divergent assessments may have stemmed from the way in which the two groups approached the assessment process.
+Khrushchev believed the Americans would accept the missiles because he wanted and needed to believe that this would be the case.
+He needed the deployment to succeed, because he needed it to solve a variety of acute political problems.
+The fact that he failed to instruct Soviet intelligence agencies to look into the matter is consistent with his not wanting to hear that his plan might not work.
+Cuban intelligence, on the other hand, began by considering Washington's perception of Soviet-Cuban relations, and larger geostrategic issues.
+They based their predictions of United States behavior on the fact that Washington would oppose any expansion of Soviet power into the Western hemisphere.
+CONCLUSIONS Many of the scholars and government agencies that have investigated the Cuban missile crisis have sought to uncover the mistakes that were made in October 1962.
+The aim is to discover 'what went wrong' and to 'fix' organizational and procedural flaws so that such a crisis will not recur.
+This chapter has examined these intelligence errors from a psychological perspective.
+In this view, many of these mistakes may well have been rooted in perfectly normal decision-making processes.
+Likewise, the cognitive shortcuts that are so useful in allowing us to cope with the vast amounts of information that we encounter each day may have led to intelligence oversights.
+As a 'soft science', the study of international relations is not as amenable to scientific experimentation as some other fields of inquiry, such as physics or chemistry.
+It is difficult to identify and control for important variables in international affairs, so as to assess the relative importance of psychological, bureaucratic, domestic political, societal, or systemic factors in determining how events unfold.
+Collectively, however, the essays in this volume by Garthoff, Fursenko and Naftali, and Amuchastegui enable us to conduct an unusually well-controlled thought experiment.
+Here we have information about how intelligence analysts and national leaders simultaneously assessed precisely the same events.
+If each government had interpreted these events in the same manner that is, if each government had agreed on the meaning, purpose, and significance of each event then one could conclude that perceptions did not matter during the Cuban missile crisis.
+If each government had agreed, for example, on the likelihood of a US invasion of Cuba, or the motives for the Soviet nuclear deployment in Cuba, or the Kennedy administration's probable response to the deployment, then information-processing could not have been a significant variable.
+Frequently there were divergent perceptions not only between capitals, but within them as well and these divergent perceptions frequently had profound consequences for the actors.
+No amount of organizational or procedural tinkering will eliminate errors associated with normal human psychology.
+Yet it would certainly be enlightening, and may even be useful, to ask whether there are patterns in the errors.
+It is clear that in the Cuban missile crisis, political leaders were more likely than professional intelligence analysts to commit motivated errors.
+While there is evidence that Khrushchev and Castro engaged in defensive avoidance and wishful thinking, there is little evidence of these tendencies within the three countries' professional intelligence communities.
+This makes sense when one considers that political leaders confront a variety of needs and aims.
+They may face domestic political pressures, pressures from allies as well as adversaries, and, oftentimes, a need to maintain their own political positions.
+Anxiety and uncertainty, in turn, lead to motivated errors in decision making.
+Professional intelligence analysts, in contrast, have more limited, better defined, and less anxiety-producing needs and goals.
+This can be a daunting task, but professional intelligence analysts are not confronted by the range of conflicting goals and needs that a political leader must face.
+Moreover, political leaders must make irrevocable decisions in the face of uncertainty, and these decisions are usually made public.
+In making these decisions they often confront painful trade-offs, and must chose among them.
+Intelligence officials, on the other hand, do not confront such tradeoffs, and do not have to make binding public decisions.
+Their responsibility is to pass on their assessments to those who make policy decisions.
+Thus, intelligence analysts should be less likely to experience the anxiety that accompanies making painful trade-offs under conditions of uncertainty.
+Of course, if intelligence analysts are operating in a politicized environment, in which certain interpretations of the data are politically unacceptable, then they might also be inclined to commit motivated errors.
+The trade-off between intellectual honesty and keeping one's job can certainly induce anxiety.
+But there is little evidence of this dynamic in the case of the Cuban missile crisis.
+A final reason why political leaders might be more inclined to commit motivated errors is that leaders are primarily responsible for policy outcomes.
+The public will hold the political leaders primarily accountable for policy failures.
+If political leaders act on the basis of faulty intelligence, then intelligence officers might suffer some of the consequences of failed policy.
+But even then, intelligence officers even in a relatively open society such as the United States are typically spared some degree of public scrutiny and accountability.
+Although there were several bodies that investigated the performance of United States intelligence after the missile crisis, such scrutiny is rare and far more diffuse than the sort of scrutiny a political leader must face.
+This study also underscores the critical role that political leaders play in intelligence analysis.
+Political leaders can influence the process of intelligence analysis, either by establishing intelligence priorities, or by including or excluding intelligence officials from foreign policy making.
+The lesson here is that even if an intelligence agency performs well, its assessments may be ignored if political leaders are not receptive to discrepant information.
+Finally, this study has found that misperceptions can have a variety of sources.
+In some instances assessments were strongly shaped by methods of processing information.
+For example, Castro may have believed that a US invasion was imminent because he engaged in theory-driven thinking, and he failed to consider evidence that such an attack was not forthcoming.
+Castro and Cuban intelligence reached different conclusions because of the different ways in which they processed information.
+Other errors reflect, or were made possible by, limitations on information.
+The CIA had no inside view on Kremlin decision making of the kind that would have made it easier for American analysts to modify strongly-held beliefs about Soviet motives and dispositions.
+Likewise, Soviet officials had little hard information on the basis of which to pin a reliable estimate of the likelihood of a United States invasion of Cuba, or of Kennedy's probable response to the discovery of the deployment.
+Fearful of being punished for advancing views that were at odds with the Kremlin's, Soviet intelligence engaged in self-censorship.
+Rather than engaging in analysis, intelligence officials presented Khrushchev with raw data, and allowed him to draw his own conclusions.
+Such practices allowed Khrushchev to remain wedded to his previously-developed views.
+Similarly, Castro sought to impose his views on the Cuban intelligence community.
+In those instances when Cuban intelligence chose to challenge Castro, the Cuban leader dismissed his officials' assessments.
+In short, operational and technical limitations, organizational and bureaucratic dynamics, and political pressures can all combine to increase the likelihood of cognitive or motivated errors.
+The accuracy and usefulness of intelligence can be improved, therefore, through organizational and procedural changes that reduce political pressures on analysts, and that address pathological organizational or bureaucratic dynamics.
+But the accuracy and usefulness of intelligence can only be improved so far.
+Cognitive and motivational psychology helps us see that there is a performance limit to intelligence assessment.
+Misperceptions that result from perfectly normal cognitive processes and psychological needs are, for analysts and policy makers alike, a professional hazard.
+In their conclusion to the volume, the editors reflect upon various ways of coping with them; I hope to have shown, however, that they can never be eliminated.
+While these are not the only judgments psychological models of decision making can illumine, they are, arguably, three of the most important.
+Broadly speaking, there are two critical steps in intelligence analysis.
+The first step is the collection and analysis of raw data obtained by technical means, human sources, and open and covert sources; the second is the sifting and interpretation of data to determine its meaning and significance.
+While in this essay I discuss most of these sources of error, I focus on the psychological processes that can lead intelligence analysts and political leaders to misinterpret correct data.
+However, cognitive and motivated biases can influence the amount and quality of information intelligence agencies collect, as well as the particular sources upon which they rely.
+American officials may have misjudged Soviet motivations because of their tendency to interpret Soviet behavior in terms of dispositional factors rather than situational constraints.
+It is natural to assume that others are free to choose how to act, and that their behavior therefore reflects basic personality characteristics.
+We discount or ignore the role that political pressures, social norms, financial limitations, and other constraints may play in determining their actions.
+For example, when the Soviet Union shot down a Korean airliner in Sept.83, the Reagan administration concluded that the incident reflected the Soviets' 'barbarism' and disregard for human life.
+United States officials attributed the disaster to their understanding of the Soviets' disposition.
+They downplayed or ignored information that the Soviets had been unable to make contact with and correctly identify an aircraft that had invaded their airspace over a militarily sensitive region, and that the shoot-down reflected more poorly on Soviet organizational and technical capacities than on Soviet behavioral proclivities.
+People tend to have a positive self-image, and to process and recall positive information about themselves most easily.
+There is a tendency to resist acknowledging or recalling negative information about oneself, and to ignore or discount information that challenges one's positive self-image.
+On 21 Oct.61, United States Deputy Secretary of Defense Roswell Gilpatric gave a speech in Hot Springs, VA, publicly revealing that the United States knew that the Soviet Union had far less strategic nuclear capability than the Kremlin had claimed, and far less also than the United States.
+Raymond Garthoff's report that CIA operatives correctly gauged the size of the deployment, only to have their estimate dismissed by analysts, lends credence to this view.
+The tendency to engage in theory-driven thinking may have been bolstered by the fact that the United States had little information on decision making within the Kremlin.
+Intelligence information came primarily from technical sources rather than from human sources.
+Consequently, United States analysts knew far more about Soviet capabilities than Soviet intentions.
+Castro, The Missile Crisis, and the Soviet Collapse ; and Lebow and Stein, We All Lost the Cold War 75.
+Some testimony suggests that Castro must have been aware of the danger that a nuclear deployment might precipitate an American attack, and that Khrushchev, much more than Castro, avoided confronting this possibility.
+Such doubts about Soviet intelligence capabilities would not have been entirely unfounded.
+For example, Soviet signals intelligence suggested that the United States was preparing for some sort of initiative during the third week in October, but intelligence agencies were unable determine the nature of the response.
+The GRU suggested that Washington might be planning some sort of military action, yet political reports from the United States suggested that Kennedy would accept the missile deployment.
+Moreover, intelligence officers were unable to warn the Presidium in advance that Kennedy planned to impose a blockade.
+On the other hand, after the deployment had begun, Castro stepped up his warnings about a possible United States invasion.
+On 26 Oct. the Cuban leader informed intelligence officials that a confrontation with the Americans was imminent.
+Cuban intelligence had no independent information to verify this warning, but was obliged to treat it as a fact.
+In late summer 1962, as the United States Congress and the American media became increasingly alarmist about Soviet military shipments to Cuba, a Cuban delegation led by Ernesto 'Che' Guevara and Emilio Aragones traveled to Moscow and proposed to Khrushchev that the two countries make the deployment public, stressing its legality, so as to forestall a hostile American response.

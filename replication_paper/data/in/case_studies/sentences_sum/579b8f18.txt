@@ -1,0 +1,895 @@
+ Reproduction of this document in whole or in port is prohibited escspt with permission of the issuing office . Foff^wijlv(^ Reproduction is prohibited in part of the document .
+ If will not be removed from the WSEG area in . (he Pentagon without approval of the Director of the . Pentagon without . approval of . the Director . If . not removed from . the area in (the Pentagon without permission of the. Director. If will . not be
+ Enclosure B Procedural Analysis of tf-3 Comsruid and Control Operations during the Cuban Crisis, October 1962 .
+ Enclosure C functional Analysis of command and Control Information Flow in the Joinb Staff during the 1562 Cuban Crisis .
+ Joint Staff Operations during the 1962 Cuban Crisis . Analysis of Command and Control In the Service .
+ It addresses itself to the substance of command and control experience that shaped the U.S. response to the crisis .
+ The purpose of the historical analysis, ao indeed of the entire study, Is to assist the Joint Staff by providing an empirical basis for improving national military command and control capability .
+ A3 is intended a3 a case study to demonstrate the actual structure and processes of command, and control attending a recent real, crisis of major proportions .
+ The central objeotive 1b is to identify significant command and control phenomena, examine the context in which they occur, isolate the critical variables involved, and determine their implications regarding the dynamics of the national military command system then in effect .
+ It seeks to expose the anatomy of the command and control mechanism in terms of how it coped with particular crisis problems . Secondly, it seeks to show how it has dealt with crises in the past .
+ Throughout the book, the onphasis is on discrete acts and explicit circumstances . The book is published in New York and London .
+ It is expressly not the purpose of thi3 analysis to pass judgment on the intrinsic merit of actions taken at any level . TOP SECRET top srrrei gr data sooRcsa 7.3 analysis .
+ All available sources of Information potentially relevant to the inquiry have been enlisted and utilized . All available information has been used in the investigation .
+ All of the pertinent sources known to exist have not been made available . However, all of the relevant sources have not yet been revealed .
+ AcceB3 to some of the primary sources of intelligence and reconnaissance data was denied on grounds of security sensitivity . Records of proceedings in the meetings of the Joint Chiefs of Staff and the sessions of the Executive Committee of the National Security Council were also denied .
+ A considerable amount of Buch information is reflected directly in secondary official sources, or can be reliably inferred from collateral and derivative documentary indications .
+ The, consist of messages, memoranda, and sundry other documents that represent mo3t of the con . Temporary means by which command and contrcl vis vis."" actually articulated at the time, contained among them are .
+ The whole constitutes perhaps the best single source extant that approaches full coverage of what happened in the crisis . The whole of the crisis is perhaps the most comprehensive account of the event .
+ Many members of the J-3 staff, and others TOP SECRET Tor srcp^T elsewhere tn the JCS organization, who participated in the command and control activities described . Intervip-wsd while their recollection of evanta *was still fresh, from themere
+ Much valuable material was made available that cast light on otherwise obscure areas . In addition., through the cooperation of the Services, much valuable material is made available . Much of the valuable material has been made available to the public .
+ Unclassified official information that had been made public were used sparingly . Moat of the published open sources offered l'ttJe new information aid were .
+ Some of the data most crucial to an understanding of what happened are irretrievable . The restrictions imposed on access to certain classes of recorded data already noted, another limitation is the fact that some of the most crucial data most important to understanding what happened . The data is irret
+ Much of the command and control activity was conducted via communication means that leave no record . Evidence suggests that direct secure voice channels such as KY-9 were widely used .
+ There is reason to believe some of the more formal communications that by their nature leave a hard-copy record, such aa messages and memoranda, were post facto official confirmations of something conveyed earlier telephonically .
+ An analagoua research constraint exists with regard to personal contacts . This is not the first time this has happened .
+ As a result of ths3s data limitations not every aspect of the analysis could be fully developed .
+ TOP SECRET 4 * TOPJfcCRET top yr rjRST ^^' i OBSERVftTIQNS OP SIGNIFICANCE TO COMMAND AND CONTROL PR5CHTSIS POLICY AND Plfll/MIUg DSyELOP
+ U.S. intelligence wag aware of the Sovlet~sponaored military buildup in Cuba., but intelligence estimates did not expect it to include strategic offensive weapons systems .
+ Intelligence evaluations and policy interpre cations saw Cuban military developments in terms of their political implications, not as a potential military threat directly to the U.S.3, itself .
+ Cuba evclved gradually on an ad hoc basis . The United States precrlais policy response to the military developments . The U.S. responded to the situation gradually .
+ Contingency planning started from a single sharp focus as a stralghtfor'./ard invasion plan, but because of continuous political requirements to . rsduce reaction tinea, progressively multiplied until by the eve of the crisis a ""family"" of plans V0.6
+ Top Secret 5 JJj^fcc a"" ©IP JACKET top .cs i *^ 17.^11 of the precrl3ia planning was oriented to a simple unequivocal contingency situation .
+ It assumed a localized limited-war confrontation involving the U.S. and Cuba alone . It assumed that the United States and Cuba would not be at stake in such a localized confrontation .
+ The predominant influenced governing contingency planning were the United States attitude toward Cuba's internal political system, which was never articulated in terms of firm policy objectives, and the local military ciroums of Cuban defense capability . JT
+ The impetus for most of the significant planning developments came from outside the military establishment . The impetus came from the outside military establishment, the author says .
+ In each instance the national political authorities, usually the President or Secretary of Defense personally, wore the prime movers v;ho . The actions were ordered by the President and Secretary of Defence .
+ On occasion, political authorities stipulated specific operational provisions be incorporated into the plans . Political authorities stipulate that operational provisions lo be incorporated .
+ Most of the substantive planning was actually performed at the LANTCOM staff level and by the Service commands designated to become LAHTCOM Service component commands .
+ The Services themselves, althoughot in the direct chain of command, contributed TOP. y^v.K-; importantly to the content of the plans .
+ The JCS had largely an intermediary, and somewhat procedural, role between planning principals, i.e., as agent betwaen those who levied planning requirements and those who fulfilled them . JCS played a largely procedural role in the planning process .
+ The pattern of command and control processes was correspondingly variable . The pattern and control process was corresponding to a variable pattern .
+ The complex of incomplete ana overlapping plans, rather than being a product of comprehensive programmed development, emerged piecemeal without benefit of a common overview or master design to lend focus and direction to their evolution . As a result of incomplete plans, the complex of unfinished plans, instead of being the product
+ The precipitate onset of the crisis, and its unanticipated character, caught the U.S. by surprise . U.N. Secretary of State Hillary Clinton says the crisis was unexpected and unexpected .
+ Covert discovery of the presence of Soviet offensive missiles in Cuba had revealed a suddenly materialized strategic confrontation of the firHt order directly with the USSR, in which vital U.S. interests were threatened .
+ The crisis situation at hand was quite different from the abstract model of a Cuban contingency such as had been contemplated in plans . The crisis at hand is quite different than the abstract models of the Cuban contingency .
+ U.S. national response had to be devised on an ad hoc and short-term oasis . Because of the unexpected nature, gravity, and imminence of the ■che threat, an immediate response was devised .
+ The earlier broad policy objectives vis-a-vis Cuba were abruptly abar-dored . The U.S. concern became limitedj to a return to the status quo ante missiles .
+ It was taken out of the usual institutional channels as Boon aa the significance of the photographic evidence waa recognized, and put into the hands of specific personalities .
+ The focus was the Executive Office, with the President immersed in every step of the process . The focus of the project was the executive office of the White House .
+ Those directly involved in the decision-making group advising the President numbered very few and were almost exclusively civilian officials . The group was almost entirely civilian officials.
+ The JCS had neither a direct nor central role in formulating the basic national decision . JCS itself, aa a corporate body, had no direct role in forming the decision .
+ Only the Chairman participated in the NSC Executive Committee's deliberations . NSC Chairman participated .
+ Joint Staff generated no formal staffed inputs designed to structure or influence the choice of alternatives . The Joint Staff, in the institutional sense, generated . No formal staffed input was designed to influence the decision .
+ The basic national decision on the U.S. response to IS began to emerge on IS October, four days after the initial evidence of the crisis situation was acquired . The decision to respond to the crisis was made four days later .
+ The proposed course of action agreed upon was tentatively adopted by the President on the afternoon of the same day . As implementing preparations got under way, the United States was rapidly committed to the choice made .
+ The commitment became formal two days later on the TOP SECRET 9 J& '«pwk< TOP 3ECH3T -""^ evening of 22 October, with bM President's public diaoloaure of United States intentions . The commitment was made public on 22 October
+ One week had elapsed between the time the issue first came to the attention of the national decision authority and the time when the course of action was decided upon as the United States response went into effect .
+ The basic national decision was, in essence, open-ended, namely to employ minimum force initially yet be in a position to raise the Scale to any level that circumstances might require . The concept amounted to responding in graduated stages, with the first course of action (Imposition of the naval
+ Within the framework of the . decision, successive moves were to be contingent upon Soviet reaction to the first . The basic decision was to be made within the framework .
+ The rationale underlying the open-ended decision to adjust progressively the U.S. response was that the Soviets would be forced thereby Into a reactive role, vrffch the burdsn of choice on tnem .
+ Eiey coul<relther elect to disengage early at relatively little cost or, alternatively, risk allowing the confrontation to escalate to unknown proportions . Eieiey: "Eiey can choose to engage early or risk letting the confrontation escalate"
+ The opening course of action planned and launched > unilaterally without prior consultation with Allies . Because of the need for eeoreey and speed (In order to spring the U.S. response as a surprise before the missiles ' ' .. become operational), the basic national decision was arrived at
+ The overseas Unified Commanders were not formally apprised nor consulted until shortly before the decision was Implemented . For similar reasons, the overseas Unite Commanders did not formally consult .
+ Tfc ""fas equally important to gain Allied political and military support in order to present a common global posture that would deter the USSR from risking escalation of tne crisis" Tfc. Tfc: "Fas equally Important to . gain Allied support in . order to . present
+ USCINCEUH and CINCARIB, the overseas Unified Commanders most immediately concerned., were especially hampered by the strategic requirement for surprise . The JOS were not authorized to alert and inform them of the developing situation in advance .
+ Last-minute notification imposed the added hand of l'ctle time available for planning and operational preparations in anticipation of possible repercussions .
+ Besides the direct effect on readiness of assigned U.S. forces, it precluded timely military coordination wich friendly forces of host countries . The United States has not been able to coordinate with the host nations .
+ In the case of CINCEUR, the constraints and obligations implicit in the existing U.S. -NATO relationship posed fundamental command and control dilemmas . The U.N. and NATO have been involved in the NATO-U.S.-NATO alliance .
+ On the political side, a certain degree of policy coordination was accomplished through the ad hoc means of the President personally communicating with key Allied leaders . A personal emissary was sent to the North Atlantic Council .
+ A major strategic problem was to coordinate NATO-committed U.S. forces in Europe with the remainder of United States national forces elsewhere in connection with a contingency that geographically fell outside the sphere .
+ In the ease of CINCARIB, one of She chief coordination problems revolved around the limited CARIECOM capabilities in relation to the extent of assistance . Latin American gov~rnnents would be required to suppress internal uprisings in support of Cuba .
+ The residual force resources of CINCGTFfflCE severely restricted tne augmentation available . It was aggravated by the fact that the residual force . resources of the CincGTFFFlCE were severely restricted .
+ U.S. policy objective of actual Latin American military participation in operations against Cuba . Another coordination problem attended Implementing the United States policy objective .
+ On botn scores, complex politicomilitary arrangements had to be negotiated quickly, /rifch each country involved having to be dealt with on an Individual national basis . On Botn scores: Complex politicomilitarism .
+ Allied political support of the United States position in fch2 criaia was achieved when all of the Allied governments declared their official backing J In Latin America . Some military support was also obtained .
+ NATO powers because of standing attlt;d-_3 an the Cuban issue and differing perceptions of the crisis threat, gave little military support to the overall deterrent posture . But NATO powers, because of the Cuban issues and differing . perceptions, gave . little military . support .
+ Even coordinatJou of United States military operational activities vis-a-vis Allies was conditioned by local policy reservations . Of a leaser order, even coordinatjou of U.S. military . operational activities .
+ The problem of keeping them properly synchronized with one another and, together, all in phase with political developments, is to be kept in place . The problem is keeping the system in place, from the white House to the forces in the field, is the problem .
+ The U.S. could benefit from it, because the magnitude of activity would tip the United States hand and might be undesirably provocatHreTf .
+ Optimum mobilization had to give way in favor of promoting a national image of deliberate rtstraint balanced oy firr. determination .
+ The U.S. hoped the purpose of military operational preparations would be symbolic as an earnest of United States intentions in the larger dialogue witn the Soviet Union .
+ Hovjever, the CONUS-based CINCs, i.e., LAIVT, SAC, GONAD, were not officially informed by the JCS of v/hat the U.S. course of action would be until 21 October . Hov
+ Actual operational air deployments began on 17 October, v/ell before a national decision had been reached . USAP forces, especially, exploited to advantage she grace period .
+ The effect was &t once to expand and narrow the ocopej type, and degree of combat readiness required and permitted . Measures to deal wixh tne local contingency inescipally iinp-'.-^ed upon general issueaa .
+ There wa& a notice.c u le reluctance on the part of the JCS to make precom,iUttins decision defining the criteria for initiating, and the parameters for conducting, coi>oit opex'ationo not explicitly cevsred in plana
+ The guidance provided by the JCS that ostensibly was to govern U.S. reaction in the hypothetical exigency in question was something so Qualified as vo be gelfcontradiefcine . The guidance was something that would be so qualified as vo gelfContradief
+ The resulting ambiguity tended to enhance centralised control at the highest level, for it insured that field commanders would have to seek authorization before taking a potentially serious move .
+ Current operational activity connected with readiness preparations under >i-v accounted fcr many urjeiiu ^u^ataniive problems to which the military coiimiand and control system had to address itself .
+ Limitations in available resources, particularly forces, forced rescheduling oi ctovenenta and revising of staging plans . Monitoring of all fcne forces 30 affected in order to keep abreast of the atatua of readiness .
+ Joint Staff is the focal common denominator embracing the various Service interests and command echelons involved . The burden of attendant command and control functions fell on Joint Staff, specifically on J-3 .
+ When operational conflicts arose oet jeen CINCs, as in ths case cf competing demands of LAilTCCM contingency air dsplojmentff against those of CONAD and SAC, coordination was effected .
+ The degree of detail in which so ,1-5 of thss2 -rociems had to be approached before they could be resolved by the JCS imposed . Intensive ad hoc information and staffing support requirements on J-3.2 . The JCS imposes corresponding ad hoc
+ Discrepancies oecweers operational noeds of a CllfC aid logistic resources and capabilities of a Service similarly had to be reconciled at the JCS level . Discrepancy oecwers operational . noeds have to be re-ordered at JCS
+ Sometimes these required that the JC3 render explicit rulings on the technical and teetical details of operational deployment for the CINC concerned .
+ J-3 had to improvise information retrieval and perform technical staffing to support the JCS disposition of the problem . Jin t-e process, because an appropriate ready data base was not normally maintained vrithin the OJCS, J-J-3 improvised .
+ During this second phase, the pei'epective of the JCS role gradually reverted to broader overall functions of conveying requirements, review, and approval . The role of JCS has evolved into a broader overall role .
+ The limited, selective naval Quarantine that was actually implemented ae the initial course of action in the 3, response waa essentially a form of military demonstration in support of diplomatic measures, MevertheJ ico . It constituted the most critical area of command .
+ Soviet reaction to the Guarantlne was pivotal to the overall national strategy for dealing with the crisis . Since subsequent decisions on other political and military moves viould be dependent in large measure upon Soviet reaction .
+ Quarantine operations received the intensive attention of national decision makers . Command and control related to them was subordinated to considerations other than military operational criteria alone . The operation was closely followed by the U.S. State Department .
+ Fundamental ad hoc adjustments to the cstaollshed Institutional command and control system were occasioned early in the cri3ls by she desififiation of the CWO to serve a JCS represprpr.tative for the Quarantine .
+ She affect wis to shift the focus of Quarantine command and control from th3 Joint Staff to OPNAV, thereby precipitating a series of secondary charges in staff organization and procedures .
+ At crucial junctures, ertire system was radically compressed; national decision makers preempted tactical command . Decision makers would exercise direct operational control over the immediate actions of Quarantine.sk force unital 54 .
+ The Secretary of Defense, the CNO, and thcirj TOP SECRET fc tW#ECRft'il relayed explicit White House instructions via secure voice cnanneli directly to ships assigned to carry out intercepts . The first instance of similar real-time
+ Ajfchird instance was in connection with non-Bloc vessels, particularly in the case of stopping and boarding the Sovietchartered Lebanese freighter MRUCLA .
+ The terns of the bilateral U.S.-Soviet inspection arrangements that were negotiated on the political level, however j covered in comprehensive detail the operational procedures to be followed . The tern of the inspections was negotiated on a political level .
+ Command and control considerations pervaded contingency planning during the crisis . The U.S. military responded to the crisis with a plan to deal with it .
+ The function of the plans themselves was escantially aa a venicle of command and control to optimize military responsiveness to national political direction . The functions of the plan were escantically aaa aa .
+ Concern at political decision-making level with operational details deemed criticcJ to the larger U.S. strategy in the crisis accounted for most of zhe planning activity . Concern at che political decisions-making levels were largely determined by the content of cho provisions .
+ The contingency plana became the midpoint on a projected spectrum of military courses of action ranging from the naval Poarantine, on one extre-ne, to general -rav on she other . Because Cuba .ias the immediate locua of the crisis issue, the plana remained central
+ Much the same general patterns as had been evident before the crisis characterised cor.t1n3er.cy plannue-.p-nence c___\^c the crisis . Only they were wore pronounced .
+ Helthar of the two contingency plans ever reached final completion, but, owing to modifications and additions, were constantly in a state of transitional growth . The two plans were never completed, but they were constantly growing and constantly evolving .
+ The plans as a whole, rather than being narrowed by materialization of the crisis, progressively expanded in dimension and detail . Although individual portions gained specificity, the plans as well as being narrowed in detail .
+ "The cumulative effect over time was a considerable transformation of the original plana. The cumulative effect of the plana was to transform the landscape .
+ The associated command and control processes also were similar to precrisis practice . "Precrisis practice" was similar to pre-crisis practices .
+ As in other crisis-related military activity, the hignest echelon of national political authority interposed itself into contingency planning machinery .
+ The typical role of the JC3 was, as before before the crisis, largely still that of intermediary agency between planning principals . The JC3 is still an important part of the planning process in planning .
+ Within the OJCS, a special ""Cuban Planners" group was created in the Operations Directorate to deal with""] 3 r pair DiMfra TOP SECRET ^con tingency planning matters exclusively .
+ Organizationally separate from the Joint Battle Staff or regular Divisions and Branches of J-3 . Cuban Planners functioned independently of established channels and procedures .
+ A separate staff was formally activated to handle Cuban contingency responsibilities, including planning . Rather than substantive planning, their job was one of monitoring and providing informational coordination and staffing, support .
+ Cuban staffing was informally integrated into the regular permanent CINCLANT staff . Staff performed the Cuban staffing along with general-war staffing .
+ Lack of unequivocal criteria for determining, the approval status of basic plan3, components, and changeo at any given time made for an element of procedural ambiguity, potentially of farreaching command and concrol consequence . Lack of unambiguous criteria made for the . element of . procedural ambiguity
+ Various kinds of approval, and inconsistencies in their application, made it impossible to know which particular planning provisions were currertly govsrning and official . The city's planning process has been riddled with errors and errors .
+ Stringent security restrictions imposed in the early stages of the crisis were an added constraint militating on full and timely dissemination of planning information to all staffs and forces affected by the plans .
+ The themes that dominated preerisia contingency planning were the major planning problem areas during the crisis . The same themes dominated contingency planning as the crisis unfolded .
+ Crucial to the whole command and control procegs involved was reciprocal Information exchange . Crucial was the reciprocal exchange of information .
+ As the number of planned specific courses of action multiplied, settling upon reaction times that were both politically acceptable and militarily feasible necessitated intensive coordination between planning and operations . The various reaction times were firmly codified and universally understood .
+ The elaborate definition of selective options in ascending order of magnitude, coupled with austere reaation times, grew out of Presidential demands for precise and virtually instantaneous military response capability to implement predetermined operational courses of action . On call .
+ Such fine-grained choices from a range of programmed/ TOP SECRET 22 /alternatives as was ultimately provided for in the contingency plans made for unprecedented national decision flexibility . J. J. .
+ Augmentation of force level commitments for contingency operations accounted for extensive planning modifications throughout the crisis period . The U.S. military says it has increased force levels in response to the crisis .
+ The steady force increase was partly related to order-of-battle intelligence factors, and in part to planning refinements designed to accommodate secondary or peripheral requirements . The chief motivation was the desire on both operational and policy levels to Insure adequate safety margins .
+ Tactical commanders on various echelons were inclined to add, on their own initiative, combat strength in excess of what they were authorised to deploy . The plan3 would subsequently be adjusted accordingly .
+ On the other, political decision makers, remembering the Eay of Figs e::perience, formally directed ■ further large-scale augmentation, even in the face of military advice to the contrary .
+ The essential information requirements for staffing support TOP SECRET fCl'^ dp aJrcR TOP i^TOEl TOP SRCRET of many planning actions were fundamentally in the realm of Judgment .
+ Some of the information inputs demanded of the military command and control system amounted to hypotheses in a subjunctive mode, rather than hard data in the sense of verifiable facts . The information was demanded by the military, but not hard data .
+ Successful resolution of the crisis was achieved primarily through diplomatic measures conducted at the national political level . The crisis was largely resolved through diplomatic efforts conducted by the government .
+ The specific means employed were bilateral communications in the form of a dialogue involving an exchange of messages between the United States and USSH heads of state .
+ Military command and control had no direct participating role in the actual dialogue itself . The U.S. military did not participate in any of the discussions .
+ In the light of the continuing missile buildup, the JCS, as a corporate body but minus the Chairman, formally proposed implementing the contingency plans in 24 hours . The JCS proposed implementing plans in the meantime unless there is evidence of Soviet compliance to remove the missile threat .
+ The Chairman disagreed with the JCS position and independently submitted his own separate reconmendarion that . The Chairman disagrees with the Chairman's position and separately submitted a separate reconamendarion .
+ The Chairman had been unable to participate in the JCS deliberations be« u « at the time he was at the White Hou ne functioning in a staff capacity as a military member of the NSC Executive Committee .
+ Many command and control requirements, though less urgent and less crucial, are now less urgent . Attending the gradual military unwinding that characterized the termination of the crisi3 were many command and . control requirements .
+ A series of decisions and complex operational coordination was necessary to maintain a balanced and orderly stand-do\m of operational readiness in phase with political developments, the author says .
+ A decrease in intimate participation by national political decision makers in the immediate operational details of reducing military readiness, military officials say .
+ Ad hoc military command and control adjustments were abandoned, although not necessarily ,to revert to precrisis arrangements . As tensions eased and the crisis subsided, the ad hoc military commands were abandoned .
+ A number of basic changes in command and control organization procedures wsre put into effect even before the cri3is was over . Within the Operations Directorate of the Joint Staff, particularly .
+ There was little tendency on the part of the Executive Office to relinquish centralised control and delegate autonomous prerogatives along institutional lines .
+ During the first three years of Castro's rule in Cuba, it became quite clear that the Soviet Union fully recognized the advantages to be derived from a Cuba hostile to the U.S. The Soviet Union recognized that the advantages of a hostile Cuba .
+ Cuba became the recipient of moral and material support from the Soviet Union . The latter, in the form of economic aid and military equipment, probably had a greater symbolic than actual impact .
+ It was a marked change in this pattern which led to the missile crisis of 1962 . The missile crisis was the result of a change in the pattern of missile tests .
+ President Kennedy made the first statement in regard to the increased flow of iien and materiel at his ores-a conference on August 22 . President Kennedy said the flow of materiel and iien is increasing .
+ On September 2, the Soviets confirmed what had been knosm by announcing an agreement to aupply arms to Cuba and to provide specialists to train the Cuban armed forces . The Soviets confirmed the agreement on September 2 .
+ Such forceful action, however, required more concrete information and evidence than *ias currently possessed, he says .
+ In the light of the abortive expedition to the Eay of Pigs in April 1961, political reactions had to be considered . Furthermore, political reaction to the aborted attempt to invade the Eays of Pigs was considered .
+ U.S. policy was to rule out invasion, but to keep up relentless pressure, with the economic emoargo the United States had placed on Cuba, to isolate tne island, and to allow internal forces build up to the point where the Castro government could be overthrown .
+ The President himself ruled out invasion in an August 29 press conference . In a reply to suggestions from Congressional sources that the presence of Soviet troops violated the Monroe Doctrine .
+ The United States would depend upon nonmilitary measures to hamper, if not prevent, the flow of arms to Cuba . However, for the moment, the U.S. would depend on nonmilitary means .
+ "For these measures to have effect, the cooperation of our European and Latin American Allies would be indispensable," says President Obama .
+ A large part of the Soviet commeroe with Cuba was carried in Free World bottoms . American decision makers were aware of the problem . B AraSMPglNO TO IMPLEMENT .
+ In the same period, Free World ships carried about 55 percent of the Soviet oil on which Cuba depended . In the 1950s and 1960s, the Free World oil was carried by the Soviet Union .
+ Free World ships also carried almost 3o percent of the dry cargo received by Cuba . Free world ships also carry almost 3 o percent of dry cargo .
+ Ulies consulted with NATO Ulies w^ose shipping firms had chartered vessels to the Eloc, but no major gains had been made .
+ American dissatisfaction with the situation formalised on September 20 when the House of Representatives approved the foreign aid bill . The bill included amendments which would cut off all aid both to states whose ships carried arms to Cuba, or which sold or furnished arms or supplies of strategic value like petroleunij
+ The Senate voted to restore the President's discretionary power in the second category, to determine whether or not such withholding of aid would be contrary to the national interest . The depth of American concern and intent was made manifest .
+ In the second half of September, some small progress appear3d to be made in enllstins tne support of Western European Governments in measures to restrict the use of their shipping by the Soviets in the Cuban arms traffic .
+ On September 22, Secretary of State Rusk met with the Britisn Foreign Secretary, Lord Home, to discuss the enbar&o . He then conferred *iith Norwegian officials fcne following day .
+ Turkish shipowners agreed to halt all cargo shipments to Cuba on September 27th .
+ Lack of success led the Administration into consideration of harsher and far-reaching embargo measures . Lack of successful measures led the administration to consider harsher measures .
+ The letter suggested nonnaval courses of action which could have the effect of naval actions . The least effective measure was a Presidential Declaration that ships calling at Cuban ports may call at United States ports immediately thereafter or for a specific period thereafter .
+ The inhibiting effect could be heightened by requesting Western countries, especially Latin America, to maj-.e similar rulings .egarding ships not specifically protected by treaty .
+ Seme of the beneficial ovmers who could easily operate a fe"" ships to Cuba without using U S ports would be greatly inhibited by the financial burden of having to-lng th^se ships home empty and in ballast from the Vtestern Hemisphere .
+ U.S. ports would be closed until further notice . No ships belonging to the beneficial ovmers of any ships calling at Cuba would be allowed into the U.K. ports .
+ This action would have amounted to blaolc -listing owners and their entire fleets if a single ship called at Cuba . The action would be equivalent to a blolc-listing ban .
+ Such a declaration would admittedly be difficult but not impossible to enforce . The declaration would be difficult to enforce, but it would be possible to do so .
+ The Secretary of the Wavy pointed out that, from the Havy's point of view, all three courses of action were legal . The-*e must also be taken into account the opinions of all other Government agencies in regard to subsidiary * effects upon U S trade, foreign relations
+ No U.S. flag ship and no U.3.-ownsa Slip shall csrry g&oda tc and from Cuba . Close all United States ports to any ship that on the same continuous vojage .rcis used in Bloc -Cuban trade .
+ OAS was informed of these 1 measures by the Secretary of State on October 2 . The United States recognized that these measures may cause problems for shipping companies in some NATO countries .
+ North Atlantic Council representatives seemed to appreciate the seriousness of the U.3. presentation . Reactions to the forthcoming measures were obviously mixed .
+ Greek Shipowners Union in Athens announced that It would recommend to Its members a total embargo on cargo snipments to Cuba . A major success was achieved, when on October 10, the Greek Ship Owners Union announced that it would recommend . Its members would also recommend to
+ Britain came second on the list with 77 ships . Britain was the most successful country to have made the list .
+ London shipowners oppose any U.S. restrictions on their trade with Cuba . Brltisn shipowners voted unanimously on C:tobsr 11 to oppose any restrictions .
+ Hie telegram summarized the nonmilltary stage that had been reached in U.S. policy just before the receipt of positive intelligence of Soviet offensive weapons abruptly turned American efforts toward more forceful measures .
+ U.S. policy was intended to deny Bloc and Cuba access to Free World shipping for use in arms shipments to Cubaj . Policy intended to make Bloc-Cuban trade as costly as possible for Free Vforld shipowners .
+ The United States itself did permit exports to Cuba of certain foodstuffs and medical supplies . The U.S. did permit certain food and medicine supplies to Cuba .
+ A State Department cable of a few days earlier had stated that although it wanted to hear of significant reactions, in thi3 case from Latin America, to the United States Pour Point Action program, adoption of the measures was not dependent upon the reactions Gff others .
+ This, then, was the nonmilltary aspect of U.S. -NATO relations over Cuba . This, however, was a non-military aspect of the United States and NATO relations .
+ Until late in the sumner, U.S. decision-makers appear to have considered Berlin the next crisis area rather than Cuba . Until late, American decision makers appear to be focused on Berlin .
+ The impression given in Washington was that a new crisis in Berlin might have to be faced by the turn of the year, assuming Khrushcncv kept his promise not to sign a peace treaty until after the American elections .
+ The apparent U.S. insistence upon keeping the suo;ecfc current led to some puzzlement among observers . The apparent United States insistence on keeping the current led some puzzlers .
+ Berlin remained the saoject of greatest U.S. and NATO public attention until virtually the very day of the President's proclamation of the Cuban quarantine . Berlin remained a saovel of greatest United States and NATO . public attention .
+ The six-anda-half-hour conversation between the President and Soviet Foreign Minister Gromyko on October 18, in the midst of preparations for the United States Cuban move., dealt in greater part with Berlin .
+ U.S. decision makers conceived of a direct relationship between Cuba and Berlin, it was obvious . It was obvious that American decision makers intended to make the move .
+ The development of the Soviet base in Cuoa could be viewed as a pawn to be used in the greater game over Berlin, even if no offensive weapons had been introduced .
+ The possibility of the introduction 'of these weapons made the relationship all the mors certain and critical' 'The relationship with the U.S. was all the most critical and most the most important of the relationship'
+ Secretary of State Rusk painted out the ""direct relationship"" between events in Cuba and Berlin, particularly In lhf> next three months . Secretary Rusk gave a briefing to a joint session of the Senate Foreign Relations .
+ The theory expressed was that the West's invasion of Egypt distracted world attention from Budaoest, 1 permitting the Russians a freer hand . vJBjLX s so 107.1 .
+ In the light of discussion of the Cuba-Berlin relationship, it waB inevitable that public speculation should develop over the possibility of a ""deal"" between the United States and the Soviets .
+ Cuba also became linked in this speculation with the U.S. base system overseas . Cuba also has been linked to the United States base system abroad .
+ Secretary of State rejected the idea of a deal with the Soviet Union under which the Soviets would withdraw from Cuba in return for the U.S. closing down some of its overseas bases . The deal would see the United States pull out of Cuba in exchange for a deal to close some of
+ Izvestia on October 17 denied rumors that the Soviets were sponsoring a deal, and rejected the idea of any effort to link Cuba to either Berlin or to the United States overseas oases .
+ It was felt that the U.S. would invite Soviet pressure in Europe and thus provoke the very orisi3 we were seeking to delay if not avoid in Berlin, 111. ssqgffi .
+ President specifically warned the Soviets against interfering with U.S. access to Berlin or against any other ""hostile moves"" The very fact that the President, in his address on October 22, specifically warned . the Soviets . against interfering . with United States access to . Berlin .
+ U.S. policy toward Cuba was not so much mercantile as political, it was political . Tiie interest of the Latin American states in the ne**» American policy on Cuba was political, he says . The Latin American interest in Cuba was the interest of Latin American
+ For some states in or bordering on the Caribbean, there tras also a military interest, .since they had been the objects of several Castro-inspired little filibustering expeditions around the Caribbean .
+ At the governmental level there was a strong antipathy to.rard Cascro's Cuba . At the . governmental level at least there existed in these states .
+ Major Cariboean state, Mexico, had shown itself most cocl toward earlier U.S. efforts to penalize Cuba .
+ The rapid growth of Cuban military pc/er during the year had shaken complacency and tolerance . Cuban military has shaken complacent and tolerance in recent years .
+ Secretary of State Rusk met with the Ambassadors of nineteen Latin American states on September 5 . His declaration of U.S. determination to prevent the export of Communism from Cuba was well received .
+ A more specific statement of U.S. policy was made by the Secretary of S-cate on September 25 to the Foreign Ministers of Chile, Haiti, Peru, and Venezuela .
+ The Secretary reviewed the Cuban situation, emphasizing the rapid Soviet build-up . The Secretary of State spoke to reporters in Havana .
+ Only three or four hours' preparation would be required to reduce effectiveness of Soviet war materiel so far received since July, he said .
+ If it should be .lacessary to use force, the U.S. would use the maximum nonnuclear violence in order to minimize time and casualties . The United States would use nonnuclear force in order 1 to minimize casualties .
+ The United States was advised to avoid this course since it would leave lasting wounds both in Cuba and the U.S. However, the United States wanted to avoid it since Cuba was a key ally in the region .
+ Cuban aituation was in no way comparable to or linkable with situations elsewhere, such as Berlin or U.S. military assistance relationships with other free countries like Turkey .
+ He stressed that the U.S. was not seeking to import the cold war into this hemisphere or to drag the OAS into problems not their responsibility . The United States did not seek to import a cold war, he said .
+ The invitation was sent specifically to aiscuss the Cuban situation in rhe lijht of the Soviet build-up there, which had increased sceadily .
+ The United States Secretary of S'ate reviewed recent developments and the U S response in th2 setting of a worldwide Communist offensive, lie expresses tho vj.e 1 that ,-he Soviet Union would not go to /far over Cuba, but reassured the OAS ministers tnar
+ There was a military side to the conference, for which United States planning provides an interesting background for the concept of United States -Latin American military cooperation which emerged during quarantine operations a month later .
+ IdeaB is shown to have been under consideration for some length of u_ne. In fact, these ideaB are shown to be under consideration .
+ The CJCS in his reply first warned that in the preparation of a public political statement to be isBued by the Foreign Ministers, there be no mention of invasion or the use of blockade as a major means of handling Cuba .
+ The Chairman pointed out that the JCS had already taken actions along thdse lines in August 1962, having directed CINCARIB and CINCLANT .
+ The U.S. position at the meeting should lay emphasis on these actions and invite greater participation . However, the actions were clearly dependent upon participation of the states concerned, the U S. says .
+ If it were considered politically desirable to elicit surveillance contributions, Mexico, Venezuela, and Colombia were capable of providing assistance . Mexico and Venezuela could provide surveillance assistance, author says .
+ He warned that creation of a multinational force would require that contributing natioiis be prov_ded with add_b_oial fuel support .
+ The central thene of the United States at the meeting should be to encourage a marked unilateral effort -and multinational cooperabion in the 1 maximum utilization of existing facilities and forces . Nevertheless, this position need not preclude encouraging cooperation among the Caribbean states .
+ Precri3IS MILITARY CONTINGENCY PLANNING A General CHARACTERISTICS OP THE CONTINGECA PLANNING 127. A General . Commander of the U.S. Armed Forces will be responsible for the United States’s ability to conduct a U.
+ The main vehicle of preparation for the Cuban crisis was the military contingency plans . The military contingency plan was the Cuban military's military plans .
+ Long before the event, relatively elaborate planning had been undertaken in anticipation of a contingency arising that would require U.S. military action against Cuba . Long before this, the United States had been preparing for military action .
+ By the eve of the crisis, there existed a body of contingency plans in various stages of development, some completed and formally adopted . Others were being formulated, undergoing revision, or awaiting review and approval .
+ Togsther said the plans were the prepared point of departure for a U.S. military response to a Cuban contingency . The plans were developed, to the extent of the extent they were developed .
+ The compass of these precrisis contingency plans was intended to be comprehensive . The compass is meant to be a comprehensive, comprehensive plan .
+ Within the bounas of the contingency postulated, the rai-.-e of optional courses of action under consideration was fully expected to cope with whatever the contingency presented . The situation was expected to be handled by the Government .
+ A/han the actual contingency materialized, the resulting plans were found to be less than allinclusive and fell short of accommodating the entire military dimensions of the total crisis .
+ The state of the planning at the time the crisis occurred proved less than propitious . Furthermore, over and above limitations of concept, the state of planning .
+ Tj 130. pone of the working assumptions on which precris-s plana were predicated took into account the possibility of a contingency of strategic proportions in a general war context .
+ The conduct of the planning, with its ever-changing terms of reference, did not permit a systematic program of orderly integration and fallowthrough of the various plans initiated . Nor did the conduct of . the planning . of the . planning .
+ The complex of plans addressed to the hypothetical situation was not rendered invalid . Nevertheless, different as the character of the real contingency turned out to be, the plans were not invalid .
+ With appropriate modification, plans applicable to one of the major military aspects of the crisis eventvally emerged . With appropriate modifications, plans have emerged .
+ In view of their formative role in influencing subsequent crisis experience, it is necessary to trace the ontogeny of the precrisis plans a^d ^econstr'ict the contemporary environment in i/hich plannirg developments occurred .
+ In the course of isolating the impetus, rationale, and circumstances of particular planning actions taken, significant command and control pnenomena bearing, upon, contingency planning processes can be identified . This includes the impetus and rationale of certain planning actions .
+ SECRET _ jjj, iin, Refits -GREr TOP JACKET L "" top sscira T , ™ s . s . T - "S" is a secret code word for a secret weapon of choice .
+ Their provenance goes back directly to ths abortive Bay of Pigs adventure of 17 April ' 1961 . The provenance of the 'Bay of Pigs' adventure goes back to 1961 .
+ The terms of reference laid down by the President 1' at the time stipulated that the plan provide for the use of . ""overwhelming force"" in order to insure success of the operation .
+ The plan was intended to bring about the sub',' jugation of Cuba in the shortest time possible, and of mini} ' ' mizlng United States and Cuban casualtie s, / l 133. phis .
+ Identified ss ""Contingency Plan 1,"" it became 'the basic national contingency plan for United States action'" regarding. U.S. military action .
+ A plan that had been produced, in accordance with the President's directive, called for a relatively large-scale military operation, to invade, subdue, and occupy Cuba . The mission to be accomplished was to overtures; the Castro regime by military force and install a government acceptable to
+ It set forth the terms of reference laid down by 'trie President, defining furtner the conditions and . that would apply, and specif led • the means that were authorized to achieve . United States military objectives .
+ To carry out the tactical phase of the Invasion, the plan provided for the employment of 60,000 troops, excluding naval and air units . The plan stipulated that all the forces involved, whether land, sea, or air, were drawn from existing force levels .
+ Execution of the plan would require a leadtime of twenty-five days from the date of decision to the commercing of D-Eay assaults ' 135. ;0n 29 April 1961 the President .
+ He approved the general outline of the plan, but demurred with respect to what ne considered an unduly long reaction time . The plan was approved by the judge, who said it was too long .
+ Rejects the twentyfive -day Interval provided for between decision and execution, he requested that tae leadcine period bs drastically reduced, suggesting no more than a weet; as being desirable . Rejecting the twenty-day interval provided .
+ The Cuban President first raised the issue of reaction time on 29 April 1961 . The issue was first raised by President of Cuba in 1961 .
+ The discrepancy between ideal political requirements and realistic considerations of military operational feasibility was never reconciled . But efforts to close the gap lent unforeseen complications to the planning task .
+ The Precedent's demand also marked the beginning of a pattern that was to persist until the 2962 crisis was over . The demand was to be met by the end of the crisis .
+ Intensive political . direction in technical military . operational matters proved to be a saliew . characteristic of how the United States . response was managed . Intensive . political . political political .
+ The Secretary of Defense instructed that the Joint Staff and CIHCLANT be assigned responsibility for preparing the necessary detailed military plan to carry out the course of action prescribed in the national plan .
+ Contingency Plan 1 outlined in Contingencies Plan 1, and those laid down by the President . Secretary added guidelines of his own .
+ Citing the requirement regarding lead-time, he emphasised that the military plan was designed to minimize the time necessary for executing the operational response after an order was received .
+ ProQuest Information and Learning, The Quorum, Barnwell Road, Cambridge CB5 8SW, England inpip^^ ffllW w www INCHES I 1 I • 2 iiililJil.ilililiiililil-il-ili-il
+ An exclusive ta3k-force-type group (informally referred to a3 the ""Johnson Task Force""), whose very existence was kept under wraps, was created and functioned in shadowy isolation from bhe regular affairs of the various divisions and branches of JCS Directorates
+ Separate procedures were followed in order to limit the number of people who might have acoess to information that was now considered extra sensitive . Separate processes were also used to ensure that information was confidential .
+ From then on, anything pertaining to 'bo Cuba was so closely held that only a few designated individuals were privy to what was going on . Only a few select individuals are privy of what's going on in Cuba now .
+ The rigid security measures thab had been imposed acquired., through time, an inertia which was never completely overcome even in the midst of the crisis, when pressing operational needs of the moment, demanded somewhat broader access to the data . It was never fully overcome even during the . the . crisis
+ The principal difference between the two was. that the newer plan provided for increased forcea and an expanded operational concept . The new plan provides for increased . forcea . and an increased operational concept.
+ On the baBis of precedent and an existing cognate plan, CINCLPOT planners were able to prepare a draft outline of the required contingency plan .
+ The draft outline plan was submitted ""to JCS for review" on 19 May following the President's directive . On 19 May the draft outline was submitted to JCS .
+ Referring to the serious problems that this posed, even if it were feasible, he recommended that it would be in the interest of military efficiency to allow more lead-time than five days .
+ JCS: More time than five days should be allowed between the order to execute and the initial assault . JCS concludes that more time should be given between the orders and the assault .
+ They agreed that even if I / the readiness posture required for such a capability could be achieved, it could not be maintained long because of costs involved and dislocating repercussions on general force poBture elsewhere .
+ A realistic plan baaed on five-day lead-time is not realistic, says JCS . Availability of assault sea transport was the determining factor, the JCS view says .
+ JCS decided to approve quick-reaction outline plan for planning purposes only, whila trying to obtain authorization bo extend leadtime as CINCLANT had re contended . Three days later, on 16 June 1961, the JCS advised th-s Secretary of Defense that more le
+ CINCLANT was instructed to continue to develop the required quick-reaction plan . The concept of operations on which it was to be based was an early airborne assault followed by seaborne build-up .
+ This plan would apply in case a sudden emergency situation necessitated such rapid response . The plan would be applied in case of such an emergency situation .
+ JCS granted CINCLABT, the requested authorization to proceed to develop his proponed alternate plan of (eighteen -day ^reaction tine as a matter of priority [ lHj, V) JCS i^i 3ati l*i motion t'
+ It was approved by JCS on 30 November 1961 . Subject to cerfcaJn conditions, including incorporation of specified ohangeo .
+ OPLAN 31^-61 provided for simultaneous airborne and amphiblwus assaults against western Cuba, concentrating on the Havana area . A concurrent ampr.ibious assault on eastern Cuba was planned .
+ The Commander, Second Fleet, was designated to function in the role of CJTP-122 when the Joint Task Force was activated . The Commander of the Second Fleet is the commander of the Commander of Second Fleet .
+ The respective Service component making up the Joint Task Force were to be organized into three Service Task Forces under CJTF-122 . The respective . Service component . making up . the Joint . Task Force . were to organize into three . Service Task Force Task Forces .
+ As Commander Joint Task Force-Cuba, he would be directly responsible to CINCLANT rather than CJTF-122 .
+ OPLAN 3l4-6l were provisions for development of a separate, alternative ""Quick Reaction Plan"" utilizing reduced initial forces in the interests of minimizing lead-time . Also contained was provisions for the development of an alternative "quick Reaction Plan"
+ JCS -2O18/306, 15 November 1961, (Decision on, daced 30 'einber 1961), TOP SECRET. 'Decision was made on 30 November 1961), Top Secret. Not until 27 March 1962 3 when ths missing Annexes of
+ I Early in January 1°62 the Secretary of Def°nss expressed dissatisfaction with the reaction tljnsj being provided for in the contingency pla.is for Cuba under development .
+ I TOP SECRET 5If 5If 1D. The order of priority for cpecific kinda of targets and the respective reaction times for each from a condition of no alert . Hating in dptail the order of prioritization for targets .
+ The Secretary of Defense . had stipulated that Navy and Air Force tactical aircraft, . armed with conventional weapons only, were to he employed .
+ In the same message, the JC3 informed CINCLANT of the Secretary of Defense's desire to have the reaction times of the two contingency plans under development reduced .
+ Estimates of 'costs, and of the impact on other major plans and programs, resulting from such reduction in leadtime. .
+ CINCSTRI] ^>-UaRCary 1962, TOP SECRET r\ TO^PjRCRaSl mCRRT TOP SECI^T > / fr 157/ciNCLANT held a conference on 7~8 February 1962 with 0} /j
+ On 24 February CINCLAOT responded to the JCS directive of 2 January containing the terms of reference . JCS said on 2 January that the terms had been agreed with the JCA .
+ y3ufc with regard to reducing lead-times in the contingency plans , 'he expressed concern over the risks involved in any invasion plan calling for such a short reaction time from a nonreadiness posture, with no prior notice or preparations'
+ CIMCIAHT informed JCS of other significant results of the oonferencp. However, CIMCAHT said JCS would not comment on the results . JCS was informed of the results by the OIHT .
+ It was based on the assumption that there would be considerable prior warning and, indeed, that some of the foroe3 involved would hav-e even, been prepo3ltioiied beforehand .
+ At no time did the tuo-day/reaction plan contained in Annex ""'(J' 1) reach, in form""or status, anything approaching a complete, approved operation plan, / iSl./ln August, biie .
+ Signs pointing to a considerable improvement in Cuba's hitherto rudimentary air-defense capability v»ere particularly disturbing . Cuba's air defense capability has been improved in recent years, experts say .
+ By early September recognition of the extent of the improvement, in ""quality and quantity, injected fresh impetus into planning, lending especially a n^w point and urgency to the -""equl rpment for air-atntcs plans"
+ CCOTAC formed a special staff planning group specifically charged with developing a detailed air-strike operation plan based on CINCLANT's concept and outline .
+ Before the montl"" was out, a proposed operation plan, nicknamed ""HOCK PILE,"" wa3 produced .
+ CINCLANT had overall responsibility, but also the three Service component commanders under LANTCOM, plus CJTF-122 . The JCS, she Services, the Service commands directly affected (CONARC, COMTAC, CINCSTRIKE), the subordinate tactical units that
+ The complexity of all the planning coordination that this involved was further complicated by a changing ""enemy situation" in the world . The complexity was also complicated by the changing situation .
+ One of the specific immediate immediate prc'olems posed by the improving Cuban capability was defense of the United States Naval Base at Guantanamo .
+ There is mounting concern over the potentially Inviting vulnerability of the Base in relation to growing Cuban ground strength . There was mounting concern that the Base was vulnerable .
+ CINCLANT responded with a request for the 5th Marine Expeditionary Brigade (one regimental landing team, one air group, and associated amphibious assault lift), to be made available to LANTCOM for the required Guantanamo reinforcement . The brigade was assigned to CINCPAC
+ If this were not possible, he proposed using STRICCM forces that were scheduled for another mission in OPLAN 31V316* CINCLANT cautioned that the ubq of STRICOM or LANTCOM forces for such augmentation of Guantanamo defenses would be at the expense
+ JCS forwarded to CINCLANT a Secretary of Defense request for readiness requirement so meet Cubsr onntingencies . On 8 October, when JCS sent the request, JCS said readiness requirement would be met .
+ He requested withdrawal of PHIBRON and Battalion Landing Team then deh ployea in the Mediterranean . In addition, he requested withdrawal Qf the PHIBron and battalion Landing Team .
+ PACFTjT recommended against any redeployment of these forces until actually needed . 1 CINCEUR and CINCNELM both recommended against withdrawal of the requested forces then deployed in the Mediterranean .
+ The JCS took the issue under formal consideration, generating a ""JCS Green"" on it on 12 October . The issue was discussed by the JCS in October .
+ PHTBRON and BLT in the Mediterranean should not be withdrawn from the U.S. West Coast to the Caribbean area . West Coast will be limited to Caribbean area but that the PHT BRON, BLT and PHTBON are not withdrawn .
+ The original planning proposal calling for reinforcement of Guantanamo defenses became a requirement of immediate operational urgency . They were in the process of so recommending to the Secretary of Defense when the whole matter was overtaken by the Cuban crisis .
+ Through September, reflecting a growing awareness of the extent of the Soviet -sponsored ouild-up in Cuba, there were other reactions .
+ TOPJfTorkT TOF SF CPF 11 and advised him to bake measures to insure that nis contingency plans and capabilitleG keep pace with the changing enemy situation .
+ On 19 September, CINCLANT apprised the Chairman of the actions he had directed to be taken in the light of increased Cuban defensive capabilities . The Chairman said the actions were taken in light of the increased Cuban capabilities .
+ CJTF-122, CG XVIII Airborne Corps, Commander Amphibious Forces Atlantic {COMPHIBMNT), CG Fleet Marine Forces Atlantic , and Commander 19th Air Force were instructed to review the ""complete family"" of plans for Cuba .
+ They were requested to consider the possibility of conducting other operations corollary to those provided for in existing plans . Deception and electronic warfare might contribute to accomplishing their respective combat missions .
+ Top Secret A"" on the matter was referred by the Secretary of Defense to the JCS . JCS submitted a draft response to the Secretary based in large part on CIHC).
+ Council was particularly apprehensive about the possibility of a Soviet MRBH or suDmarine atomic capability being established in Cuba . The Council was concerned about the prospect of an atomic capability .
+ In the present circumstances and prospects, it saw only two courses of action for the United States . invasion or blockade was the only course of action, it said .
+ A blockade, if continued long enough, would starve out Cuba and forestall further Soviet delivery of arms of all types . Although the tenor of their position was In favor of Invasion, they pointed out tnat a blockade . A blockade would starve Cuba out of Cuba .
+ These references, however, hardly constituted a detailed plan for a blockade operation as such .
+ The resultirg olockade plans, however, proved inapplicable during the crisis .
+ By the end of September, the spate of contingency operations plans under development was beginning to become both confusing and unmanageable . J
+ Their number 8nd variety hsd grown somewhat unsystematicallyj with no assurance of comprehensiveness. The number 8th variety hs grown somewhat . It's not the best variety in the world .
+ Contingency planning had changed from the relatively simple, clear-out purposes that had initially motivated the contingency planning . Moreover, circumstances and objectives had changed .
+ On 1 October, at a meeting of the Secretary of Defense with the JCS, the question was raised as to the kinds of contingencies under which military operations against Cuba might be necessary . The JCS also discussed the possibility of military action against Cuba .
+ Attack against the United States Naval Base at Guantanamo, or against United States planes or shipping outside Cuban territorial watarB or airspace . Attack against U.S. planes, shipping or airspace outside Cuban territory .
+ A ""substantial popular uprising"" in Cuba against the Castro regime in which United States aid is requested by insurgent leaders . U.S. aid requested by insurgents in order to stop the Castro government .
+ Presidential decision that the Cuban situation has ''reached a poin£_inconsa.stent with continuing United States national securx-cy -3J ; He requested JCS views on the appropriateness anil completeness |_of -this list .
+ The military operational plans considered suitable for each contingency listed above are considered suitable to each contingency . The military plans considered are based on contingency plans .
+ The conference considered the readiness-posture itself, including most of the other points raised by the Secretary of Defense .
+ The basic JCS paner, staffed by J-3, was dated Ik October and received tentative JCS approval on 15 October . The basic paner was dated October 15 .
+ There was no final approval in the form of a ""red band"" decision-on, nor was the draft memorandum contained in Jts enclosure forwarded . Its substance was conveyed Informally to the Secretary of Defense in various conferences, oriefings, and consultations immediately attending tne first reactions
+ There were no mention of the 4-day and 2-day raaction times that the Secretary had demanded earlier . There was no mention .
+ Some preparatory measures, it was pointed out, had been taken by the Services .
+ Prepositioning of POL, ammunition, and other expendables by the Navy and Axr Force at bases in southeastern U.S. Among these were preloading of supplies In amphibious shipping .
+ JCS pointed ou^, vers primarily those imposed by budgeting considerations . Constraints upon further reduction of reacxion tlm?? The JCS said: "Constraints on further reduction are primarily budgeted considerations"
+ Significant reductions in reaction time could be achieved by talcing pertain other preparatory measures to improve readiness, if a raise in budget ceilings permitted .
+ If the U.S. imposed a blockade on Cuba, it would have major international political ramifications, ""aa it constitutes an act of war, "" and would thus result in increased DEFCON status of United States forces worldwide . The blockade would have little airect military effect on U
+ Adequate airlift uo Europe and Southeast Asia uould not be available for an estimated 8 days, beginning with D-5 .
+ Airlift vfibhin EUCOM, PACOM, and CAHIBCOM would bs ""severely restricted"" if C.-130 aircraft were withdrawn to CONUS, as presently envisaged, instead of calling up Air Fores Reserve C-119 aiz-oraff
+ Thirty percent of cargo cargo ""shipping and seventy percent of passenger shiop ng in tlr>e Aula-cle presently under United States control »ould be required for a reriod of 30 days . Thirty percent cf cargo "shipping"
+ In it there was no indication that U.S. military action addressed to Cuba might be expected to raise central strategio issues with the USSR .
+ There was also a CJTF-122 contingency plan for sea and air blockade of Cuba . The plan includes a plan for a sea, air and sea blockade of the island .
+ CONAD for the defense of the United States mainland and the SIOP/I 188 . Other existing contingency plans proved to have intimate operational relevance to the crisia .
+ The means directly employed to articulate the military issues, to achieve the military objectives and ultimately to resolve the military crisis were manifestly political -diplomatic measures .
+ The role of military action itself i/as always imminent Jjut remained latent, and the task of maintaining the required delicate balance between the two devolved largely upon contingency planning . The task was to maintain a delicate balance .
+ The precrisia contingency planning had begun, some 18 months before the crisis, with a crisply defined., single focus . Precious pre-crisis contingency planning began 18 months ago .
+ It had been expressly initiated as a reaction to a specific event — the ignominious Bay of PigB fiasco . The Bay was created in response to that event .
+ The original purpose was to devise a straightforward military operation plan to accomplish the explicit military objective of invading and subduing Cuba by U.S. forces . Cuba was the focus of the original purpose .
+ Gradually, as technical military considerations and policy desiderata injected into qualifying ramifications, the planning became more complicated . The planning process became more complex as the planning process evolved .
+ The trend toward complexity increased with time . The original sharp focus progressively gave way to a multipleperspective approach .
+ Major bifurcation planning had occurred a year before the crisis . New planning requirements tended to be cumulative . Planning requirements tend to occur a year after major planning decisions .
+ It was the result of dissatisfaction at the national deoision-making level with the speed of reactior being provided for to implement the invasion plan . The invasion plan was a response to a lack of speed to implement it .
+ Four categories of invasion planning, each oriented to its respective reaction time, vere simultaneously und3rv;ay . As a consequence of this, eventually four categories, each aimed at its own reaction time .
+ The second j and more important, bifurcation in the cona / 3 tlngency planning occurred six months before the crisis as a result of a new planning requirement for a different kind of contingency operation .
+ It too reflected dissatisfaction on the national decision-making level with the best reaction times 'that military invasion planning had been able to achieve', the report said .
+ Planning was undertaken to bring military force to bear more rapidly than in the form of invasion, planning was undertaken for large-scale air-strike operations against Cuba .
+ It presumed a localized off-shore incident in which ""police-action"" measures would be brought to oear against a malefactor . In order to eliminate the source of provocation and ressors .
+ It further presupposed the tactis. -' cal initiative to be a United States prerogative. It further . presupposed . the tacti. cal initiative . The initiative was a prerogatory .
+ Not until the eve of the crisis was the possibility / raised, in explicit terms, that the nature and circumstances | of a Cuban contingency could be quite different from what had been assumed .
+ This did not bring about a fundamental reappraisal of planning requirements, however, according to the government .
+ The existing contingency plans themselves v«ere not materially affected . Certainly the existing plans themselves are not materialised .
+ Lccal operations addressed to Cuba were still viewed as comprehending the main military aspects of a Cuban contingency, with the Soviet factor peripheral or incidental . J 197. J 197 .
+ The orime-mo\er force that initiated planning actions or subsequently redirected their course was outside the military establishment . The military establishment.
+ The JCS relayed requirements and instructions received from the Secretary of Defense to CINCLANT . In turn usually referred them to his appropriate Service component commander concerned .
+ LANTCOM had not been activated and staffed as such, responsibility for conducting the planning devolved upon them . CGUSCOHARC and COMTAC were assumed to be responsible for planning the planning .
+ In praotioe, thus, the JCS, and to some extent CINCLANT as well, had a largely passive, intermediary role as agents between the planning principals who originated and responded to planning requirements . JCS was essentially post facto .
+ The basic plans, alternate versions of them, and their organic components were in various stages of development . The basic versions of these plans were being developed .
+ Some had been completed and formally adopted; others were pending, awaiting review and approval . Still others were only outlines of p±ans, or even mere proposed concepts that had yet to be accepted .
+ A few had haidly gotten beyond the articulation of a planning requirement, then were not heard of again . A few got beyond that point and were never heard of .
+ Among these different planning elements, there sometimes was Inconsistency, and occasionally contradiction . "Inconsistencies, and sometimes contradiction, were sometimes found in the planning process," the author says .
+ Its processes, rather than consistently following regular patterns of dependent interaotions> were variable and unpredictable, with the key determinants impingeing at random from outside from outside .
+ The formulation of U.S. policy in response to the Soviet stratagem in Cuba was a unique process, marked by informality and effectiveness . The U.N. policy response to Cuba's Soviet tactics in Cuba is a unique experience .
+ White House decision-making process was almost textbook in its quality . The president took part in every step of the process from which the policy emerged .
+ No actual White House records have been made available, either to the public or to this study . Enough Information has become public for an accurate picture .
+ I planning and intalllgsnce operations covering the military j, / buildup proceeded on parallel but essentially distinct pasns . I planning, intallgsnce . operations covered the military . j, or buildup . operations . covering the . military j,. / buildup respectively .
+ The growth of Cuban capability, for example, obviously bore a direct relationship with the contemplated U.S. force requirements In the plans .
+ Eie plans were based upon a U.S.-C.ioan clash but the Intelligence operations snowed a cortlnuing and increasing Soviet Involvement. Eie . Plans were based on a clash between the two countries .
+ T^is fact cha^gsd the perspective of United States military action against Cuba, since it brought Into the picture new and incalculable factors of significance going far beyond the Caribbean,/]/ f{ 203.
+ There had been a marlced di3lnclination to believe the Soviets would base offensive nuclear weapons in Cuba .
+ Wu /indications to this effect, or even aeriousiy entertained the it"", possibility in their interpretation or Cuban military developft manta . Wu/Wu: "Wu may have entertained it""
+ The Special National Intelligence Estimate of 19 September 19^2, which expressly addressed itBelf to the military buildup in Cuba, was actually misleading . On the contrary, the intelligence agency said it was not misleading .
+ The burden of the conclusions contained in the Estimate were that the USSR's interest in Cuba was ""primarily for the political advantages,"" that the military buildup was for purposes of Cuban defence, and that the Soviets were unlikely to introduce strategic offensive weapons systems into Cuba . Especially discounted was
+ There were other, tenuous indications received which, because of their sensitivity, were extremely closely held and not reported in the circulated intelligence publications . But apparently these did not materially alter United States expectations, certainly not enough to trigger a fundamental reappraisal in time .
+ When the event was suddenly recognised as having already occurred, it A b""' came as a surprise and a response had to be concriiad o-ia V **,. ad hoc basis .
+ N suit of the courses of action embodied in the contingency i v. v. plans and some other less final course which toolcc Into account .y ■S' the Soviet presence in Cuba .
+ CIA J Current Intelligence Weekly Summaries for the period Seotember . Baaed on a systematic analysis of the pertinent NIEs and SHIEs •' ' issued in the aix months prior to the crisis .
+ Intelligence information on the Soviet . ' buildup had begun to increase markedly in early summer . October 1 was not until October 1 that routine photo reconnaissance missions around Cuoa .fere begun .
+ In addition high-altitude U-2 flights over Cuba were also floim, and it was by this P"" -, /205 . The U.2 was also used in Cuba .
+ CIA officials and others in the intelligence community had apparently been alerted to the tentative nature of the findings by about noon of that day . The U-2 photographs taken on October 1* were not avail[ / able until late on the 15th on October 15th .
+ Ordering increased surveillance of the wnole island , the President organized a group of key advisors who would finally be the ones to thra^n out a U.S response .
+ The body of advisors was eventually narrowed to a group of eight ivho later iiere constituted into an Executive Co-nmitcee of the MSC 1962, TOP .
+ All ti^es given in the text, except where indicated otherwise, have been converted to a common equivalent corresponding to tne pre', ailing local tiitie in Washington, v/hereaB time references in footnote citations r stain the original Greenwich Mean Time constant designated in terms
+ Two time c'ifferanuials between local Washington time and 2 time must be taken into account . Eastern Daylight Saving Time,e., Q-tlme, Jhicn terminates at uo002, 2d October iy62, is 2-^ime nin
+ Official publication based on information provided by the Wnifce House P^eas Office, DoD Office of Public Affairs, and the State Department Bureau of Public .
+ TOP SECRET C0CTIJTOT1AL tout these constantly drew on the counsel and support of a wider group .
+ In total numbers of those who were informed of the critical situation were very few . Those who knew about the situation were few .
+ The key element in the situation appeared to be the urgent nature of the clandestine Soviet move . The key elements of the situation were the urgency of the move, the Kremlin says .
+ The decision to station Soviet strategic forces outside the Soviet Union for the first time was a deliberately provocative gesture . The move was an attempt to overturn swiftly and by surprise the existing nuclear status quo .
+ It was felt that the Soviet move was undoubtedly tied to larger objectives than Cuba per se. The move was thought to be tied to the larger objectives of the Soviet Union .
+ It was all too clear that a sudden dramatic Soviet revelation of an operational capability in Cuba, coupled with a renewed effort to change the Berlin situation, would put the U.S. at a grave disadvantage .
+ Arrant defiance of America with impunity would seriously underline confidence in the United States among frienda and Miles, while the missiles themselves go far toward redressing the strategic equation in favor of the Soviets .
+ On September 11, the Sovieta puolicly stated that the armaments sent to Cuba were defensive only and that there was no need for the USSR to base Its offensive forces 2 overseas .
+ Soviet Foreign Minister Gromyko personally assured the President, during their meeting on October IS, that Soviet assistance to Cuba ""pursued solely the purpose" of the Cuban crisis .
+ The training by Soviet specialists of Cuoan nationals in handling defensive weapons was ""by no means offensive"" and that the Soviet Government would never be209.209. He said he had been explicitly instructed to make this clear .
+ Some confusion over objectives became evident at the first meeting of the Executive Committee . The meeting was held in New York City, New York .
+ The courses of action open to the President ran the gamut from passive acceptance of the Soviet coup to iti""asion of Cuba without warning . Some members thought the prime aim should be to get rid of the offensive weapons; others considered it necessary to remove the Castro regime .
+ Intermediate steps possible included a major effort of protest through the U.N., a blockade coupled with a demand for the removal of the offensive weapons, and a surprise aii' strike against these weapons . Combinations were possible , such as an ultimatum to be followed by invasion,
+ For purposes of propaganda, tney could claim che offensive weapons were there only as pert of the defense of Cuoa .
+ A surprise invasion was soon ruled out for two reasons . The U.S. government has ruled out the possibility of a U.N. invasion .
+ The effect might provoke the Soviets into an almost automatic reflex countermove in ■which lay the grave possibility of escalation to general war . In the first place, the effect might be so startling as to provoke the Soviet reaction .
+ It was apparent that a decision would have to be reached and a course of action implemented within a few days, since the Soviet missiles would very soon oe fully operational .
+ If this occurred before the United States action had been launched, our move would become a countermove . All the advantages of catching the Soviets by surprise would be lost, and the Soviets would be compelled to more Btrongly defend their position in Cuba .
+ In vie* of the lengtn of time necessary to prepare an invasion and the scale of the operations involved, surprise would almost certainly be lost .
+ By Thursday, October 18, discussions in the Executive Committee began to center on the use of a naval blockade .
+ The disadvantages of this alternative were perhaps more glaring than its advantages . It is not the first time the government has been able to offer the alternative to the current system of transport .
+ A blockc.de might not take immediate effect, and prolonging the crisis, could permit the Soviets more uime to counteract . Unfavoraole repercussions among maritime nations, especially within NATO, might be severe .
+ The most attractive feature of the blockade, on the other hjaid, lay in the fact that it was not irrevocable . The blockade, however, is not irreinvable, as it is not irreversible .
+ The blockade would still leave the possibility of withdrawal without leaving a record of American, Cuban, and Russian dead . Coupled with a stern warning, and accompanied by obvious preparations for direct .
+ The restrained nature of the U.S. response, once the full extent of the Soviet duplicity was revealed to the world, would be more likely to gain the political support we wished to use as pressure against the Soviets . The restrained response would be likely to win political support against the
+ If the blockade were to fail in its purpose, the Soviets would have time to develop a countermove somewhere, as well aa to get their missiles operational .
+ U.S. vrould also have time to marshal its forces for invasion . However, the United States has time to prepare for invasion, according to experts .
+ We would then be in a position to raise progressively the degree of pressure at will, without having initially thrown our whole hand down on the table . We would be able to increase the pressure at the top of the table without initially having thrown their whole hand on the surface .
+ The choice was between the competing demands of measured restr.nnfc and time . The choice thus was between time and restrnnfc . The decision was made between the two options .
+ On Saturday, October 20, a consensus of the Executive Committee had been reached . After a detailed intelligence briefing, the President tentatively decided that the U.S. course of action would be a blockade .
+ The quarantine would be coupled with a warning to the Soviet Union and a derand for removal of the offensive weapons . Ultimately called a quarantine, it would have been coupled with warning to Russia .
+ In the event of a security broach, the possibility remained or acting sooner . The possibility remained of acting sooner or acting earlier than previously .
+ Forces would be gathered, prepositloned and readied, but no ""executa"" date would be set for assault . Forces would bs gathered, . preposited, readied and . readied but no date would set for an assault .
+ Imposition of a quarantine on Cuba to halt the further introduction of offensive equipment, the qaarantine to be extended to other types of cargo and carriers if needed .
+ Evacuation of dependents from Guantana.no and reinforcement of the oase.no.no . Evacuations are expected to take place .
+ U.N. Security Council demands prompt dismantling and withdrawal of all offensive weapons in Cuba under United Nations supervision before quarantine would be lifted . Security Council of the United Nations called for the prompt dismantling of the weapons .
+ A personal call upon E^e'iier Khrushchev to halt and eliminate the threat to the peace involved in the 1 Russian move -a.a. Russian move-a-Russian move .
+ In Washington the Soviet atrbaosador had been summoned to the Secretary of State's office at 1800 hours on the 22nd where he met with the Seoretary and a group of senior officials for half an hour . At that time he also was given a copy of the statement
+ State Department sent to all Snbassies and Posts an amplification for use in dealing with local gover.iTients . State Department also sent to Snbassie and Posts .
+ Program sketches the rationale behind tne sevenpoint, program, attempting to anticipate reactions to it , and providing ammunition to meet thoso reactions . It; sketched 00 u the rationale .
+ The message emphasized that for discussions with foreign governments the restrained nature of the V.S. program should be stressed . The message also stressed that for . discussions with . foreign governments it should be . stressed that . restrained .
+ President's final remarks were meant to indicate that the United States was receptive to proposals fo~ s high-level neiting with the Soviets . Minimum force would be used to accomplish the U.S. objootive .
+ The objeccive of the United States was to obtain dismantlement of the offensive facilities . The objecive of tha United States. was to . obtain dismantlements of the defensive facilities .
+ If the Soviets vetoed this resolution and did not begin to leraoce fcne weapons, che issue would be talcen to the General Assembly . The issue would go to the U.N. if the Soviets veto this resolution .
+ In the meantime, the operational portions of the President ' s program would be pursued . The President 's program would continue to be pursued, he said .
+ The OAS Council would be asked on the morning of October 23 to constitute itself into a consultative committee under the Rio Treaty . The United States would then present it with a resolution embodying the President's Beven pointB for approval .
+ The U.S. looked upon the action as a use of force to meet a threat to the peace . The legal basis for the quarantine did not depend upon OAS approval, but rather on the inherent right of self-defense .
+ U.S. considered quarantine aB a sanotion appropriate within the OAS framework, 227. The United States considered the quarantine a.B aB was appropriate under OAS guidelines, 227 .
+ The message distinguished between a quarantine and a blockade, pointing out that while the former does have elements of the latter, the latter is usually associated witn tne conduct of war .
+ In this case, the quarantine was to be applied for purely defensive reasons . The quarantine is to be used only to protect the public .
+ The message reassured U.S. representatives that the United States was prepared for repercussions anywhere in the world .
+ The U.S. has unoer NATO for positioning IHCM'r/in Italy and Tdrlwy . The missiles in Italy and Turkey had been installed as a result of the decision of the NATO Council in 1957 .
+ The action was taken in response to repeated Soviet threats that they had mediumand intermediate-range missiles and were ready to use them . The action came after repeated threats from the Soviet Union that they would use the missiles .
+ NATO, OAS, SEATOj and GFjTO mission chiefs here, as wall as for r? . tral 1 missions . This warning had been supplemented by comprehensive briefings Just prior to the President's speech for all NATO and OAS mission chiefs .
+ It now renains both tovait the Soviet and Cuban reactions and to prepare further measures toward gaining our objectives if the Soviets cnoee to ignore the quarantine and its associated steps .
+ The American action againat Cuba in October 1962 was planned and launched without any prior concert of Allied states . The action again at Cuba was planned for October 1962 without prior coordination .
+ The absence of consultation was a consequence both of the unique sensitivity of the circumstances and of the shortness of time available for the development and implementation of an effective American response to the Soviet thru3t. It was a result of the limited time available to develop an effective U.S.
+ It became a matter of major concern to coordinate the action with Allied states, primarily in Latin America and in Europe . However, once that response was prepared and launched, it became a major concern .
+ There was need, in the first place, to gain political support of an action by which the United States hoped to achieve ita objective through the use of limited military force plus policlcal pressure .
+ If this combination were to fail, political support and sympathetic understanding would be highly useful when direct assault on Cuba was undertaken . In addition to the political motivation, there we^e military ones are also military ones .
+ This coordination with Allied states took several forms and raised a variety of problems for the U.S. national decision makers . This coordination took place in the United States during World War II .
+ Intensive preparations began in Washington fo3 7owing the positive identification of Soviet offensive missile capability in Cuba on October 15 . Security was tightly bound by security .
+ Even the overseas Uni-Tied Commanders were not formally notified until almost the last minute . So necessary was it to prevent a leak which might DOBBibly compromise the whole United States action .
+ This increased their normal problem of coordination with Washington on the one hand and with local Allied nations on the other was fully recognized but was considered unavoidable .
+ This chapter will examine these in derailments and political-military measures associated with them . It will examine the political and military measures involved in derailment of the country .
+ Military coordination problems of CSCIUCEUR and OSCIIICARIB were primary . The military coordination problems were primary to the success of the two .
+ The JCS sent a message to all Unified Commanders to the effect that the increased state of tension with respect to Cuba could lead to military action . It vfas not until 1214Z on October SO that the message was sent .
+ It promiBed to keep the Unified Commanders informed . It would dlreotot a higher DEFCON aa required, noting 241.2 aa .
+ A formal warning message was issued at 1814Z on Ootofcsr 21, announcing that the President had blockade operations under consideration . This waa followed by a formal warning from the President .
+ Cuban military forces could lead to U.S. air strikes and an invasion of Cuba, the U.N. warned . It warned that a reaction by the Cuban military could lead the United States to air strikes .
+ These actions, if initiated, it was recognized, would probably result in uoe of force against Soviet military and civilian personnel in Cuba . These actions would challenge the prestige of the Soviet Union, the author says .
+ Under these circvmucances, the reaction of the So /lexis could not be predicted, says the author . The reaction to the So/lexis reaction was impossible to predict .
+ It was intended to present the strongest possiole deterrent to any course or Soviet military action . Therefore, it was imoerative under circumstances which could arise . It presented the strongest possibility of presenting the strongest defence to any military 
+ The United States must unequivocally demonstrate it was ready to meet and defeat retaliatory Soviet moves at whatever level was necesoaiyy. The U.S. must demonstrate it is ready militarily to meet, meet and to defeat .
+ At the same time, the message cautioned against actions in other areas considered provocative or which could create civil alarm . The message also cautioned against taking provocative actions .
+ JDefense Condition Three was established for all United States forces at 23O0Z October 22 . USCIHCEOH is authorized to exercise his discretion in complying with this directive .
+ With the imposition of HINIJ1IZE worldwide at 23002 on the 22nd, the process of alerting was completed . The imposition was imposed on 23002 worldwide on November 22 .
+ There was no formal notification of the SIHCS ca^e iUte in the week of preparation . There was undoubtedly some indication of a forthcoming crisis had reached all of them .
+ Individual Se.-vice messages and information cools are already circulating . Se-vice is already circulating on social media .
+ Of the four overseas UnifJoS Commands"", NELM was least likely to be immediately involved in a Communist reaction, with PAC coming next . PAC comes next .
+ The possibility of a Soviet riposte in Europe, evon if somewhat less immediate, would be infinitely more aerioua. While it was thought to be almost certain that CINGARia would be immediately called upon for support action .
+ The military-political problems of coordination with NATO break down into convenient aspects . NATO's problems with the U.S. are not solved by convenient aspects, says CNN's John Sutter .
+ U.S. forces in Europe have been alerted to the threat of the U.N. military strike on Cuba . The U.K. joined NATO forces in the wake of the attack .
+ Any contemplated action w'nch exacerbated East-Weat relations would likely bring increased tensions -or action in Berlin, in preparation for wnich certain preaaut-.onary measures be taken to improve the readiness posture of U.S. forces .
+ He felt it was vital to the United States posture to know now if he would be expected to deal with Berlin with forces currently available . The piecemeal information received thus far raised questions as to what may be expected .
+ The problems of reinforcement for Europe and the reconstution of a general war reserve were to continue to receive attention .
+ Ambassador Finletter would seek NAC Instructions to NATO commanders with regard to an alert posture . This JCS answer to USCINCEUR's message of the previous day also stated that ambassador Finletter .
+ At 0925Z on the 22nd, USSINCSUR"" replied to the formal JCS warning message of the previcn a day, stating that nis knowledge of the Cuban situation was limited 60 the two JCS warnings .
+ He said he felt he had no basis for commenting on the substance of the action proposed .
+ He stated that if the Bltuatlon was serious enough to warrant sending Acheson over to brief the North Atlantic, it would be enough to send him .
+ He should have been given before this time some information on the ""uhy"" as well as the ""what • in order to discharge properly his responsibilities which could rapidly become critical . Council and to ask for a NATO alert, he should have had more information before .
+ U3ing the two points rciaed in the JCS formal warning message, he stated that he could not comment on whether a NATO alert would be ""considered provocative"" sinca he did not know the background j but sucn action would certainly create ""civil alarm'
+ TO forces to assume an alert posture weis tioo being overlooked, since he felt that unless the case for such an action were overwhelming and dramatic, opposition may be expected, he felt .
+ "Even discjssion of the subject would very shortly become public know ledge in Europe "" ""■ 255. The subject would be very shortly known to the public .
+ The farces were directed to take military precautionary measures in a 'fance' with those recommended to all ACE force commanders and Ministries of Defense .
+ Such measures included increased security and antisabotage plans . Manning of operational centers at reduced strength .
+ No measures would De taVran which could oe considered provocative or which might disclose operational plana . All actions would be taken as far as possible vitnout public notice . No measures which could be considered provocative could be taken .
+ USCINCEUR had imposed MINIMIZE on USEUCOM effective 2*n631S October . The next day he reported tnat he had imposed MinIMIZE .
+ Effective 2^l650Z he had directed an increased state of readiness for Hq. 2.650Z . He also directed an increase in readiness for the HqQ .
+ The Commander., United States Forces Korea, informed CINCFAC that establishment of the higher BEFCON for his command dictated that the Republic of Korea forces maintain a similar alert status .
+ TQP gEGRF m rOFJj^KET assumed a state of readiness both in Cjuia sj. and Europe,all readiness measures being closely coordinated to oe compatible with thp United States posture .
+ Until the moment when the Soviet missile bases in Cu^a were exposed, our European and Latin American Allies generally took a less than sympathetic view of American policy toward and thinking about Castro's Cuba . Cuba .
+ Europe felt that Cuba had become an American obsession which blinded us to even the possibility of a long-term rapprochement with Cuoa. In the case of Europe, it vies widely felt .
+ In Latin America, ""Fidelismo 1 apparently attracted large segments of the population. In Latin . America, "Fidelista 1" attracted large . segments of population .
+ Net merely wa3 Co. 3upwoi*t3d by Leftist groups, hue without douot lingering enirrositiea toward the United States .
+ There had been some change in Latin America during the previous year as Castro openly embraced Communism . Castro embraced Communism in the Soviet Union .
+ Ciscro cju1'2 muster the real measure of support it muster in Latin America . Nevertheless, it was difficult to 'uge' the real support it would muster in the region .
+ These were sent in code to the United States Embassies of the respective countries for delivery the next day . The code was sent to the U.S. Embassies in each country's capitals for delivery .
+ President sent individual letters to forty-three Heads of Government . Many of these are outside the NATO arsa, many of 1 these being outside NATO .
+ Burjna che day or the 22nd, Priuje Minister Macmillan was personally briered by U.S. Ambassador Bruce, President Gaulle by hr. Gaulle . U.N. ambassador Bruce was also in attendance .
+ It was later repeatedly reported on good authority in the press that the President had also personally phoned these three leaders .
+ Houever, no confirmation of this has been found in the available records .
+ Mr Acheson fleir to Paris to brief the North Atlantic Council two hours before the President's address to the nation .
+ At 1315 EST, tne ambassadors of forty odd nations in NATO, CENTO, SSATO and a number of Chronology of the Cu'oan Crisis j drawn from DOD, State Department, and State Department material .
+ At the end of the briefing the ambassadors watched the President's address on a giant television screen .
+ Following the President's addrcBs, a briefing was given to ambassadors of all other countries . A briefing was also given to all other ambassadors .
+ J-3 was directed to give daily briefings to NATO Standing Group . Briefings continued through the week. Briefings were given to the NATO standing group .
+ Director of Operations of J-J had earlier been directed to provide daily briefings for the Chairman of the Canadian Joint Staff in Washington . The Director of Operation of the Joint Joint Staff will now provide briefings to the Chairman .
+ A comment may be made here regarding U.S. policy in the U.K. during the crisis . A comment should be made regarding United States policy in Britain during crisis .
+ The United States made full use of the United Nations as a public forum in which to maximize the e. oarrassment and confusion of the Russians, at the same time indicating the reasonableness of the U.S. actions . The U.N. should use this forum to
+ NATO lined up solidly behind the U.S. position, but this was not done at a uniform pace by the individual states . As a oody, NATO lined behind the United States position, NATO said .
+ The matter of force alerts in Europe was a somewhat different matter from politioal support of the U.S. However, the matter was a matter of fact in Europe .
+ President de Gaulle said he would follow the British lead in sending Instructions to the French U.N. delegation to support the United States resolution .
+ President de Gaulle was reported to have said that as long as the situation concerned only Cuba, he was '.'illing to follow American iritiacivac in the matter, but that should the area of action expand, he would insist upon tripartite consultation .
+ On October 23rd, the British government declared its support of the American position . The U.S. government declared support of America's position .
+ Prime Minister Macmillan, addressing Commons on the 24th, again supported t-he United States pcsit-ion in its objectivps, but did not specifically endorse the United States quarantine .
+ Netherlands, and Italian governments endorsed the United States stand that day . Prance remained ""officially silent" presumably because of the lack of prior conaultation .
+ The United States move was generally ooolly received at best in the European press . Despite governmental approval, the move was not widely received in Europe .
+ Demonstrations occurred on both sides of the Iron Curtain, specifically on the NATO side, in London . Minor ant-American demonstrations occurred in both countries .
+ The publication of the official United States photographs of the Soviet missile sites on the 24th, however, brought an almost abrupt change in European public opinion, swinging it around to a much more sympathetic position . The U.S. photos of the missile sites changed Europe's public opinion to a
+ SACEUR had estaolished certain precautionary steps for NATO forces under his command instead of DEFCON 3 . Each nation responded in its own way and according to its own appreciation of the situation when it came to the situation .
+ It was reported that British forces were alerted, but this By midnight of the 24th, by midnight of October 25, 1962 .
+ Military chiefs in Btates Mere from the beginning enthusiastically in support of the U.S. action, but were unable to raise alert levels until directed by political authorities .
+ Neitl. Nor, nor, for that matter, SACEUR, felt the need to do so . Neither did the authorities nor, nor did the police .
+ This may have been largely a matter of outlook, of difference in perspective when viewing the Cuban crisis from Europe instead of the United States . There was alao very likely a marked reluctance to do anything which might aid in provoking or providing a Soviet riposte in Europe .
+ In the actual implementation of the quarantine, Allied corporation was soon achieved . Allied corporation soon achieved.
+ The British on the 24th asued thel.-ahlpowners to cooperate and to permit United States search parties aboard their vessels . The British asked the l-ahlp owners to cooperate .
+ Some confusion and unspoken disagreement did arise in the never fully developed American effort to establish an air quarantine to match the sea effort . The U.S. effort was unsuccessful .
+ TOP SECRET -ji< SflRiST 71W ISJpiWir £ TOP SK nr >ZS v l/obligations under International C.S.Y11 Airlines Organization with \ the desire to run counter to United States objectives .
+ Uhile the United States desire for Latin American support in the Cuban quarantine was essentially political in nature . There were positive military advantages which might flow from suen support .
+ The steps followed in preparation for Latin American coordination resembled those taken in Europe . The steps to prepare for Latin America coordination resembled that of Europe .
+ On the 20th., the United States Information Agency prepared to go on a twenty-four-hour a day schedule of transmission in Spanish .
+ The Department of State sent ""preposition messages ' to all Latin American posts, QUbject to the 'go 1 ' signal' on the 22nd, indicating the course of action to be followed .
+ These messages alerted the United States posts to the possibility of outbreaks, and procedures were to be initiated for the protection of trie Embassy or Consulate .
+ On the 22nd, nine radio stations were requested to broadcast President's speech in Spanish to Latin America .
+ At 1500 the OAS reconvened and by 164$ EST, by a 19 to vote, it had adopted the United States -sponsored resolution backing the quarantine and urging iai mediate removal of the Soviet missiles . The resolution was backed by a U.S. -sponsored
+ American policy toward Latin American states may be viewed as a twonsrt operation suwviriaed ir the two words 'protection' arrt ""contribution" American policy towards Latin America may be .
+ "We could not elicit contributions unless we could be sure those governments would be able to maintain themselves. However, we could not . contribute contributions unless . we could . be sure that governments would . maintain themselves . However, it could not be . sure that the governments would not be able
+ That CIWGAHIB be instructed to prepare lists of control measures, riot control equipment, etc., needed by Latin American states in the event of U.S. action against Cuba .
+ That it be determined which Latin American states could assist in a blockade through the OAS or by other means . That is determined by which countries could assist with a blockade .
+ He wished to know which states rad naval resources to assist us, which one3 we coulu count on, and how we could approach them 293.3.3 .
+ The JCS said it felt that non-Coi/imunisfc opposition elenonts would oe disturbed, out not zo the point of violent disturbance either against the U.S. or their own governments .
+ The Communists could be expected to exploit the U.S. action, and would fomenb a wave of violence and terrorist* both to distract the United States and to preventieir own governments from supporting, the CIA says . ToE SECRET rw Jt£tVR
+ It was felt that the moat serious disorder would occur in Brazil and Bolivia., with lesser trouble in Ecuador and Guatemala and a strong potential for trouble in Venezuela and Colombia . In the matter of specific internal reactions, .
+ Only Colombia, Venezuela, and the Dominican Republic were likely to be willing fco participate, for a maximum total of eight destroyers and ten frigates . Only Colombia and Venezuela are likely to participate .
+ The JCS on the 21st sent CINCARIB a message encompassing much of the same sort of questions as had been raised fcy the Gilpatric letter . The letter was sent to the JCS in response to the letter .
+ CINCARIB was told that m . the event of direct action against Cupa, violent Communist reactions might occur and requests for United States aid Must be anticioated . CINCIB told that . m . told that if . direct action . occurred, violent . reactions might
+ CINCARIB replied that he could provide the ^oint task force headquarters and the airborne companies for the two TaBk Force Alphas . He could provide airlift for only one TF Alpha .
+ CINCARIB had one brigade of two tailored ""battle groups"" as his Canal Zone combat force, something under 2000 men . The force was one brigade, two tailored "battle groups" as his .
+ Only six C-130 aircraft aa airlift were needed to airlift more than 100,000 people . The airlift was overwhelmed by the need for airlift .
+ Apparently the last exchange with CINCARIB raised such concern in the JC3 that % steps were immediately oegun to reinforce him . The JC3 was immediately reinforced by the government .
+ STRICOM requested to design an austere augmentation force requirement . The two CINCs were asked to design the austere augmentation force requirement for the two .
+ ThiB, then, vraa the United States concept for the most extreme form of coordination with Latin .^-urica. The U.S. concept is the U.N. concept for a most extreme version of coordination .
+ Agreement was promptly reachad on increasing CINCAHIB' q capability to csvvy it out and approved by the JCS on November 12 . Agreement is promptly reachedad on increased capability to ssvvy the out .
+ The augmentation became CIMCSTRIKE OPLAN 2-c, but waa never earned ouc, 307.5 . waa .
+ Despite the unexpectedly mild Communist reaction in Latin America, the fear of further trouble was slo""/ in dying. Despite the unexpected mild reaction in . Latin America .
+ Cuba 5PTREP reported that Communist activities in many Latin American states had increased, possicly in response to Cuban directive . Government plane were undor'/ay in all twenty countries} to 2 counteract the threat .
+ By November 4th, the J-3 SXTREP was reporting that the current major Tear was of widespread sabotage only . However, the Soviet retreat appa->er>tly ha/xng thrown local Communist parties into such confusion that overt action waa no longer possible
+ The subject was raised by JCS when it adviaed CINCARIB that if a blockade of Cuba were ordered without offensive action against the Cuban Air Force, the possibility existed of air attacks against Ramey APB, Roosevelt Roads NS, and the Panama Canal .
+ His recommendations for augmentation of the air defenses of the Canal were re-evaluated . His recommendations were also re-issued .
+ IB'3 air oefeise requiresr.ss 'are •ir'.s.r review, considering, the estimated threat to the C;nal and tne resources availaole ';hen welded against worldwide rssponsibilities' IB’3 air
+ When requests for U.S. aid actually csme to pass, it was for arw3 and not troops, not troops . The requests themselves ware nowhere near as great or widespread as had been expected .
+ CINCARIB reported on the 24th that the first recipients were the Dominican Republic, Bolivia, and Chile . The requests received to date, with the exception of that from the Dominican, appeared excessive .
+ Ke asked too for immediate replenishment of uhs CARZBCO'4 stock of similar ifcoma — gas grenadaa, shoc2 tuns, ammunition, ammunition and radio equipment, 313.4 tuns . Ke asked also for a stock of Uhs CAR
+ Theiaafter the action along this line vras confined to arms deliveries to CINCARIB for transmission to Bolivia, Chile, Venezuela, Venezuela and HI Salvador and Colombia during tho next week . Theia after the action .
+ requests for luct ccntro_ equlpmert ceased after November 1st or thereabouts .
+ Additional supplies from riot control cqv. pnant wjr>9 flown to ,' JH3C0M on the 26th to augment ths stockpile . Further augmentations were prepared during the next few days .
+ CIMCARIS's connection with, actiol qu^iantins oparebions came about through a curious epiaode involving the legal status of the Panama Canal . The Panama Canal is the world's largest and most important canal .
+ Incident illustrated the type of unforeseen international complication which can arise in a contingency operation . The incident illustrated the kind of contingency complication that can arise .
+ The issue apparently had been raised as early as October 19 in Navy circles . The Havy Flag Plot log log says the question of an arms ship attending to paoa had been sent to Op 60 for comment .
+ The subject was next raised by CINCLilNT on the 22nd, recommending to the JOS that toe Blockade of Cuba Plan be amended to charge CINCARIB with the prevention of the passage through the 'Cars' of erips bound for Cuba .
+ The issue had obviously been overlooked in the urgency of planning during that veek and, in the absence of an immediate alternative, the JCS ordered CINCAflIB to hold all action on the matter of Canal transit until lurther advised .
+ It would appear that CIHCLANT's original suggestion had not been aleared with the Department of State, despite its obviously political content . The original suggestion was apparently not aleared .
+ We JCS had missed its significance, and it had not been caught by the POLAD at CINCLAHT, although this is precisely the reason why P'jLADs are assigned to Unified Commsrd headquarters .
+ The Department of the Army notified the Governor of the Canal Zone that CINC-'RIBould be instructed only to notify mascers of desig'rtaTJed Caba-oound vessels that their snips would be subject to quarantine action after passage of the .
+ It was spscirically desired not to use U,S. control of the Canal for quarantine purposes . The Canal was used as a quarantine site for World War II .
+ The creation of an international precedent could oe a future source of difficulty elsewhere in the worlcij .
+ Siaerationa v;sre net to prevent a thorough inspection of any vessel if there were reason nc suspect it3 threatened the security al the Canal . However, theso co, siaerateda v.;sre .
+ Defense acreement of May 1957) were to be continjed . Defense acreements were to continue . TOP SECRET .
+ Agreement provided for delay of a Bloc vessel pending Secretary of the Army-DoD-Department of State action on the recommendations of the Governor and CINCARI3 .
+ The government of Panama could be Informed by the Governor that more extensive inspeceion would be made of transiting ships on an individual bas-'a, but that passage would not be denied any ship conforming to security regulations .
+ Results of inspections ivsre to be forwarded to ClilCLMTS and, in the case of vessels carrying prohibited mate rials, CIHCARIB '..as to subject uhs shi t > to air surveillanafe upon departing the Canal Zone until it passed
+ U.S. quarantine ooerations were oasea upon the expectation that United States forces only would dc the job., as they also would in the further event of DPLANS 3i2-3l£|oe""ing implemented .
+ The U.S. went to considerable effort to gain active Latin American support on two fronts, the use of facilities and the actual contrloution of forces to quarantine operations .
+ In fact, a problem soon arose in the handling and exploiting of these offers . "In fact, there was no shortage of offers," says CNN.com chief executive John Defterios .
+ State informed CINCARIB and CIMCLANT that it had already told DoD that offers of assistance received from the four governments in question were of such a character that specific kinds of requirements could be taken up tnrough military channels .
+ Tbis same guidance was to be valid if similar rights were sousht elsewhere in the Canboean . Guatemala, El Salvador, Panama, Panama and Guatemala were to be considered . Tbis said it would be valid for similar rights to be granted elsewhere .
+ Some of Vhe ofl3""a c "" por" por"";id airfield facility use uere not restricted to quarantine use . Some of the airfield facilities are also used in quarantine .
+ Four Latin American countries officially offered forces for the quarantine . Three of then actually deployed unit3. Three of the quarantines were deployed .
+ The destroyers would oe ready for sea m thraa days and the subr.anns sooner . The subranns would be ready to sail in days rather than days .
+ At United States suggestion, submarine and marine battalion were put on standby . However, at U.S. suggestion, at United States suggested, the submarine and . marine battalion was put on a standby only .
+ Message CCMSOLANT to CINCLANTFLT, 020520Z, October 1962, SECRET TOP SECRET 124J Ttfp ft 235. TtfP ft 235 . The message was sent to CinclantFLT from October 1962 to October 1962
+ The Venezuelan Navy offered four descroyors, available on four-hour baal3.3., and a sub~arine, with 2 other destroyers available but of dubious value . Venezuelan Navy also offered 4 destroyers and 2 destroyers .
+ The U.S. accepted cwo destroyers and recommended that the submarine be employed in giving COMSOLAOT forces ASW training rather than in quarantine operations . The S.C. accepted the request .
+ The ships were already reported to C0MS0LAJ1T on October 30 for planning purposes . They were to be ready for sea .
+ Venezuelan destroyers arrived at Trinidad on the 9th and.th of November and commerced their patrol duties on the 12th . UH&e Venezuelan destroyors arrived at the island on November 9 .
+ The U.S. military in Santo Domingo recognized the problems inherent in the program . This represented an ambitious program, the military group said .
+ The ships both had defective evaporators which needed replacement before the ships could become part of regular U.S. patroltype operations . The ships were both needed to be part of the United States patrol type operations .
+ It was unlikely that paftroJ could be maintained more than two ;eeks because of ship condition and lack of fuel . It al30 was unlikely to be maintained longer than two;eeks .
+ U.S. representatives suggested the United States lend the Dominican Reuucllc three ope-hundrt. -foot Coast Guard type vessels for 1 purposes of quarantine participation . The United States also suggested the Dominican Republic lend the three vessels .
+ The United States offered to supply pares and fuel, instead of supplying it to the Taliban .
+ The Do-nniccn ships put irfco San Juan, Puerto Rico, for repair of thai.evaporators and vrere ready for sea by i'ovaaaer li.u.u .
+ The greatest of the Caribbean states, Mexico, declined to send forces to the quarantine operation . Mexico reaffirmed complete coaperanion with United States efforts . Mexico closed her porta to Cuban traffic and set a ten-ahlp surveillance patrol in Yucatan Channel .
+ The measure of success that the U.S. actually achieved in getting Latin American cooperation led to even more expansive hopes . Apparently the measure of . success that . the United States actually . achieved in . getting Latin . American cooperation .
+ Early in the crisis the concept developed of using Latin American forces in OPLAN 316 . The concept was developed in the wake of the crisis .
+ i""c would be useful to know ho.r it got started. This represented such a . unlikely possibility that i.i""c thought i.r would help explain how it started . i"c would like to know how the story started .
+ Message from CIMCLANT to COMSOLANT, IO2338Z, Movemcer 196& C&NFIDENTIAI,.-} LJ^T TM W<CRttV ^ / / the matter of equipment prAor to c^Tiitmen
+ Nothing further developed before the end of the quarantine . However, nothing further developed .
+ U.S. coordinated its policj; decisions with its allies with allies on tr.s one h.d., and iich it& pertinent overseas unified cor uanders en tne other . Ihe^e concern is the n&ya in whici trie U.
+ J TOP w. w. involved our persuasion of the Ailx-ss to Join with ua in maximizing the deterrent posture presented to the Soviet Union . This reduced the likelihood of a potentially dangerous Soviet riposte .
+ The expression ""Soviet Union"" should really be broadened to that of ""Communists"" generally . The expression should be broader than that of "Communists" generally, he says .
+ Ey presenting a common posture of readiness, it was felt that there would be a much greater chance of keeping the Cuban situation local . The Cuban situation would have been kept local .
+ The inability of the Soviets to make a direct riposte in Latir America meant that Europe remained the key area in the deterrent role . It remains true, nevertheless, that .
+ Previous attitudes toward U.S. Cuoan policy ran from quite cool in mo3t of Europe to enthusiastic in parts of Lai. in America . Previous attitudes ran from very cool in . Europe to very enthusiastic in . America .
+ The nature of the policy which emerged was restrs.ir.ed and offered the Soviets and Cubans a way out . In view o** the evidence the United States presented, it became difficult to take exception to the policy .
+ Allied Governments all declared official support for the U.S. move . Public opinion on the United States move varied .
+ Coverr-.pnts fully believad in the U S position or bocaus3 . They feared the consequences of appearing disunited at s posrioiy critics 1 moment .
+ It would appear tnat thxa was basically a matter of differing threat perception . It was basically the matter of difference between threat perception.
+ Since USJZ.CEUR 7 LiH^r r rw smzw.t l> /himself apoarently did not canine a So/ret riposte in Europe as lifcelyly, it was hardly to oe .
+ The United States achieved the political support it wished from Europe, out there waa really no united action . In summary, the U.S. achieved political support from Europe .
+ America, we achieved poL_tical support and a good deal of military support. America. America . America . Europe, we achieve poLtical support .
+ As to the 33cond focal point of this oapter, tr.a zc?-. nation with United States overseas Unified Commands, this :as primari a military problem, handled by the JCS . Just as ce first on lem was primarily a political one, nand
+ It was curious that this should occur, since one or the unique charac*eristics of the Cuban crisis was the fact that the United States held the initiative, unlike other crises in which the U.S. has found it necessary to respond to a situation where the 'Ar side
+ There was a week in which to coordinate an overall military-political effort instead of hours . Instead of hours, as in most other crises, it was just a week . The U.S. has a long way to go from a crisis to a crisis .
+ In the end there was not much more opportunity to coordinate the national effort than in pre/ious cases . Nevertheless, m the end, m . the end .
+ Clonsly related to the problem of timing in the slurting of the two most concerned CJtiCn -is ""zae dilemma" posed by the USSOCOHL'ATC relationship .
+ The Allion/a theater .iaa nov. resolved m the Cuoan crisis . This queation of how one member of an Alliance wish forces committed to NATO can coordinate those forces .
+ U3CIi'IC£Un was granted discretionary power and producer _.i.i ad hoc solution . Producer was granted the power to create the solution .
+ This sensitivity lasted until tne very final nours before the President's address . President's speech will be broadcast at 8.30pm tonight .
+ The second major prob . in coordinating U.S. overseas Unified Commands had its roots in the inadequacy of resources . SPmi TOP SKCEKT 35X, The Second major prob^e-i ir.--o .
+ Both in Europe and the Carlobean additive forces were felt to bs needed in order to meet potential developments .
+ In both cases, lack of augmentation forces would have seriously hampered contingency plans predicated upon the presumed presence of their presence .
+ C1N0ARIB was repeatedly warned to be prepared for single or multiple calls for help . But steps to augment his force did not even reach the planning stage until the crisis was under way .
+ We were committed to the defense of friendly governments whose support in our policy was sought, yet the means available to do so were extremely thin . The means available available to defend friendly governments were 'extremely thin' and 'extremely difficult'
+ In total., the crisis sharply demonstrated the critical interrelationship of military and political factors in national 2 1 coiCTand and control and control . The crisis demonstrated the importance of the military, political and political role in national security .
+ Political considerations aria-rig from the attitudes of Allies placed .restraints upon the military freedom of action of the United States . We could to soma de&ree influence these attitudes and estimates of the situation, but we could not totally transform them .
+ United States national security interests .rare considered so vitally involved that tj-s United States was willing to prepare and launch its move wirho^t informirg its Allies until the very last minute .
+ The United States showed Ihe limit a bu folxfcj.cal t-oi.aideracions-hior military necessity car. impossoss. Thus the United States .
+ In snort , the United States was faced with . three possible contingency situations — Cuba, Europe, Latin America . The U.S. faced with three possible contingencies: Cuba, . Europe, . Latin America, and . Cuba .
+ Thrf lot posed the possibility q2 further multiplication of individual situations . Thrf lots posed the possible . possibility of further multiplication .
+ It is highly instructive to contemplate how the U.S. might have responded to trouble in these areas had the attack on Cuba actually been launched .
+ The period of national decision making, which ran from October 15 to the 20thj, was not accompanied by major military deployments .
+ In fact, the formal JCS warning to the CIMCS was not sent until l8l4Z on October 21 . The formal warning was sent to the JCS on October 20, 2014 .
+ Certain steps were put into effect as the decisionmaking week drew to its close . However, certain steps have been put in effect .
+ The phasing of these was based upon urgency and the degree of danger of specific Cuban counteraction . The phases of these were based on urgency, the level of danger in Cuba .
+ With the President's address to the nation on tne 22nd, all military activity became overt and weit into high gear . All military activity becomes overt and overt following the speech .
+ By the time Premier Khru&hcnev agreed to dismantle the missile bases, early Sunday morning, October 28th, nearly all the required U.S. moves had been accomplished .
+ The Soviet concession brought a sharp reduction in fcensjon . The United States wilitaiy preparations continued until the very end of the crisis .
+ The 20th repi-ssenfca a definite watershed, and ha3 therefore been chosen as the terminal point of the ""first phase"" of the crisis .
+ Continuing deployments thereafter are covered in a later 3eccion of this study . Continuing deployments afterward are covered by the study .
+ Aata were net mads available, but because the necessary aata were available, their existence vill only be recognized . They we -a constant during thi? ..se'e, but . because they were there, they were a constant constant during the period .
+ SgO"" CT deployments undertaken to support tha President's program of action . CT deployments were undertaken to . support the President's . program of . action .
+ The chief naval activity, the quarantine, Is the subject of a separate chapter .
+ A great many other problems on lower levels of command, must necessarily be ignored, says the author of the book . "A great many of these problems are highly interesting and Instructive," he says .
+ The military contingencies faced in Cuban operations were limited blockade, selective air strikes, land, sea, and air defense of Guantanamo end of the southeastern portion of the U.S., invasion of Cuba, and preparation for general war .
+ With the exception of the requirements for invasion, these contingencies had all been provided for by tho time the ^ovIe~ concession came about .
+ The U.S. objective was to remove Soviet missiles and prevent the introduction of further introduction of such weapons . A quarantine was established by the establishment of a quarantine, employing United States naval forces .
+ The degree of the Tuiiza reacti'n c-iul-i nob ba escimajeiSj so it was deemed wisest to prepare for vhe maximum danger .
+ U.S. and Cuban forces could be goaded into attacks on southeast United States . To have attempted this early, before there had been any military clash, vould seem to have been suicidal for the Cubans .
+ It was recognized that their caoabillty to do so vss greatest at the outset cthe crisis . On the other hand, it was recognized .
+ The first two U.S. dcpl-jyrent-s were defensive in nature . Thus the first two DCPL-jYrent-S were defensive-only .
+ Si.nulbaneously with the second ofiese came the Infiltration into Florida bases of a large number of TAC airplanes in readiness for execution of OPLAH 312 .
+ Marine forceB assigned were mostly deployed or in the process of moving to assigned assembly areas fcy the a8ch . Army forces never did reach such a state of prsparation .
+ Prepara-cions for general war, both offensive and defensive, moved with speed and effectiveness on the part of SAG, GONAD, and naval strategic forces . SAG: "Preparatory war preparations for war moved quickly and effectively"
+ All strategic forces were at maximum readiness before the first phase closed . The first phase of the First Phase closed closed .
+ Most of the problems occurred early in the crlsi3.3. As might be expected, most of them occurred early .
+ The hectic tempo fell off fairly soon, and by the morning of the 25th the Battle Staff could report to the CJG3 that the previous twenty-four hours, and especially the last twelve, had been significant because of the 'slowdown' of Battle Staff activity .
+ In all area3 thingB were reported as having V>n>IP SlE/l&EY fallen into place and were beconi.i* routire. In all areas 3 things were reported to have fallen out of place .
+ Movements ' were generally on schedule as plan3 was rapidly changed into realities . Plan3 was quickly changed into reality .
+ This report will examine the deployments in support of each contingency category . The report will also examine the deployment of the U.S. National Guard forces to support each contingency .
+ The Eaae Defense Force at Guantanamo , when the crisis began, was obviously inadequate to defend a large area . The base was surrounded by prepared Cuban positions, especially since it was surrounded .
+ The airfield particularly was vulnerable to fire from dominating terrain features, the airfield was particularly prone to fire .
+ Water supply sources v,ere in Cuban hands outside the Base perimeter . Furthermore, water supply sources . outside the base perimeter . Water supply . sources . also . are in Cuba hands .
+ The first step vras taken by the JGS un the l8th '‘hen it ordered CINCPAC to chop in place one reinforced infantry battalion fron the 5th Marine Expeditionary Brigade of the 1st Marine Division (stationed at Pendleton near San Diego
+ Cn the J 9th C1NCLANT requested the Coomjandant, Karlne Corps, to nove the reinforaed Infantry battalion to Guantanamo as quickly as possible in phased tactical group arrivals .
+ Execution of the basic plan would raoet liUaly cause Cuban attacks on the Eape, or, on the other hand, Cuban attacks would be tho .occasion for executing the plan . Execution of a basic plan could cause attacks on Eape or Bace .
+ In the event of preemptive &l>strjlces against Cuba-, it was anticipated in the Plan that all or r-""c of * ne reinforcement a ;*oa"">d he deployed to the Base prior to the commencement of operations . The Plan was anticipated .
+ CINCLANT was further directed to Zand the afloat Mirine bf-.ttalion from the . Carib PHXSRON on the afternoon of the 22nd. The . 22nd .
+ In both cases, warning having been received, the reaction times v;ere muci\ reduced .
+ ProQuest Information and Learning, The Quorum, Barnwell Road, Cambridge CB5 8SW, England . iiti^o^ jjijlijii iir INCHES I 1 iiihlilil.ilih hlilililih .
+ PHIBHON battalion eshore at the tine of its scheduled arrival at 0800 on the morning of the 22nd, instead of waiting until the afternoon . Instead of waiting for the afternoon, the battalion waited for the day .
+ This request was granted by the JCS a few hours before the b:.';talion arrived . The request was approved by the the J.CS just hours before they arrived .
+ Evacuation of dependents and noncombatants from the Ease ordered in accordance with plans, with embarkation Monday and sailing vrhen loaded . The last ship bo clear Guantanamo no lauer than 1300 hours that same day .
+ The Commander cariobean 3ea Frontier was to provide air and surface escort for the evacuation ships and air escort for aircraft carrying out dependents until well clear of Cuba . The Commander of the Commander of Carobean was to . provide air . escort for evacuation ships .
+ Evacuation ships v;ere to proceed at best speed on a track to keep as n clear of Cuba as possible . Evacuations ships will proceed to proceed to Cuba at best possible speed .
+ A total of 2810 persons w&3 aircr-ft and four ships, tne last ship clearing fche Base at 1730 hours and the last aircraft half an hour late . 391.3 aircraft, 4 ships and 2810 people were on board at the time of
+ HAWK battery from the 3rd Light Antiaircraft Missile Missile Battalion fco improve lou-altifcude defense capabilities .
+ Message JCS 678O to CNO, CMC, CINCLANT, CIMCPAC, 191726Z, October 19o2, TOP SECRET . CINCLAOT decided to send one battery on to' 1 Guantanamo V»y Marine aircraft .
+ The thought is directly contrary to the presumption that any attack on the Ease would provoke execution of OPLAN 3l2j as spelled out in CISCLANT's message to OIHCAPLANT and C0MANT3EFCCM on the 20tiQ 3
+ A similar disparity appears between this CINCLANT 3 presumption and the original JCS blockade of Cuba order .
+ This order stated that establishment of the blockade might lead to Cuban attack on the Base or on planes and ships sneering ar leavirg . This order was issued in response to an order from the U.S. government .
+ The order of magnitude of these U.S. caouaicies v,hlch m_ghhave to be suffered before such authorisation was g-vsr was not Indicated .
+ The order was itself amended by the JCS on 2300092 to read ""... will United States forces oe .e authorized by the . JCS to attaclc ..”" thereby further tightening control . The lack of precision in regard to operational responsibility was compounded by a
+ The last mentioned message had barely been sent before the JCS again seemed to change its mind or its emphasis . The JCS had barely sent the message before changing its mind again .
+ The JCS told CINCLAIIT to delegate authority, previously reserved to themselves, to C0MNA7BASE OTMO to order strikes against bases from Cuban attacks on 2 Guantanamo bases . In a message three hours later, the JCS said strikes had been launched .
+ This was certainly a major extension of the Base Commander's authority, bus the authority clearly had to be lcept within the nontext of the obvious JCS intent to control United States responses, as evidenced in t-hs body of previous messages .
+ Base Commander' z authority was still not 3pellod out . The full extent of the Base Commander's authority is still not out .
+ The naintenance of ultimate control in Washington was further implied by the establishment around this time of a direct communication link between tho Unite House and the Naval Base .
+ Large an attack on the Bass '“ould be toleratec oerore United States forces from outside the Basa would be employed,' says the order .
+ Total Ease personnel numbered some 5860 me^ 1 by the morning of the 25th, and the HAWK battery that arrived that day further Increased the total .
+ The Base remained on a tense alert during the week, but the lack of any obvious hostile movss by Cuban forces encouraged confidence .
+ The water supply was not tampered with nor were Cuban workers at all prevented from entering the Base . Cuban workers were not allowed to enter the Base during the incident .
+ Measures to improve air defenses in southeastern comer of the United States were among the first U.S. military actions to be taken in the crisis . Measures were taken to improve the air defenses .
+ An F4H interceptor squadron was sent to Key 2 We3t, where it was chopped to CINCONAD control for air defense . In fact, as early as October 9 the situation in the Caribbean had worsened .
+ JCS directed CINCOHAD to take action immediately for the necessary augmentation of the air defenses of the soutneastern United States Cn . The same day, CIHCLANTFLT alerted shore-based Navy and Marina fignfcsraquadroia
+ He also requested a 4-battery HAWK battalion for employment at Key West NA3 . He said the most readily available Army or Marine unit should be considered .
+ JCS promptly approved most of CINCONffD's proposals for implementation . The JCS has been in charge of implementing most of the proposals .
+ SAC immediately offered to provide the necessary facilities at IlcCoy and Homestead . SAC offers to provide facilities for Ilcoy, Homestead and Ilestead .
+ Within less than a day, the JCS reversed itself on the matter of the HMJX battalion, and ordered the Army to expedite the readiness scatus of a HAWK battalion at Port Meade .
+ The HAWK battalion was not fully operational at Key West iintil the 1 night of tha 27th . The move took a surprisingly long time and the move took place in Key West . The battalion was moved to Key West on July 27 .
+ Despite the JCS-approved augmentations, doubts persisted about the air defense problem . JCS asked CINCONAD's Judgment regarding the overall adequacy of the air defenses of the southeastern United States .
+ The deployments have not affected COJKJS defense capability, he said . Nor did he think the deployments had appreciably affected overall defense capability . He added that he did not think deployments had affected overall COKJS capability .
+ He also suggested redeployment of some regular interceptor units into A.-IG bases could be made without degrading the overall air defense posture .
+ He had no further re-esta for the imp--overer 3 of air defense measures . Beyond that, he had no more re-estimated for the measures .
+ JCS recommended another air defense measure, in response to a JCS query of the 19th, namely the mobilization of the Puerto Bican Air National Guard when the blockade was established .
+ The movement of fighters into Florida brought in 62 additional aircraft for CONAD . The total available to OINCONAD under the operational control of the Montgomery Air Defense Sector to 183 .
+ Of these, 15k were based in Florida, south of a line Panama City, Panama City . 15k of these 15k based in Panama City were based there .
+ Twenty-two aircraft were kept on a five-minute alert, 72 on a fifteen-minutes alert . 72 aircraft were also kept on an alert .
+ Four to six to six were maintained on airborne alert patrol around the Florida peninsula .
+ During the President's address to the nation at 1900 EOT on the 22nd, 22 interceptors were airborne in the event of same rash act fror Cuba .
+ CINCOMAD was directed to reexamine hiG air defense plari3 for the southeast . Despite the affirmation by CINCONAD on 201722Z that he nad no further requests for improvement of 5ir defense measures .
+ This tlir.e the dam oroUe.e, and ddCCHAD began to put forward mas3ive requests . The dam was built on top of the dam, which is now under construction .
+ USAF Chronology of the Cuban Crisis, prepared by USA*"" 1 Historical Division Liaison Office, TOP SECRET, Volume 1, page 15 . H-* USAF Chronologized the Cuban crisis .
+ K ' JCS insistence upon urging urging urging CUCDKA."* to males neu evaluations is unYeiown., and 1b doubly curious since moa'-i of his requests were from this point on not approved . K 'JCS insisted upon urging . urging CU
+ The Cuban HE threat hardly merited such activity and measures as CIHCQNAD proposed, and the JCS seem to have chough* so, too, too . JCS seems to think such measures are needed, too.
+ The likelihood of a, Cuban nuclear attack as an opening move was Judged as extremely lov;, Ull. At the same time, the likelihood of such an attack was judged extremely extremely highly likely .
+ In addition to the KAHK battalion already assigned hin, he asked for eight more battalions . CINCCNAD proposed to use whatever units were furnished to protect the three large airbases as a first priority .
+ A mininrum of three and a half battalions was considered neo-errant for this reduced -scale effort . -D 4l4.4.
+ CIMCONAD requested the 2nd Pattalion, 52nd Artillery, a NIKE -HERCULES unit currently stationed as a STRAC unit at Fort Bliss, for deploymerfc L o ths Mi^rj.Hom^s-cead area .
+ He proposed using whac hs received on the 2 same priority basis as the HAWK units requested . If less sha.i '.r.o fuJi amount could be furnished, he proposed .
+ HERCyrSS battalion and one Army HAWK battalion to protect Miami-Homestead., would be deployed by batteries to cover Patricia MacDill, Houston, Hew Orleans, Mobile and Jacksonville .
+ Patrick and MacDill each were to get two batteries, the other locations one each . The other locations received one battery each .
+ Some confusion arose over the JCS order in regard to deployment . CINCPWAD understanding the J CS message, reinforced oy a celecon earlier,3 meaning both oattalions sho *d be put m tne ''ixcmi-nonestead area .
+ He proposed instead to place the HERCULES battalion in that area to cover rfomestead first and the contiguous population second . He proposed that the HerculES battalion cover the contiguous area first .
+ The HAWK battalion would be broken up zo covtir MisuuiHomestead, Patrick, and MacDill and ita comMgacus population .
+ The SAM problem having been disposed of, the JJOram ' gun lsaue took over bhe role as chief pubject of cojwunication . The SAM issue has been dealt with .
+ CINCONAD's request for twelve battalions of AAA AW was found to be grossly in excess of what could be provided . The request for 12 battalions was 'grossly in excess' of what was required .
+ The JCS instructed hi-n to give priority in proposed deployments to Key West and Homestead, and asked his recommendations for disposition of units 1 excess to these priorities .
+ The JCS request to CINCONAD for his estimate of AAA AW requirements had been based upon consideration of both the MIO and IL 28 threat to the southeast . JCS requested the estimate based on consideration of MIO/IL 28 threat .
+ He indicated thar the MICthreat was a very marginal one in viavr of the recently taken air defense steps . He indicated that the MIC threat was very marginal .
+ IL 23 threat, botn high and low level, would davelop as IL 28's became operational, had not yet been fully evaluated . On the other hand, the IL 23 threats had not been evaluated, said the U.S. government .
+ CIHCOHAD was asked to reevaluate his AAA AW priority requirements for airfield defense in view of the reduced Mia threat .
+ CINCONAD indicated that hi:, entims-fcad requirements nad by now risen to 14£ battalions of 4omm guns . 8& battalions to cover Miami -Homestead, Key West, Patrick, MacDill-Tampa, and McCoy-Orlando
+ The remaining six units would cover Houston, New Orleans, Mobile, and Jacksonville . Mobile, Houston, Mobile and Jacksonville would be the other units .
+ The request was quite unrealistic, since that number of active units simply didn't exist . The request for active units is quite unrealistic .
+ 2 CENCNOR4D ^ realized that the 40mm guns would have extremely limited value, and he appreciated the mobilization problem . It would have required calling up some 9500 reserve personnel to provide these units .
+ JCS sought CJNCHORAD's (slcj^ comments on possible civil dcfanse autjona ir Florida) In connection with tne Dossible XL 28 threat araaist cities .
+ Ho felt tlw population in the area should have the benefit of an announcement by the President or the Secretary of Defense that the military build-up was precautionary, and by virtue of it the probability of attack via lessened .
+ Fa would urge the population to continae a normal life, and suggested increased news coverage be made cvailable . Fa would also urge the public to continue to live a 'normal life'
+ No drastic steps, each 33 blackout, or CONELRAD, or evacuation were required . No drastic action was required .
+ Meeting this posed a much more severe sat of problems which were handled on an ad hoc basis . Meeting this would have been a meeting of problems that were handled by ad hoc .
+ The United States had no missile detection and tracking radar coverage for the area of the Caribbean . Tha nub af the problem lay in fchg fact that the U.S. did not have missile detection .
+ H3 U3AF was directed to place an FPS-^9 BMEWS bracking radar at Mocrastown, New Jersey, on 24-hour operation to provide some detection .
+ In eliminating Cuban missile and axr capability aid m crippling Cuban mobile forces wauld . Their role was critical and upon tieir success .
+ They were to do their job before the assault landingB were made . They were supposed to be able to make the landing landing .
+ TAG aircraft crowded into Florida bases . They were joined by Marine attack squadrons meant to support the Marine amphibious aaaault 3 . TAG aircraft were deployed to Florida bases in 2009 .
+ Carrier divisions took position off Cuba to support the landings and to aid the clBfenBe or Guanfcanamo . At sBa Qw^ carrier divisions took positions off Cuba .
+ On the 18th, the JCS granted CZNCLAKT authority to release special intelligence planning information for use at air crevf level, thus pernitting pilot briefinge and cargsc .
+ CIHCAFLAHF requested CINCLANT's support m getting these for« B returned . As a result or the situation in the Caribbean . CIH CAFLAHf requested CinCLANT support m returning the items returned .
+ The JCS felt the danger of concentration outweighed tn^six-hoar advantage .
+ WQ CXMCLANT called CINCAFLANJ to relay this infornaticn, and CXt-TCAPLANT ' attitude toward the JCS suggestion was quite negates . The JCS suggested that the suggestion should be vetoed .
+ The move to forward benes had bean undertaken as e rssul"" of 3^,5 action oil <• :o evening of the SCtn.
+ H3 ':ncw of rsu 2t el ' 3 genco j-'ree received union would <ir prial iy c3ie ' ' I hi a vi bVcC vcwrnsional limited attack. H3: NCw: 2t
+ The risk nay cave in-reaced as a result of recent additional irtfllJsanrs. As to nuclear attack, the risk has been re-evaluated . The risk has not yet been addressed .
+ Kowevar, he did r ji, belie' ^ anyone . Lnaught that tne nuclear threat before we -ttaek&H was a real ens. It was a 'real' threat, he said .
+ If It 'jar--, he fsls v-i were erproachir^ t\ce whule Cuban coe.'ation with the wrong 3tratecy and wrong weapons . If It was 'jar --, it was a mistake,' he said .
+ CTNCAFLAOT's position was that any redeployment of some strike forces would seriously jeopardize hio ability to deliver a maximum strike at 1 dawn on the 23rd . CTNCAFAOT: Redesployment would jeopardize the ability of hio .
+ This strike timing, it should he added, was the one toward which CIHCAFLANT had been striving in readlnaBs terms ever Bince the crisis activity started . 44a. Bince said strike timing was one of the one .
+ It was t~*uirt to recur as the crxais woelc advanced and airplanes continued to pour into the bases of the southeast . This message temporari3j' stilled the i3rue, but only temt>')/Mrily, It was
+ The ls.ttev question penraa is superfluous, since CINCLANT had already made known his po-sitlon on it .
+ In reference to the first query, he stated that in nost cases the planes would return to their home bases . He said that in some cases, the planes will return to the home base .
+ CINCLANT added parenthetically that he was taking eps to improve local dispersal at the bases . Cinclant added that eps were being used to improve dispersal of bases .
+ He remained adamant that such a move would heavily influence his 'bility to launch OPLAN 312'
+ The next day CIMCLAJfT reported to the JCS that he was taking several steps to reduce the concentration . Despite this firm position, the next day he reported that he had taken several steps . The JCS said he would take steps to cut the concentration of the concentration
+ He had ordered AFLAOT to reduce the number of Air Force and Marine aircraft by 15 percent by rotation to home cta-cions .
+ LArTFIT had been dire^sed to relocate or.e fi&hter squadron from Key West . The squadron had been stationed in Key West, Florida .
+ Maximum local dispersal of bhe remaining aircraft a being effected, and CINCLANT did not consider that hiB adiness poatura should be further reduced by additional 1 . locations , 452 .
+ It would appear that these proposals did not meet ifch JOS approval, they having also asked CINCCHAD's views •n CIK'CLAOT's recommendations .
+ The suspension was apparently related to the Soviet concession of that morning, 453 . Presumably the suspension was related to that morning's 453 concession .
+ This exchange of messages coincided with the Soviet concession which ended the first phase of deployments . The Soviet concession was made to the Soviets in order to end the first period of deployment .
+ One other item of interest may be added in connection with air strike force deployments . Air strike force deployment may be an issue of interest .
+ Sometime on the 28th the naval carrier divisions wszz'e/bothl withdrawn from cie Booth of Cifoa after submarine locations indicated possibly 2 inc--oaspd undersea threat . Sometime in the days following the attack, the carrier divisions were withdrawn
+ Army and Marine forces were involved in the crisis in Afghanistan . The assault forces were part of the assault forces involved .
+ In order to understand the purposes of the assault forces' preparations in this period, it Is useful to have some comprehension of the nature of OPLAN 3l6 in Its tactical details .
+ Simultaneous a Naval Task Force would make an ashore tnoGt of the 2nd ^rine Division . Simultaneously, a naval Task Force made an ashore presence of the division .
+ Airstrikes would land her9 through the Marine bridgehead, Marin e Deployment q 453.9 .
+ fTwo^oattalions from LAOTCOM and anonel from the 5th MSB in California were larded by sea or air at Guantanamo on the 22nd and 23rd . With two BDT's In Guantanamo and one In the Medit3rranear, the
+ PACOM was the^fore called upon early to provi-le further support , 459.459. PACOM . PACOM called upon to provide further support for the U.S. effort .
+ JCS ordered a Marine H£WK battalion ~roni Twenby-Nlne Palms, California, to Cherry Point on the 19t.i TOP S5CRBT .
+ RET TOP gflfajRKTT TOP SECRET ™^ for temporary deployment, part of the uni t scheduled for duty at Guantanarao .
+ CINCLANT had raised with the JCS the matter of the missing battalion from the 5th MEB, vihich had been sent to reinforce . In the meantime, Cinclant had raised the matter with JCS .
+ JCS instructed CINCPAC to reconstitute the 3rigaae. CINCLANT suggested the Brigade be reconstituted by the addicion of another BLT.-' Hi 3 proposal was accepted by the JCS who suggested the brigade be reconfigured .
+ Tne JCS SITRSP for the next morning reports that a new battalion had already been selected . The next day reports that the new battalion was selected .
+ The JCS on the 25th modified its order to 463. p or some reason, the order to. p was changed . The order was changed from 463 p or 463 .
+ CINCPAC of the 25th, instructing him to load the 5th MEB aa soon as possible and to advise them of the earliest sailing date . He also instructed him to advise him of the early sailing date of the 5B .
+ The Brigade of)850ojmen got under way at 271710Z in three increments . Its estimated time of arrival at the 3 Canal Zone was November 5th .
+ Landing Group East in CPLAN 316 was to be ready to land at Guantanamo or wherever else CINCLANT determined . Marine fo; lng. k6b, in the meantime .
+ Aa of tl-,3 nejet morning, ^;-e [mreslsLT'acrr El-sasher-a were designatPd .
+ Marinas of Landing Group West were either near or en route to Cuban waters . Marinas were either in or out of Cuban waters on Monday .
+ Support units of the 2nd Harins Division and II Marine Expeditionary Force were being readied . Support units were also being prepared .
+ J66. probably the ma^or set of problems arose out of efforts to improve on movement schedules so as to reduce Jjhe time of getting Army fcroes ashore in Cuba in Cuba .
+ The operational problems derived therefrom were essentially logistical, the same farailier tale of inadequate facilities an-, .shipping an-an-hour, an-hour service .
+ With the changes in PLAN'S 314/316, the Arriy's participation in the crisis varied accordingly .
+ By identifying the major Army units in the troop list as it appeared in mid-crisis v/eeJc, it v/ill be simpler to follow the various Array efforts . By identifying major units, it will be easier to follow Army efforts .
+ Tha total Army force planned for commitment a outset oi""* the crisis was therefOi-e/gg^aooTl ^71.5% .
+ The air echelon vrould deploy directly from its home bases at Forts Bra&g, Campbell, and Benning .
+ Fji e surface eahelon trauld deploy from home stations except for Task Force CHARL7E and one tank battalion . It would stage from parts of ^mbarkstion at the> Florida air bases . l72 l72 .
+ ipploy from Stewart and Banning, as would moat of the i call reoerve . TO ft* JfiKCRE,"""and Banning,"" and "Reoerve,"" would be a moat < _hese units would embark fr
+ All ZI armies had opened emergency operations centers by the S2nd and all units earmarked for OplAM 316"" were 2 ordered to return to their home stations . A number of these units were engaged in exercises when the crisis began .
+ Exercise THREE PAIRS has been underway at Port Hood, Texas, since October 15th, involving the 1st ard 2nd Armored Divisions . Exercise is key element a in OPLAN 3l6, a key element in the organization's plan for the future .
+ He had approved withdrawal of tactical air units involved in the exorcise and their return to home base . Only a minimum number of sorties were arranged for exercise purposes .
+ Several ocher unite not b-ised at Fort Kood ware released to GIIJ^STFIKE for return to home station . Several ochers united not b/ised and released to be returned to their station .
+ OPLAN 316 was concerned over the possible impact of cancellation on tactical surprise for 75.5.5 million troops . The team was concerned about the impact of the cancellation of the planned deployment .
+ TOP SECRET _o9_o9 _ ^0r% were not included in Cuban plana. Top secret list of secret Cuban secrets . Top secret plana was not included .
+ The exercise was to continue on a reduced basis until October 27 to provide cover 1 for Cuban deployments . The exercise is expected to continue until October .
+ CINCPAC was conducting Exercise SHORE LINE at the same time, and he received similar orders concerning the 312/316 I units participating in it .
+ This was the composite armored combat command designed to support OPLANS 3lV3l6, totaling 4600 men from the 1st Armored Division . The command was designed to provide OPLAN 3LV3L6 .
+ The Chief of Staff of the Array took a personal hand in attempting to improve this .-situation, insisting that some United States armor go ashore on rD-DayA . By moving TF& forward to Fort Stewart, its arrival in fch ff|ffi8w t
+ The new movement schedule was ready by the 26th and called for TJC's introduction being speeded up by one to three daya. The TJC is expected to be introduced by the end of next week .
+ At the same time the 2/69 Medium Tank Battalion which was to support the Marines afc Tarara would also be speeded up . A portion of the unit's 67 M^S tanks would go ashore on D-Day . At the time, a portion of a part of
+ The forward move of TFC uca has been plagued by a numoer nf mishaps and shortages if fad-jlti^s. FC Toronto FC is currently without a single player .
+ The 3rd and Ufch Increments were scheduled originally to go to New Orleans, but on the 27th it was proposed they movB to Port Lauderdale, Florida . It was originally proposed that the 3rd, 4th and 5th would be moved from New Orleans to Port
+ Florida, reducing their movement 1 time to the objective area by 3 days. Florida. Florida . Florida .
+ The floating reserve was alerted for movement to Fort Stewart and ooirmenced on the 23rd . The floating reserves will be moved to the Fort Stewart on January 23 .
+ The on-oall reserve forces ware alerted for rail loading commencing November 2 2 for Fort Stewart . Fort Stewart is located in Fort Stewart, Georgia .
+ The saturation of bases in southern Florida waB rsoognized as a potential source of trouble . CTNCLAOT began early to look for additional baBes .
+ He reported to the JCS on the l8th that after a conference with CINCAFLAfiT and the CG XVIII Airborne Corps., he was convinced of the requirement for opa?ocka Airfield, a V'.rld Uar II installation .
+ The JCS thereov^on immediately authorized the iroveraert of units, at CINCLANT 's discretion, into OpalockaTJ i^BS, Similar efforts -vrere launched by CinCLAMT on the 21st to get the
+ The problem *,is the standard one of time ana an inadequate minber of the proper type of ships . The problem is the standard time ana ana an insufficient minber .
+ There was a feverish search for amphibious vessels which were in particularly short supply to carry the Army forces . There was also a search for an amphibious vessel which was in short supply .
+ CINCARIB, faced with possible multiple calls for help from Latin Ameriaan governments., had hisjtwcJLST's taken from him and given to CH7CLANT . Even coirmercially owned LOT'S in the Gulf area were considered for chartering
+ Most of the activity over shipping came after the first phase when the rather ponderous machine of the assault force began to achieve some readiness stacks, 409 . However, most of the action came after a first phase .
+ With the additional requirements for airlift imposed by the reinforcement of the Army air-landed echelon under the revlse <||~OFLAW 3l£j consideration was given early to tne possible call-up of reserve units .
+ D-Day was part of the security apparatus Burrounding Cuban operations, but at all events the decision was made not to wait for . Presumably this restriction co-d-Day .
+ The Air Force directed the callup of certain reserves, consisting of /eight/ troop carrier wings . The callup was ordered by the Air Force of 0900 October 28th .
+ The additionalQs82J aircraft would make an invaluable augmentation to follow up airlift operations . The aircraft would be an invaluable addition to follow-up airlifts operations .
+ In total, then, the forces preparing to assault Cuba at the close of the first pn_se numcered eone [2py,000 > \i«en]
+ These included the Army and Marine forces described, and a Navy force comprising a ctri.d.ng and covering group with (twoj attack carriers, an ASW group, and submarine group) These included a . Navy force .
+ Total Navy personnel afloat J 65,000 . Total Army personnel afloat . Total Marines I 44,OCO . Total Air Force personnel 150,000. Total Air force personnel 150.000 .
+ J General war offensive forces deployed or brought to readiness included SAC naval strategic forces, and tactical air units assigned to general war missions in the overseas contrands . SAC forces were assigned to military missions .
+ The records available did not provide any data on the readiness process for naval forces . Ifc must be presumed they reached proper alert status at the assigned times .
+ UZ jr.-' r-j / 501jf/rot:aia vary considerably as between the several sources checked .
+ In Eurcpe additional precautions were taiwn at the end of the crisis week . In Eurpia, extra precautions were taken to deal with the crisis .
+ Defensive preparations for general war were taken both by air and sea forces in thia period . Defensive preparations were taken by air, sea and air forces .
+ CCUi*D Treasures to raise the alert level of all national air defenses . CCUI*D to raise alert level for all air defenses. CCUUiD Treasure to increase alert level .
+ The dispersal order itself came the a very Cj->> following afternoonj the move to be carried out < 3 quiet, low key basis . The move was carried out on a quiet and quiet basis .
+ The dispersal of the NOP.AD fighter force was completed during the 23rd, Jl73jalrcraft moving to their dispersal sites . 'i 5C6.AD' is the latest in a series of fighter jets to be deployed in Iraq .
+ Air defense capabilities remained high, CltfCOHAD reported at SOOO on 26 October . 94 percent of his fighter forces, 92 percent of the SAMa and 99 percent of SAMa were operationally ready .
+ CTNCONAD's forces have seen a decrease in pressure on the forces nationwide . Before this time, however, however there had been a alight decrease in the pressure .
+ This was probably the result of the generally sound stafce of air defenses . Air defenses were soundly sounded in the most recent air strikes .
+ In a summary to the CSAP early on the 23rd, CINCONAD stated that the former air defense capability had been only slightly disturbed by the deployments to the southeast, and that, in the light of the present situation, the overall air defense .
+ The airborne alert ma^n^ne, level was reduced fromT cenj interceptors [to fouij effective 1145 on 23 October . The new level to ba ^aiai.italned buc increased immediately .
+ Additional interceptors would be roaintainod on strip aleri available for immediate scramble and augmentation of the airborne alert force . Additional interceptor would be available for . immediate scramble, augmentation and . augmentation .
+ Hie reduced le^el would allow for continuous operations and . conserve interceptor force for any higner alert level required . The reduced le*el would . allow for . continuous operations .
+ The extent and complexity of operational air deployments connected with COKUS defense and SIOP readiness preparations, and the concommltant need for central coordination of the respective activities of the two co-equal CI*VCs .
+ The barrier v/aa to be composed of patrol aircraft and submarines . Should the situation worsen, the barrier would be moved outward to the Greenland -Iceland-United Kingdom line .
+ Submarine 8 moved out of New London at 1400 on 27 October . Submarines were to take up positions on the Argentia' Barrier .
+ From the events and major command problems described, certain inferences, may be drawn concerning underlying command and policy dilemmas . The U.S. military has been in the midst of a major crisis in the Middle East .
+ These are not the sorts of issues which appeared specifically In the flow of messages and airecti""es, but rather appeared indirectly at intervals as certain problems arose . These were not the sort of issues that appeared specifically in the flow .
+ The influence of tnese dilemmas //as pei*vasive and quite evident in xshe nature of the major operational problems and in the way the JCS dealt wi»h these, 512, 512 . Nevertheless, the influence of the . influence of . tnee
+ The really crucial and interesting lessons derived from U.S. military deployments all came between October 20 and 28 . The lessons came from October 20 to 28 .
+ These deployments were made under the pressure of time, secrecy, and the need to act without provoking What we wished to avoid . These were made in the face of time and secrecy,’s said .
+ Only instructions were relayed orally at the time of the incident . Presumably such action was taken informally .
+ Jlatter deployments suffered little of the pressures of the first week . However, they suffered little pressure of the initial week .
+ The entire psychological atmosphere was changed by the Soviet concession on Sunday, 28th. The entire . psychological atmosphere of the Soviet . atmosphere was completely changed by Sunday's concession .
+ Th9 relative smoothness demonstrated in some of the deployments was due in no small measure to the fact that U.S. foroes had warning . Th9 was deployed in the United States foroes .
+ The CINC's were not officially informed by the JCS of the nature of the U.S. action program until the 21st of October . The CONUS-based Cinc's, LANT, SAC, GONAD, were all engaged in preparations by the 17
+ Boon were recipients of information copies of meroages or Service directives which alerted cnem to coming action . Their subordinate commanders and the overseas CINC's were also very very Boon .
+ /CINCSAC oui the 17th directed his staff and Saoordinate commanders to prepare the 1/8 airoorne alert and the dispersal of the B-hJ force, and ysc t'e troves vure net ordered by -che JCS until
+ AFLANT's deployments began at noon on tne 21st, but were preceded by three days' preparation ti'se . AFLANT deploys began on Tuesday morning, with the first deployment of AFLANT deployed at noon .
+ In these cases strategic warning was put to excellent U3e . However, the nature of the forces, their mobility and speed of response, allowed thsm to exploit the advantages of strategic warning .
+ In the case of the assault forces, the other side of the strategic warning coin was shown . The assault forces were shown to be on the brink of collapse in Iraq .
+ It is often forgotten that the simple receipt of strategic warning itself is not enough to confer an advantage j one must be able to use it when one gets it . It is very often forgotten .
+ In other crisis situations of recent years the United States has sometimes received such warning, but has often been unable to act militarily oecauae of political considerations . The U.S. has often received such warnings, but often has often ignored them .
+ It has been necessary not to alarm friends, not to provoke enemies, to preserve secrecy . It has also been necessary to maintain secrecy, not alarm friends or provoke enemies .
+ The second and third of these considerations were very evident in the Cuban crisis . The Cuban crisis was a major factor in the U.S. decision .
+ The dilemma of the Cuban crisis was that the very forces which had greatest need of the maximum strategic warning in order to prepare and to deploy, the assault forces, >vr»r o tne very ones which could leest exploit what warning they did receive .
+ The time span between the openinof_OPLAH 32 2 and the closure of all a3sao.lt forces will be reduced to the minimum . This is crucially important because of the need of the assaulc forces to reduce the . time span . between the
+ There was also evidently operative the other contradictory aspect msnnioned above, political constraints . Political constraints are also apparent to be the reason .
+ The United States policy was to ensure that the Soviets were fully a'vars of our intention and our ability to remove the Tt.^mK<CRfe , I 7i top sscEra ; TO^J^i-iKIT offensive weapons, even
+ "On the other hand., we also wanted them to understand that we would do this only as a last resort in pursuit of the stated objective," says the government . "We would do it only as the last resort," she says .
+ "We were threatening invasion and preparing for it clearly, but vie did not wish to create the impression that a U.S. invasion was utterly inevitable," he said . "This was the extreme measure of violence," he added .
+ Invasion implied the destruction of the Cantro regime, and tnus raiBed an entirely different set of problems for the Russians . i H 518. i H H 519: Invasion implied destruction of Cantro .
+ 'Even if the secrecy requirements of the week before the 22nd had not tended to preclude it, any major assault forces deployments in that period may very well have been held up in order not to create an impression of inevitability'
+ A U.S. invasion of Cuba may well have strongly influenced the decision to leave the Soviets a .ymenco. In other words, the . critical political consideration of leaving the . Soviets a \»jy to escape a clash by simply removing the offensive weapons and thus removing
+ Same general problem was the possible Cuban use of nuclear weapons against a U.S. assault force .
+ The clear academic distinctions between the two sets of categories were seen to be not so clear after all . The distinction between academic and non-academic categories is seen to have been made clear .
+ The result was a deliberase effort on the part of the JCSj presumably mirroring th2 concern of higner political auchoritieB .
+ In some cases this was done by carefully spelling out directives., such as in the Blockade of Cuba order .
+ In other cases it was deemed best not to be e::pl±cit, but rather to maintain control through flexibility . "In other cases, it's best to maintain flexibility through flexibility," the author says .
+ The rules of engagement instructions to CINCOND for the southeast United States or the instructions to the Base Commander at Cuantanamo. This sometimes, in fact almost inevmably, produced ambiguity, as well as ambiguity . This sometimes produces ambiguity, such as in the rules to C
+ JCS would de facto compel responsible commanders bo checx back with them before making any serious move . Presumably not spelling out limitations of authority, the JCS is de facto forcing responsible commanders to return with them .
+ Control te-i.'ec"" ta ;s strengthened through ambiguity . Hence, pa wares'.,-, control te-I.'ec'ec"" .

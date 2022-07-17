@@ -1,0 +1,738 @@
+The author would like to thank Ryan Goodman, Oliver Persey, Menaka Tennekoon, Erika Noronha, Lara Sofia Romero, Amandeep Singh, Sumeya Mulla, and Andrew Li for helpful suggestions and comments.
+The author is furthermore grateful to the editorial staff at the NYU Journal of International Law and Politics for their assistance and advice, especially Dainec Stefan and Amy Lee Dawson.
+Indeed, three years3 have passed since the Russian annexation of Crimea and it seems unlikely that Ukraine will regain power over the territory anytime soon.
+Following such an argumentation one might be tempted to proclaim that international law in general and the prohibition on annexation in particular are not law at all.
+Given the perceived lack of consequences, even a less radical perspective could conclude that there is a qualitative difference between what is termed international law and the law we know from domestic legal systems.
+However, under closer scrutiny, the Crimean annexation is in fact an example of how international law creates obligations that international actors follow.
+In addition, the specific rule prohibiting annexation is emphasized and even strengthened through the international reactions.
+First, from a positivist7 perspective, actions and statements by the international legal community create state practice and opinio juris.
+Contrary to the critical view, the Crimean case evinces state behavior that supports the prohibition on annexation.
+Second, from a consequentialist8 perspective, the international backlash against Russia’s actions went beyond previous reactions.
+In fact, some have argued that it might strategically be best to give up Crimea.
+While this paper does not attempt to ultimately prove the fate of the prohibition of annexation, which only time can tell, it does put forward that the following analysis constitutes one significant element of such a proof.
+In the following, the term will be used to denote a perspective that focuses on the rules of international law, specifically customary rules that are formed through state practice and opinio juris.
+In this discussion, the term shall mark a perspective that focuses on whether or not a violation of international law causes negative reactions.
+Moreover, international attention has largely shifted from Crimea and Eastern Ukraine to Syria and other regions, measured by both media attention as well as the focus of international efforts.
+However, as evidenced by continued statements stressing the illegality of the situation, the backlash has not given way to Realpolitik when it comes to the annexation of Crimea.
+It is especially this shift in focus that allows for a more substantive analysis on what matters legally, decoupled from actions that are taken for opportunist reasons.
+Lastly, the Article will conclude with a final assessment of the effects of the Crimean annexation on the rule prohibiting annexations.
+Throughout the discussion, the Article will address both of the above-mentioned perspectives.
+Thus, examining whether it is possible to find evidence of state practice and opinio juris and whether third party states answered the violation of international law.
+This Article claims that the international prohibition on annexation is strengthened through the Crimean case.
+At the very least, the Article sets out to show how critics grossly underestimate and misunderstand the repercussions and their respective meanings.
+After all, Russia did not, and likely will never, accept jurisdiction of the International Court of Justice for the issue at hand.
+Authors with a less pessimistic perspective on international law label this critical view as “the perfect compliance fallacy,”13 a critique that aims at the measurement of effectiveness through compliance.
+The counter-argument is usually based on Louis Henkin’s famous statement that “almost all nations observe almost all principles of international law and al11.
+Aspects pertaining to questions of the legality have entered other fora, however.
+It is generally questioned what criteria are relevant to assess the effectiveness of international law and whether effectiveness is desirable in the first place.
+In fact, it is not unheard of that powerful actors are capable of evading obligations when it comes to national systems of justice.
+While such an analysis might be empirically true, it nevertheless falls short of completely rebutting the criticism.
+Even with a high level of compliance, many would question systems in which an actor has the possibility to deviate from the rules without any sanction whatsoever.
+Furthermore, while domestic legal systems have shortcomings, a difference in perspective nevertheless exists.
+Domestic systems may accept specific occasional cases of individuals evading legal responsibility due to power, influence, or financial means.
+A system that generally and openly accepts such a caveat for the powerful would, however, be considered unjust and one might even question the denotation as a legal system.
+In international law, this power disparity arguably exists, at least for the time being.
+While the critical view expresses a common concern with the existing system of international law, it nevertheless overstates this criticism based on a fallacious view of enforcement.
+It assumes that enforcement must take the form of something akin to an international police force that stops perpetrators 15.
+It should be noted that international law formally treats states as sovereign and therefore as equals.
+At the center of criticism, however, is the disparity in the United Nations, which gives the five permanent members of the Security Council (China, England, France, Russia, and the United States) a veto power for Security Council resolutions; these resolutions, however, are the only procedure envisioned by the United Nations Charter for authorizing use of force against any threat to peace, breach of peace, or act of aggression.
+This allocation of power results in a situation in which some states are practically exempted from the threat of Chapter VII measures.
+Such an approach, when dealing with a system that lacks a centralized institution with a monopoly on the use of force, possesses the risk of an escalation of violence.
+To prevent such a situation is one of the core objects of the system of international law.
+Hence, perceiving international law as completely analogous to domestic legal systems is not only unnecessary, it might even be disadvantageous.
+Following such a line of thought, the focus then naturally turns to which enforcement mechanisms international law utilizes.
+While international law allows for the possibility of forceful interference, this option is significantly limited through both restrictive requirements and a formal procedure.
+A first issue pertains to which forum,e., which court or tribunal, would be competent to deal with the issue of whether Russia or Ukraine is correct in their respective legal assessments.
+For a discussion of Ukraine’s attempts to achieve judicial results, see Gaiane Nuridzhanyan, Ukraine vs.
+For a more extensive discussion of various forms of enforcement mechanisms, see infra Section III.B.4.
+The World Trade Organization system, for instance, relies solely on granting countermeasures to Members in order to compel breaching Members to bring their inconsistent measures back into conformity with their obligations.
+Even the realm of international investment arbitration relies on enforcement in particular domestic systems.
+If such enforcement does not yield the respective amount of compensation, recourse must be had to traditional means such as diplomacy to effectuate the rights and prerogatives of stakeholders.
+Hence, when dealing with enforcement at the international level, a plethora of actions can and should be regarded.
+This examination should not be limited to statements, because states may at certain times pay only lip-service to an international legal rule.
+As a matter of fact, an expression could be highly relevant to determine opinio juris.
+Addressing the consequentialist critique based on a perceived lack of enforcement power, however, requires looking beyond statements in order to find practice in support of such statements.
+Additionally, it must be noted that statements themselves may vary in significance.
+Thus, a statement made against other interests of a state can be considered more crucial than a statement in line with such interests,g. voicing support for a long-time ally.
+However, in order to assess the magnitude of reactions to the annexation of Crimea, a brief portrayal of the factual and legal aspects surrounding the annexation is in order.
+BACKGROUND A The Events Surrounding Russian Annexation The Crimean Crisis originated from the so-called Euromaidan protests in Ukraine which started in late 2013.28 The movement demanded a closer cooperation with the European Union, which then president Viktor Yanukovych prevented.
+Violent response led to further protests, which ultimately resulted in the Ukrainian revolution, and overthrow of Yanukovych through impeachment on February 21, 2014.29 A pro-Russian movement in Crimea developed, supported by Russia,30 and quickly took control over the peninsula.
+The pro-Russian movement ousted some Crimean leaders in favor of the new Ukrainian government and others switched allegiance.
+These events culminated in a decision by the new Crimean parliament on March 6, 2014 to accede to Russia.
+Note, however, that the Ukrainian impeachment procedure was not followed.
+Contrary to a prior denial of the presence of troops, Vladimir Putin acknowledged the Russian involvement on April 16, 2014.
+The details of how control was taken suggests that such an action had long been planned.
+However, Russia vetoed the resolution and so the referendum took place as scheduled, and overwhelmingly36 favored re-joining Russia.
+Two days later, on March 18, 2014, Russia proclaimed the reincorporation of Crimea.
+In response, the United Nations General Assembly, on March 27, 2014, adopted Resolution 68/262, setting out the legal invalidity of the referendum.
+Shortly thereafter, the European Union and other nations adopted the first round of sanctions.
+In addition, it has been criticized that the ballot only offered to become part of Russia or an independent state.
+From a Russian perspective, this means that Crimea first seceded from Ukraine to form its own independent state.
+This state then concluded a treaty with Russia that led to the incorporation into Russian territory.
+Even though these events marked the full de facto integration of Crimea into Russia, the turmoil in Ukraine continued.
+In fact, reports of casualties continued to stream in even after the ceasefire went into effect.
+Due to the ongoing conflict, reactions intensified for some time after the Crimean annexation.
+However, these later reactions can be interpreted as aimed at the conflict concerning other regions in Ukraine.
+This Article therefore place emphasis on the actions leading up to and immediately following the annexation of Crimea.
+Any later events will only be analyzed to the degree that they specifically target Crimea.
+There is little common ground for debate45 because both sides are convinced of their respective correct assessments46 without engaging the opposition.
+In addition to the annexation’s legality, the discussion also focuses on the realist assessment of the underlying reasons for taking such a bold move.
+Thus, annexation does constitute a per se illegal form of the acquisition of territory.
+This prohibition does not only stem from the United Nations Charter,50 but is also considered customary international law, arguably even jus cogens, a peremptory rule.
+In addition, third party states are under an obligation not to recognize the annexation as a lawful change in territory.
+Further documents referencing the prohibition include, inter alia, Security Council and General Assembly resolutions, most prominently the Friendly Relations declaration.
+This so-called Stimson Doctrine goes back to a 1932 declaration by Henry L Stimson, then United States Secretary of State, declaring that the United States would not recognize changes in territory based on the use of force.
+The obligation of non-recognition has been determined to create very specific actions.
+Such a line of argument depends on the validity of the referendum, which arguably created an independent Crimean state, which then voluntarily concluded a treaty with Russia resulting in the incorporation of Crimea into Russian territory.
+The crux of the argument thus depends on the voluntary nature of the events, combined with a situation that purportedly justifies secession.
+Thus far, no precise rule has been established as to when self-determination trumps territorial sovereignty.
+Many states in the world face groups or territories that aim to secede.
+Some states allow secessionist groups to hold referenda, while other states forbid secessionist activities.
+One example in which self-determination trumped territorial sovereignty is Kosovo.
+The Russian rhetoric specifically refers to Kosovo, an instance of secession resulting from self-determination that was supported by the West.
+This line of argument usually cites the history of the Crimean peninsula and considers and terms the annexation a reunification.
+However, the West stressed that the Kosovo must be considered a special circumstance and could not be considered to create a precedent.
+Western interference in Kosovo nonetheless at least sets a precedent for the possibility of exceptions to the prohibition on third party interference in territorial sovereignty.
+Additionally, the West’s use of force in Kosovo supports arguments that the West only conforms to principles that suit its interests.
+It is therefore no surprise that Russia referred to Kosovo in justifying its intervention into Crimea.
+Even without reference to Kosovo, some general criteria can be determined for when secession is justified.
+Thus, scholars often demand grave breaches of human rights or at least harm of a certain magnitude to consider secession justified.
+Rather self-determination has both an internal, as well as an external dimension.
+Thus, even without granting a right to secede, the right to self-determination nonetheless has effects for a group within a state.
+Second, it seems doubtful that a group allowed a high degree of self-determination internally should further receive the right to secession.
+If a state grants a group autonomy from the central government, then the state cannot infringe upon to the right to self-determination to such a degree that violating territorial sovereignty is justifiable.
+It follows that another state cannot use this right for its own benefits.
+Furthermore, secession is only possible if it is truly instigated by an internal group.
+Any signs that the group is under an outside influence, such as the presence of foreign forces, will shed serious doubt that the group acted in pursuance of its right of self-determination.
+The following discussion focuses on the factual and legal questions concerning the presence of Russian forces in Crimea.
+If these troops instigated the takeover, then the secession was not voluntary, and is per se an illegal annexation.
+Factual Assessment Any evaluation of the Crimean situation must address the differing factual scenarios put forward by Russia.
+At first, Russia denied any direct connection with the Crimean crisis and presented itself as an outsider that would not interfere with Ukrainian sovereignty.
+Then, on April 16, 2014, Russia admitted67 that its soldiers were present in Crimea at the time of the crisis, a suspicion most legal scholars based their analyses on.
+In the following, any assessment of a statement as that of a state pertains to an official statement by a head of state or a statement officially identified as pronouncing the opinion of a state.
+The footage indicates that Putin and other Russian leaders had already then decided on Crimea’s fate.
+It is now uncontroversial that Russian troops were present in Crimea prior to annexation.
+Russia nevertheless portrays their involvement as minimal, and stresses that Russian troops did not fire a single shot throughout the events.
+Legal Assessment72 The situation is prima facie illegal, as no state must, under normal circumstances, accept the presence of foreign forces on its territory.
+At the outset, it should be noted that any presence of foreign military is not illegal, if there was a voluntary approval.
+This might take the form of a treaty governing the stationing of troops76 or a statement inviting foreign forces.
+Both are claimed as justification for the presence of Russian forces in Crimea.
+Russia and Ukraine had existing treaties covering the use of the Sevastopol Black Sea port, including the stationing of Russian troops.
+However, these treaties specifically limited the number of soldiers that could be present, which was far exceeded by the 2014 troop movement.
+Supporters of Russian presence on Ukrainian territory also point to a statement by Yanukovych, the President of Ukraine.
+Salenko, supra note 57; Tolstykh, supra note 45; Tolstykh, supra note 57.
+One example of this outside the Crimean context includes the NATO treaty.
+One requirement is that the consent is given by the “highest governmental authority”82 and that any action taken stays within the boundaries set out by the consent.
+Regarding the authority of Yanukovych to voice such an invitation, it should be noted that his impeachment did not comply with the procedural requirements set out in the Ukrainian constitution.
+In addition, while the constitution required approval by parliament if the president decided to admit foreign forces onto Ukraine’s territory,84 such a lack of procedure only becomes relevant in international law if the acting state knew or ought to have known of this circumstance.
+While it is arguable that Russia ought to have known, once the objection of unconstitutional invitation was raised, proponents of the Russian intervention nevertheless stressed the fact that Russia did not recognize the new government.
+Regardless of the authority to invite, the actions by Russia were beyond the scope of the invitation, which according to Putin’s statement was aimed at the protection of Ukrainian citizens.
+Actions leading to secession of a part of the territory cannot be seen as covered by such an invitation.
+Technically, use of force is considered an act against the will of a state.
+An earlier invitation by the Prime Minister of Crimea cannot be regarded as an invitation to intervene.
+Int’l Law Comm’n, Draft Articles on the Responsibility of States for Internationally Wrongful Acts, United Nations Doc.
+It should be noted that most other states recognized the new Ukrainian government.
+Furthermore, an intervention cannot be justified if only the intervening state recognizes the inviting government.
+In its rhetoric, this legal claim often overlaps with a claim for humanitarian intervention, which in international law is not limited to one’s own nationals.
+Regarding the protection of one’s nationals, while some argue that such a case would fall under the right to self-defense or might even constitute an exception to the use of force on its own,91 two circumstances countermand a successful invocation for the case at hand.
+In Crimea it is doubtful whether the people of Crimea were ever truly facing harm, especially at a necessary magnitude.
+Second, such a situation would allow for defensive measures only, rescuing and evacuating the at88.
+This argument is at times not limited to nationals but also includes Russian-speaking individuals.
+This distinction becomes less significant against the backdrop that Russia allows Russian speakers to acquire Russian citizenship under simplified rules.
+The decisive criteria for the determination of nationality and thus the character of nationality itself are implicit in any such discussion.
+Russia has used this line of argument before––for example, regarding the territories of Abkhazia and South Ossetia, both Georgian territories which are primarily inhabited by Russian citizens.
+In connection to Crimea, this argument must be considered with even more scrutiny, as it is Russia that has placed those citizens there.
+Considering the prohibition on moving one’s own citizens into occupied territory, the actions seem highly problematic.
+In addition, Russia is at times seemingly arguing in the direction of an intervention to support self-determination.
+Specifically, it is doubtful whether any such intervention can take place without approval by the United Nations Security Council.
+Even assuming intervention is permissible without United Nations approval, similar to the protection of nationals, humanitarian intervention has a high threshold and a limited scope of action.
+States may thus only act in cases of large scale violations of human rights97 if grave international crimes are committed.
+Therefore, the presence of Russian forces on Ukrainian territory was not justified under international law.
+Even ignoring the military presence in Ukraine at the time of the referendum, the secession must meet the narrow requirements that even supporters of a far-reaching external right of self-determination set forth.
+Frequently, any genuine possibility for internal self-determination excludes the possibility of external selfdetermination.
+Some commentators have stressed that Russia’s activities have led to a worsened human rights situation.
+Therefore, autonomous regions, such as Crimea, which are already granted self-governance to a certain degree, fail to fulfill one important prerequisite.3 While such a short assessment cannot do justice to all the aspects stemming from the crisis, the assessment reflects the general consensus in the literature assessing the legality of the situation.
+The next Section returns to the question of enforcement mechanisms contained in international law and elaborates on their appropriateness in the current scenario.
+Enforcement Mechanisms in International Law International law differs greatly from domestic law in terms of enforcement.
+While domestic legal systems benefit from the state’s monopoly on the use of force, international law is often characterized by the lack of any centralized form of power.
+Charter envisions a system in which the Security Council106 authorizes enforcement, even though enforcement is not carried out by a centralized police force.
+In addition to the possible threshold of using secession as a last resort.
+It is highly questionable whether either would be met in the case of Crimea.
+As shown infra, this finding is further in line with the assessment of a majority of states.
+Note, however, that the Security Council’s responsibility is primary, but not exclusive.
+Lastly, states are free to agree among themselves on any enforcement mechanisms that they see fit.8 a.
+Enforcement under the United Nations Charter Under the United Nations Charter, any use of force is expressly forbidden unless the Security Council authorizes the use of force to encounter a threat to the peace, breach of peace, or an act of aggression or unless a state acts in self-defense, including collective self-defense .109 The prohibition on the use of force is further considered jus cogens and thus no resort to armed activities is possible beyond that envisioned in the Charter.
+The use of force, however, is not the only measure that the Security Council may employ; in fact it should be considered the last resort.
+Thus, both Chapters VI and Chapter VII (Actions with Respect to Threats to the Peace, Breaches of the Peace, and Acts of Aggression) contain various possibilities.
+Thus, the Security Council may enact an embargo on a state that is in threatening international peace.
+Even in the case of a threat to the peace, breach of the peace or acts of aggression military measures are only employed after nonmilitary measures, including sanctions, have failed.
+Moreover, the Security Council itself determines when the conditions for Chapter VII are fulfilled and states are obliged to follow the Security Council’s decision.1 However, as scholars have frequently criticized throughout the U.N.’s existence, the Security Council can easily be under the command of one nation or alliance.
+While this overview sees the mechanisms under the United Nations Charter from a constitutionalist perspective,e., as creating an order that determines and creates outer limits for states to define their enforcement mechanisms, a more classical perspective would perceive the United Nations system itself as an agreement between states on how to enforce the rules contained in the Charter.
+However, it seems highly unlikely that such an approach will be fruitful against any of these states, which possess powerful militaries as well as atomic bombs.
+Thus, under the United Nations, any act committed by a veto power state will likely not be resolved through the mechanism envisioned by the Charter. b.
+Mechanisms under Customary International Law Even in the absence of an authorization by the Security Council, some measures of enforcement are allowed under customary international law.
+Note, however, that some of the proposals include expanding, rather than reducing, the veto powers.
+These certainly lack the same direct effect of creating losses for a given state, but they may entail some form of reputational damage that can trigger economic losses as well.0 Lastly, as stipulated by Article 41 DARS, third states have a duty to refrain from recognizing as lawful any serious breach and to refrain from rendering aid or assistance in maintaining that situation.
+At first glance, this is the bluntest sword in the arsenal of countermeasures, as no active performance is required by third states and one could assume that the result is no worse than a nuisance for the violating state.
+However, the situation is comparable to situations under domestic law in which a person has practical control or possession of something but lacks the title for doing so,g. a tenant without any contract.
+In the domestic example, this situation would mean that Russia could not get evicted from Crimea.
+At least in some thoroughly bureaucratized nations, such a situation severely limits possibilities.
+For instance, both local authorities and banks often require some evidence of entitlement to allow any conduct.
+This ruling was necessitated by the Dutch obligation of non-recognition, which entailed that the Netherlands continue to consider Ukraine, rather than Russia, in a position to determine where the treasure should be returned, as Ukraine still represented Crimea internationally. c.
+Mechanisms under Special Regimes Lastly, states are, within certain boundaries such as human rights, able to determine among themselves enforcement mechanisms for breaches of international obligations.
+Such mechanisms are at times included alongside a regime of substantive obligations.
+Most often, regimes that include enforcement mechanisms are encountered in the realm of international economic law, as states are usually more prone to enter binding and enforceable obligations in an area which they perceive as economically beneficial to themselves directly.
+Analysts often resort to the prisoner’s dilemma to explain this situation.
+However, similar principles may apply to regimes that deal with areas such as the environment or human rights.
+Nonetheless, it may at least be assumed that states most often see the direct benefit of regimes when they easily translate into an increase in trade flow or investment.
+Only if the member keeps the measure in place, or does not fully return to conformity, does the WTO allow other states to act.7 These actions are taken in suspension of other states’ own obligations, such as granting a low level of tariffs.
+In practice, this means that when a state x is found to be in violation of its obligations, state y will enact tariffs that are designed to create economic damages to state x, including tariffs completely unrelated to the original measure by state However, state x could, if it were to accept these economic damages, keep its breach of obligation in place indefinitely.
+What makes this system stand out is first, the existence of a compulsory system of adjudication, and second, the fact that any other WTO member may resort to this system, even it is not directly affected by the breach of obligation.
+Thus, a WTO member state may address a measure that distorts market conditions for bananas even if that state itself does not produce bananas.9 A second regime of interest is the investment regime, even though technically, the so-called regime consists of a myriad of individual bilateral treaties.
+Nonetheless, these treaties oftentimes have similar or identical obligations and the tribu125.
+Under investment treaties private investors are given a right to bring any violation of the specific investment treaty before an international tribunal.
+If the tribunal determines that a violation has occurred, it will then determine the amount of damages the investor suffered.
+If the violating state does not pay the award, the private investor may simply enforce the award in a national jurisdiction, where the national court most often enforces payment by seizing the violating state’s assets.
+The direct mechanisms for this enforcement differ slightly depending on the system of arbitration used and may at times encounter difficulties.
+Nonetheless, this form of very potent enforcement may be considered as one aspect that underlies the criticism voiced against the investment regime.6 d.
+From a positivist perspective, any such measure may be used to assist in the determination of the existence of a rule.
+From a consequentialist perspective, the effectiveness of some measures is doubtful.
+However, as shown by the example of the Crimean treasure, one should neither dismiss a given strand of enforcement mechanism without assessing its actual results.
+The system had to face a challenge in Argentina’s attempts to avoid paying compensation.
+From a positivist stance, this analysis may further the search for opinio juris.
+From a consequentialist stance, the analysis will show some of the enforcement mechanisms is in application.
+INTERNATIONAL REACTIONS Reactions by international actors lie at the heart of any examination of international law, both, from a positivist perspective, to establish the existence of a rule of customary international law as well as, from a consequentialist perspective, to determine what impact any existing rule will have on state action.
+In theory, an ideal reaction to a breach of Ukraine’s sovereignty is United Nations Security Council action.
+However, action by the Council cannot be expected in cases where the potential perpetrator has a veto right.
+Nevertheless, the voting result itself might give a first hint of the acceptance of the action by third states.
+Similarly, actions within the United Nations General Assembly, while nonbinding, allow for a first assessment of the legality of a particular action.
+From a positivist perspective, any resolution might aid in the search for opinio juris.
+From a consequentialist perspective, it is relevant whether states’ voting behavior is contrary to other incentives, such as a potential alliance with or dependence on one of the main actors.
+Therefore, not all states’ voting behavior is analyzed in detail, and special regard is given to those that acted contrary to expectations.
+The following discussion will highlight specific actors most relevant to the events or whose actions might shed further light on the workings of international law.
+The analysis of states’ actions will thus focus on activities in the context of the U.N., followed by reactions of states in their individual capacity and in other fora.
+Additionally, if these actions would not be considered violative of international law prior to 2014, the international backlash could now be seen as opinio juris allowing for the determination of the existence of said rule.
+A more thorough examination would go beyond the scope of the present paper, which can only be seen as a starting point that tries to highlight the most crucial factors for a truly comprehensive analysis.
+Additionally, actions leading up to the annexation were usually not directly focused on a possible annexation, but rather on territorial integrity and the invalidity of the referendum, as annexation was not a definite outcome.
+Furthermore, an annexation would not have been possible without a positive referendum.
+Therefore, certain knowledge of the outcome of annexation might have led to stronger reactions by some states.1 A United Nations 1.
+Security Council On March 15, 2014, the Security Council voted on a draft resolution aimed at preventing the Crimean referendum.2 The vote took place the day before the referendum as a lastminute attempt at preventing events from running their course.
+This also explains why the vote did not directly address a possible annexation by Russia, as this eventual result was uncertain at the moment.
+However, the referendum was a prerequisite to later Russian annexation.
+Furthermore, the envisioned resolution stressed Ukraine’s territorial integrity, which is at stake independent of the exact fate of Crimea.
+The vote in the Security Council resulted in thirteen votes in favor, one abstention by China, and one vote against by Russia.
+The result can therefore be seen as strong evidence of international rejection of the referendum.4 In addition to the permanent members France, the United Kingdom, and the United States, nonpermanent members Argentina, Australia, the Chad, Chile, Jordan, Lithuania, 140.
+This hypothetical is based on the thought that an annexation of another country denotes a rather definite, almost irreversible, situation.
+See Press Release, Security Council, Security Council Fails to Adopt Text Urging Member States Not to Recognize Planned 16 March Referendum in Ukraine’s Crimea Region, United Nations Press Release SC/11319 (Mar., 2014); United Nations SCOR, 7138th mtg., United Nations Doc.
+A proposal that has almost been accepted may nevertheless contribute to the formation of international law.
+This allows for a first impression of international support as the Security Council is comprised of representatives from different parts of the world.
+In addition, a number145 of states sponsored the draft resolution, also a sign of its international support.
+China was the sole abstention, and commentators remarking on China’s stance stressed its dilemma.
+China is among the countries with the strongest view on the prohibition of intervention by foreign states.
+Similarly, China is skeptical of an external right of self-determination.
+At the same time, China’s partnership with Russia means that it will only reluctantly take action against its neighbor.
+It is because of this specific situation that some commentators saw China’s abstention as a victory, as a veto was certainly not out of the question.
+Furthermore, one might speculate whether a vote on the eventual annexation would have led to a different result, as an annexation can be perceived as a graver outcome than an independent new state.9 2.
+General Assembly Notably, the resolution itself only refers to the referendum and not to the annexation by Russia.
+It nevertheless stresses Ukraine’s territorial integrity and “alls upon all States . . . not to recognize any alteration of the status of the 145.
+Albania, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Republic of Moldova, Romania, Slovakia, Slovenia, Spain, Sweden, Turkey, Ukraine, United Kingdom, and United States.
+Nonetheless, it should be noted that a resolution explicitly condemning the annexation is conspicuously absent.
+One explanation would be its futility in addition to a second resolution adding little value.
+However, the voting procedure also included fifty-eight abstentions and twenty-four absent states.
+Indeed, it has been pointed out that previous resolutions in similar situations had stronger voting results.
+Additionally, voting for a nonbinding resolution might be easier than putting in place actual sanctions towards an international perpetrator.6 Nevertheless, as examinations of previous votes on resolutions reveal, one can make certain assumptions regarding the voting behavior of states.
+Such behavior can be based on membership in a specific bloc, based one region, common ideology,157 and the existence of consultation mechanisms such as caucuses,158 but also on other factors such as foreign aid.9 151.
+Despite their nonbinding nature, General Assembly resolutions may nevertheless develop legal effects.
+Afterwards, a shift resulted in a division along the lines of North-South, specifically concerning questions of self-determination, with states of the global South more in favor than the global North.
+Bearing this in mind, it will come as no surprise that the majority of abstaining states are situated in the South.
+The fact that they abstained from voting, compared to an outright rejection, might be seen as a gesture of support.
+The following discussion will highlight further voting behavior that might be against expected behavior.
+It is noteworthy that the support is not merely comprised of Western states.
+With the exception of Bosnia and Herzegovina and Serbia, which were absent, as well as Belarus and Russia, which voted against.
+Thus, in line with the aforementioned bloc dynamics, the entire European Union has voted in favor of the resolution.
+However, Asian states, especially those adjacent to Russia, largely abstained.
+Asian states that supported the resolution are inter alia traditional allies of the United States such as South Korea, Vietnam, Thailand, and the Philippines or of Europe such as Turkey.
+The group of rejecting states consists of Armenia, Belarus, Bolivia, Cuba, Nicaragua, North Korea, Russia, Sudan, Syria, Venezuela, and Zimbabwe.
+However, even though politically and economically dependent on Russia, Kazakhstan167 and Uzbekistan abstained, while Kyrgyzstan, Tajikistan, and Turkmenistan were absent.
+Even more surprising, both Azerbaijan and Moldova voted for the resolution.
+One possible explanation is that those countries contain Russian minorities as well and therefore fear that they might face a similar situation in the future.
+Overall, more than 30 percent of member states of the United Nations abstained.
+Even though such a number might be legally insignificant (adoption requires the majority of non-abstaining, present members, while if an “important question” such as international peace and security is considered, a two-third majority of present and voting members is 164.
+A regional organization of former Soviet Republic states that consists of Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, and Uzbekistan.
+Possible explanations for such an attitude include dilemma situations in which states would have reasons, political or legal, to vote for and against the resolution.
+These situations might include states that are allied with Russia but nevertheless oppose the situation or fear for their territorial sovereignty.
+Abstaining will neither directly affect the outcome of the vote, as the resolution had enough supporters, nor does it require directly opposing Russia.3 Lastly, twenty-four states were absent during voting.
+It is not uncommon that states are absent during votes at the General Assembly.
+This is often simply caused by the many obligations that delegates have during times of meetings.
+Nevertheless, due to its political significance, Resolution 68/262 might be slightly different.
+Mostly, an absence is a way of neither voting to accept, reject, nor abstain.
+While legally speaking, it has the same effect as an abstention, politically, it might not.
+Hence, close allies of either the Western states or Russia might feel pressure to either vote in favor or against.
+They might even fear repercussions in case of abstentions as it deviates from their allegiance.
+It might therefore not be surprising that the list of absent states includes Kyrgyzstan, Tajikistan, and Turkmenistan.
+Belize, Bosnia and Herzegovina, Republic of the Congo, Côte d’Ivoire, Equatorial Guinea, Ghana, Grenada, Guinea-Bissau, Iran, Israel, Kyrgyzstan, Laos, Lebanon, Morocco, Oman, Serbia, Tajikistan, Timor-Leste, Tonga, Turkmenistan, Tuvalu, United Arab Emirates, Vanuatu, and Yemen.
+However, the number of absent states might actually be a sign that states did not value the resolution as highly important.
+This might be connected with either the nonbinding nature of the resolution or a resignation to events than were possibly perceived as inevitable.
+Voting behavior177 Green: In favor; Red: Against; Yellow: Abstention; Blue: Absent B Individual States The discussion of states acting on an individual basis will focus on predominant actors and those whose behavior might contradict other incentives.
+Thus, the starting point will be perceived division between Western states on the one hand may have presented an equally strong incentive not to vote in favor.
+Even an abstention could have been perceived as not supporting the United States cause.
+United States officials expressed their anger at Israel’s generally neutral stance.
+Among these allies are the states of the Commonwealth of Independent States, BRICS178 states due to their economic cooperation, as well as other states that often side with Russia for ideological reasons.
+This however, does not preclude that a state listed as an ally may in this specific instance take an opposing stance.
+In fact these situations are most noteworthy in determining repercussions to the annexation.
+The West The most prominent proponents of Ukrainian unity were European states as well as the United States.
+In addition, support came from Canada, Australia, New Zealand, and Japan.
+In a sense, this bloc dates back to the opponents of the Soviet Republic during the Cold War.0 a.
+European States Those European states that are members of the European Union primarily acted through this organization.
+This can be seen as a consequence of the historical background of the conflict, which emerged from talks between the European Union and Ukraine aimed at a closer cooperation.
+Thus, from its very outset the Ukrainian conflict was determined by the geopolitical power of the European Union and Russia.
+In addition, the competences of the European Union necessitate that some actions are taken under its auspices.
+As explicated in the analysis infra, both actors tended to initiate measures that were then taken up by others.
+Note, however, that the former neutral states also voted in favor of the resolution.
+European Union States The European Union states were from the outset divided into those that favored resolute actions, Sweden182 and Eastern Europe,183 and those advocating for a more diplomatic approach, the United Kingdom, France, Germany, as well as southern Europe.
+In close cooperation with both France and Germany, the United Kingdom acted at the first reports of Russian forces in Crimea, sending a “clear signal” to Putin.
+As a response to the further evolution of events the United Kingdom reacted with the suspension of bilateral military cooperation, including the planned Military Technical Cooperation Agreement, the cancellation of joint military exercises, as well as stopping exportation of military and dual use goods to Russia.
+At first, it nevertheless took a skeptical view of financial sanctions, which could hurt London’s financial market as well.7 While France has historically not been involved with Ukraine as much as other European states,188 its initial reac182.
+Eastern European states feel especially threatened by a perceived Russian expansion policy, reminiscent of previous invasions.
+Concerning sanctions, however, France was at first reluctant to embargo military goods, as it had concluded a contract with Russia over the exportation of two warships amounting to $ 1. billion.0 It therefore argued in favor of financial sanctions.
+In the end, however, the warship deal was cancelled, despite France having to bear immense costs.1 In contrast, Germany’s initial stance toward the events was reserved, driven by public opinion that favored reconciliation and rapprochement.
+The sum France had to pay was not disclosed, but last reports indicate that it was below $ 1. billion.
+In fact, Germany is oftentimes favored, partly due to Putin’s connections with Germany.
+Germany had for a long time acted with restraint in response to similar situations.
+In addition, Germany is highly dependent on Russia for its energy supply.
+It nonetheless condemned Russian activities.8 Lastly, Hungary had for a long period of time close connections with Russia, resulting in statements of a neutral manner.
+Those statements were nonetheless criticized in Hungary itself,200 and Hungary approved the later sanctions.1 Overall, European states face possible negative consequences resulting from any drastic actions taken towards Russia.
+In his speech at the signing of the treaty that incorporated Crimea into Russia, Putin directly addressed the German reunification.
+Nonetheless, even outside of the forum of the European Union, these states have primarily acted in opposition to the Russian annexation. bb.
+Other European States—Norway and Switzerland Neither Norway nor Switzerland is a member of the European Union.
+While condemnation might be considered contrary to Norway’s incentive for good relations with its direct neighbor, condemnation bolsters international opposition against a perceived very proximate threat.
+In addition to the condemnation, Norway suspended diplomatic meetings with Russia and decided on restrictive measures in alignment with those by the European Union.
+The initial measures included sanctions against individuals encompassing both travel restrictions and assetfreezes.6 202.
+In August 2014, Norway expanded its measures to include banning Russian state-owned banks from receiving midand long-term loans, banning arms exports to Russia, and prohibiting supplies of equipment, technology, and assistance to the Russian oil sector.
+However, those actions cannot be classified solely as reactions to the Crimean crisis.
+United States In addition to the European states, the United States is the main antagonist of Russia in the Crimean crisis.
+It remains to be seen whether President Trump will change his preelection stance on the annexation that went so far as to recognize Crimea as a part of Russia.
+At the time of writing, such an action seems unlikely, as even some close allies of Russia such as the BRICS-states have thus far refrained from recognition.
+Nonetheless, there are three important considerations should President Trump recognize the annexation.
+First, such a development would immediately silence one of the loudest voices proclaiming the illegality of the annexation.
+However, this Article aims to underline that simply assessing the activities of the major players is shortsighted.
+Rather, it seems reasonable to assume that United States recognition would not change the stance of those European countries that see themselves threatened by perceived Russian expansionist policies.
+On February 28, 2014, President Obama released a statement warning Russia not to intervene in Crimea.
+President Obama followed up with an executive order on March 6, which authorized sanctions against yet to be named individuals.
+President Obama then issued specific sanctions on March 17 in coordination with the European Union.6 c.
+Canada Canada mirrored the actions of the United States and the European Union by generally denouncing Russia’s actions.7 Prime Minister Harper even compared the situation with the Nazi German occupation of the Sudetenland.
+Canada’s response included the suspension of its military cooperation that Russia would repeat a land-grabbing activity in the future.
+Thus, these states would likely increase their efforts to rewind the Crimean takeover.
+While certainly a relief for Russia, it must be borne in mind that Russia’s trading ties are primarily with the European Union and less so with the United States.
+Lastly, if President Trump did move to recognize the annexation, the struggle he would likely face both domestically and internationally would have to be assessed as a result of the perceived illegality of the situation.
+China China abstained both in the Security Council and in the General Assembly.
+This stance is in line with China’s stance which generally calls upon all actors, without specifying any of these actors, to deescalate the situation.
+On the one hand, China has a strong strategic partnership with Russia, mirrored by an alignment in voting behavior in the Security Council, both as its neighbor and as a BRICS-State.
+In fact, Russian activities in Crimea coincided with a stronger cooperation with China.
+China has thus traditionally been opposed to any form of secession movement.
+Whereas China’s later statements were generally quite balanced, its statements in the United Nations Security Council prior to vot219.
+Pro-Russian denotes countries that would normally be considered historic allies of Russia, not necessarily those that voted against the General Assembly resolution.
+Some commentators perceive China’s abstention, rather than a veto, as a strong sign of disapproval.8 b.
+India In addition to being a BRICS-state, India has strong economic ties with Russia, which is its primary supplier of arms.9 Additionally, in the past Russia backed Indian interests in the Security Council.
+However, India did not completely endorse Russian activities but instead took a more balanced stance.
+Thus, just like China, it abstained regarding the General Assembly resolution.
+India pursued this balanced approach following the visit of the new Crimean leader to India alongside Russian diplomats.
+After the event leaked to Western officials, the Indian Ministry of External Affairs stated that it was not officially aware of the presence of the new Crimean leader.
+Any other response could have signaled official recognition of the new territorial leadership and thereby Russia’s annexation of Crimea.
+While India’s ties to Russia might incentivize India to support Russia more directly, India is facing secessionist movements and generally condemns external interference in domestic matters.4 227.
+Grant sees a possible explanation for China’s behavior in a shift to “promote the emergence of precedents favorable to the re-incorporation of of territories said to belong to a historic legacy,” and therefore to a possible expansion of China.
+Brazil While the Brazilian abstention at the General Assembly and its initial lack of condemnation at first have caused surprise, some observers pointed to both Brazil’s status as a BRICS-state, and an intent to not displease either side.
+Specifically, observers suspect that Brazil feared the loss of Russian participation at the July 2014 BRICS meeting, held in Brazil.6 After internal criticism, the Brazilian Foreign Minister nevertheless called for a solution which “respected the democratic values and the will of Ukrainians.”237 d.
+On the one hand, it sided with Russia in rejecting the General Assembly resolution.
+On the other hand, President Lukashenko stated his support for the territorial integrity of Ukraine.
+Even when he later acknowledged that Crimea is after the annexation de facto a part of Russia, he continued to stress Ukraine’s territorial integrity.
+Central Asian States Observers might expect Russia’s neighbors, forming the Commonwealth of Independent States, to side with Russia due to its proximity and their economic dependence.
+However, except for Armenia and Belarus, none rejected the General Assembly resolution.
+Furthermore, the Commonwealth states did not initially issue any other statements in support of Russia.
+This might stem from a fear that similar events could occur in their own states.
+This initial balanced position broke apart to a small degree when Kazakhstan issued a statement in support of Russia245 and Kyrgyzstan condemned the Russian activities.6 f.
+Further States in Support of Russia Other states that rejected the resolution were Bolivia,247 Cuba, Nicaragua, North Korea, Sudan, Syria, Venezuela, and Zimbabwe.
+This list includes states with strong antiUnited States sentiments, close ties to Russia, and/or a strong stance in favor of self-determination.
+See generally Putin’s Stance on Ukraine Supported by Minority of Nations, supra note 176.
+While these states rejected the resolution, one should be careful in automatically assuming that they were in favor of an annexation.
+Bolivia’s statements surrounding the resolution, for instance, were rather neutral, including that it would not take a position.
+As such, it already had an incentive not to vote in favor of the United Nations Security Council draft resolution.
+Similarly, during the United Nations Security Council meeting, Rwanda had already highlighted the importance of a national dialogue.1 Thus, one might draw an inference from the circumstance that both states voted in favor in the United Nations Security Council resolution.
+However, both states changed their stance at the time of the United Nations General Assembly vote, indicating different factors at play.
+First, the United Nations Security Council held the vote prior to the referendum as a preventive measure.
+The United Nations General Assembly resolution, however, was adopted after the referendum took place.
+Second, a vote in the United Nations Security Council might be perceived as more significant due to the binding nature of United Nations Security Council resolutions.
+There have been instances in which domestic outcry has been intense after an abstention or no-vote in the General Assembly.
+It can be expected that such outcry is even more intense if the nation in question is only one of fifteen and particularly if it is the one state that has thwarted a given resolution.
+Thus, in the Council it may be easier to apply pressure to single states which find it more difficult to form blocs and where an individual vote might be perceived as a weightier statement of public opinion.
+The incentive to apply pressure on a single state is greater at this stage than in the General Assembly, where individual votes carry less weight.
+One example can be seen in the German abstention regarding Security Council Resolution 1973 on Lybia, which has garnered both domestic as well as international criticism.
+The following discussion differentiates between those organizations with Russian membership, in which internal mechanisms were used, and those without Russian membership, which were used as a vehicle to approach Russia.
+Council of Europe Ukraine initiated an interstate complaint under Article 33 of the European Convention on Human Rights, which was created under the auspices of the Council of Europe.
+The suspension had been extended and discussions were held whether it should be extended again.
+Moreover, PACE renewed this sanction258 despite Russia’s threats to halt its cooperation with PACE for the duration of the suspension.9 The Council of Europe was the first forum in which Russia faced internal sanctions in response to the annexation. b.
+G8 Technically, the G8 , of which Russia is a member, is not an international organization but a governmental forum of the leading advanced economies in the world.
+The forum is used for matters of coordination among the members, dealing with a variety of economic and political issues.
+Even though the forum is not an official organization, actions agreed upon in this framework can be highly influential.
+In reaction to the annexation of Crimea, the other seven nations, Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States, agreed, on March 24, 2014, to exclude Russia from the group.
+The exclusion is not permanent and the G8 stated that Russia may restore its membership based on its future actions.
+In addition, the G8 cancelled their planned G8 summit in Sochi, Russia in June 2014 as a direct repercussion of the annexation.
+It should be borne in mind, however, that a later renewal has been caused at least in part by the general situation in Ukraine and Russia’s contributions thereto.
+However, some of the functions of the G8 have been transferred to the G20, a similar group consisting of the twenty countries with the largest economies, in the wake of the financial crisis.
+A group of member states attempted to exclude Russia from this group as well, but the BRICS states eventually thwarted the effort.3 c.
+Organization for Security and Co-operation in Europe On the other hand, member states used the OSCE as a vehicle of de-escalation, attempting to send diplomatic and observing groups into the area.
+While the missions overall were unsuccessful, they can be seen as evidence of how different organizations may apply pressure, while simultaneously providing a forum for diplomacy and pacification.
+European Union The European Union was an important actor throughout the events.
+First, many competences, including the decision to impose sanctions, have been transferred to the European Union.
+Second, states may prefer to use the organization in order to form a common stance on matters of foreign affairs.
+While observers often criticize the European Union for not acting enough, the European Union consists of twenty-eight states which all have their own interests.
+On the other hand, some states are highly dependent on Russia economically, and are fully aware that any sanctions taken against Russia will unavoidably hurt them as well.
+Nevertheless, the European Union always strongly opposed Russian actions in their statements.
+This might be less surprising, once one considers the historical background of the crisis, rooted in a movement by Ukraine towards the European Union and away from Russia.
+In a sense, the European Union was therefore always the antagonist from a Russian perspective.
+Thus, the European Union immediately responded to any action by Russia.
+At the same time, the Russian-EU confrontation is a possible explanation for some of the deescalating responses by the European Union in the beginning of the crisis; the European Union merely felt misunderstood in regard to its intentions concerning Ukraine.
+Those channels include diplomatic efforts, sanctions, refusal to recognize the annexation, support of Ukraine, and researching ways to reduce its energy dependence on Russia.
+While the driving forces behind specific measures largely mirrored the general echo in Europe,271 the fact that these were EU measures meant that all twenty-eight member states acted in unity.
+For a detailed and historic explanation, see generally SAKWA, supra note 28.
+It should be noted that the European Parliament is often quicker and more straightforward in its actions, which is based partly on its voting structure and composition.
+The North Atlantic Treaty Organization NATO, like the European Union, was seen by Russia as an antagonist in the events leading up to the situation.
+It therefore comes as no surprise that NATO did not hold back in its criticism.
+In a statement, it condemned the “Russian Federation’s military escalation in Crimea.”273 c.
+Organisation for Economic Co-Operation and Development The OECD, an international forum to stimulate economic progress and world trade, suspended its negotiations with Russia on a possible accession.4 d.
+Organization of Islamic Cooperation In addition, various further organizations voiced condemnation.
+Due to the date, the specific statement did not refer to the annexation yet.
+Both individual states as well as the European Union introduced sanctions against Russia for its activities.
+The first sanctions were initiated by the United States, Canada, and the European Union.
+They targeted specific individuals and included both a travelling ban as well as asset freezes.
+Other states, including Japan,278 adopted similar sanctions, including suspension of talks investment and visa requirements.
+Australia used financial sanctions and travel bans,279 while Albania, Iceland, and Montenegro issued the same sanctions as the European Union.
+These later sanctions are not relevant here, as they resulted from both Crimea and the ongoing crisis in Eastern Ukraine.1 While some observers have argued that the sanctions were not forceful enough,282 they resulted from a concerted ef277.
+It might thus be argued that these were taken even if states had accepted the annexation.
+Moreover, it should be noted that first analyses show that the sanctions were in fact hurtful to Russia and its economy.4 E Private Actors Lastly, not only states acted in response to the annexation, but also nongovernmental organization, as well as private individuals and corporations.
+While it is questionable how far these activities should be considered when discussing the enforcement mechanisms of international law, and while these actors are usually not considered subjects of international law,285 two arguments favor not disregarding them completely.
+First, these actors play an ever-increasing role in the international arena.
+Second, the rhetoric of the responses focuses on the violation of international law.
+Thus, while they are not considered the primary enforcement mechanism, reactions of private actors’ evidence general repercussions of a perceived violation of international law.
+Moreover, these reactions might be severe, and specifically multinational corporations have significant economic power and influence.
+Some actions directly targeted the peninsula of Crimea, however, as a number of companies withdrew from Crimea or stopped providing services to the region.
+This means that paying through these cards is no longer possible and businesses are prevented from wiring or receiving payments.
+Similarly, citizens of the region may no longer use their Paypal accounts for transferring money.2 These accounts are simply blocked, just as the accounts of Apple app designers and Steam customers are no longer accessible.
+It may thus be argued that these should at least also be seen as reactions to the later developments.
+It should be noted, however, that some of these private sanctions are connected to the United States sanctions, which, at a later stage, also prohibited U.S. companies from dealing with Crimea.
+Thus, some of these private activities are directly influenced by state action.
+Moreover, in some instances, a withdrawal from Crimea might simply be considered a prudent business decision.
+Nonetheless, private and corporate action has taken place, as evinced by the renewal of boycott campaigns.
+These were classic boycott campaigns against Russian goods in general295 or Russian vodka in particular.
+Additionally, it is fair to assume that the crisis influenced private actors in making decisions that concerned Russian goods, even if these actors did not completely boycott Russian goods.
+Status Three Years After Annexation At the time of writing, more than three years have passed since the annexation of Crimea.
+While thus far, it does not seem likely that Russia will return Crimea to Ukraine in the near future, the international response in the past three years helps assess whether the international community has accepted the annexation.
+Most importantly, the focus of international attention, at least when seen from a new Cold War perspective, has largely shifted to Syria.
+Have states departed from their sanctions and similar measures as soon as 294.
+It has been pointed out how the events in Crimea have changed Russian society, insofar as the breaches of law that were undertaken to annex Crimea have now become more commonplace generally.
+This specific toll, that an unlawful situation might create more unlawfulness, is often overlooked and another cost that Russia has to bear.
+If so, these actions were possibly taken to please local constituencies rather than to reverse developments.
+A more optimistic view sees any easing of reactions over time in connection with overall developments in the international realm, most importantly Syria.
+Such an optimistic view would argue that international reactions compelled Russia to cooperate in general.
+Therefore, Russia could be expected to act in a more lawful manner overall, even if such a success came at the expense of accepting one illegality.
+Such a view may have its merits, among them arguments stemming from Realpolitik.
+At the same time, it leaves a situation, in which a state may overcome an illegality by threatening to commit or committing even more illegal acts.
+Certainly, there are numerous examples of similar situations in the past where “giving in” was for the overall good.
+However, when assessing the strength of the rule on annexation, any major relaxation in countermeasures after a shift of focus, even if for the most laudable causes, is evidence of the weakness of this rule.
+Any “giving in” depicts the rule as something that may be deviated from.
+Fortunately, even though discussions and reports in the media are less prevalent, the sanctions against Russia are still in force and have been expanded.
+Furthermore, even concerning the situation in Ukraine itself, Western states have continuously stressed that ending the annexation of Crimea remains a strict condition for any progress.
+This is important, as even disregarding the events in Syria, the conflict in Ukraine itself might appear prone for a compromise à la Russia gets Crimea, Ukraine keeps the Donbass.
+Nevertheless, a critic might argue that they could be completely lifted after the crisis in East Ukraine is solved, even if Russia gets to keep Crimea.
+Even some of Russia’s strategically most significant allies, India and China, have not recognized Crimea as part of Russia but have stuck to their neutral position.9 301.
+While it might seem surprising that the U.S.-backed country has recognized Crimea, commentators have highlighted the historical background.
+Many Afghans believe that they have been deprived of a part of their territory by Britain.
+Additionally, Afghanistan might need new allies, as the United States is withdrawing its forces from the country.
+However, Abkhazia itself is only recognized by few states, including Russia.
+According to Robin Geib, further examples show that this situation is unlikely to change, even in the long-term.
+Quantifying the Damage While a positivist perspective would find activity as such sufficient, a consequentialist mindset would inquire about the actual damage suffered due to international reactions.
+Nevertheless, in order to achieve any significant results, some simplifications are necessary.
+Most importantly, as the current study concerns itself with only one aspect of the Ukrainian crisis, namely the events leading up to and immediately following the annexation of Crimea.
+Thus, any sanction taken thereafter would normally have to be ignored, as later sanctions could be attributed to later events in the Ukrainian crisis.
+However, such an analysis is virtually impossible as the sanctions that are now in force must be considered a unitary set of measures,e. they cannot be dissected as some being a result of Crimea, some purely of later events.
+One might therefore argue, that had Russia stopped right after Crimea, a lower level of overall sanctions would result and therefore also a lower amount of damage.
+Namely, while later sanctions were taken in consideration of later events as well as the annexation, they still mostly expanded the measures already in place because of Crimea.
+Moreover, it seems unlikely that without the annexation such measures would have been taken at all.
+This is because the activities in Eastern Ukraine are only indirectly attributable to Russia.
+The accusation in that case is merely the support of separatist groups in the region.
+It seems unlikely that mere support, continuously denied by Russia, would have prompted sanctions.
+After all, Russia’s support of the Assad regime in Syria has not even lead to a discussion of whether sanctions against Russia are appropriate.
+Sanctions against Russia are thus only feasible because Russia is perceived as the direct perpetrator rather than a somewhat involved bystander in the cir310.
+A cynic could also attribute this to different involvement in matters occurring in the West compared to the rest of the world.
+While such a trend can certainly not be denied, Syria seems to be an exception in some regards, at least also because the West directly feels repercussions through the waves of refugees caused by the conflict.
+Thus, the bulk of the damages which occurred through the sanctions will be considered a result of the annexation.
+Nonetheless, some further issues remain that complicate an assessment of the damage caused by the sanctions.
+First, the Russian economy is highly dependent on the international energy market.
+However, oil prices have declined ever since 2014.313 This, by itself, caused severe damage to the Russian economy.
+Any assessment of the damages caused by the sanctions would therefore have to establish a distinction between losses caused by the oil price drop and those caused by sanctions.5 312.
+Additionally, Russia has imposed a ban on food imports from Western nations.
+This lead to a deal by the Organization of the Petroleum Exporting Countries to cut down on their production.
+Most importantly, Russia, which is not a member of OPEC, has agreed to also cut its supply.
+Daniel Gros and Federica Mustilli argue that the sanctions play no role in addition to the recession.
+However, many commentators have pointed out that Russia itself has started to acknowledge the impact of the sanctions.
+Note, however, that these factors produce not only additive, but sometimes also multiplicative effects.
+For example, a sanction in the form of an import ban of a certain product x would directly result in damages to that industry due to a lower demand for exports of product x.
+However, such a ban on product x could further result in a decrease in sales of product y that is not the subject of any sanctions.
+This may have different causes,g. that the demand in product x has created an infrastructure that also allows the transportation and supply of product In any case, the losses of those companies producing product y are less obviously perceived as a result of the import ban on product Furthermore, a focus solely on the damages caused by sanctions would be insufficient.
+Rather, an analysis should further account for reputational damage incurred from the international reactions.
+For instance, if consumers start avoiding Russian goods, such activity might have the same consequences as a direct embargo.
+Similarly, if a state is excluded from specific fora that shape international development, that state will miss opportunities to influence relevant economic decisions.
+Any attempt at an assessment would largely rely on counterfactuals dealing with Russia’s role in current international politics had it not been for the annexation.
+Such a counterfactual would be subject to so many possible differences that any realistic assessment is at least beyond the scope of this Article, if not impossible overall.7 blamed for Russia’s recession is mismanagement.
+Due to being cut off from the international market, Russian firms are increasingly reliant on the domestic financial sector and thus are hit much harder by mismanagement.
+Note that the sanctions on Russia are in fact export embargos, rather than important bans.
+For instance, many assume that Russian cyber activity has influenced both the Brexit vote as well as the election in the United States.
+This loss amounted to 3.7% in the year 2015.318 This loss came alongside a severe devaluation of the Russian Ruble, which had lost up to 50% of its value against the United States dollar,319 and the corresponding increase in the first months of 2015 of 2. million person earning annual salaries below the poverty line.
+However, many indicated they would have to cut luxury goods due to the crisis.
+In assessing damages caused directly by the sanctions, analyses usually focus not on the economy as such, but focus on the effects on trade flows in goods targeted by the sanctions.
+These analyses show a decline in trade amounting to $3. billion per month.
+In terms of loss in growth rate, studies show that the sanctions led to, on average, a loss of 1.97% of quarter-to-quarter growth.2 While the sanctions thus have a noticeable effect, it is only of limited gravity.
+In such a scenario, Russia’s role on the international plane would likely be completely different to Russia’s role in a world in which Britain is no longer part of the European Union and Donald Trump is the United States President.
+However, while more punishing sanctions are certainly conceivable, it is questionable whether they would also be desirable.
+First, any loss in trade for Russia is likewise felt by its former trade partners in the West.
+Second, while some sanctions are largely capable of targeting specific persons or organizations,324 many result in the suffering of the population at large.
+These results are problematic from a human rights perspective and could also backfire by causing an increase in anti-Western sentiment that would harden the public opposition to any deal regarding Crimea.
+Moreover, the strategy adopted by the West is that of applying long-term pressure rather than causing immediate and severe economic damages capable of crippling Russia, partly due to the fear that such activity might incite further military aggression.6 Nonetheless, the consequentialist criticism may be addressed by stressing that first, the amount of damage caused by the sanctions is negligible and second, the overall damage not 323.
+Studies indicate that Western states have thus far been able to cope with these damages.
+Variable e indicates the economic advantage gained by controlling Crimea.
+However, the region has suffered immensely due to both the Russian annexation and thereafter sanctions pertaining to the region.
+Thus, Russia must support the region with funds for the foreseeable future.
+Hence the value for e is currently negative.8 Variable m represents the military advantage gained by having the Sevastopol base and thus a base in the Black Sea.
+If so, Russia would certainly have lost a large amount of influence on states in the region.
+The current prime example is Syria, which would be significantly harder to support without access to the Black Sea.
+At least for Russia as it currently perceives itself, as a nation of power and influence, the military advantage should certainly not be underestimated.
+Variable n represents national/domestic support, assumedly a main incentive for the annexation.
+Russian public opinion has long considered Crimea a lost Russian territory.0 Additionally, the annexation is domestically considered a strike against the continuing proliferation of NATO and West327.
+At least Russia makes this assumption, and even though the contracts dealing with the base were running for a long period of time, pro-West Ukrainian officials have frequently voiced their intention to exit these deals.
+In order to fully acknowledge this aspect, one needs to understand that the Russian population has for some time now encountered the West and specifically NATO as a force that continuously encroaches on Russian interests under the pretense of spreading democracy and liberty.
+While some would certainly dismiss such sentiment as founded in propaganda, one should bear in mind that this sense of dread is hard to set aside as completely unfounded.
+For instance, when discussing German reunification, NATO promised not to station troops in the territory of the former German Democratic Republic .332 Any such promise seems ludicrous, however, considering that NATO has now grown far beyond East Germany and is virtually at the Russian border.
+This should certainly not indicate that Putin himself fears a Western military invasion.
+Similarly, even if NATO tried to take control of more and more territory in Central and Eastern Europe to threaten Russia, an annexation of Ukrainian territory is still not legal.
+However, it should help showcase why, domestically, annexation had wide-spread support and thus created political gains for Russia’s rulers.
+Certainly, for most values in the equation it is only possible to make rough estimates.
+Furthermore, guesses will vary significantly based on political ideas and assumptions made.
+However, the above equation nonetheless should help to underline some aspects that are of particular importance for a consequentialist mindset.
+Even if one were to assume δ as low, it is still a value that needs to be offset by positive gains.
+Economic advantages are rarely gained in modern times through the annexation of territory, as such an act usually entails a heavy toll on the local industry.
+The military gain can be more easily ascertained, depending on a state’s reliance on its military presence.
+However, in this instance, Crimea is most likely an outlier as Russia already had a significant military presence in place.
+In fact, it had been promised—albeit not legally binding—that NATO would not expand east.
+However, it is difficult to fully estimate public opinion, especially long-term gains.
+When a leader’s decision results in hard times for a state’s population, one may assume that the population will be more open to accept such results if the measure is deemed lawful as compared to any unlawful measure.
+Likewise, different parts of the equation will be affected differently.
+Most likely only the military advantage gained by annexing Crimea will remain the same in the longterm.
+The economic advantage would most likely increase over time as new firms might settle in Crimea or new sources of income might emerge.
+However, any benefit gained would most likely be limited as long as the sanctions continue.
+This is also true regarding the direct damages contained in the equation.
+However, the reputational damages would most likely decrease over time as states rearrange their stance towards Russia; as some states have arguably done due to the Syrian crisis.4 Lastly, as this equation shows, from a realist or consequentialist perspective, an annexation or any other breach of international law may be lucrative.
+However, one might argue that under certain circumstances crime can be lucrative in a domestic legal system as well.
+Specifically, situations will be lucrative in cases in which a low sentence would be offset by a high reward or simply by a low risk of detection.
+Likewise, within countries sanctioning Russia domestic support for sanctions will also likely decrease, as it is similarly influenced by sentiment.
+Moreover, the sanctions regime might lead to shifts in relations, rather than eventual normalization.
+After the Cold War, most Western states formed economic and political ties to Russia and therefore might hurt themselves by taking a strong stance on the issue.
+Similarly, some states that would have been expected to side with Russia on the issue broke rank.
+From a consequentialist perspective, it is thus noteworthy that at least some states acted against and despite those other interests.
+The responses further reveal that even without militarily intervention, and with sanctions that could have been harsher, Russia has not come out of the crisis unharmed.
+States applied pressure through various means, some economic, some political.
+Surely, Russia has not lost all its friends and compared to many smaller states, might be able to shake off the pressure more easily.
+Both state and private actors have cut some ties to Russia, because they perceive Russia as not playing by the rules.
+This leads to isolation; the first signs are the suspension of G8 membership and of voting rights in PACE, the suspension and termination of negotiations on a variety of treaties, as well as the boycott campaigns by individu335.
+For instance, while around seventy percent of Crimea’s electricity comes from Ukraine, few would argue for turning off electricity to pressure the inhabitants to change their minds.
+For instance, a survey by the Pew Research Center revealed that Putin was held in low regard internationally after the incidents in Ukraine.
+It remains to be seen how hurtful this situation will be in the long-term, especially since Russia, as a powerful state, can absorb more of these costs than other nations.
+Thus, even though the sanctions might not directly force Russia to change its actions, other states facing the same sanctions might make different choices.
+Less powerful states might focus their observations on the magnitude of costs Russia incurred rather than on whether Russia gave in to international pressure.2 V COMPARISON WITH PREVIOUS CRISES A pure positivist perspective could find plenty of relevant data to start its assessment concerning the prohibition against annexation.
+When addressing a consequentialist perspective, some further background information will aid in the assessment.
+Sadly, even considering only conflicts after World War II, there is still an abundance of conflicts to choose from.
+Any decision to highlight a particular precedent may incite the criticism of cherry-picking examples that best fit the chosen line of argument.
+It is thus no surprise that Putin has repeatedly referred to the example of Kosovo when justifying the event in Crimea.
+The example shows that international crises tend to have similarities and dissimilarities, thus limiting the useful341.
+Additionally, a cost-benefit analysis would include what exactly Russia has gained through its actions.
+At least some argue that this is rather small, even less than it de facto had before 2014.
+For observers, ramifications are often connected to the character of Putin himself.
+Nonetheless, it would be negligent to address the Ukrainian crisis but disregard the similar events in Georgia.
+Both states border Russia and had been part of the Soviet Union, both involved Russia sending troops into another country’s territory, both stemmed from a perceived conflict between NATO and the European Union on one side and Russia on the other, and Russia justified both interventions by granting protection to Russian minorities.
+The international community’s stronger response to Crimea could therefore be seen as purely politically motivated.
+However, a deeper analysis reveals other potential explanations that support the findings that the step of officially integrating Crimea has evoked the harsher reactions.
+First, the annexation of Kuwait is the poster-child for illegal annexation and how states dealt with it.
+While there is one significant distinguishing factor between Crimea and Kuwait, namely that Kuwait is an example of the envisioned enforcement mechanism through United Nations Security Council resolution at work; the two situations nonetheless share a strong negative international reaction to annexations, despite other possible third party interests.
+The last example depicts how scholars have evaluated reactions of states, especially of those with other interests, in order to determine the illegality of a situation, thus refining and strengthening the underlying rules.
+The specific case, Panama, does not involve the political West reacting to some perceived aggression from the outside, but rather featured a Western state whose actions were under scrutiny.
+The events culminated in the 2008 RussoGeorgian War, lasting from August 7, 2008 to August 12, 2008.
+As a result of the conflict, Russian military, as of 2017, occupies the two territories in Georgia, in violation of the ceasefire agreement of August 12, 2008.347 In reaction to this occupation, several states and international organizations have issued statements and adopted resolutions condemning the occupation.
+In addition, so far only four member states of the United Nations have officially recognized the territories as independent states:349 Russia, Nicaragua, Venezuela, and Nauru.
+No action has been taken by the United Nations Security Council or the United Nations General Assembly.
+None of the measures are as severe as those taken in response to Crimea.
+Possible motivations for this qualitative difference might shed light on Crimea and the prohibition of annexation.
+First, European states in particular might perceive any action in Ukraine as more threatening due to its proximity.
+Vanatu and Tuvalu initially recognized independence but later withdrew their recognition.
+While, it is questionable how strong international reaction would have been without a strong European stance, actions by the international community are frequently initiated by a smaller number of states.
+In any case, it seems significant that third states felt compelled to follow the European lead.
+The war erupted quickly and lasted only for five days.1 Concerted action is difficult in such a short time frame, however, that doesn’t account for the limited reaction to the ensuing occupation of the two Georgian regions.
+In the case of Crimea, both the United Nations General Assembly resolution, as well as all sanctions, took place after Russia had firmly established control in Crimea, at which time fighting in the region had ceased.
+Third, it was unclear for a long time whether Russia was truly the aggressor.
+In fact, a fact-finding mission was required to shed further light on the exact circumstances of the crisis.
+While the international community criticized Russia as well as the outcome of the situation, events had at that point in time stabilized.
+Thus, the political momentum for more severe actions might simply have faded.
+In Crimea, on the other hand, media reports of Russian troops in Ukrainian territory were consistent from the outset, and Putin afterwards acknowledged their presence.4 Fourth, the Georgian crisis lacked the formal separation of the two territories, whereas the Crimean crisis led to official 351.
+While Russia might be in control of both areas and has recognized both territories as independent states, there is arguably a difference in perception.
+Considering the lack of knowledge as to whether the inhabitants of these regions were properly represented in the Georgian federal government, the international community may have perceived an internal solution as more appropriate.
+The Georgian situation differs in two ways from a formal annexation by another state.
+If one country officially annexes territory of another state, it cannot be assumed that such territory will be handed back in the longterm.
+While one may not know which side is right in an internal crisis, as soon as another state annexes territory, the situation changes in quality.
+It then becomes openly visible that one state has taken territory that used to belong to another country.
+Many would assume that in the realm of states, the status quo ante was correct and any change is arguably considered as illegal,356 in which case the international reaction to the Crimean crisis evidences a strong stance against annexation.
+B Kuwait 1990 After Iraq invaded Kuwait in 1990, it formally annexed its territory on August 8.357 The United Nations Security Council immediately passed a resolution declaring the annexation void.
+China, which had provided weapons to Iraq prior to the war, voted in favor of the United Nations Security Council resolution.
+Similarly, even former close allies of Iraq, among them India and France, acted in concert with the rest of the international community.2 It is important to ask that the reaction towards Iraq was stronger than the reaction to Crimea, resulting in military measures that ultimately ended the occupation.
+However, it cannot be expected that state reactions will always be the same.
+As such, Kuwait may be understood as in line with the lesson that third states will act to end annexation even if such response contradicts other incentives.
+Taking a consequentialist perspective, Crimea nonetheless has stronger repercussions overall.
+This is because from a consequentialist perspective any action is more noteworthy if it is taken against other interests or against more important states.
+As such, opposing Saddam Hussein in 1990 would, at least for most states, carry less actual or potential risk of negative consequences than opposing Putin in 2014.
+First, fewer states had direct connections to Iraq than have now to Russia.
+See World Acts Against Iraqi Invasion of Kuwait, supra note 360; Tisdall & Hirst, supra note 360.
+Among the justifications given by the United States were the protection of its own citizens, thirty-five thousand United States citizens were living in Panama, and the protection of the neutrality of the Panama Canal, which was regulated by the Torrijos-Carter Treaty.
+In addition, the United States relied on an invitation to intervene by the person they perceived as the rightful president.
+Nonetheless, the international community recognized the invasion as illegal.
+General Assembly, however, adopted a resolution that condemned the invasion, with seventy-five in favor, twenty against, and forty abstentions.
+Additionally, the Organization of American States deplored the invasion in a resolution.9 While the situation contains a number of similarities to the Crimean annexation, the final result differed as Panama was not annexed.
+It nonetheless supports the above analysis that state action shapes the perception of a conflict under international law.
+It is important to note, while not all Western states condemned the United States actions, some, including Austria, Finland, Spain, and Sweden, voted for the United Nations Gen364.
+In this regard, the argumentation was similar to the one used by Putin in regard to Crimea.
+This circumstance is considered strong evidence for the widely agreed upon determination that United States actions were contrary to international law.
+Overall, the Panamanian example therefore evidences a situation in which a breach of international law, alongside opposition of friendly states, helped to shape and enhance specific norms of international law.
+Most significantly, states may condemn these violations, even when committed by their allies.
+Moreover, such state action can be considered as one factor for the determination of legality.
+Lastly, even the Georgian crisis of 2008 might be seen to support such a conclusion in the sense that state action may be influenced by the blatant and permanent nature of the violation.
+LESSONS TO BE DRAWN Bearing in mind the international reactions to Crimea, as well as previous examples, this part will assess the lessons drawn from the Ukrainian crisis for the prohibition on annexation, both from a positivist and a consequentialist perspective.
+Especially this absence of state practice is relevant in this specific regard, and can be seen as overwhelming.
+Russia’s activities can be seen as an outlier, and might simply constitute a violation.
+It should be noted, that third states’ reactions themselves will not qualify as state practice, but may rather qualify as evidence of opinio juris.
+As such, the Crimean example does not provide much in the sense of state practice, as it does not change the fact that the overwhelming majority of states have not annexed foreign territory recently.
+The question that is fundamental in this regard is, however, whether the states refrain from annexing territory because of a sense of legal obligation, required for opinio juris, or because of some other reason.
+In considering whether there is opinio juris, it is tempting to examine the United Nations General Assembly resolution, take note of the large number of states in favor, the small number against, and conclude that a sense of legal obligation must be affirmed.
+Specifically, as resolutions are nonbinding, it seems questionable how they can determine what states consider binding.
+However, more recent decisions point in a different direction, that United Nations General Assembly resolutions may provide evidence of opinio juris, al372.
+Also termed “accepted as law,” see Michael Wood (Special Rapporteur on identification of customary international law), Third Report on Identification of Customary International Law, ¶ 6, United Nations Doc.
+If State A carries out action x, then State B’s negative reaction y could be relevant state practice for a rule that action x must be answered by 374.
+Of course, these abstentions aren’t evidence of a decline in the prohibition on annexation.
+First, states that abstained gave various reasons, none of which involved declaring the annexation was lawful.
+Overall, these deliberations should call for caution, even in cases in which only small number of states opposed a specific resolution.
+While it can therefore be doubted whether Resolution 68/262 can serve to identify opinio juris, at least by itself, the individual reactions by states, such as sanctions, can be taken into account.
+Statements of condemnation and sanctions evince that states perceive an annexation as contrary to customary international law and further show that they perceive the situation in Crimea to fall into the category of an annexation.
+Thus, it can be deduced, that the inactivity of most states stems from a sense of legal obligation pertaining to a prohibition on annexation.
+Second, third states’ actions show that Crimea is perceived as an annexation.
+Thus, Crimea sheds light on both the existence, as well as the content, of the prohibition on annexation.
+Most importantly, in its legal determinations, it agrees with the Western analysis that an annexation is contrary to customary international law.
+However, it differs in whether the case of Crimea constitutes an annexation.
+The differences regard the assessment of facts, as well as in application of the prohibition, not in its existence.
+Therefore, even taking into account Russia, the existence of the prohibition on annexation can, from a positivist perspective, hardly be doubted.
+The significance of the Crimean example should nonetheless not be ignored.
+First, the analysis shows that even a breach of international law can support the existence of rule rather that shed doubt on it.
+Furthermore, in some cases, particularly those in which the rule at stake is a prohibition, breaches will result in more data than compliance.
+This is because a consequentialist may argue that compliance has a number of reasons, none of them evidencing any support in the rule itself.
+However, a breach that entails a sharp international reaction will show evidence that third states believe in the validity of the rule and their obligation to protect it.
+Second, the assessment of positivist results from Crimea shows both opportunities as well as pitfalls of determining customary international law and especially opinio juris.
+The analysis highlights the difficulties such an analysis entails, even when it appears states concur on the existence of a rule.
+Beyond these positivistic aspects, the above analysis carries to light some consequentialist insights, primarily addressing some of the criticisms of international law.
+In order to fully understand the consequentialist results, a short depiction of such criticism is in order.
+A plethora of individual critiques of international law exist and differ in their particular approaches.
+While not all of these approaches can be addressed in this analysis, two strands of criticism are highlighted here in order to address possible general ramifications of a consequentialist perspective on Crimea.
+The first view, an extreme realist stance, would deny international law any significance at all,378 based on a lack of enforceability.
+As such, this view can be seen as one extreme on a spectrum; the opposing end forms the view that international norms clearly motivate state behavior.
+To give an example from domestic law, jaywalking, the first view would question a prohibition on jaywalking because the prohibition is not enforced.
+The second view would rather question the motivation of those that do not jaywalk, proposing alternative explanations for such behavior, such as safety-concerns, rather than abiding by the law.2 Turning now to the outcomes of the above analysis, a consequentialist perspective on Crimea casts doubt on the first strand of critique of international law.
+These were not of a military nature and certainly could have been stronger, but to set aside the reactions as inconsequential misconstrues the facts.
+Proponents of such a view would certainly stress that nothing has swayed Russia to alter its course of action.
+This is an important point, but nonetheless should not be confused with no enforcement at all.
+In most legal systems, civil suits will only result in the obligation to pay monetary sums.
+This, however, does not mean that the relevant norms in a domestic legal system are ineffective.
+Overall, this common criticism has difficulties addressing the repercussions that follow violations of international law.3 The second strand of criticism is more difficult to encounter as it focuses on the motivation of actors, rather than their actions.
+For the sake of the following discussion, it will be assumed that the following norms are not among the interests that motivate state behavior.
+This specific example is lacking insofar as safety is also the motivating factor behind the law prohibiting jaywalking.
+A more extreme example would pit abiding the law against some completely unrelated form of selfinterest.
+Indeed, the decentralized form of enforcement leads to weaker and stronger reactions in particular cases.
+This can certainly be considered problematic, but one can once again find similarities in domestic systems.
+For instance, in legal systems that grant prosecutorial discretion, not every violation of the law will be pursued equally.
+Various analyses progressed this debate and while this Article can certainly not solve all remaining questions, some lessons can be drawn from Crimea.
+Many realist analyses of state action are based on rational choice and game theory.
+In such an analysis, focal points,385 actions by an actor that lead to reactions by others,386 are relevant.
+The annexation of Crimea is such a focal point, which led to severe reactions.
+Thus, state actors might be punishing other actors for defecting from an agreed upon behavior, not annexing territory.
+The strong reaction makes it less likely that such behavior will occur again in the future, by any actor.
+Thus, the conclusion may be drawn that the prohibition on annexation has been strengthened as a result from Crimea.
+Such a result is independent of whether or not the states were motivated by bringing a defecting actor back into compliance with the law or by self-interest.
+Second, the above analysis has taken into account various motivations of actors.
+Every state has many, sometimes conflicting, motivations in such a scenario.
+Even most European states were aware of the harm that would come from acting against Russia.
+One might assume that any of these different self-interests rather than norm-compliance have been the key factor in state action, and proving the opposite is virtually impossible.
+On the other hand, however, many states opposed Russia’s actions in Crimea, even though many had opposing 384.
+Situations might exist in which state action would be taken regardless of how other states act.
+The large number of states opposing Russia’s actions make it more likely that at least some states acted because of norm-compliance.
+At least, it appears to be an indicator that preventing annexation is in the self-interest of most states.
+This by itself could be seen as an indicator of the strength of the rule.
+Third, even in a system in which actors are purely motivated by their self-interest, international law still serves as the language of such a system.
+Thus, terms as legal or illegal are used as a symbol to the other actors for which route of actions they should take.
+In addition, it should be noted that all discussions were held in the language of law.
+While the West criticized Russia for its violations, Russia justified any action taken as in conformity with international law.
+From this perspective, the issue was never in how far a prohibition on annexation existed or whether a violation of it was to be sanctioned, but whether the actions taken were a violation at all.3 Furthermore, in the beginning, Russia also denied some of the factual allegations brought forward.
+Second, those activities were described as fully conforming with international law.
+Both strategies indicate the perceived strength of the prohibition on annexation.
+The denial of any involvement, however, evidences how far the prohibition against annexation has been internalized.
+No actor has argued that either an annexation would never be illegal or that it would not be illegal in this specific case.
+Rather, Russia has gone out of its way to showcase its actions as merely supporting the right to self-determination of the Crimean people and emphasizing that its actions were in fact not an annexation.
+While a critic may rightfully note, that such a play on words is not uncommon in a political world, it nonetheless 389.
+This perspective underlines an assumption that the Georgian crisis was not perceived as a blatant violation.
+Fourth, scholars point to the distinction between following norms because of their utility and following them because of an inherent sense of appropriateness is difficult to maintain.
+Especially in international law, in which norms result from the behavior of the actors, norms most often exist because of selfinterests.
+Overall, law-conformity may simply be a self-interest among many other interests.
+In this regard, it should be noted that many rules of international can be considered self-enforcing.
+In this sense, a state will act in conformity with its obligations, as it wishes other states to do the same.
+Otherwise, a state may set out a precedent that others might follow in the future, thereby leading to the erosion of the rule at hand.6 While it seems doubtful whether the Russian annexation of Crimea will lead to the prohibition on annexation fading out of existence, in the sense that states will soon start invading each other to acquire territory, more than the pure existence of the rule might be at stake.
+Once again, Russia has depicted its actions as in conformity with international law.
+The relevant question is therefore not whether an annexation is legal, it certainly is not, but whether and how far actions taken by Russia were an annexation in the first place.
+Both of these questions may seem far-fetched as the Russian arguments go well beyond previous argumentations based on 394.
+Nonetheless, it seems noteworthy that both concepts have played a role in the discussions.
+Similarly, Putin has made explicit reference to the German reunification and thereby acquired at least some support in Germany.
+Afghanistan, as well, may have been persuaded by this line of argumentation.
+Moreover, it might even be argued that the case of Kosovo, which itself was phrased in terms of legality, only opened up the possibility of a further erosion of once firm principles.
+It is therefore up for debate specifically how international law has compelled states to react to Russia.
+However, even theories of international law based on states as rational actors might not necessarily deny that law may have played some role in the ongoing events.
+CONCLUSION On the surface, international reactions to Crimea appear insignificant.
+Russia is still in control of the region without any sincere attempts to push it out with force.
+At the same time, the sanctions taken are sometimes criticized as too lax.
+However, closer scrutiny reveals that international reactions are in fact significant.
+It is true that no military action has been taken, but any such demand is based on a flawed understanding of how the international system should be enforced.
+Those that were taken must be measured against the interdependence of acting states and Russia, as well as the desire for a political solution.
+Crimea itself is far from prosperous;405 international reaction and sanctions damaged both the Russian economy, as well as Russia’s reputation.
+In addition, actions such as excluding Russia from the G8 might have long-term implications.
+Most importantly, however, reactions to Crimea are significant in revealing that states’ actions do not always fall in line with their otherwise existing interests.
+Surely, some states will support their allies throughout the whole process.
+Some, however, will act in ways that might seem contradictory, considering their economic or political dependence on the primary actors.
+One explanation for this seemingly contradictory behavior lies in the legal effects created by the prohibition on annexation.
+Independent of their affiliations, states were compelled to act in accordance with their international obligations, whether directly or as a means to serve other interests.
+This does not necessarily lead to the expectation that every state was to strongly oppose Russian actions and install sanctions.
+In fact, any amount of action that is taken in response to a violation of international law bears legal significance.
+First, seen from a positivist perspective, an analysis of the situation suggests that the prohibition of annexation is still strongly in place.
+While it is true that most would not doubt the existence of such a rule, it should be noted that determining international law largely depends on state action.
+Any such action therefore helps to illuminate the exact content of a rule.
+In addition, the inhabitants are confronted with issues arising from a sudden shift and overlap in jurisdiction.
+It should be noted that Russia has referred to international precedent in justification of its measures, especially Kosovo.
+A strong backlash itself can constitute evidence of the illegality of a given action and therefore might help to distinguish current from past cases.
+Second, seen from a consequentialist perspective, one might argue that at least the prohibition of annexation was strengthened by the events surrounding Crimea.
+If one were to assess whether a United Nations veto power could take any action whatsoever without having to fear repercussions, the result of such an assessment would likely be different before and after Crimea.
+Bearing in mind previous examples, such as Georgia, a 2013 perspective was bound to be more pessimistic.
+In 2017, however, any state might reconsider whether expected repercussions are worth a desired annexation.
+In fact, it may be argued that Russia underestimated the international reaction when deciding to take action.
+This does not mean that the annexation of further territory is rendered impossible.
+Further, this also does not indicate that Russia will not be able to maintain the annexation for a long period of time.
+Similarly, it appears questionable whether a system that enforces international law through warfare would be preferable.
+Lastly, the reactions to Crimea might greatly influence those states that do not have veto rights in the United Nations Security Council or are backed by a veto power.
+For those states, the fact that the international community stood up against Russian annexation of Crimea will create a weighty deterrence, preventing any similar actions.

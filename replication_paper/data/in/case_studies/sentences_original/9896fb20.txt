@@ -1,0 +1,219 @@
+During the decades that followed, the evolution of the acoustic sonobuoy followed a number of directions.
+From the AN/CRT-1, the first passive omnidirectional broadband sonobuoy of World War II, to the AN/SSQ-53 DIFAR and AN/SSQ-77 VLAD, passive directional narrowband sonobuoys, and the AN/SSQ-62 DICASS, an active directional sonobuoy, of the Cold War, sonobuoys evolved in capability and tactical deployment in response to the increasingly sophisticated Soviet submarine threat.
+The development of the sonobuoy with its improving technology and in its multiple manifestations is described in counterpoint to the developing threat.
+The advance of operational concepts from CODAR to Julie and Jezebel to DIFAR are illustrated, and the influence of advances in underwater acoustics and the ocean environment upon sonobuoy design are discussed.
+The sonobuoy is shown to be a simple, reliable, inexpensive, technically complex, adaptive, and effective device that has been produced by the millions and used for almost seventy years.
+I INTRODUCTION The sonobuoy is an expendable, air-deployed acoustic sensor to detect submarines.
+It provided the air platform with the capability of using underwater sound to determine if an enemy submarine is present.
+In its simplest form, the sonobuoy is a compact, self-contained package of electronics designed to be dropped from an aircraft, enter the water, separate into an underwater acoustic sensor and an on-the-surface radio transmitter, and relay the underwater acoustic signals it detects to the aircraft, where the radio frequency transmission is received and processed to detect, locate, and track submarines at sea.
+Just as the submarine threat has changed over the decades, so has the sonobuoy, along with the ASW receivers, processors, aircraft, and concepts of operation.
+Technological advances in submarines and antisubmarine sensors have alternately spurred the other to further progress.
+CONTRACT NUMBER The Evolution Of The Sonobuoy From World War li To The Cold War 5b.
+PERFORMING ORGANIZATION Navmar Applied Sciences Corporation Warminster, PA 18974 REPORT NUMBER 9.
+ABSTRACT The primary airborne anti-submarine warfare sensor, the expendable sonobuoy, was developed during World War II in response to the devastating destruction of Allied shipping in the Atlantic caused by German U-boats.
+BACKGROUND The first serious threat from submarines came during World War I when Germany began attacking Allied shipping with U-boats.
+While the diesel powered U-boats were equipped with torpedoes, they were essentially surface vessels that could submerge for short periods of time and were forced to surface frequently to recharge their batteries.
+The U-boats would only submerge when they were going to attack or were under attack themselves.
+While on the surface, submarines were vulnerable to being observed and attacked from the air.
+After Wilbur and Orville Wright’s first successful airplane flight in December 1903, the idea of the flying machine developed quickly.
+In late 1915, the British began flying seaplanes on patrol and introduced aerial ASW by attacking German submarines off the coast of Belgium with the recently devised depth charge.
+Eighty percent of aircraft submarine sightings were of surfaced U-boats, with the remaining twenty percent of vessels at periscope depth.
+While the aircraft could see the submarine from a range of 5 miles, observers on the submarines could spot the aircraft at twice that distance.
+U-boats needed 2 minutes to submerge, which was not enough time to avoid air attack.
+Later, improved U-boats could submerge in about a minute, making air ASW more difficult.
+The German submarine problem continued unabated until the convoy system, using escort ships and aircraft for protection, was introduced.
+In February 1917, the United States Naval Consulting Board, headed by Thomas Alva Edison, established a Special Problems Committee with a Subcommittee on Submarine Detection by Sound.
+Some attempts were made to combine air ASW and underwater acoustics by using hydrophones suspended from seaplanes and flying boats.
+The hydrophones had to be lowered into the water while the airplane sat on the surface.
+Since the aircraft had to shut down its engines to use the hydrophone, there was reluctance to use this method for fear the aircraft engine would not start again.
+Between the wars, research in underwater acoustics continued with the introduction of commercial fathometers to determine water depth in 1924 and quartz crystal transducers that led to the first experimental sets of echo-ranging apparatus to be installed on United States Naval vessels in 1928.
+An electromagnetically activated hydrophone detected explosive detonations and relayed them by radio, using time delay methods to measure range.
+THE EVOLUTION OF THE SONOBUOY World War II On 3 September 1939, England and France declared war on Germany, and the Battle of the Atlantic officially began.
+Based on their experience with submarine attacks in World War I, the British began using the convoy system to escort shipping, augmented by land-based aircraft of the RAF Coastal Command.
+Although they were limited in range and lacked the weaponry to deliver a decisive attack, the aircraft were effective in spotting and attacking U-boats, causing them to submerge, and preventing their attacks on shipping.
+In 1941, Germany began using wolf-packs for coordinated attacks on Allied ships by multiple U-boats, and in that year, sank 1,118 Allied ships.
+Ninety-five percent of the U-boats that were detected by the Allies escaped.
+These 60-pound sonobuoys were tested in September 1941, at Barnegat Bay, New Jersey.
+They worked well enough to prove the concept, even though the first models were noisy and leaked.
+Within weeks of the Navy’s request, the practicability of using a radio sonobuoy in aerial ASW was demonstrated on 7 March 1942, in an exercise conducted off New London with the S-20 submarine and the K-5 blimp, which monitored two refurbished RCA ship-launched sonobuoys.
+The buoys detected the sound of the submerged submarine’s propellers at distances up to three miles, and the radio reception aboard the blimp was satisfactory up to five miles.
+Avoiding the use of materials that were critical in wartime, the outer cylinder for the first buoys was a quarter-inch thick paper tube coated with an alkyd resin to keep it watertight for a few hours.
+Wooden disks at the ends of the combined electronics and battery compartment were sealed by adhesive tape and flexible pitch, providing watertight integrity.
+It had a steel monopole antenna and a nickel magnetostriction hydrophone suspended to a depth of 24 feet.
+Originally intended to be dropped manually from blimps, the early developmental units were tested by dropping them off high bridges.
+When it was decided to drop them from airplanes, parachutes were added to the buoys, and the rigid antenna was replaced by a stored, self-erecting one.
+In June 1942, the first operational passive broadband AN/CRT-1 sonobuoy, shown in Fig., was issued.
+The operator had to make real-time decisions based on his ability to distinguish various underwater sounds.
+The antenna was a 39-inch quarter-wave steel tube, with about 9. inches of the antenna insulated from the water by a watertight sleeve.
+One of the parachute shrouds pulled a switch pin to turn on the transmitter.
+In the water, the parachute remained attached and settled around the antenna base.
+The plate was mounted on four shockproof rubber supports to isolate the circuitry from microphonic noise, and each vacuum tube socket had its own rubber mounting.
+The FM transmitter provided an effective RF antenna radiation of 0. watt.
+The key to the AAFAC offensive was the U-boat’s need for frequent surfacing to recharge batteries and ventilate the boat.
+The U-boat would pursue merchant vessels on the surface, where it could travel much faster than when submerged.
+The U-boat would submerge only to avoid attack after firing its torpedoes.
+Subsequently, the Army Air Corps ordered 6,410 of the AN/CRT-1 sonobuoys, while the Navy ordered 1,800 units.
+The anti-submarine “Hunter-Killer’ groups were established by the United States Navy to provide convoy protection and to pursue and sink enemy submarines.
+Bogue was the first of 17 escort carriers to begin a systematic ASW campaign as the center of a hunter-killer group assigned to escort trans-Atlantic convoys to Europe.
+These carriers were capable of ranges of over 26,000 miles at 15 knots.
+These high frequency transmissions were intercepted by the Allies using Direction Finding techniques.
+Using HF/DF , visual contacts, and sonar, the Hunter-Killer Group would pursue the U-boat until they lost or destroyed it.
+Sometimes, they were cued to the position of a U-boat by the interception of coded message traffic from the U-boat thanks to the British capture of a U-boat with the Enigma coding machine used for submarine operations.
+By December 1942, the Allies had cracked the codes and were able to decipher intercepted messages to and from the U-boats.
+In February 1943, the design for the AN/CRIT-4, a directional sonobuoy was begun.
+It was a broadband passive buoy with a rotating directional hydrophone.
+Larger and heavier than the AN/CRI-1, it measured 6.25 inches in diameter and 52. inches in length and weighed 30 pounds.
+In December 1943, sonobuoys were assigned to ASW squadrons, and by 1944, the Navy had ordered 59,700 AN/CRT-1A sonobuoys.
+Each channel corresponded to a color and was received on the AN/ARR-3 receiver, which the operator manually tuned in one buoy at a time using the color-coded tuning window to compare the intensity of the sound.
+By over-flying the purple buoy on each leg of its run, the aircraft could position the other buoys, one per pass, at a distance of 2 miles from it.
+The usual order was Purple, Orange, Blue, Red, and Yellow , with Green being reserved as a backup.
+Although they normally had a four-hour battery life, some buoys were modified by strapping on a separate container with extra batteries, as shown in Fig., in order to use the sonobuoys in long-life barriers.
+The batteries were replaceable in the field with the intent that they would have fresh batteries when they were used.
+However, the oldest batteries in storage were often issued first to get rid of them.
+Even with this handling in the field and the use of unreliable batteries, the sonobuoys that were properly-serviced in good squadrons achieved around seventy percent reliability.""° t Fig. — AN/CRT-1A Sonobuoys with Extra Battery Containers In June 1944, the USS Bogue used sonobuoys to score a kill against a Japanese submarine in the Atlantic.
+The HIJMS submarine I-52, a Japanese Type C-3 cargo submarine, departed Kure, Japan, on 10 March 1944, for Germany for the exchange of strategic materials and goods in accordance with the Axis Tripartite agreement.
+The I-52 rounded the Cape of Good Hope and was in touch with both Tokyo and Berlin by radio.
+The Allied Ultra intercepts of the I-52’s transmissions let them track the submarine, and the Bogue was instructed to hunt it down.
+The U-530 departed for Trinidad in time to avoid the Grumman TBF Avenger from the Bogue that arrived overhead at 2,340 hours on 23 June, while the I-52 was running on the surface at night in bad weather.
+The I-52 crash dived to evade the attack, and the Avenger dropped a purple-coded sonobuoy, followed by orange, blue, red, and yellow buoys.
+By listening to each sonobuoy in succession, the position of the submarine was determined by the relative intensity of the sound emitted by the target.
+Following detections by the sonobuoys, the Avenger released a Mark-24 “Fido” acoustic homing torpedo.
+Other Avengers from the Bogue picked up propeller sounds on the sonobuoys, and a second torpedo was launched, followed by a loud explosion.
+An Avenger from the Bogue attacked the U-boat with MK-5 rockets and two MK-54 depth bombs.
+The Avenger dropped a purple sonobuoy within 15 seconds of the submergence.
+For almost a minute, the sound of a propeller was heard on the sonobuoy, but this was followed by hammering sounds, then silence.
+A standard pattern of four additional sonobuoys, blue, red, yellow, and green, was dropped around the purple one as a center.
+There was no indication of sound from the submarine, but other aircraft were sent to follow up.
+One aircraft, informed that only two of the sonobuoys were operating, dropped four more buoys.
+Once a U-boat was located, sonobuoys were instrumental in determining where it went after submerging and how successful the subsequent attack was.
+The Start of the Cold War At the end of World War II, the OSRD laboratories were dismantled, and NRL absorbed the New London Laboratory, terminating research and development on sonobuoys on the assumption that sonobuoys would not be needed in the post-war era.
+After World War II, the Allies sank or destroyed most of the remaining German U-boats, but some were divided among the victors.
+The Soviet Union received 10 of the German U-boats, including 4 of the most advanced Type XXI submarines.
+By January 1948, the Soviets had produced their own submarine and had 15 Type XXIs in their fleet.
+In 1950, spurred by the possibility of a Soviet submarine threat in the Atlantic that would soon surpass that of the World War II German U-boats, Bell Labs initiated a crash program for the Office of Naval Research to develop SOSUS , a network of deep ocean long range acoustic sensor arrays to locate, classify, and track Soviet submarines.
+The SOSUS concept was based on the deep sound channel, or SOFAR (SOund Fixing And Ranging) channel.
+The low frequency acoustic R&D effort, called Project Jezebel, combined the Bell Labs LOFAR equipment with a prototype hydrophone array installed by Western Electric.
+The omnidirectional broadband passive successor to the AN/CRT-1A was the A-size AN/SSQ-2.
+It had reliability problems largely attributable to the need for Fleet personnel to partially disassemble the buoy, insert batteries, reassemble the buoy, and peak and tweak it before use.
+The AN/SSQ-1 directional sonobuoy experienced delays in its development until 1954, when Magnavox began working on the design of a one-hour-life sonobuoy with a 50-foot deep mechanically rotated hydrophone to provide passive bearings listening in the 15 kHz to 17 kHz acoustic band.
+With the fixed sonar systems as main sensor for submarine surveillance, the VP aircraft became the means of rapidly prosecuting the SOSUS detections, and aircraft-deployed sonobuoys became the principal sensors for tactical search and localization of submarines.
+One was to develop a directional hydrophone that could be steered electrically rather than rotated mechanically, and the other was to develop a technique of correlating the signals from two separated omnidirectional hydrophones.
+BTL built special directional sonobuoys with two orthogonal pressure-gradient hydrophones in a single case.
+Orientation of the hydrophones to the Earth’s magnetic field was provided by attaching a strong Alnico bar magnet.
+This directional sonobuoy had serious self-noise problems below 50 Hz, and the bar magnets used in the buoys to align the hydrophones were so powerful that the MAD system in the aircraft could not be used until all the directional buoys aboard had been dropped.
+As a result of these problems, emphasis was shifted to the omnidirectional sonobuoy correlation concept.
+Improvements to the AN/SSQ-2B sonobuoy were initiated by BTL and developed by Magnavox.
+In 1956, LOFAR was first introduced in the VP community, and the AN/SSQ-28 passive omnidirectional Jezebel-LOFAR sonobuoy, the successor to the AN/SSQ-2 , began production in 1960.
+The AN/SSQ-28 represented an important breakthrough in reliability with the introduction of factory-installed water-activated batteries.
+The AN/SSQ-28 was an A-size sonobuoy weighing 18 to 20 pounds with a piezoelectric ceramic hydrophone at a depth of 95 feet.
+It was the first sonobuoy to use a quartzstabilized transmitter and had sixteen fixed frequency RF channels.
+It had a suspension cable with silicone rubber insulated multi-strand conductors wound helically inside a silicone rubber cable, allowing the cable to stretch elastically to reduce the motion of the hydrophone.
+The omnidirectional sonobuoy could sense a submarine within range of its acoustic detection capability with no indication of the target’s range or bearing.
+The correlation concept pursued by BTL used a pair of sonobuoys with known spacing between them.
+Using broadband signals from the two buoys, a time delay was introduced between the two signals until they matched for maximum cross-correlation.
+The signals from the two buoys were multiplied in a correlation circuit and were plotted on a display of bearing versus time.
+For the use of LOFAR for detection and classification and CODAR for localization, a LOFAR-CODAR recorder was developed for the aircraft.
+While the correlation technique worked, the time required to place the four buoys often exceeded the time that the submarine was snorkeling, and CODAR did not work well when the submarine went quiet.
+A small explosion from a practice depth charge could be set off near the sonobuoy, creating a broadband high energy pulse, and the sonobuoy would act as the receiver for the echo from the submarine.
+This mode became known as “Julie” in 1955, when engineers who worked on the explosive echo-ranging concept saw a burlesque dancer named Julie Gibson at a Philadelphia nightclub and noted that her performance could turn passive buoys active.
+Julie was introduced into the Fleet in 1956, and the P2V aircraft was equipped with special Julie amplifiers built to drive the RD-47 MAD dual track pen recorder.
+Similar designs were used in the Hotel class SSBNs and the Echo Class SSGNs (Nuclear-powered Guided Missile Submarines) built between 1958 and 1968.
+Each of these so-called HENs had two nuclear reactors, a double hull, and two fast-turning screws.
+Besides producing high acoustic levels of flow noise and cavitation, the HENs generated distinctive acoustic signatures based on characteristic tonals (discrete frequency acoustic emissions) arising from their propulsion turbines, their propeller rates, and the ratio of the tonals.
+The P2V-7 Julie/Jezebel configured aircraft had a Dead Reckoning Tracker combined with the ASA-13 Navigation Computer and a pair of overhead circle projectors added.
+Smoke markers were dropped to evaluate wind drift, and the ARA-25 Radio Direction Finder was modified to operate in the sonobuoy frequency band to provide an On-Top Position Indicator for sonobuoy location.
+This, along with Julie’s need for complex aircraft patterns, highly skilled operators, heavy data processing workloads, and air crew explosive-handling safety problems, led to the cancellation of Julie.
+The first production active buoy, the AN/SSQ-15, a range-only B-size sonobuoy, shown in Fig. next to an A-size buoy, produced an omnidirectional continuous wave signal in the 26 kHz to 38 kHz frequency range.
+Introduced in 1961, the AN/SSQ-15 was unpopular at first because of its unwieldy size and weight.
+This was extended across Greenland by 1961, and the Navy began barrier patrols with WV-2 aircraft out of Keflavik, Iceland, over the Greenland-Iceland-United Kingdom Gap.
+In the late 1960s, Soviet Yankee-class SSBNs began routine patrol sequences through the GIUK gap into the western Atlantic.
+Beginning in 1963, the WV-2s were given ASW capability, being modified with a sonobuoy launcher and receiver.
+Originally designated the P3V-1, it became the P-3A in November 1962, when the Navy revised all aircraft designations.
+In 1964, the P-3 was improved as the P-3B, and in 1968, the P-3C was introduced.
+With an endurance of 12 hours, the P-3 1s able to perform a 4-hour mission at a range of 1,000 miles and return to base.
+The P-3 is capable of carrying 84 sonobuoys, 48 in the external launch tubes in its fuselage and 36 internally.
+In 1962, the Soviets produced the Juliett class of diesel electric SSGs with anechoic rubber tiles on the hull and announced that their nuclear submarines had fired ballistic missiles from submerged positions.
+President John Kennedy presented the case to the United Nations and ordered a quarantine to blockade arms shipments into Cuba, stopping and inspecting all approaching ships, and communicated to Soviet leader Nikita Khrushchev that the missiles and installations had to be removed.
+After SOSUS contacts on the Soviet subs were made in the GIUK Gap, no tracks could be established by United States ASW forces.
+Successful Hunter-Killer and VP hold-down tactics forced them to surface for battery recharging.
+LOFAR, Jezebel, and Julie sonobuoys, as well as MAD, were used in the detection and tracking of the Soviet submarines, and all of them returned to base without making it to Cuba.
+United States ASW forces had processed submarine contacts for a total of 2,889 hours over a 23-day period.
+The crisis was resolved when the Soviets dismantled the installations and removed the missiles from Cuba.
+In 1965, the A-size AN/SSQ-41, an improved passive, omnidirectional LOFAR sonobuoy replaced both the AN/SSQ-23 Julie sonobuoy and the AN/SSQ-28 Jezebel sonobuoy to become the primary passive sonobuoy in the Fleet.
+The array provided some discrimination against surface and bottom reverberation in Julie operations.
+The AN/SSQ-48, a Jezebel buoy with a 95-foot-deep hydrophone was also developed in the early 1960s as a successor to the AN/SSQ-28, but it was replaced by the AN/SSQ-41B which had a single hydrophone.
+At this point, most operations were passive, and the hydrophone array was no longer serving any practical purpose.
+AN/SSQ-41B sonobuoys operated in the 10 to 10,000 or 10 to 20,000 hertz band.
+These sonobuoys were individually calibrated by the manufacturer for precision acoustic measurements, since they were used to measure ambient noise in the ocean.
+To provide a wider range of dynamic range in noisy environments, a selectable 20 dB attenuation pad was incorporated into the 10 to 10,000 Hz sonobuoys.
+The AN/SSQ-57A extended the acoustic frequency band from 10 to 20,000 Hz.
+The buoy canister surface float was replaced with a CO, inflated urethane-impregnated bag surface float.
+Hydrophone ee { Long Cable Compliant Suspension Isolation Mass Faired Hydrophone Suspension | 4 —~__. : Low Frequency _ i Narrowband Hydrophone ~ m Fig. — The Changes between Sonobuoys of the Mid-1940s and the Early-1960s The Directional Sonobuoy In 1965, development of the AN/SSQ-53 DIFAR passive directional sonobuoy was begun.
+The directionality of the sensor was obtained by employing two orthogonal horizontally oriented directional sensors, a compass element, and an omnidirectional pressure hydrophone to provide a resultant unambiguous bearing to the target.
+The DIFAR concept multiplexed the compass information and the data from the two directional hydrophones and the omni hydrophone using a 7. kHz frequency reference pilot tone and a 15 kHz phase pilot tone, which was phase shifted to reference magnetic North and provided the carrier frequency for the amplitude modulated directional data in its sidebands, shown in Figs.. and 13.
+KHz 15 KHz Amplitude Frequency Pilot Phase Pilot Frequency Fig 13 — Frequency Map of the DIFAR Multiplexed Data The directional hydrophones that were used in DIFAR sonobuoys consisted of gradient devices which needed to be suspended from an electronics package containing the magnetic compass and maintain their orientation with respect to it.
+The hydrophone package was suspended below the electronics package by small compliant members.
+Because the directional gradient hydrophones were far more sensitive to movement than omnidirectional pressure hydrophones, it was important to isolate them from extraneous motion.
+To provide better attenuation of motion from the surface float, a damper disk or a damper bag entraining water was used between the compliant suspension and the lower unit.
+These devices used the water itself to provide mass-damping to the spring system, as well as isolation from the vibrations of cable strumming.
+Even after the DIFAR sonobuoy went into production in 1969, noise issues remained.
+The simple spring system of the suspension did not reduce sufficiently the disturbing vertical motion of the lower unit.
+Since the relative flow past the hydrophone was also of concern, drogues as well as mass-dampers were used just above the hydrophone to reduce this relative motion, as in Fig..50.61.
+Float Compliance Compliance with Close-Coiled «— with Open-Coiled Signal Cable —> Signal Cable / BS 4 Cable Pack Vexar Netting on Lower 30 Ft of Signal Cable Cable Pack «Damper Bag Damper Disk ——, « Electronics Canister > * 3-Point Suspension —” Hydrophone Package -” SPARTON Fig. — Early AN/SSQ-53 Suspensions and AN/SSQ-53A Production Designs The Cold War of the 1970s and 1980s In the late 1970s, Soviet Delta-class SSBNs replaced the Yankee-class on patrol through the GIUK gap.
+The United States Navy countered this threat by trailing the Soviet submarines with United States Attack Submarines and ASW Aircraft using passive sonobuoys for six 4-hour sorties per day to maintain 24-hour coverage.
+The Soviet nuclear submarines were noisy, and the United States developed SOSUS and LOFAR and DIFAR sonobuoys to find and track them.
+The espionage by American naval personnel John Walker and Jerry Whitworth made the Soviet military aware of how noisy their submarines were, and the efforts to reduce the acoustic profile of the Victor HII and Akula submarines can be traced to intelligence from the Walker spy ring.
+The sources of these noises include machinery vibration, flow over the submarine’s hull, and propeller cavitation.
+Electronic active noise cancellation techniques also reduce machinery noise.
+The flow noise can be reduced by introducing air bubbles into the flow around the hull surface to interfere with and dampen the flow noise and interrupt the coupling of machinery noise at the interface between the hull and the water.
+The design of the propeller and the shape of the hull structure can affect propeller noise, and the onset of noisy cavitation can be delayed through the use of large-diameter, low-rpm propellers and through the introduction of high-pressure air bubbles through the rotating propeller blade or shaft.
+The radiation of machinery-induced noise can also be reduced by sound-absorbing anechoic coatings of composite materials applied to submarine hulls and interior decking.
+Anechoic tiles on submarine hulls not only reduce radiated noise but also absorb energy from active sonar to reduce the echo return.
+The coating material contained voids of various sizes to degrade the reflection of the sonar ping.
+The challenge in acoustic ASW entered a new phase in the mid-1970s with the quieter third generation Soviet nuclear subs, the Sierra, and Akula classes.
+The combined results of these technologies generated a steep drop in the acoustic noise levels of the Soviet submarines.
+One way to improve the detection range was to improve the signal-to-noise ratio.
+Sonobuoy self-noise had been reduced over the years, but the sensor was still subject to high ambient noise levels.
+Low frequency ambient noise came from distant shipping through convergence zone propagation.
+If the ambient noise level could be attenuated, a higher signal-to-noise ratio for the submarine acoustic emissions could be achieved by maximizing acoustic reception at arrival angles suitable to submarine detection.
+The buoy had the directional capability of a DIFAR hydrophone centrally located in a vertical line array of omnidirectional hydrophones to provide 10 to 15 dB of array gain.
+The array was shaded to form beams and reduce sensitivity in the horizontal direction.
+VLAD was produced as the AN/SSQ-77A in 1981 and improved in the AN/SSQ-77B with additional hydrophones, selectable depths, and selectable beam patterns with different arrival angles.
+With the decrease of detection ranges for passive sonobuoys, more emphasis was placed on localization with active sonar.
+The B-size AN/SSQ-15 was replaced in the late 1960s by the lighter A-size AN/SSQ-47 range-only active sonobuoy, which produced a free-running continuous wave pulse every ten seconds at one of six fixed sonar frequencies in the 13 kHz tol9 kHz band.
+This was also a range-only A-size sensor, but it was not continuously pinging, but pinged when commanded through a UHF radio link with the aircraft.
+The transducer initially deployed to a depth of 60 feet and could be commanded to deploy to the deeper depth of 1,500 feet.
+The 38-pound CASS was available in four fixed sonar frequencies in the 6. kHz to 9. kHz band.
+Each frequency had different transducer requirements, so the transducers were not interchangeable.
+Similar to the CASS in size, weight, and sonar frequency, the DICASS provided directional capability and added FM sweeps to the CW sonar.
+Although the early DICASS buoys had the same transducer problem as the CASS buoys, later versions had transducers that could accommodate all four selectable acoustic frequencies.
+With selectable 99 RF channels, all DICASS sonobuoys are acoustically identical.
+The bridle and fins on the deep unit were to provide verticality to the transducer in ocean current flow and stable descent when the unit was commanded to deeper depths.
+The AN/SSQ-101 ADAR sonobuoy was developed as the receiver for an active source in the early 1990s by ERAPSCO, a joint venture by Magnavox and Sparton.
+ADAR, shown in Fig., was a selectable frequency band A-size sonobuoy with a 40-element, 5-arm planar array with real-time beamforming.
+The fall of the Berlin Wall in 1989 and the collapse of the Soviet Union in 1991 signaled the end of the Cold War, but ASW sonobuoys continue to be developed to counter the proliferating threat of quiet submarines throughout the world.
+It was made possible by the advances in underwater acoustics, transducer materials, and electronics and made practicable by the inventiveness and dedication of the scientists and engineers.
+The age of aviation was coming into its own, and the airplane became the ASW platform that could span vast areas of the ocean quickly in pursuit of submarines.
+As submarines became more technologically advanced, achieving faster speeds, deeper depth, longer ranges, and quieter emissions, sonobuoys evolved to keep pace.
+The sonobuoy was initially a passive sensor, divided into two branches, omnidirectional and directional sonobuoys.
+The simpler omnidirectional sonobuoys set the standard in size and ease of use, in spite of their ambiguity in determining submarine location.
+Broadband gave way to narrowband and LOFAR, and passive omnidirectional buoys were employed with explosive sources as Julie came into use.
+Toward the end of the Cold War, the quiet threat led to a more sophisticated method of echo ranging and multistatic active sonar with the AN/SSQ-101 ADAR sonobuoys as the receiver.
+Meanwhile, active sonobuoys, had begun to be developed with the B-size AN/SSQ-15.
+As an alternative to explosive sources, the active sonobuoy used coherent continuous wave sound and was both source and receiver.
+Once the sound frequency was reduced, the active buoy could be made in A-size, and the AN/SSQ-47 and AN/SSQ-50 CASS became the active equivalents of the omnidirectional passive buoys.
+Although other sensors, such as Magnetic Anomaly Detection , Periscope Detection Radar , Light Detection and Ranging , wake detection, and helicopter dipped sonar, have been included in the air ASW arsenal over the years, the ASW sonobuoy has continued to provide the most consistent and reliable means to search for and localize submarines from the air.
+McEachern, “The Ears of Air ASW — A History of United States Navy Sonobuoys,” Navmar Applied Sciences Corporation, Warminster, PA, 2008.
+E Klein, “Notes on Underwater Sound Research and Applications Before 1939,” ONR Report ACR-135, Office of Naval Research Arlington, VA, September 1967.
+NADC-AW-6322, Naval Air Development Center, Johnsville, PA, June 1964 Revision A, April 1965.
+Russell, “Ultra and the Campaign Against the U-boats in World War II,” United States Army War College, Carlisle Barracks, PA, May 1980.
+Haney, “Soccer Fields and Submarines in Cuba,” MWCR article, Naval War College Review, Vol.
+Tech Manual for Sonobuoys-Basic Intro to Air ASW Acoustic Systems, NAVAIR 28-SSQ-500-4.
+NADC-83012-30, Naval Air Development Center, Johnsville, PA, April 1983.
+Sonobuoy Instructional Manual, Naval Air Systems Command, NAVAIR 28-SSQ-500-1, Jan 1988.
+Sonobuoy Instructional Manual, Naval Air Systems Command, NAVAIR 28-SSQ-500-1, Apr 2002.
+Technical Manual Operation and Installation Instruction Sonobuoy AN/SSQ-77A, 1982.
+Roger A Holler has over 45 years of experience in acoustic sensor design and analysis.
+He joined Navmar Applied Sciences Corporation in October 1999 as a Senior Acoustics Engineer after more than 32 years as a mechanical engineer with the Naval Air Warfare Center, Patuxent River, Maryland, and the Naval Air Development Center, Warminster, Pennsylvania, where he performed research and development of undersea sonar systems, with an emphasis on sonobuoy hydromechanics and acoustics.
+He was the project engineer for the Research on Sonobuoy Configurations program, supporting R&D of new components, subsystems, and techniques for sonobuoys and contributed significantly to development of both passive and active sonobuoy systems.
+He has authored over 50 technical papers and reports and has received 6 patents for underwater deployment and cable suspension designs.

@@ -1,0 +1,362 @@
+Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to Department of Defense, Washington Headquarters Services, Directorate for Information Operations and Reports , 1215 Jefferson Davis Highway, Suite 1204, Arlington, VA 22202-4302.
+Respondents should be aware that notwithstanding any other provision of law, no person shall be subject to any penalty for failing to comply with a collection of information if it does not display a currently valid OMB control number.
+PERFORMING ORGANIZATION NAME AND ADDRESS Joint Forces Staff College Joint Advanced Warfighting School 7800 Hampton Blvd Norfolk, VA 23511-1702 8.
+ABSTRACT Center of Gravity constructs currently in practice either fall short of providing a useful method for discerning a hybrid threat’s COG or omit the concept entirely.
+This critical deficiency in threat analysis may result in the implementation of improper strategies and operational designs to defeat these threats due to the dilemmas created by hybrid adversaries.
+This thesis defines a COG as the actor’s “main effort” to achieve its objectives and proposes an analytical method for hybrid threat COG analysis and hypothesizes that identifying a hybrid threat’s operational COG as the “modality of principal use” enables rapid understanding.
+This methodology is applied to the 2006 Lebanon War and 2014 Russian invasion of Ukraine.
+SUBJECT TERMS Hybrid War, Hybrid Threat, Hybrid Adversary, Gray Zone, Joint Doctrine, Center of Gravity, Hezbollah, Israel, Russia, Ukraine, 2006 Lebanon War, Future War, Future Conflict, Intelligence Analysis, Threat Analysis 16.
+CUTTING THE GORDIAN KNOT By Michael D Reilly LtCol, USMC Intentionally left blank HYBRID THREAT CENTER OF GRAVITY ANALYSIS: CUTTING THE GORDIAN KNOT By Michael D Reilly LtCol, USMC A paper submitted to the Faculty of the Joint Advanced Warfighting School in partial satisfaction of the requirements of a Master of Science Degree in Joint Campaign Planning and Strategy.
+Thesis Advisor: Approved By: Intentionally left blank Abstract The United States, as the de facto global guarantor of stability, will face increasingly hybrid adversaries that choose asymmetric ways to challenge American dominance.
+The Center of Gravity constructs currently in practice either fall short of providing a useful method for discerning a hybrid threat’s Center of Gravity or omit the concept entirely.
+This creates a dilemma as denial, deception, and integration efforts make a hybrid adversary’s Center of Gravity elusive and difficult to identify in a timely manner.
+This increases the probability of observing, orienting, deciding, and acting too slowly to effectively counter the threat or misidentifying the Center of Gravity and taking inappropriate actions based upon legacy definitions that may not apply to hybrid adversaries.
+This thesis defines a Center of Gravity as the actor’s “main effort” to achieve its objectives at that given level of war and proposes an analytical method for hybrid threat Center of Gravity analysis that takes into account the ambiguity inherent in these kinds of adversaries.
+This work is intended to assist operational level planners in accurately identifying a hybrid threat’s operational Center of Gravity in a timely manner.
+It hypothesizes that identifying the hybrid threat’s operational level Center of Gravity as the “modality of principal use” enables planners and commanders to design operations to quickly and effectively defeat hybrid threats.
+This new methodology is then applied to recent examples of hybrid war as demonstrated by Hezbollah in 2006 and Russia in 2014.
+Intentionally left blank Dedication This thesis is dedicated to all the intelligence personnel and operational planners who continually struggle behind the scenes to make order out of chaos. i Acknowledgments I’d like to thank Col Eric Walters, USMC for his mentorship, tutelage, and instruction on threat analysis.
+You set the standard for the intellectual rigor necessary to succeed in today’s complex environments.
+I also thank my wife for her continued love and support as we walk this road together.
+Alexander was marching through Anatolia on his famous campaign to conquer Persia.
+Arriving in Gordium, Alexander was presented with an opportunistic challenge as it was the home of the fabled knot of King Midas.
+This knot was so renowned for its complexity and intricacy that an oracle stated that the one who could solve its riddle would be king of all Asia.
+With the future of his expedition on the line, Alexander accepted the challenge of solving the riddle of the Gordian Knot.
+Complexity, deception, misdirection, and ambiguity are characteristics of warfare dating back to ancient times that are enjoying a transformation due to an emerging method of conflict described as hybrid warfare.
+The elegant simplicity inherent in conventional, interstate warfare is foreign to hybrid war and the United States, as the de facto global guarantor of stability, will face 1 United States Joint Chiefs of Staff.
+This quote is originally found in Churchill’s book The World Crisis written in 1923.
+This thesis defines a hybrid threat as any adversary that creates a dilemma across the political, military, economic, information, and infrastructure spectrum by simultaneously employing a tailored mix of traditional warfare and weapons, irregular warfare, catastrophic terrorist actions, and disruptive and/or criminal behavior in the same time and battlespace to obtain political objectives within operational or political limitations.
+The resulting threat is akin to the ancient Gordian Knot in the dilemmas it creates due to its complexity and ambiguity.
+As such, identifying a single unit, force, person, or ideology as the Center of Gravity is potentially dangerous and misleading.
+Likewise, identifying a hybrid threat’s Critical Vulnerabilities is extremely difficult as there is no single source of strength to defeat and no silver bullet powerful enough to neutralize the Critical Capabilities inherent within a hybrid adversary.
+The real danger in applying traditional Center of Gravity analysis to hybrid threats is that it misleads senior leaders into believing that operations against hybrid adversaries will be shorter, less costly, and less risky than is probably the case.
+The Center of Gravity constructs currently in doctrine and practice either fall short of providing a useful method for discerning a hybrid threat’s Center of Gravity or omit the concept entirely.
+Hybrid adversaries create dilemmas for commanders as denial, deception, and integration efforts make rapidly identifying a hybrid adversary’s Center of Gravity elusive and difficult.
+This thesis proposes an analytical method for hybrid threat Center of Gravity analysis that takes into account the amorphous and agile nature of hybrid threat adversaries.
+Specifically, this work is intended to assist operational level planners in identifying a hybrid threat’s operational Center of Gravity in a timely manner.
+In a hybrid war scenario, identifying the hybrid threat’s operational level Center of Gravity as the ‘modality of principal use’ enables planners and commanders to develop operational approaches and designs to quickly and effectively defeat these threats before they escalate to the point where later adaptation is unacceptably costly in blood and treasure.
+Before proposing a new method of Center of Gravity analysis, debilitating problems in current approaches must be understood and accepted.
+Current perspectives 5 Votel, “The Gray Zone,” 1. 3 on Center of Gravity analysis are examined with an eye to determining if those constructs adequately support the analysis of a hybrid threat adversary.
+This thesis then discusses current thinking regarding hybrid threat adversaries and the uniqueness of hybrid warfare actions they conduct.
+Third, this thesis recommends an updated method for Center of Gravity analysis specific to understanding hybrid threat actors.
+These two case studies are deliberately selected as they are well documented, recent conflicts that demonstrate divergent applications of the hybrid war methodology and highlight the difficulties and consequences of not correctly identifying the threat’s Center of Gravity in a timely manner.
+Specifically, the modalities and tactics employed by Hezbollah and Russia differ dramatically, yet they are both considered examples of hybrid warfare with clear effects on potential future conflicts-both from the non-state and state actor perspectives.
+This thesis concludes with recommendations for Joint Doctrine as twenty-first century adversaries continue to seek asymmetric advantages against United States conventional superiority.
+Nathan Freier calls these asymmetrical conflicts the “hybrid norm” of the future 6 and it is critical that military professionals not allow themselves to become myopic in their vision of future threats, thus seeing each new conflict the same as the last, as United States and coalition forces are more likely to face hybrid, gray zone, threats in future conflicts.
+But to many military professionals and policy makers Center of Gravity analysis is still an unknown art form practiced only by those schooled in the ways of advanced military planning or intelligence analysis.
+Mary Kaldor notes that “the logic of absolute war suggests that war should be concentrated in a single blow”-otherwise known as the decisive battle.
+Clausewitz theorized that defeating the enemy’s Center of Gravity in a decisive battle provided the best avenue for victory and achieving a decision in war.
+The same analysis is conducted on friendly forces to identify the “friendly” sources of strength and potential vulnerabilities.
+Theoretically, if accomplished timely and accurately, Center of Gravity analysis enables planners to identify an adversary’s greatest strengths along with potential areas of vulnerability that are attacked, resulting in the neutralization of the enemy’s great strength, leading to its eventual defeat.
+There are numerous papers, articles, and books written about this topic.
+Even so, the concept proves challenging for those who attempt to conduct Center of Gravity analysis on even the most monolithic conventional threat-not to mention an elusive hybrid threat.
+The Navy has no direct linkage to the Center of Gravity concept and only slowly adopted it as doctrine.
+Not surprisingly, these historical roots produced different Center of Gravity definitions and concepts in each service.
+The four scholars who stand out as the most useful and comprehensive in their understanding of this concept, and who are briefly discussed here, are Dr.
+Revolutionary at the time, Strange developed his now famous CG-CC-CR-CV construct that forms the basis of joint doctrine, to assist planners in 9 Mark Cancian, “Centers of Gravity are a Myth,” Proceedings , 32.
+As an instructor with the Army’s School of Advanced Military Studies , Eikmeier argued that the Center of Gravity concept is useless if it cannot be readily understood and applied in a real-word planning situation.
+Vego argues that “the concept of center of gravity is perhaps the most critical element of operational and strategic warfare.
+Building on the Clausewitzian Foundations So That We Can All Speak the Same Language, , 43.
+Military Review 80, no. , 23. 8 accomplish a given military objective” and can be associated with all three levels of warfare.
+Echevarria approaches the Center of Gravity argument from a more mechanical perspective.
+He identifies the Center of Gravity as the force, or focal point that holds the various entities together.
+He argues that the Center of Gravity concept was originally aimed at achieving the total collapse of the adversary’s forces and, is only applicable for absolute war where the destruction of the enemy’s force is the primary goal.
+This distinctively Clausewitzean point-of-view holds true to the essence of On War, where each side seeks an advantage against the other in a decisive battle.
+However, Echevarria’s perspective is not helpful when approaching gray zone or limited war scenarios, as there may never be a decisive battle and the destruction of an adversary’s force is generally not the primary goal.
+Echeverria does not advocate the partitioning of Centers of Gravity at the strategic, operational, or tactical levels.
+He argues that these are modem artificial constructs and not how Clausewitz viewed warfare.
+Additionally, Echevarria concludes that the Center of Gravity concept is not applicable to the array of limited wars as the concept of attacking the Center of Gravity often comes in conflict with limited political objectives and rarely results in the total collapse of the enemy’s forces through a decisive battle.
+Therefore, Echeverria’s conclusions serve as the null-hypothesis to this thesis as he 16 Ibid., 24.
+Echeverria does note that the current conflict with Islamic terrorism , when viewed as a “war to the death,” qualifies as Total War and is the type of conflict that warrants Center of Gravity analysis.
+There is currently no adequate model or methodology to determine a hybrid threat’s Center of Gravity.
+The Strange and Eikmeier methods fail to account for the multi-modalities and ambiguity presented by hybrid threat adversaries.
+Joint Publication 2-01.3, Intelligence Preparation of the Operating Environment, does not mention hybrid threats or discuss the use of denial, deception, or the blending of conventional and irregular modalities in its chapter on Center of Gravity analysis.
+In the case of a hybrid threat, the Center of Gravity may not be the traditional source of greatest strength, power, or resistance described by the traditional Clausewitzean models.
+In practice, a single moral or physical source of strength may not exist due to the blending of capabilities and resources required in constructing a hybrid force.
+Eikmeier postulates two key hypotheses that could radically change how Center of Gravity analysis is understood and practiced.
+First, he argues that Clausewitz used mechanical metaphors to communicate with Prussian officers who did not understand social science, but did know engineering.
+If true, this would seek to negate the current “mechanical” approaches to Center of Gravity studies in favor of a more operationallyfriendly approach.
+He assesses that the “hub of all power” description of the Center of Gravity is not Clausewitzean, at all, rather it is the product of Howard and Paret’s transliteration.
+Rather, Clausewitz uses the Gennan word “schwerpunkt” , which literally means the weight of focus or point of effort.
+This makes sense as Clausewitz was most concerned with the decisive battle and defeating the enemy’s main effort was the surest way to win the contest of wills.
+The main factors in selecting a Schwerpunkt include the situation, terrain and commander's intent.
+In German theory and practice, commanders should ""build up"" a point of main decision within their areas of responsibility.
+The same term is often used for variety of military and nonmilitary situations to describe where the main focus of effort is or will be.
+This is a simpler concept to understand than the “hub of all power” metaphor.
+Following this logic, the real task is identifying the enemy’s operational “main effort,” not necessarily its greatest source of strength.
+Identifying the Center of Gravity as the “main effort” allows for it to be the greatest source of strength if the situation dictates, but is not binding in all circumstances.
+This definition opens the aperture on Center of Gravity analysis at the operational level, is applicable to hybrid threat scenarios, and acknowledges that the Center of Gravity can shift as the situation develops, thus forcing periodic re-assessment and, if necessary, problem reframing.
+In the case of hybrid war, the Center of Gravity may not be the source of great power, strength, resistance, or the focal point because the use of a particular force may negate the identified political objectives, provoke the full application of United States military might, or cause unacceptable second and third order effects-like the loss of international support.
+Clausewitz’s concept is still applicable, but the doctrinal definitions and methods for Center of Gravity analysis are less useful for analyzing a hybrid threat.
+Similar to Center of Gravity analysis, there are divergent views and definitions.
+New War advocates, like Mary Kaldor, Feargal Cochrane, and Shannon Beebe, argue that the nature of war has changed due to the post-Westphalian erosion of the nation-state which no longer holds the monopoly on violence.
+War is a violent struggle-a deadly contest of wills-for a political purpose and hybrid war represents an evolution in the conduct of warfare.
+United States Naval Institute.Proceedings 133, no. , 1420 . 14 warfare, catastrophic terrorism, irregular warfare, and disruptive use of technology.
+These hybrid threats, or HEAT, are entities that bridge strategy to tactics in an asymmetric way with the capabilities to threaten American core interests.
+Frank Hoffman builds upon Freier’s concept and includes “criminality” within the Disruptive modality, as criminal activities are closely intertwined in many of the current gray zone or limited war conflicts.
+It is this concept of multiple, unified and integrated modalities void of 11 Frank G Hoffman, “Hybrid vs.
+This thesis defines a hybrid threat as any adversary that creates a dilemma across the PMESII spectrum by simultaneously employing a tailored mix of traditional warfare and weapons, irregular warfare, catastrophic terrorist actions, and disruptive and/or criminal behavior in the same time and battlespace to obtain political objectives within operational or political limitations.
+Freier’s four modalities framework-with the inclusion of criminality within the Disruptive challenge-is used as the construct with which to assess a threat as hybrid at the operational level.
+While every conceivable scenario may not fit comfortably into these modalities, this hybrid threat definition adequately captures the means and ways required at the operational level to accomplish the desired ends for the majority of conflicts United States forces will confront in the twenty-first century.
+United States Marine Corps General James Mattis summed this best when he stated that “we expect future enemies to look at the four approaches [Traditional, Irregular, Catastrophic, and Disruptive] as a sort of menu and select a combination of techniques or tactics appealing to them.
+We do not face a range of four separate challengers as much as the combination of novel approaches-a merger of different modes and means of war.
+An Updated Method for Center of Gravity Analysis “The fighting forces of each belligerent whether a single state or an alliance of states have a certain unity and therefore some cohesion.
+Whether he unhooked the knot from its wagon or dramatically cut it with a sword, Alexander used creativity and cunning to defeat the puzzle in such a manner that the people believed the omen had come true.
+His success at this task foreshadowed his destiny as the ruler of all Asia.
+In much the same way, hybrid threats cannot be solved with conventional thinking as they do not fit neatly into traditional models.
+Traditional and doctrinal methods do not adequately provide a process to identify the operational level Center of Gravity of a hybrid threat.
+Those acquainted with the Strange and Eikmeier method will note many similarities.
+Step 1: Identify Observed Modalities The first, and most important, step is to identify the modalities employed by the adversary.
+During this step, every observed enemy action is categorized into one of the four hybrid modalities detailed in Chapter 3 and Appendix C-Traditional, Catastrophic Terrorism, Irregular, or Disruptive Technology /Criminal Activities.
+This step requires extensive and persistent intelligence collection efforts to accomplish accurately and timely.
+There may be some overlap as some tactical actions or military forces could be used in multiple modalities.
+Operational planners must pay particular attention to their Commander’s Indications and Warning decks and Priority Intelligence Requirements as they drive the intelligence collection efforts and greatly influence what enemy action is observed and reported.
+If information gaps are identified, they must be filled in a timely manner to ensure that threat modalities are observed and identified.
+Identify Adversary’s Assessed Objectives and Limitations Ends As the modalities of the threat’s operation are discovered and identified, an assessment must be made as to the threat’s desired ends, military objectives, and limitations.
+This assessment must be made in a timely manner to inform decision-makers and it is critical that planners continuously review and revalidate this assessment as it 18 bears great importance on the correct identification of the Center of Gravity.
+Planners must determine the political end state, the military objectives at the operational level of war, and any limitations likely imposed on the forces conducting the actions.
+This assessment is a critical step as the adversary’s desired ends and objectives relate directly to the ways and means required to accomplish those objectives.
+Identify the Critical Capabilities Ways Planners must identify the “ways” or actions required in achieving the desired ends.
+CCs are usually noted as an “ability to” perform a certain activity critical to the success of the operation.
+If multiple CCs are required to accomplish the desired ends then these should be prioritized in order of necessity.
+If possible, capabilities should be narrowed down to the fewest number of “critical” capabilities.
+Identify the Center of Gravity The Modality of Principal Use Once the employed modalities are identified, the adversary’s objectives and limitations assessed, and the required capabilities to accomplish these objectives revealed, a determination is made as to which modality (Irregular, Traditional, Catastrophic, or Disruptive/Criminal) is the enemy’s main effort to accomplish those objectives.
+The modality that possesses the required CCs to accomplish the desired objectives within the identified limitations is now identified as the enemy’s Center of Gravity.
+The modality identified as the Center of Gravity should be the form of warfare that the adversary employs as the main effort to accomplish the operational objectives within the identified or assessed operational limitations.
+The key difference with this method is the distinction given to the modality in use as it may not contain the greatest source of power, strength, or resistance.
+Especially when analyzing hybrid threats, the modality of principal use-the main effort (identified here as the Center of Gravity)-may contain lesser powers while the greater powers are used for purely deceptive purposes.
+This nuance is challenging when analyzing hybrid threats as what is highlighted as its strength may only be for show, while its main effort remains hidden until revealed or uncovered as in the RussiaUkraine case study detailed in Chapter 6.
+For a hybrid force, the modality of principal use provides a type of cohesion for the employed forces to bind.
+This cohesion of forces, under a principal modality, allows the main effort to deliver the most effective blows and is consistent with a Clausewitzean view of the Center of Gravity.
+This is understandable as doctrine and experience dictate the identification of a unit, person, ideology, or some other physical or moral entity as the Center of Gravity.
+But hybrid threats are fundamentally different than their traditional or irregular cousins and require new lexicons, doctrines, and intellectual models to counter effectively.
+While there may be superficial similarities with traditional or irregular warfare, hybrid war requires fundamentally different approaches and executions.
+This unconventional approach to Center of Gravity analysis is a start to an entirely new doctrine in threat analysis focused towards the most likely threats to American power in the future.
+The highly integrated nature of hybrid warfare makes the delineation between the modality of principal use and the supporting modalities difficult to make.
+This inherent fusion of modes provides the hybrid actor with the capability to shift main efforts should the situation dictate, depending on its own capabilities, the type of adversary, the political objectives, and self-imposed limitations.
+Similar to a conventional force shifting main efforts in response to the conditions on the ground, the hybrid threat could potentially shift main efforts as part of the plan or in response to friendly actions.
+However, changing the main effort at the operational level is no easy task and may provide an opportunity to seize the initiative from the hybrid foe.
+Additionally, the political objectives or limitations may reduce the flexibility of the hybrid force to shift the main effort and dictate which modality must be prioritized to accomplish the objectives.
+As Strange notes, these are actual things-nouns-required for the CCs to be fully operative.
+Similar to current doctrine, this should be a list of the other noted modalities, resources, units, or other means required to execute the CCs such as trained guerrilla forces or a flexible command and control network.
+As these are critical, any interdiction, destruction, or neutralization should have a direct or indirect effect on the ability of the Center of Gravity to accomplish the desired ends.
+Finding a hybrid threat’s CV may be extremely difficult due to its ambiguous and enigmatic nature, and there may be few actual CVs.
+The 2006 Israel-Hezbollah conflict in Lebanon and the 2014 Russian invasion of Ukraine provide two recent examples of hybrid warfare that allow for Center of Gravity analysis with the intent of demonstrating the need for a revised method of such analysis at the operational level.
+These two case studies highlight the deceptive and unrestricted nature of modern hybrid war with their effects on adversaries who were unable or 22 unwilling to identify their opponent’s Center of Gravity and effectively respond.
+The events described in these case studies confused many military planners at the time, as the modalities employed by Hezbollah and Russia were not easily discernable, nor were their Centers of Gravity identified in a timely manner.
+As highlighted in the two case studies, the main efforts employed by Hezbollah and Russian forces were not readily apparent and were the exact opposite of the modalities expected by Israel and Ukraine.
+The misidentification of the Centers of Gravity facing them resulted in the loss of critical time and the initiative to counter the threat’s course of action.
+Prior to applying a new model for Center of Gravity analysis to these cases it is beneficial to review the specifics of each case from the operational level of war.
+As stated previously, this thesis focusses at the level of war most occupied by planners at the operational level.
+Therefore, tactical minutia and strategic policy decisions are not discussed unless there is a direct effect on the operation at hand.
+Additionally, these cases are reviewed with an eye to the “modalities” employed.
+Little attention is paid to the type of regular or irregular forces used unless it directly affects the outcome of the operations.
+The important notion here is for planners to have the ability to gain situational awareness rapidly and convey that understanding of the enemy’s ends, ways, and means to commanders and decision-makers in a manner that enables the timely development of counter actions.
+The identification of the modality of principal use as the Center of Gravity categorizes the threat in a manner that allows a commander to develop an appropriate operational design based upon the nature of the threat quickly as the situation develops, while minimizing the risk of misidentifying the Center of Gravity.
+Case Study #1: The 2006 Lebanese War “Israel fought as a limping stepchild of Clausewitz.
+Two soldiers, Udi Goldwasser and Eldad Regev, were taken from the ambush site into Lebanon.
+A Retrospective Analysis of the Summer 2006 War Between Israel and Hizballah, Naval War College, , 1.
+Israeli decision makers took for granted that applying pressure on the government in Beirut would force its officials into coercing Hezbollah to meet Israel’s strategic demands, this despite it also having not done so during conflict 10 years before.
+In truth, Hezbollah acted with near autonomy in southern Lebanon and Israeli targeting of Lebanese governmental buildings and infrastructure only increased ill-will towards Israel.
+The Israeli leadership was so sure in its belief that airpower alone would punish Hezbollah into submission that it delayed its reserve mobilization for two weeks after the initial kidnapping.
+This expectation proved unfounded and resulted in significant ground combat operations in which the IDF was not prepared to match Hezbollah’s well-trained and disciplined fighting force.
+Ralph Peters detailed that “Hezbollah fielded an impressively innovative military force incisively tailored to meet a specific foe on particular terrain.
+This resulted in a ground force that lacked the capabilities to conduct high-intensity combined arms operations, especially in the size and scope seen in the 2006 conflict.
+In a clear departure from the standard “hit and run” tactics of irregular warfare, Hezbollah developed a “cellular anti-tank defense” in depth that frustrated Israeli forces, inflicting a level of casualties unexpected and unacceptable to the Israeli government.
+Hezbollah ground forces also occupied prepared defensive positions in Lebanon’s difficult, hilly terrain and urban areas that caught the IDF completely by surprise.
+First, late-generation fire-and-forget missiles were faster, more accurate and easier to wield.
+Third, Hezbollah's tactical defense was also a strategic defense, and the terrorist army had years to prepare fixed bunkers and connecting passages.
+Designed by Iranian engineers, the most formidable of the bunkers proved impervious to Israeli precision weapons — and Hezbollah also took care to embed its defenses amid civilian populations, preventing the Israelis from applying devastating area fires.
+Whether a catastrophic intelligence failure or a lack of operational vision, Israeli leaders did not understand the nature of the conflict they entered or the enemy they faced.
+They did not fully grasp that the extensive fortifications constructed in southern Lebanon indicated a fundamental shift in Hezbollah ground tactics from irregular in principle to an irregular-traditional hybrid.
+Expecting another irregular war characterized by counterinsurgency operations, Israeli forces abruptly received a conventional (high intensity) conflict in rugged and urban terrain against a well-trained, disciplined, and determined enemy that defended ground.
+The complete failure of effects-based operations, based on airpower and artillery attacks, to stop the rocket attacks on Israel and gain the return of the captured soldiers demonstrated that Israeli leadership either did not conduct Center of Gravity analysis or misidcntified Hezbollah’s operational Center of Gravity, resulting in a ground campaign that the IDF was not manned, trained, or prepared to win.
+It appears that Israeli political and military leadership were so blinded by the promises of airpower through effects-based operations to achieve their objectives that they neglected to study other options.
+In the end, the Second Lebanon War concluded when all participants agreed to abide by UN Security Council resolution 1701 on August 14, 2006.
+Seen as a defeat for 13 Ralph Peters, ""Lessons from Lebanon the New Model Terrorist Army,” 38.
+A Retrospective Analysis of the Summer 2006 War Between Israel and Hizballah, , 3-4. 27 the IDF, Hezbollah appears to be the first Arab force able to claim victory against the Israeli armed forces.
+This created a hybrid threat capable of standing its ground against Israeli forces.
+Hezbollah integrated full-time guerrilla fighters with local militia forces and used extensive camouflage and deception to mask their defensive fortifications and make Israel believe that it was facing an irregular force.
+He contends that it is unclear from the way Israeli leaders prosecuted the war 15 Ralph Peters, ""Lessons from Lebanon the New Model Terrorist Army,” 38.
+This question of Center of Gravity analysis is salient due to Israel’s decision to rely on effects-based operations to strike Lebanese government targets in the early stages of the conflict with disastrous results.
+It appears that if Center of Gravity analysis was done the IDF chose incorrectly, resulting in a course of action that did not attack Hezbollah’s real Center of Gravity effectively, thus prolonging the war and resulting in greater losses.
+The IDF’s mistake “reinforces the aforementioned criticality of carefully analyzing the nature of the conflict in which an armed force is involved.
+It was clear that Hezbollah employed Traditional, Irregular, and Catastrophic modalities.
+Their prepared defensive positions and uniformed fighters with modern weapons represent the Traditional modality.
+Their guerrilla fighters and uniformed militia employing hit and run tactics represent the Irregular modality.
+Since Hezbollah initiated this conflict by the ambush and kidnaping of IDF soldiers, it can be assessed that its political and military objectives were to defend its positions in southern Lebanon, exploit IDF vulnerabilities, and terrorize Israeli citizens while gaining the release of al-Qantar.
+Hezbollah was limited in its ability to conduct conventional offensive operations, but developed a purpose-built defensive capability to accomplish its objectives through the use of prepared ground defensive operations and rocket attacks on the Israeli people.
+Hezbollah’s CC in its embarrassment campaign against Israel was the ability to interdict and bog down Israeli ground forces in such a manner that caused unacceptable level of casualties while firing a continuous stream of rockets deep into Israel to terrorize the populace.
+This explains why the Israeli effectsbased bombing campaign against Lebanese targets was completely ineffective in applying pressure on the Hezbollah leadership.
+Although Hezbollah demonstrated capabilities in three modalities, the Traditional was the only modality with the inherent ability to fulfill the critical capability of interdicting and bogging down Israeli ground forces and cause unacceptable levels of casualties while terrorizing the Israeli populace with rocket attacks.
+Therefore, the Traditional modality (prepared defensive positions and uniformed fighters with modem weapons), as main effort, was Hezbollah’s operational level Center of Gravity.
+The Irregular and Catastrophic modalities were supporting efforts and identified as critical requirements along with prepared defensive positions, modem weapon systems, and trained fighters required for the employment of the Traditional modality.
+Out of these 30 CRs, few critical vulnerabilities emerge, due to the elusive and purpose-built nature of the force.
+Potential CVs include Hezbollah’s command and control network, isolated outposts, and seams in its defensive positions.
+The neutralization of these vulnerabilities would have indirectly weakened Hezbollah’s Center of Gravity thus reducing its ability to delay IDF units and cause unacceptable casualties during the ground combat phase.
+But these CVs are not silver bullet solutions to Hezbollah’s hybrid defense.
+Rather, actions against the CVs is needed for the systematic reduction of their defensive positions.
+In reality, there was no single CV that would have toppled the Center of Gravity and caused Hezbollah to release its hostages.
+Hezbollah understood Israeli arrogance and correctly concluded that the IDF viewed the 2006 Hezbollah military force the same as they did in 2000.
+Hezbollah counted on Israeli leaders dismissing its ground forces as a mere irregular threat and not understanding that the operational environment and nature of the conflict fundamentally changed.
+Hezbollah represented a non-state actor with a traditional military force capable of defending territory and inflicting great damage on the attacking IDF units.
+Had the Israeli leadership understood the true nature of the conflict, and conducted the analysis proposed in this thesis, they would have abandoned their effects-based operations and either used diplomatic channels to obtain the release of their kidnapped soldiers or anticipated a conventional ground operation against prepared defensive positions in rugged and urban terrain.
+These “green men” had no identifying marks or uniforms yet operated with amazing efficiency and tactical proficiency.
+No shots were fired, but Russia’s hybrid war against Ukraine had begun.
+Following the December 2013 ousting of pro-Russian President Yanukovych, and subsequent election of pro-western President Viktor Yushchenko, Russia enacted a plan designed to regain its lost influence and control over a previous part of the Soviet Union.
+Phase one involved operations in the ethnically-Russian Crimean peninsula, while phase two redirected operations to the ethnically-Ukrainian Donbas region of eastern Ukraine.
+Russian forces used similar, yet slightly different, hybrid designs in these two phases against their Ukrainian foes.
+Before reviewing the modalities used in their Ukrainian operations, it is important to understand two points concerning the doctrine and tactics used by Russian forces.
+First, the use of denial, deception, and disinformation, in conjunction with complex operational maneuvers is integral to Russian doctrine.
+In this work Gerasimov discussed the future of war and necessary measures in what is known informally as the ‘Gerasimov Doctrine’ of non-linear warfare.
+Bogdanov , titled “The Nature and Content of a New-Generation War,” the authors assert that information warfare, along with Special Operations Forces , and a coordinated escalation, will play a key role in future conflict.
+The Russian seizure of the Crimean peninsula was skillfully and rapidly executed.
+Phillip Karber states that the United States even pressured the Ukrainian government to not react to Russian actions out of fear of escalating the crisis into a conventional military conflict.
+Russian information operations significantly contributed to the Irregular and Disruptive modalities.
+They primarily targeted the ethnic Russians living in Crimea who were generally in favor of annexation.
+These operations resulted in strong public support among the ethnic Russians living in Crimea and very little response from the Ukrainian government.
+Perry states that the groundwork for Russian operations in Crimea and eastern Ukraine was set well in advance due to the impressive efforts placed in their information operations.
+In the eastern Ukraine, Russia encountered a different operating environment as the majority of the population is ethnic Ukrainian, not Russian.
+Although their primary language is Russian , they did not want to be a part of Russia or independent from Ukraine.
+This meant that Russian leaders could not count on the support of the local population, providing another example where the Center of Gravity is not “the people” as is often claimed.
+Implications for the United States and United States Army, 7. 35 “will of the people” is often the goal of both sides in these operations and does not inherently possess the qualities needed for consideration as a Center of Gravity Russia employed many of the irregular tactics that it used in Crimea with the addition of massing its conventional Russian forces along the Ukrainian-Russian border to conduct exercises.
+This overt military presence represents the Traditional modality and was intended to keep Russian forces ready if called upon to conduct conventional operations, intimidate Ukrainian forces from interfering in the Donbas operations, and to serve as a warning to the European countries about the seriousness of Russia’s intent.
+Ukrainian leaders misidentified the Russian operational Center of Gravity as its conventional military forces and hesitated in countering the Russian unconventional forces operating within their borders.
+The means employed by Russia in its Donbas operation include SOF and information operations similar to the Crimean phase, but also included the forming, equipping, and employment of pro-Russian separatist units and cross-border artillery fires in support of separatist actions.
+Russia’s irregular tactics eventually culminated in a direct invasion by pro-Russian forces using unmarked Russian armored vehicles, heavy equipment, and weapon systems.
+Separatist forces with Russian commanders carried out this conventional-styled military operation, however, Russian leaders continue to deny this accusation even though Russian material assistance to the separatists is well documented.
+Official Russian government denials inject just enough uncertainty to inhibit any substantial Western response.
+It also demonstrates how the Irregular and Traditional modalities can blur into a confusing hybrid war.
+Alba Popescu argues that economic dependency, endemic corruption, and fear of economic repercussions caused the failure of the EU and NATO countries to act decisively in response to Russia’s aggression in Ukraine.
+The Snake “infections” targeted Ukrainian government computers with a powerful exploitation tool used to access secret information.
+Karber describes Political Subversion as the insertion of agents; classic “agi-prop” information operations employing modern mass media to exploit ethnic-linguistic-class differences; corruption, compromise, and intimidation of local officials; backed up with kidnapping, assassination, and terrorism; recruiting discontented elements into a cellular cadre enforced with murderous discipline.
+He describes Proxy Sanctuary as seizing local governmental centers, police stations, airports and military depots; arming and training insurgents; creating checkpoints and destroying ingress transportation infrastructure; cyberattacks comprising victim communications; phony referendum with single party representation; establishment of a “people’s Republic” under Russian tutelage.
+Intervention is described as the deploying of Russian forces to the border with sudden large-scale exercises involving ground, naval, air, and airborne troops; surreptitious introduction of heavy weapons to insurgents; creation of training camps and logistics camps adjacent to the border; commitment of so-called “volunteer” combined-arms Battalion Tactical Groups; integrating proxy troops into Russian equipped, supported and led higher-level formations.
+Coercive Deterrence is composed of secret strategic force alerts and snap checks forward deployment of tactical nuclear delivery systems; theater and intercontinental “in your face” maneuvers; aggressive air patrolling of neighboring areas to inhibit their involvement.
+Russia employed a lethal mixture of Traditional, Irregular, and Disruptive challenges against Ukraine, all under Russia’s nuclear umbrella.
+Since this conflict is ongoing there will undoubtedly be additional actions by both sides, but this brief review of Russia’s opaque invasion of Ukraine demonstrates the critical need to identify a hybrid threat’s operational Center of Gravity accurately and rapidly and develop countermeasures to neutralize it prior to the situation escalating.
+As Perry sums up in his analysis, “Russia’s sophisticated information operations and effective employment of SOF were ultimately the most important factors in its non-linear warfare campaign.
+Its use of covert SOF, separatist forces, unmarked Russian equipment, and heavy information operations represent the Irregular modality.
+Russian conventional forces arrayed along the border, as well as the cross-border artillery fires, qualify as the Traditional modality.
+Russia employed the Disruptive/Criminal modality through the use of Cyber operations, information operations, and criminal activity in Ukraine and other EU countries.
+Finally, Russian strategic communications ensured that Ukraine was aware of Russia’s nuclear capabilities.
+Russia’s nuclear intimidation of its neighbor implied the presence of the Catastrophic modality even though it is unlikely Russia would employ those weapons.
+It is unlikely that Russia would have overtly used its conventional forces to accomplish these objectives due to the severe political repercussions and additional economic sanctions imposed by the EU and United States This political reality likely resulted in the operational limitations to use only non-attributable Russian personnel and equipment that could be disavowed within Ukraine’s borders.
+The CCs required to accomplish these objectives include the abilities to seize key government and military facilities covertly, create and support a pro-Russian militia, stoke Russian nationalism, and conduct brutal irregular warfare operations to wrest control of key areas from Ukrainian control.
+The operational limitations discussed above negate the Traditional modality as the Center of Gravity, even though it contained Russia’s greatest sources of strength.
+Covert Russian forces and pro-Russian separatists constituted the Center of Gravity for Russia as they were the main effort employed to accomplish the political and military objectives.
+Ukrainian leaders realized this too late and were unable to respond in a rapid and effective manner, resulting in the loss of Crimea and eastern portions of Ukraine.
+Had the Ukrainian leadership recognized Russia’s real Center of Gravity earlier they could have immediately counterattacked the “little green men” in Crimea and reinforced government bases and buildings in eastern Ukraine.
+Compared to the Clausewitzean vision of conventional interstate conflict, modem warfare is increasingly characterized by the erosion of the state’s sovereignty and monopoly of violence coupled with the continuing effects of de-colonialization in developing nations, the vacuum created by the fall of the Soviet Union, and the realities of a globally-interconnected society.
+The wars of the twenty-first century are best described as a transnational asymmetric mixture of globalization and radicalized tribalism, enabled by high-speed communications and modern weapons, employing ancient and barbaric tactics, sustained by criminality and foreign aid, and located in geographic areas of instability characterized by weak or failed states where poverty is endemic and the majority of the population has little to no access to the political system.
+In the same way that Alexander the Great demonstrated coup d ’oeil in finding a creative and unorthodox solution to the Gordian Knot, commanders must quickly recognize the hidden truth behind today’s complex, non-linear, and opaque problems that have no simple or easily discernable solutions.
+Since the method for Center of Gravity analysis in the thesis is an ideal type, examples can be used to support the theory, but it is, in principle, unprovable.
+The real goal of this methodology is to provide a useful tool for operational planners that can be adapted quickly to today’s challenges.
+Indeed, both Hoffman and Ionta argue for renewed study specifically in correctly identifying a hybrid adversary’s Center of Gravity as that assessment greatly affects the entire operational art employed to counter the threat.
+First, a full revision of the definition of the Center of Gravity is required to unify the numerous versions currently in use.
+Joint doctrine should define the Center of Gravity as an actor’s “main effort” to achieve its objectives at a given level of war.
+Adopting this definition simplifies the process of Center of Gravity analysis, is applicable to operational-level hybrid threat scenarios, and acknowledges that the Center of Gravity can shift as the situation develops.
+This ensures that Center of Gravity analysis is continually assessed and the problem reframed throughout the operation.
+It also reduces the confusion and friction often associated with determining the Center of Gravity using multiple definitions or divining it via mechanical metaphors.
+Second, the specific approach for hybrid threat Center of Gravity analysis described in this thesis should be adopted as Joint doctrine and included in future revisions of the applicable Joint Publications.
+Identifying the Modality of Principal Use as the Center of Gravity provides planners with a holistic approach to hybrid threat analysis where none currently exists.
+It is also useful in establishing requirements for intelligence collection operations and information needed for inclusion into JIPOE to support planning.
+The definition of hybrid war used in this thesis provides a foundation and should be incorporated into both Joint and Service doctrines.
+Additionally, enlisted and officer Professional Military Education programs must infuse their curriculums with a real understanding of this concept and the operational implications of its employment on the future of warfare.
+Warfare, the actual conduct of war, is constantly changing based upon any number of factors.
+Innovations in technology or the use of violence by non-state actors does not change the fundamental nature of war.
+War continues to be a violent struggle-a deadly contest of wills-for a political purpose.
+It appears that modern warfare is increasingly characterized as persistent, undeclared, guerrilla-style conflicts between societies than by short, declared, decisive actions between states.
+This is important as challengers to United States policy actively avoid actions likely to result in an overwhelming conventional military response.
+It is critical that policy-makers and senior military leaders grasp the implications of committing forces into gray zone conflicts, as traditional and hybrid warfare have fundamentally different characteristics and require different approaches.
+Clausewitz is prophetic and timeless in admonishing the “statesman and commander” to determine the “kind of war” waged and not fall into the trap of entering the desired war and not the real one.
+Strange and Eikmeier Center of Gravity Models For many planners, Strange illuminated a topic that was previously shrouded in darkness.
+The Strange method provides a well-defined, well-articulated theoretical framework supported with many illustrations.
+It explicitly shows the relationships between the Center of Gravity, the critical capabilities, the critical requirements, and the potential critical vulnerabilities the key to a systems theory of analysis and target development.
+His method provides a set of consistent definitions for planners to use and easily communicates the analysis to uninformed decision-makers.
+Finally, Strange claims that this method is useful in analyzing any kind of conflict and at the tactical, operational, and strategic levels of war.
+The means with the inherent capability to perform the w'ay is the Center of gravity.
+Determine Center of Gravity by selecting from the list the means with thecapability to perform the way.
+However, Strange and Eikmeier disagree with respect to the nature of strategic and moral Centers of Gravity.
+Strange argues that a strong leader, a ruling elite, or a strong-willed populace can be a strategic moral Center of Gravity.
+He states that self-sustaining peace can only be achieved by undermining these strategic moral Centers of Gravity.
+Eikemeier, on the other hand, dismisses the notion of strategic moral Centers of Gravity and argues that at the national level, the Center of Gravity is either the military/security force or economic/industrial capacity of that nation.
+Eikmeier contends that in a limited war the strategic Center of Gravity is the military/security force while in total war it is the nation’s economic/industrial capacity.
+While both arguments are interesting and educational, the purpose of this thesis is to understand the operational level Center of Gravity for a hybrid threat.
+Therefore, this thesis does not address the various discussions about strategic Centers of Gravity.
+Freier’s Hybrid threat Quad Chart and Description of Modalities Nathan Freier develop the below quad chart to identify and categorize the forms of organized violence employed by hybrid threats.
+Although these appear to be four stove-piped modalities, in reality a hybrid adversary blends these modalities into a single, hybrid, force.
+Freier describes each of the modalities that construct a hybrid threat within his quad chart to provide a clear understanding of what actions are contained in each.
+They include the use of all forms of weapons of mass destruction to include nuclear by terrorists or rogue state actors.
+These challenges also include the use of non-CBRN weapons for the purpose of causing catastrophic destruction, as demonstrated by the use of commercial airplanes on the Sept 11, 2001 terrorist attacks.
+Catastrophic Terrorism does not include every attack or action by a terrorist or insurgent group.
+The idea behind this category is to identify if an organization or rogue state has the capability to “paralyze power” through a single or simultaneous or cumulative actions.
+However, Irregular challenges can also include “alternative forms of war” including “trade war, financial war, ecological war” as well as high-tech terrorism.
+They are described as capabilities designed to “capsize power” and are largely seen as emerging technological capabilities that could negate American military superiority.
+While not explicitly identified, the use of highly sophisticated cyber-operations designed to penetrate and disable military or civilian operating systems (as a stand-alone action or in conjunction with other actions) fits nicely within this category.
+By their very nature, hybrid threats are integrated, amorphous, and difficult to analyze.
+As such identifying a single unit or force as the Center of Gravity is potentially dangerous and misleading.
+Likewise, identifying critical vulnerabilities is extremely difficult as there is no single source of strength to defeat and no silver bullet powerful enough to neutralize the critical capabilities inherent within a hybrid adversary.
+There is real danger in applying traditional Center of Gravity analysis to hybrid threats as it misleads senior military and civilian leaders into believing that operations against hybrid adversaries will be shorter, less costly, and less risky than is often the case.
+Differences between Compound and Hybrid threats Compound threats, like their hybrid cousins, employ two modalities; usually traditional and irregular forces.
+These forces may coordinate at the highest levels, but rarely, if ever, coordinate action at the tactical or operational levels.
+Generally speaking the CW modalities work in concert with each other, but do not directly coordinate efforts.
+Under the CW construct, the irregular force is usually the supporting effort while the regular force is the main effort and the forces rarely, if ever, combine.
+Lawrence’s role as advisor to the Arab Revolt against the Ottomans in conjunction with the British Expeditionary Forces in WW I, the Chinese Communist and Nationalist collaboration against Japanese occupation during WWII, and the American experience against the North Vietnamese and Viet Cong during the Vietnam War.
+While there may be some efforts at deception to mask the regular force, the level of integration seen in hybrid threats is not seen with compound ones.
+This results in the regular force used for obtaining the decisive victory and the irregular force serving as a vital supporting effort.
+However, the alternative Center of Gravity analysis method identified in this thesis would work well for compound threats as well as hybrid ones.
+Graphical Depiction of the Hybrid threat Center of Gravity Method The graphic below displays the holistic process for determining a hybrid threat’s operational level Center of Gravity in an easily digestible manner.
+Graphical Depiction of Proposed Hezbollah COG Analysis The graphic below figure displays Hezbollah’s operational level Center of Gravity analysis as explained in Chapter 5.
+Graphical Depiction of Proposed Russian COG Analysis The graphic below figure displays Russia’s operational level Center of Gravity analysis as explained in Chapter 6.
+Imbedded within these debates are fundamental disagreements as to the Islamic State’s strategic and operational Centers of Gravity.
+As noted in this thesis, identification of the Center of Gravity is critical to the operational approach designed to counter the threat.
+As discussed in the two previous case studies, misidentifying the Center of Gravity is the clearest path to defeat against a hybrid foe.
+So, it is worth adding a quick assessment of the Islamic State’s Center of Gravity.
+The first order of business is to determine if the Islamic State is a hybrid actor and, if so, what is its operational Center of Gravity.
+First, the Islamic State displays the Traditional modality through its fielded military and militia forces.
+These forces execute traditional military operations with modern weapon systems against traditional armies and local militias.
+Islamic State fighters typically wear uniforms, deploy in units, and employ rudimentary combined arms offensive operations.
+They also defend the ground they have taken with prepared defensive positions.
+Second, the Islamic State displays the Irregular modality through its use of shadow governments, highly visible terrorist operations, killings of Sunni and Shia “apostates,” and internet-based recruiting.
+This modality solidifies its rule in captured areas, frightens potential adversaries, attracts foreign recruits, and increases its stature on the world stage.
+Third, the Islamic State displays the Disruptive/Criminal modality through its vast network of illicit oil trafficking and sales, illegal bulk cash transfers through charities and individuals, stolen foreign aid, kidnap for ransom 57 operations, taxes, and illegal checkpoints.
+Fourth, the Islamic State appears to have acquired or produced chemical weapons and may have the intent to use these weapons.
+If true, this displays a Catastrophic Terrorism modality that could be used against vulnerable, high-profile targets.
+The Islamic State’s extensive information operations contribute to all four modalities in much the same manner that 10 supports multiple lines of effort in joint doctrine.
+The Islamic State qualifies as a hybrid threat as it displays and integrates all four modalities into a single elusive entity.
+There is considerable overlap between the Traditional and Irregular modalities as well as the Irregular and Criminal modalities.
+The Islamic State acts very much like a nation-state even though it is technically a non-state rogue actor.
+Strategically the Islamic State desires the recreation of the historical Islamic Caliphate.
+Operationally, the Islamic State’s objectives are to seize the territory required to build the Caliphate, establish the economic infrastructure to fund the Caliphate, build an army to expand the Caliphate, and terrorize all those who oppose them.
+They appear to have no political or operational limitations that inhibit their ability to seek their objectives through the use of unrestricted warfare.
+Strategically, one of the Islamic State’s Critical Capabilities is the ability to keep the United States from directly confronting its forces on the ground in Iraq and Syria.
+The Islamic State’s ideological call for a decisive battle to take place in western Syria against Western forces is one of the methods used to keep the United States at bay.
+This apocalyptic vision of a grand battle between Islam and the West, coupled with the political limitation of not directly supporting the Assad regime and United States strategic guidance to not become a part of 58 any long-term stability operations, appears to be effective in deterring the United States from committing general purpose forces to this conflict.
+The Islamic State leaders know that the United States has no appetite for another protracted ground campaign in the Middle East.
+Operationally, there are four Critical Capabilities required to accomplish the Islamic State’s operational objectives.
+Frist, the Islamic State must have the ability to defeat regional challengers and seize terrain.
+Determining the Islamic State’s Center of Gravity through the traditional methods is extremely difficult and potentially irrelevant.
+The Islamic State contains all four modalities within its hybrid nature, but the Traditional modality is the modality of principal use-the Center of Gravity.
+The Traditional modality is the Islamic State’s main effort to accomplish its operational objectives and create the Caliphate.
+Its real source of power lies in the forces arrayed on the battlefield engaged in the seizure or defense of terrain.
+The other three modalities, along with all the resources and means contained in the Traditional modality, are identified as Critical Requirements.
+Two critical 11 Mark Cancian, “Centers of Gravity are a Myth,” Proceedings , 30. 59 requirements that must be addressed are the Islamic State’s senior leadership and its ideology.
+This is critical to weakening its fielded forces loyalty and ability to coordinate operations.
+Additionally, these leaders have ordered and carried out barbarous terrorist actions.
+Secondly, the Islamic State’s Salafist jihadist ideology is not the Center of Gravity, rather is a critical requirement necessary for the recruiting and sustainment of the group’s stated purposes.
+Efforts can be made to neutralize it with counter-messaging, but this generally proves ineffective.
+Defeat on the battlefield is often the best counter-narrative to the jihadist message.
+Assessing the Traditional modality as the Islamic State’s Center of Gravity allows for an operational approach designed around defeating that modality as it will have the greatest impact on the Islamic State’s ability to accomplish its goals.
+In layman’s terms, the Islamic State is acting more like a traditional conventional force and should be treated as such.
+Any operational approach that addresses the Islamic State as another non-state actor conducting irregular warfare or terrorism will fail to defeat the Islamic State as its very nature is more traditional than irregular.
+Understanding this reality provides insight into why current coalition efforts are failing to defeat the Islamic State.
+To defeat the Islamic State, coalition forces must engage in a conventional campaign to defeat or destroy its uniformed military and ununiformed militia forces.
+This coalition should be led and manned by those with the most to win or lose in the region Turkey, Iraq, Jordan, Saudi Arabia, and Kuwait.
+Only after the Islamic State’s traditional forces are systematically destroyed and its leadership erased can the root causes of Sunni disenfranchisement and abuse by totalitarian regimes be addressed.
+Building on the Clausewitzean Foundations So That We Can All Speak the Same Language.
+House Armed Sendees Subcommittee on Intelligence, Emerging Threats and Capabilities Hearing.
+He initially served as an Infantry Officer and later transitioned to a Marine Air Ground Task Force Intelligence Officer.
+LtCol Reilly commanded at the Platoon, Company, and Battalion levels having recently served as the 3d Intelligence Battalion Commanding Officer.
+He also served as an Infantry Battalion S-2, Division Intelligence Collection Manager, Marine Expeditionary Force Deputy AC/S G-2, and Marine Expeditionary Brigade AC/S G-2.
+LtCol Reilly is a graduate of the Amphibious Warfare School, the USMC Command and Staff College, and the Joint and Combined Warfighting School.

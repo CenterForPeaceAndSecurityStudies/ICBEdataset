@@ -1,0 +1,63 @@
+ All articles published by MDPI are made immediately available worldwide under an open access license .
+ No special permission is required to reuse all or part of the article published by MDPI .
+ This type of paper provides an outlook on future directions of research or possible applications . It provides a view of future directions and possible applications of the technology .
+ Editor’s Choice articles based on recommendations by the scientific editors of MDPI journals from around the world .
+ Editors select a small number of articles recently published in the journal that they believe will be particularly interesting to authors, or important in this field . Editors select articles that they think will be interesting or important to authors .
+ The aim is to provide a snapshot of some of the most exciting work published in the various research areas of the journal .
+ Please let us know what you think of our products and services . Get Support Feedback on Facebook and Twitter .
+ Cuban missile crisis; game theory; threat that leaves something to chance; metagame theory; theory of moves; analytic narrative 1.1. 1.2.3.4.5.5 .
+ When players in a real-world game make choices that can plausibly be associated with an equilibrium outcome, a game-theoretic explanation has been uncovered . Players in the game can make decisions that can be linked to equilibrium outcomes .
+ Game-theoretic predictions about future play presume rational choice . The assumption is that an equilibrium choice will be made by each of the players . The definition of an equilibrium depends on whether the game’s depiction is dynamic .
+ In Chicken, the assumption is that each player most-prefers to win and, failing that, to compromise . Chicken is a game of chicken versus chicken, with the aim of winning and compromise .
+ The outcome called Conflict is the lowest ranked outcome of both players . Chicken presents a number of perplexing analytic problems . The outcome is Conflict .
+ A Nash equilibrium is the accepted measure of rational behavior in normal-form games with complete information . Nash equilibrium measures the behavior of players in Nash equilibrium games .
+ Dobbs and Trachtenberg find little evidence of the mathematically precise manipulation of threat levels that Schlesinger wrote about . Dobbs: "There is little evidence that this is true"
+ In the years immediately after Schelling wrote, a determinative assessment of his interpretation of the crisis was problematic . Thus, before rejecting Schelling’s explanation of the missile crisis, a more compelling reason would have to be given .
+ If the Cuban crisis were truly a competition in risk taking, there could have been no compromise; there would either have been a clear “winner” or a thermonuclear war . Schelling’s interpretation of the Cuban missile crisis and, arguably, of most other intense
+ The lack of fit between Schelling’s theoretical explanation and the resolution of the crisis is disturbing . The historical record shows that Kennedy was more than eager to compromise, and that he was willing to offer much more .
+ Howard implicitly accepts what is now the standard understanding of the resolution of the crisis’s resolution, that is that it was a draw .
+ Howard’s reformulation of classical game theory is as a theory of equilibrium selection . Stable outcomes of the metagame are termed metaequilibria . Howard's theory is based on equilibrium selection theory .
+ The United States must intend to cooperate by blockading Cuba if the Soviet Union cooperates by withdrawing the missiles . This is an interesting and potentially important theoretical result .
+ Which metaequilibrium comes into play depends on what the players expect from one another, or what they communicate to each other, in pre-play bargaining and discussion .
+ The metastrategy A/B/B-A is weakly dominant for the United States, giving the Soviet Union good reason to suspect that the U.S. would choose it . M Regardless is the best response to A/A, and since it's a good response to
+ Howard rejects this outcome as the solution to the metagame, and denies that any particular reason exists for singling it out . All of which suggests that the metaequilibrium associated with these two metastrategies, which would bring about a Soviet victory, might well evolve in an
+ If the U.S. were to select its retaliatory metastrategy A/A/B/A and the Soviet Union, anticipating the sure-thing metastrategy M, selects M . Regardless, each player’s worst outcome, Conflict, results .
+ Fraser and Hipel’s analysis of options technique should be interpreted, at least in part, as a proto-theory of equilibrium selection . Like Howard’�s theory of metagames, the analysis of the options technique can be interpreted as an equilibrium selection theory .
+ Perform no aggressive action, either by doing nothing or by using diplomatic channels to try to induce the Soviets to remove the missiles . Destroy the missile sites with an air strike, or blockade Cuba; and three for the Soviet Union: Withdraw the missiles,Maintain the missiles orEsc
+ Fraser and Hipel assume that the United States most-prefers outcome 4 to outcome 6 . Fraser, Hipel assumed that the U.S. would prefer outcomes 4 to 6 .
+ They ask whether any of the outcomes offer either player a ‘unilateral improvement’ They say it is defined as a better outcome a player can induce by unilaterally changing its strategy . Next, they ask if any outcome offers a “unilateral improvement”
+ Although outcome 0 is rational for the Soviet Union, it is unstable for the United States . The U.S. can induce three other outcomes it prefers to outcome 0 simply by switching to another course of action .
+ Of these three unilateral improvements, outcome 2 would be the United States preference . The United States prefers outcome 2 .
+ The likely Soviet response to the blockade can be also deduced from its incentive structure . Hence, the United States reaction to the U.S. reaction .
+ Brams abandons both a normal-form representation and the standard Chicken analogy . Here I concentrate on the theoretical core of all his explanations and ignore the subtle differences .
+ When Kennedy announced the blockade on October 22, the Soviet missiles were already being installed in Cuba . The blockade was already underway when Kennedy announced it .
+ Brams argues that the Soviet Union would stick with its choice to withdraw missiles simply because, by not doing so, it would only cycle back to the Compromise outcome . The United States would, perhaps, also move to its best outcome, not because it is its best, but
+ Brams' explanation proceeds from this fact . Neither player has a long-term incentive to move away from this outcome if and when it is reached .
+ The Soviet Union withdrew missiles because, looking ahead, they believed that maintaining them would not be in their long-term interest . All of which is another way of saying that they withdrew the missiles .
+ There is obviously much to like about the Theory of Moves framework . Given the American blockade and the incentive structure of the game, they simply could not win .
+ U.S. and Soviet Union's crisis bargaining model is based on what must have been true for Khrushchev to introduce missiles in Cuba, Kennedy to have implemented a blockade and the bargain that ended the crisis to have come about .
+ The crisis was not a “competition in risk taking” as Schelling suggests; rather it was an exercise in bargaining and information gathering . Both Kennedy and Khrushchev lacked complete information about one another’s preferences .
+ Wagner’s method is to deduce preferences from action choices, but it cannot but fail to fully explain actual behavior . For that, a general model that identifies a plausible equilibrium, and specifies the general conditions under which it exists, is necessary .
+ Clearly, space and other considerations preclude either a full description of the model or a detailed discussion of the explanation derived from it .
+ The improved metagame technique of Fraser and Hipel falls short of the explanatory mark . It is less than satisfying for rational choice explanations that reject some of the logical imperatives of the rationality postulate .
+ Brams’ theory of moves framework avoids the arbitrary foresight limitation that Fraser and Hipel assume of the players in their model . Finally, since their description of the crisis begins after the missiles were installed, they fail to address one of the three critical questions that a complete explanation of
+ Brams takes as his starting point as the announcement of the blockade on October 22 . The blockade is expected to begin on October 25 .
+ Study: Bargaining Equilibrium in Games and Social Situations . The study was published in the book "Rational Behavior" and "Bargain Equilibrium" in Games .
+ The “threat-that-leaves-something-to-chance” depends on the possibility of an accidental war, Quackenbush says . For a discussion, see Rapoport, , 119.6 .
+ Empirical examples of accidental wars, including World War I, are nonexistent . Snyder and Diesing also find no example of the use of coercive bargaining tactics in the sixteen major interstate crises they studied .
+ Powell also shows that under certain conditions no challenge will be made and, hence, stable mutual deterrence can emerge . See also Huth, Danilovic and Dixit and Skeath .
+ Zagare and Kilgour challenge the adequacy of this deduction . The same is true of Dixit and Skeath’s model. The same was true of the model.
+ Powell’s model suggests that when deterrence breaks down, the connection between resolve and victory in a crisis does not always depend on a greater willingness to risk war .
+ There is a Nash equilibrium in mixed strategies in Chicken . Brams assigns different utilities to different utilities .
+ A metaequilibrium is simply a Nash equilibrium in the metagame . Fraser and Hipel do not provide a detailed justification for their preference assumptions .
+ Fraser and Hipel also describe a computational model, called the state transition model, that conforms to the actual outcome of the crisis . Their assumptions are not particularly unreasonable .
+ Brams also develops a few explanations using standard game-theoretic concepts . While it uses the input of their improved metagame technique, it is not a game-model model .
+ Brams constructed an extensive-form game model in which the compromise outcome is a Nash equilibrium . Brams shows that it was in the interest of the United States to allow the Soviet Union to precipitate the move counter-move process .
+ A subgame-perfect equilibrium requires the players to plan to choose rationally at every node of the game tree . Thus, the United States could afford to be ‘magnanimous’ in 1962 .
+ A sequential equilibrium is a refinement of perfect Bayesian equilibrium . It must indicate how each player updates its beliefs about other players’ types in the light of new information obtained as the game is played out .
+ Schelling was right to dismiss Schelling’s characterization of the Cuban crisis, but for the wrong reasons . For a discussion, see Morrow .26 .
+ The fact that the Soviets did not make their alert known to U.S. decision-makers is inconsistent with Schelling’s interpretation of the crisis . Schelling's approach, called revealed preferences, should be contrasted with posited preferences that assumes an actor's goals .
+ This explanation is both theoretically and empirically inconsistent with Schelling’s . See also Hausman .
+ Economies, EISSN 2227-7099, Published by MDPI Disclaimer Disclaimer .
+ MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations .
+ Help us to further improve by taking part in a short 5 minute survey here. here.

@@ -1,0 +1,226 @@
+This review article questions the answers Allison and Zelikow provide to each of these questions.
+In particular, I discuss the importance of the partially secret Khrushchev–Kennedy agreement as a factor in ending the crisis and present new evidence suggesting that Turkey may not, as usually assumed, have been opposed at the time of the crisis to decommissioning its United States Jupiter missiles.
+Keywords Berlin, blockade, Cuban missile crisis, Jupiter missiles, Kennedy–Khrushchev agreement, nuclear weapons It is something of a paradox that the best-known book in the vast literature on the Cuban missile crisis is recognized more for its theorizing than its historical analysis, and even more for its generalized models of decision-making than its considerable contribution to understanding the crisis.
+The crisis itself, the most dangerous great power confrontation in human history, is now a half-century old.
+It is an opportune time to assess this pioneering work’s contribution to understanding its chosen event.
+And it is so universally known that its very title is regularly punned by other missile crisis writings and by non-missile crisis books, sometimes without any felt need to cite the original.
+The book’s organization reflects its emphasis on exploring alternative explanatory theories.
+It developed three now-familiar models of decision-making – the rational actor, organizational process and governmental politics models.
+In this now-famous mating of models with missiles, the models take pride of place over the puzzles.
+The even-numbered, substantive chapters each apply one model to answer all three questions, rather than successive chapters each answering a given question.
+Unlike conventional histories, therefore, Essence provides only brief, somewhat disconnected, narratives of crisis events.
+Essence2 answers all three puzzles differently, however, and the changes do not always parallel the evolution of the literature.
+This article focuses more on the second edition than on comparing the two.
+It also assumes that readers have some familiarity with both the crisis and the book.
+Both editions generally argue that analysts must venture beyond the familiar rational actor model and employ the organizational and bureaucratic models to arrive at an adequate understanding of events like the Cuban missile crisis.
+Even sympathetic critics have severely questioned the original models and interpretations.
+Mounting historical evidence has tended not to bolster the once innovative, even sexy, organizational and bureaucratic models – as many analysts had expected further evidence would.
+Learning more about the crisis has not reinforced Essence’s argument about the value-added quality of the latter two models.
+To be fair, the missile crisis was an extraordinarily tough case for demonstrating the influence of intra-government forces in policy-making.
+Crises tend to centralize decisions, to push leaders to the forefront, and the 1962 crisis did so more than most.
+Many existing appraisals of Essence of Decision, even by historians, nevertheless emphasize the three models.
+My focus here is the explanatory puzzles more than the famous models; what follows is thus, oddly, a somewhat unconventional treatment.
+Focusing today on possible explanations of and conclusions about the crisis means confronting changing interpretations of crisis events and exploring the interaction between established notions and recently discovered facts.
+I also raise some additional questions about the missile crisis beyond Essence’s now-holy trinity of puzzles.
+That would pose a challenge on most subjects at most points in time; on this subject, at this time, given the now vast and detailed missile crisis literature, it is an unrealistic claim.
+Historiographical stages It would help us to contextualize both editions of Essence of Decision to identify four more or less consecutive but overlapping stages of missile crisis research.
+The first consisted largely of 1960s’ memoirs and popular history, broadly defined, all of them American voices.
+The most prominent of these were Robert F Kennedy’s (hereafter, RFK or ‘Bobby’) Thirteen Days, Theodore Sorensen’s Kennedy, Roger Hilsman’s To Move a Nation, Arthur Schlesinger’s A Thousand Days and journalist Elie Abel’s The Missile Crisis.
+Publication of Essence1 opened the second stage, one of serious scholarly research.
+Essence1 established a new orthodoxy on the crisis but soon prompted some critics.
+Two of them, Donald Hafner and Barton Bernstein, focused on the same issue, the Jupiter missiles in Turkey, to which Allison refers but does not emphasize.
+A surging tide of declassified documents and an extraordinary series of participant– expert observer conferences marked the third stage.
+The John F Kennedy Presidential Library began releasing material in the late 1970s and continued that process apace through the 1980s and 1990s.
+The United States National Archives, the Central Intelligence Agency and the now-entitled British National Archives followed suit.
+The private National Security Archive secured release of many United States documents.
+The fourth and most recent stage is heavily represented by international perspectives and by re-evaluations and refinements, based partly on stage three disclosures.
+The volumes here include important contributions from Soviet, Cuban, British and European as well as American analysts, and the second edition of Essence of Decision.
+The current scene is, in short, a vastly more complex, varied and crowded one than when Essence1 emerged, but is one in which a significant consensus has emerged on many key issues.
+Virtually, all experts accept the former explanation as one goal if not the primary goal.
+In the early 1960s, Washington and Moscow both perceived Berlin as a key Cold War problem.
+In 1961, the Soviets and East Germans began constructing the soon-to-be famous wall to seal off West Berlin.
+In October, amidst rising tensions, Soviet and US forces directly confronted each other at ‘Checkpoint Charlie’, a major crossing point between the east and the west.
+The wall would survive for almost three decades without a similar confrontation.
+Berlin was thus in the minds of United States officials pondering Moscow’s moves and motives in October 1962.
+As logical as perceived links at the time might have been, only circumstantial evidence connects Berlin and the deployment.
+Indeed, key Russian participants in the oral history conferences have argued that Moscow had made no such direct connection.
+Moves against West Berlin, they insisted, were never part of Khrushchev’s calculus.
+It is nevertheless possible that there might have been an indirect link between the missiles in Cuba and the future of Berlin.
+Sir Frank Roberts, the British ambassador in Moscow in 1962, who was unconvinced that Berlin was Khrushchev’s specific objective, nevertheless observed that there was a connexion with Berlin, ‘because in Khrushchev’s calculations there must be some connexion between Berlin and virtually act of policy’.21 Successfully deploying missiles to Cuba would have been a major Cold War coup for the Soviet Union, a clear manifestation of Moscow’s ability to project force abroad and challenge the United States in its own backyard.
+That success, in turn, could have increased Soviet prestige globally and thus perhaps strengthened its position on Berlin – an issue about which Nikita Khrushchev cared deeply.
+A better term for the possible objective here than the so-called ‘Berlin’ motive might thus be the ‘Soviet prestige and influence’ factor.
+Many existing discussions of Soviet aims in Cuba curiously do not appear to consider this motive systematically.
+But they still insist that defending Cuba was not a significant Soviet motive for the deployment.
+But Gromyko’s oversight, such as it was, does not prove Cuba’s fate was unimportant to Nikita Khrushchev.
+Two considerations lessen the significance of JFK’s statement to Gromyko.
+The President had made a similar statement in September and, when he repeated it in October, he immediately retracted any implied promise.
+The situation had changed, he told Gromyko, because the Soviets were now building up Cuba’s military capability.
+The President’s statement was thus actually more warning than assurance.
+More importantly, no Kennedy assurance in October could have alleviated Soviet concerns about Cuba’s security at the time Khrushchev ordered the missile deployment – fully six months earlier.
+Essence2 also argues that the defence of Cuba explanation is inconsistent with the nature and number of missiles sent.
+No single metric exists, however, to calculate the forces ‘required’ to deter potential attacks.
+Moreover, whether or not a chosen action is ‘optimal’ is ‘completely irrelevant’ to explaining decisions.
+Had the crisis unfolded as Khrushchev hoped, had the USSR completed and announced the full deployments in November as planned, then the tactical missiles might very well have helped deter an American invasion.
+Moscow’s original motives cannot be assessed ex post facto, according to the way events unexpectedly unfolded months later.
+Various critics of the ‘defence of Cuba’ theme also argue that however much ballistic missiles might have deterred a United States attack, they would not have helped ‘defend’ Cuba.
+This general deterrence argument assumes, incorrectly, that Soviet thinking then rested on a deterrence–defence distinction as much as did American strategic thought.
+Moreover, the ‘deterrence versus defence’ argument does not apply at all to the tactical nuclear weapons.
+Defending Cuba is now widely regarded as a primary Khrushchev goal for the deployment.
+Support for this motive grew in recent decades as evidence emerged on extensive United States planning for an invasion of Cuba and covert CIA operations against Fidel Castro.
+Whatever Washington’s true intentions, Cuban and Soviet concerns about Cuba’s security were more than reasonable.
+Essence1 shows Kennedy’s so-called Executive Committee, or ExComm, came to focus increasingly during the first crisis week on the blockade rather than on the air strike or full-scale invasion options.
+In a highly interesting and useful departure, Allison and Zelikow argue the ExComm did not in the end pose establishing a blockade and using or threatening military force as dichotomous alternatives.
+Arguably, the actual United States response was imposing a blockade, issuing an ultimatum and negotiating an agreement.
+Most early analyses suggested that ExComm gave the negotiating option short shrift.
+In fact, negotiating a deal involving the Jupiters in Turkey was not overlooked and was not an afterthought.
+Nor did it only enter the picture late when Khrushchev raised it in a 27 October letter to Kennedy.
+The ‘friggin’ missiles’ in Turkey figured early and figured often in United States’ crisis thinking.
+And, contrary to a claim made by Dean Rusk , the Kennedy administration did not ‘reject’ Khrushchev’s proposal regarding the Jupiters; it publicly avoided a response while secretly preparing one.
+Implicitly, it thus provides an answer to this puzzle that changes the question itself.
+The puzzle we should pursue here is thus not why the President chose a ‘blockade’ but why he chose the combination of responses.
+Making that conceptual shift, in turn, raises the question of how ‘talking ‘em out’ played its part in the combination of responses.
+According to Allison and Zelikow, ‘the blockade did not change Khrushchev’s mind.
+One might quibble with the wording here – JFK did not specifically articulate the air strike or invasion threats publicly or even privately to the Soviets.
+But the American military preparations were not hidden and the Soviets presumably used their imaginations as to the further action Kennedy might take.
+The thrust of the Essence2 argument, however, is that United States threats, per se, more or less alone, forced Khrushchev to withdraw the missiles from Cuba.
+When he learned Kennedy had scheduled a televised address for 22 October, the Soviet leader initially feared the President might order an immediate military attack.
+The announced blockade signalled American resolve and made clear to Khrushchev he had misjudged Washington’s reaction to the missiles, but also suggested to him the United States might be willing to deal.
+Moreover, the effective naval blockade, coupled with the interception of Soviet submarines in the area, underscored the United States conventional military advantage in the Atlantic and Caribbean.
+The blockade also stopped the entire shipment of intermediate-range R-14 missiles.
+This was arguably the point in time at which Khrushchev began to realize there was no real alternative to withdrawal, short of risking Cuba and nuclear war.
+Realizing one has to change one’s position is distinct from changing it, but is a critical start psychologically.
+Second, the available evidence shows Khrushchev himself dwelling less on the specific possibilities of an air strike or invasion than on other, broader consequences.
+The fact that unauthorized action by his own troops brought down the U-2 spy plane only emphasized the dangers.
+Beyond specific threats to attack Cuba, therefore, was the threat of nuclear catastrophe.
+Forty years ago, Graham Allison suggested that both Kennedy and Khrushchev sought a peaceful solution, recognizing the need to avoid ‘the final failure’, as the American president called it.
+Allison’s analysis would later be confirmed by documentary evidence and oral testimony.
+The shift is reflected in another comment he made, about his ally, Castro.
+Fidel, Khrushchev said, was ‘a very hot-tempered person’ who ‘failed to think through the obvious consequences of a proposal that placed the planet on the brink of extinction’.36 The same could have been said of Khrushchev himself, before 22 October 1962.
+That week, however, he saw the quicksand into which he was walking, reconsidered his poorly conceived deployment decision and backed out before becoming stuck.
+JFK’s thinking also shifted dramatically during late October, from assuming he had no choice but attack Cuba to making a politically dangerous deal.
+If he had not obtained acceptable terms, things might well have ended differently.
+His response to the deployment was not just a blockade and threats of further action but also informal negotiation.
+An agreement was negotiated rapidly, only partially put to paper, and thus never signed let alone ratified.
+Its written component was Kennedy’s conditional pledge to end the blockade and eschew an invasion of Cuba.
+Khrushchev publicly promised to withdraw the missiles and later the IL-28 bombers.
+The so-called ‘missile trade’ was really a mutual missile withdrawal pact.
+Our understanding of this accord has evolved and deepened, as some background will show.
+Ordering the Jupiter missiles removed from Turkey According to Elie Abel, Kennedy was surprised during the missile crisis to discover that American Jupiter missiles were still in Turkey.
+In Essence1, Graham Allison hypothesized that Washington bureaucracies must have frustrated the President’s removal order.
+For bureaucratic politics folks, the example was a veritable Krupp Diamond.
+Within a few years, and even before official documents became available, Donald Hafner brilliantly shredded this myth.
+Based on public material and the secondary literature, Hafner used Kennedy’s own words and actions to show that the President knew very well before and during the missile crisis that the Jupiters remained in Turkey.
+Hafner also inferred there had been no withdrawal order ; he was correct, but he lacked direct evidence on this point and his reasoning was faulty.
+To be sure, Kennedy had earlier directed his officials to explore ways to remove the Jupiters, and he did ‘want them gone’.41 He did not, however, explicitly order the missiles withdrawn – at least not before 28 October 1962.42 The Jupiter directive myth has proven difficult to shake off and to see for what it was.
+President Kennedy’s men were hardly the first in history to spin events for political reasons – or the last.
+That was the question Even as the missile crisis dust was still settling, public speculation arose that its abrupt and unexpected end suggested some sort of secret deal with the Soviet devil.
+The New Frontiersmen denied this rumour with all the ‘vigah’ they could muster.
+United States officials also told North Atlantic Treaty Organization allies the same story.
+The fact that RFK and Soviet ambassador Anatoly Dobrynin held secret discussions during the missile crisis become public knowledge in 1966 from Abel’s book.
+That volume, however, makes no mention of the Jupiters being discussed.
+Cracks in the storyline nevertheless soon appeared, with the posthumous publication of RFK’s Thirteen Days in 1969.
+Washington observers could not help but notice it showed Bobby telling Dobrynin during their now-famous 28 October evening meeting that the President would remove the Jupiters from Turkey.
+Prior to the book’s release, ‘both admirers and critics assumed that President Kennedy had been wholly unresponsive on the Turkish missiles’.45 RFK’s account thus surprised both groups.
+In retrospect, a most interesting but much-ignored feature of the 1971 edition of Essence of Decision was its treatment of the Jupiter issue.
+Allison notes RFK’s claim that he told Dobrynin ‘there could be no quid pro quo’, no deal involving the Jupiters of the sort Khrushchev proposed earlier that day.
+The first edition of Nikita Khrushchev’s memoirs, published in the United States in 1970, was silent on the Jupiter concession.
+Andrei Gromyko similarly wrote about the arrangement, citing Thirteen Days.
+Fidel Castro spoke about the deal in the late 1960s and Turkey’s Prime Minister publicly acknowledged it in 1970.49 In 1980, historian Barton Bernstein argued the case for an explicit Kennedy–Khrushchev agreement.
+Based on some declassified JFKL documents, he concluded that the President ‘privately offered a hedged promise … to withdraw the Jupiter missiles’.50 Two years later, on the 20th anniversary of the missile crisis, six high-level Kennedy administration officials revised the record, but only modestly.
+The Thirteen Days account, he said, did not faithfully render the Kennedy–Dobrynin meeting.
+As the book’s ghost ‘editor’, Sorensen had taken it upon himself to alter RFK’s wording.
+Removing the missiles ‘was part of the deal’.54 Dobrynin himself recalled RFK had portrayed the Jupiters as a significant concession.
+Whatever the value added in Sorensen’s confession, it was a significant reversal of the public position traditionally taken by Kennedy administration officials.
+They also quote and seem to accept McGeorge Bundy’s 1988 version of the RFK–Dobrynin meeting – an account that describes something less than a clear offer.
+They oddly refer to JFK’s 27 October ‘Trollope Ploy’ letter, which ignored Khrushchev’s Jupiter proposal, as the President’s ‘final move’ , thereby relegating to a sort of limbo Kennedy’s later response on the Jupiters.
+In fact, the NATO Council eschewed a formal decision on withdrawal of the Jupiters from Turkey and Italy because, it noted, the countries concerned had already settled the matter.
+Allison and Zelikow devote little attention to the two fallback options Kennedy initiated on 27 October in the event Khrushchev rejected the secret Jupiter offer.
+One option was to arrange a public missile withdrawal deal under the auspices of the United Nations’ acting Secretary-General.
+The other, less well-formed, was to call a NATO meeting for Monday 29 October to discuss the Jupiters.
+Since neither back-up plan proved necessary, their historical importance is easily overlooked.
+They demonstrate President Kennedy’s commitment to including the Jupiters in the overall agreement and his willingness to take large political risks to do so, if necessary.
+Space constraints here prohibit details, but a senior Turkish Foreign Ministry figure told a NATO ally directly on 25 October that the government could probably accept decommissioning of the Jupiters.
+It may also help explain aspects of the ExComm discussion that day and explain why Ankara so quickly and readily accepted, post-crisis, both the idea and the eventual fact of a United States Jupiter withdrawal.
+Observers disagree on whether the causal factor was a crisis-reinforced fear of nuclear confrontation or a crisis-induced sense of possible superpower cooperation.
+What these assessments overlook is that the crisis led to, indeed featured, its own arms agreement.
+This pact comprised both a limited mutual withdrawal from allied territory of offensive nuclear missiles and an implicit understanding eschewing future deployments.
+But there was an earlier precedent – a secret Kennedy–Khrushchev agreement that resolved the 1961 Berlin tank stand-off.
+In October 1961, President Kennedy asked his brother to pass to Moscow a secret message about the ongoing Berlin tank stand-off, using a back-channel contact at the Soviet embassy in Washington.
+JFK proposed a mutual and staged withdrawal of the tanks facing each other at the Wall.
+If Khrushchev would remove his tanks, United States forces would follow.
+Khrushchev agreed, the tanks pulled back, and the crisis quickly evaporated.
+By extraordinary coincidence, JFK made this proposal exactly a year to the day before he asked Robert to convey another secret message – the offer to withdraw US missiles from Turkey.
+The Checkpoint Charlie deal and the Jupiter part of the missile crisis agreement have some striking parallels.
+Both aimed to defuse tense East–West confrontations, both comprised mutual force withdrawal arrangements – an initial Soviet withdrawal of forces followed by an American one – and both employed informal channels and oral rather than written assurances.
+The 1961 agreement, really a ‘tank withdrawal’ accord, was thus a precedent for the 1962 agreement on withdrawing missiles from Cuba and Turkey.
+It is tempting to dismiss Kennedy’s Jupiter offer simply because of this timing – but too easy to do so.
+The offer may well have affected the Presidium meeting and its formal decision.
+To begin with, Khrushchev first told his Presidium colleagues that he was willing to dismantle the missiles not on 28 October but on 25 October , three days prior.
+As his letters to Kennedy suggest, Khrushchev changed his mind more than once during the three-day interim, not about withdrawal per se, but about the conditions thereof.
+If he had by then made an unconditional decision to withdraw, he could have simply, unilaterally, announced that decision.
+The fact he did not simply order a retreat on 25, 26 or 27 October suggests he was still deciding what United States commitments would comprise an acceptable bargain.
+But he had also discerned in Kennedy’s actions and words an American willingness to talk.
+Khrushchev’s behaviour during those days was that of a man in search of a deal he was trying to ‘haggle’.69 Events on Saturday 27 October certainly deeply worried Khrushchev, in particular the anti-aircraft missile attack on the unarmed U-2 spy plane.
+Khrushchev was nevertheless quite willing to receive an improved offer.
+Second, the Presidium did know about the Dobrynin telegram, containing both RFK’s warning and Jupiter offer, before making its final decision.
+Allison and Zelikow argue that the telegram affected the mood of the meeting but still insist that the secret offer itself had no impact.
+Many observers did not expect Khrushchev to live up to his promise, and it was perhaps as surprising that he did so as that he made the promise itself.
+Successful negotiations are those that not only ‘get to yes’, but also get implemented.
+And policy decisions do not always lead directly to implementing actions – as we know from a considerable literature, including both editions of Essence.
+Whatever its influence on Soviet decision-making on 28 October, Kennedy’s offer on the Jupiters and their actual withdrawal became integral to the deal – for both sides.
+Its value to Khrushchev was obvious, allowing him to declare victory of sorts.
+His letter to Kennedy the following day deliberately noted the secret provision.
+For its part, Washington proceeded to dismantle, indeed destroy, the obsolete Jupiter missiles with considerable dispatch, even unusual zeal.
+Khrushchev’s deployment decision came in April 1962 with the deployment itself occurring between May and October 1962, Kennedy and the ExComm debated the blockade decision from 16 to 21 October, and Moscow approved the R-12 withdrawal on 28 October.
+The ‘blockade’ is the only American decision here, and no ‘puzzle’ covers any United States decisions during the last crucial week of October, nor any decisions during subsequent weeks and months.
+We cannot understand the crisis fully without understanding the two leaders’ decisions to negotiate and conclude the agreement.
+Other questions arise from perhaps the most sacred of missile crisis-related historical cows – the lingering but wrong-headed notion that the crisis lasted 13 days.
+This framing of events began with the administration and publication of Thirteen Days and continued in the movie of the same title.
+It is implicit in the term Cubans still use (the ‘October crisis’) and the phrase ‘the missiles of October’, and found even in recent writings.
+Conceptualizing the crisis as ‘13 days’ blinkers us to important questions about events before 16 October, in November and beyond.
+One concerns the so-called ‘photo gap’ – whether and why there was a dangerous delay in obtaining hard intelligence on the missile sites under construction in Cuba.
+The United States intelligence community was late identifying tactical weapons in Cuba and never confirmed their nuclear capability.
+American threats of attack cannot explain their withdrawal; by the time Khrushchev quietly ordered them out, there was little or no likelihood of an American attack on Cuba.
+Khrushchev’s removal of these missiles makes more sense in terms of complying fully with the spirit as well as letter of his agreement with Kennedy.
+Essentially, this is a question about the risks of having both nuclear-capable fighter-bombers and large numbers of Soviet troops remain in Cuba.
+The 1971 edition of Essence argued strongly for examining the crisis from the organizational and bureaucratic politics perspectives as well as, if not more than, from the rational actor perspective.
+The considerable historical evidence accrued in stages two and three of missile crisis research has generally not supported the claims about intra-governmental factors, and perhaps even undermined them.
+My evaluation here of the answers provided to the three famous puzzles has accordingly, if implicitly, emphasized the role of leaders and their calculations.
+Long-standing missile crisis myths include that Kennedy had ordered United States missiles withdrawn from Turkey prior to the crisis, that threats and superior American military capabilities ‘forced’ Soviet missiles out of Cuba, that ‘talking ‘em out’ was never a serious consideration, and that Kennedy made no deal to end the crisis.
+Essence1 and Thirteen Days helped propagate and perpetrate these myths.
+The agreement he and Khrushchev constructed was informal but vital, and is still often overlooked.
+The Jupiter concession was kept secret, although arguably not kept as secret for as long as scholars often assume.
+The end was ‘much more of a draw than a United States victory’.83 Essence2 does not so much dispute these points as it betrays a decided ambivalence towards some.
+More importantly, it does not adequately incorporate certain now well-accepted, key facts.
+In particular, it relegates the secret Jupiter concession and the Kennedy–Khrushchev agreement to near irrelevance.
+The missile crisis was not only a tough case for the organizational and bureaucratic models but also a much less than perfect fit for the Realist form of the rational actor model.
+Both Khrushchev and Kennedy temporarily pursued objectives that were arguably neither concrete nor lasting national interests, and certainly not all objectively given ones.
+The available evidence makes clear that both leaders reformulated their perceptions and goals during October 1962, did so fundamentally, and did so in ways that departed from the preferences of close advisors.
+Keeping the concession secret facilitated the myths that there had been ‘no deal’ and that the United States had forced Moscow to back down.
+These myths bolstered Kennedy’s presidency but also powerfully reinforced that core belief about waging the Cold War.
+Whatever the actual impact of the Kennedy–Khrushchev agreement on the crisis’ outcome, the mere fact that they were able to reach an agreement amidst those tensions is highly significant.
+That fact, and the accord’s viability, both illustrate that surviving the Cold War was not ultimately about ideology or threats or military power, let alone nuclear weapons.
+To their credit, both leaders soon followed up – Khrushchev advocating superpower arms control even as the crisis was winding down and Kennedy advocating ‘a strategy of peace’ in a June 1963 commencement address.
+Unfortunately, neither man had by then the time left to pursue new visions.
+I am also indebted to the journal’s editors and reviewers; to Miriam Matejova, for her perceptive comments on a draft; and to Fay Al-Hakim, for technical assistance.
+This version omits applying Model III to the first puzzle, the missile deployment.
+Abel used extensive interviews and had indirect access to a primary document.
+A 2009 survey of JFKL missile crisis-related files conducted by the present author suggested that many documents still classified in the 1980s and early 1990s had been declassified by 2008.
+Stern says that the JFKL only acknowledged existence of the Kennedy tapes after the Watergate scandal unearthed Nixon-era White House tapes.
+Other repositories, particularly Canada’s national archive, have been inexplicably much slower to release relevant material, now fully a half-century old.
+The term has not since become common usage by other states in other situations nor become accepted by legal scholars.
+On a less serious note, I recall a student in the 1990s, puzzled about a lecture of mine referring to the option of a US ‘air strike’, bravely asking why it would have mattered if the airlines had gone on strike.
+If he did , then the statement was surely misleading, unless ‘some time ago’ could mean earlier that evening when JFK and a few aides agreed to make the Jupiter offer.
+The political advantage to be gained by the myth was to defend the President against domestic political attack by downplaying the importance of assuring the Soviets about the Jupiters.
+Allison also claimed the United States Navy did not follow the President’s orders about where to position the blockade line, a separate myth.
+While their warheads were technically under American custody, they were in practice often mated with the missiles for lengthy periods and thus ready to fire.
+The Last Testament (Boston, MA: Little, Brown, 1974), 512; Strobe Talbott, Jerrold Schecter and Vyacheslav Luchkov, Khrushchev Remembers: The Glasnost Tapes , 179.
+Turkey likely knew about or suspected the secret concession in October 1962; if so, Thirteen Days would have confirmed their suspicions.
+Canada’s Washington embassy received it the same day, and almost certainly passed this appreciation to the State Department by 26 October.
+Such plans would have been politically dangerous in the extreme if the Turkish government had in fact remained strongly opposed to a Jupiter withdrawal.
+International law has ample precedents for unwritten and unratified inter-state agreements.
+To determine how ‘small’ the Jupiter concession actually was, consider the fact that the majority of the ExComm had consistently found it a totally unacceptable concession.
+They also mention in passing the Corona satellite system that by 1961 was replacing the vulnerable U-2 spy plane, but they do not explore why Corona satellites were apparently never tasked to obtain photo intelligence from Cuba.
+American intelligence discovered some, but not all, Soviet nuclear-capable tactical missiles in Cuba.
+They assumed the missiles were conventional, which some were, and that none had nuclear warheads, which some did.
+A Concise History, co-editor of Canadian Foreign Policy: Selected Cases and Rethinking National Security: The Public Dimension, and editor of Hazardous Waste Siting and Democratic Choice.

@@ -1,0 +1,282 @@
+These critiques have been far more successful in refuting the standard description of making a decision than in proposing well-developed, empirically based alternative descriptions.
+These deviations from the standard task description are used to develop an alternative characterization of the decisionmaking task, decision making by objection, which emphasizes sequential choice, goal discovery, and the avoidance of failures.
+This description of the decision-making task has been subject to two varieties of criticism.
+The first challenges the task description from an information-processing perspective and argues that, because of limited information-processing capacity, individuals can at best only roughly approximate the rational computational ideal implied in the task description.
+The path from goals to choice, moreover, is not a fixed sequence, but includes loops and cycles.
+The second variety of criticism challenges the task description in a different and, in some senses, more fundamental way by questioning the adequacy of the task description itself, quite apart from the information-processing capacity of individuals.
+The result is to deny the task description as a metaphor for why organizations act as I would like to thank Lee Sproull, Greg they do (Allison, 1971; Cohen, March, and Olsen, 1972; March, Fischer, Sara Kiesler, David Zubrow, Richard Smith, Patrick Larkey, Zeev Maoz, 1972; Cohen and March, 1974; March and Olsen, 1976; Weick, and Alexander George for comments and 1976; Sproull, Weiner, and Wolf, 1978; Weick, 1 979a; Feldman reactions to the ideas presented here.
+This species of criticism might be termed most helpful in sharpening the argument. ""seeing-as"" theory, in that we are asked to see organizational The CMU-Ford Motor Company Research action as a product of something other than the standard Fund provided the resources to acquire the documents from the John F Kennedy decision-making task description.
+My purpose here is not to suggest a grand union between the two domains.
+It is, instead, a more modest attempt to use relatively finegrained observation of foreign policy decision-making behavior to suggest elements of that union.
+From the standpoint of the information-processing view, decision making is largely an intellectual task in which goals are identified, alternatives sought, consequences predicted, alternatives evaluated, and choices made.
+While there is no doubt that making a decision can present considerable intellectual challenge to an individual, making a decision for the organization is also a social act.
+Gathering information, making choices, and communicating decisions are social acts.
+Organizational decision making, therefore, is not just a product of individual intellectual information processing, but also involves social information processing.
+Although the intellectual information-processing aspects of decision making can be successfully studied in the laboratory, the controlled laboratory setting works against studying the social information-processing aspects of decision making.
+While laboratory subjects can be confronted with intellectual tasks that are as real as any facing an organizational member, the social elements of the setting -the signs, symbols, and meanings -are artificial.
+The social information-processing character of organizational decision making, therefore, can best be studied in natural decision settings.
+Unfortunately, high density observations of decisions in natural settings can generally be obtained only under the most unusual circumstances.
+In the prototypic decision situation, decision makers confront a problem in need of some solution.
+They face an array of competing possible courses of action and their task is to select the alternative that will solve the problem and achieve their goals.
+The evidence discussed below suggests that during the Cuban missile crisis, decision making deviated from the prototype in three important respects.
+The standard description assumes that making a decision involves choosing one alternative from a set of competing courses of action.
+The evidence from the crisis suggests that instead of seeing competing alternatives, decision makers frequently face a series of yes-no choices over an array of noncompeting courses of action.
+Second, the standard description assumes that decision makers identify goals as a first step.
+The goals serve as the benchmark from which alternatives are sought and then evaluated.
+The evidence from the crisis, however, suggests that goals are discovered throughout the course of making a decision.
+Finally, the standard description assumes that the whole point of decision making is to solve a problem.
+The evidence from the crisis suggests that what decision makers are looking for is not a solution to a problem but a course of action that does not have a high probability of making matters worse.
+One of the best known cases of group decision making in modern United States foreign policy is the conduct of the Executive Committee of the National Security Council during the Cuban missile crisis of 1962.
+Position papers, notes, minutes, and memoranda generated during the crisis were deposited in the John F Kennedy Libraryand many have now been declassified.
+These rich and detailed by-products of the decision-making process provide an extraordinary opportunity for discovering in detail the nature of the task that confronted the decision makers.
+These records are essentiallytranscripts of the meetings written in the third person by the NSC staff.
+The records of the fifth through eighth meetings of the ExCom are currently open for research.
+The fifth and sixth meetings dealt with enforcing the blockade and maintaining pressure on the Soviet government.
+The public hard-line Soviet proposal involving a trade of missiles in Turkey for missiles in Cuba was received during the seventh meeting.
+The records of the second, third, fourth, and ninth meetings are currently classified and closed to research, and detailed records only begin after the first meeting.
+The deleted material largely concerns intelligence sources and methods and does not amount to more than 10 percent of the material.
+Although it is clear that the whole of the foreign policy decision-making process does not take place in groups wvhere careful and detailed minutes are kept, groups are ideal settings in which to study decision making as social information processing.
+Obviously, the groups involve social interaction, but, more importantly, they involve social interaction within the context of shared standards of legitimacy, provided in part by organizational goals like the national interest.
+Whatever the disagreements among policy makers, there is the shared presumption that they ought to come to agreement when national security and the national interest are at stake.
+As Halperin has argued, whatever the private motives that lead individuals to support a proposal, they must be able to justify that position to others with an argument grounded in terms of the national interest.
+Second, advisory and decision-making groups involve public information processing.
+If advocates want to gain supporters, defeat opponents, and build a consensus, they must do so with public arguments and justifications.
+As a result, much of the process is exposed to observation by the need to influence others.
+It is possible, therefore, to think of the records of group discussions as a naturally occurring form of the ""think-aloud protocol"" like those used by Newell and Simon to study human problem solving.
+METHOD An inductive strategy was adopted for determining how decision making during the missile crisis deviated from the standard description.
+The records of the discussion in the ExCom were used as a form of think-aloud protocol.
+Analyzing protocols involves categorizing the interactions in terms relevant to the decision-making task and using the resulting trace to identify the characteristics of the underlying process.
+In addition to the coded interactions, documents generated as a by-product of the decision-making process, as well as existing analyses of the crisis, are used to identify the deviations from the standard description of the decision-making task.
+The standard approach to coding is to develop a complex set of rules that specify the conditions under which a particular type of statement should be assigned a particular code.
+That approach requires investing considerable resources in training coders to understand the detailed nuances that govern the application of the rules.
+The approach adopted here was to develop a coding procedure that could be used by relatively untrained and inexperienced coders.
+The players ask a series of binaryyes-no questions about the object in an attempt to guess its identity.
+In coding the interactions, the coding scheme takes the role of the guesser and the coder answers binary yes-no questions about the piece of text to be coded.
+In principle, one-half of the possible coding categories can be eliminated by the answer to each question, and n questions are sufficient to assign a piece of text to one of 2n coding categories.
+What this means in practice is that the questions form a hierarchical, binary discrimination net that progressively narrows possibilities.
+The second principle was that the coder should be able to answer a question solely on the basis of the fragment of text, without knowledge of the coding scheme or of the categories.
+The practical application of this principle is that the questions must be narrowly focused, with clear yes-or-no answers.
+A fragment of the binary discrimination net for conditional sentences is displayed in the figure.
+The binary-discrimination-net coding scheme was used to design an interactive computer program to guide the coding of documents.
+The responses by the coder determined the path the program took through the binary net.
+The program continued asking questions, going deeper in the net, until it reached a terminal point in the network and assigned a coding category.
+The binary net contains a total of 43 questions, and the program needed to ask about five to seven questions to code a fragment of text.
+This coding procedure can be used with any size fragment of text; the convention adopted here was to treat the sentence as the unit of analysis.
+Maintaining the link between the original text and the code means that the context and content of the interactions are preserved, a particular advantage that allows for iterative analysis of the data in studying the details of interactions.
+The analytic coding procedure is a systematic way of annotating the raw description of the decision process.
+STRUCTURE OF ALTERNATIVES The conventional description assumes that decision makers face an array of competing alternative courses of action and that decision making involves choosing one course of action and rejecting the others.
+But that assumption probably owes more to the technical requirements of the theory of probability and decision theory than to the reality of decision making.
+Some sorts of choices involve selecting an alternative from a set of competing, mutually exclusive courses of action -to launch an airstrike or to impose a blockade.
+Other sorts of choices involve deciding whether to pursue a particular course of action -to trade or not to trade missiles in Turkey for missiles in Cuba.
+During the early days of the crisis, the overriding objective of the ExCom was to force the removal of the Soviet missiles from Cuba.
+This choice appears, however, to have been one of the few choices between competing alternatives decision makers confronted during the crisis.
+The imposition of a blockade did not resolve the problem facing the ExCom, for with the blockade in place they faced the further problem of translating that initial show of determination into the removal of the missiles from Cuba.
+The prevailing opinion in the ExCom was that if the missiles were to be removed, additional pressure would have to be applied to the Cuban and Soviet governments; the blockade would not be sufficient.
+A wide range of political and military measures were available to the United States government to increase the pressure for the removal of the missiles.
+On the political front there was action in the UN Security Council and the U.S.-sponsored resolution condemning the Soviet action, and, in the likely event the Soviet government vetoed the resolution, the UN General Assembly offered a forum.
+In addition to these courses of action there were two other measures the United States could have used to block Cuban imports and exports.
+The exact nature of these alternatives is unclear because the descriptions of the alternatives are classified and have been excised from the records of the ExCom open for research.
+The United States pursued a course of action that included political action in the UN Security Council and the OAS, the release of U-2 photographs of the missile sites, a selective blockade of Cuba, and surveillance flights.
+At no time, however, was that particular array of actions in competition with an alternative array of actions.
+The mix of means by which the United States applied pressure to the Soviet government was the product of a sequential choice process.
+What the ExCom faced was a series of choices of whether to pursue particularcourses of action; the U.S. response was the sum of these choices.
+Although there was conflict and disagreement over the issue, it did not occur in the context of choosing one alternative over another.
+The issue of strengthening the blockade by including POL was treated by itself as a yes-no choice and not, as the standard task description would predict, in the context of a group of competing courses of action.
+The tanker Graznyy is apparently moving but will not cross the line today.
+He suggested that shortly we should embargo fuel used by bombers and substances from which airplane fuel is made,e., petroleum products.
+The President suggested that if we decide to embargo bomber fuel, we should also mention the factwe were embargoing fuel which was contributing to the operational capability of the strategic missiles.
+Secretary Dillon stated his reservations concerning this course of action.
+Thus, a confrontation with the Russians would not be over the missiles, but over Soviet ships.
+He believed we should go for the missiles rather than force a confrontation with the USSR at sea.
+A decision on adding petroleum to the embargo list was delayed until the political path was decided upon.
+The records of the ExCom indicate that conflict and disagreement with respect to courses of action did not occur as a result of advocacy of competing alternatives but as a result of objections to pursuing a particular course of action.
+A surprisingly large number of alternatives were proposed during the meetings, and few of them were inconsistent with previous proposals.
+The coded summary records indicate that 13 alternatives were proposed in the fifth, 17 in the sixth, 18 in the 2 seventh, and 16 in the eighth meeting of the ExCom.
+However, becausethealternaproposals not to follow a particular course of action rather than tives were never considered together, but were examined sequentially in a yes-no well-articulated alternative courses of action.
+For example, the fashion, the large number of alternatives is 17 alternatives proposed during the sixth meeting of the not inconsistent with limited informationprocessing capacities.
+The alternatives inconsistent with previously proposed courses of 3 action are in italics.
+In every instance except two, the inconsistAxelrod's study of decision making in the United States Military Assistance Program, ent alternative represented a proposal to continue the status based on interviews with governmental quo or a simple objection to a proposed course of action.
+When he asked them to describe possible air reconnaissance activities, and Secretary Dillon's statement solutions to particular problems, he found that decision makers provided a list of that it would be better to go for the missiles than to force a courses of action that could be imconfrontation at sea.
+Decision records of the meetings of the ExCom, decision making during makers did not conceptualize the various means at their disposal in terms of mutually the crisis frequently involved yes-no choices over an array of exclusive courses of action. noncompeting alternative courses of action.
+Secretary McNamara suggested that shortly we should embargo fuel used by bombers and substances from which airplane fuel is made,e., petroleum products.
+The president suggested that if we decide to embargo bomber fuel, we should also mention the fact that we were embargoing fuel which was contributing to the operational capacity of the strategic missiles.
+Secretary Dillon believed we should go for the missiles rather than force a confrontation with the USSR at sea.
+Secretary McNamara asked that public announcement be made of our continuation of air surveillance.
+Secretary McNamara recommended that daylight reconnaissance measures be flown today and a night mission tonight, including the dropping of flares.
+Secretary McNamara thought that one way of avoiding reaction to night reconnaissance was to inform the Cubans and the Russians in advance that we were initiating such flights.
+Ambassador Stevenson opposed any public announcement of our surveillance activities.
+Acting USIA Director Wilson requested that better aerial pictures be made available to USIA for distribution.
+Mr McCloy stated that our quarantine was vital and should be kept in place until the Russians had accepted all of our conditions.
+Secretary Rusk felt that it was better for us not to participate in such actions as would be necessary if it were done by an organization,e., the OAS, to which we belong.
+The president asked whether we could commit ourselves not to invade Cuba.
+As to the message to Castro, the president agreed in general, but wanted to have another look at it.
+Ambassador Stevenson wanted to know whether he should seek a standstill on all Soviet arms or only offensive weapons.
+In addition, Ambassador Stevenson needed to know whether in return we would be prepared to suspend the quarantine.
+When decision making involves sequential choice, the resulting pattern of activity does not represent an alternative chosen over other competing courses of action.
+Although it is possible to represent sequential choice over an array of noncompeting alternatives in terms of mutually exclusive alternatives, that is merely a technical solution.
+For example, three sequential, binary choices can be represented in terms of a decision tree with eight mutually exclusive alternatives.
+This sort of reconstruction does not, however, reflect decision-making behavior during the missile crisis.
+There is no evidence that the variety of possible actions was ever examined simultaneously.
+The maze-like character of decision making suggests an alternate explanation for the frequent lack of coherence in governmental action.
+Sequential choice over an array of noncompeting alternatives suggests a third explanation.
+Governmental action may lack coherence because, even in tig htly controlled foreign policy crises, it is the product of sequential choice.
+DISCOVERY OF GOALS A second major deviation from the standard task description of decision making has to do with goals.
+If the standard task description is to be believed, identifying goals is the first step in making a decision.
+On the basis of the records of the ExCom's deliberations, a more accurate description is that goals are discovered in the course of making a decision.
+In orderto talk sensibly about discovering goals in the course of making a decision, it is necessary to distinguish global goals from discovered goals.
+Global goals stimulate the decision process by identifying a situation as a problem.
+But defining something as a problem does not directly identify a solution.
+In the missile crisis, the problem posed by the missiles in Cuba and the goal of getting them removed stimulated the process without providing a precise definition of an acceptable resolution of the crisis.
+The problem of the missiles could have been resolved in any number of ways, including an invasion, a blockade, or a missile trade.
+The initial or global goal was not sufficient to identify uniquely the ""best"" course of action, because what the ""best"" was had yet to be determined.
+Goal discovery is a social process in which the causal texture (Weick, 1 979b) links objectives, constraints, and imperatives with alternatives and their consequences through discussion and debate.
+The blockade demonstrated United States firmness and commitment to the removal of the missiles; avoided the Pearl Harboranalogythat plagued a possible airstrike; did not put extreme pressure on Khrushchev and gave him an opportunity to avoid attack; was a middle course between inaction and attack; placed the burden of the choice of the next step on Khrushchev; took advantage of United States Naval superiority in the area; and allowed the United States to exploit its advantage in worldwide naval forces.
+If these were the goals, then theirabsence in the first meeting is an anomaly in the context of the standard analysis of decision making.
+The argument in this section is that most of the goals on that list were discovered during the course of deliberations.
+An airstrike represented, according to Robert Kennedy, ""a surprise attack by a very large nation against a very small one.
+The Pearl-Harbor-in-reverse analogy introduced consistency with moral traditions as a goal and caused at least one airstrike advocate, Treasury Secretary Douglas Dillon, to shift his position.
+The Pearl Harbor analogy -i.e., consistency with United States moral traditions -appears on the list of goals and objectives used to explain the choice of a blockade and, like most of those items, was not part of the discussion during that first meeting.
+Robert Kennedy did not walk into the meeting and say that whatever the response, it had to be consistent with United States moral traditions.
+It was not a global goal, in that it did not stimulate the decision process.
+Robert Kennedy's concern with moral traditions was stimulated by his reaction to discussions of an airstrike.
+From the evidence available, Robert Kennedy's concern was essentially a reaction to proposals for an airstrike; it occurred during discussions of the alternative and took the form of an objection that introduced a constraint on an acceptable alternative.
+Without penetrating too deeply into Robert Kennedy's psyche, it is plausible to suppose he did not walk into the first meeting with a conscious conviction of the necessity of maintaining the public image of American traditions.
+It is, however, conceivable he believed in its importance but did not or had no reason to make an immediate association between appropriate action and United States traditions in the same way that he might have associated Soviet missiles in Cuba and the necessity of removing their threat.
+It took a proposal fora surprise attack on the missile sites to stimulate the association.
+What changed my mind was Bobby Kennedy's argument that we ought to be true to ourselves as Americans, that surprise attack was not in our tradition.
+There is no reason to suppose Kennedy's argument convinced Dillon of the importance of American traditions.
+The argument stimulated the association with Dillon's existing beliefs.
+Thus the goal of preserving the public perception of a United States tradition of fairness was a discovery in the sense that Kennedy's arguments caused Dillon to recognize an association with his existing beliefs.
+An airstrike would have immediately removed options and threatened a spiral of escalation without graduation or convenient exit.
+This advantage of a blockade, as put forth by Robert Kennedy, Douglas Dillon, and Robert McNamara, convinced McGeorge Bundy to join the advocates of a blockade.
+The discovery of goals during the course of making a decision can be interpreted in the larger context of the role of argumentation in decision making.
+Axelrod suggested that novel arguments play an important role in the argumentation and debate process of decision making.
+From the perspective of goal discovery, novel arguments have an impact on decision making because they stimulate new associations among existing belief structures.
+Accounts of United States decision making (Sorensen, 1965; Abel, 1966; Hilsman, 1967; Allison, 1971; Schlesinger, 1978; Detzer, 1979) provide evidence that the others were discovered in the course of the process,e., they were put forth as arguments for a blockade and against an airstrike.
+There is no evidence in the records now available, however, for the discovery of the final two items.
+If the evidence for their discovery is not in the records closed to research, Weick's ""retrospective sense making"" seems the most likely explanation for the discovery of the last two goals.
+While the blockade possessed the ""missing"" advantages, they were ""discovered"" after the choice had been made, in orderto demonstrate the inevitability of the blockade as the only reasonable course of action.
+In this view, they played no role in determining the final selection, because the opportunity to discover them never arose.
+Goal discovery did not stop with the decision to impose a naval blockade on Cuba.
+Throughout the meetings of the ExCom, goal statements were an important force in shaping the arguments and discussions.
+The interaction sequences in the ExCom reveal a relationship between goals and alternatives.
+A goal statement was followed by another goal statement 31 percent of the time and byan alternative 27 percent of the time.
+Thus, goals or alternatives preceded goals 52 percent of the time, and goals were followed by another goal or an alternative 58 percent of the time.
+Goals, therefore, tended to produce and be produced by alternatives and other goals.
+In addition to playing a role in evaluating specific alternatives, goals can become devices for advocates to direct the attention of the group to constraints, objectives, and imperatives that define acceptable situations.
+Thus, goals were not restricted to evaluating specific alternatives but were also used to direct the attention of the decision makers to criteria that should be used to define acceptable situations.
+From that point on, the focus of the task is on alternatives, predictions, and evaluations.
+The evidence from the missile crisis that goals are discovered in the course of making a decision suggests that decision making does not involve choosing alternatives so much as it involves discovering goals.
+Once agreement on goals has been reached, the alternative often follows as a matter of course.
+Although the analysis of the missile crisis is generally consistent with the view of goals put forth by March and Weick , two novel characteristics are worth noting.
+First, March and Weick both argue that choices can precede goals and that retrospective views of choices can be a way to discover goals.
+While it is certainly true that goals can emerge from previous choices, during the missile crisis the goals discovered in the course of making the decision had the most impact.
+Thus it was not retrospective discovery, but the near simultaneous discovery of goals and choices.
+The second characteristic that emerges is the emphasis of the role of argumentation and debate in the goal discovery process, which provides a more explicit description of the process of goal discovery.
+Goals are discovered through a social process involving argumentation and debate in a setting where justification and legitimacy play important roles.
+Not just any sort of goal will be discovered; it will be one that is consistent with shared organizational goals.
+EVALUATION OF ALTERNATIVES The third important difference from the standard task description concerns the evaluation of alternatives.
+Implicit in the task description is the assumption that the whole purpose of making a decision is to choose an alternative that will solve a problem.
+What is striking is that decision makers frequently choose alternatives that they do not expect will solve the problem.
+Moreover, decision makers behave this way in the face of important problems.
+They had, Gelb argued, reasonably accurate and generally pessimistic views of the likelihood of success.
+The President said we will get the Soviet strategic missiles out of Cuba only by invading Cuba or by trading.
+Decision makers do not, of course, choose an alternative because it is likely to fail; it is simply that the ""best"" or ""satisfactory"" alternative often has a low probability of success.
+But even if alternatives with a high probability of success are rare, there is something paradoxical about a ""good,"" ""optimal,"" or ""satisfactory"" alternative with a low probability of success.
+The paradox is magnified by the fact that decision makers appearto hold thatan alternative can be both unattractive,e., have a low probability of success, and satisfactory.
+It would be less of a paradox if they modified their beliefs in ways that equated satisfactoriness with attractiveness,e., inflated their subjective estimates of the probability of success.
+Decision makers often choose an unattractive alternative as a satisfactory solution to a problem.
+These two probabilities are independent in the sense that both can be low, one can be high and the other low, or both can be high.
+Agood alternative has high probability of producing a positively valued state of affairs and a low probability of producing a negatively valued state of affairs.
+A bland alternative has low probabilities of producing either positively or negatively valued states of affairs.
+Amixed alternative has high probabilities of producing positively or negatively valued states of affairs.
+A poor alternative has a low probability of producing a positively valued state of affairs and a high probability of producing a negatively valued state of affairs.
+Binary evaluations generally recognize only the first and fourth classes of alternatives; an alternative is either good or poor.
+Separating positive and negative outcomes recognizes two additional types.
+Only a perverse decision process would fail to select a readily available good alternative.
+This proposition implies that bland alternatives, those with low probabilities of either success or failure, will be acceptable when no good alternative is readily available.
+The preference orderoverthe four types of alternatives and the tendency to suspend search in the face of a bland alternative can be explained by assuming that, in the absence of a good alternative, decision makers attend to the probability of a negative outcome in evaluating alternatives.
+An alternative with an unacceptably high probability of producing a negatively valued outcome will always be less preferred than an alternative that does not.
+In this view, the probability that an alternative will produce a positively valued outcome is a secondary consideration.
+This view of evaluation suggests that decision makers are looking for alternatives that do not have high probabilities of making the current situation worse.
+Thus, evaluations are not absolute, because ""good"" and ""bad"" are not fixed, but are anchored to the situation facing decision makers.
+Thus, although evaluation is based on the conservative strategy of avoiding alternatives with high probabilities of undesirable outcomes, if the status quo is sufficiently intolerable, extreme alternatives may present low probabilities of making an intolerable situation worse.
+The blockade during the Cuban missile crisis is a clear example of a bland alternative.
+Inaction, diplomacy, and an airstrike had high probabilities of producing undesirable states of affairs.
+The standard task description assumes that the purpose of decision making is to solve a problem, but decision makers appear to operate with a very different perspective.
+Whether the action will solve the problem that motivated the process is less important than whether it has a high probability of making matters worse.
+THE MODEL OF DECISION MAKING BY OBJECTION Although the Cuban missile crisis shared some characteristics of Cohen, March, and Olsen's garbage can model, that model is not wholly appropriate for understanding the group decision-making process during the missile crisis.
+The missile crisis was in danger of becoming an organizational garbage can, but President Kennedy and his top advisers controlled the issues that they allowed to be attached to the crisis.
+The crisis also shared characteristics of Weick's enactment-selection-retention model.
+Nevertheless, decision making during the crisis was far more directed and intentional than Weick's metaphor of organizational action would lead us to expect.
+The findings of this study do not, however, suggest a wholesale denial of the standard concepts of decision making.
+Goals were still identified, there was search for alternatives, and consequences were evaluated.
+However, the way goals were identified, alternatives sought, and consequences evaluated was very different from what standard descriptions would predict.
+A problem is defined and a global goal is identified, which produces a rough description of an acceptable resolution of the problem.
+The alternative will be accompanied by an argument describing the positive outcomes associated with undertaking the action.
+If there is general agreement on the desirability of following the course of action, it will be ratified.
+If there is no support and no formal opposition, the alternative will die for what amounts to the lack of a second -the fate of the majority of alternatives proposed during the missile crisis.
+The third and most interesting case is when there is an objection to the alternative.
+Objections are framed in terms of the negative or undesirable consequences of the alternative, and the effect is to propose constraints, beyond the global goal, that further define an acceptable resolution of the problem.
+If there is disagreement over the newly introduced constraint, a secondary discussion on the merits of the new goal may ensue.
+Only if there is an imperative to act will a competing course of action be proposed.
+In the absence of an imperative to act, the original alternative is generally discarded and a different independent course of action is proposed.
+This description of the task of decision making is far less linear than standard descriptions propose.
+The iterative and selfdefining character of the task is emphasized, rather than the stages of the task.
+Alternatives stimulate arguments that lead to the discovery of the goals, which then influence the choice of alternatives.
+Consider, for example, the differences between a standard and a decision-making-by-objection reconstruction of the choice between a blockade and an airstrike.
+The goal was to remove the threat to the United States posed by the strategic weapons in Cuba.
+The initial search produced two alternatives, an airstrike against the missiles and a policy of inaction.
+Neither alternative was wholly acceptable, and further search produced the blockade option.
+The two groups argued, debated, and challenged each other's assumptions and predictions.
+The consequences of following each course of action were presented to President Kennedy and he made his choice.
+The initial goal was to deal with the threat posed by the missiles in Cuba.
+The attention of the ExCom quickly focused on an airstrike against the missile sites.
+Even though the military insisted during the very first meeting that the airstrike could not be limited , surgical versus large-scale airstrikes were not clearly delineated until much later.
+As part of an objection to the airstrike proposal, Secretary of Defense McNamara made his missile-is-a-missile argument.
+After a secondary discussion, which resulted in a rejection of McNamara's do-nothing proposal and the definition of the removal of the missiles as the only acceptable resolution of the problem, advocacy of an airstrike resumed.
+Bobby Kennedy objected to the airstrike proposal with his Pearl-Harbor-in-reverse argument, and in doing so proposed the additional constraint of consistency with tradition as part of the definition of an acceptable resolution of the crisis.
+More or less at the same time, McNamara objected to the surgical airstrike by arguing that it could not be limited and would entail a full-scale attack on Cuba, with the risk of a spasm military response by Khrushchev.
+McNamara's objection implicitly imposed the constraint of not placing Khrushchev in a position where a quick military response was likely.
+The Kennedy-McNamara objections provided a basis for renewing the blockade alternative, which had been proposed during the first meeting after the discovery of the missiles.
+However, because the constraints on an acceptable resolution of the problem were inconsistent with born alternatives the airstrike violated the constraint of maintaining traditions and avoidi ng a hig h probability of an initial military response by the Russians and the blockade violated the constraint of removing the missiles -the ExCom was unable to recommend either of the two alternatives to the president, who had to choose between them.
+Although there are no stark differences between the two reconstructions, the decision-making-by-objection narrative is better able to account for three characteristics of the decision-making process.
+First, the documentary evidence of the initial meetings of the ExCom suggests that the decision makers confronted an ambiguous, ever-changing set of options.
+On October 17 (the day after the discovery of the 4 missiles), Sorensen prepared a memo for President Kennedy This account is largely constructive and summarizing the ExCom's deliberations and listing fouralternainterpretive.
+Embedded in these alternatives was the further issue of the nature of the warning and political pressure.
+It was not until much later that the list of alternatives stabilized, and in the end, only two alternatives were presented to President Kennedy.
+The sequential style and goal-discovery aspects of the process of decision making by objection would tend to produce the sort of ambiguity found in the deliberations of the ExCom.
+Second, the decision-making-by-objection model captures the ambiguity and change in preferred courses of action.
+As new goals are discovered, preferences change, and as alternatives are proposed, individuals change the arguments they make.
+Sorensen's assessment of McNamara's preferences probably reflects McNamara's argument against a surgical airstrike rather than his preference for a full airstrike.
+The model of decision making by objection recognizes the ambiguity in advocacy that follows from the sequential choice style of decision making.
+Without a clear set of competing courses of action to provide a reference, relating preferences to arguments can be problematic.
+Finally, the decision-making-by-objection model, with its emphasis on sequential choice and goal discovery, accounts for Dean Acheson's assessment of the ExCom's meetings as repetitive, leaderless, and a waste of time.
+Acheson's assessment appears to be ""sour grapes"" because his advice was not followed.
+But Acheson's preferred operating style as secretary of state was to work out a solution to a problem, in consultation with the president, beforehand and to allow decision-making groups to comment on, not change, the course of action he advocated.
+The ExCom was not directed, but moved from topic to topic, from binary choice to binary choice without a firm hand to guide it and without the structure implied by the standard task description.
+Thus it was repetitive and leaderless, though probably not a waste of time.
+Although one case does not establish that decision making by objection is the dominant mode of decision making in foreign affairs, the model does display several attributes that make it an interesting explanation of group decision making.
+The process of decision making by objection, with its emphasis on sequential evaluation of alternatives, produces binary choices as a default.
+It does not, however, exclude competing alternatives; competing alternatives will appear when there are objections to the initial course of action, and there is a shared recognition that some action is required.
+Decision making by objection is group decision making via argumentation and debate, and goal discovery will occur as a consequence of the interaction of advocates of opposing views.
+The model of decision making by objection also ties into a broader theoretical perspective.
+First, the decision-making-byobjection model is a behavioral description.
+Most alternatives to standard descriptions of decision making focus on what the actions of decision makers mean, not explicitly on what decision makers do.
+Second, this study of decision making by objection is strongly empirical in that it draws on detailed primary-source information about decision making in a real setting.
+As a result, analyses that rely on secondary-source reconstructions of the decision-making process may be biased in favor of the standard task descriptions.
+Although any analysis will be biased toward its prior organizing principles, this study of decision making does have an advantage in being drawn from primary-source material.
+Third, the model of decision making by objection preserves the social information-processing character of decision making in an organization.
+The standard approach, as March has noted, has been to use the same task description for decision making whether speaking of individuals, groups, or organizations.
+But decision making in an organization is not simply a biggerversion of the intellectual task facing a solitary decision maker; making a decision in the name of the organization is a social act.
+According to the model of decision making by objection, making decisions is a process involving argumentation and debate in an explicitly social setting, a process constrained by the need to justify actions in terms of shared symbols, goals, and objectives.
+The striking characteristics of the decision-making-byobjection process observed during the missile crisis represent neither blind variation nor random noise but sensible adaptations to the demands of the task environment of decision making.
+In the face of a complex policy issue, decision makers will be presented with a diverse menu of alternatives reflecting the diverse capabilities of the organization.
+To do anything but make a series of binary choices would overwhelm the limited information-processing capacity of the decision makers.
+Discovering goals in the course of making a decision avoids the need to specify all goals at the outset and to resolve all goal conflict.
+Objections to pursuing proposed courses of action help define the characteristics of an acceptable resolution of the problem, introduce new goals into the process, and provide a mechanism for limited coordination and control.
+Avoiding alternatives with high probabilities of failure is an inexpensive screening procedure that exploits what little certainty exists, without requiring trade-offs between successes and failures.
+In understanding the ways that decision-making behavior reflects the task environment, we are in a better position to understand decision making in complex policy settings and to suggest improvements to the process of policymaking.
+Newell, Allen, and Herbert Simon Cohen, Michael D., and James G Hilsman, Roger 1972 Human Problem Solving.
+Braunstein 1962a ""TCS notes at 11:45m.74 The Cybernetic Theory of Deci1971 ""Preferences among gambles meeting on Cuban missile dission.
+Theodore Sorensen, John F Tversky, Amos, and Daniel Kahne1976 Administrative Behavior.

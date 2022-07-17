@@ -1,0 +1,98 @@
+---
+title: 'Plot Intercoder Agreement'
+site: bookdown::bookdown_site
+bibliography: ../ICBintro.bib
+output: 
+  rticles::arxiv_article:
+    keep_tex: true
+header-includes:
+  - \usepackage[utf8]{inputenc}
+  - \usepackage{pifont}
+  - \usepackage{newunicodechar}
+  - \newunicodechar{✓}{\ding{51}}
+  - \newunicodechar{✗}{\ding{55}}
+  - \usepackage{array}
+  - \usepackage{ctable} # added for demo
+  - \usepackage{natbib} #added for latex citation within huxtable
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{multirow}
+  - \usepackage{wrapfig}
+  - \usepackage{colortbl}
+  - \usepackage{pdflscape}
+  - \usepackage{tabu}
+  - \usepackage{threeparttable}
+  - \usepackage{threeparttablex}
+  - \usepackage[normalem]{ulem}
+  - \usepackage{makecell}
+  - \usepackage{titlesec}
+  - \usepackage[parfill]{parskip}
+  - \usepackage{makecell}
+  - \usepackage{graphicx}
+  - \usepackage{caption}
+  - \usepackage[capposition=top]{floatrow}
+  - \titleformat{\subsubsection}{\normalfont\normalsize\itshape}{\thesubsubsection}{1em}{}
+  - \titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{0ex plus .2ex}
+  - \DeclareUnicodeCharacter{00A0}{ }
+  - \usepackage{setspace}
+  - \usepackage{cellspace}
+  - \setlength\cellspacetoplimit{0.8ex}
+  - \renewcommand{\arraystretch}{0.8}
+  - \AtBeginEnvironment{tabular}{\singlespacing}
+  - \AtBeginEnvironment{lltable}{\singlespacing}
+---
+
+
+# Intro
+
+## Library Loads
+
+
+```{r}
+library(flextable)
+library(tidyverse)
+```
+
+```{r}
+
+
+
+```
+
+
+
+
+
+
+```{r}
+
+
+```
+
+
+```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
+
+
+#table(expert_majority=codings_long$expert_majority,
+#      undergrad_majority=codings_long$undergrad_majority)
+
+#58% of tokens including null have agreement from either experts, undergrads, or both
+#(table(expert_majority=codings_long$expert_majority,
+#      undergrad_majority=codings_long$undergrad_majority) / nrow(codings_long) ) %>% round(2)
+
+
+#table(codings_long$value_normalized != "")
+# FALSE   TRUE 
+#480,239 408,126 #about the same number of null tokens as non null ones
+```
+
+
+```{r}
+
+
+
+```
+
+
+

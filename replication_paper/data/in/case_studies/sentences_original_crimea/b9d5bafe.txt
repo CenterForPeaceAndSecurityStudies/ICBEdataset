@@ -1,0 +1,720 @@
+THE CASE OF UKRAINE by Viacheslav Popov March 2019 Thesis Advisor: Uwe Hartmann Co-Advisor: Donald Abenheim Approved for public release.
+States use both conventional and unconventional methods of warfare simultaneously.
+The most effective elements of Ukraine’s response are analyzed in detail, including military, economic, humanitarian, political, informational, cyber, diplomatic, and special/law enforcement services activities and methods.
+Policy recommendations are made for Ukraine, the North Atlantic Treaty Organization , the European Union , and global security in countering Russian hybrid warfare; Ukraine should continue to increase its defense potential and raise the quality of life for its citizens; develop the Ukrainian economy and national identity; and continue pursuing lawsuits against Russia in international courts.
+Additionally, NATO and the EU should extend and expand sanctions against Russia, increase resilience, and intensify cooperation in the information, energy, and cybersecurity areas.
+Beyond providing guidance for Ukraine, the determinations can also assist other nation-states facing similar challenges in countering adversaries’ “help” while maintaining sovereignty.
+INTRODUCTION..................................................................................................1 A MAJOR RESEARCH QUESTION..........................................................1 B SIGNIFICANCE OF THE RESEARCH QUESTION...........................2 C LITERATURE REVIEW .........................................................................4 1.
+Civil-Military Relations .................................................................4 2.
+WHY UKRAINE IS SO IMPORTANT TO RUSSIA, THE RUSSIAN APPROACH TO HYBRID WARFARE IN UKRAINE.................................................................19 A HISTORICAL BACKGROUND: WHY UKRAINE IS SO IMPORTANT TO RUSSIA ....................................................................20 1.
+Relations with the Russian Empire, 1700–1917 ........................20 2.
+Relations during Soviet Times, 1917–1991 ................................21 3.
+Trade Wars ...................................................................................23 B RUSSIAN USE OF HYBRID WARFARE IN UKRAINE...................29 1.
+Ways, Means, and Consequences................................................................................29 2.
+CIVIL-MILITARY RELATIONS IN UKRAINE ............................................47 A CIVIL-MILITARY RELATIONS IN UKRAINE FROM 1991 TO 2013 .....................................................................................................47 B CIVIL-MILITARY RELATIONS IN UKRAINE AFTER 2014 ........54 1.
+Volunteer Movement ...................................................................54 2.
+CIVIL-MILITARY COOPERATION IN COUNTERING HYBRID WARFARE IN UKRAINE..................................................................................65 A CREATION OF THE SYSTEM OF CIVIL-MILITARY COOPERATION IN THE ARMED FORCES OF UKRAINE .................................................................................................65 B ROLE OF CIMIC TEAMS IN UKRAINE ...........................................67 1.
+Activities of Ukrainian CIMIC ...................................................69 2.
+THE CASE OF UKRAINE .........................................81 A HOW UKRAINE COUNTERACTS RUSSIAN HYBRID WARFARE ...............................................................................................82 1.
+Military Developments ................................................................83 2.
+Economic Developments ..............................................................85 3.
+Humanitarian Developments ......................................................88 4.
+Political Developments.................................................................90 5.
+Information Developments..........................................................92 6.
+Cyberspace Developments...........................................................95 7.
+Diplomatic Developments ............................................................96 8.
+CURRENT APPROACHES TO RUSSIAN IRREGULAR AGGRESSION ...........................................105 C POLICY RECOMMENDATIONS ......................................................107 1.
+NATO ..........................................................................................109 3.
+I would like to thank all the professors and staff of the Department of National Security Affairs, the International Graduate Programs Office, and particularly, Professor Donald Abenheim and Professor Uwe Hartmann, for their direction, comments, and support.
+In addition, I would like to thank my wife, Marina, and my son, Illia, for their care and patience.
+MAJOR RESEARCH QUESTION On February 27, 2014, the Russian Federation started the armed annexation of a part of the Ukrainethe Crimean Peninsula.
+This event launched the combat phase of Russian hybrid aggression against Ukraine.
+By using propaganda, subterfuge, covert operations, and strategic blackmail measures in the beginning, Moscow established a strategic stranglehold via political, diplomatic, economic, and other types of pressure towards Ukraine.
+When these measures were insufficient to the end of policy, Russia started direct regular and irregular combat against Ukraine by supporting paramilitaries, locals, mercenaries, and intermixing Russian regular military troops and separate military instructors among the separatist forces.
+Such tactics came, in fact, from an old Soviet and Russian strategic “box of tools,” which, all the same, shocked a strategic community overly fixated on jihadist violence and counterinsurgency operations in the Middle East.
+In the year 2019, Ukraine comprises a proxy battlefield on an epic scale in which a semi-frozen conflict/open battle unfolds between Russia and a coalition of Western countries led by the United States.
+Here operates a battle between two geopolitical and ideological systemsone democratic and the other, authoritarian.
+Russia, even under the influence of sanctions, continues to try to separate the coalition of Western countries by the use of so-called hybrid methods.
+One hardly need comment on the manner that Russian subterfuge via digital means and links to American political figures in various modalities have spread this conflict from the Donbas and waters of the Sea of Azov to the heart of the United States political system.
+The speed with which the Syrian operation followed the Crimean coup de main included bloody witness to the Russian offensive and the more or less lame response of the Western security structure to this diplomatic and strategic revolution.
+Vladimir Putin will surely not stop only in Ukraine in his bid to revive Russian world power at the expense of the order led by Washington and Berlin.
+His concept of the “Russian world” is a threat to all democratic countries where the Russian-speaking population livesfor instance, in the Baltic Republics in NATObut not solely those.
+This thesis examines the question of how to retain robust democratic civil-military relations in a time of hybrid warfare.
+This research focuses on the opportunities for the government and armed forces of Ukraine to effectively resist Russian hybrid warfare and enable Ukraine to survive as an independent nation state amid a gathering prospect of world war and generalized ideological conflict that threatens to end the promise of the 1990s forever.
+Additionally, this thesis will help other nation states being eyed by Moscow and targeted by its doctrine of aggression to prevent and avoid Russian “help” and keep their sovereignty as well.
+SIGNIFICANCE OF THE RESEARCH QUESTION Since the collapse of the Soviet Union in 1991, Ukraine has gained independence.
+As an independent state, Ukraine has proclaimed a pro-European course of development.
+But neighboring Russia imposed and continues to leave its imprint on Ukraine’s actions in the international arena.
+Russia has always regarded Ukraine within the sphere of its closest interests, and throughout the period of Ukraine’s independence has influenced the political life of Ukraine.
+Russia, as the direct heiress of the United Soviet Socialist Republics , did not accept the loss of superpower status and with the coming to power of Putin as president has actively sought to restore this status.
+Thanks to high prices for oil and gas (the main Russian export products), Russia has been able to restore the economy and to regain some of its status as a great power.
+Russia became a member of the G-8 and G-20, but after the annexation of the Crimea was excluded from these organizations and economic sanctions were imposed against it.
+The Ukraine crisis is one the most serious crises in Europe since the end of the Cold War.
+The system of interstate relations created after World War II was changed by force.
+Ukraine has suddenly become an important research subject for United States and European scholars.
+Scholars have debated whether it was active Western involvement or, on the contrary, a weak Western foreign policy that prompted Russian aggression against Ukraine.
+Using lies, denial, propaganda, cyberattacks, and interference in the internal affairs of other countries, Russia is trying to split the West and force it to sit down at the negotiating table with Moscow.
+The Liberal Delusion That Provoked Putin,” Foreign Affairs, September/October 2014.
+Robust civil-military relations during hybrid warfare is becoming one of the key factors for confronting the aggressor.
+The unity of the civilian and military, as Ukraine’s example has shown, can stop a stronger adversary; for instance, contrary to the Kremlin’s plans, Kyiv did not surrender, but after retreating from the shock, continued its struggle for independence and restoration of territorial integrity.
+Traditionally, these topics have been considered separately; so, I will also consider these topics separately.
+Huntington, Samuel Finer, Gordon A Craig, Claude E Welch and Carl von Clausewitz are analyzed, and the works of Frank Hoffmann and Valerii Gerasimov are examined on the topic of hybrid warfare.
+In the United States’ case, particularly in the wake of the Truman-MacArthur incident in 1951, Huntington gained recognition as the “founder” of the modern theory of civil-military relations.
+He adapted the European concept of civil-military relations and outlined his own theory, however flawed, that has become a staple of this field of inquiry.
+According to Huntington, such relationships are based on the professionalism of the officer corps as contrasted to civil society and officer’s attitude toward the country’s policy.
+According to Huntington, in a time of objective civilian control, the officer corps remains out of politics,e., “be politically sterile,” and politicians should be excluded from military issues.
+He clarifies that “politics is beyond the scope of military competence, and the participation of military officers in politics undermines their professionalism, curtailing their professional competence.
+The actions of the military can exercise a significant influence not only on state policy, but also on the country as a whole, when one considers this issue in both Germany and the United States.
+It is especially notable in the case of the United States, which, after it became a world power in 1898, supported coups abroad to bring to power leaders the United States government believed would do more than their predecessors for the good of a state.
+Another scholar of civil-military relations, Samuel E Finer, also does not deny the role of the professionalism of the officer corps.
+Even in the 21st century, however, the contemporary interpretation of one aspect of Clausewitz’s theory about the nature of war pertains to a civil-military codicil, which says less about the Napoleonic era and more about the Cold War and especially the praetorian tendencies of the post-Cold War era, and post-9/11 epoch of conflict.
+The “Trinity of War”the People, the Military, and the Governmentis indicated as well as in the past the set of features governing the running of war and relations between those factors.
+As a total phenomenon its dominant tendencies always make war a remarkable trinitycomposed of primordial violence, hatred, and enmity ... of the play of chance and probability … and of its element of subordination, as an instrument of policy, which makes it subject to reason alone.
+These three tendencies are like three different codes of law, deep-rooted in their subject and yet variable in their relationship to one another.
+A theory that ignores any one of them or seeks to fix an arbitrary relationship between them would conflict with reality to such an extent that for this reason alone it would be totally useless.
+Their influence on the adoption of political decisions should be minimized, and their professionalism must be used to achieve political goals.
+All authors agree with the assertion that the military is one of the most important layers of society without which the existence of the state would be impossible.
+The military not only protects the state from the external enemy, but also it is one of the most important factors supporting the functionality of the state and the existing political system.
+The relations between the civilian and the military spheres should ideally be in harmony; that is, the military defends the country, does not interfere in politics and governance of the country while civilians shape the state’s policy, govern the state, and regulate the military sphere through legislative and financial mechanisms, its development, and thus control the military.
+Hybrid Warfare Clausewitz’s statement that war is “a continuation of political intercourse, carried on with other means” 21 remains enduringly the case.
+One such form is hybrid warfarewhich in this work is seen from a combination of Eastern European and professional United States military perspectives.
+The goal, however, is to make this term move toward a truth that is useful on the theoretical and practical planes relative to civil-military relations.
+There are numerous definitions of hybrid warfare in the contemporary literature.
+The term is made current by the revival of irregular warfare and toxic ideological conflict, where the soldiers of counterinsurgency have seized the high ground of writing and forming of doctrine.
+Irregular warfare favors indirect and 26 Stephen Blank, “Russia, Hybrid War and the Evolution of Europe.
+He points out the complexity of modern warfare when an adversary employs combinations of capabilities to gain an asymmetric advantage.
+The trends of armed conflicts in the future were identified by General Valerii Gerasimov, Chief of the General Staff of the Armed Forces of the Russian Federation, in the journal “Voenno-promishlenniy Kurier” in 2013.
+These actions are augmented by military measures of a hidden nature, including the implementation of information confrontation activities and the activities of special forces.
+Gerasimov in his work also emphasizes the increased role of asymmetric actions, which can reduce the superiority of the enemy even before the beginning of active hostilities.
+He predicts extensive use of special forces and the creation of internal opposition in the territory of an opposing state in order to apply constant pressure on the enemy.
+He also states that the role of information impact will increase; the information confrontation opens wide asymmetric opportunities to reduce the enemy’s combat potential, and the forms and methods of information impact should be modernized and improved.
+All these forms and methods were used during the annexation of Crimea in 2014; however, preparation for this operation began long before 2014.
+Military experts now consider the annexation of Crimea as a vivid example of hybrid warfare, when in full accordance with the “Gerasimov doctrine” the proportion of non-military and military measures was 4:1; that is, four times more non-military measures were employed than military actions.
+Namely, non-military measures such as political and diplomatic pressure, the creation of political opposition, the activities of opposition forces, and the massive 40 Gerasimov. 13 conduct of information campaigns led under a single plan and under a single leadership allowed Putin to annex Crimea.
+POTENTIAL EXPLANATIONS AND HYPOTHESES The question of civil-military relations is particularly pertinent during instability, insecurity, and war.
+Moreover, the role of civil-military relations in this CHS is crucial, because Russia prefers acting not in the conventional military domain, but primarily focusing on non-military measures.
+In addition to supporting and supplying the illegal armed groups, Russia has changed the 41 Clausewitz, 89.
+From the Cold War to Putin , 371. 14 main vector of its actions; now Russia’s nefarious purpose is establishing internal conflict within Ukraine, conducting the information operations and propaganda campaigns, and destabilizing the country by perpetrating killings and acts of sabotage.
+Demonstrative killings of Russian and non-Russian citizens in Ukraine, Great Britain, and other countries should first of all show the Russians themselves that the “traitors” of the current regime will pay for their actions, no matter where they hide from Russian special services.
+Instead of this, the ideology maintains, the people of Ukraine should struggle against Ukrainian oligarchs and people who have dragged Ukraine into a war with Russia.
+This is the classical technique of Russiathe substitution of concepts, when one stands out for another, and a lie is presented as a truth that does not lend itself to doubt and criticism.
+In these circumstances robust civil-military relations is a key to success in a time of fight against Ukraine’s hybrid neighbor.
+My main hypothesis is that in this situation Ukraine’s top priority must be robust civil-military relations that unite the country in order to avoid annihilation of independence and, in fact, the Ukrainian state as well.
+Thus, the military should be involved in political matters because the absolute separation of military from political functions as a way to help solve the problems of civil-military relations is ruled out as impossible to achieve.
+The key question here is how to retain a civilian democratic control in a time of hybrid warfare and keep the balance between democratic freedoms and military necessity.
+Correspondingly, the military should show the results of its expenditures to society.
+Besides, the Ukrainian military has to inform the population about the real current situation to mitigate the influence of Russian propaganda and aspire to dominate in the information sphere.
+Another key point in a time of hybrid warfare is the explanation of the ways, ends, and means of the rival; it is essential to talk to the people and unite them against the adversary, and all these tasks must be made by CIMIC Teams on the strategic, operational, and tactical levels.
+This must be carried out while enhancing civil preparedness and societal resilience.
+France in 1939–1940 had neither first, nor second and third; they did not prepare for a fight and they did not want to fight, and as a result France fell.
+Finally, in a time of hybrid warfare the best advice is to keep calm, retain a clear mind, use critical thinking to reject Russian propaganda, and be ready to fight on all fronts.
+RESEARCH DESIGN In order to prove the hypothesis mentioned earlier in this chapter, this thesis considers comparative case studies of Crimea and Donbas in Ukraine.
+Using my own military experience, as well as local and international eyewitness accounts, I try to prove 16 the point that robust civil-military relations is one of the crucial factors for counteraction in a time of hybrid warfare.
+Further, the work relies on an examination of appropriate literature, open-source documents, as well as media materials in English, Russian, and Ukrainian.
+Necessary materials may be taken from the policy documents and institutional reports as well as academic papers, reinforced by evidence in a variety of NATO, EU, and United States legal documents.
+Ukraine has shown to the entire world that a country with less military potential may not only stop a formidable aggressor, but also zealously fight and not give up.
+The unity of Ukrainian society and the unpredictable resistance of most Ukrainians in Donbas came as a surprise to Russia.
+In the Kremlin it was thought that Donbas would be easy prey, but when the Ukrainian military got a clear order from the civilian Supreme Commander , they started to push back the separatists.
+In this case, Russia had no other choice but to begin a direct military invasion into Donbas.
+It stopped the Russian horde and prevented the collapse of the country.
+And the military parade that took place on the main street of Ukraine on August 24, 2018, is an element of this hybrid war as well.
+For four and a half years the army of Ukraine has 44 Heidi Reisinger and Alexander Golts, “NATO’s Response to Hybrid Threats.
+Nevertheless, the fight is continuing; the overwhelming majority of the population of Ukraine is ready to fight against Russia on all frontsmilitary, political, diplomatic, economic, and others.
+The first chapter has introduced the historical background of Russian-Ukrainian relations and explained why Ukraine is so important for the Russian Federation.
+Additionally, the first chapter has also described the Russian use of hybrid warfare in Ukraine and provided case studies of Crimea and Donbas.
+Chapter II focuses on civil-military relations in Ukraine during Ukraine’s independence from 1991 to 2013 and after the Revolution of Dignity to the current time.
+Chapter IV clarifies what Ukraine has already done to counter Russian hybrid aggression.
+Finally, Chapter V ties the thesis together, draws overall conclusions, and provides policy recommendations for Ukraine, NATO, and the EU in the light of counteracting Russian hybrid warfare and implications for European and global security.
+Ukraine, which at that time possessed the world’s third-largest nuclear potential, agreed to become a nuclear-free state.
+Precisely 20 years later, at what it considers a convenient moment, however, Russia has broken this memorandum.
+The leadership of the Kremlin believes that Ukraine remains a significant part of the “Russian world” and is in the sphere of Russia’s most important geopolitical interests.
+Ukraine’s desire to be part of the EU absolutely does not match the interests of Russia.
+Moscow has always been firmly convinced that if it does not control Ukraine, Russia will never become a world-leading state and that a democratic and prosperous Ukraine will threaten the authoritarian power in Russia.
+In order to understand why robust civil-military relations is such an important issue in a time of hybrid warfare in Ukraine, it is critical to understand the historical background of Russo–Ukrainian relations—the source of the present situation between the two countries, which in turn has spurred Ukraine’s development of CIVIL-MILITARY relations.
+Understanding this history will give insight into the motivations of one of the world’s leading hybrid threats, and is essential to countering it.
+Moreover, while Ukraine has protected the southwestern borders of Russia from diverse rivals, an independent Ukraine would have threatened Russia, as it could conduct an independent policy and become a potential ally in the struggle of other countries against Russia.
+This chapter therefore explores why Ukraine is so important for the Russian Federation and why the world’s largest country over the centuries has aimed to destroy Ukrainian statehood.
+This chapter contends that Ukraine is a regional gateway, a transnational intersection, and a hub of natural and human resources, all of which makes it valuable to Russia and to Russia’s intent to expand its empire.
+This chapter examines how the Russian Federation annexed and, in fact, captured part of Ukrainian territorythe Crimean Peninsula—and started hybrid warfare in the eastern regions of Ukraine-Donbas.
+Finally, this chapter explains the situation in Ukraine and the future prospects of Russian-Ukrainian relations.
+WHY UKRAINE IS SO IMPORTANT TO RUSSIA This section explores historical review of Ukraine-Russia relationship from 18th century to nowadays.
+Relations with the Russian Empire, 1700–1917 At the end of the 17th century, Ukrainian lands were a regional gateway that linked the Russian and Austro-Hungarian empires.
+Eighty percent of the territory of Ukraine was subject to the Russian emperors; the rest inhabited the Hapsburg Empire.
+The majority of the population of Ukraine at that time consisted of peasants, which allowed Ukrainian landlords who served the Russian Empire a means of control.
+Destruction of Ukrainian statehood in the 17th century by Russian tsarism was accompanied by russification of the indigenous population.
+This colonial policy toward the Ukrainian people was carried out 20 both ideologically and administratively.
+Tsarist administrators displaced the Ukrainian language from imperial and educational institutions on all levels.
+At the end of the 19th century, Russia started actively exploiting rich natural resources of Ukraine.
+In Ukraine heavy industry such as coal, iron, steel, metallurgy, and machine-building began to develop rapidly.
+The main coal base in Ukraine was the Donetsk Basin, which at the beginning of 20th century provided almost 70 percent of the total coal of the Russian Empire.
+Before the World War I, Ukrainian industry accounted for 70 percent of the total extraction of raw materials in the Russian Empire and only 15 percent of finished goods.
+This imbalance was the result of Russia’s colonial economic policy toward Ukrainian lands and its ruthless exploitation of Ukraine’s natural and human resources.
+Russia became the Russian Empire thanks to Ukraine and the access it provided Russia to the Black and Azov seas.
+This access allowed Russia not only to expand its territory but also to increase its influence in Europe and the Middle East.
+Additionally, Ukraine’s natural and human resources gave the Russian Empire great benefits for further development of heavy industry during the industrial revolution.
+Relations during Soviet Times, 1917–1991 In November 1917, a revolution took place in Russia and Ukraine, creating a source of natural and human resources for the new Soviet Republic that evolved from this revolution.
+Thus, Ukraine obtained socialist industrialization and collectivization.
+Thousands of wealthy peasants in Ukraine were declared “kulaks,” arrested, and sent to Siberia.
+One of the most terrible crimes of the Soviet government in relation to Ukraine was the Holodomor, or artificial famine.
+Due to the Holodomor in Ukraine, according to the updated data, between 3 and 3. million people died.
+World War II had a great influence on the whole of humanity, and Ukraine was not an exception.
+For 40 monthsfrom June 22, 1941 to October 1944the war took place in the territory of Ukraine.
+When Nazi Germany came to Ukraine, a regime of violence and terror began in the territory of the state.
+From 1941 to 1944, the deadly wave of war swept through Ukraine twice; during the war years, every sixth inhabitant of Ukraine died.
+It took place in several stages, and on October 28, 1944, the whole territory of Ukraine was liberated from the enemy.
+In extremely difficult and unfavorable conditions, Ukraine returned to peaceful life.
+The years of post-war reconstruction of Ukraine’s economy were very difficult and debilitating, because Soviet leadership implemented a system that concentrated on the reconstruction of industry and the military-industrial complex instead of raising the standard of living of the people.
+After World War II, there was a certain increase in the welfare of the people and in salaries.
+As a result, tens of billions of rubles were not used to modernize the national economy as a whole or to significantly improve the socio-cultural sphere, but instead used on development of military potential.
+The USSR had an equally devastating impact on Ukrainian social institutions, including the institutes of history of Ukraine, the Academy of Sciences of Ukraine, and Ukrainian newspapers and magazines.
+The USSR launched a campaign against prominent figures of Ukrainian culture.
+Ukrainians were once again reminded that they were living in a state that was not interested in developing Ukrainian national culture.
+It aimed at the unrestricted development of Ukrainian language and culture and the provision of civil rights.
+The issue of change turned into a question of the life or death for the Soviet system.
+He initiated in the USSR the beginning of the restructuring of society, culminating in the disintegration of the USSR in 1991.
+Trade Wars There is nothing new in the fact that the real causes of war are rooted not in politics, but in economics.
+Of course, the famous Clausewitzian 55 assertion that war is “a continuation of political intercourse, carried on with other means” 56 is still true, as it is true that politics is a continuation of the economy.
+Delving deeply into the causes of wars usually reveals an economic reason, either the seizure of resources or the reduction or destruction of the economic potential of an adversary.
+This is not only the title of one of Leonid Kuchma’s books, 57 but it is also the whole process of awareness of Ukraine’s national and mental affiliation.
+Unfortunately, even now, the majority of ordinary foreigners perceive Ukraine as part of Russia.
+It must be said that the initial position of Russia on the global stage after the breakdown of the Soviet Union was greatly superior to Ukraine’s.
+Moscow inherited a seat on the UN Security Council, obtained the Diamond Fund, Gold USSR currency reserves, and avoided claims that it possessed a nuclear weapons arsenal.
+Comparing the disconnection of the former Soviet republics from Russia makes it clear that, in the early 1990s, other republics were almost deprived of the family of “brother” nations.
+It is necessary to remember that Russia privatized a significant part of the common historical heritage of the USSR, thereby laying the foundations for the future enslavement of Ukraine because Russia and Ukraine are “one nation,” and Russia used this argument as well when it annexed Crimea.
+Ukraine depended directly on the decisions made in Moscow about the methods and mechanisms of mutual settlements, ensuring the stability of the energy systems, the volumes of energy supplies for consumers in Ukraine, and their transit across the territory.
+After gaining political independence, Ukraine, 57 The President of Ukraine, 1994–2004.
+Until 2014, Ukraine remained virtually completely dependent on decisions made in Moscow, in particular regarding the supply of nuclear fuel, natural gas, oil, and other petroleum products.
+It was also dependent on Moscow’s decisions for the loading of transit routes of hydrocarbons.
+This arrangement would ensure the stability of the power and gas transmission systems.
+The Russian Federation did not hesitate to use Ukrainian dependence on Russian gas to put pressure on Ukraine.
+Russia used the “gas question” for the first time in September 1993 when, after negotiations, Ukraine exchanged part of its Black Sea Fleet ships for the cancellation of $800 million of its first gas debt to Russia.
+Russia understood the power of the “energy weapon” and continued to use it as a lever in order to apply political and economic pressure on its opponents.
+Gazprom demanded a solution to the debt problem by transferring a part of the property rights of Ukrainian gas pipelines and enterprises.
+On March 10, during the Ukrainian– Russian negotiations, Gazprom decided to continue supplying gas to Ukraine.
+Russia was once again convinced of the effectiveness of its “energy weapon” and firmly consolidated it as an element of non-military influence.
+The first war in Chechnya in 1995 temporarily forced Russia to shift its vector of attention from external to internal problems.
+Nonetheless, when Putin came to power in 1999, Russia again actively began to increase the degree of its influence, primarily in the neighboring countries important for Russia, primarily in economic terms.
+Ukrainian Front” (Kyiv, National Institute of Strategic Research, 2017), 229.
+At the same time, there were constant allegations from the Russian side that Ukraine stole gas from a transit pipe.
+Analysis of Russia’s behavior since 2000 shows that it has continued to consistently utilize economic leverage based in energy as a weapon.
+The most important and powerful applications of this instrument were the two “gas” trade wars that Russia waged against Ukraine in 2005–2006 and again in 2008–2009.
+The first gas conflict against Ukraine started in 2005 and was a clear example that the economy was to be a continuation of politics.
+Ukraine held presidential elections in 2004, in which Russia supported the pro-Russian presidential candidate Viktor Yanukovych.
+By contributing to the victory of Viktor Yanukovych, the Russian authorities approved an additional agreement for a contract between Gazprom and Naftogaz (the Ukrainian state gas company), which, for a five-year term lasting until 2009, set for Ukraine a fixed price for Russian gas$50 per thousand cubic meters.
+It would show Ukrainians that Yanukovych could obtain benefits for the people of Ukraine on the very sensitive matter of gas and would give additional benefits to Yanukovych as president.
+Instead of Yanukovych, however, Viktor Yushchenko became the President of Ukraine due to the Orange Revolution.
+These new gas routes led to a decrease in the amount of gas transit through Ukraine.
+At the same time, Ukraine’s energy policy started to find ways to get rid of its dependence on Russian gas, to search for alternative fuels and pursue energy efficiency.
+Ex-advisor to the Russian President for Economic Affairs Andrei Illarionov later called this conflict between Russia and Ukraine “a gas war” and acknowledged that Russia had used “energy weapons” against Ukraine.
+Under such dictation, Ukraine refused to sign contracts for gas supplies in 2006.
+The conflict was suspended overnight between January 3 and 4 with the signing of documents that seemed to satisfy both sides.
+The parties succeeded in signing an agreement that ended the practice of barter trade , and as a result, these two things began to be considered separately.
+The five-year contract provided gas supplies to Ukraine through an intermediary company, RosUkrEnergo, while Russia offered gas to Ukraine at a rate of $95 per 1000 m³ for the first half-year.
+This conflict was preceded by a powerful Russian informational campaign.
+Through controlled media (both Russian and Western), Russia conveyed to Western states the idea that Ukraine continued 68 Institute of Energy Strategy.
+The result was that Russia halted the supply of gas to Ukraine from January 1, 2009; and since January 5, its supply to European customers decreased.
+After January 7, transit of gas from Russia through Ukraine was suspended completely.
+At the same time, representatives of Gazprom cynically blamed Ukraine for blocking gas that was already paid for from reaching the European countries.
+The supply of Russian gas was only renewed on January 20, after the relevant contracts were signed in Moscow.
+Similar to three years prior, the attack on Ukrainian interests started in January and was accompanied by a massive outreach program supported by statements from representatives of the political leadership of Russia.
+Actually, the cessation of gas supplies to Ukraine took place according to the same scenario as in 2006.
+First to shut down were compressor stations that supplied gas to eastern Ukraine, whose population was mostly friendly to Russia and critical of Ukraine’s authorities.
+Russia intended the absence of gas in Ukraine to play the role of a detonator for provoking East–West confrontation and political conflict in Ukraine.
+The idea was that in the case of full cessation of Russian gas, the Ukrainian government would not provide gas from the western gas storage facilities to the main industrial centers in the East, in which case those areas would remain without heat.
+The development of the situation was supposed to provoke, according to the plan of the Russian strategists, social protests and unrest in the eastern and southern regions of Ukraine.
+In 2009, the Russian Foundation used a “semi-rigid” or “soft power” scenario in order to subdue Ukraine.
+This scenario provided for emergency deployment of Russian military contingents to Ukraine.
+It was not by chance that on January 12, 2009, Russian mass media broadcast publications on the subject of border revision and statements by Russian politician Konstantin Zatulin, a member of the Russian State Duma.
+Nonetheless, in 2014, Russia implemented an improved hybrid war scenario, which it had been preparing for in advance.
+RUSSIAN USE OF HYBRID WARFARE IN UKRAINE This section clarifies how Russia annexed Crimea and started war on Donbas, the eastern part of Ukraine.
+Ways, Means, and Consequences The operation to seize the Crimea was being prepared not for some days, but for several years.
+Russia tried to implement a “peaceful” invasion for the first time in 2003, when it “suddenly” began to pour an artificial dam from the Russian Kuban in the direction of Ukrainian territory, the island Kosa Tuzla.
+It is the only channel where the sea is so deep that ships can pass from the Black Sea to the Azov Sea; this channel runs between Tuzla and Crimea and was completely under the control of Ukraine.
+In addition, while controlling the Kerch Strait, Russia could prevent the entry of NATO warships into the Azov Sea.
+On the island a border outpost was immediately established; heavy military vehicles appeared, Ukrainian military aircraft began patrolling over Kerch straits, and Ukrainian warships pulled up to the island.
+The President of Ukraine, Leonid Kuchma, interrupted his visit to Brazil and personally visited the island.
+This was a clear signal to Russia that Ukraine was ready to fight for Ukraine’s land.
+More than a month after the beginning of the conflict, Russia stopped construction of the dam and negotiations were started.
+As a result, Russia stopped construction of the dam and Tuzla remained Ukrainian, but no other countries’ military ships could pass through the Kerch Strait without Moscow’s consent.
+Russia wanted to share this part of the sea together and got what it wanted.
+The Ukrainian political establishment did not enhance Ukraine’s defense and information capabilities.
+Russia understood that blackmail, insolent lies (“they are not there”), intimidation, and provocation are effective tools to capture what belongs to another country.
+The Russian Federation closely followed the new tendencies in the field of military science.
+In this article, the Chief of General Staff of the Armed Forces of the Russian Federation, General Gerasimov, describes the Russian vision of modern warfare, wherein the role of non-military methods in achieving political goals will significantly increase.
+According to Gerasimov, military measures will start only during the crisis phase of a conflict and only to enhance and support non-military actions.
+The operation to capture Crimea was planned and carried out in full accordance with this chart.
+Pro-Russian political parties and movements in the southern and eastern parts of Ukraine were created and financed by Russia; leading officials in Crimea and continental Ukraine were bribed; in 2013, people who had Russian citizenship and who worked for Russia were appointed as Ukraine’s Minister of Defense and its Head of the Security Service.
+The Finnish Institute of International Affairs wrote that “Dmitry Solomatin and Pavel Lebedev, Ministers of Defense in 2012–2014, were Russian citizens.
+In addition, it undertook corruption in highand middle-level Ukrainian politics and military.
+It also engaged in political warfare and put economic pressure on Ukraine as well.
+One of the most powerful destabilizing factors in Crimea was its Russian-speaking population.
+It is their descendants who supported the separation of Crimea from Ukraine in 2014, and it is these people at whom Moscow’s propaganda was aimed.
+Another form of leverage Russia used to influence Ukraine was the Russian Black Sea Fleet based in Crimea.
+Despite the fact that Article 17 of the Constitution of Ukraine prohibits the deployment of any foreign military formations on the territory of the state, in 1997, both Ukraine and Russia ostensibly agreed upon the terms of stay of the Russian fleet in Sevastopol until 2017.
+In addition, the deployment of the Russian Federation Black Sea Fleet in Crimea was one of the factors preventing Ukraine from joining NATO, as membership is prohibited to states in whose territory the military formations of non-NATO countries are located.
+Russia also conducted a powerful propaganda/information operation to discredit Ukraine in the eyes of the international community.
+Along with the two Russian-Ukrainian “gas” wars previously discussed, 85 the purpose of which was to take control of the Ukrainian gas transportation system and thereby dictate conditions to Kiev, Russia imposed sanctions against Ukrainian goods and used other economic levers of pressure on Ukraine.
+At the same time, Russian propaganda focused on Ukraine stressed that Ukraine and Russia are two “brotherhood nations” with common Slavic roots, history, values, and even the church.
+To support this idea of Russian propagandathe idea of a “commonality” of Russians and Ukrainians—Russian propaganda produced movies, books, newspapers, and magazines in the Russian language in large volumes.
+Before turning to the Russian annexation of Crimea in 2014, it is necessary to understand the situation in Ukraine at that time.
+On the night of November 29 to 30, 2013, the tent camp was demolished by Ukrainian police units, and the protesters were brutally beaten.
+In response, immense protests began against the authorities in the center of Kyiv; protesters demanded the resignation of government officials and new presidential and parliamentary elections.
+The confrontation between protesters and the then-current political powers lasted until the end of February 2014, when on February 22, President Yanukovych of Ukraine fled to Russia.
+The next day, Alexander Turchynov, the newly elected Speaker of the Verkhovna Rada , was appointed as the Acting President of Ukraine.
+In Russia the protest was called another “color revolution” and a special operation by the West to shift the legitimate authorities in Ukraine.
+In full accordance with Gerasimov’s table, the massive information operation was launched and conducted in order to split Ukrainian society.
+On the one hand, “nationalists” were demanding change; on the other hand, a “normal” population wishing to leave everything as is and prevent the seizure of power by neofascists.
+Russia very successfully chose the time to start an invasion of Crimea.
+The new government was just beginning to form; Kyiv was trying to take control of the situation in the country, and in various regions, clashes between supporters of Yanukovych and his opponents continued.
+A viable line of power was absent; at that time, it just did not exist, and this absence allowed Russia to deploy its troops to the Crimea.
+After negotiations with Crimean politicians, Russian troops initiated pro-Russian unrest against the Ukrainian authorities.
+The Simferopol international airport and airport “Belbek,” the Council of Ministers in Simferopol, the Parliament of Crimea, and Ukrainian air defense military installations were captured.
+Similarly, Russian military troops without insignias blocked the Ukrainian ground military installations in Crimea, and the main Crimean naval base of Ukraine in Balaklava Bay.
+They disrupted radio and Internet connections and cut off all lines of communication.
+The Russian military further established checkpoints on major roads leading to the Crimean peninsula from the continental Ukraine.
+These actions were carried out by the troops of the 810th Marine brigade, the 2nd, the 3rd, the 10th, the 16th and the 22nd Brigades of the Special Forces units of the Main Intelligence Directorate of the Russian Federation.
+After these activities had been carried out, the Russian Armed Forces controlled the Crimean peninsula.
+In order to give legitimacy to its actions, the Russian Federation Council authorized the use of the Russian Armed Forces outside of Russia.
+For the same purpose, a so-called Crimean “referendum” was held, which the UN and the absolute majority of the countries of the world did not recognize.
+Vladimir Putin and Military Persuasion in Ukraine, 21 February – 18 March,” Journal of Slavic Military Studies 27, no. : 371.
+On February 9, 2014, Viktor Yanukovych took from Crimea the Commander of the Navy, Admiral Yuri Ilyin, and appointed him the Chief of the General Staff.
+That is to say, until March 1, 2014, Crimea did not have a regular commander of the navy; his duties were instead fulfilled by his deputy, Sergei Yeliseyev.
+Together with the Chief of Staff, Dmitry Shakuro, in connection with the aggravation of the political situation and reluctance to assume responsibility, Yeliseyev and Shakuro wrote reports requesting their release into the reserve.
+On March 1, the new Naval Commander Denis Berezovsky was appointed; he also betrayed Ukraine the next day.
+It was hard to believe that a neighboring state next to which Ukraine had peacefully lived for 23 years was capable of doing this.
+This started with military personnel who were in Crimea and then spread into all Ukraine.
+In light of this, it is necessary to say that under those circumstances, only representatives of the armed forces and border guards kept tenacious until the end and explicitly showed the Russian military that they did not agree to reconciliation.
+After more than a month’s confrontation, however, Russian units captured all Ukrainian military units and ships.
+Disguised as civilians the Russian military stormed the Ukrainian units, acting behind their backs and using them as a living shield.
+Under such conditions, the Ukrainians could not open fire in order to prevent civilian casualties.
+This huge quantity of traitors was a result of the Russian information operation and political warfare.
+Not one of the traitors believed that Ukraine would exist after the flight of Yanukovych.
+Massive, immense Russian propaganda forced them to abandon their oath and not hold allegiance to Ukraine.
+In the very beginning of the operation, Russia denied that its troops had participated in the seizure of Crimea.
+Putin, answering questions from Russian journalists on December 19, 2013, completely denied the possible entry of Russian troops into the territory of Crimea.
+On April 7, 2014, Putin acknowledged that “behind the back of the self-defense forces of Crimea stood Russian servicemen,” and on November 15, 2014, he pointed out that the Russian armed forces blocked Ukrainian military units.
+In short, he lied to the Russians, he lied to the world, and he has thus far not faced any punishment for his lies.
+Russia used both conventional and unconventional methods of warfare simultaneously.
+It also conducted information and military operations, which were conducted under the same leadership and in 96 “How We Lost Crimea.
+It also made active use of paramilitary groups, Cossacks, proxies, and local residents, under cover of which the Ukrainian military units were captured.
+In addition, the international community, for the first time, was faced with plausible deniability at the highest political level.
+Actually, the plausible deniability turned out to be Russian “knowhow,” for which the West was not ready.
+According to the acting Chief of the General Staff, General Muzhenko, as soon as the first state buildings in the Crimea were captured, the Ukrainian General Staff developed a military operation that would keep the Crimean Isthmus and take control of the bigger, steppe part of Crimea.
+It was a chance not to spread the gangrene of separatism in the Crimea.
+Russia, inspired by its Crimean success, began to conduct operations under the same scenario in the southern and eastern parts of continental Ukraine.
+Further victims could perhaps be avoided if during the seizure of Crimea the Ukrainian authorities acted as rigidly, harshly, and decisively as in 2003 on Tuzla.
+History does not have a subjunctive mood, however, and after the seizure of Crimea by Russia, Ukraine faced the question of its own existence as an independent state.
+Ukrainian soldiers and officers in Crimea who remained loyal to their oaths more than a month defended their units in a harsh environment, practically without communication, hiding in many ways the prevailing forces of the enemy and giving Ukraine time to prepare for the second act of Russian aggression against Ukraine.
+The Testimony of Senior Officials of Ukraine.” 39 numerous actions took place in the east and south of Ukraine, with the support of Russian Special Forces.
+On April 6, 2014, as in Crimea, the Russian proxy captured the building of the Donetsk Regional State Administration, and on April 12, 2014, Igor Girkin, a former KGB/FSB officer also known as “Strelkov” , with a group of armed Russian people, captured the small town of Sloviansk.
+This day can be identified as the beginning of the Russian aggression on Donbas.
+Following these events, in southeastern Ukraine, Russia tried to establish a new state, Novorossia.
+In the realm of political leverage, Russia repeated the Crimean scenario with a “referendum” to join these territories to Russia as well.
+On May 11, 2014, in the Donetsk and Luhansk regions controlled by separatists, such “referendums” were held.
+To put it differently, Russia tried to use these referendums not only to legitimize the “will” of the people of Donbas but also to legitimize Russia’s hostile actions against Ukraine.
+Under the pretext of those “referendums” and for the maintenance of DNR and LNR, Russia sent reconnaissance and sabotage groups headed by officers of the Main Intelligence Directorate of the Russian Federation.
+The escalation of the conflict in the east of Ukraine began in mid-April 2014, when armed groups of pro-Russian activists, paramilitary formations of the Russian Cossacks, the notorious Chechen battalion “East,” and armed groups of mercenaries“Wagner,” “Russian sector” and “Oplot”with the participation of Russian Special Forces units, began to seize administrative buildings and units of police and security forces in the cities 40 of Donetsk, Luhansk, and others.
+In Kharkiv and Odessa, it was possible to prevent separatists from seizing power.
+In addition, these groups attacked the Ukrainian Land Forces troops and aircraft of the Air Forces of Ukraine.
+In response to these actions, in order to stop the rampant terrorist attacks and separatism in the eastern regions of Ukraine, on April 13, 2014, the National Security and Defense Council of Ukraine declared the beginning of a large-scale Anti-Terrorist Operation with the involvement of the Armed Forces of Ukraine.
+Russia wanted to shoot down the Russian plane Aeroflot, which was on the flight AFL-2074, Moscow-Larnaca.
+The Russian plan was to accuse Ukraine of this catastrophe and, in order to protect the Russian population living in Ukraine, to start a full-scale invasion of Ukraine.
+When Ukraine started this ATO, the armed forces felt the whole power of Russian hybrid warfare.
+The units of the Ukrainian Army sent to participate in the ATO became a target for hybrid tactics.
+They took over military vehicles and forced Ukrainian military to hand over their weapons.
+There were cases when information about the location of these army units was handed over to the separatists, and they passed this information to their Moscow masters, and thereupon Russian artillery fire from the territory of the Russian Federation was unleashed on the Ukrainian positions.
+There were also cases of local residents poisoning the Ukrainian servicemen’s food.
+The group of locals established mass meetings and protests against the location of Ukrainian Army units near local towns and populated areas, and arranged to sabotage Ukrainian checkpoints.
+Protection of ethnic Russians has been a central justification for Russian invasions of Georgia and Ukraine.
+Here again, Russia used Russian ethnic groups in the Crimea and Donbas in order to obtain support from the local population and legitimize the Russian invasion in Ukraine.
+Yet, if we carefully study the history of Ukraine, we encounter many questions about the “ethnicity” of the Russians and the Russian-speaking population living in Ukraine, particularly in Crimea and the Donbas region.
+Donbas was one of the regions of Ukraine where in 1932–1933 the Holodomor occurreda massive physical destruction of Ukrainian farmers by artificial famine.
+In place of Ukrainians who diedfrom 3 to 5 million by different estimatesresidents of central regions of Russia were relocated into the Donbas.
+In three generations, these people would support the appeals of the Russian Federation to withdraw from Ukraine and join these territories to Russia.
+On May 25, 2014, an all-Ukrainian referendum was held, and Petro Poroshenko was elected the new President of Ukraine.
+The next phase of the ATO began, and on July 11, 2014, Russian troops began participating in the war, inflicting a rocket strike on Ukrainian troops from Russian territory.
+Following that strike, the entire line of Ukrainian formations near the border, from the Luhansk region to the Azov Sea coast, was under systematic artillery shelling from the territory of Russia during July–August 2014, to which Ukrainian units did not respond.
+Ukraine could not respond to this shelling because Russia would have immediately blamed the Ukrainian side for unleashing a war, thereby giving Russia an occasion for moving its troops into the territory of Ukraine.
+As a result, Ukraine lost control of part of the eastern Russian–Ukrainian state border.
+Various sources indicate that on the night of August 23 to August 24, approximately four BTGs invaded the Lugansk region, and four more BTGs in the Donetsk direction.
+Fierce battles began between the regular units of the Armed Forces of Russia and the Armed Forces of Ukraine.
+As the fighting continued, Ukrainian forces captured Russian officers and soldiers, as well as the latest versions of Russian military equipment and weapons.
+After more active fighting in the autumn and winter of 2015, the phase of a position war came to Donbass.
+Every day in the media there were reports of skirmishes, bombardments, injuries, and deaths.
+When the situation became dangerous and Russia began to lose control, however, it started a conventional military operation and invaded Ukraine to support separatists and restore its control over the Donbas territories.
+Current Situation in Ukraine Five years after the war’s onset, the situation is more or less the same as in 2015.
+On February 23, 2018, the President of Ukraine signed the Law of Ukraine “On the Peculiarities of State Policy Concerning the State Sovereignty of Ukraine in the Temporarily Occupied Territories in the Donetsk and Lugansk Oblasts,” also referred to as the “law of the de-occupation” of Donbas.
+According to this law, the ATO in Donbas is over and the Joint Forces Operation has begun.
+The main tasks of this operation are the implementation of measures to ensure national security and defense, the rebuff and deterrence of armed aggression of the Russian 43 Federation, and protection of the rights and freedoms of local populations.
+Russia has been forced to sit down at the negotiation table due to the resistance of the Ukrainian Armed Forces as well as to the consolidated position of Western countries condemning Russia’s aggression and their intensified application of sanctions against Russia.
+The Ukrainian side is preparing to repulse full-scale aggression by the Russian-terrorist forces.
+The Head of the General Staff points out that nowadays the total number of Russian and separatist troops in the occupied territories is about 32,000.
+There, Russians are increasing their material stocks as the Russian military columns carry tangible goods, including ammunition, into the occupied territories.
+They are regular Russian military units that are controlled and headed by the 8th Russian Joint Army.
+Russia continues its aggression and provocations toward Ukraine; on November 25, 2018, Russian ships and aircrafts opened fire on the ships of the naval forces of Ukraine in the neutral waters of the Black Sea and captured them.
+Onboard the Ukrainian ships were 24 officers and sailors, six of them were injured, three severely.
+Ukraine has indisputable evidence that this happened in neutral waters and not in the territorial waters of Russia.
+In response to this act of undisguised aggression against Ukraine, martial law was declared for 30 days in ten regions of Ukraine on November 28.
+CONCLUSIONS Ukraine, as a regional gateway, a transnational intersection, and a hub of natural and human resources, always has and will continue to be a target for Russia.
+In order to be an empire and a great power, Russia must either capture or control Ukraine.
+All Russian rulers have understood this fact; they all imposed on Ukraine the Russian language and culture and other “Russian values,” and have attempted to break the unity of Ukrainian society as well.
+The historical importance of Ukraine for the Russian Federation is hard to overestimate.
+Ukraine has given Russia not only billions of tons of natural resources but also outstanding human resources; many great scholars, inventors, sportsmen, engineers, writers, and cultural and art workers who have lived and worked in Russia were from Ukraine.
+Even Siberian oil and gas fields, which the USSR and then Russia used as a main source of foreign money, were discovered and developed mostly by Ukrainian oil and gas specialists.3 Using hybrid warfare in Ukraine, Russia has been continuing its policy of destroying Ukraine as an independent actor of geopolitics.
+The main aim of these hybrid actors is to destroy the civil-military unity of Ukrainian society, weaken a societal resilience, and control Ukraine directly or through pro-Russian politics.
+Ukraine, in turn, must rely on its own forces and continue to persuade European countries and the United States of the necessity for more rigorous sanctions against Russia.
+Nonetheless, leadership in Ukraine understands that Ukraine should not only rely on its own forces, but also strengthen domestic civil-military relations.
+It is crucial for the defense against hybrid attacks; correspondingly, the next chapter describes civil-military relations in Ukraine before and after 2014, the year when hybrid warfare in Ukraine began.
+The next chapter also demonstrates how a volunteer movement became one of the cornerstones of the struggle against Russian hybrid warfare and enhanced cohesion between the Ukrainian state and its society.
+CIVIL-MILITARY RELATIONS IN UKRAINE This chapter provides information about civil-military relations in Ukraine, which has become a key component of the Ukrainian response to Russian hybrid warfare.
+The first part of this chapter explains the civil-military relations in Ukraine from the time when Ukraine became an independent state in 1991 to the Revolution of Dignity in 2013.
+The second part provides information about the civil-military relations in Ukraine after 2014, when war against the Russian Federation started, until 2019.
+As this chapter shows, Ukraine’s strong volunteer movement and the robust civil-military resilience of Ukraine’s society became the unpredictable factor for Moscow, which broke Russia’s plans to subdue Ukraine.
+CIVIL-MILITARY RELATIONS IN UKRAINE FROM 1991 TO 2013 After independence in 1991 from the recently vanished USSR, Ukraine began to form its own new state institutions and to buildwith the Soviet legacy at handrelations between those institutions.
+Civil and military institutions stood at the center of this process of reform, as Ukraine had to build its own national armed forces.
+Given the history of the soldier and party in the USSR, Ukraine had to redefine its entire security and defense sector.
+In the process, the government and society with it had to create effective mechanisms, as in the Western democracies, that would enable the security and defense forces to operate within the constitutional and international systems of a new independent nation state in Eastern Europe.
+Understanding the development of civil-military relations in Ukraine requires knowing the history of civil-military relations in the USSR, which were the origin of CMR in post-independence Ukraine.
+Politruks appeared when the government did not trust its army and was therefore afraid of rebellion, betrayal, or desertion.
+A politruk was an officer, assigned to a military unit by the government, whose task was to ensure loyalty and execution of orders.
+Only “flawless” revolutionaries could be appointed as military commissars, those able in the most difficult circumstances to remain the embodiment of Soviet duty.
+After independence in 1991, Ukraine had to re-build its CMR; however, it could not fundamentally change the system that existed for more than 70 years.
+The issue of CMR in the first years of Ukraine’s independence was not as acute as the re-foundation of the state and the economy.
+After the Soviet Union collapsed in 1991, the Ukrainian system of management and operation of enterprises and state institutions that ensure the vital functions of the country required a new foundation and fundamental reforms to adjust to the market, as was generally the case in central and Eastern Europe after 1989.
+First and foremost, there was no military housing for them and few resources to build such housing.
+During the formation of the Ukrainian state, state authorities distanced themselves from these pressing problems of the Armed Forces of Ukraine, a process that had huge negative consequences.
+Salaries remained unpaid for months due to lack of funding; military equipment gradually deteriorated and became obsolete; military infrastructure deteriorated and was sold, destroyed, or stolen in the process of privatization.
+These ills discredited military service in the eyes of many Ukrainians, which destroyed the military’s sense of honor in serving one’s Motherland.
+This chaos caused spiritual, social, and moral deprivation in Ukraine’s new socio-political conditions.
+In addition, with nearly no resources, the state undertook a markedly simplified combat training system of units and formations of the army compared to Soviet times.5 Nevertheless, in spite of these serious difficulties, the Ministry of Defense of Ukraine and the General Staff of the Armed Forces of Ukraine were formed in 1992 and assumed the leadership of the new Ukrainian armed forces.
+The question arose about the model of the construction and functioning of CMR in Ukraine relative to the reforms begun in Central Europe in, say, Prague, Bucharest, Warsaw, and Bratislava where a Western model, if not yet a NATO model, had become desirable in the course of the first half of the 1990s.
+The main idea of these reforms was to ensure democratic control by the elected bodies of political power over the components of the security and defense sector.
+The so-called “ United States American” and “Federal German” variants of CMR were studied by the Ukrainian government while reflecting the choice of the Ukrainian CMR development option.
+Neither the Russian nor the Chinese models held any appeal for those in a position of responsibility in Ukraine in the 1990s.
+The Politics of International Socialization after the Cold War , 367. 49 democratic culture; at the same time, they differ significantly as a result of different military and political experiences.
+The President is the commander-in-chief, while the Congress has the right to approve the military budget, to require a report from senior military officials on the state of affairs in the armed forces, to issue statutes, and to regulate the actions of the troops.
+Within the executive branch, but answerable to the legislative the Department of Defense, of which the Secretary and deputies are usually civilians, who exercises direct democratic political control of the troops and leads the making of strategy; under this system, political rights and freedoms of service members are under significant legal constraints.
+The German version of CMR is different, with the role of parliament being uppermost in response to the constitutional errors of the German and Prussian past, by the crown and later by the Fuehrer.
+In addition to the legislative rights of the parliament, Germany established a special office of the authorized Bundestag on defense for the protection of service members’ fundamental rights and as a subsidiary body of the Bundestag in exercising parliamentary control.
+The Commissioner is elected for a term of five years by the parliament, which is beholden only to him or her.
+The Minister of Defense is a civilian and member of the federal cabinet as well as parliament; the Minister’s deputies and other military leaders are professional service members and defense civilians.
+They are guaranteed equal rights with civilians, including the right to join political parties (although it is prohibited to agitate in the party’s interests while in the service) and the right to participate in political events during non-working time.
+Agitation, political speeches, distribution of printed materials, and the combination of service with deputy activity are not allowed.
+The discussion about which model United States or Germanis better for Ukraine was not only for Ukrainians specialists; the questions of the CMR in Ukraine were of interest of foreign scholars as well.
+In order to choose the better model of CMR for Ukraine, foreign scholars have analyzed the problems of the formation of CMR in Ukraine in its first years of independence.
+Civil-political institutions in Ukraine were relatively stable, while their level of political culture was low.
+Most civil servants in the government and other power structures lacked the experience of managing an independent nation state.
+The question of the division of power between the three branches of the state was not established and ingrained as it is in the United States or Western Europe.
+Military institutions in Ukraine were also weak for reasons similar to those that explain the weakness of its civilian institutions.
+Both Ukrainian civilian structures and the Ukrainian Armed Forces were new government bodies that have been in the process of development since 1991.
+It is necessary to identify the type and scope of formal, that is, constitutional civilian control over the military, as well as to establish the informal relations between military personnel and other social groups, leading political and economic circles.0 In the years immediately after independence, analysts at the Ukrainian Center for Economic and Political Studies in 2000 assessed the effectiveness of democratic civilian control of the military in Ukraine according to five criteria.
+Regulatory requirements for its provision at that time sounded like a political wish.
+In order to resolve the problem of Ukrainian CMR on the legislative level, in 2003, the Law of Ukraine “About Democratic Civilian Control over the Military Organization and Law Enforcement Bodies of the State” was adopted.
+Unfortunately, the Armed Forces of Ukraine, which, in accordance with the Constitution of Ukraine, are entrusted with the defense of Ukraine, the protection of its independence, state integrity, and inviolability, failed to do so in the face of the Russian irregular offensivethat is, “hybrid war”with the “Anschluss” of Crimea and the ensuing low-intensity conflict in the eastern parts of the nation.
+CIVIL-MILITARY RELATIONS IN UKRAINE AFTER 2014 This section describes what happened in a framework of civil-military relations after Revolution of Dignity in Ukraine.
+Volunteer Movement One of the main factors in 2013–2014 that prevented Russia from dividing Ukraine and destroying it as a separate subject of geopolitics was the robust volunteer movement in Ukraine.
+This levée en masse, a revival of the partisan ideal of menand women-atarms, is a significant part of political culture in central, eastern, and northern Europe.
+Even so, the heritage of the levée en masse and other paramilitary responses to armed crisis found little attention among political scientists, and is poorly examined in much of the CMR literature.
+A more comprehensive species of civil response, occurring not only in Kyiv but also in other cities of Ukraine, emerged after the Revolution of Dignity.
+They brought the necessary materials to the protesters and even died in the fighting of the EuroMaidan for European ideals.
+Representatives of volunteer associations during EuroMaidan accumulated such resources as food, medicine, and household items and provided the necessities of life in tent cities.
+They also personally performed social work, offering educational, medical, and other information to the protesters.
+Information technologies helped to create a new quality of communication between like-minded people and minimized the time for the volunteer projects to be brought to the level of their practical implementation.
+Bypassing bureaucratic procedures in extraordinary circumstances saved time, which positively influenced the quality of volunteer services.0 The volunteer movement in Ukraine continued when Russia annexed Crimea in February 2014.
+The local concerned civilians of Crimea began to help Ukrainian servicemen who were blocked in their military installations by Russian military units.
+The range of assistance was very diverse, from providing batteries, food, and drinking water to the Ukrainian servicemen to collecting money for their family members.
+The Armed Forces of Ukraine, not for the first time since their existence, understood that they were indeed part of the people, and this relationship provided additional forces and motivation to Ukrainian soldiers.
+The cities of Kharkiv and Dnipro, due to the rigid pro-Ukrainian position of engaged civil activists, remained under the control of Kyiv and did not turn into “quasi-republics” as happened with Donetsk and Lugansk.
+Due to their social resistance, Odessa, Kharkiv, Dnipro, and many other settlements in southeastern Ukraine are now free from Russian military presence and war.
+The volunteer movement made the most effective contribution to strengthening the state’s defense capabilities precisely at the beginning of hostilities in the Donetsk and Luhansk regions, when the state slowly provisioned the power units, even while lacking basic security systems, uniforms, and foodstuffs.
+In a matter of months, volunteer initiatives had turned into powerful organizations whose activities were aimed at providing almost the entire spectrum of needs of both security forces and civilians affected by hostilities.
+Concerned people in Ukraine and abroad supported the call for their collection formed in social networks by volunteer groups.
+The Ukrainian diaspora sends money transfers, medical preparations, clothes, household goods, among other necessities to Ukraine to give tangible support to the volunteer movement.
+In many countries where Ukrainians form a united diasporic cell, local volunteer organizations carry out numerous community actions in support of Ukrainian sovereignty and territorial integrity.3 The powerful volunteer movement is represented by a medical initiative.
+At the same time, they created their own teams and joined volunteer battalions, provided medical care in front-line hospitals, and provided them with the necessary equipment.
+The volunteer physicians carried out their functions during the fighting to establish a stable medical service.
+The psychosocial service organized in the time of EuroMaidan was transformed during the next year into a Psychological Crisis Service, whose units dealt with the wounded and the families of the dead.
+Individual groups of volunteer psychologists have been constantly in the ATO area, where they conduct psychological training with Ukrainian military personnel and deal with the rehabilitation of victims during hostilities.
+It is also important to note the significant contribution of Ukrainian citizens who use computer technology in volunteering.
+During the course of EuroMaidan, they created sites that provided information support to the participants and helped to coordinate joint protest actions.
+Human rights activities of volunteers were mainly aimed at protecting the rights of those people who fell into difficult life situations.
+Thus, volunteer lawyers monitored and tried to counteract the illegal actions of the Russia-backed Ukrainian authorities during EuroMaidan.
+Currently, they help internally displaced persons to arrange the necessary documents.
+They are also part of the negotiating groups that deal with the release of hostages and mitigate their conditions of detention.
+One of the successful methods of volunteer assistance to the security forces is to provide targeted assistance to their separate/individual units.
+They are service members of the operational reserve and assist the Ukrainian Army in various areas, from the purchase of unmanned aerial vehicles, which are then transferred to units in the areas of the Joint Forces Operation in Donbas, to work as instructors in different disciplines, ranging from tactical medicine to training of the crews of large-scale machine guns.8 The development of the volunteer movement in some regions of Ukraine has its own characteristic features.
+At the same time, in order to provide necessary items to the regional security forces, local businessmen have created a Foundation, “World and Order,” which began to coordinate the activities of volunteers and Kharkiv’s regional authorities.
+Volunteers nominated by the foundation became advisors to the head of Kharkiv’s state administration and take care of the problems of the army, refugees, and wounded.
+Thus, the businesses took on responsibility and created an important dialogue platform for volunteer organizations and government structures.0 While this and other volunteer initiatives are often very effective, they sometimes lack a clear interaction with the state authorities; as a result, they lose a potential synergistic effect.
+Therefore, the creation of the Volunteer Council in the Ministry of Defense of Ukraine is helped by the Minister of Defense to rebuild the work of the Ministry.
+By entering into departments and services of the Armed Forces of Ukraine, representatives of volunteer organizations have made the work of the Ministry of Defense of Ukraine more open and effective, greatly improving the material support of troops.
+Representatives of volunteer organizations have received positions in the Department of Public Procurement and Supply of Material Resources of the Ministry of Defense of Ukraine and other supply services of the Armed Forces of Ukraine in order to carry out an operational monitoring of price proposals and provided information on the supply and timely purchase of property, fuel, lubricants, and foodstuffs.
+Building a New Civil-Military Relations in Ukraine In 2014, however, there were no such initiatives, and weak and ineffective CMR was one of the reasons for war in Ukraine.
+Since 2010, the Armed Forces of Ukraine has been in decline, and its power potential was decreased artificially.
+In the light of this, in 2018, a new law “About the National Security of Ukraine” was adopted.
+This law took into account the experience of the latest hybrid war with Russia and stated that, after the adoption of this law, three existing laws of Ukraine, “About the Fundamentals of National Security of Ukraine,” “About Democratic Civil Control over the Military Organization and Law Enforcement Bodies of the State,” and “About the organization of defense planning,” were annulled.
+According to this article, citizens of Ukraine participate in the implementation of civilian control through public associations of which they are members and through the deputies of local councils.
+Additionally, they participate personally via the Commissioner of the Verkhovna Rada of Ukraine on human rights or state bodies in accordance with the procedure established by the Constitution of Ukraine and other laws of Ukraine.
+Moreover, the media ought to systematically inform the society about the activity of the security and defense sector of Ukraine, the validity of decisions of state bodies on issues of national security and defense, and about the implementation of measures for the development of the security and defense sector.
+In order to inform society periodically, but not less than once every three years, actors of the security and defense sector publish “White books” or other analytical documents— reviews, national reports, etc.
+CONCLUSIONS Currently, a new system of CMR and civil democratic control is being created in Ukraine.
+The main idea of the new civilian democratic control is not just controlling the actors of the defense and security sector and reporting to the public but strengthening parliamentary control over the Armed Forces of Ukraine, implementing the defense programs, and procuring in the sector of security and defense.
+Civilian democratic control is the transformation of the Ministry of Defense of Ukraine into a civilian office where professional service members are involved in the planning and management of the armed forces and competent civilian experts are thinking about security, information, cooperation, and other bureaucratic or diplomatic issues.
+Realizing this initiative will only be possible if a conscious civil society understands that it does not just elect a deputy in elections but take part in the life of the armed forces in this case and therefore are responsible for the security of their country.
+Correspondingly, the media will formulate requests for officials, based on the needs of civil society, for this information and demand answers in the framework of civil democratic control.1 The role of the volunteers is very important in this process.
+They are one of the main engines of this reform and a vivid example of the possibility of change.
+The example of Crimea, when weak CMR allowed Russian forces to annex the peninsula due to weak political leadership, points to how the lack or sometimes absence of coordination and cooperation between the civil and military spheres, and insufficiently robust CMR significantly can reduce the ability to resist Russian hybrid aggression.
+In order to build and retain robust CMR in new conditions and interact and cooperate with volunteers, other civil persons, and governmental/nongovernmental institutions and organizations, the military units of CIMIC of the Armed Forces of Ukraine were created.
+Representatives of the Ukrainian CIMIC not only represent the position of the armed forces at diverse meetings with civilians on different levels but also enhance cohesion, avoid tensions between civil and military institutions, and find a consensus in complex questions, all of which the next chapter discusses in more detail.
+CIVIL-MILITARY COOPERATION IN COUNTERING HYBRID WARFARE IN UKRAINE The previous chapter described the creation of new systems of CMR and civil democratic control in Ukraine.
+The chapter begins with a discussion of different CIMIC approaches; it then examines the participation of CIMIC Teams in counterpropaganda and information operations, which is an inevitable part of their work.
+Unlike military intelligence, which focuses on military adversaries’ capabilities, CIMIC Teams are focused on the civil population.
+At the same time, some countries have developed their own national CIMIC concepts.
+For instance, Germany is focusing more on domestic CIMIC operations and suggests civil-military cooperation during cases of emergency triggered by natural disasters in the German territory.
+Civil-military operations are the activities of a commander performed by designated civil affairs or other military forces that establish, maintain, influence, or exploit relationships between military forces and indigenous populations and institutions, by directly supporting the attainment of objectives relating to the reestablishment or maintenance of stability within a region or host nation.
+At the strategic, operational, and tactical levels of war, and during all military operations, CMO are essential to the military instrument to coordinate the integration of military and nonmilitary instruments of national power, particularly in support of stability, counterinsurgency, and other operations dealing with asymmetric and irregular threats.4 In other words, the United States military states that civil-military interaction is vital to achieve the goals of military operations.
+Speaking in military language, they belong to the strategic, operational, and tactical levels, respectively.
+Civil-military relations are about civil democratic control of the military; these are relations on a high political level between civil and military decision makers.
+Civil-military interactions encompass broad interaction between the civil and military spheres during military operations.
+This is a new concept introduced by NATO in 2014 underscoring the significance of the civilian aspect in all types of military operations.
+The experience of hybrid war in the eastern part of Ukraine shows that if a military formation wants to control the territory, its personnel should be involved in the process of restoring the normal working procedures of the public administrations, indeed, to be the military part in newly created military-civil administrations.
+The vital functions of life for the local population in Ukrainian territories liberated from separatists require not only mechanized and armored units of the Armed Forces of Ukraine and other military formations but also, and in fact primarily, CIMIC Teams.
+First of all, whereas “traditional” CIMIC is usually employed abroad in peacekeeping missions, Ukrainian CIMIC is working in its home territory in a time of combat actions.
+Within the framework of “traditional” CIMIC, to establish liaison, avoid tensions between military and civilians, and conduct reconstruction projects are the main tasks of CIMIC Teams.
+Ukrainian CIMIC Teams do the same, but they make many additional missions.
+There are coordination and participation in humanitarian demining, negotiations with separatists about local cease-fire agreements, as well as repairing electricity lines and water stations.
+Moreover, they participate in the exchange of captive servicemen and bodies of persons killed in action, search and delivery to the burial place of killed soldiers and officers of the Armed Forces of Ukraine and other Ukrainian military formations.
+In addition, CIMIC Teams continuously search the sources and identity resources to help the affected local population (primarily in, but not limited to, Donbas) and many other urgent tasks related to the interaction between the military and civilians.
+Ukrainian CIMIC is thus the “latest version” of CIMIC and combines different CIMIC approaches from different states.
+CIMIC Teams in Ukraine working in a time of hybrid warfare use a dynamically developing system that draws on the latest experiences of Western countries in the CIMIC domain while creating its own new forms and methods.
+Ukrainian CIMIC Teams can operate in uncertainty and ambiguity; they are very flexible, ready for unpredictable measures by rivals, and often act preemptively.
+The rebirth of the Ukrainian Army has given CIMIC in Ukraine the chance to be not only a military tool but also a mechanism that in a time of hybrid warfare can show tremendous results in the realm of interaction and cooperation between the civil and military spheres.
+These actions give military commanders at operational and tactical levels an opportunity to focus on military issues and have allowed them to concentrate on planning and executing combat actions.
+Moreover, all these CIMIC activities allow the citizens of Ukraine to know more about the real situation in Donbas (fill the information gaps, prevent the spread of rumors and unreliable information) and to work as a part of civil-military relations.
+In the context of hybrid warfighting, the peaceful settlement of the armed conflict in the east of Ukraine becomes a long-term task, both politically and economically.
+As of 2019, Ukrainian CIMIC is successfully working not only on the lowest level, but also on the middle (civilmilitary interactions) and highest levels, providing a strong connection between high-level military commanders and high-level civil decision makers.
+That said, in order to work more productive, civilian decision makers at different levels must have special knowledge and education.
+They should know and understand that fighting in hybrid conditions means fighting not only on the battlefield but also in heads and brains; civil preparedness and social resilience must be in Ukrainian hearts and minds and that is why CIMIC participates in Counterpropaganda/Information operations.
+CIMIC and Counterpropaganda/Information Operations Before 2014, no CIMIC doctrine in any country indicated that CIMIC units should plan and conduct or participate in counterpropaganda and information operations.
+Although Russia used half-truths, manipulated public opinion, and spread disinformation, Ukraine continues to collect and disseminate, in real-time, facts and evidence of Russian hybrid and illegal activities in foreign territories using modern information technologies, and CIMIC Teams are playing a significant role in this process.
+CIMIC Teams are recording the results of shelling by Russian troops in areas where civilians live as evidence of the violation of the Geneva Convention by Russians.
+This information is attached to other information about Russian crimes in order to use it against Russia in the International Court of Justice in The Hague.
+The initial denial by the Russian chief commanders of the presence of Russian soldiers in Crimea allowed Russia to gain time to take over strategic positions in Crimea.
+Since the start of the Crimean campaign, Russian President Vladimir Putin has repeatedly denied that the “men in green” were part of the Russian Armed Forces, insisting they were groups of a local militia who had obtained their weapons from Ukrainians and even suggesting that they may have acquired their Russian-looking uniforms from local shops.
+As a result of these discussions, most locals agreed that Putin lied and he would surely lie again.
+One of these myths was the crucifixion of a small boy in the town of Sloviansk.
+Other Russian journalists wrote that the Ukrainian government promised every Ukrainian soldier and officer two slaves from the local Donbass population; Ukrainian military were mailing to their relatives severed heads of the local people of Donbas.5 As a part of counterpropaganda, CIMIC Teams provided modern Ukrainian newspapers and magazines to the people in the Donbas area in order to inform people about the true situation in Ukraine.
+In addition, they organized broadcasting of Ukrainian radio in order to give people an alternative source of information.
+CIMIC Teams are focused on Russian speakers in Donbas, and during conversation, negotiation, and practical help, they aim to persuade them that the Ukrainian military are not the invaders and horrible people that Russian propaganda has alleged.
+Moreover, CIMIC Teams have provided food and first aid for old and disabled people who live in a zone of conflict.6 Yet, CIMIC Teams in Ukraine have to think not only about civilians but also the Ukrainian warriors who have fought and died during this hybrid warfare.
+CIMIC Teams have delivered items to military units (camouflage nets, medicine, clothes, and other things from the civil population of Ukraine) and brought them fresh Ukrainian newspapers and letters from Ukrainian children.
+Those letters have played a very significant role for soldiers; they have felt the support of the Ukrainian nation and increased their motivation to fight.
+Another unpleasant but very important task of CIMIC Teams, one related to optics and information operations, is the task of the Mortuary Affairs Team.
+Within the framework of this task, from September 3, 2014 to December 2018, CIMIC Teams transported from the ATO area 1,464 bodies of the killed military servicemen of the Armed Forces of Ukraine, law enforcement agencies, and other military formations.
+It may seem strange at first glance, but this question will also be relevant to the sphere of counterpropaganda because Russia still denies its participation of Russian soldiers and officers in the war in Ukraine, and thousands Russian dead military men are buried by Russia as unknown people.
+By contrast, Ukraine officially declares its losses, and the dead soldiers have been buried with all military honors.
+They have conducted counterpropaganda and information operations in very tumultuous times and areas of the country.
+The Current Achievements and Future Perspectives of Ukrainian CIMIC CIMIC’s work to assist the civilian population since spring 2014 to winter 2019 has led to tremendous results.
+In addition, as a part of civil-military relations, CIMIC will integrate a system of prevention of losses among civilians.
+CIMIC Teams also continue to work actively with military-civilian administrations and units of the State Border, National Guard in order to optimize the structure of checkpoints and crossing points on the separation line.
+CONCLUSIONS The effectiveness of the military Operation of Joint Forces in Donbas directly correlates with efficiency.
+Taking into account that Donbas is highly populated, in order to preclude plentiful civil casualties, this complex operation has had to be conducted extremely efficiently and effectively.
+Future urban military operations, as the historical record supports, will not just be about urban combat.
+Because the civilian population is integral to the urban environment, urban combat must be closely and effectively coordinated and synchronized with political policy.
+To help accomplish this, military leaders must carefully plan urban combat operations in conjunction with political guidance so that, unlike the French in Algiers, military victory does not contribute to political defeat.6 Correspondingly, the success of the military operation in Donbas considerably depends on particular processes, one of which is the facilitation of the local civilian population of Donbas, as well as civil society in Ukraine on the whole, and CIMIC Teams play a vital role in these processes.
+CIMIC in Ukraine is one of best examples of robust CMR in a time of hybrid aggression.
+Establishing a two-way connection between the civilian and military realms, informing civilians about actions of all members of the security sector via traditional and new media, and protecting the civil local population all require acting ahead of time without allowing the enemy to impose its initiative.
+Currently, in addition to official newspapers and webpages in social networks, several Ukrainian generals periodically inform society about the current situation in the Donbas region and other parts of Ukraine.
+Russia will continue using propaganda, forgeries, disinformation, and numberless agents of influence, conventional and unconventional military power in order to win this war.
+In this situation, one of the main tasks of CIMIC is to unite the people and obtain their trust in a time of total distrust.
+Politicians, journalists, and public figures, all military, and civilians should combine efforts to achieve peace, economic, and social recovery of Donbas.
+CIMIC is an essential part of military efforts during hybrid warfare in war zones on strategic, operational, and tactical levels in order to prevent potential threats of hybrid aggression and achieve political and military goals.
+From the military perspective, on a strategic level, high-level decision makers have used information from CIMIC Teams in order to make effective and productive decisions and statements.
+Urban Warfare from Stalingrad to Iraq (Oxford, UK: Osprey Publishing, 2012), 215. 78 information for commanders of joint military units in order to better cooperate and coordinate their efforts.
+On a tactical level, CIMIC Teams are organized in cooperation with civilians in particular sectors; commanders and military commanders can use information about the civil environment—the attitude of the civilian population—when planning operations in order to avoid collateral damage and prevent losses among the civilian population.
+In hybrid warfare, a vigorous system of civil-military cooperation can contribute to important growth of trust among the civil population toward the Armed Forces of Ukraine as a state organization and can reduce the effect of military action on noncombatants in combat areas.
+Besides, such a system has helped to form positive public opinion about actions of military units of the Armed Forces of Ukraine in the zones of the military unit’s disposition and enlarged its ability to counter the destructive influence of the Russian Federation’s propaganda on the populace of Ukraine’s Donbas.7 CIMIC in Ukraine must give new opportunities not only for military commanders, but also for the civilian population as well as in counteracting hybrid threats.
+The next level of development should integrating the use of the Armed Forces of Ukraine and other actors of the defense and security sector into the planning process, and managing them during engagement in battles and combat operations.
+In addition, CIMIC should be interconnected with civilian ministries and organizations and represent, explain, and even defend the military’s point of view among civilians.
+Further, CIMIC should participate in post-conflict settlement , including the task of restoring the destroyed infrastructure of the region.
+THE CASE OF UKRAINE As the previous chapters have shown, Ukraine is trying to build new robust CMR in a time of hybrid warfare, and CIMIC is a very effective tool in this process.
+Russian aggression has evolved from direct military intervention in sovereign countries to “indirect measures” such as information and energy wars and cyberattacks aimed at achieving the Kremlin’s political goals.
+It is “non-military measures,” in the opinion of the Chief of the General Staff of the Russian Federation General Gerasimov, that represent the main direction of Russia’s action; according to Gerasimov, military measures start only in the crisis phase and solely to enhance and support non-military actions.8 Currently, Ukraine struggles not only for the freedom of the Ukrainian people and state independence but also for Western values, because they are also Ukraine’s values.
+It is necessary to remove the “rose-colored glasses” and understand that the threat to the West from the Russian Federation is more serious than illegal migrants or international organized crime.
+It is a deadly threat, because if the Russian ideology is not defeated, then the Euro-Atlantic territories will be in ruins and full of fugitives.9 Ukraine has gained unique experience in confronting hybrid aggression, as Ukraine became the first country in which the Kremlin tried to test this kind of aggression in its entirety.
+The world should study the unique experience of Ukraine because the world (the United States and the countries of the Euro-Atlantic community first of all) will assuredly have to deal with hybrid threats.
+This chapter therefore sets forth what Ukraine has already done to counter Russian hybrid warfare.
+HOW UKRAINE COUNTERACTS RUSSIAN HYBRID WARFARE In the fifth year of the war, Ukraine has shown the world how to withstand a much larger and more powerful adversary.
+Currently, 52 dining facilities of the military units have been changed to a new food supply system under the new menu of food.
+In addition, in the framework of democratic civilian control over the security and defense sector, the role of Minister of Defense of Ukraine, formerly a military position, is now a civilian one.
+As a result of these developments, according to the Global Firepower analytical report in 2018, Ukraine holds 29th position in the world rankings and tenth position among the most powerful armies in Europe.1 2.
+Economic Developments In the area of economics, Ukraine also has produced good results in counteracting Russian hybrid aggression.
+While the Ukrainian armed forces restrained Russian military aggression in the Donbas, Ukraine is pursuing a series of countermeasures to reduce Russia’s share of capital in Ukraine and, in fact, to reduce Ukraine’s dependence on the Russian market and Russian energy resources.
+As a central part of this effort Ukrainian producers have redirected their markets and succeeded in geographically diversifying their exports.
+For instance, in 2017, domestic exports of goods to the EU grew by 29. percent relative to 2016, which allowed Ukraine to exceed the pre-crisis level of 2013 by 4.6 percent.
+It is significant for Ukraine because when Ukrainian producers have redirected their markets they reduced Ukraine’s dependence on the Russian Federation.
+Ukraine has also established itself as one of the leading suppliers of sunflower oil and cereals in the EU market.
+In 2017, Ukraine became the largest non-EU supplier of grain to the EU market with a share of 9. percent, second only to France, which is the primary grain supplier to the EU as a whole.
+In addition, after Australia and France, Ukraine is the third largest supplier of rapeseed to the EU market—13. percent of the total import of this category—and falls below only Brazil and Canada in iron ore, with a share of 12. percent.4 Another important direction for Ukrainian trade is Asia.
+In 2017, trade with Asian countries amounted to 25. percent of Ukraine’s foreign trade turnover (30. percent of exports and 21. percent of imports), second only to its trade to the EU, which has helped to diversify the geographical spread of Ukrainian foreign trade.
+Moreover, after a long decline in trade volume, Ukrainian companies have rebuilt their positions in the U.S. market.
+In addition to increasing its trade with other parts of the world, Ukraine has also taken steps to distance itself economically from Russia.
+Besides expanding its export market, Ukraine has also successfully diminished Russian imports.
+At the same time, as a part of economic countermeasures, Ukraine has continued the practice of filing lawsuits against Russia.
+According to the decision of the International Arbitration Court in The Hague of May 2, 2018, Russia illegally expropriated the property of the plaintiffs, “Everest Estate LLC” and 17 other Ukrainian business-structures, as well as a former head of the Ukrainian bank “Privatbank,” Oleksandr Dubilet, in Crimea.
+The court ordered that Russia must compensate the Ukrainian businesses for their lost assets with interest payments, as well as cover the costs of legal services and court proceedings.
+To date, the appeal was not officially filed; at least, the lawyers of the Ukrainian side do not know anything about it.
+Thus, the second stage of the case will soon begin— the seizure of Russian property abroad in favor of Ukrainian businessmen.
+Economic sanctions imposed on Russia by Western countries have also helped Ukraine in its fight against a hybrid aggressor.
+The first sanctions imposed against the aggressor were applied after the annexation of Crimea by Russia.
+The international community has deemed the Crimean referendum and its results illegitimate and the further incorporation of the Autonomous Republic of Crimea into the Russian Federation, illegal.
+According to Bloomberg, Russian businessmen have already lost in excess of $16 billion since the introduction of the United States’ sanctions alone.
+During the four years of antiRussian sanctions, the trade relations between the Russian Federation and the EU decreased by more than $150 billion.
+Humanitarian Developments Even with military and economic countermeasures, combating Russian hybrid aggression is impossible without rallying around humanitarian considerations.
+Russia wants to use the internal tensions and contradictions of society in Ukraine and complete its conquest and occupation by the hands of local traitors.
+Currently, Ukraine is counteracting Russia in all these areas, most successfully in the area of church occupation.
+The priests of the Ukrainian Orthodox Church ] refuse to perform church ceremonies for Ukrainian patriots or people who are free-thinking and critical of events in eastern Ukraine and Crimea.
+In April 2018, President Petro Poroshenko appealed to the Ecumenical Patriarch Bartholomew with a request for Tomos, the church decree of the Ecumenical Patriarchate on the granting of autocephaly of the Ukrainian Orthodox Church.
+Thus, with the receipt of Tomos by Ukraine, Russia loses another powerful lever of influence on Ukraine, religious.
+Political Developments Another key threat for Ukraine is located in the political area.
+In order for Russia to influence foreign and domestic Ukrainian policy, Russia formed a legal political lobby in parliament and the executive branch, openly promoting and supporting the pro-Russian politicians and political parties at the local and regional levels in a time of nationwide elections.
+Russia is trying to destabilize the internal situation in Ukraine and using irredentists and proxies for these nefarious purposes.
+According to the Kremlin’s plans for power in Ukraine, during the next presidential elections and the parliamentary elections , pro-Russian politicians must gain power with the aim of resolving the conflict through favorable considerations for Russia.
+All this will be presented to the Ukrainian people and the world community as a democratic choice of the Ukrainian people, who are tired of the war and want peace and prosperity.
+But now, looking at Russia’s annexation of Crimea and the Donbas area, which are under the control of Russia, one can say that no prosperity is being achieved.
+The lack of freedom of speech, the complete suppression of the individual by the state, and the tyranny of law enforcement authorities, an absolutely dependent court are just a few vivid characteristics of Putin’s Russia.
+Russia has rich experience intruding in the political issues of Western countries.
+The main purpose of Russian political warfare is the formation of favorable public opinion of Russia in a particular state or region.
+The United States, France, Germany, Great Britain, and the Netherlands comprise a short and incomplete list of countries where Russia has used political warfare.
+Russia is using overt and covert actors and different methods in order to achieve its goals.
+Russia is also using bribery of political consultants and experts who can form the opinion of leading political forces.
+In addition, Russia is bringing into play individual politicians and informational and financial support of radical parties that profess intolerance to non-natives, advocate the idea of national exclusiveness and superiority toward other peoples or races, and idealize authoritarian methods of government.
+To counteract Russian political warfare effectively a country should explain to people the ends, ways, and means of Russian leadership.
+For instance, in May 2017, the head of the BfV publicly warned Moscow against making the political decision to interfere.7 5.
+Information Developments Accordingly, next area of battle against the Russian hybrid menace is the information space—that is to say, media wars and propaganda.
+The information war that Russia has activated against Ukraine has set new challenges in the sphere of information security.
+Additionally, Russia uses the media to discredit Ukrainian authorities, to sow seeds of discord between the authorities and the citizens of Ukraine as antagonistic actors, to discredit Ukraine on the international scene, and to legitimate of the annexation of Crimea and creation of terrorist quasi-states in the east of Ukraine.
+Moreover, Russia instigates an internal political explosion, including using tensions between Ukraine and some neighboring states.
+All of them are actively involved in attempts to counteract the emergence of Ukraine as a united, independent, sovereign state.0 In order to counteract Russia in information warfare, Ukraine has created “The doctrine of information security,” adopted by the National Security and Defense Council of Ukraine in December 2016 and signed by President Petro Poroshenko on February 25, 2017.
+As a result of the instatement of this doctrine, in 2017, two Russian social networks, “Odnoklassniki” and “VKontakte” , were closed in Ukraine.
+Certainly, the appearance of the doctrine does not mean that the information space of Ukraine will radically change.
+Moreover, as experience shows, the information war, like any other, depends largely on the financial component.
+If Ukraine, in addition to adopting the doctrine, allocates financial resources to implement it, then Ukraine will have a chance to win on the information front.
+In the meantime, the obvious positive is that Ukraine has begun to understand that information warfare is very important.
+Cyberspace Developments A particularly important area of informational confrontation with the aggressor remains cyberspace.
+Furthermore, Russian cybertroops have impeded the operation of large business companies, energy and transport infrastructure, and banking institutions to weaken the Ukrainian economy.4 One of the most dangerous of these challenges is protecting the Ukrainian democratic electoral process, at all stages, from Russian cyberattacks.
+In 2019, presidential and parliamentary elections are planned in Ukraine, and Russia has already begun a largescale information campaign aimed at influencing the results of these elections; here, the cyber component of the information operations plays a key role.
+The peculiarities of this information operation are likely to include manipulating social sentiment and shaping the behavior of potential voters, thereby providing the Kremlin the necessary changes in the political course of Ukraine to Russia, not to the EuroAtlantic direction.
+Ukraine is preparing for such developments in advance and developing preventive decisions and actions.
+According to the Security Service of Ukraine, this attack was being prepared for both cyber-intelligence activities and cyber-sabotage, particularly against objects of critical national infrastructure.5 7.
+Diplomatic Developments The diplomatic area is another very significant area in which Ukraine must counteract Russian hybrid aggression.
+Ukraine intensifies the processes of European and Euro-Atlantic integration, a legally established foreign policy course designed to bring Ukraine back to a united Europe.
+With attention to these directions, since June 11, 2017, Ukrainian citizens have been able to travel to the countries of the European Union without visa documents.
+The provision of visa-free travel by the EU has a historic significance for Ukraine and demonstrates the final break of Kyiv with the post-Soviet past.
+Despite all Moscow’s efforts to split the Allied countries that support Ukraine, these Western countries continue to implement a policy of countering the aggressor.
+A vivid example of this steadfastness is the prolongation of sanctions imposed on Russia.
+The European Union has repeatedly prolonged anti-Russian sanctions over the past years.
+The Russian delegation did not participate in the PACE meetings in 2018; it was therefore not able to achieve the lifting of restrictions imposed in 2014 against it.
+The clearest example of this contribution is the use of diplomacy to ensure the supply of American lethal weapons to Ukraine.
+The American armaments have already arrived in Ukrainian territory, and the soldiers of the Armed Forces of Ukraine have begun to familiarize themselves with the equipment.
+The crisis of the modern international environment and the presence of direct and hybrid threats to the sovereignty and territorial integrity of Ukraine require the continuation of this hard work.
+Developments in Special and Law Enforcement Services The last area Ukraine is leveraging to counteract Russian hybrid warfare, and by no means the least important, is the activity of special services.
+The special services of Russia were heavily involved in planning, organizing, and implementing a set of measures to create the necessary conditions in Ukraine at the “pre-war” stage.
+Their role remains significant during the active phase of the hybrid war against Ukraine.
+For Russia, the level of readiness to resist the object of aggression is vitally important; it is therefore the main task of the aggressor to reduce the level of resistance within the country it is targeting.
+Thus, Russia needs intelligence information regarding the situation in Ukraine in the area of national security and defense, combat capability of the Ukrainian Armed Forces, etc.
+Russian intelligence services had a sufficient number of sources of information to influence the situation in the security and defense sectors of Ukraine, which provided conditions for influencing state decisions, as when Ukraine did not resist Russian troops at the time of Crimea’s annexation.
+According to the Kremlin’s plans, Russian special services have focused on exaggerating the slightest mistakes of the Ukrainian authorities through the pro-Moscow media and purchased politicians in Ukraine.
+The idea is that, systematically, broadcast by broadcast, Russia will create a picture of total “hopelessness” and “betrayal” until the people, tired of deception and disappointment, “pumped over” with propaganda, will support another coup and will change the development vectors of the country.
+As a result, Theresa May, the Prime Minister of Great Britain, accused Russia and expelled 23 Russian diplomats and their families from the country.
+As a result of a special operation of Ukrainian special services, the man who organized this murder was detained.
+Irrefutable evidence of the involvement of Russian special services in the organization of this murder has been obtained.
+In addition to Babchenko, the organizer of the assassination attempt planned to kill 30 more men and women in the territory of Ukraine.
+Russia denies the involvement of Russian special services in this plot and denies Russian interference in the affairs of another sovereign and independent state.
+CONCLUSIONS The goal of Russia is the total destruction of the Ukrainian state as a subject of international law and as a geopolitical actor.
+This hybrid warfare has several components, but the most important and dangerous for Ukraine are 1) armed aggression and 2) humanitarian aggression.
+The purpose of humanitarian aggression is the destruction of the national identity of the Ukrainian population and the destruction of its will to resist.
+The physical seems little more than the wooden hilt, while the moral factors are the precious metal, the real weapon, the finely-honed blade.
+Three hundred Spartans, who preferred death to disgraceful humiliation, are one of the vivid examples of such identity.
+However, if a country loses its identity, it will never recover and never again become an independent state.
+If humanitarian aggression is successful against any state, then the state simply disappears.
+Consequently, Ukraine continues to need a comprehensive approachnot only strengthening the defense capacity of the country but also providing a robust and adequate humanitarian policy, which will become an instrument against the destruction of Ukraine’s identity.
+In addition, it is necessary to repel and counteract Russia in other areaseconomic, political, information, cyber, diplomaticand actively engage the special services in this struggle.
+In confrontation with Russia, Ukraine can survive only when it conducts round-the-clock and purposeful work in all these areas.
+Western countries must study the experience of Ukrainenot only helping Ukraine but also relying on the Ukrainian experience to develop its capabilities, forms, and methods to counter Russian hybrid warfare.
+SUMMARY, RECOMMENDATIONS, AND CONCLUSIONS As the preceding chapters have shown, despite the Russian Federation’s use of intimidation, subterfuge, and irregular combat to annihilate Ukraine as an independent geopolitical actor, the nation has resisted at great cost and in a kind of martyrdom for the West.
+Ukraine has been able to defend itself with mechanisms to negate the most aggressive manifestations of the Kremlin’s hybrid warfare, thereby as a David sustaining warfare with a much stronger Goliath.
+One of these essential means of defense has been Ukraine’s efforts to build new robust CMR in a time of hybrid warfare.
+In this respect, CIMIC as conceived in NATO countries is a very effective tool in this process, allowing Ukraine to continue its resistance.
+Drawing upon Ukraine’s experience in counteracting the Russian campaign of revanchism and aggression, this chapter reviews the current situation in Ukraine and gives an overview of its regional implications, then provides policy recommendations for Ukraine, NATO, and the EU that will be useful to Ukraine and other states and allies engaged in the process of countering Russian hostile hybrid actions.
+In the context of the transition from an armed confrontation in the Donbas region to a state of protracted conflict, the Kremlin’s main efforts are focused on undermining these basic principles of Ukrainian nationhood.
+To that end, the internal destabilization and discredit of Ukraine and the gradual weakening of Ukraine and its military strength are today the main goals of the antiUkrainian policy of Russia.
+Nevertheless, in the modern world this task is impossible to achieve without partners and allies.
+At the same time, Ukraine is not the only target for the current Russian Federation’s leadership.
+NATO and the EU should also heed the warning about Russian hybrid warfare and how to counteract it.
+Ukraine, as a potential NATO and EU member, could provide for both organizations the full spectrum of effective counteracting measures.
+NATO and the EU should change their activity to enhance counter hybrid warfare capabilities.
+CURRENT APPROACHES TO RUSSIAN IRREGULAR AGGRESSION Unfortunately, Ukraine is not the only country that has been targeted by Russian aggression in its many startling forms: Russia continues to intervene in the internal affairs of numerous foreign nations.
+Most prominent in this respect, Russian intervention in the election process in the United States, Netherlands, France, and Germany can be regarded by the international community as an act of aggression toward these countries.
+The Russian Federation continues to export hostile irregular, concealed warfare to destroy the European anti-Putin coalition and unity and stability in Europe as well.
+NATO and the EU understand these threats; Ukraine is a vivid example what could happen if a state does not react immediately and forcefully to hybrid war stratagems.
+Thus, NATO and the EU focus on resilience as a key concept of countering hybrid threats; that is to say, these organizations subscribe to Clausewitz’s classic will to defend themselves by maintaining a sense of national and moral identity in in these combatant populations.
+For the North Atlantic Alliance, resilience is primarily related to the principles of military cooperation and deterrence to assure collective defense against a variety of threats either obvious or concealed.
+As a result of Russia’s large-scale and diverse aggressive actions across the international arena, however, NATO allies struggle to increase the resilience of its treaty signatories in both the military and civilian spheres.
+To be sure, this aspect of defense has merely revived an old factor of strategy, which had been obscured in counterterror campaigns since 9/11 and the amnesia that afflicts the West relative to the epoch of total war.
+In this respect, the example of Ukraine under attack since 2013 offers NATO allies an example of toughness and combat spirit in the face of overwhelming force.
+Meanwhile, the EU has used the concept of resilience in the context of social preparedness versus combat power in the conventional sense.
+The EU emphasizes rightly good governance, human rights, and development of states.
+Yet, there has recently been an attempt to develop a security component of the EU, as well as a tendency toward expansion of cooperation with NATO, in particular, in order to counter the hybrid threats in the information sphere.
+POLICY RECOMMENDATIONS Hybrid threats to peace and security in Central and Eastern Europe are an increasing problem across the globe; containing Russian and other possible hybrid aggression will require the efforts of many nations effectively countering them.
+These recommendations focus on reducing the risks associated with Russian hybrid warfare for Ukraine, NATO, and the EU, and for global security in the world as well.
+Ukraine For the past five years, Ukraine has successfully withstood Russian hybrid warfare at great cost to itself and as a challenge to the statecraft of the Western democracies.
+The latter are themselves under assault by the unseen invader via the Internet, suffocated in a ceaseless barrage of Russia Today balderdash about state, society, their economies, and culture.
+In order to protect Ukraine from Russian aggression in future, it is necessary to further develop security governance on the Western model for counteracting these threats.
+It is impossible to defend Ukraine’s national interests from hybrid threats solely via military methods.
+Coupled with military means, a significant role should be therefore devoted to non-military meanseconomic, humanitarian, political, informational, diplomatic, cyber, and other realms.
+Robust CMR increases civil preparedness, societal resilience, defense spirit, and persistence of society.
+It provides the will to fight even if the conditions for fighting are not favorable.
+That is why destroying truly strong and robust CMR is the one of the first tasks of the adversary, especially, in hybrid warfare.
+The successful struggle of the Ukrainian state and the Ukrainian people against Russian aggression requires, first of all, the unity of the Ukrainian nation, the preservation of internal stability, and the improvement of all forms and directions of state policy.
+This complex task, which ensures the strength of the Ukrainian state from the inside, must be pursued simultaneously with the maximum possible activity in the foreign policy arena, as well as with the development and further strengthening of the defense capabilities of our country.
+Under these conditions, CMR in Ukraine should focus on promoting the unity of the Ukrainian nation.
+Building and retaining such relations in a time of hybrid warfare is a hard task, but without such robust relations, Ukraine will not achieve unity of society, and CIMIC is one of the best mechanisms to reach this goal.
+Currently, the leadership of NATO and its leading allies understand the necessity to counter hybrid conventional and nuclear threats.
+The present efforts, from a Ukrainian perspective, however, are not sufficient.
+NATO should continue to focus on developing the resilience and readiness of its military forces to resist hybrid threats as well as improving the decision-making process, on a constitutional basis, in order to reduce the time required to react quickly to these threats.
+In addition, it is necessary to increase the number of Very High Readiness Joint Task Forces , and to expand the number of multinational military exercises aimed at achieving a complete interoperability of NATO units, and actively involving Ukrainian military units in these multinational exercises.
+Additionally, NATO states should meet their commitments to finance defense needs at 2 percent of the states’ gross domestic product.
+Furthermore, after cementing Ukrainian’s path to membership in NATO, Ukraine and NATO should create a Membership Action Plan for several years, and CMR must be a significant part of this plan.
+NATO, as a political-military organization, fully understands the necessity of robust CMR, especially, in the time of hybrid warfare.
+Overall, the relationship between NATO, the EU, and other international organizations and between the civilian and military spheres should be reviewed in the direction of their strengthening and improvement.
+The new strategy should have a more active and offensive character; it is impossible to win this war by sitting alone on the defensive.
+Moreover, the concept of resistance should be improved; NATO members should identify mediumand long-term goals and tools for achieving these goals.
+This document prescribed of 22 actions.5 Nonetheless, the EU should further improve its security architecture to include strategic communication, cooperation between civil and military spheres, myth-busting, and preventing of interference in the electoral processes of the EU states.
+In addition, the EU should continue and perhaps even tighten its sanctions policy against Russia, a state that only understands the language of power.
+Current hybrid threats require comprehensive responses from all EU members, strong cooperation between all actors, and synergy of all efforts in this struggle.
+It is necessary to ensure proper financing of measures to respond to hybrid threats and to increase and control the efficiency of financial expenditures.
+Russia spends a great deal of money on bribery of politicians in European and other countries and on propaganda and the formation of Eurosceptic and pro-Russian opinions.
+In these programs, it is necessary to explain in simple words and images how the Kremlin factory of disinformation and propaganda works and what results can be obtained if these threats are ignored.
+These specialists will not only be able to assist countries and organizations in shaping measures to combat hybrid aggression but also to carry out appropriate educational activities to inform the target audiences – leaders of countries, organizations, and representatives of various segments of the population while protecting national interests in a hybrid war.
+Moreover, nongovernmental organizations should be actively involved in the fight against hybrid threats.
+Passive observation of hybrid threats will not lead to any positive results.
+The problem of hybrid threats from Russia or other countries will not be resolved by themselves.
+Thus, to counter this problem, the EU should involve all the available forces and means in this process and act in cooperation with all states and actors.
+Putin and his entourage are trying to build a system of international relations in which they and their country will have a place in the international order that corresponds to their view.
+Currently, Putin partially manipulates the European states and exploits the reluctance of individual countries and their leaders to take necessary but important and unpopular decisions to enhance military budget and counteract Russian hybrid warfare.
+This manipulation is accompanied by the lack of critical vision, corruption, and helplessness of the European elites.
+In addition, this is accompanied by the reluctance of the majority of NATO and the EU populations, who have lived for decades without a war on their territory, to change their consumer lifestyle or to recognize the hybrid threat from Russia.
+It is possible to combat this threat now by implementing the recommendations described in this thesis, but they will not necessarily be sufficient in the future.
+Hybrid threats are persistent and unpredictable; that is why people have to understand the consequences of these threats.
+Firstly, NATO and the EU countries need to understand that the war has begun.
+It is a hybrid war, but a war nonetheless, one that has already come to Europe and the United States in the 21st century.
+It is up to the European and other peoples who are the targets of Putin’s regime to decide what they want; nobody will make this choice for them.
+Secondly, it is necessary to understand that the nature and the main cause of this hybrid war is Putin’s regime, which, thanks to the disinformation, militarization of society, propaganda, and suppression of the opposition and freedom of speech in the Russian Federation, has the support of Russian society in Russia itself and among the Russianspeaking population beyond its borders.
+Much of the Russian population supports Putin’s idea of revenge and revision of the established world order.
+This word comes from the Russian word mrakobesie , and pobedibesie is the obscurantism of the victory.
+The phenomenon of pobedibesie involves using the symbols of victory in the war and the attributes of the war in the context of other manifestations of Russian culture, incompatible with the memory of the dead.
+Agreement between Ukraine and the Russian Federation on the Status and Conditions of the Black Sea Fleet of the Russian Federation on the Territory of Ukraine, Pub.
+Coats, Daniel R Worldwide Threat Assessment of the United States Intelligence Community.
+Decision dated December 29, 2016 “On the Doctrine of Information Security of Ukraine,” Pub.
+Kohn, Richard H The United States Military under the Constitution of the United States, 1789–1989.

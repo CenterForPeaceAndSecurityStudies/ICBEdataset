@@ -1,0 +1,12 @@
+Custom link text can only contain alphanumeric characters and the \u0026#39;-\u0026#39; and \u0026#39;_\u0026#39; characters.\u0026lt;br \/\u0026gt;2.
+Custom link text must not exceed 40 characters in length.\u0026lt;br \/\u0026gt;3.
+Custom link text can contain lowercase and uppercase characters and it is case-sensitive.
+You can save an item by using the \u0026#39;\u2729 Save\u0026#39; button.
+You cannot save more items until you visit the {SAVED_ITEMS_TMX} page and remove some items.
+If this is a public computer, choose \u0026#34;Select All\u0026#34; and then \u0026#34;Remove\u0026#34; to clear your Saved Items before you leave the workstation.
+Click to remove this item\"",\""SITE_KEY_clickToSave\"":\""Click to save this item\"",\""SITE_KEY_close\"":\""Close\"",\""SITE_KEY_collection\"":\""Collection\"",\""SITE_KEY_collectionPaginator\"":\""Collections {begin_index, number}-{end_index, number} of {total_items, number}\"",\""SITE_KEY_collections\"":\""Collections\"",\""SITE_KEY_createAccount\"":\""Create account\"",\""SITE_KEY_download\"":\""Download\"",\""SITE_KEY_downloadEdge\"":\""Download Microsoft Edge\"",\""SITE_KEY_enablejavascriptinyourbrowser\"":\""To experience full interactivity, please enable Javascript in your browser.
+If you are not logged in and this is a public computer, choose \u0026#34;Select All\u0026#34; and then \u0026#34;Remove\u0026#34; to clear your Saved Items before you leave the workstation.
+You can open this web page in a browser for later reference, or post it somewhere to share.
+Please try different search terms\"",\""SITE_cdm_search_KEY_youvesearched\"":\""You\u0026#39;ve searched:\"",\""SITE_cdm_search_gridView\"":\""grid view\"",\""SITE_cdm_search_listView\"":\""list view\"",\""SITE_error_KEY_authentication_failed\"":\""The username or password is invalid\"",\""SITE_error_KEY_enterADate\"":\""Enter a date\"",\""SITE_error_KEY_enterAnEndDate\"":\""Enter an end date\"",\""SITE_error_KEY_error_0\"":\""Error\"",\""SITE_error_KEY_error_1\"":\""The collection \u0026#34;~CDMERRORCOLLECTION~\u0026#34; cannot be displayed.
+Log in and refresh the page to access restricted or unpublished collections.
+Information includes the lot owner, lot location, and the date when the lot was purchased.

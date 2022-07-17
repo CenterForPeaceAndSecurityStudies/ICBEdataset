@@ -1,0 +1,146 @@
+---
+title: "corpus download and clean"
+output: html_document
+date: '2022-05-16'
+---
+
+```{r setup, include=FALSE, eval=F}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+# library(rvest)
+# urls = paste0("http://www.icb.umd.edu/dataviewer/?crisno=",1:487)
+# loose_list <- list()
+# for(i in 1:length(urls)){
+#   try({
+#     df <- data.frame(text=urls[i] %>% read_html %>% html_text )  %>% 
+#       mutate(url=urls[i]) %>%
+#       mutate(crisno=i)
+#     loose_list[[file]] <- df
+#   })
+# }
+# cuban_missile_loose <- bind_rows(loose_list) %>% 
+#   group_by(url) %>%
+#   summarise(text=paste(text, collapse="\n"))  %>% screen_rex()
+# dim(cuban_missile_loose) #958
+# cuban_missile_loose$short <- NA
+
+fromscratch=F
+if(fromscratch){
+  urls <- readLines("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/sheet1.xml.rels")[[2]] %>%
+    str_replace_all("Target=","\n") %>%
+    str_replace_all("TargetMode=","\n") %>%  
+    str_replace_all("Type=","\n") %>%
+    str_split("\n") %>% unique() %>%
+    as.data.frame() %>% setNames("V1") %>% 
+    filter(!V1 %>% str_detect("hyperlink|External|Relationships")) %>%
+    mutate(V1 = V1 %>% str_replace_all('\"','') %>% trimws() )
+  urls$V1 %>% sapply(FUN= function(x) try({ drive_download(x) })  )
+  #Google drive download
+  library("googledrive")
+  #https://drive.google.com/open?id=186JCTWqxQCCRBbLl0JDzeFEpJxijoyoB 
+  setwd("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/crisis_texts/")
+  getwd()
+  temp <- drive_download(file="https://drive.google.com/open?id=186JCTWqxQCCRBbLl0JDzeFEpJxijoyoB" ) # type = "csv",
+}
+#Nope the original csv files are broken. I'm going to have to reparse them from the website
+#icb_long  %>%
+#  dplyr::select(sentence_hash) %>% distinct() %>% View()
+#There are 4 not in the icb long #397 403 451 459 474
+setdiff(1:476, icb_long %>% dplyr::filter(varname=="crisno") %>% dplyr::pull(value) %>% unique() %>% as.numeric() %>% sort())
+icb_crisis_summaries_20150604 <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/icb_crisis_summaries_20150604.csv")
+icb_crisis_summaries_20150604_handadditions <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/icb_crisis_summaries_20150604_handadditions.csv") #this gets us 1 to 455
+icb_crisis_summaries <- bind_rows(icb_crisis_summaries_20150604,icb_crisis_summaries_20150604_handadditions) %>%
+  mutate(background = background %>% stringi::stri_enc_toutf8(validate=T)) %>% #there are non utf-8 characters
+  mutate(text = text %>% stringi::stri_enc_toutf8(validate=T)) 
+
+
+
+
+#459 is in ours but not the original
+#397 403 451 459 there are 4 crises is in the text that aren't in our codings
+setdiff(icb_crisis_summaries$crisno %>% unique(), icb_long %>% dplyr::filter(varname=="crisno") %>% dplyr::pull(value) %>% unique() %>% as.numeric() %>% sort()) #
+#And none that our in our codings that aren't in the text
+setdiff(icb_long %>% dplyr::filter(varname=="crisno") %>% dplyr::pull(value) %>% unique() %>% as.numeric() %>% sort(), icb_crisis_summaries$crisno %>% unique() ) #
+
+```
+
+```{r}
+
+
+#Note I had to manually recreate the 001 crisis because it was just a dump of a large text file containing first 200ish crises
+files <- list.files(path = "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_corpus/data/in/crisis_texts/", pattern = NULL, all.files = FALSE,
+           full.names = FALSE, recursive = FALSE, ignore.case = FALSE, include.dirs = FALSE) 
+
+filed_df <- data.frame(file=files) %>%
+            mutate(filetype=NA) %>%
+            mutate(filetype=ifelse(file %>% str_detect("pdf$"), "pdf", filetype)) %>%
+            mutate(filetype=ifelse(file %>% str_detect("txt$"), "txt", filetype)) %>%
+            mutate(filetype=ifelse(file %>% str_detect("docx$"), "docx", filetype)) %>%
+            mutate(text=NA)
+n=nrow(filed_df)
+path <- "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_corpus/data/in/crisis_texts/"
+library(pdftools)
+library(textreadr)
+for(i in 1:n){
+  if(filed_df$filetype[i]=="txt"){
+    filed_df$text[i] <- path %>% paste0(filed_df$file[i]) %>% readLines() %>% paste0(collapse="\n") %>% str_replace_all("\n",' ')
+  }
+  if(filed_df$filetype[i]=="docx"){
+    filed_df$text[i] <- path %>% paste0(filed_df$file[i])  %>% read_docx() %>% paste0(collapse="\n") %>% str_replace_all("\n",' ')
+  }
+  if(filed_df$filetype[i]=="pdf"){
+    filed_df$text[i] <- path %>% paste0(filed_df$file[i])  %>% pdftools::pdf_text() %>% str_replace_all("1\n|2\n|3\n|4\n",' ') %>% paste0(collapse="\n") %>% str_replace_all("\n",' ')
+  }
+}
+
+#Some had both a background and pre-crisis
+filed_df_clean <- filed_df %>%
+                  mutate(text = text %>%
+                    str_replace_all("\\(see Background and Pre-crisis, Case #7\\)","(see Case #7\\)")  %>%  #replace one parenthetical that breaks things
+                    str_replace_all("see Background to","")    %>%
+                    str_replace_all("Summary of World Broadcasts","SWB")  %>%
+                    str_replace_all(
+  "BACKGROUND|PRE-CRISIS|Background and Pre-Crisis:|Background:|Crisis:|Sources:|References:|Summary:|Summary|Background and Pre-crisis|Background |Background |Pre-crisis |Sources |Summary |Precrisis: |Crisis: |Bibliography","\n")  %>% 
+                    str_replace_all(" Crisis On the morning of","\nOn the morning of")  %>% 
+                    str_replace_all("Crisis A crisis for Pakistan","\nA crisis for Pakistan") 
+                  ) %>% 
+                  mutate(text = strsplit(as.character(text), "\n")) %>% 
+                  unnest(text) %>%
+                  mutate(text_nchar=text %>% nchar() )  %>%
+                  group_by(file) %>%
+                    mutate(i=row_number()) %>%
+                    mutate(crisis_title=text[1] %>% trimws() ) %>%
+                    mutate(references=text[max(i)] %>% trimws() ) %>%
+                    filter(i!=1) %>% #remove the title
+                    filter(i!=max(i)) %>%  #remove the references
+                  ungroup()  %>%
+                  add_count(file) %>%
+                  mutate(text=text %>% trimws() %>%
+                    str_replace_all("^ {0,}: {0,}","") %>% 
+                    trimws()
+                    ) %>%
+                  filter(text!='') %>%
+                  mutate(crisno=file %>% str_replace_all("[^0-9]","") %>% substring(1,3) %>% as.numeric())
+                  
+filed_df_clean$file %>% table() %>% table()
+
+icb_corpus <- filed_df_clean %>%
+  arrange(crisno, i) %>%
+  group_by(crisno) %>%
+  summarise(
+    crisis_title=crisis_title[1], 
+    text=text %>% paste(collapse=" "),
+    references=references[1],
+    file=file[1]
+  )
+
+icb_corpus %>% saveRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_corpus/data/out/icb_corpus_V1.0_May_16_2022.Rds")
+
+#icb_corpus$text %>% writeLines("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_corpus/data/in/test.txt")
+
+```
+
+
+
+

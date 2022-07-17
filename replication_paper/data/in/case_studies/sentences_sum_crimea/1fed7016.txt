@@ -1,0 +1,243 @@
+ It derives the equilibrium states under various assumptions about Western and Russian preferences over outcomes . The equilibrium states are based on various assumptions on the West and Russia's preferences .
+ The “paths of their generation’s generation,e., the sequences of strategic choices made by each side, are also explored . It casts light on the structure of incentives guiding behavior.
+ Incomplete information on preferences prevents derivation of a unique prediction of the outcome of the crisis . The analysis enables us to substantially narrow the range of possibilities .
+ This interaction involves tacit negotiation between leaders in the West and Russian President Putin as various policies, and policy changes, are implemented .
+ The revised version of the theory of moves formulated by Willson offers a convenient framework for analyzing the strategic interaction between the main actors in this crisis . The revised versions of Willson's theory offer a convenient way to analyze the situation .
+ It uses the policy alternatives for those actors to form a matrix of ‘states’ Each actor has a preference ordering for each actor .
+ The crisis began when one actor changes its policy unilaterally, thus moving play into a new state . We identify an "initial state" from the history of the crisis .
+ The “negotiations’ (implicit in this case) continue with actors having alternating turns to move .
+ The strategic interaction ends after two consecutive passes, which represents an agreement by the main actors to accept the current state as the ‘ultimate outcome’ of the interaction, or after reaching a finite limit on the total number of moves .
+Given the policy alternatives for the actors and their preference orderings over the possible outcomes, we obtain predictions from the model about the UO . Both of which can be compared to the unfolding events in the crisis .
+ incomplete knowledge of the preference orderings prevents derivation of a unique prediction of the UO . The analysis enables us to narrow the range of possibilities considerably .
+ The original and revised versions of ToM differ in their specification of the rules governing the interaction between the players . The first and second versions of the ToM were released in 2009 .
+ In the original version by Brams, one “pass’ by any player after the initial move terminates play . In the first version, Brams is one ‘pass” by any players after the first move .
+ Willson’s revised version allows a player to reverse moves, impose and later retract sanctions . The original version more richly models the give-and-take of the strategic interaction in the Ukrainian crisis than the original version .
+ The Willson formulation can accomodate more than two policy alternatives for each actor, and they need not necessarily have the same number of alternatives . In addition, unlike the original version of ToM, the Willson formulations can accomeodate a number of options .
+As in all modeling exercises, we want to adopt rules of play that fit the possibilities in the situation . As in all models, we need to adoptrules of play.
+ Zeager, Ericson, and Williams compare the two versions of ToM more thoroughly . The two versions are different .
+ Kilgour and Zagare offer examples of related work within the ToM framework . Brams and Simon offer examples.
+ Gilboa provides a thoughtful review of the ToM "project" from the perspective of a prominent game theorist . Gilboa's review of ToM “project’s” is based on a recent study by a leading game theorist.
+ The UO of the strategic interaction between the West and Russia in the revised version of ToM is very robust to changes in the preference orderings of the two sides over possible outcomes .
+ The UO involves Western economic sanctions together with active destabilization of the Ukrainian state by Russia by Russia . For five of the eight plausible scenarios that we consider, we consider each associated with a different configuration of preference orderings .
+ In two other scenarios, the UO has a business-as-usual policy (neither economic sanctions nor military assistance) by the West . Russia has active destabilization by Russia .
+ In the remaining scenario, the UO involves Western economic sanctions in the face of an invasion of Ukraine by Russia by Russia . The UO is expected to include Western sanctions.
+ The most common UO emerges for a wide range of scenarios . In the other plausible scenarios, only one of the parties ultimately settles on a different policy .
+ Section 2 specifies in very broad terms the policy alternatives for the actors . Section 2 describes the possible outcomes (situations on the ground) of each pair of policies .
+ Section 3 identifies the initial state for the analysis . The UO investigates the incentives and constraints guiding the actors along the equilibrium paths to those outcomes .
+ The Ukrainian leaders would rank the possible outcomes of the interaction, the UOs that emerge from our analysis . The UOs could influence the details of the orderings of the main actors, and thus, perhaps, the ultimate resolution of the crisis .
+ Policy alternatives are described in very broad terms, hoping to only capture the essentials of what matters to the parties involved . To keep the analysis tractable, the analysis is tractable.
+ Even this small set of policies strains the information we have on the preferences and motivations of major actors . More policy choices would go well beyond what we can claim to know .
+ A consistently pursued ‘policy pair’ frames the situation on the ground, if not fully determining, outcomes for the Ukrainian people and the economies of both Russia and the West .
+ Each side has preferences which, given the constraints embedded in the structure of the model, will drive the policy choices of each side . It is over these potential outcomes, resulting from their policy choices, says the author .
+ History, culture, and ideology of course play a deep role in informing and molding the perception of costs and benefits in each of these dimensions .
+For Russia, the policies are listed above in order of increasing economic costs for a given strategy of the West . For Russia, they are listed below in order to increase costs for the West, although changing Western policies can alter that ordering .
+ Western policy is ordered for a fixed Western policy, in terms of increasing geopolitical benefits . Western strategies can be altered by changing Western strategies, according to the UN .
+ Agents’ preferences over trade-offs across dimensions must be considered to complete that ordering . These conditional orderings along a single dimension cannot uniquely determine the ordering .
+ Russia’s underlying policy motive appears to be geopolitical, subject perhaps to economic constraints . Russia's underlying motive, however, is perhaps to be economic constraints, according to the author .
+ That overriding fear drove the rapid military seizure and subsequent annexation into the Russian Federation of Crimea and Sevastopol, a prior move .
+ Russia is seeking to alter current international institutional arrangements, norms, and configuration of power/influence . Russia is a “revisionist power’s’ seeking to change current international institutions, norms and power-influence.
+ Russia’s evaluation of, its preference ordering over, is feeding into Russia's evaluation of its policy choices . These motivations inform trade-off trade-offs, feeding into Russian's evaluation. Russia's choice of policy choices together with those of the West, says
+ It is not completely clear how these policy motivations, and the policies pursued, interact with the West in determining Russia’s full preference ordering over outcomes “on the ground,” an issue .
+ Western policies are also weakly ordered in terms of increasing economic cost, with “military assistance’s” adding to the cost of sanctions even if it doesn’t go as far as active Western combat participation .
+ The West's geopolitical implications for the West are very different, says David Frum . But their geopolitical implications are different, he says . Frum says .
+ The West's orderings for the West along each single dimension must be extended to a complete ordering over the nine ‘states’ resulting from the strategy pairs . The West’s orderings are based on the “states”
+ It is not completely clear how policy motivations interact with the policy choices of Russia . It's not clear how these general policy motivations interacted with the Russia policy choices .
+ This will allow us to explore the possible equilibria of this strategic interaction, and highlight critical factors in their generation . This will let us explore the possibility of the possible Equilibria .
+ Each West-Russia policy combination can be associated with a set of physical conditions, of sociopolitical, economic, and military characteristics resulting from these maintained policies .
+ Russia and the West are considering the situation as a final outcome . In Appendix 5.1, we elaborate the consequences in each of the nine potential outcome states . The consequences are based on those consequences, of both Russia and West .
+ Potential rankings from highest, “9, to lowest, ‘1,’ are presented in number pairs . N is the ranking of the West and m is the Russian ranking .
+ Constructing these ordinal rankings of the nine potential ‘states of the world’ is a crucial first step in our analysis . The rankings are based on the complex interactions of policy combinations .
+ It requires careful consideration of all the ramifications of each actor’s policy as it unfolds in the face of the other actor .
+ We analyze outcomes for different, more likely counterfactual, preferences in order to explore the robustness of our results . We also analyze outcomes of the interaction to explore how different preferences can alter the equilibrium outcome .
+ Russia has launched a cross border invasion of Ukraine, albeit with limited objectives . The West has added direct military support, short of combat forces, to Ukraine . Russia continues to impose significant economic sanctions on Russia .
+ The ranking for some of these terminal states is clear, for others it is not . For others, the ranking is not clear .
+ A number of different ToM-matrices, each reflecting a different preference ordering of one or both of the decisive parties, will be analyzed .
+ The final outcome of the negotiations is yet to be determined . This will allow us to explore more fully how outcomes might depend on preferences, the potential paths that the “negotiations’ might follow, and the ability of ToM analysis to aid understanding of,
+ Players alternate their moves, with a player at her turn choosing either to maintain her current policy stance or to alter those polices . Subsequently, players alternate their move, with the player at the turn choosing to maintain the current policy.
+ Play ends after 2 consecutive passes, representing an agreement to accept the current state as final . The UO or after the players have collectively exhausted a fixed, finite number of moves .
+ ToM always gives a single UO, independent of initial state and first mover, in fewer than six moves . In the payoff configurations that we consider, ToM gives a one UO in less than 6 moves .
+This is a consequence of the specific set of preferences that we find plausible . This is a result of the particular set of preference that we found plausible, says the author .
+ Willson proves the existence of a very loose, finite bound on the number of moves for convergence to either a fixed UO or alternating UO, depending on first mover and parity of the number.
+ 6 Zeager, Ericson, and Williams discuss such modeling in depth . Note that our 6-move horizon is similar to the horizon we find necessary to solve sequential-move games .
+ The choice of an initial state for the analysis is somewhat arbitrary, but some points allow us to formulate more interesting questions than others do . Some points let us to think about what we think about .
+ Crimea seizure since 18 March 2014 formally incorporated into the Russian Federation as a constituent member . The seizure of Crimea has now been considered as irreversible in the context of the current crisis .
+ Russia would never move from IN despite any Western actions/ strategies within the scope of those we are considering . The Russian government is considering a move to the U.S. It is not clear whether Russia would move from In .
+ Russia actively engages in destabilization of Ukraine through fostering, sponsoring, and arming unrest in the Ukrainian east among the Russian ethnic population and those who lost influence with the fall of the Yanukovich regime .
+ DS strategy involves the insertion of leadership, weapons, finance, and mercenaries on the side of those opposed to the new “Maidan’s government, raising the hope, indeed expectation, that Russia would again ‘do a Crimea’ and annex them into the Russian
+ Russia is also maintaining an active readiness posture for quick invasion . It is worth noting that, in this state, Russia is still maintaining a readiness posture .
+ The West chose SN, as the model predicts from the preferences outlined above . In fact, the West decided to choose SN .
+ The game-tree analysis can be used to evaluate whether such a move is optimal, as indeed it is in this case . Could this be a long run outcome of the 7th game .
+ A major purpose of this analysis is to explore those questions under the ToM assumptions of agent farsightedness and rationality . The analysis will focus on those questions of agentfarsightingness, rationality .
+ To provide context, we include a time-line of key events in Appendix 5.2.2 . We also provide context for key events .
+ The ‘payoff’ matrix is presented in the ordinal “ payoff” matrix labelled “Scenario 1’ below . We begin with what we consider one of the most plausible rankings of the outcomes .
+ The rankings do not reflect the preferences of the Ukrainian state or people . Those only have an impact to the extent they are considered by major actors, Russia and the West .
+ The rankings are predicated on the assumption that Ukraine, or whatever part of it remains out of Russian control, continues to pursue a Western orientation . But the West does not totally abandon independent Ukraine .
+ The West’s preference ordering reflects an aversion to the application of sanctions, except as a response to active Russian destabilization or invasion of Ukraine . The West is even stronger aversion to providing military assistance, unless Russia invades .
+ Russia's preferences reflect a total unwillingness to “let go’ of Ukraine, as well as an unwillingness to accept active Western intervention . Russia’s preference reflects a total reluctance to ‘let go' of Ukraine. Russia's preference for military assistance to Ukraine is in the
+ Russia would otherwise prefer to “neutralize’ Ukraine through destabilization. The latter makes invasion the most desirable strategy for Russia, though .
+ For Russia, the best possible outcome is BU-DS, where the West ignores Russia’s disruption of the Ukrainian state . The West ignored Russia's disruption of Ukrainian state, according to the report .
+ Ukrainian leaders' preferences in the Conclusion . The impact of their actions might influence the preference orderings of Russia and the West .
+ With our initial state and first mover, this outcome can be achieved immediately, or reached after chains of threat and counterthreat . With our first state, we can't wait until the end of the current state or mover .
+ The UO is achieved within four moves, independent of initial state and first mover . The U O is achieved in four moves .
+ From our initial state it takes only 1 move, followed by two optimal passes . There are numerous 4-move paths that reach the same ultimate outcome . From the initial state, it takes 1 move and 2 optimal passes.
+ We explore some of these paths to the UO in the ToM game tree in Section 3.2 .
+ This scenario admits a number of plausible variations in the orderings . This scenario is not the first time this scenario has occurred .
+ The top of the Russian preference ordering seems clear, but the top two states might be reversed . The ordering among the next three states could be altered, particularly as we assume that the West is unwilling to use its own military forces in Ukraine .
+ Russia would prefer to “let go’ of Ukraine if the West pursues “business as usual” rather than destabilize Ukraine in the face of Western military assistance .
+ The West preference ordering over Russia strategies is more complicated, involving trade-offs (economic vs. geopolitical) across Russian strategies .
+ The top three states involved “proportionate’s response to Russian actions, seem relatively uncontroversial . Still, the top three are still relatively uncontroversy .
+ We explore variations in both preference orderings to explore the robustness of this equilibrium . We explore the impact of differences in preferences on the UO of this interaction .
+ The program implements a dymanic programming backward recursion in moves remaining . See the discussion in Appendix 5.4.4 for the program .
+ The same two pure strategy Nash equilibria also remain, despite LG being a dominated strategy for Russia . LG was a dominant strategy.
+ The West’s willingness to escalate along with Russia, and respond strongly to an invasion by Russia, is critical in generating a more desirable equilibrium of the strategic interaction . The West's willingness to respond strongly is critical to generating this more desirable equation .
+ Russia LG DS* in BU ° West° SN* *† MA ‘As long as Russia will not seriously contemplate “letting go’ of Ukraine, only the rankings among the states arising from “destabilization’ and “invasion’s
+ This eliminates all but one NE in the simultaneous-move game, but leaves the sequential-move Ultimate Outcome unchanged . This eliminates the single-player game in the game .
+ The UO is no longer a NE, and the NE is strictly inferior for both sides . Indeed, the UO has no longer been a NE .
+ If Russia prefers “destabilization’ to “invasion,” reversing the valuations of the states valued 4 and 5 in Scenario 2, the only impact is to eliminate the MA-IN state as a pure-strategy NE .
+ This illustrates both the robustness of the UO and a significant difference between the simultaneousand sequential-move analysis of the strategic interaction in this case . This illustrates the robustity of theUO and the significant difference in the simultaneous and sequential- Move analysis . This
+ Russia's preferences put on intervention in the West’s increased emphasis on the MA response. Here we can see the extra weight Russia's preference for intervention .
+This kind of outcome leads us to reject the NE of a simultaneous play game as a useful analytic framework for these international interactions. This kind of outcomes leads to reject a simultaneous game of simultaneous play.
+ Russia LG DS* in BU ° West° West° SN* * MA ‘ Thus we have a unique, from any initial state and any initial mover, equilibrium . .
+ It can again be rapidly attained from the initial situation, and within four moves for any initial state and mover combination, it can be achieved within a few hours .
+ Only different West preferences, more averse both to sanctions and to providing military aid to Ukraine, can upset this stable outcome .
+ Russia's political leadership is not considered plausible under the current Russian political leadership . There are other Russian preference orderings, valuing economic ties with the West above geopolitical situation on its southwestern boundary .
+ There is perhaps greater room for variation in West preferences, particularly as they are the result of negotiation and compromise among many sovereign states with divergent interests .
+ We have so far worked only with what we believe are the most plausible West preferences . But the strategic interaction becomes more interesting when we alter them .
+ Even the EU, without considering the U.S. position, is not the coherent decision maker that Putin's Russia is .
+ The SN-DS outcome actually is to changes in that structure. We explore several variations in the finer structure of West preferences to see how robust it actually is .
+ The worst situation for the West, in any conceivable preference ordering, is to engage in hostile action when Russia “lets go,’s ‘business as usual’ is a natural best state . “Business as usual, in which case “ business as usual is
+ As soon as Russia engages in “destabilization’s or “invasion,’ one might imagine both stronger and weaker responses .
+ MA-DS the fourth and SN-IN the fifth best response . The strongest conceivable response would be a direct military intervention on the ground .
+ Russia LG DS* in BU ° West° SN-DS is a unique, stable UO, which the interaction converges, within four moves, from any initial state with any first mover .
+ From the actual initial state and mover, it can be achieved in the first move . The first move can be done in a single move .
+ There are many variations in West preferences that favor weaker responses to Russian destabilization and/or invasion of Ukraine .
+ The UO is SN-DS, as the West still shows a taste for sanctions in response to aggressive Russian policies . The West is still showing an interest in sanctions against Russia .
+ West can be achieved in a first move from the initial state by the West, or by no more than four moves from any initial position and first mover .
+ The UO is robust to the kinds of permutations of Russian preferences discussed above . With single simultaneous moves, Russia would choose to invade, with single simultaneous Moves .
+ A further weakening in the West’s willingness to respond could favor ‘business as usual’ in the face of destabilization . The West only supports “sanctions” in the case of a Russian invasion of eastern Ukraine .
+ Russia engages in intensive destabilization, while the West pretends it is not happening . Thus Russia engage in intensive instability, but the West does not .
+ Russian preferences to reverse the 6 and 7 ordering as above, then another pure-strategy NE, SN-IN, appears . The West could be caught using sanctions against an invasion despite its reluctance to do so .
+ A strong West willingness to provide military assistance in case of an invasion generates a new, Pareto-inferior, NE, MA-IN . It is the strongest available Western response to the strongest Russian action .
+ In a sequential-move framework, with its proffered opportunities and implicit threats, this negative outcome is avoided . In the sequential- move framework, this is avoided, says author .
+ The West is reluctant to provide military assistance, preferring Sanctions in the case of Invasion . Russia decides it needs to insure Novorossiya autonomy in, or independence from, Ukraine (Scenario 8)
+ IN is then a dominant strategy for Russia and SN remains the West’s best response . SN is now the West's best response to Russia .
+ The UO, SN-IN is achieved after three or more moves . It is also the only NE in the simultaneous move interaction .
+ Russian military intervention is met by hand-wringing and continuing, perhaps strengthened, economic sanctions which Russia ignores . Russia ignores in its single-minded pursuit of its primary strategic objective .
+ The UO of recursively rational sequential interaction reverts to SN-DS . If that West preference ordering is reversed, the West would rather provide military assistance than apply further sanctions, the UO says .
+ MA-IN becomes the sole NE of the simultaneous-move interaction . The NE also shifts, but in the other direction, but also shifts .
+ There are many other West preference orderings with varying degrees of aversion both to sanctions against Russia and to providing military assistance to Ukraine .
+ Western preferences all imply that Russian destabilization of Ukraine will ultimately be ignored by the West . The West's preference for military assistance to Ukraine is to be undertaken, writes Peter Bergen .
+ The strategic structure of these interactions is such that recursively rational actors must eventually settle on the UO, BU-DS, which abandons Ukraine to destabilization .
+ The ultimate outcomes in these scenarios display a number of similar and important features . Analysis of ultimate outcomes is key to the outcome of these scenarios .
+ Russian and Western preferences over the “states of the world’s” states are reflected in the very top and the bottom four states of the preference orderings . These features are shaped by the conflicting interests reflected in Russian and western preferences .
+ The West's focus on commercial relations and aversion to military confrontation has little impact on military relations . For the West, the changes in preferences explored here have little impact .
+ The “farsightedness’ of the sequential decisions in ToM leads to compromise that settles on “sufficiently good’ outcomes for each side, the players .
+ The UO captures the Pareto optimal NE when it exists, and in all our cases, a state on the PAREto frontier is on that frontier .
+ The possibility of a coordination trap, such as can easily occur in NE, is avoided, as we will see in the analysis of ToM game trees below .
+ The interaction can be concisely summarized in a finite game tree . Each rational player recursively derives the value of each possible continuation move, assuming the other player is similarly rational .
+ The U.O. is a U.S. state of the United States . It is the largest U.N. agency in the world . There are many ways to reach the U.E. U.A.
+ The longer the horizon of the game, the more opportunities there will be to “test’ the opponent, to allow her to make a mistake, before being forced to settle into a shortest direct path to the UO . Here we use 4-move game trees to analyze a
+ Before late August 2014, this appeared to best reflect both Western and Russian preferences . This appeared tobest reflect both the West and Russia .
+ In four interconnected figures, we display the possible paths from the intial state and highlight the equilibrium paths leading to the UO in our primary specification . We also capture what we believe are most likely to be the actual preferences of both sides of this conflictual situation .
+ The decision nodes have player labels and the terminal nodes are shaded . The terminal nodes have players and player labels .
+ Scenarios 1 game matrix, notation, and tree root with optimal decisions . Scenario 1 game Matrix, notation and treeroot with optimal decision decisions .
+ Game-tree analysis shows that play has reached that state and the game has not terminated . Bold-faced arrows indicate the best decision for the agent at each decision node .
+ Each of these longer paths involves a ‘testing’ of the opponent, offering her a chance to make a mistake, to become trapped in a less desirable state .
+Formal analysis of this possibility requires using an incomplete information framework, which we do not pursue here. Formal analysis needs to use this framework.
+ Russia then either either passes, if in SN-DS, or moves to SN- DS ending the game . Russia theneither passes, or either ends the game.
+ If Russia openly invades, the West’s optimal decision is to ‘pass’ to maintain sanctions . Russia would rather destabilize Ukraine than engage in an on-going costly and unnecessary invasion .
+ Russia can do no better than SN-DS, and so ‘passes’, maintaining its destabilization policy . The simplest equilibrium path arises when Russia is looking ahead at all possible moves and countermoves .
+ The West also comes to the same realization and ‘passes’ maintaining its sanctions . Similarly the West comes to same realization as the West .
+ The West might be tempted to draw back in the hope that Russia would do the same . But the optimal Russian continuation forces to become the terminal state is a far worse outcome for the West .
+ The ToM game tells fully coherent stories of how the equilibrium UO could be achieved . Each story can be checked against the historical record as it unfolds .
+ In this framework, we can also ask what keeps both Russia and the West from achieving their most preferred states . We can also see what keeps Russia from achieving its most preferred state .
+ The answers lie in the threats and counterthreats inherent in the structure of preferences laid out in the game tree .
+ The UO would remain the same as the UO. While the paths followed, and the stories told, would be different, reflecting the differences in the driving preference orderings .
+ Russia ranks IN generally higher as more necessary to achieve its strategic objectives . Russia ranks in Scenario 8, where Russia ranks generally higher than IN as more important than IN .
+ Scenario 1: There are multiple paths to the UO, each telling a coherent story of how the Ultimate Outcome of this strategic interaction, SN-IN, is reached . No other outcome is plausible given the preferences of the protagonists.
+ The answer again lies in the threats and counterthreats inherent in the structure of preferences laid out in the game tree .
+ The West can do no better than ‘pass’ after Russia’s second move by Russia, whatever that move is .
+ Any attempt to set up a move to s5 by ‘passing’ leads Russia to invade, or destabilize followed by invasion on the last move . Any attempt by Russia to “passed’s’S5’ will lead to a “
+ Russia's remaining at s2 is deterred by the West's credible threat to move to s5 . Russia’s remaining at S5 is Deterred by West's threat to go to s 5 .
+ Each party has credible threats, or optimal preemptive moves, that block the attainment by the other of its favored outcomes .
+ The UO reflects its balance, as can be seen by tracing out the recursive rationality of its generation . The U O reflects their balance.
+ The UO is Pareto undominated, a situation which cannot be improved for either player without hurting the other . That process also guarantees that the UO will be undominated .
+ The analysis presumes consequentialist rationality by the actors, and the ability to look ahead through some finite sequence of moves .
+ This allows recursive rationality, “dynamic programming’s recursion, to determine the optimal strategies, given the assumed preferences of each of the agents . The equilibrium path and termination state (“Ultimate Outcome’ – UO) of the strategic interaction.
+There are only three potential equilibria in this strategic interaction, despite the broad range of potential preference configurations studied . Our analysis shows that there are just three potential Equilibria.
+ The West believes that preserving a democratic, Western-oriented Ukraine is not worth the cost, again allowing Russia to achieve its geopolitical objectives through successful destabilization . Another possible UO is BU-DS.
+ These West preferences shy away from any kind of military assistance to Ukraine and from the costs of sustained sanctions in the face of ongoing destabilization of Ukraine by Russia .
+ The West returns, ultimately, to Business as Usual, despite ongoing Russian destabilization.
+ A final, and apparently increasingly plausible, configuration of preferences, reflects a Russian unwillingness to allow Ukraine to overcome the destabilization by defeating Russia's proxies .
+ Scenarios 8 and 13 are given in Scenario 8 to 13, and lead to the UO SN-IN, where the West maintains sanctions . Russia openly invades to insure the failure of Ukrainian military actions and the division of the Ukraine .
+ The open invasion of Ukraine at the end of August 2014 may reflect the achievement of this UO, if the West maintains its resolve for sanctions . We see in the game-tree analysis of some scenarios above .
+ Ukrainian preferences are clear. Within the limits of the framework of this model, Ukrainian preference is clear . Ukrainian preferences were clear .
+ This highlights the divergence between the interests of Ukraine from those of the main protagonists . The irrelevance of Ukrainian preferences for the strategic decisions being made about Ukraine’s future by Russia and the West .
+ SN-DS is the best of the three potential UOs, SN- DS, and MA-IN . SN-IN is the most likely to provide serious military assistance to the U.S. military .
+ Ukrainian actions can change the perceptions of the players, their understanding of the consequences of different policies, and hence their rankings of those consequences . Ukrainian actions have shown, Ukrainian players can change their perceptions of their actions .
+ Ukraine’s slow but steady military success in those months cast doubt on the viability of the conflict in eastern Ukraine . The conflict is without an overt Russian invasion in support of their proxies and agents in Donbas .
+ "Destabilization" as described above was becoming inadequate for that purpose . This threatened the Russian geopolitical objective of leaving Ukraine divided and under strong Russian influence .
+ Russian preferences in Scenarios 1, 2, and 4 to 4 to those in Scenario 3 or Scenario 8 .
+ Russia was pursuing the Invasion policy discussed above, as it became clear in September 2014 . The invasion policy appeared to be an impending military defeat .
+ This invasion has quickly reversed U. ­ krainian successes, strengthening the military and bargaining position of Russia’s proxies in Eastern Ukraine . Ukraine can hope for a ‘frozen conflict’ is the best Ukraine can hopes for .
+ Russian/insurgent gains remain up to the West . By February 2015, with another cease-fire solidifying Russian gains, the next move remains up to West .
+ It will reveal more of the fine structure of West preferences by indicating the equilibrium path being followed . The equilibrium path is being followed by the West .
+ Political divisions in Ukraine would be addressed through some form of decentralization of the unitary state through constitutional reform, new parliamentary elections, and greater local control over local finances .
+ Russia would face diminishing influence in Ukraine, the loss of a geopolitical buffer and of a manipulable, friendly border state with an economy dependent on, indeed symbiotic with, the Russian economy .
+ Ukraine is also considered by Russia a critical member of the Eurasian Customs Union and free trade zone . Ukraine is seen as an important part of rebuilding Russian international influence .
+ The pre-crisis situation is negative in both dimensions, economic and geopolitical . There are worse economic conditions that might be generated in other possible outcomes, says Peter Bergen .
+ Ukraine westernizes its institutions and politics and moves toward Europe . There is no need to suffer the large economic costs associated with economic sanctions and/or military actions .
+ Crimea is lost to Russia without any lasting resistance from the West . The EU states in particular profiting from continuing business relationships with Russia . Russia pursues active destabilization of the Ukrainian polity and economy, and Crimean annexation falls from the agenda .
+ Russia gives active assistance, including military equipment and personnel, to armed groups seizing gov21 . Over 83% of Russian weapons systems depended on critical Ukrainian inputs/components .
+ This sustains crisis conditions in Ukraine, preventing consolidation of the central state and democratic institutions, and undercutting recovery from the ongoing recession/depression in the economy .
+Embargoes of critical Ukrainian products, limitations on energy supplies, and demands for a price substantially above European for natural gas supplies, all constitute aspects of the destabilization policy, as does the high intensity propaganda campaign .
+ Propaganda and disinformation, both internal and external, provide a shield against Western influences .
+ Ukraine struggles to consolidate a functional national government, while waging a prolonged war on its own territory against Russian proxies . In this situation, Ukraine is struggling to consolidate its own national government .
+Economic and institutional reform toward European norms remains extremely difficult and slow, if not absolutely impossible . Economic and institutional reforms toward European standards remain extremely difficult.
+ If Ukraine achieves a military victory, it will be at the cost of vast devastation in its east . If Russia does not win it will have little prospect of support from the West .
+ More likely is a ‘frozen conflict’ as in Moldova, Azerbaijan, Azerbaijan and Georgia . Russia controlling the situation with “police forces” as the leading “peacekeeper” under OSCE auspices .
+ Russia maintains the benefits of integration in the world economy while blocking the movement of Ukraine toward Europe . This situation is perhaps the best of all for Russia, as it maintains the benefit of integration .
+For the West, while economically lucrative, this situation poses challenges to its core values and understanding of how the world should work . In this state, the West’s “business as usual” strategy is maintained in the face of an open Russian cross-border military incursion
+ Russia sends its military forces with full air cover across the border, destroying the Ukrainian air force and driving the Ukrainian army out of at least those two provinces .
+ Novorossiya will petition for admission into the Russian Federation, just as Crimea and Sevastopol successfully did in March 2014 . This sets the stage for the creation of an independent state, NovorOSSiya .
+ At a minimum, it creates a “frozen conflict’s state on the Ukrainian border, splitting off a piece of Ukraine that can only survive under Russian protection . At a least, it created a ‘frozen state’ on the Ukraine border .
+ The politi184 Richard E Ericson and Lester A Zeager cal and economic consequences for independent Ukraine are even more dire than under BU-DS . Russian economic warfare undercutting the viability of much of the rest of the economy .
+ Ukraine is apt to reverse its recent orientation and return to the Russian orbit, if not Crimea . With the Western strategy indicating an abandonment of independent Ukraine, Ukraine is likely to return to Russia .
+ For Russia, this is a near ideal scenario, achieving all Putin’s strategic goals, albeit at a high cost . Russia's reputation, influence, and ability to use international institutions in the future.
+ For the West, this is one of the worst possible outcomes, although it is arguably better than being involved in active combat with Russia . The West has not been involved in any active combat against Russia .
+ geopolitical costs to the West are low, but geopolitical costs are extremely high . While economic costs to West are lower, geopolitical costs for the West is high .
+ Fundamental principles of the post-WW2 international order are violated, says SN-LG . This is a state in which the West is imposing costly (to itself as well as Russia) sanctions, while Russia has “let go of independent Ukraine, if not Crimea, allowing the consolidation
+ The sanctions, were this to be the final outcome, would be a continuing response to the annexation of Crimea by Russia . The sanctions are expected to be a final outcome.
+ This policy pair may seem more plausible as an interim state, rather than as the final outcome . This policy duo may seem to be more plausible than as a final state .
+ Ukraine has all the advantages of BU-LG plus a small hope of getting back Crimea . This is a desirable outcome for Ukraine, having all the benefits ofBU-LG and the chance of returning Crimea .
+ Russia will lose influence in Ukraine, will lose a geopolitical buffer in Ukraine . Ukraine is a manipulable border state with an economy substantially interdependent with Russian economy .
+ This is one of the worst outcomes possible for Russia, says CNN's John Sutter . This is compounding the direct economic and geopolitical costs of “losing Ukraine with the costly sanctions imposed by the West’s West. This is a bad outcome,
+ Russia's “counter-sanctions’ will be compounded by Russia’s ‘counter-Sanctions” implemented to maintain face . Those costs, in any “sanctions state, will be added to Russia's "counter- Sanctions"
+ Russia suffers from not insubstantial costs of imposing sanctions on Russia and bearing Russian counter-sanctions . Russia's geopolitical objectives are met, but it suffers from the notinsubstantial cost of sanctions .
+ Russia's sanctions naturally cause costly counter-sanctions by Russia, magnifying the negative economic impact on both parties .
+ Russian actions, and the negative consequences for Ukraine in this state, are outlined above .
+ Russia achieves its primary geopolitical objective of preventing a successful, Western oriented, democratically united and led Ukraine on its border, as well as keeping the militarily significant strategic province of Crimea .
+Despite the economic and international reputational costs, this situation ranks high in the Russian preference ordering .
+ For the West, this is a state in which it consistently pursues its geopolitical imperatives while limiting its sacrifice in doing so . The West is in a state of which it regularly purses its geopolitical Imperatives .
+ Russia has launched an active military intervention in eastern Ukraine . SN-IN is "peacekeeping" to prevent a Ukrainian military victory over the Russian led, equipped, and financed separatist insurrection in Donetsk and Lukhansk provinces .
+ The West's response is further hand-ringing and lamentation and some strengthening of economic sanctions, answered in kind by Russia . The West’s response is more hand-ringsing and lamented.
+ The West does marginally better in maintaining commitment to the sanctity of international borders . Russia suffers all the geopolitical costs, outlined above, of “letting go’ of Ukraine .
+ Ukrainian hostility generated by the loss of tourism and energyrich Crimea. And these costs are cemented in place by the Ukrainian hostility .
+ The costs to Russia are raised in both dimensions, while the West gains geopolitically . The West gains geopolitical and economic benefits, if at a substantial increase in economic costs, including Russian counter-sanctions .
+ The direct cost of such assistance to both sides is apt to be rising as Russia increases its provision of military support to the insurrection . This is a “brink of war state of the conflict’s conflict,’ says MA-IN .
+ Russia has launched a cross border invasion of Ukraine, albeit with limited objectives . The West has added direct military support, short of combat forces, to Ukraine . While the West has imposed significant economic sanctions on Russia .
+ Ukraine will be able to put up much stiffer resistance to the Russian invasion, imposing substantially higher costs on Russia . Ukraine will suffer as much as described above, but will put up more resistance to Russian invasion .
+ The West will bear the same costs and benefits as in MA-DS, while substantially raising the costs to Russia . Russia will now include military losses which will now be included in military losses .
+ Russia can win militarily, separating out an independent Novorossiya, or annexing it like Crimea, would be incredibly costly and have potentially serious other consequences, beyond what we consider here .
+ Russia seeks to achieve, albeit at higher cost, what it could achieve from destabilization without West’s military assistance to Ukraine . Russia wants to achieve what it can achieve without West's military assistance .
+ This state rises dramatically in the West preference ordering as Russia’s invasion justifies military assistance and the costs it imposes . This state increases dramatically as Russia's invasion justifies its military assistance .
+ The ToM equilibria are more robust than the standard Nash Equilibria . These illustrate the robustness of the ToMequilibria that we find and their significant differences .
+ These games capture, in our view, all of the plausible and some interesting, if less plausible, configurations of Western and Russian preferences over final outcomes in this crisis .
+ The Ultimate Outcome shows Russia's willingness to confront Russian aggression with direct military assistance to Ukraine . They illustrate a remarkable robustness of Russia's preferences .
+ The ultimate outcomes in the 2-player, sequential-move strategic game of revised ToM are calculated using a Gauss Language program, “Willson_ToM.prg,” adapted from a Pascal program written by Steven J Willson .
+ At each stage it compares the ultimate payoffs for the moving player from each branch to which she might move . Those payoffs are known recursively from the prior stage, calculated in turn from the results of its prior stage .
+ The program tracks the state-matrix index of the optimal move at each stage and the payoffs associated with that optimal state . The program is designed to help people find the optimal state.
+ The program determines the best policy for the player whose turn it is to move, and the ultimate payoff to that policy choice . Both players on their sequential turns at each stage.
+ Convergence to the UO is seen when, after some finite number of moves, the state is unchanged for every longer horizon .
+ The program and its computational modules will run in GAUSS 6 through GAUSS 16 . The program is available on request from the authors .
+ Williams, Goldstein, Goldstein and Shafritz, J. Williams, P., Goldstein, D., and Shfritz, D. Williams are all the authors of the books . The books include "World War II" and "The Great War"

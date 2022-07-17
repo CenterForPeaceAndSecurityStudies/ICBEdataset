@@ -1,0 +1,147 @@
+This article examines how Sagan’s crucially important study affects our understanding of the salience of deterrence and non-proliferation in the post-Cold War order and the prospects of nuclear peace.
+The conclusion contends that Sagan’s advocacy of nuclear arsenal modernisation and active non-proliferation efforts aimed at aspiring nuclear powers may well increase, rather than diminish, the chances of major nuclear war.
+Keywords Cuban missile crisis, deterrence, non-proliferation, normal accident theory, Sagan, Waltz In the long run, we’re all dead.
+Keynes On several occasions during the two-week-long Cuban missile crisis,1 American military personnel and officials made mistakes that, as Scott Sagan shows in The Limits of Safety, could quite plausibly have triggered an accidental nuclear detonation or incorrectly led United States leaders to believe that a Soviet attack had just commenced or led the USSR to believe that an American one had just been launched.
+Warned that Soviet operatives had been deployed in the United States to sabotage the American warning network before a Soviet attack, the guard shot at the intruder.
+This set off an alarm in a nearby Air Force base in Wisconsin, but the alarm erroneously indicated not a security breach but that war may have actually begun.
+The United States had deployed high-altitude U-2 aircraft to collect radioactive samples from Soviet nuclear tests since the late 1950s.
+For some reason, no one had thought to cancel the flights during the crisis.
+And on this day, when relations between Washington and Moscow had become extremely tense, a U-2 pilot strayed at relatively low altitude over Siberian air space.
+Soviet fighter jets scrambled to intercept the U-2 but at the last moment held their fire as the spy plane turned back.
+Early in the morning of this day, with Kennedy and Khrushchev now ‘eyeball to eyeball’, perhaps the most alarming accident of the entire crisis occurred.
+A United States radar facility in Alabama detected a satellite in the vicinity of Cuba just as someone inserted a test tape announcing an imminent Soviet attack.
+In other words, just as an official in the radar facility spotted what he thought was a Soviet missile en route to Florida, a simulation tape came on confirming that an attack was in progress.
+Strategic Air Command in Colorado was informed that an attack was on; only after it became clear no nuclear detonation had actually happened did officials on the scene realise what went wrong.
+Sagan’s book, the product of several years of research and dogged pursuit of highly classified documentation, has two overarching scholarly purposes.
+One of his goals is to use evidence from the missile crisis (and a couple of later episodes, which will not be discussed here) to evaluate ‘accident theory’, a branch of organisational theory that is employed regularly by military, industrial and other institutions for which accidents can have catastrophic effects.
+Good social science evaluates theories by subjecting them to tough tests, in other words, by attempting to show that the theory holds even in a case where the theory’s predicted outcome is logically unlikely.
+We are all here, of course, because ‘normal’ accident theory has not been confirmed by an actual accidental nuclear war.
+In a sense, normal theory will always remain speculative on this question, because if it is ever tangibly verified, there may well be no one around to note its success.
+Sagan’s argument, however, is that the near-misses of the Cuban crisis, and other episodes he analyses, represent effective disconfirmations of high reliability theory.
+He maintains, and I would concur, that war was avoided in the above examples not so much because the system worked, that it decisively stopped potential accidents before they could happen, but because of individual common sense, factors outside the organisation and, most important, simple dumb luck.
+What is more, Sagan points out that had any of the accidents mentioned above led to an initial United States or Soviet strike, it likely would have cascaded into a general war, as the ‘fog’ created by one nuclear detonation would probably have caused further overreactions and accidents.
+In the nuclear age, not only are the stakes of one accident spectacularly high, so is the likelihood that the initial one would, given the unprecedented chaos and uncertainty a nuclear explosion would foment, escalate towards a total nuclear exchange.
+The second point of Sagan’s work is the far more obvious one – to demonstrate that accidental nuclear war was, and is, quite possible.
+If the reader of his book accepts that any one of the mistakes mentioned above could plausibly have triggered a nuclear war, then it follows logically that in a similar crisis today or tomorrow, we might not be so lucky as the world was in October 1962.
+This article will discuss two of them and then will make some concluding remarks.
+Deterrence is not really the issue During the Cold War, and particularly during the 1950s and 1960s, scholars and military officials in the West engaged in a substantial debate about the durability of nuclear deterrence.
+Many of them argued that the American deterrent was either fragile or incredible – that the massive nuclear triad and warning system President Eisenhower installed in the second half of the 1950s was actually vulnerable to a Soviet first strike, that it rendered United States commitments to allies in Europe and Asia not viable, or both.
+When he became President himself in 1961, Kennedy initially tried to replace MAD with a new military strategy that envisioned limited nuclear war, though this was soon abandoned.
+Nuclear deterrence worked during the great Cold War crises of 1958–1962; political leaders (if not all of their military and civilian subordinates) on both sides were clearly quite averse to going to war for fear of a nuclear holocaust.
+There are few subjects in Cold War history that are less debated than this.
+Some historians argue nevertheless that both the United States and the USSR were not content with deterrence and the condition of MAD, because military establishments on both sides planned for limited nuclear war and deployed weapon systems to that end.
+This is an odd interpretation, however, because it elevates military strategies and weapon acquisition over the actual behaviour of political leaders when they faced the possibility of nuclear war.
+When evaluating the salience of any foreign policy, the historian must distinguish between what lower-level officials plan for and write down and what political decision-makers actually do at the moment of implementation.
+All of this is to say that Sagan’s thesis in The Limits of Safety changes the debate about the possibility of nuclear war among great powers.
+Assuming that the simple incentives of nuclear deterrence hold, and that leaders of nuclear states take the lesson from the Cold War that nuclear crises are better avoided, if such a war occurs in the future, it is much less likely to happen because their political leaders have become unafraid of nuclear war or unconvinced by the deterrent power of nuclear weapons, and more because of an accident along the lines of the many that occurred during the Cuban crisis.
+It is here where the application of ‘normal’ accident theory over time becomes quite central to our consideration of great-power nuclear war in the future.
+On one hand, sheer statistical logic suggests that as long as interstate anarchical politics continue, confrontations involving nuclear weapons will recur, and that in one of these confrontations, despite the wishes of the political leadership on both sides, an accident will trigger not a false alarm or narrowly averted unauthorised strike but an actual nuclear attack that could well cascade into a general war.
+It is extremely difficult to imagine how a replay of indefinite ‘Cuban’ crises in future international orders would not once see an accident (or miscalculation) spiralling out of control.
+It was for this reason, of course, that American and Soviet officials established direct lines of communication after 1962 and tightened up command and control procedures; they had no wish to experience that again.
+This conclusion speaks directly to the argument put forward by some International Relations theorists – especially neorealists – that the contemporary unipolar order is likely, or certain, to revert to multipolarity in the foreseeable future.
+Indeed, some of these theorists have suggested that such balancing is likely to stabilise great-power politics; that a new Cold War between, say, China, the European Union or some other nation and the United States would be more conducive to long-term peace than the continuation of the unbalanced unipolar order we see today.
+Sagan’s organisational theorising about the Cuban crisis provides us with one of the most powerful rebuttals of this neorealist argument.
+Even if future American leaders, along with future Chinese or European or Indian ones, remain deterred by the prospect of nuclear war, and even if they develop effective military organisations designed to prevent the unauthorised or inadvertent outbreak of war, one day there will be a geopolitical confrontation – over Taiwan or Palestine or Kashmir – in which an accident is not contained.
+To put it concisely, if anarchical great-power politics perpetuate over the long term, a nuclear war will happen, sooner or later.
+In other words, a traditional realist conception of international politics that foresees an eternal series of great-power rivalries is a conception that also foresees an eventual nuclear war.
+That fact constitutes in itself a powerful objection to balance-of-power inevitability that most realists have not reckoned with.
+The absence of balancing over the past two decades, since the collapse of the USSR in 1991, suggests to other IR theorists that the United States is destined to remain the world’s sole superpower over the indefinite future, and that we are hence unlikely to see the rise of new Cold Wars and the geopolitical crises that accompany them.
+Unfortunately, normal accident theory comes logically into play in a unipolar condition as well.
+A key argument that Sagan makes in The Limits of Safety deals with the durability of tight-coupled and complex systems.
+Such systems require ongoing determined authority, particularly in liberal political orders.
+They require committed leaders, highly disciplined employees and a steady flow of generous funding to maintain redundant safety mechanisms and high-tech maintenance.
+Sagan shows how the SAC spared no expense to achieve this during the Cold War.
+The problem here is that it may become difficult to sustain the political and institutional will to maintain such a system over the long term, especially in the absence of clear international dangers and crises.
+SAC was able to command elite leaders and ample funding because during the Cold War, the possibility of an accident leading to catastrophe in a major crisis remained quite real, even in the calmer period after 1962.
+But as the pressure of international danger ebbs, organisations naturally cut corners, relax rules and lose funding as the urgency of system perfection diminishes over time.
+In the week after the Cuban crisis ended, SAC authorised some 20 million miles worth of B-52 sorties in order to sustain a continuous airborne alert in the event tensions resumed, without one reported accident.
+It is quite difficult to picture a similar operation today in response, say, to a setback in Afghanistan or a naval encounter in the South China sea.
+The ensuing cascade would not result in a possible general nuclear war between two superpowers, as in 1962, but in an age of thermonuclear weaponry, this is cold comfort.
+Whether or not China or Russia qualifies as a great power in our contemporary environment, if an accidental nuclear war involving one of these nations spiralled out of control, it would be hardly less catastrophic than the one that could have happened 50 years ago.
+Sagan’s organisational analysis of the Cuban missile crisis, then, gives us reason to believe that nuclear war among the major powers could well occur over the foreseeable future even if one accepts that the leaders of these powers will always buy into the logic of deterrence.
+The crux of his argument is that the problem is, in the end, apolitical.
+In other words, if the logic of deterrence suggests that any leader, no matter how acute his ideology, dissatisfaction with the international status quo or territorial ambition may be, will want to avoid nuclear war, accident theory suggests that organisations will eventually permit an error that leads to a nuclear war, irrespective of the nature of the regime in charge.
+A large swathe of IR theory argues that the rise of certain kinds of powers to international preponderance is likely to lead to peace.
+Sagan’s interesting rejoinder is that even a world full of liberal democracies would run the risk of nuclear war, for the simple reason that all of them use organisations.
+The dangers of proliferation If nuclear deterrence works, reasoned the pioneering IR theorist Kenneth Waltz, then it should work among all nations, not just the two Cold War superpowers.
+More May be Better, in which he argued that the acquisition of the bomb by small states would contribute to international stability and hence was ‘more to be welcomed than to be feared’.16 The argument was straightforward: when a state acquires a basic retaliatory nuclear arsenal, no rational state will try to conquer it.
+The security nuclear weapons provide will make states less paranoid about their enemies, reducing one source of tension; it will dissuade these enemies from contemplating attack, reducing another; moreover, if nuclear deterrence stops small states from going to war, the chances of a regional war escalating to the superpower level diminish correspondingly.
+Waltz’s essay delivered a broadside to the non-proliferation regime, a collection of international organisations and institutes dedicated to enforcing the nuclear Nonproliferation Treaty of 1968, which sought to prevent the spread of the bomb to small states and encourage the larger nuclear powers to disarm.
+For many in the so-called international community, non-proliferation had long been seen as an unquestioned good, as debatable a project as, say, literacy programmes or drought prevention.
+Lurking behind this international consensus was the widespread, if normally unsaid, conviction that the basic requirements of nuclear deterrence – government competence and rationality – was evident among the existing nuclear states but perhaps not so much among some of those seeking a bomb.
+Waltz’s rebuttal was that the leader of any state can be expected to want his regime and society to survive, and the one sure-fire way to threaten that survival is to use one’s nuclear weapons aggressively.
+A Debate – revised edition in 2003), remains perhaps the strongest argument for non-proliferation in print.
+Much as his application of accident theory to great-power behaviour avoids distinguishing between political regime types or ascribing nuclear aggressiveness to certain types of leaders, so his assessment of the dangers of nuclear proliferation to smaller states avoids the ethnocentrism that Waltz identifies in the nonproliferation regime.
+Simply put, Sagan argues that the problems that nuclear organisations face in large powers are likely to be even worse in small ones.
+First, small states seeking to acquire a basic arsenal (such as North Korea, Iraq in the 1990s or perhaps Iran today) will have to dedicate a large proportion of their resources to the simple act of building a working bomb, particularly in the face of international sanctions and boycotts.
+This will leave them with much less money to develop a sophisticated command and control system and to build in the redundancies and fail-safe technologies necessary to avoid an accidental or unauthorised launch.
+Waltz counters that small regimes will have far fewer bombs to worry about – there is no comparison between, say, North Korea’s arsenal today and the American arsenal of around 1960 – and that political leaders in small states will be exceptionally motivated to protect their bombs, given how much they have gone through to acquire them.
+Sagan allows these points but insists that simple material realities overcome them.
+A small state will have less money and access to the most modern technologies.
+It will have a smaller population from which to choose capable military and civilian commanders.
+It will be less familiar with organisational techniques for avoiding accidents and unauthorised use.
+What is more, small nuclear states can find themselves in turbulent regional environments where the danger of infiltration and sabotage is far greater than in large states with well-guarded borders and friendly neighbours.
+That a poor person will be less capable of protecting her possessions than an affluent one is not a castigation of her – it is just a statement of probability.
+Furthermore, many of the poorer states that have sought a bomb over the past 20 years do not possess the tradition of clear civil authority over the military that one finds in wealthier and more established states.
+Civilian leaders, wary of antagonising powerful military officials, may be reluctant to insist upon the unglamorous business of establishing acceptable command and control systems or to punish them for substandard work in this field.
+In a crisis, military officials on the scene may feel less constrained by civilian pressure to remain cool, to not take matters into their own hands.
+In The Limits of Safety, Sagan stresses how vigorously the Kennedy administration sought to ensure absolute civilian control over the military during the Cuban crisis, and how nevertheless officials at the operational level took matters into their own hands on several occasions.
+For a small state in possession of only a handful of bombs, preventive war becomes a far greater risk, as we are witnessing today.
+A state may come to believe that it can launch an attack that can take out the entire arsenal of its adversary.
+Eager to ensure that a few missiles will get off before such an attack, a small state government may relax redundancies or delegate launch authorisation powers to military officials on the ground.
+In such conditions , normal accident theory magnifies radically in importance.
+For Waltz, structural incentives push states towards policies that enhance their survival, and there is no more vivid such incentive than to stay out of a nuclear war.
+Because states are going to pursue that end irrespective of their political make-up, one can essentially ignore what is going on internally in any given nuclear power and assume that they will become war-avoiders.
+A world in which all states had nuclear weapons, then, would be a world of perpetual peace, a kind of utopia.
+The theory Sagan develops in The Limits of Safety and deploys in his debates with Waltz arrives at precisely the opposite conclusions.
+For him, political outcomes are shaped by the fact that all governments by necessity use organisations, and all organisations are vulnerable to accidents, no matter what kind of regime is in charge of them, and – crucially – no matter what kind of international conditions prevail.
+As long as states possess nuclear weapons, one will eventually go off, and the more states that possess them, the sooner it will happen.
+A world in which all states had nuclear weapons, in other words, would be a world on the imminent brink of catastrophic war, one started by a faulty warning system, drowsy pilot or panicky base commander.
+The Limits of Safety and contemporary international politics Sagan’s examination of near-misses during the Cuban missile crisis makes a cogent and persuasive case that nuclear war was more likely than commonly perceived during the last two weeks of October 1962.
+On pure historical grounds, it is an extremely important argument, and one that has remained compelling even as much new documentation on both the United States and Soviet sides has been released over the past two decades, and important new accounts of the crisis have appeared.
+The likelihood that an accidental nuclear attack during an international crisis would cascade into general war, due to the unprecedented chaos and panic the explosion of any nuclear weapon would create, makes this problem one of supreme importance.
+First, he calls upon the United States to develop more effective systems of command and control over their nuclear arsenals.
+The argument here is essentially technocratic and largely uncontroversial.
+The United States should modernise its nuclear organisations, eliminate as much of its offensive and battlefield nuclear weaponry as possible, and rigorously apply normal accident theory in its training of personnel and development of new weapon systems.
+It should systematically study cases of accidents and near-misses of the past in order to troubleshoot existing defects, undertake war-game exercises based upon an initial accidental detonation and indoctrinate all civilian and military personnel associated with the nuclear establishment in the terrifying lessons of the Cuban and other crises.
+Moreover, Sagan urges United States and international agencies to assist other existing nuclear states with their own command and control techniques – which, at the time of his writing, meant above all the new states of Russia and other former Soviet republics with nuclear weapons on their soil.
+Applied to the present day, Sagan’s advice could well apply to India, Pakistan and even, if implausibly, North Korea.
+Sagan’s second argument is simply to oppose the spread of nuclear weapons to other states, especially smaller and less technologically advanced ones.
+This point is made much more directly in his debates with Waltz than in the 1993 volume, but he does touch on it in the book, and, in any event, it is based quite explicitly on the book’s main thesis and follows logically from its conclusions.
+He stresses that in supporting non-proliferation, he is advocating not so much aggressive actions to prevent states eager for a bomb from getting one, but rather to create an environment in which few states are interested in going nuclear.
+Sagan recognises the limitations of these two recommendations and acknowledges that the pessimistic, almost fatalistic, implications of his foregoing argument would seem to demand more dramatic action, such as the abolition of nuclear weapons entirely.
+In a very short section, however, he iterates the familiar reasons why abolition is unworkable – namely, the ease of building and deploying weapons surreptitiously – and concludes that such an objective is simply too utopian to consider seriously.
+Nevertheless, to conclude this article, I will try to show how these two objectives are contradictory, and how Sagan’s moderate suggestions may make the problem worse rather than better.
+Sagan contends in The Limits of Safety that as long as some states possess nuclear weapons and they use organisations to manage them, an accidental nuclear war will someday occur.
+Just as statistical probability suggests that an accident is sure to happen sometime in the indefinite future, so it is possible that some leader of a large nuclear state will come to the conclusion, as did some strategists and military leaders in the 1950s, that deterrence is unstable and decide to wage a nuclear war, or a conventional war against another nuclear power, deliberately.
+As long as the international system of interstate anarchy persists, therefore, an eventual nuclear war is on the cards.
+Sagan accepts this but argues that fundamental change – that is, altering the international system – is impossible.
+Thus, he supports modernisation of existing arsenals and non-proliferation efforts, especially those that aim to create an international environment in which states eschew the bomb, as shorter-term, practical steps to avoid nuclear danger over the foreseeable future.
+For Sagan’s two central policy recommendations, when taken together, are likely to solidify the nuclear status quo.
+By modernising their nuclear systems, by spending billions of dollars or pounds or Euros on technical and organisational improvements to their large arsenals, the major nuclear states are signalling to the rest of the world that they intend to deploy thermonuclear weaponry over the indefinite future.
+This was certainly the message conveyed by President Obama’s announcement of an US$85 billion upgrade of the United States nuclear arsenal in 2010 and of the similar Russian declaration in early 2012.
+From the point of view of accident theory, the United States and Russian decisions make perfect sense, and I would assume that Sagan supported the United States modernisation or at least elements of it.
+In the world of international politics, however, they have different effects.
+They may talk about a world without nuclear weapons, as President Obama did in Prague in 2009, but their actions say otherwise.
+This hypocrisy matters, because the Non-Proliferation Treaty, originally signed in 1968, stipulated quite clearly, in Article VI, that the major nuclear states were obligated to disarm just as other states were to eschew the bomb.
+Some 40 years later, none of the major nuclear powers appear anywhere close to disarmament.
+Other states, such as Iran, point to the brazen hypocrisy of nations like the United States when seeking to justify their nascent projects.
+For it is impossible to see how the existing nuclear powers can make improvements to their command and control organisations, especially given the complicated and long-term demands of normal accident theory, without signalling to the rest of the world that their intention is to maintain their arsenals over the indefinite future.
+And the longer the major nuclear states hold tightly onto their own weapons, the harder it will be for them to persuade smaller states that they should eschew the bomb for the sake of international peace.
+In other words, if Sagan wants to create a future in which states have no desire for a bomb, one of the worst things he could advocate is the organisational modernisation of nuclear systems.
+The logic of normal accident theory collides with the logic of international politics.
+Indeed, there is a deeper problem with Sagan’s support for practical improvements in nuclear safety.
+By advocating the modernisation of existing nuclear organisations and supporting non-proliferation policies, he pushes to the fringes the only serious long-term solution to nuclear danger, which is the abolition not necessarily of all nuclear weapons, but of the interstate system that permits the possibility of their being used in international war.
+Sagan is correct that the abolition of nuclear weapons is not viable and indeed more dangerous than doing nothing, if states are able to build them again surreptitiously.
+But the solution to that is to construct a global entity powerful enough to prevent that from happening, which is to say, a world government.
+Proliferation optimists like Waltz can consistently claim that the dangers of doing so, or the impossibility of doing so, are so evident that the spread of nuclear weapons to more and more states is the least bad of all possible outcomes – that we have to hope that the logic of deterrence will work forever.
+But everything that Sagan argues in The Limits of Safety runs counter to Waltz’s reasoning.
+In a world of interstate anarchy, a nuclear war will happen in the real world of accidents, panic and organisational breakdown.
+And as I have tried to show, the short-term solutions Sagan proposes to forestall this disaster create a political impasse that is likely to make things worse.
+Over the long term, the only way to deal with the problems Sagan has so masterfully documented is to create an authority that can do away with them.
+By calling instead for moderate improvements to the existing order, Sagan makes such an authority much harder to conceive.
+This article would reply that although it is difficult to pinpoint the exact beginning and end of any historical episode, and that certainly key participants did not realise at the time that the crisis was definitely over on 28 October, it was only during this period that leaders of the two sides were seriously reckoning with the possibility of imminent war.
+Mueller, in making a strong case that the threats of nuclear terrorism and proliferation are seriously exaggerated, also advances an interesting, but historically untenable, argument that nuclear fear played only a small role in the Cold War.
+On the Soviet side, also see Naftali and Fursenko, Khrushchev’s Cold War.
+See Campbell Craig and Sergey Radchenko, The Atomic Bomb and the Origins of the Cold War , chs 5 and 6.
+In neither article does Sagan suggest that more substantial reform is necessary to achieve an enduring nuclear peace.

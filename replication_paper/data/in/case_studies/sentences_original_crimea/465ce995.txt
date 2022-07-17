@@ -1,0 +1,151 @@
+In both authoritarian or democratic contexts, new forms of censorship online are carried out through distributed attacks on freedom of expression that are insidiously difficult to detect, and often just as effective, if not more, than the kinds of brute force techniques by state agents that came before.
+Their goal is not always to block users, content or themes, but to attack the democratic discourse, weaken trust in institutions like the media, other governments, the opposition, and civil society.
+These strategies increasingly polarize and diminish the networked public sphere, resulting in a more dangerous and confined space for media and civil society to operate.
+They come from multiple sources, not just the state, leveraging both complicit and unwitting citizens to amplify campaigns that intimidate, confuse, and ultimately silence.
+As soon as the internet became an important tool for sharing independent news and empowering citizens to speak their minds, authoritarian governments and their political allies started to seek ways to censor and block content that might undermine their grip on power.
+This represented a direct form of censorship in which regimes suppressed objectionable content by removing it from the public sphere.
+Now, however, authoritarian actors are becoming more sophisticated in the strategies they use to curtail access to information and freedom of the press.
+They have developed novel, distributed forms of censorship that utilize new technologies, such as automated social media accounts and selective throttling of bandwidth, to constrain news circulation and the public discourse.
+While these new tactics are often less perceptible by the general public, they have the overall impact of fundamentally undermining an open and independent news media ecosystem that is the bedrock of democracies.
+Whereas traditional forms of censorship seek to overtly block content from circulating, these new forms of censorship are less focused on totally removing content from the public sphere.
+Rather, they seek to disrupt the media ecosystem by alternatively overwhelming it with content, often hyper-partisan stories and even downright disinformation, or by chilling communication through slower internet speeds and self-censorship induced by overt surveillance.
+When viewed together, these tactics represent what can be called a distributed attack on expression and press freedom.
+As in a DDoS assault, in isolation, none of the incoming requests is out-of-the-ordinary or seen as malicious, but together the effect is paralyzing.
+And because the attacks are distributed —they are launched from different systems operating in conjunction with each other rather than a single source—they can also be more difficult to address.
+In essence, authoritarian regimes and other political actors interested in manipulating the public sphere have utilized new mechanisms to influence the flow of information in ways that undermine the ability of journalists to report stories, disseminate their content, and also the capacity of citizens to assess what information is reliable and accurate.
+These conditions curtail the ability of media to fulfill their role to inform the public, stifle discourse in civil society, and have the longer-term effect of eroding public trust in the news media.
+Over the past couple of years there has been a heightened, global awareness about the impact that disinformation campaigns can have on political processes, both in authoritarian countries and democracies.
+Though sowing doubt and cynicism through false narratives is not a new tactic, it is one that has taken on new manifestations in the age of social media.
+Little attention, however, has been given to the chilling or stifling effects of disinformation campaigns on freedom of expression and the press.
+Even when audiences remain unconvinced by disinformation or propaganda, the distribution of intentionally misleading information or false accusations can still achieve its goal of undermining a free and open news media ecosystem by crowding out reliable content and re-directing the topics of public discussion.
+Furthermore, while disinformation campaigns may be directed by state actors or their direct proxies, in many cases they are independently amplified by real individuals acting on their own accord.
+This is another way in which these new mechanisms are distributed, and therefore harder to counteract.
+The blurred lines and multiple vectors from which this type of content emanates make addressing these distributed attacks on freedom of expression and the press incredibly complex.
+Complicating matters even further, the media ecosystem has also undergone a dramatic shift over the past twenty years.
+New tech platforms, like Google, Facebook, and Twitter now play a central role in the global circulation of news, and have upended traditional news organizations by both altering distribution mechanisms and reconfiguring the advertising market, which has had an extremely negative impact on privately-owned news outlets traditionally supported by advertising.
+In terms of these new forms of censorship, the business models of social media corporations have generated perverse incentives that have exacerbated the problem at times, particularly when it comes to the circulation of disand misinformation.
+In many instances, the lack of transparency practiced by these private companies has also obfuscated the true scope of these challenges and how are they affecting societies.
+Through case studies in Ukraine, Turkey, the Philippines, Bahrain, and China, this report will elucidate how new forms of distributed online censorship have undermined freedom of expression and press freedom in ways that defy conventional notions of control.
+While these various methods are often used in conjunction with each other, by teasing them out as much as possible we gain a better sense of how they operate, and therefore, how public and private sector entities and broader civil society can respond.
+Indeed, journalists and those concerned with the development of news media ecosystems must understand how these techniques operate in order to construct and implement effective responses.
+Unfortunately, there is no easy policy solution to the new forms of censorship because these practices often take advantage of technologies, that when utilized for other means, are benign or even beneficial.
+They are in a sense dual or multi-use, and difficult to gauge and implement effectively.
+For example, an automated social media account that warns people of traffic congestion is quite different from one that disseminates state propaganda.
+Ultimately, we need to develop responses that address the problem while at the same time do not undermine freedom of expression or the development of new technologies that benefit society.
+Internet shutdowns are only the bluntest instrument in a large toolkit of authoritarian or semi-authoritarian rulers, and they come at a cost.
+A report from the Brookings Institution estimated that the costs of 81 internet and social network shutdowns during a period from 2015 and 2016 totaled over $2. billion in dictatorships ranging from Saudi Arabia to Ethiopia, as well as a range of democracies including Brazil and India.
+In all cases, there were clearly economic costs to shutting down the internet, or even blocking individual pages, domains or social networks.
+HTTPS makes it very difficult for regimes to block specific pages a user requests from a domain because the request is encrypted, and as a result many countries have increasingly had to block entire networks, as Turkey did for Twitter in 2015,12 or China and Iran now do for Facebook and Twitter.
+They are also easily perceivable; inevitably, a state will come under criticism for shutting down the internet, and not only for the costs, but also because of the political implications of blocking a key avenue of communication, information and expression for the citizens.
+What’s more, government agencies, police, emergency services and command and control systems also rely on the same networks, both social and technical.
+Because of these costly trade offs, regimes are relying on new technological tools to monitor and disrupt the flow of news and information online, ranging from automated accounts, analyzing fast-expanding stores of data, or manipulating algorithms on which billions now depend for content.
+The new methods authoritarian governments and other undemocratic actors are using to disrupt and manipulate democratic dialogue online are designed to allow the internet to continue to operate, while providing greater control over how information is disseminated and reaches the intended audience.
+More importantly, some of these techniques can be used not only domestically, but also abroad.
+This is feasible given that they often employ global social media platforms.
+These tactics include the use of networks of automated accounts, as well as individuals employed by the state or a private company with connections to the state operating multiple profiles to post messages, support others, and influence trending topics on social networks.
+Other forms of computational propaganda include the manipulation of algorithms to change the topics of conversation, as well as the pages, posts, advertising and other content that users see.
+Governments and other entities can make use of large stores of data that private entities have gathered on individuals to target them very precisely and filter what they see online.
+This power to change the trends of social media is combined with the influence these social networks and topics can have on traditional media.
+For instance, if stories go viral on Facebook or Twitter, they are often picked up on television or in newspapers and online outlets.
+As a result, automated tactics can be amplified and augmented with various methods, computational, viral, and supported by various forms of media.
+The following sections of this report contain examples of how these new forms of censorship are operating in different authoritarian and contested democratic environments all over the world.
+The examples illustrate techniques that are being used by regimes to monitor populations, censor citizens, block networks, and affect social media that often originates or is hosted in democratic countries.
+In each case, the stifling impact on the news media is clear, from the disruption of content distribution to the de-legitimatization of sources.
+Evident too in each case is a grave threat to the possibility of democratic dialogue, and the opportunities this creates for resurgent authoritarianism.
+As social media has become an increasingly important arena for the circulation of news and the formation of public opinion, marketers and political advocates of all stripes have taken to these platforms to promote their brands and messages through large groups of social network users who purposefully create content and interact with other users.
+However, these influence campaigns take on a whole other dimension when they are funded by states with deep pockets and enacted with specific geopolitical intentions.
+In these instances, the motive is frequently not to reach individuals with information that could potentially be useful, but rather to flood the public sphere with content­—often false—and to make it incredibly difficult for citizens to filter what information can be trusted and what cannot.
+This is what happened in 2014 in Ukraine when the Russian government launched a concerted effort to disrupt the news media ecosystem amid the political upheaval of the EuroMaidan protests.
+The use of state-sponsored trolls to spread disinformation and to attacks Ukrainian journalists online was one of the primary tactics that the Russian government employed.
+Russia’s ability to successfully coordinate these efforts in Ukraine was based on several important factors.
+First, the Russian government had already developed a network of paid posters under the government of Dmitry Medvedev.
+President Medvedev embraced social media and became known as the “blogger in chief” for his use of blogs and other social media during that period.
+The first instances of organized networks of paid posters and automated accounts connected to the government surfaced at this time.
+However, in contrast to the campaigns that would come to attack democracies in other countries, at the onset these activities were mostly to promote and draw attention to the president’s writings and other content online.
+When Putin resumed the presidency in 2012, he implemented a more aggressive internet policy that included more sophisticated filtering systems and the weaponization of troll networks to attack opponents.
+Companies such as the Internet Research Agency, a quasi-independent organizations with deep connections to the state, emerged at this time.
+Petersburg based group brings together a complex of programmers, spammers, and simple computer users who design and participate in varying online campaigns against opposition candidates, parties, and other movements.
+These tactics combined with the oppressive legal and political climate seriously affected the way that the media operated in Russia.
+Those few outlets that remained independent had to develop strong cybersecurity practices to protect sources, keep communications within the newsroom private, and keep their operations online.
+This cybernetic connection with Russia as well as the fact that many Ukrainians got their news from Russian language television and radio made the country very susceptible to a disinformation campaign.
+Indeed, Ukraine represented one of the most fertile places in the world for a new kind of propaganda.
+This intervention, which began in 2014, showed the power of these networks to extend their reach outside of Russia.
+Its 2004 Orange Revolution had resulted in the defeat of Russia’s ally Viktor Yanukovych in an election that pitted him against a Western aligned, European-oriented candidate Viktor Yushchenko.
+Six years later, Yanukovych regained power in another election only to be challenged in 2013 by another round of protests against corruption and a decision by his government to cancel an agreement to move towards integration with the European Union.
+The protests coalesced in Maidan Square in Kiev and the movement they generated came to be known as the EuroMaidan.
+In February of 2014, as Yanukovych and many of his key ministers fled to Russia and parliament called for special elections to replace him, disguised Russian soldiers took control of government buildings and strategic infrastructure in Ukraine’s Crimea region.
+In a referendum that November that occurred under Russian military occupation and was denounced as illegitimate by the west, Crimea was incorporated into the Russian Federation.
+Further Russia-backed agitations for succession have since embroiled Ukraine’s Donbas region.
+These events became foci of disinformation campaigns by the Russian government, from denying the assistance that Russian forces gave to paramilitaries in Ukrainian regions, to the downing of a Malaysian Airways flight by those groups during the war.
+Research by the Oxford internet Institute’s Computational Propaganda project shows that networks of “trolls” or paid social media accounts have been particularly prevalent in Ukraine throughout these events, and at relatively cheap cost.
+Accounts manipulated by paid users to post about specific topics or “like” other posts, accounts or pages cost as little as United States $0.40 to $0.90 on social networks such as Facebook, Twitter, and VK.21 These networks were often based in Russia or other former Soviet Russian republics.
+While in some cases these trolls, often amplified by bots, spread messages based on common themes and central organizational principles, in other cases they did so in more decentralized and multifarious ways.
+Research showed that various bot networks were created during both the 2013 EuroMaidan protests and the beginning of the conflict in Eastern Ukraine in 2014.22 These bots and trolls were used to amplify content that supported the Russian narrative that the EuroMaidan movement was a Western-backed coup, attack users who objected to this narrative, confuse users about facts on the ground, or encourage various hashtags or topics to trend on social networks.
+Bots or trolls could even be used to monitor real users for violations of the terms of service and report them with the goal of getting them banned or suspended.
+In one case, a journalist had their Facebook account disconnected for posting about the downing of a Malaysian Airways commercial airliner MH17 during the war for Eastern Ukraine.Bots and trolls sent thousands of requests for takedowns to Facebook and other moderation teams, which banned or blocked user accounts tied to media or others in civil society.
+On the whole, these tactics represented a distributed form of attack on freedom of expression and the press because they sought to hinder the ability of journalists to communicate the news and prevented Ukrainian citizens from being able to easily access high-quality information.
+Ukrainian journalists have played a major role in exposing bot networks and the use of Russian computational propaganda.
+This combination of data scientists, graphic designers, and journalists demonstrates a powerful example of how new forms of journalism—by revealing how the disinformation networks are formed and administered—can counter new forms of propaganda and censorship.
+This model is especially powerful when applied with traditional forms of narrative journalism.
+The Ukrainian government attempted to form a user base of social media agents to counter false narratives, and registered 40,000 individuals to work to oppose false narratives.
+However, the government has not been able to confirm that they have used this base in any consistent way.
+Ultimately, the Poroshenko administration chose a more blunt strategy, banning Russian television and radio from Ukrainian networks and blocking Russian social media sites such as VKontakte and Odnoklassniki, as well as the Yandex search engine.
+It was a questionable decision, as this kind of blanket censorship seriously affects freedom of expression in democratic society, and with dubious effectiveness, given the numerous ways to pierce the ban, such as VPNs or encrypted networks.
+Ukraine is currently divided by civil war, and unfortunately this division is reflected in its social networks, which havebeen exploited by Russia and its allies.
+The country provides examples of how networks, both human and robotic, can shape narratives about events and people, but also how new kinds of media organizations like StopFake and Texty can begin to describe and counter these narratives by identifying the networks that propagate them and the content they are sending.
+Simultaneously, they are working to push back on these narratives by explaining why the stories are wrong and also how to use social media to discredit them.
+As a result, Ukraine is both a sign of how new forms of distributed censorship can operate in contested contexts, and how civil society and media can begin to form effective responses.
+Developments in Turkey over the past five years provide another example of how authoritarian state agencies use large networks of pro-government users to undermine the free exchange of ideas.
+While “troll armies” are becoming increasingly prevalent throughout the world, Turkey exemplifies how these tools are being turned on their own populations to create a new form of distributed censorship that starves citizens of reliable news and information, and makes the work of independent journalists incredibly challenging.
+Attack opposition social media accounts through networks of trolls and bots.
+Often these coordinated attacks are complemented by the regime’s supporters working in direct coordination with government agencies.
+Lodge complaints with Twitter and other social networks against accounts that are challenging the regime in hopes that the platform will pull done the content.
+Hack journalists accounts and expose their private conversations to the public.
+The first component comes through a network of supportive social media accounts.
+The central node in the network of these campaigns was often a group of over 6,000 supporters attached to the “New Turkey Digital Office” that promoted ideas supporting the regime and attacked others that did not agree with the government’s perspective.
+These networks were also capable of activating thousands of followers in online social networks to support these campaigns.
+Government affiliated and supporting groups increased their use of these tactics in March 2014 when they focused on defending Erdoğan and his allies from accusations of corruption that surfaced on Twitter from an account known as @oyyokhirsiza.
+This account leaked confidential information that showed questionable business dealings of his Minister of Communication, Binali Yıldırım, and his son.
+The Shorenstein Center at Harvard defines this kind of campaign as a form of “malinformation” in that it describes information that is often true, hacked and leaked to discredit the user as well as the ideas and objectives Erdogan pledged to wipe out Twitter and even temporarily blocked it.
+However, civil society and opposition groups responded by using VPNs and other workarounds to virtually tunnel out of the country, and spread information about the shutdown through the hashtag #TurkeyBlockedTwitter that helped end the blockage relatively quickly.
+The use of state-led troll networks brings to bear state sponsored campaigns combined with members of the public that are influenced by them to post their own social media.
+This constitutes a distributed attack on democratic discourse, through the spread of state propaganda and the diminution of opposing themes, accounts, and content.
+A second tactic used by the government was to tap these same networks to attack journalists by submitting complaints against their content on Facebook and Twitter.
+The objective of these repeated complaints from multiple different users would encourage social media platforms to remove the content.
+These trends only increased over time, as it became one of the largest supplicants of account deletion or content removal on the network through 2017.33 After the 2016 coup attempt, attacks on journalists, their organizations, and others in civil society extended to the online sphere.
+User accounts associated with the regime, or simply supporters spurred on by a climate of hatred toward any opposition, launched attacks on anyone critical of the government.
+A study of tweets attacking journalists in 2016 by the International Press Institute found that almost 10 percent of them were sexually related comments directed overwhelmingly at women.
+Other methods catalogued included humiliating tweets intimidating content and “Threats of violence, other abusive behaviors, legal threats and technical interferences ”.34 These networks have encouraged a climate of fear, self-censorship, and suppressed social and political expression online in various forums.
+The government and its allies have also moved to attack journalists via a third vector, through hacking their private accounts and spreading their own confidential conversations with sources, coworkers, and other contacts.
+IPI found 20 cases of journalists having their accounts hacked in this period, usually announced by the culprits taking control of their Twitter account and posting messages supporting the regime.
+For instance, when the journalist Can Ataklı’s account was hacked the attackers scrawled “I apologise to our honourable president to whom I was unfair and bashing all this time with my libels and insults” with a picture of the President attached; his direct messages were meanwhile shared in online forums.
+It should be noted that these types of attacks not only impact the journalists who are the targets, but they also serve to sow doubt and confusion among the broader population about who to trust.
+They create insecurity as it can become more difficult to know what is real and what is false online.
+Finally, these tactics are combined with a fourth, more traditional tactic of simply prosecuting and jailing journalists.
+This is now bolstered by a new constitution that criminalizes many kinds of speech against the state or the security services.
+New forms of censorship, such as the use of troll armies and hackers to find incriminating materials, are more effective in combination with stringent laws against threatening state security or other equally nebulous concepts.
+Turkey provides a primary example of how distributed attacks on freedom of expression and the press can work in a country struggling to maintain a semblance of a democratic system.
+It is a powerful new tool in the arsenal of censorship that states can now employ, and combined with older methods, it can be a force multiplier in terms of policies and ideas, encouraging a public sphere defined by the narrative of the regime, and disparaging and inciting fear in any opposition.
+The combination of legal, physical, and online threats has taken a toll and promoted a kind hybrid censorship that has been effective in silencing the media, confusing users, and blunting the effects of critical press from any source.
+Automation brings another level of coordination and computing power to bear through distributed forms of censorship.
+Networks of automated accounts or bots, known as botnets, can be used to promote content, create trending topics, or attack others, generally for a relatively low investment, even compared to trolls, as individual users can operate thousands of individual accounts or even enable them to operate autonomously.
+Though the Philippines is now more commonly invoked in the study of how media freedoms and democracy can be unwound, the country’s experience also illustrates how a strong response from media organizations can push back against new forms of censorship and control.
+Bots are especially good at inflating the importance of topics, repeating hashtags or other trends and content online, a tactic that is especially critical during elections, debates, and other moments of acute political importance.
+Four days after Duterte declared his candidacy, observers found examples of suspicious increases in the tags associated with his campaign rising to over 10 times the combined mentions of his rivals , likely caused by bots posting hundreds of times per minute.
+The Philippines provides an example of how these automated systems work, but also how they can be identified and confronted via new independent media networks.
+The organization has also profiled the use of bots by supporters of Duterte’s party and campaign, and how this led to a surge in support during his election in 2016.
+They interviewed members of the campaign apparatus as well as organizations and companies that supported them, augmenting their reporting of the content of the messages with network analysis and interviews.
+These tactics paint a compelling picture of the state of the online space in the Philippines and have angered supporters like Uson to the point that she has requested that they be reclassified as a social networking group rather than a news organization.
+Notably, this reclassification would make Rappler more accountable to Uson’s office.
+It has also been attacked through legal means, as the government has challenged its tax status by questioning its foreign funding, and others have sued it for libel under a 2012 cybercrime law.
+Besides the popularity of its content, the fact that the government is attempting to define Rappler as a social media company while pursuing it for tax evasion, suggests that its methods of finding and identifying government accounts while promoting opposing views have achieved a qualified but notable level of success.
+Blocking also tends to draw public attention and outrage, as was the case in Turkey when the government blocked Twitter.
+Throttling the internet, however—slowing the speed of user’s access—provides another form of censorship that is more difficult for users to detect, to the point that they may believe their device or network has another technical issue unrelated to any form of government involvement.
+It is a distributed attack that covers many users who are reliant upon cellular networks to connect to their allies, friends, and family, coordinate, and generally understand social and political systems.
+In the wake of the Arab Spring, several regimes in the region developed new systems for the control of their domestic internet, and Bahrain provides an important example.
+As a small gulf kingdom under the control of a single family, the regime often censors speech that is harmful to its image, whether political, social, or related to security issues.
+The media in the country is tightly controlled; only outlets that are friendly to the government can operate, and multiple journalists have been jailed for covering taboo topics.
+Because of this restricted media environment, the internet provides a key conduit for citizens to access information about the world.
+Besides documented cases of blocking, the country engages in widespread surveillance of activists and other opponents of the regime, including with software that hacks the phones, computers, and other devices.
+These advanced surveillance systems are marketed by corporations as a method for law enforcement or intelligence investigations, but in the hands of authoritarian regimes can also be used to stifle opposition, track dissidents, incite fear in citizens and inhibit the ability of activists and journalists to cultivate sources or work within teams.
+Cybersecurity thus becomes a critical element of operational security for any media organization working in these contexts.

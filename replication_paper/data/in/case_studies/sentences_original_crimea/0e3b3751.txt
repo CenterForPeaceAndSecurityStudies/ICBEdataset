@@ -1,0 +1,429 @@
+SPONSORING / MONITORING AGENCY NAME AND ADDRESS Advanced Operational Arts Studies Fellowship, Advanced Military Studies Program. 5a.
+ABSTRACT International actors engage in cyber warfare to include the People’s Republic of China, the Democratic People’s Republic of North Korea, the Islamic Republic of Iran, and non-state actors.
+Cyber warfare evolved into synchronized activities to achieve strategic objectives.
+This research asserts that the characteristics of cyberspace amplify the aspects of crossdomain warfare within the framework of operational art.
+The case study evaluated the Russian Federation cyber operations in time and space to support a theory that cyber and land force actions can transform mutual operational reach.
+Further, the study employed modeling of observed interactions which indicate synchronous land and cyber power change the construct of the operational art regarding tempo to transform the time, space and purpose for strategic aims.
+The study provides a conceptual framework to aid in answering the following questions.
+SUBJECT TERMS Cyberwarfare, cyber-joint operations, Russo-Ukrainian conflict.
+Contents Acknowledgement.vi Acronyms.vii Illustrations.ix Introduction.
+Bibliography. v Acknowledgement As all military families, the Williams family has given its all and sacrificed to support the United States Army and myself for twelve years.
+My wife, Kimberley and Aaron, my son, gave up the time with me our last few years for the service and the research.
+We hope our contribution significantly provided toward the understanding and answered the illusive questions hidden in this body of study.
+Bruce Stanley, Lt Col Todd Puntney, Colonel Peter Im have supported my wild spirit of discovery but more importantly, my personal development.
+You all set me along the path toward the School of Advanced Military Studies, thank you gentlemen.
+Specifically, Majors Joe DiDomenico, Chad Corbin, Tennille Scott, Ryan Hand, and Brian Walker; all of you have provided incredible input and peer development to this study and my professional development as an officer.
+Tony and Josh, do your best, serve your country, always care for your family.
+Interpretation of the Russo-Crimean Conflict 2013-2015. ...48 Introduction An important feature of a learning machine is that its teacher will often be very largely ignorant of quite what is going on inside, although he may still be able to some extent to predict his pupil's behavior. —Alan M Turing, “Computing Machinery and Intelligence” Jeffrey Carr, a cyber intelligence expert and founder of Taia Global, observes that the complexity and secrecy of cyberspace have confounded the thinking of senior national security leadership.
+Turing along with others at Bletchley Park, United Kingdom built the cyber-mind to decrypt the communications within “Enigma,” “Fish,” and “Magic” that connected the Axis Powers’ through a global electromagnetic communications network.
+Obvious solution UK concentrates on decrypting, on cryptanalysis against German and Italian.
+Sir Harry Hinsley, ""The Influence of ULTRA in the Second World War,"" (lecture.
+ARPANET’S design became the framework of modem cyberspace that has been embedded to control human space.
+ARPANET’S survivable structure provided the means for cyber war to go beyond signals and technical intelligence within the framework that became the Internet.
+By the 1980s, the first documented cases of cyberattacks against infrastructure, economies, and intellectual property had begun to appear.
+By the twenty-first century, the Russian Federation enhanced offensive attacks through cyberspace against Georgia in 2008 and later synthesized cyber and land power during the invasion of Ukraine in 2014.
+The significance of this research provides an initial contribution to the theory and understanding of cyberspace and the general theory of warfare.
+Computer Network research documented in the January 1 to June 30, 1972, marked the beginning studies in the optimization of large computer networks and is universally recognized as the start of the Internet.
+Further, the technical specifications and control structure developed through ARPANET began the standard of global networks that became the internet and all classical network protocol structures.
+Richard Clarke, who served as the National Coordinator for Security, Infrastructure Protection, and Counterterrorism provides a classic definition of cyberspace that reflects the Joint definition of Cyber Operations.
+General Dempsey recognized that the resonance between domains of warfare depends on their interaction of behaviors and capabilities within the context of operational outcomes.
+Theoretically, planners may employ these interactions to exploit systemic domain advantages.
+The associated interactions between cyberspace and cross-domain warfare must be understood to form optimal options for commanders.
+An understanding of this resonance in warfare leads to choices and opportunities.
+First, if land operations alter the state of cyberspace, then land power must be synchronized with cyber operations for operational reach.
+Second, if cyber operations impact landpower, then cyberspace may alter the available time, space and purpose of land warfare.
+Two focused questions were used to gather the empirical evidence to test the hypotheses.
+The research potentially provides a cognitive framework of operational art that conjoins cyber operations with the other domains in the joint context.
+The research material focused on only unclassified publicly known actions attributable to the Russian Federation between March 2013 and January 2015 within the territory of the Ukraine.
+The primary purpose of analysis centered on the interaction of cyberpower and landpower.
+The paper attempted to frame a complex system to conceptualize the interaction of cyberspace and provide greater clarity for understanding cross-domain warfare.
+Army Design Methodology AY 2011-12 (Fort Leavenworth: School of Advanced Military Studies, 2011): 16-7.
+First, hacker culture imposes a degree of internal social context concerning the conduct of cyberspace activities.
+Second, regardless of multiple puiposes for synchronization of cyber operations with land formations, the Russian Federation campaign evolved its operational approach from a theory of “deep battle” during multiple decades before 2013.
+Finally, the reduction to land, space and cyber does not obfuscate the overall interactions of other natural domains.
+The literature review builds a theoretical and conceptual context of operational art and cyberspace which connects to the contextual model of cyberspace relative to the other domains of warfare for further analysis.
+Next, the methodology provides a framework of the structured focused approach to assess cyberspace's characteristics and apply operational art for an established process.
+The findings section synthesizes the evidence of the case study within the theoretical hypothesizes.
+The conclusion draws from the findings to recommend an application of cyberpower within joint operations.
+RFCs provide the collaborative framework in which all internet terms, references, design, and implementation are based.
+In military terms, an RFC is the doctrinal and capability implementation of cyberspace.
+The assumptions are thus that hacker culture imposed a humanist character to the physics of the cyber environment.
+Operational art framed within the context of Russian deep battle theory and academic models of joint cyber-land operations provides a structured focused approach to assessing the Russo-Ukrainian conflict.
+A theoretical model of operational art provides a cognitive framework to seize success in modern warfare.
+SAMS founder, Brigadier General Huba Wass De Czege, described operational art as the genius to apply tactical actions toward strategic ends in time, space, and purpose.
+Russian operational art adapted deep battle to solve the obstacles of early post-World War I breakout.
+Naveh described the Russian theorist Tukhachevsky’s ideas had substituted destruction ‘Verichtung’ of armies with the concept of operational shock ‘ udar’ that leads to the annihilation of the enemies’ war systems by the race of time.
+Both 20th century German and Russian operational theories link the Prussian theories of Clausewitz and Moltke the Elder to the problem environment observed by Georgii Samoilovich Isserson which could overcome friction by the use of time to dominate command and control.
+The Intellectual Culture of the Interwar German Army,” The Army Doctrine and Training Bulletin 4, no. , 50-1.
+Tukachevsky as interpreted by ‘annihilation’ which he implored as the military end state and Naveh post-edited as a strategic end, annihilation.
+He proposed composing sequences of actions in time and into the depths of enemy spaces.
+The Russians then balanced combinations of operational capabilities of each combined arms unit within each strike force based off of the predicted operational circumstances.
+On War, edited and translated by Michael Howard and Peter Paret , 209; Naveh, In Pursuit of Military Excellence , 33.
+Source Richard W Harrison, Architect of Soviet Victory in World War II , 114.
+The United States military adopted operational art as a transformative concept after 1978.
+The American military codified operational art as a cognitive function to operationalize national means and achieve political ends to counter Soviet deep battle doctrine.
+Similar to the Russian theory, American operational art became a cognitive approach to alter opposed systems by attacking decisive points through a synchronization across the temporal depth of the battle area.
+Global cyber warfare potentially provides an extradimensional means that complements deep battle and amplifies immediate land warfare.
+Alan Turing hypothesized that the engineers of the military global intelligence apparatus would not be able to understand the logic to which it operated.
+For instance, the makers of the United States’ ARPANET could not foresee the global implications of control or cognitive spaces their system would create.
+Thus the architects of the new synthetic human domain had no means of understanding the consequence of the complex open system that they had designed.
+The open system evolved from hackers in elite clubs at engineering universities to plan digitized assaults between nation-states.
+Military practitioners adopted the hacker mentality and methods that weaponized human innovation.
+The effects of cybernetic manipulations mirrored military operational art to exploit enemy weaknesses and gain temporal dominance.
+The ‘Imitation Game' logically extends to consider the creation of the electromechanical mind toward the evolved networked digital computer system as a thinking machine system, a complex adaptive system, that exceeds the cognitive understanding of those who brought the new intelligence into existence.
+The reports detail that the progression of specifications for ARPANET and the integration of space telecommunication systems.
+However, the reports in 1973 begin to describe the process of system security as an endless task.
+Dolman connects the conservation of time to the tactical engagements that achieve control of tempo and the prediction of these acts by strategy.
+Operational art seeks to adapt to 10 became systems synchronized by autonomous parts.
+Twentieth century commanders struggled to maintain control and prevent their opponents from attacking their systems.
+The United States defense theorists developed the doctrine of Network-Centric Warfare to employ the advantages of defensive cyber power.
+Between 1990 to 2005, early information age theorists framed cyber power as sharing knowledge across all networked nodes rapidly to outpace adversary decision cycles and seize an asymmetric advantage.
+The NCW theory ignored the counter threat of cyberpower which could attack its functions.
+The net-centric and net-war conceptualization of cyber power employed the idea of rapid-complete situational awareness and action.
+John Arquilla’s description of the employment of cyber capabilities by various non-state actors proposed a concept for net-war which complements Libicki’s, the lead theorist of NCW, information warfare vision of cyber power.
+However, these theories evangelize flawed asymmetric advantages predicated on NCW’s asymmetric benefits while exposing cohesive systems to cyber-attack.
+Cyber reliance expands the cyber-surface area that opponents could assault into cognitive and physical space provided from advanced microprocessor enhanced systems interconnectivity.
+Cyberspace operates from a standardized network system architecture which provides simple approaches to overcome complex problem sets.
+The Transmission Control Protocol/Internet emerging situations continually.
+Dolman links his ideas to Boyd's OODA loop as an attempt to achieve this goal.
+The open source, globally understood, TCP/IP system provides optimal routing services for legitimate use.
+However, the same norms of ""good practice"" generate attack surfaces for hackers.
+Cyberspace's transmutable interactions imposed by collective engineering agreements created operational gaps through simplicity.
+Hackers could alter the rules of logical cyberspace and manipulate the relative characteristics of time and space across domains.
+The malleability of the TCP/IP architecture, computer code, functions, and even hardware ""states"" allow the operating laws to be transformed for divergent purposes.
+Cyberspace after 1991 provided an immense environment for hackers to exploit the engineered laws of cyberspace.
+Practitioners and executives discounted the legal perils of manipulation in the 1990s as security issues to litigate hackers in Western states.
+Instead, the art of hacking became a criminal sub-culture within the United States.
+Cyber security firm Symantec implicated the Stuxnet creators as a nation-state that employed over thirteen hacker tactics, techniques, and procedures which destroyed the strategic Iranian nuclear reactors at Natanz.
+Meanwhile cyberspace provided a global means to control populations, industry, media, and ultimately institutions of reality.
+Cyberspace exploded as a world of blind users, rebellious hackers, and professionalized cyber-authoritarians.
+First, cyberspace requires the Electro Magnetic Spectrum to propagate efficiently.
+Second, cyberspace needs man-made physical objects to generate nodes within its topography.
+Fourth, cyberspace’s barriers to entry decrease rapidly relative to Moore’s Law.
+Fifth, offense rather than defense is the dominant form of warfare in cyberspace.
+Finally, cyber warfare is not information warfare but warfare within a domain that can significantly impact all the physical domains and control environments including that of information.
+Cyber operations require a set of domain characteristics to establish a basis for analysis.
+Office of the Secretary of Defense, April 2013), 1-2; David S Alberts and Richard E Hayes, Power to the Edge , 90-3.
+Moore's law states that each year the number of transistors in a fabricated dye will double.
+The information technology sector has observed the same relative exponential growth in processor rates for the last three decades.
+The human information space and the physical connections of cyberspace did not collocate in the natural world but delimited through the logical layer of cyberspace.
+Therefore, cyberspace has been made to transmit as a medium the human modality of information but is not controlled by the information constructs. 13 other domain theorists, Mahan, Corbett, Mitchell, and Klein, to propose the fundamental characteristics of cyberwarfare.
+Mahan's stress on the defense and communications from remote ports provides the strength to the fleet.
+He theoretically linked sea and land operations as essential for strategic success.
+Cyberspace relies on the physical nodes that conceptually interconnect from the physical infrastructure.
+Giulio Douhet philosophized that instead of the mass slaughter seen during the Great War; the application of absolute war rapidly imposes on the opposing force through air power would prove decisive.
+Ultimately, cyber power leverages Douhet’s concepts of strategic bombing, immediate air supremacy with those of Billy Mitchell for the operational reach of air power versus strategic outcomes.
+Cyber power, like air power, must gain temporal dominance in the cyber domain.
+While space power does not have an operational theory or artist connected to it, the domain does have principles that can contribute to the understanding of cyberspace.
+Space power like air and sea power requires the use of choke points or hubs of activity.
+However, unlike air and sea, space relies on satellites in discreet orbits controlled by air, sea, or land infrastructure to maintain advantageous positions.
+Next, the orbits of space power like the sea lines of communication provide equal utility to all nations and highly sought after connections in cyber power.
+Space Control.. . measures taken to prevent an adversary's hostile use of US/third-party space capabilities or offensive operations to negate an opponent's space capabilities used to interfere with or attack US/allied space systems.
+Like space operations, cyber operations require control of advantageous position in cyberinfrastructure and logical space.
+Air Force General Benard predicted that precision guided munitions by space age fighters could defeat Warsaw Pact “follow-on forces” and thus support AirLand Doctrine.
+The Men, Machines, and Ideas That Revolutionized War, From 15 Central Command Commander, General Schwarzkopf, the ability to cut off supplies, isolate the Iraqi regime from ground forces, and disable air-defense assets.
+Potentially, cyber forces can be employed to achieve similar functions through the use of its unique attributes.
+Either space or cyber domains enable precision guided munitions essential for a minimalist operational approach.
+Antoine Bousquet questions the conclusions of Cebrwoski and the NCW concept as opposed to Boyd's cybernetic theory; observe, orient, decide, and act loop.
+Bousquet concludes that Boyd sought to get inside an opponent's OODA cycle as an approach to achieve initiative, surprise, and deception beyond simply speed.
+Thus connecting Leonhard's concept of perception and tempo to Bousquet's critique of netcentric warfare enables a framework to see cyber warfare on the battlefield as an indirect means to overwhelm an opponent's offsets within a respective domain.
+This paper relies on five characteristics of cyberspace as the basis of analysis for the further study.
+First, cyberspace requires man-made physical nodes within its topography.
+Second, control of advantageous positions in the cyber infrastructure and logical space enables warfare.
+Third, cyberpower cannot succeed by opposing cyber forces but through the manipulation of cyber topography.
+Fourth, cyber dominance enables the operational reach of cyber power through advantageous position and tempo.
+Fifth, defense of safe cyber-ports ensure the stability of cyber topography and the lines of communication to other domains.
+Cyberspace is a complex adaptive system, second only to the natural world, in which manipulations of the system cause chaotic cascading effects.
+Achieving a position of advantage in cyberspace can theoretically be attained through maneuver in other domains.
+The act of the sequencing of actions in time creates a frequency that cyberspace can amplify through harmonization.
+However, three topics appeared that have contributed to the development of theory to provide for a structured focused case study.
+Osinga summarizes Boyd's Observe, Orient, Decide, Access loop as a cybernetic system in which each node affects the state of the next.
+Cyberspace acts like a variable causing a closed system to open and transform rapidly in response.
+Bradley Converse and Scott Applegate's research provided a basis to support research for cyber-land interactions.
+The study applies cyber power as a theoretical warfare framework that combines the utility of cyberspace and operational art in warfare.
+Methodology This study utilizes the structured focused approach of a single case study to construct findings that indicate the interaction that cyber operations enhance cross-domain warfare.
+The Russo-Ukrainian conflict provided evidence to support the research questions using the device of cyberspace characteristics.
+The five characteristics of cyberspace regarding the research questions frame the effectiveness of operational art in the scope of cross-domain warfare.
+The structured focused methodology provided a way to assess the evidence that cross-domain warfare occurred in the Ukrainian theater.
+How land and cyber operations mutually impacted strategic outcomes regarding the operational reach and tempo suggests a complex interaction between land and cyber operations.
+Cyber power appears to alter the time, space and purpose of land power regarding operational reach and tempo.
+First, how the Russian Federation applied joint operations with cyberpower and exploited the characteristics of cyberspace to enable operational reach and tempo.
+The observed interactions between land and cyber in the case study provide evidence that land and cyber maneuvers achieve operational synergy and a potential harmony.
+If the Russian Federation appreciated the interaction of land and cyber, then they would operationalize and synchronize each within a symbiotic-strategic setting.
+Secondary sources supported observations that the Russian Federation cyber-actions to provide evidence that cyber and land force synchronization transformed mutual operational reach.
+Observed synchronous land and cyber applications construct a picture of operational tempo that transfigured the time, space, and puipose of events toward strategic aims.
+The case study filtered events using validated observations in both domains of warfare.
+The assessments identified and supported predictions that land and cyber maneuvers enhanced crossdomain actions.
+Non-governmental sources, the open press, and the North Atlantic Treaty Organization publications provided the bulk of information about the conflict.
+The study assumed that the Russian Federation manipulated the eastern European press.
+Additionally, evidence from the Ukrainian ministry investigations provided a counter-perspective to Russian sources.
+Ultimately, global nongovernmental post cyber-forensic evaluations tied the actions of Russian land and cyber forces to 68 Alexander L George and Andrew Bennett, Case Studies and Theory Development in the Social Sciences , 69. 20 clarify a picture of events.
+The critical events between cyber and land domains indicated a new impact of cross-domain activities.
+The structured focused approach methodology applied to the Russo-Ukrainian conflict facilitated the objectives of this monograph.
+Above all, the balance of sources against possible cyber and attributional events determined the scope and tempo of operations in the Ukraine.
+The justified hypothesizes suggest that cyber warfare exposed a new approach in operational art through synchronous cross-domain implications.
+Blue forces redirected in cyberspace after Red Force destroys or manipulates the physical/logical nodes.
+The Russo-Ukrainian Conflict 2013 to 2015 The combined operations between the Russian land and cyber forces leveraged several advantages against the Ukraine between 2013 and 2015.
+Ukrainian cyber architecture and topological environment created a familiar set of considerations that Russian troops continually addressed through modification of their operations.
+The Russian land forces synchronized cyber and ground troops that diverged from the classical operational art of “deep battle” within the context of cross-domain warfare.
+The Russian Federation maneuvered on land to affect cyber and vice versus.
+The case study provides evidence of the mutual impact of land and cyber power.
+The case study presents evidence that the characteristics of cyberspace alter the application of operational art regarding cross-domain warfare.
+Modern Russian Theory of Warfare Multiple American analysts assess ""reflexive control"" as the employment of all twentyfirst-century capabilities of national power into the frameworks of ""deep battle"" operations that manipulate an enemy.
+Lefebve first introduced the concept of reflexive control in the 1960s.
+The primary missions of special reconnaissance are acquiring intelligence on major economic and military installations and either destroying them or putting them out of action; carrying out punitive operations against rebels, conducting propaganda; forming and training insurgent detachments, ~ '22 employed cyberpower as another part of the framework of reflexive control equal to other military domains to create the positive environment for military action.
+The Russian's employ conventional forces as a phase of escalation to finalize an opponent nation into accepting the desired state.
+Russian Chief of the General Staff Valery Gerasimov says that the open use of force comes from a stage following the manipulations of information and actions used by special forces.
+Above all Gerasimov declared that extensive use of force should be employed as the final step to conflict success.
+Maria Snegovaya, an expert in Russian political science from Columbia and the Wilson Center, states that reflexive control is not only the Kremlin’s information warfare but an innovation of thought from Soviet doctrine.
+The Ukrainian experience of reflexive control should not be seen as something new but an adaption of deep battle.
+Snegovaya captures three key elements of Russia’s reflexive control techniques.
+First, denial and deception operations concealed or obfuscated the presence of the Russian forces in Ukraine.
+Second, the Russian Federation disguised goals and objectives that generated an acceptable conclusion within the Kremlin’s aims.
+Third, the Russian Federation justified its action through superficially plausible international legality.
+Russian strategic theory today remains relatively unimaginative and highly dependent on the body of Soviet work with which Russia’s leaders are familiar.
+Soviet Origins of Russia’s Hybrid Warfare,” Russia Report I : 7. 23 cyber campaigns in Georgia and the Ukraine with applied “continuous, mounting pressure on the Georgian government and population... to provoke the Governments] into the desired decisions and actions,” 73 that satisfied the strategy of reflexive control.
+The three reflexive control elements combined to limit NATO military power along with the threat of the Russian military nuclear potential.
+The infrastructure of the opponent remains key to the employment of cyber and information capabilities by the Russian Federation.
+Bedritsky pointed out that rather than improving the efficiency of traditional military operations, the new information warfare campaigns would attempt to destroy pieces of the enemy’s critical infrastructure.
+Hence, cybermeans such as cyber-attacks can cause a failure of power supply facilities, transportation infrastructure, government institutions, etc.
+In this way, cyber warfare can induce the target country’s political and economic collapse.
+Russia’s new military doctrine for propaganda and information war theories have not changed from the old Soviet Union.
+Examining Non-Military Aspects of the Crisis in Ukraine from a Strategic Communications Perspective,” Report : 35.
+The technosphere theory, “a concept of an entirely new type of warfare—warfare in an artificial environment” mirrors the western concept of cyber warfare.
+The structure and maturity of Ukrainian cyberinfrastructure provide a relevant sample of cyber-land warfare.
+Ukraine entered the Information Era immediately after the dissolution of the Soviet Union in 1991.
+Keith Giles from the Conflict Studies Research Centre noted that the Russian Federation developed and financed the Ukraine’s communication systems and telecommunication companies.
+Additionally, the Ukraine uniquely bore a single physical fiber-optic line to mainland Crimea in 2013.
+The symmetry between Ukrainian rail and cyberinfrastructure resonated with the conceptual patterns of deep battle and reflexive control theories.
+The characteristics of cyberspace with operational art escalated political events.
+NATO tensions began to grow as early as March 29, 2008 when the Russians began to express opposition to NATO membership for Georgia and the Ukraine.
+But also, there is no reason why Russia should try, especially given the integrated nature of Ukrainian and Russian information space.
+Since Russia already enjoyed domination of Ukrainian cyberspace, including telecommunications companies, infrastructure, and overlapping networks, there was little incentive to disrupt it.
+Old Attitudes, New Capabilities,” Cyber War in Perspective: Russian Aggression against Ukraine, edited by Kenneth Geers (Tallinn, Estonia: NATO Cooperative Cyber Defence Centre of Excellence, 2015): 24.
+Further, the Russian Federation gained military strategic control of the warm water port at Sevastopol.
+Finally, the historical regional hegemony of the Russian people since the Crimean War, World War II, and the Soviet Union generated a condition of honor for President Putin's thinking materialized in the form of the Collective Security Treaty Organization.
+NATO expansion and Ukrainian departure from the Russian sphere of influence threatened petrol-economic interests, fear of NATO military expansion, and honor of Russian hegemonic memories.
+Cyber security firm iSight traced the earliest Russian Military Intelligence Directorate cyber operations in the Ukraine and NATO to the Sandworm Operation in 2009.
+The Sandworm espionage operation, which exploited a previously unknown Windows vulnerability, had started as early as 2009 and 26 tensions remained the risk to the Russian petrol-energy economics including Gazprom and the debt of approximately $1. billion.
+The Russians could not secure their interests with the ouster of Victor Yushchenko by Victor Yanukovych.
+While Yanukovych immediately withdrew NATO application, he also aligned with outside petrol-interests.
+Yanukovych under domestic pressure signed a 50-year production sharing agreement on January 24, 2013 with Shell Oil to exploit the Yukivska shale oil field as the first step for Ukrainian independence from Russian gas.
+The Russian leadership quickly expanded cyber espionage with Operation Sandworm and began to set in place ""Operation Armageddon"" which emplaced cyber warfare access points for future operations.
+According to LookingGlass cyber threat firm, ""Operation Armageddon"" initially provided military advantages over the target Ukrainian government, law enforcement, and military officials which would provide near-term Ukrainian policy and emerging military strategies.
+Events in the Summer of 2013 generated further concern for the Russian interests as the Ukraine began to finalize discussions to accept the Association Agreements with the European Union.
+On June 26, 2013, Russian cyber forces began manipulation of Ukrainian information targeted EU and NATO telecommunications infrastructure through 2014.
+Sandworm's malware had intensified and focused Ukrainian government networks dining September 2014, which coincided with the NATO summit in Wales.
+Cyber Espionage as a Strategic Component of Russian Modern Warfare,” LookingGlass Cyber Threat Intelligence Group (Baltimore, MD: LookingGlass Cyber Solutions, April 28, 2015), 3. 27 systems.
+Cyber threat experts believe these attacks sought to determine the political decisions by all parties.
+The critical political point that drove the Russian Federation decision to seize the Crimea and then extend to eastern Ukraine occurred around November 2013 that became known as Euromaidan.
+Ukrainian President Victor Yanukovych suddenly pulled out of European Association Agreements sparking widespread protests and riots throughout western Ukraine.
+Domestic unrest by the ethnic-Ukrainian population countered the Russian interests and threatened local investments.
+Russian Federal Security Service with the integration of still friendly Secret Service of Ukraine systematically shut down mobile operators with armed police suppression.
+The inclusion of the legitimate OpenDNS to DNS provider suggests that the malware only uses the attacker-controlled DNS server to resolve specific domains of interest to the attackers... he domain file-attachments.ru was privately registered via the REGRU-RU registrar for use in future attacks.
+Perceived Russian interests of regional hegemony, petrol-economy, and the naval base in Ukraine could no longer be secured through subtle and informational manipulation alone.
+The Russian cyber operations sought to isolate the information flow of the Ukrainian government from institutions and military forces across the Ukraine.
+The Russian land forces altered the physical infrastructure within Crimea, enabling cyber operations through canalizing Ukrainian cyberspace.
+Similarly, cyber-land operations employed the same tactics as the conflict spread to eastern Ukraine.
+Cyber operations expanded to enable precision fires and defined operational timelines for land forces.
+The correlation of terrestrial and cyber maneuvers suggest that land and cyber operations mutually enhanced operational reach.
+The task organized Special Operations Command and the 45 th opSpN (Independent Special Purpose Regiment of Spetsnaz detached to the 45 th Russian Airborne Troops ) disembarked by air transport at the naval base in Sevastopol.
+KSO forces seized the Crimean parliament building, the Simferopol airport, and key Ukrainian military facilities.
+Similar unmarked soldiers took over a Ukrtelecom building in Sevastopol.
+Soldiers also manipulated the remaining active fiber optic cables with data intercept devices.
+Effectively, the land forces used physical control of to generate cyber power throughout the Crimea.
+The Russian land forces completed the isolation of the Crimean peninsula from Ukrainian cyber forces.
+Subsequently, the Russian cyber forces enabled the KSO control of Ukrainian telecommunications facility.
+The logic behind these comes from the Ukraine’s telecommunications geography.
+Ukraine’s Internet Service Providers were decentralized and held terrestrial and satellite path diversity to the rest of the world.
+Crimea was one of the vulnerable areas in Ukraine since it only held one Internet Exchange Point that connected the peninsula to the rest of the country.
+Also, actions by coordinated pro-Russian hackers disrupted the mobile phones of members of the Ukrainian parliament.
+Continuous cyber attacks on mainland Ukraine maintained external isolation of Crimea hours before the invasion.
+The combined attacks on Ukrainian and Crimean telecommunications before Russia's invasion and post-invasion cyber-attacks significantly lowered the response potential of the Ukrainian government.
+Operations Armageddon and Sandworm altered the cognitive space through integrated cyber and land force maneuvers.
+Isserson’s composite theory of “multi-level battle waged on several tiers within the operational depths” took a new form in the Donbass Campaign.
+The threat of the Russian invasion further escalated by March 12, 2014 as NATO and the Ukrainian government identified the Russian Federation forces massing along Ukraine's eastern border.
+Again, the Russian forces began the process of integrating an operational approach between cyber and land forces.
+Cyber capabilities escalated by June 15 as the Russian forces deceived Ukrainian defenses and prepared the next Russo-Ukrainian campaign.
+The cyber operation began and used the same malware and TTPs from the Crimea.
+LookingGlass hypothesizes that the Russian cyber forces reused old TTPs to determine how Ukrainian forces would respond.
+Less than a week later on June 20, Ukraine’s new President Poroshenko announced a ceasefire two weeks before initiating a military ground operation against pro-Russian rebels in the Donbass oblast.
+Security firms and digitalattackmap.com confirm Russian military activity and cyber-attacks paused for those two weeks.
+Presumably, the Russian GRU and FSB detected the intent to invade by Ukrainian forces through multiple intelligence sources including cyber reconnaissance and adapted a new operational approach.
+New cyber TTPs and support by pro-Russian rebels amplified the land and cyber capabilities during the 2014 Donbass Campaign.
+Renewed, from July 17, 2014 August 28, 2014, the Russian military invaded Ukrainian territory and large groups of Ukrainian forces became cornered and almost entirely destroyed.
+Shortly thereafter, the Ukrainian and Russian Presidents Poroshenko and Putin met.
+Only two days after their meeting on August 26, 2014, the cyber-attacks ceased.
+The destruction of communications architecture like in the Crimea isolated the Donbass.
+The seizure and alteration of the cyberinfrastructure along with a new employment of cyber TTPs extended the operational reach of precision artillery fires.
+Pakharenko in a NATO Cyber Center document observed that the Russian cyber capabilities culled data from GSM and Wi-Fi networks to adjust fire for artillery battalions.
+Even while the expected ceasefire was to take effect, the Ukrainian forces came under artillery fires while Russia retained control of the oblast and massed artillery across the border.
+The vast isolated cyber topography in the Donbass Oblast enabled almost omnipresent effects that extended from Donetsk to Luhansk.
+Thus, even under the restricted strategic considerations of a ceasefire, Russia could maintain legitimate targeting in the eyes of enough of world powers to continue projecting the operational reach through cyber power.
+The Crimean and Donbass campaigns of the Russo-Ukrainian conflict provide discreet examples of cross-domain maneuvers and the symbiotic beyond synergistic nature of operational reach in each domain.
+A First-Hand Account,” 63; Arbor Networks, “Digital Attack Map,” July 26, 2014.
+Artillery fire can be adjusted based on location data gleaned from mobile phones and Wi-Fi networks.
+Also, the Crimean theater reveals that cyber power depends on the manipulation of topography to gain dominance.
+Donbass campaign demonstrates the ability of cyberpower to project control of infrastructure providing asymmetric effects.
+Asymmetric targeting such as cyber-enhanced physical ISR and adjusted virtual observation for accurate and timely fires.
+The Russian Federation operational art mutually suggests both land and cyber operational reach within the Ukraine.
+Cyber Enhancement of Operational Tempo Robert Leonhard proposed that the frequency of conflict impacts the consequence of employed tempo in warfare.
+Conceptually, the impact of perceived and imperceptible tempos on the field of battle amplify the strategic employment of military force toward achievable ends.
+This study explores the Russo-Ukrainian conflict as pulses of events tied between cyber and land-cyber that achieved the outcomes by the Russian Federation.
+The Russians harmonized pulses in both cyber and land domains within their strategic framework of reflexive control.
+The initial tempo of tactical pulses occurred during the Euromaidan protests after the Russian's manipulated events and pressured political powers toward fulfilling their interests.
+The political unrest of Euromaidan allowed the Russians to prepare for the control of the Crimea and influence petrol-economic interests.
+Leonhard describes tempo as the sequencing of event frequency and duration which provide opportunities for commanders.
+The frequency of tactical events and aggregate pulses increased as the Russians transitioned to land invasion and overt cyberattacks.
+The Russian intervention in Ukraine operationalized the construct of “Reflexive Control” to generate obstacles and circumstances that should have determined the logical course of Ukrainian and NATO politics.
+The events of the conflict indicate that the duration and frequency of cyber and land pulses are complimentary.
+The Russian cyber events initially supported the sharp divergence of Ukrainian interests perceived by NATO and EU counter to Russian hegemonic sphere.
+The first pulse, the Russian Federation generated nationalism narrative under ""Reflexive Control"" to alter the discourse of international thinking.
+The second pulse, the Crimean excuse provided the Russian Federation with rapid means of control to gain the peninsula’s telecommunications infrastructure, severing cables and routing calls through Russian mobile operators.
+Ukrainian media companies lost their physical assets in Crimea, and local television programming shifted from Ukrainian to Russian networks.
+The Russian Federation dominated local cyberspace to extend the effect of special forces involved in the operation, and points to an entirely new interface between cyber and information environments.
+The Russian cyber operations generated from physical seizure of fiber lines and imposed on Western planners the demonstrated cross-domain activities in eastern Ukraine.
+The first round of conflict indicates that the Russian Federation gained advantages which overcame local circumstances and quickened both land and cyber operations.
+The third pulse, cyber operations extended to cyber personas of commanders, Seizing opposition leaders identities, financial account takeovers, and espionage can be remarkably effective.
+While the Ukrainian government and population balanced the Russian activities with NATO promises, the Russian Federation consolidated immediate gains.
+Martin-Vegue also noted that distributed denial of service attacks provided the most cost effective attack to fix targets through cyberspace.
+The fourth pulse culminated on, February 27, 2014 with the Crimean Parliament seized by armed men.
+Time escaped the Ukraine and NATO which indicates that the frequency of had oscillated from an imperceptible to unacceptable levels.
+The Russian initial pulses in the Donbass indicate a suppression of decision to act by closing cognitive and temporal spaces.
+Political outcomes became tied between Ukrainian survival and American interests on March 2, 2014 with initial sanctions imposed on the Russian Federation.
+Leonhard's rates support the ideas of John Boyd and achieving cognitive dominance inside an opponent's OODA loop.
+Second, Ukrainian officials were unable to share information or execute command and control processes among themselves.
+Third, Ukrainian officials were unable to communicate with foreign allies, placate pro-Russian Ukrainians, or make efforts to undermine Moscow,” Unwala and Ghori, “Brandishing the Cybered Bear,” 6-7. 37 and FSB attacked to achieve changes in Donbass from March 2014.
+Pro-Russian’s cyber attacked with prolonged DDoS attacks against Ukrainian and NATO media outlets.
+Operational tempo still clearly favored the Russian strategic objectives because they still outpaced Ukrainian and International responses as they became perceived.
+Just 72 hours before the Ukrainian election the pro-Russian surge in Donbass occurred in May 2014.
+The pro-Russian insurgency opposed the mandate to the Ukrainian population for a legitimate pro-Western government.
+Alternately, the situation provided ethnic Russians with a clear choice to fight for Russian intervention.
+The election headquarters were hacked by the pro-Moscow group known as CyberBerkut.
+CyberBerkut, allegedly an independent Ukrainian organization, aligned rapidly and technologically with pro-Russian interests.
+Ukraine’s two-decade old information systems predominately utilized Russian technology connected to servers located in Russia.
+The hacker tools employed against Ukraine were sophisticated, further indicating nation-state sponsorship.
+The Russian objectives sought to control the Ukrainian governmental systems that would fall into the Russian Federation sphere of control.
+Temporal dominance by cyber pulses in Crimea appear to have invigorated the Russian Federation application of indirect cyber warfare.
+The czarist-era term refers to the period when the Russian Empire controlled much of Ukraine.
+The temporal conflict extended rapidly past the Crimea to the Donbass within the narrative of the Russian Federation doctrine.
+Malware altered the Ukrainian electoral networks and achieved two divergent objectives.
+Hackers bolstered in-depth reconnaissance of their targets before any serious attack.
+Second, the hackers attacked to control technical credentials and prove the legitimacy of CyberBerkut.
+Russian Aggression against Ukraine, edited by Kenneth Geers (Tallinn, Estonia: NATO Cooperative Cyber Defence Centre of Excellence, 2015): 56-7.
+New vulnerabilities came from zero-day exploits, which typically sell on the darkweb for only nation state values.
+Crimea and Donbass regions land maneuvers isolated cyberspace by controlling main fiber lines from the remainder of the Ukraine.
+The sixth pulse, the Donbass invasion, began on July 2014, as the conflict shifted to the Don River region.
+Cyberspace played an increasingly important role in military operations.
+Multidomain operations altered the logical terrain of cyberspace to the advantage of Russian interests.
+Russian SIGINT, including cyber espionage, allowed for effective combat operations planning against the Ukrainian army with multi-domain sensors and cross-domain remote fire observation.
+Rerouted Ukrainian mobile traffic provided advanced forces protection and the operational reach to project defensive counter-attacks.
+Simultaneously, Russian forces provided support, assistance, and facilitation to Russian insurgents in the Donbass.
+During the seventh pulse, pro-Russian forces enveloped through technological advantages of the Russian cyber, land, and air assets to isolate Ukrainian forces responding to the Donbass insurgency.
+However, the Ukrainian and Russian Presidents Poroshenko and Putin met.
+Only two days after the meeting on August 26, 2014, cyberattacks ceased.
+The eight pulse occurred on July 24, 2014, Ukraine accused Russia of arming pro-Russian separatists with tanks.
+The United States confirmed that multiple tanks crossed into Ukraine from Russia.
+Russian troops reinforced the Ukrainian border, and deployed additional heavy artillery enhanced by cyber capabilities.
+International reaction quickly undercut the legitimacy of the Russian interests which soured by July 28, 2014 with the United States Department of State release of photographic evidence that Russia integration included heavy artillery to pro-Russian forces.
+The nineth pulse led to intermediate strategic outcomes for the Russian Federation, September 5, negotiations resulted in the signing of the Minsk II protocols.
+Cyber and land forces retracted from strategic objectives within their domains in Donbass.
+The Russian Federation had obtained its primary and secondary strategic objectives.
+NATO and EU limited expansion leaving the Russian Federation as the uncontested regional hegemon and Ukrainian resistance became internationally framed.
+However, another isolated tenth pulse came as the Russian Federation demonstrated a burst cyber-attack for strategic interests.
+Minsk II provided an understanding between NATO and Russia to provide an intermediate Ukrainian solution.
+On December 23, 2014, after Ukrainian peace talks ended at Minsk II, a new cyber-attack expanded a paradigm shift for nation-states.
+The December cyber-attack derived from the same genetics of the November 2014 sample which the Ukrainian FSB had defeated.
+The Minsk II protocols did not force the Russian Federation from unplugging national assets that could still promote their strategic outcomes in 2015.
+Pulses between domains and international events experienced by the Ukraine between 2013 to 2015.
+Hundreds of thousands on Christmas eve were left in the freezing dark bringing all hospitals, water treatment, and economic systems to a standstill.
+The Ukrainian Kyivoblenergo, a regional electricity distribution company, reported the service outages to customers.
+The country’s energy minister blamed Russia for the attack on the power grid.
+Security firm ESET agreed the malware known as BlackEnergy caused the outage and was a trojan malware attributional to the Russia Federation in previous attacks in the Donbass.
+The outages were due to a third party’s illegal entry into the company’s computers and SC ADA systems.
+More important this event provides a sample of kinetic strategic cyber-attack outside the confines of synergistic cross-domain warfare.
+The Russo-Ukrainian conflict between 2013 to 2015 provides four important key events orchestrated by the Russian Federation.
+January to September 2013 experienced an escalation of cyber-attack supporting analysis of events for political outcomes without land forces.
+PostEuromaidan cyber forces shifted to amplifying the success of Crimean occupation by the Russian Federation ground forces.
+Escalation followed the cyber and land forces mutually supporting ethnic Russian separatists in Donbass region.
+Culmination occurred after cease fire accords because of political outcomes from the destruction of MH-17; the Russian Federation maintained cyber freedom of maneuver to achieve strategic outcomes demonstrated by the December 23 kinetic cyber-attack.
+Electricity Information Sharing and Analysis Center , March 18, 2016): 7-8.
+The interactions of cyber and land warfare required two hypotheses to be validated by the research questions.
+This study did not seek to precisely model the complex interactions between land and cyber domains.
+The study only tried to support the theory that the characteristics of cyberspace amplify the physical dynamics of cross-domain warfare regarding operational art.
+The findings of this study determined that the two hypotheses support the theory.
+First, the research questions indicate that land operations alter the state of cyberspace, and land power must be synchronized with cyber operations for operational reach.
+Second, the research questions support the hypothesis that cyber operations impact landpower and alter the available time, space and purpose of land warfare.
+Ultimately, like any complex adaptive system, human decision makers must refine specified heuristics to determine how best crossdomain cyber-land actions may best achieve strategic objectives.
+The Russo-Ukrainian Conflict between 2013 and 2015 indicates that each of the research questions are valid.
+The characteristics of cyberspace extended operational reach within the crossdomain context.
+The infrastructure, nodes and logical ports of cyberspace were observed as transmutable by land forces.
+The logical structure and control from cyberspace impacted the operational reach of the Russian land forces.
+The case study also demonstrated that the synchronization of anticipated characteristics of cyberspace impact joint tempo through frequency, duration, and sequencing that create options in cross-domain warfare.
+Cyber power in isolation often can only maintain temporal dominance for short durations until the opponent adapts.
+The cyber domain also can preserve and amplify the tempo of other domains as observed in both the Crimea and the Donbass.
+The evidence from the case suggests that the first hypothesis is supported.
+Observations of cyber warfare from the key events in the Russo-Ukrainian conflict demonstrate how cyber power manipulates the available time, space and puipose of land warfare.
+Command and control isolation contributed to the lethargic response by the leadership of the Ukraine and led to further cyber exploitation.
+Indication in the case study provides two events that demonstrate the cyber alteration from land activities.
+First, Crimea operations placed logical cyberspace into the rear area of the Russian cyber domain preventing and protecting land forces which seized the peninsula.
+In the Donbass region, cyber enabled maneuver, targeting, and mass of land fires through land manipulations.
+Finally, the Russo-Ukrainian study demonstrates the harmony of cyber and land operations juxtaposed against pre-Maidan and post-Minsk environments.
+The dependence of commanders on the space to make decisions and employ forces in time can be operationally shocked by the cyber domain.
+The resulting paralysis throughout the entire depth of the opponent’s battle area enables land forces to isolate, penetrate, and exploit events on the ground.
+Further, the study demonstrated how land maneuvers could perform the same effects to enable cyber activities.
+Land forces secured key points of cyber-topography and extended duration of control in cyberspace to dominate the operational environment.
+The second hypothesis states that if cyber operations impact landpower, then cyberspace can alter the available time, space and purpose of land warfare.
+The nature of complex adaptive systems leaves the progenitor of the system able to predict the desired function within the confines of the root design but incapable of understanding the shifting system due to catalysts external to the system.
+The duration of catalytic events and the shift in frequencies indicate an interdependence between domains.
+The Russian Cyber, Land, Cross-Domain actions with Ukrainian and International Actions in Time between 2013 to 2015.
+The interrelated cross-domain tempo as experienced by the Ukraine between 2013 to 2015.
+The relationship between domains depends on the context of the cyber architecture and mechanism employed in the theater of war.
+The Russian Federation designed and contributed to the Ukrainian information architecture and military capabilities before 2013.
+The evidence indicates cyberspace provided an operational maneuver corridor into the Ukrainian OODA loop.
+Land actions separate from cyber means spiked periods of culmination and action.
+However, cyber amplification of land forces occurred as the land forces altered the topography of cyberspace.
+Further, the marked contrast between events observed between November 2014 and February 2015 within the electrical grid attack on December 24, 2015, indicate the rapid culmination of cyber without the support of the land domain.
+Clearly, the evidence suggests a strong connection between the cyber domain and actions made in other domains.
+The Ukrainian case study provides clear evidence that land operations synchronized with cyber during the Crimean campaign dissected Ukrainian sovereignty interests.
+Further, the Donbass campaign demonstrates a constant struggle to align cross-domain objectives by land forces to dominate cyber infrastructures that lead to potential asymmetrical advantages.
+Also, Donbass 47 indicates the mutual amplification of effects preventing culmination in either cyber or land domains.
+The absence of land power during December 24, 2014, indicted a risk for cyber warfare as a strategic arm of political objective sans cross-domain warfare which could quickly culminate without external influences.
+Conclusions This study sought to determine the potential interaction of cyber to the application of operational art in Joint Warfare.
+The identified characteristics of cyberspace have the ability to alter the employment of operational art as a result of the physical dynamics of cross domain warfare.
+First, if cyber operations impact land power, then cyberspace can alter the available time, space and purpose of land warfare.
+Second, if land operations modify the state of cyberspace, then land power must be synchronized with cyber operations for operational reach.
+This case study utilized a structured focused approach to evaluating a theory that application of cyberspaces’ characteristics and operational art establish processes of critical intersections of a cyber-land domain activity.
+The study provided evidence that the characteristics of cyberspace provide greater options to operational artists because of cross-domain linkages in warfare.
+The case study evaluated Russian Federation cyber operations in time and space to support a theory that cyber and land force actions can transform mutual operational reach.
+Cyber forces disrupt land forces from Kiev to the Crimea and the Donbass.
+The Russian land forces support pro-Russian rebels in Luhansk and Donetsk through isolating the Donbass cyberspace, irregular forces, air-defense, and field artillery.
+Finally, cyber-attacks to neutralize the western Ukraine electrical grid extend operational outcomes.
+The Joint application of symbiotic relationships between cyber requires synchronization across all domains.
+The Ukrainian case study supports the hypothesis that land operations synchronized with cyber achieved a synergy that altered the operational reach.
+The study observations indicated that the design of activities could align cross-domain objectives by ground forces to dominate.
+Also, Donbass events showed the mutual amplification of effects preventing culmination in either cyber or land domains.
+The kinetic cyberattack observed on December 24, 2015, indicates the rapid culmination of cyber without cross-domain interaction.
+The observed changes in operational reach and tempo provide evidence to the body of military theory that cross-domain synthesis that answers the standard questions and supports the hypotheses.
+Military leaders employing cross-domain warfare must consider employment that synchronizes the characteristics of cyberspace with other domains.
+Cross-domain warfare requires 49 more than simultaneity of multi-domain war.
+The study indicates a complex interaction between cyber and land that theoretically can extend between all other domains of warfare.
+The study supports military theory seeking solutions to domain offsets and asymmetric approaches.
+The characteristics and observations in the case study provide a new framework for aggressive strategies employing cyber with cross-domain operations to meet strategic outcomes.
+The study presents a critical analysis for warfighters, strategists, and political leaders.
+Military warfighters must develop a concept of the operational environment, including cyber, and the potential cross-domain effects.
+The strategist must understand the environmental potential, enemy capabilities, and friendly force potential influenced by cross-domain actions enabled by cyber to formulate menus of options.
+Political leadership must accept the range, speed, and transformation potential of cyberspace indicated in this study's findings.
+Future studies should evaluate cross-domain integration between all domains simultaneously.
+An investigation into the behavior of cross-domain warfare affecting complex change with all domains would support of enhance the known characteristics o cyberspace proposed by the research, also, research validating the strategic impact of cyber warfare employed to isolate strategic assets in time would enhance understanding toward planning Time Phased Force Deployment and other synchronous mobilizations.
+Any research should come from exploring how the new machine created by and after Turing and others has changed the operational and strategic actions which assume methods of controlling physical systems.
+After all the new system, according to Turing, cannot be understood by the same system trying to understand it.
+The Men, Machines, and Ideas That Revolutionized War, From Kitty Hawk to Iraq.
+The Future of Terror, Crime, and Militancy, edited by John Arquilla and David Ronfeldt.
+Turing, Alan M “Computing Machinery and Intelligence,” Mind New Series 59, no.6.
+Informaion War and the Russia-Ukraine Conflict,” Military Cyber Affairs 1, art 7.
+Interservice/Industry Training, Simulation, and Education Conference , 2010.
+Report to the Ranking Minority Member, Committee on Commerce, House of Representatives.
+I loBbie Bonpocbi bohhm,” Voenno-Istoicheskii Zhurnal, no. : 73-5 quoted by Naveh, Shimon.
+Dempsey, GEN Martin E “Forward,” Joint Operational Access Concept v 1.0.
+Topics for Consideration by SAMS, CGSC and Other Studen ts for MMAS and Other Degree Program/Requiremen ts.

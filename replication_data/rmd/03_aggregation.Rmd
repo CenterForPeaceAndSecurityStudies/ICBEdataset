@@ -29,23 +29,173 @@ rex_count <- function(x) { x %>% unique() %>% na.omit() %>% sort() %>% paste0(se
 
 ```{r}
 
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_long_clean.Rds")) 
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1.1_long_clean.Rds")) %>%
+                  filter(!varname %in% c("lastviewed","crisis",'sentencenumber','crisno', 'icb_survey_version',  'section' )) %>%
+                  select(-sentence, -sentence_clean, -varname, -value, -status) %>% 
+                  distinct()
+dim(icb_long_clean)  
+#icb_long_clean %>% count(varname_normalized) %>% arrange(desc(n)) %>% View()
+
+coders_per_crisis <- icb_long_clean %>% dplyr::select(crisno,  email_id, expert) %>% distinct() #%>% dplyr::count(crisno)
+coders_per_crisis_tally <- coders_per_crisis %>% mutate(novice=expert==0) %>% group_by(crisno) %>% summarise( expert=sum(expert==1), novice=sum(novice==1) )
+crisis_sentences_per_coder <- icb_long_clean %>% filter(varname_normalized %>% str_detect("sentence_events")) %>% dplyr::count(email_id, crisno)
+
 
 #icb_long_clean_original_393_43 <- icb_long_clean_original %>% filter(crisno==393 & sentence_number_int_aligned==43 ) %>% janitor::remove_empty() 
 #Choose the most common sentence for each
-sentences <- icb_long_clean %>% dplyr::count(crisno,sentence_number_int_aligned,sentence) %>% arrange(crisno, sentence_number_int_aligned, desc(n)) %>% 
-  group_by(crisno, sentence_number_int_aligned) %>% filter(row_number()==1) %>% dplyr::select(-n)
+sentences <- icb_long_clean %>% dplyr::count(crisno,sentence_number_int_aligned,sentence_span_text) %>% arrange(crisno, sentence_number_int_aligned, desc(n)) %>% 
+              group_by(crisno, sentence_number_int_aligned) %>% filter(row_number()==1) %>% dplyr::select(-n) %>%
+              ungroup()
+
+crises <- icb_long_clean %>% arrange(crisno,sentence_number_int_aligned) %>% dplyr::select(input_crisis, crisno) %>% group_by(crisno) %>% filter(row_number()==1) %>% ungroup()
 
 ```
 
 # Sentence Level Agreement
 
-Unanimous exact agreement- every expert coder chose the exact same options across all events for that question
-Majority exact agreement- at least 2/3 of expert coders chose exactly the same options across all event for that question
-This aggregates across conditions too
-
+This is a calculation of token level agreement. It is the first part of Algorithm 1. 
 
 ```{r}
+
+coders_per_crisis <- icb_long_clean %>% 
+                              dplyr::select(crisno, sentence_number_int_aligned, email_id) %>%
+                              distinct() %>%
+                              count(crisno,email_id) %>% #just confirming that each coder put something for at least five sentences ( they all did)
+                              mutate(expert=email_id %>% str_detect('expert') %>% as.integer() )  %>%
+                              count(crisno, expert) %>%
+                              pivot_wider(id_cols=crisno, values_from=n, names_from=expert) %>%
+                              janitor::clean_names() %>% 
+                              mutate(x0= x0 %>% replace_na(0) ) %>%
+                              mutate(x1= x1 %>% replace_na(0) ) %>%
+                              rename(coders_novice=x0, coders_expert=x1)
+
+votes_per_crisis_sentence <- icb_long_clean %>%
+                            mutate(expert=email_id %>% str_detect('expert') %>% as.integer() ) %>% #redundant now
+                            #there are dupes here and I don't know why
+                            dplyr::select(crisno,sentence_number_int_aligned, sentence_span_text, varname_normalized, value_normalized, expert, email_id) %>% distinct() %>%
+                            count(crisno,sentence_number_int_aligned, sentence_span_text, varname_normalized, value_normalized, expert) %>%
+                            pivot_wider(id_cols=c(crisno,sentence_number_int_aligned, sentence_span_text, varname_normalized, value_normalized), values_from=n, names_from=expert) %>%
+                            janitor::clean_names() %>% 
+                            mutate(x0= x0 %>% replace_na(0) ) %>%
+                            mutate(x1= x1 %>% replace_na(0) ) %>%
+                            rename(votes_novice=x0, votes_expert=x1) %>%
+                            left_join(coders_per_crisis) %>%
+                            mutate(percent_expert= (votes_expert/coders_expert) %>% replace_na(0)) %>%
+                            mutate(percent_novice= (votes_novice/coders_novice) %>% replace_na(0)) %>%
+                            mutate(votes_total=votes_expert+votes_novice) %>%
+                            mutate(algo1_part1 = as.numeric(
+                                     percent_expert>=0.5  #majority of experts
+                                   )) %>%
+                            mutate(algo1_part2 = as.numeric(
+                                     votes_expert>0 & #At least one expert
+                                     percent_novice>=0.5 #and majority of novices
+                                   )) %>%
+                            #If still no majority pick the expert aproved option with the most total votes
+                            group_by(crisno,sentence_number_int_aligned, sentence_span_text, varname_normalized) %>%
+                                mutate(algo1_part3 = as.numeric(  max(algo1_part1)==0 & 
+                                                                    max(algo1_part2)==0 &
+                                                                    votes_expert>0 & #at least one expert
+                                                                    votes_total==max(votes_total) & #
+                                                                    votes_total>1 #require at least 2 votes this is important
+                                                                  ) ) %>% #no options were picked yet and this one has the most votes (at least 1 expert)
+                            ungroup() %>%
+                            mutate(algo1 = as.numeric( algo1_part1 | algo1_part2 | algo1_part3) )  %>%
+                            arrange(crisno,sentence_number_int_aligned, sentence_span_text, varname_normalized, desc(algo1))
+
+table(votes_per_crisis_sentence$algo1) #215619 #281663 #148732 #137153 #149,102
+
+
+```
+
+# Accepted Events
+
+This is the second part of Algorithm 1. 
+
+```{r}
+
+icb_long_clean_accepted <- icb_long_clean %>% 
+                           left_join(votes_per_crisis_sentence %>% dplyr::select(crisno,sentence_number_int_aligned,varname_normalized,value_normalized,algo1) ) %>%
+                           filter(algo1==1) %>% 
+                           filter(email_id %>% str_detect('expert')) #we already require at least one expert vote
+dim(icb_long_clean_accepted) #200700 accepted tokens
+#Now we need to collect the surviving tokens by the events they 
+paste_rex=function(x) { x %>% str_split(";") %>% unlist()  %>% unique() %>% sort() %>% paste(collapse=";")}
+icb_events <- icb_long_clean_accepted %>%
+              dplyr::select(email_id, crisno, sentence_number_int_aligned, event_number_int, varname_normalized, value_normalized) %>% distinct() %>%
+              arrange(email_id, crisno, sentence_number_int_aligned, event_number_int, varname_normalized, value_normalized) %>% 
+              pivot_wider(id_cols=c( email_id, crisno, sentence_number_int_aligned, event_number_int), names_from=varname_normalized, values_from=value_normalized, values_fn=paste_rex) %>% #within a single event from that coder
+              filter(!is.na(do_actor_a)    | 
+                     !is.na(do_actor_b)    | 
+                     !is.na(think_actor_a) | 
+                     !is.na(say_actor_a)   | 
+                     !is.na(say_actor_b) #remember to go back and collapse the others again
+              ) %>%
+              mutate(do_actor_b  = ifelse( do_actor_a==do_actor_b, '', do_actor_b ) ) %>% #There was a degenerate option to put the same actor in both A and B if it was acting alone
+              mutate(say_actor_b = ifelse( say_actor_a==say_actor_b, '', say_actor_b ) ) %>%
+              pivot_longer(cols=-c(email_id, crisno, sentence_number_int_aligned, event_number_int, think_actor_a,say_actor_a,say_actor_b, do_actor_a,do_actor_b), 
+                           names_to="varname_normalized",
+                           values_to="value_normalized",
+                           values_transform=as.character) %>%
+              dplyr::select(-email_id,-event_number_int) %>% #remove the person and event info
+              pivot_wider(id_cols=c(  crisno, sentence_number_int_aligned, do_actor_a, do_actor_b, think_actor_a, say_actor_a ,say_actor_b),
+                          names_from=varname_normalized, values_from=value_normalized, values_fn=paste_rex) %>% #collapse back down again
+              full_join(sentences) %>%
+              left_join(crises %>% rename(crisis_text=input_crisis) ) %>%
+              relocate(sentence_span_text, .after = sentence_number_int_aligned) %>%
+              relocate(crisis_text, .after = crisno) %>% 
+              arrange( crisno, sentence_number_int_aligned) 
+  
+  
+dim(icb_events) #15465 #17625 #18372 #17678 #14264 
+
+```
+
+## Events long
+
+```{r}
+
+#Qcodes
+Qcodes <- icb_long_clean %>% dplyr::select(crisno, varname_normalized, value_normalized, value_qcode) %>% distinct() %>% filter(!is.na(value_qcode))
+
+#This loses the structure of the diad, we need a new notion of an actor set
+icb_events_long <- icb_events %>%
+                   mutate(actor_set = paste0( think_actor_a,";",say_actor_a,";",say_actor_b,";",do_actor_a,";",do_actor_b)) %>%
+                   pivot_longer(cols=-c(crisno, crisis_text, sentence_number_int_aligned, sentence_span_text, actor_set), 
+                                 names_to="varname_normalized",
+                                 values_to="value_normalized",
+                                 values_transform=as.character) %>%
+                   filter(!is.na(value_normalized)) %>% 
+                   mutate(value_normalized = strsplit(as.character(value_normalized), ";")) %>% 
+                   unnest(value_normalized) %>% 
+                   distinct() %>% 
+                   left_join(Qcodes) 
+
+```
+
+
+```{r, eval=T}
+
+saveRDS(votes_per_crisis_sentence, paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_agreement.Rds")) 
+readr::write_tsv(votes_per_crisis_sentence, paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_agreement.tsv")) 
+
+saveRDS(icb_long_clean, paste0(here::here(), "/replication_data/out/ICBe_V1.1_long.Rds")) 
+readr::write_tsv(icb_long_clean, paste0(here::here(), "/replication_data/out/ICBe_V1.1_long.tsv")) 
+
+saveRDS(icb_events, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.Rds")) 
+readr::write_tsv(icb_events, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.tsv")) 
+
+saveRDS(icb_events_long, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.Rds")) 
+readr::write_tsv(icb_events_long, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.tsv")) 
+
+
+```
+
+
+# Refactored Below
+
+
+```{r, eval=F}
+
 my.max <- function(x) ifelse( !all(is.na(x)), max(x, na.rm=T), NA)
 
 keep_crisis=393
@@ -55,8 +205,7 @@ options(warn = -1) #Groups that have no values generate max errors
 #This doesn't have this yet
 #event_number_int,  event_number_int_condition
 rex_paste <- function(x){ paste0(x  %>% trimws() %>% sort() %>% unique() %>% na.omit(), collapse=";")  }
-
-
+temp_long_list <- list()
 for(crisis in unique(icb_long_clean$crisno)){
   print(crisis)
   
@@ -120,20 +269,19 @@ for(crisis in unique(icb_long_clean$crisno)){
       ) %>%
       dplyr::ungroup() 
 
- if(exists("temp_long")){
-   temp_long <- dplyr::bind_rows(temp_long, temp_long_partial)
-   }else{
-     temp_long <- temp_long_partial
-   }
-  
-  # for debugging
-    # try(if("icb_survey_version" %in% names(temp_long$icb_survey_version)) stop("icb_survey_version appeared..."))
-    
+  temp_long_list[[as.character(crisis)]] <- temp_long_partial
 }
+
+temp_long <- dplyr::bind_rows(temp_long_list)
+#table(temp_long$crisno) %>% length() 475
+# for debugging
+# try(if("icb_survey_version" %in% names(temp_long$icb_survey_version)) stop("icb_survey_version appeared..."))
+    
+
 ```
 
 
-```{r}
+```{r, eval=F}
 
 #We have to compile confidence separately
 sentence_confidence_scores <- temp_long %>% 
@@ -152,7 +300,7 @@ sentence_confidence_scores <- temp_long %>%
 
 codings_long <- temp_long %>%
                 mutate(
-                       expert_majority=(selected_by_experts>(total_coders_expert/2) & selected_by_experts>=2) %>% as.integer() ,
+                       expert_majority=(selected_by_experts>(total_coders_expert/2) ) %>% as.integer() , #& selected_by_experts>=2 there are 31 crises with just 1 expert coder
                        undergrad_majority= (selected_by_undergrads > (total_coders_undergrad/2) & total_coders_undergrad>=2 ) %>% as.integer()  ,
                        expert_or_undergrad_majority= ( expert_majority | (undergrad_majority & selected_by_experts>=1) ) %>% as.integer() 
                 ) %>%
@@ -174,26 +322,25 @@ options(warn = 1)
 
 ```
 
-# Agreed
 
-```{r}
+```{r, eval=F}
 
 #this has to be temp because we actually do a lot of filtering at the wide stage and so need to go back to long
-#What we could do is say if there's
 codings_long_agreement <- codings_long %>%
-  
+                          #If picked by a majority of experts then in automatically
                           mutate(keep_majority_expert= 
-                                    (selected_by_experts>=2 & #selected by at least two experts
-                                     expert_majority==1)   %>% as.numeric()
+                                    (expert_majority==1)   %>% as.numeric() #selected_by_experts>=2 & #selected by a majority of experts
                            ) %>%
+                           #If picked by any expert and a majority of undergrads then keep
                            mutate(keep_majority_undergrad= (selected_by_experts>=1 & expert_majority==0 & undergrad_majority==1)  %>% as.numeric() ) %>%
-  
+                           #if either majority keep
                            mutate(keep_majority= (keep_majority_expert | keep_majority_undergrad) %>% as.integer() ) %>%
   
                            group_by(crisno, sentence_number_int_aligned, event_number_int_condition, variable_normalized) %>%
                                 mutate(keep_majority_max=keep_majority %>% max(na.rm=T)) %>%
                                 mutate(selected_by_any_max= (selected_by_any* (value_normalized!='')) %>% max(na.rmt=T) ) %>% #only consider non missing
                            ungroup() %>%
+                           #If a question still doesn't achieve a majority then pick the answer that just recieved the most votes (and at least 1 expert vote)
                            mutate(keep_leftstanding = (keep_majority_max==0 & #Wasn't picked by a majority
                                                          selected_by_experts>=1 & #was picked by a least one expert
                                                          (value_normalized!='' & selected_by_any_max %in% selected_by_any) #Has the most total votes
@@ -229,7 +376,7 @@ codings_long_agreed %>% dplyr::select(keep_majority_expert, keep_majority_underg
 ```
 
 
-```{r}
+```{r, eval=F}
 
 #
 #
@@ -339,9 +486,8 @@ codings_wide_agreed_pruned_final <- codings_wide_agreed_pruned %>%
   
 ```
 
-# Codings wide agree labeled
 
-```{r}
+```{r, eval=F}
 
 library(glue)
 
@@ -492,16 +638,4 @@ keep_sentence=38
 ```
 
 
-```{r, eval=T}
-
-saveRDS(codings_long_agreement, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreement.Rds")) 
-readr::write_tsv(codings_long_agreement, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreement.tsv")) 
-
-saveRDS(codings_long_agreed, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreed.Rds")) 
-readr::write_tsv(codings_long_agreed, paste0(here::here(), "/replication_data/out/ICBe_V1_long_agreed.tsv")) 
-
-saveRDS(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_data/out/ICBe_V1_wide_agreed.Rds")) 
-readr::write_tsv(codings_wide_agreed_pruned_labeled, paste0(here::here(), "/replication_data/out/ICBe_V1_wide_agreed.tsv")) 
-
-```
 

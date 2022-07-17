@@ -1,0 +1,557 @@
+Robert E Burks Second Reader: Michael Richardson Approved for public release.
+ABSTRACT In accordance with the United States Army’s current modernization efforts, this thesis examines the Special Forces Operational Detachment-Alpha in great power competition.
+The purpose of this research is to analyze the current tactical capability of Army Special Forces to determine what organizational modification or optimization is required to be successful in the future operating environment.
+The authors examined case studies of historic modification and determined that the prevailing causes of capability adaptation have been driven by political, economic, societal, and technological environmental change.
+The authors then applied these factors to current global trends to determine necessary future adaptation.
+Based on this research, the authors recommend an information warfare specialist within the Special Forces Operational Detachment-Alpha to ensure relevancy and success in the future environment.
+SUBJECT TERMS SFOD-A, unconventional warfare, irregular warfare, political warfare 15.
+Robert E Burks Advisor Miehael Richardson Second Reader Kalev I Sepp Chair, Department of Defense Analysis THIS PAGE INTENTIONALLY LEET BLANK IV ABSTRACT In accordance with the United States Army’s current modernization efforts, this thesis examines the Speeial Forees Operational Detaehment-Alpha in great power eompetition.
+The purpose of this researeh is to analyze the eurrent taetieal eapability of Army Speeial Forces to determine what organizational modifieation or optimization is required to be sueeessful in the future operating environment.
+The authors examined ease studies of historie modifieation and determined that the prevailing eauses of eapability adaptation have been driven by politieal, economic, societal, and teehnological environmental ehange.
+The authors then applied these faetors to eurrent global trends to determine neeessary future adaptation.
+Based on this researeh, the authors reeommend an information warfare speeialist within the Special Forces Operational Detaehment-Alpha to ensure relevaney and sueeess in the future environment.
+THE CURRENT ENVIRONMENT.61 A, A SHIFT IN PRIORITY.61 B, THE CURRENT ENVIRONMENT.63 C, THE COMPETITIVE SPACE.67 D, COMPETITIVE WORLD ACTORS.68 1.
+The strueture of the original SFOD-A tasked with the experimental CIDG mission.
+UNITED STATES SPECIAL FORCES ORIGINS As a primer to this topic, it is essential to examine the origin of the United States Special Forces and comprehend the unit’s original capability.
+United States SPECIAL OPERATIONS CAPABILITY IN WWII The United States’ late entry into WWII meant that mobilization efforts lagged behind axis and allies in the war.
+To enable rapid expansion of capability, especially in regard to specialized units, the United States drew from British units that demonstrated strategic capability.
+Eormed in 1940, the SOE was created by merging the offices of “Section D of MI6” and “General Staff ,” a branch of the War Office.
+Colin Gubbins and the Origins of Britain’s Special Operations Executive , 2.
+These units ineluded the United States Army Rangers and the joint United States / Canadian venture known as the 1st Speeial Service Foree.
+The eoneept that Donovan lobbied and ultimately reeeived approval for, was drastieally different than the eommando operations that were to be exeeuted.
+To this end, Donovan assumed that any mission that was not eonventional would naturally belong to his organization.
+The Operational Groups As the OSS grew into a formal unit, its responsibilities increased, and it organized into unique elements based on mission demand.
+The OGs consisted of United States Army French-speaking volunteers divided into two 15-man sections each with two officers and 13 enlisted men.
+Many of the personnel had backgrounds in combat arms and had previously served as engineers, signalmen, and medics.
+The OSS Operational Group strueturel^ 3, Jedburgh Teams Another element, smaller in size compared to the OGs, were Jedburgh Teams.
+These three-man units derived their name from the listed codename of their base in Scotland and parachuted into occupied Europe to support resistance operations in Europe.
+An important difference in the Jedburgh’s capability was the requirement that each team incorporate a non-American native speaker from the assigned operational area.
+The use of this unique unit formation technique ensured team cohesion for the units which were destined to operate deep behind enemy lines.
+The Office of Strategic Service; Pacific Theater Concept While there were many sueeesses for the OSS in Europe, there were also many failures due in large part to the organization’s laek of experienee.
+These men were then trained and eross-trained for a variety of missions throughout the Paeifie Theater of Operations.
+One eaeh was involved in administration, photography, medieal, researeh and development, seeret intelligenee, speeial funds, two in supply, three in training; while five personnel eaeh were assigned to eommunieations, and speeial operations.
+It must be stressed again that eaeh of these men performed a multitude of tasks.
+Their duties represent the first melding of OSS funetions in Detaehment 101; however, that these men were in reality all from the Speeial Operations Braneh is signifieant.
+This established from the beginning that regardless of a man’s braneh and training, he performed the duties deemed of the greatest need.
+As important for sueeess as the hand-seleetion of eandidates was the geographie benefit of the unit due to its basing proximity near the forward edge of Allied defenses against the Japanese.
+Whereas European OSS units generally had to infiltrate and remain in oeeupied territory, Detaehment 101, was able to eonduet short-duration penetration patrols, return, reassess, and retrain.
+Following historie preeedent, SOF were some of the first units offered by Army leadership for immediate deaetivation.
+The death of President Roosevelt six months prior to the end of WWII, left the OSS without presidential proteetion and on 20 September 1945, President Truman ordered the unit’s deaetivation.
+Unrelenting in his vision of the need for the OSS, Donovan protested the deaetivation and, following President Truman’s deeision, he began a two-year lobbying eampaign to reaetivate the eapability.
+The result of his effort was the ereation of the Central Intelligenee Agency.
+In the meantime, the military continued to purge itself of SOF reducing the United States’ strategic capability outside of conventional operations.
+Birth of the U.S, Psychological Warfare Center Whereas the CIA owes its official creation in 1947 to the struggles of General Donovan, the rebirth of Army SOF, particularly Psychological Warfare and USSF, owe their reestablishment to the efforts of General Robert McClure.
+Critical to the effort was Lieutenant Colonel Russell Volckmann, who had drafted the Army’s field manuals for the Organization and Conduct of Guerrilla Warfare and Combatting Guerilla Forces while assigned to the Infantry School.
+Equally important were the real-world experiences of Volkmann and the others which made them the only experts of UW in the military at the time.
+These men’s efforts during WWII gave them immense credibility and they were widely respected throughout the military.
+Although they differed in their opinion of how the proposed force should be organized, the central theme of stay-behind guerilla operations remained a constant.
+These engagements included meetings between Volkmann and General Lawton Collins, the Chief of Staff of the Army.
+In written correspondence between the two, Volkmann succinctly described and outlined the early tenets of the OCPW’s interpretation of what missions Special Forces would conduct.
+Additionally, McClure’s staff prepared a brief for General Taylor, the Army G-3, about the skills, capabilities, and strategic necessity of a special force.
+Briscoe, “Training on a Shoestring”; Paddock, United States Army Special Warfare.
+To infiltrate its eomponent operational detaehments, by air, sea, or land, to designated areas within the enemy’s sphere of infiuenee and organize the indigenous guerrilla potential on a quasi-military or a military basis for taetieal and strategie exploitation in eonjunetion with our land, sea, and air forees.
+Following Taylor’s approval, the staff of OCPW organized to meet the demands associated with the new unit.
+RECRUITMENT WOES The slow transfer rates were due in part to a bureaucratic issue of personnel slots.
+While General Taylor approved the creation of the unit, there were no personnel slots available within the Army to fill it.
+Through coincidence, slots were found from the Army Rangers which had been activated at the onset of the Korean War, suffered shocking Richard.
+Bitzinger, Assessing the Conventional Balance in Europe, 1945-1975, N-2859-FF/RC , 4-7.
+Psychological and Unconventional Warfare, 1941-1952 , 21; Briscoe, “Training on a Shoestring,” 105.
+These officers went so far as to discourage volunteers and sabotage their transfer paperwork.
+To overeome these ehallenges, the Army Chief of Staff, published a direetive to subordinate eommanders direeting them to eliminate all obstacles.
+With the bureaueratic issues solved, transfer rates slowly elimbed as the organization grew to meet pereeived operational demands.
+The Lodge Act One event that offered USSF a reeruitment boost was the Lodge-Philbin Aet of 1950.36 The Lodge-Philbin Act, commonly referred to as “the Lodge Act,” was a piece of legislation introduced by Senator Henry Cabot Lodge.
+This law was based on Lodge’s understanding of the German and Russian ability to ineorporate foreign units into their militaries during WWIL32 Lodge’s vision was to ereate a means of enlisting and mobilizing Europe’s Displaeed People against the threat of eommunism and under the banner of a “Volunteer Freedom Corps” .38 The VFC eoneept later evolved into the Lodge Act and allowed an initial enlistment of 2,500 unmarried, foreign volunteers into the United States Army.
+Due to the nature of the applicant’s arrival in Western Europe, investigations took a long time due to the difficulty in investigating an applicant who conducted “street work,” a common job for DP’s.
+The process was also prolonged by the inability of investigators to verify information from emigres who had lived behind the iron curtain.
+Moreover, because of the “red scare,” any association, or relative with links to communism were scrutinized, causing fewer candidates to arrive for initial training than anticipated.
+Another challenge to the Lodge Act was the prohibition of countries from which applicants could be recruited.
+Restrictions on recruiting in Austria, Belgium, France, The Netherlands, Luxembourg, and Germany limited the potential for the Lodge Act to attain its initial enlistment goals.
+Even when end strength for the Lodge Act increased to 12,500 personnel, the goal would never be realized due to the recruiting restrictions of the program.
+The lack of established standards and processes through which Lodge Act Soldiers enlisted proved anther challenge with the program.
+Many Lodge Act Soldiers processed into the Army in diverse means and one group’s process was rarely the same as its predecessors.
+The lack of standards combined with the testing, background investigations, and registration of the Lodge Act Soldiers dismayed Senator Lodge who repeatedly complained to Army officials.
+Had the Lodge Act not been stymied by military bureaueraey, laek of command emphasis, and inefficiency, it would have given SL a large ready-made force of language profieient and eultural experts.
+Instead, USSL made gradual growth which enabled organizational adaptation and development flexibility.
+The Political Environment The organizational design of the initial SFOD-A, like so many units, was heavily influeneed by its environment.
+This environment ineluded politieal and soeial fear of the global speoter of eommunism, the eeonomies of a post-WWII U.S., and the historieally unique teehnologieal eireumstanee of the nuelear age.
+The eombination of these faetors led to a demand for a unique foree that was capable of using native populations to serve as force multipliers to deter or combat communist expansion.
+The SFOD-A, USSF’s sole tactical level unit, was specifically designed to meet the requirements of UW tasks to accomplish this mission.
+USSF arrived in a political environment dominated by the United States policy of communist containment.
+While the Truman administration had naively attempted to turn a blind eye to the communists’ intent, George Kennan’s 1947 publication.
+The Sources of Soviet Conduct, detailed communist expansionist ideology.
+Secretary of State Dean Acheson first voiced President Truman’s policy of containment publicly on 12 January 1950.
+In this address, Acheson stated that United States containment would rely on air and naval supremacy, using the western Pacific island chain as a line of demarcation.
+However, rather than having a deterrence effect on communist expansion, this decision emboldened Stalin who gave the North Korean dictator, Kim II Sung, approval to launch an invasion of South Korea in June 1950.
+John Lewis Gaddis, On Grand Strategy , 53. 13 island chain strategy and ordered the deployment of United States troops to Korea commanded of General MacArthur and with the approval of the U.N.52 While MaeArthur gathered his forees in Japan, the defeat of rapidly deployed and unprepared United Nations forees caused their retreat toward the Southeastern port city of Pusan.
+The initial problems of the war oecurred partially beeause the pieeemeal manner in whieh United Nations forces were deployed but also beeause of inter-war budget cuts and a general lack of contingency planning.
+These units foeused on internal security and developing the Republie of Korea military.
+However, budget cuts effectively hamstrung their efforts and denied the ROK an effeetive United States sponsored defense.
+Meanwhile, the Soviets ereated a eommunist North Korean government equipped with effective population eontrol, robust propaganda, and a modernized military.
+As the eapability of the North Koreans grew, the Soviets withdrew the bulk of their forces to the point that prior to the onset of hostilities, only a small eontingent of advisors remained in plaee.
+By doing this, the Soviets maintained deniability of direct involvement in North Korea’s offensive aetions.
+MacArthur’s invasion and initial suecess penetrating North Korea, unintentionally brought the Chinese into the war and drove United Nations forees from the banks of the Yalu back to the 39th parallel.
+As the war ground into a stalemate, United States leaders began to experiment with non-typieal units to enable effects to break the deadlock.
+Schnabel, 25. 14 conventional options can be considered Special Operations because they were condueted by speeialized units with a specific mission orientation.
+These efforts included actions by United States Army Rangers during their brief reactivation to conduct raids and harass enemy supply lines.
+However, laek of strategic application of these forees by their conventional eommanders resulted in high eausalities with minimal positive effect.
+Additionally, the 8th Army developed a eoneept for a partisan unit of pro-democratic North Koreans.
+In a national poll, newspaper editors were asked to respond with what news they believed the Ameriean people would most like to see.
+However, unlike the Vietnam War a decade later, the vast majority of the United States population believed the United States involvement in Korea was justified.
+While some members of 10* SFG deployed to Korea later in the war, by the time of their deployment, the fight had largely become static and they produced few tangible results.
+As General Omar Bradley, the chairman of the Joint Chiefs of Staff noted in his 1949 congressional testimony, “we realize.. .that our nation’s economy under existing conditions can only afford a limited amount for defense.This sense of fiscal responsibility occupied the minds of senior military and governmental leaders up to and at the outbreak of the Korean War.
+As a consequence, the military was neither postured to contain nor defeat communist offensive operations.
+The stalemate of the Korean War brought to light important lessons for both United States and Soviet decision makers about the costs and strategies for great power competition during the Cold War.
+For the Soviets, it demonstrated that the United States was willing to risk escalation to counter overt communist advances.
+It also demonstrated that the United States could be baited into costly wars that would accrue an intolerable monetary cost leading to defeat.
+This policy came to be a cornerstone of defense for every administration that followed President Truman and President Eisenhower was no exception.
+Whereas President Truman had responded conventionally to communist operations, President Eisenhower, realized that conventional operations’ costs had the potential to bankrupt the treasury.
+The New Took” policy forced the military to downsize its land and naval conventional capability while increasing its aerial atomic and Special Operations capability, particularly psychological warfare.
+Eor USSE, this policy represented a “boom” in funding and, as will be discussed, precipitated mission growth and organizational adaptation.
+B, MISSION AND TASKS While all organizational capability adaptations of the SEOD-A have been heavily influenced by the environment of the time, the initial model was also heavily influenced by internal military politics.
+Osgood, “Form before Substance.” 17 with the necessary personnel slots to facilitate the manning of the new force.
+The deactivation of the Army Ranger units also demonstrated the pervasive belief by military leaders that the elite capability of the Rangers could be developed quickly in an emergency and required no peacetime units.In contrast, the OCPW staff realized that UW operations were longer in duration requiring preparation during peacetime for wartime employment.
+Accordingly, USSF initially remained hyper-focused on its mission of UW to ensure there was no misconception and consequent misuse as a commando force by the conventional army.
+USSF’s operating concept was ubiquitous throughout the early years and transcended all ranks.
+While the Korean War provided a short-term option, its conventional nature provided few opportunities for USSF to prepare the environment for UW operations.
+Consequently, the OCPW staff focused their initial organizational design on employment in the European Theater.
+As the staff had various backgrounds and experience in UW, there was some debate on which European WWII model the unit should follow and each staff member advocated primarily based on their individual experience.
+ORGANIZATION AND CAPABILITIES As individuals transferred to the 10th SPG at Port Bragg, the work of organizing subordinate units began to take shape.
+For instance, the tactical level unit kept the FA designation while the company and battalion level units were referred to as Functional B and Functional C Teams, respectively.
+The responsibility for each echelon of command was broken up according to the level of guerilla unit that was being advised.
+Meanwhile, the PCs provided logisties while the SPG Headquarters was responsible for the development of a guerilla area eommand.
+Por PA teams, the predecessor of the SPOD-A, the first manning attempt mirrored the OSS OG model and consisted of 15-man teams (two officers and 13 enlisted). gPG leaders though feared that the size too closely mirrored that of a Ranger section which could precipitate misuse.
+Individual capabilities known as Military Occupational Specialties within the PA Teams was an evolving concept.
+Colonel Bank’s experiences in occupied Prance shaped the initial PA teams’ specialties and, like their WWII predecessors, every team would cross-train in mission required skills.
+The two most concrete specialties in Colonel Bank’s vision were the medics and the radio operators.
+As the training was further refined for the expected operating environment, communication and medical skills were added to enable operations deep inside enemy zones of occupation.
+Later, capabilities such as weapons, demolitions, survival, and tactics were taught to all personnel on the PA teams.
+Nevertheless, the leadership and staff of the new 10th SPG, worked to establish an initial training regimen worthy of the new unit and its mission.
+Training in Guerrilla Warfare was facilitated by the Army’s Psychological Warfare Department and individuals received an initial 8-week Briscoe, “Training on a Shoestring,” 106.
+Special considerations for officers and enlisted who could not attend the course forced 10th SFG to create an internal individual skills program which supplemented the 8-week course.
+These added capabilities such as small unit tactics and intelligence gathering operations enabled the activities of the new unit.
+Select individuals also received additional training to enable the insertion of teams behind enemy lines.
+This training included, rough terrain parachute insertion, provided by a smokejumper school in Montana, and waterborne insertion, provided by a small-boat operators course in Virginia.
+Despite the novelty of the initial training the new USSF recruits received, their skills were watchfully and carefully evaluated to ensure the strictest professionalism and standards were enforced.
+Assessment of the new skills of the SFG fell to the training staff of unit’s headquarters and the SFG Operations Officer developed evaluations for FA, FB, and FC teams.
+Field Training Exercises such as FREE EEGION and LEGIONNAIRE RALLY tested the newly trained teams’ individual and eollective skills.
+Colonel Bank was ever-present during these evaluations and often opted to personally talk to a team to ensure they understood the demands of their respective missions during a UW operation.
+The initial training regimen culminated in an evaluation of the entire SEG during ETX CLEO held at Camp Castro in the Chattahooehee National Eorest.
+Upon completion, 10th SEG was certified and prepared to conduct its UW mission.
+This deployment was based on several events which coincided to create a ripe atmosphere for a UW operation.
+Following the death of Joseph Stalin in March of 1953, United States leaders sensed a feeling of change within the Soviet Union and sought opportunities to exploit the transition. sense of vulnerability also reached the German population living under Soviet oppression who rose in riotous revolt against their communist oppressors.
+Though discounted by the Soviets and communist German Democratic Republic as minor and fractured, the labor strikes and nation-wide rebellion constituted roughly ten percent of the population.
+Upon arrival to Germany, the 10th SFG represented a trained and certified UW force capable of meeting the President’s desired goal.
+However, officers at United States Army Europe command were unable to include the unit into theater plans.
+Consequently, although certified in UW and deployed to take advantage of the East German uprising, the 10th SEG was sidelined while the Soviets crushed the insurrection with tank armies.
+D, CONCLUSION Despite significant lobbying effort by the OCPW to establish a UW unit, it was changes in the environment, particularly the financial and human costs of conventional deterrence in Korea, that drove United States leaders toward alternative means of combatting communist expansion.
+While USSE was created, organizationally designed and deployed with the required capability to conduct UW in Europe, the inability of military leaders to see the significance of left it struggling for relevancy.
+As a consequence, USSE adapted its capability toward other missions that supported the global defense against communist aggression.
+VIETNAM AND THE WARS OF LIBERATION A, THE ENVIRONMENTAL FACTORS The first model foeused on the environment and missions whieh demanded the eapabilities required by the initial SFOD-A and determined its organizational design.
+The seeond model foeuses on the environment and adaptations that USSF undertook as it was sidelined from strategie employment in Europe and instead found work in Southeast Asia.
+Like the first model, the eapabilities of the SFOD-A remained heavily infiueneed by the environment and missions of the regiment as it transitioned foeus to the Paeifie.
+This model demonstrates USSF’s adaptation from a speeialized niehe foree to one eapable of eondueting full speetrum Special Operations.
+A major contributing factor of this was the United States policy of containment which was carried by every President during the Cold War.
+While the initial containment policy focused on reacting conventionally to communist offensives, the policies of President Eisenhower and Kennedy focused on enabling defense by enabling partner nations’ efforts.
+To meet this strategic goal, the United States military increased advisory missions as a means of furthering partner nation defense efforts.
+While USSE in Europe seemed to fade out of utility, new USSE units formed to meet the demand.
+Although USSE was still held in dubious regard by many high-ranking military leaders, the ability of the newly formed USSE units to expound upon their original mission highlighted the units as flexible alternatives to large footprint conventional forces.
+The adaptability of these units for various Special Operations missions meshed well within President Eisenhower and Kennedy’s respective strategies and gained USSE relevancy.
+Inside Special Forces, 1953-1963 (Atmapolis, MD: Naval Institute Press, 2001), 6.
+The initial name for these missions were Mobile Training Teams and they became a common mission for USSF in Asia.
+The MTT mission in Vietnam began under President Eisenhower in 1957 and rapidly gained additional authorities as the security situation in that country deteriorated and economy-of-force operations expanded.
+Another environmental challenge for USSF units in Vietnam came from the aftereffects of the Korean War stalemate.
+As noted by Andrew Krepinevich, many senior United States Army leaders accustomed to winning conflicts, like WWI and WWII, “adopted a never again” attitude toward the limited objectives imposed on them by the civilian leadership during the Korean War.
+This sense of limiting was felt within the public and political arenas and was echoed in Presidential policy.
+Correspondingly, France’s post-WWII delay of decolonialization and independence of Asian states created an environment primed for the spread of communist ideology.
+Even when forced through United States and international pressure, Erance’s effort in assisting the transition of several of its Southeast Asian colonies failed, and United States support was increasingly required.
+Guided by the domino theory, which demanded the defense Wars of National Liberation and Liberation Fronts were common terms used during this time to explain Communist movements designed to overthrow Western-style governments.
+Stanton, Green Berets at War, 16. 24 of every state from eommunist aggression, the United States began to inerease its support to vulnerable governments throughout the world.
+As noted, this neeessitated the deployment of SFOD-As to serve as Mils providing the training, advisement, and equipping of forees.
+Army senior leadership felt that EISSE was too independent and later oanoelled the program.Despite the oanoellation of WHITESTAR, SEOD-As gained valuable skills and experienoe whioh were oarried over during the Vietnam War.
+A substantial inerease in strength and employment for EISSE oame following the eleotion of President Kennedy whose departure from the eoneept of “massive retaliation” espoused by President Eisenhower made USSE the premiere foree for his foreign poliey.
+President Kennedy developed the “Elexible Response” poliey whioh gave the United States deterrenoe options at the taotioal, operational, and strategio levels by rebuilding and refoousing the military.
+Chalmers Archer Jr’s book Green Berets in the Vanguard recounts Chalmer’s experiences during this initial early period of USSF in SE Asia.
+He recounts several deployments which discuss in detail the various objectives and initiatives USSF undertook in that region.
+Men have fought and died in Malaya, in Greeee, in the Philippines, in Algeria and Cuba and Cyprus, and almost eontinuously on the Indo-Chinese Peninsula.
+This is another type of war, new in its intensity, aneient in its origin — war by guerrillas, subversives, insurgents, assassins, war by ambush instead of by combat; by infiltration, instead of aggression, seeking victory by eroding and exhausting the enemy instead of engaging him.
+USSF’s subsequent adoption of counterinsurgency into its core mission tasks gained traction as President Kennedy’s refocus on the military intensified.
+At this point, USSF had already executed several MTTs in Southeast Asia.
+Like OPERATION WHITESTAR, USSE was again the force of choice for the military’s initial effort in Vietnam.
+As security in Europe stabilized with tank armies facing off with one another along the East-West German border, the United States began to increasingly focus on the Pacific.
+Einked to this shift was the pervasive belief by United States leaders that the European powers should decolonize the region and permit the indigenous populations the right of selfdetermination.
+In Vietnam, colonial grievances led to The Eirst Indochina War as Erance struggled against communist forces desiring to free Vietnam from its unwanted host.
+United States leaders had, in accordance with the containment policy, offered assistance to the struggling Erench with the provision that Erance allow the Vietnamese the right to self-determination.
+Damien Fenton, To Cage the Red Dragon SEATO and the Defense of Southeast Asia, 1955-1965 , 21. 26 preconditioned support, began to lose the war.
+While the United States ultimately acquiesced and provided materiel aid, the decision came too late to change the outcome and the French suffered a major defeat at Dien Bien Phu on 7 May 1953 and consequently lost Vietnam.
+The Geneva Accords of 1954, which the United States helped organize, finalized the conclusion of the First Indochina War and split Vietnam along the 17th parallel.
+Fearing the vulnerability of the neighboring of Laos and Cambodia, United States leaders determined that “any further territorial loss to Communist expansion in SE Asia was inevitable unless a regional defense alliance under United States leadership could be established.
+With President Eisenhower’s approval, the United States created a plan for an America-led security framework for the region which included nations such as the United Kingdom, Erance, Australia, New Zealand, Pakistan, Thailand, and the Philippines. security framework, took its design from the NATO construct and included provisions for collective defense between all signatories.
+Although many were happy with the defense pact, it did not take long for United States leaders to realize that “they were not dealing with a mirror image of the security situation in Europe” and that additional United States forces would be required to maintain regional stability.
+Social Change Much of the United States population initially supported Presidents Eisenhower and Kennedy’s policies in Vietnam.
+The relatively few numbers of troops deployed to the country under the MTT concept, left the greater United States population relatively unaffected by the military support.
+This ignorance resulted in very little societal change throughout the initial years of United States deployments.
+However, President Johnson’s 1965 decision to escalate United States involvement began to generate profound societal change.
+As noted by Eunch and Sperlich, from 1966-1967 “increasing numbers of people began to tell pollsters that Fenton, 25.
+This downward trend of American public sentiment strained the relationship between the policymakers and the military.
+Moreover, the loss of public support for the war generated additional restrictions on the means United States forces could use to execute operations in order to limit United States causalities.
+This resulted in United States military leaders’ continual attempts to bring the war to a swift close through large conventional operations.
+These efforts affected USSF’s mission focus and organizational requirements throughout the war.
+The Economic Environment While the cost of the Vietnam War in blood, drove rapid societal change at home, equally costly was the financial burden.
+Unlike the human cost, the full burden of financial capital was slowed by the incremental increases in the war but was nevertheless debilitating over time.
+While the initial buildup of the military for participation in the conflict generated an increase to the Gross Domestic Product the length of the war ultimately demanded increased spending.
+This slow path toward recession produced little change during the war but had a long-term effect following its conclusion.
+Bom out of the inter-service rivalry between the United States Air Force and the United States Army since its breakup after WWII, the helicopter gave rise to the concept of air-mobile units.
+In this “test,” the 1st Cavalry Division was not only able to launch forces and artillery into an enemy stronghold but reinforce and resupply them all via helicopter.
+Recognizing that increased mobility enabled offensive operations, a United States advantage and concept it frequently gravitates toward, the United States military strategy throughout much of the war focused on area denial and clearance operations.
+In essence, military leaders saw air-mobility as the tool to break from the stalemate of the Korean War by enabling rapid movement into denied areas.
+As a consequence, conventional military units were often focused on clearance operations while USSF, being resupplied by air, could perform economy-of-force operations in rural areas.
+Another technological advancement which influenced events throughout the Vietnam War came in the form of news as it transitioned from paper reporting to television as a means to recount the war’s progress.
+In the advisory years of the Vietnam War (19541961), media coverage of Vietnam or events in Southeast Asia rarely occurred.
+With little to spark the interest of the American public, journalists focused elsewhere for newsworthy events.
+Troop escalation and increase in combat casualties brought additional attention and televised news broadcasts focusing on the war increased.
+B, MISSION AND TASKS The aforementioned factors played a contributing role in the way the military executed their missions.
+Although the original mission of USSF was UW, the growth of communist backed insurgencies led to additional missions and demanded adaptation.
+As part of the larger COIN strategy in Southeast Asia, the United States Army initially employed MTTs and advisory groups to provide military assistance through equipment, training and combined operations.
+Report on the Govemability of Democracies to the Trilateral Commission,” ed.
+Archer, 60. 30 deployment of the 1st SFG.l^O Not only did the MTTs assist foreign governments by strengthening host-nation military eapabilities, they also demonstrated that USSF was capable of operating alongside a multitude of foreign forces.
+This allowed detachments to engage within the culture of their host nation, a skill critical to any foreign interaction.
+The CIDG was a concept started by the CIA’s Military Assistance Advisory Group’s Combined Studies Division to enable disaffected South Vietnamese rural peasants to defend their own areas while denying the communists safe haven.
+By design, this program received CIA funding but used USSF to recruit, train, and equip the locals.^2 xhe concept was largely successful and effectively created friendly safe areas as a thorn in the side of the communists’ operations in South Vietnam.
+The CIDG program marked a shift from the typical training or advisory missions of the same period.
+In essence, the program was more akin to the UW mission of USSF with slight modifications.
+Instead of going deep behind enemy lines, SFOD-As would be in a host nation’s “free territory” persuading local minority groups from joining the communists and enabling their own internal security.
+Selected as the first test village, the “Buon Enao Experiment” in Darlac province was solely under the control of the CSD and not the Vietnamese government.
+The basic concept of the CIDG program was to obtain approval from village chiefs and elders to adopt the program, swear allegiance to the Republic of Vietnam, and establish a security force and defensive structure in the village.
+Piasecki, 24. 31 concluded with such success that the provineial chief requested the program expand to neighboring villages.
+The result was an early sueeess of the program and 1962 brought with it an inerease in the CIDG program throughout Darlae Provinee.
+The inereased aetivity brought with it a greater demand for SFOD-As which necessitated the ereation of the Headquarters United States Army Speeial Forces Vietnam .129 By the elose of 1962, USSF had inereased in strength to “530 USSF soldiers serving on four B-Teams and twenty-eight SFOD-As throughout Vietnam.
+MACV’s leaders then pressured the CIA to pass eontrol of the CIDG and USSF to the new command.
+This transfer changed several of the essential eomponents of the program.
+First, instead of being a United States eentrie effort, the responsibility for the camps reverted to South Vietnamese eontrol following the eompletion of training and the establishment of seeurity.
+The new shift toward an offensive strategy under the COIN effort ehanged the mission for USSF in Vietnam.
+Onee the air-mobile unit was on the ground, the Apaehe Foree fell under the ineoming eommander until eompletion of the operation.
+Although short lived, all the Corps Taetieal Zones developed this eapability.
+The eost of these operations to the CIDG program was drastie as the indigenous foree losses through attrition while working in unfamiliar terrain produeed a negative response in future CIDG programs.
+Instead of providing loeal area seeurity and eivie projeets for the villages the CIDG loeations beeame bases for strike operations in their respeetive areas.
+To faeilitate this shift, by late 1964, CIDG eamps were moved along the borders of Laos and Cambodia.
+This led to a preeipitous deeline in the eapability of USSF and the CIDG, whieh degraded the original eoneept.
+Losses from several attaeks from 1964-1965 at Ben Cat and other CIDG bases near the dangerous “iron triangle” demanded USSF ereate quiek reaetion forees eapable of rapidly reinforeing besieged SFOD-As.
+As the eapability of these units grew, they beeame an invaluable asset as they were able to save numerous outposts that would have otherwise been overrun.
+Conventional foree eommanders began to see the Mike Forees as a rapidly deployable foree that eould be moved to hostile areas that were too risky for other South Vietnamese or United States eonventional forees.
+This beeame the method of employment of the MIKE forees throughout the rest of the Vietnam war and allowed “USSF and their ‘stikers’ to aggressively seek out and destroy the enemy.
+ORGANIZATION AND CAPABILITIES The missions for USSF evolved thought the Vietnam period, however the strueture of the SFOD-A ehanged little; espeeially with regard to MOS capabilities.
+This unit was commanded by a Lieutenant Colonel, the Executive officer was a Major, the Operations Officer was a Captain, and contained a Master Sergeant in charge of 12 senior Sergeants.
+Under this model the 14th SFOD conducted several deployments to Thailand, Taiwan, and Vietnam.
+While the pilot teams that made initial contact with village elders generally consisted of an USSF medic and CIA counterpart, the execution of the CIDG program was ultimately filled by SFOD-As.
+As USSF was short personnel, it was not uncommon for CIDG programs to be filled with incomplete SFOD-As.
+The structure of the original SFOD-A tasked with the experimental CIDG mission^^8 The success of the CIDG program and subsequent expansion necessitated additional SFOD-As and marked the first field adaption of its organizational structure.
+Through experimentation, it was determined that the ideal force structure for the CIDG program was a Vietnamese Special Forces unit and a SFOD-A operating as a split-team.
+In practice, this concept was not always possible as some SFOD-As were not partnered with a Vietnamese Special Forces unit.
+As the military increased its role in Vietnam, it expanded offensive operations and USSF followed suit.
+Unlike the CIDG program which initially focused on local security and remained small, the Mike Forces were more formalized into the military construct.
+Similar to the CIDG program, the SFOD-A assigned to the Mike Force supervised recruiting and conducted training and advisory operations within the battalion.^2 model for the MIKE force proliferated throughout Vietnam as a means to actively pursue the enemy.
+The Mike Force Battalion Organization As the MIKE force dominated the USSF effort in Vietnam, the CIDG program began to take a back seat because population centric programs did not mesh with the strategic means of prosecuting the war at that time.
+Driven by a precarious political environment which insisted on quantifiable metrics of success, the United States military focused on body counts and areas cleared instead of the previous population centric metrics.
+This lack of a singular focus prevented doctrinal acceptance of SFOD-A adaptation that had occurred during the height of the CIDG program.
+Experience gained from years of population engagement demonstrated the importance of having a full time CA and PSYOP personnel on the detachment.
+Stanton, United States Army Special Forces A-Team Vietnam Combat Manual, 120.
+Simpson III, 155. 38 and the government and turned large numbers of indigenous Vietnamese into local selfsupporting security forces.
+The vast diversity of the missions and the dynamic nature of the environment required several adjustments to USSF’s original construct.
+Although the changes USSF made were temporary in nature, those teams which incorporated CA and PSYOP in conjunction with their village defense program tended to be more successful.
+Recognizing that the character of warfare was changing, the United States initially sought to employ population-centric military capabilities under COIN which it did not possess.
+Because counterinsurgency is population based, a broad range of population-centric capabilities were required at the detachment level.
+The shift towards a more offensive attitude in operations post-SWITCHBACK shifted the objective of USSF’s presence away from the population.
+While strike operations are a necessary requirement, especially in a COIN environment, it can be viewed as the easy and measurable way to demonstrate success despite short-term gains.
+The popularity of the strike companies, and their proliferation, demonstrate continued attempts to fight offensively.
+The integrated capabilities at the detachment level under the CIDG program might be useful for the future environment where interconnectivity and other globalization factors will require a different kind of capability beyond those which USSF currently possesses.
+Whereas the temporary changes to USSF were ad-hoc at best, limited wars, where indirect actions dominate all aspects on the battlefield and beyond it, will require change in USSF structure to meet the demands placed on the detachment by the environment.
+BEYOND VIETNAM AND TO THE WAR OF TERROR A, THE ENVIRONMENTAL FACTORS Military change, and especially organizational military change, in times of relative peace, is rarely, if ever a fast process.
+Instead, change within military bureaucracies often occurs over several decades and is broadly shaped by the environment of the time.
+Given that USSF has undertaken a vast array of missions since Vietnam, it is beyond the scope of this thesis to categorize all of the regiment’s missions.
+Instead, this chapter will seek to highlight several missions which best characterized the efforts of USSF and drove organizational adaptation during the selected period.
+Consequently, USSF has, perhaps more than any other military organization, either contracted, adapted, or expanded depending upon presidential administrations’ desired means of combatting threats.
+Such has been the environment since Vietnam, as the national desire to distance the prestige of the country from the failures dictated defense strategy and funding.
+One important consequence was an ebb and flow of USSF’s appetite to conform and adapt to conventional military demands.
+This malleability is not relegated to the immediate post-Vietnam period but instead can be seen in the assignments of SFOD-As over the past four decades.
+Faced with an increasing anti-war movement, and growing national distaste for the draft, President Nixon abandoned the “two-and-one-half war” defense strategy (meaning the military must be prepared to fight two conventional wars and one irregular war simultaneously) and adopted the “one-and-a-half war” defense strategy.
+This departure meant that rather than supplying troops to defend allies and partners globally, the United States would provide materiel aid and economic support.
+For USSF, which, like the rest of the military, was suffering from weak leadership and numerous ethical scandals, the transition threatened the organization’s existence.
+While President Nixon’s implementation of this strategy was cut short by his resignation.
+President Ford not only kept the policy but also its authors who supervised implementation.
+For the military, the shift in strategy meant that while the United States was withdrawing from Vietnam, it would downsize the force.
+USSF’s contemptuous relationship with the conventional Army, due to its “absence from the cannon of strategic theory,” was consequently starved of funding.
+Conventional Army officers, seeing no future in the unique force, further dissuaded talented personnel from joining.
+By the late 1970s, the confluence of these two factors nearly put USSF out of business.
+Seeing the proverbial writing on the wall, “the vast majority of officers and non-commissioned officers with experience and knowhow fled into retirement or the conventional army.
+This necessarily linked China and Russia into a monolithic threat in strategists minds.
+The one-and-a-half war strategy cognitively dissected the monolith and created opportunities.
+The First Thirty Years, a History of the United States Army Special Forces , 219. 42 the organization as a reconnaissance and direct-action force offering commanders enhanced but nevertheless conventional capability.
+As Mark Boyatt describes, “Special Forces became a very expensive conventional force.
+President Carter’s foreign policy attempted to create a more peaceful global environment by creating detente with the Soviet Union while promoting human rights internationally.
+This led to bi-lateral talks with the Soviets focused on limiting the proliferation of nuclear weapons that became known as the Strategic Arms Limitation Talk s I and IT President Carter predicated the SALT talks upon the Soviet’s limiting their expansion.
+However, as the Soviets proved throughout the 1970s, the communists had no interest in restraint.
+Not wanting to repeat another Vietnam, President Carter shifted his defense policy to protect United States vital interests, specifically those in the Persian Gulf and Europe through conventional deterrence.
+This era of “limited goals” further constrained USSF’s role as there was “no taste among executive branch policymakers for anything like unconventional involvements by the military.
+On the one hand, the administration sought to roll back Soviet expansion, spoke openly about supporting anti-communist insurgencies, and increased funding for and the size of SOF units.
+Moreover, the administration’s reluctance to support anti-communist insurgencies with troops limited its goals to supplying military aid.
+Left with a national policy that supported irregular warfare but military leadership and a political environment that did not, USSE throughout the 1980s concentrated on conforming into the conventional apparatus.
+This is not to say that uneonventional and irregular operations and training did not oeeur and suceeed, particularly under the revamped MTT eonstruct, but rather that the foeus was based upon taetics most useful in eonventional battle.
+With the collapse of the Soviet Union, remaining political interest in UW evaporated.
+Exeept for the Persian Gulf War, the predominanee of United States military endeavors throughout the 1990s was in peacekeeping and humanitarian assistanee operations.
+These operations, eombined with sweeping budget cuts under the Clinton administration, should have neeessitated a eonventional military adaptation toward a lighter, more expeditionary foroe.
+This predominanee of focus came to a elimax in the days and weeks following the 9-11 attacks, as senior ranking military leaders reeommended eourses of aetion to President Bush that were eonventional minded but politieally unsuitable.
+September 11, 2001 brought USSF and UW baek in vogue beeause it “offered signifieant military advantages, emphasized partnerships to reduee United States eausalities, and redueed international pereeption of the United States killing Muslims.Moreover, the unpreeedented speed with whieh SOF, particularly SFOD-As, were able to oust the Taliban elevated the partieipants to hero status and bolstered the administration’s politieal '™ Adams, 169.
+This desire to “fight smart,” was replicated during the invasion of Iraq, and SFOD-As deployed en masse to conduct UW as well as a variety of other missions in support of the 2003 invasion.
+Following the defeat of the Iraqi military and subsequent “de-Baathification,” the situation in Iraq degraded into anarchy as rival insurgent groups battled for supremacy of the country.
+The chaos of Iraq and the associated increase in United States causalities represented a significant political risk for the Bush administration.
+This framing of the deteriorating situation served to demonstrate “measures of success” and were designed to decrease the impact of individual servicemember deaths’ on the United States population.
+From 2004 until 2007, when General Petraeus took command of the Multi-National Force-Iraq , the military, including USSF, conducted DA centric CT operations while continually providing the media with body-count statistics reminiscent of the Vietnam War.
+Operations in Afghanistan mirrored the DA focused approach as the Taliban insurgency gained momentum.
+Moreover, entertainment and war futurists have reeently eoineided in their predietions of future environments.
+Nihilists prediet future Mad-Maxstyle dystopias, patriots prediet environments where military strength wins the day, and teehnophiles prediet a teehnology-driven future with sentient maehines eontrolling warfare.
+All of these predietions miss the mark but have effeetively driven strategy and investment in teehnology within the military, At times, the teehnologieal foeus has left the military with a eapability gap regarding population based operations in support of strategie goals.
+As previously noted, before the adoption of the Nunn-Cohen amendment, USSF was profoundly affeeted by disproportionate funding euts eompared to the eonventional military.
+To overeome the pereeived laek of value, USSF foeused on beeoming profieient at individual and eolleetive tasks that fit into the greater eonstruet of warfare as envisioned by the eonventional military at the time.
+This was partieularly true prior to the Nunn-Cohen amendment when USSF’s foeus eentered upon DA and SR operations in support of the AirLand Battle operating eoneept.
+Technological Change Without a doubt, the greatest teehnologieal ehange sinee the United States departure from Vietnam has been the proliferation of eomputers.
+By “shifting the balanee between offense and defense,” the RMA eoneept meshed well with the United States military’s propensity for offensive and eonventional operations.
+This eontributed to a belief within the military that technologieal superiority would ensure battlefield suecess and the DoD foeused heavily on expensive teehnologieal innovations.
+For USSF, this meant that while the eonventional military foeused on defeating eonventional opponents, the non-eonventional role for USSF expanded.
+This growth was initially seen in the Vietnam War and, as noted, it had a huge impaet on how that eonfiiot was prosecuted.
+Following the Vietnam War, the media began to foeus on terrorism as an emerging global trend of violenee.
+Consequently, as terrorist attacks began to oeeur against the United States abroad as well as at home, Ameriean interest steadily grew.
+This is not to say that terrorism grew beeause of interest but rather that the growth of the media provided terrorists with a global audienee and made terrorism’s impaet larger than before.
+In the 1970s, the growth of terrorism generated partieular attention during the Ford administration as the Soviets began to promote its use as a new form of proxy warfare.
+Gongora and Von Riekhoff, Toward a Revolution in Military Affairs, 141.
+Covert Units, Secret Funds, and the War against Israel and the United States , 243.
+For USSF, which was held in “precarious value” at the time, CT represented an opportunity for renewed relevancy.
+By 1979, the military had gone from having no CT forces to several “full-time” units and even more “semi-pros” from across the services.
+The failed attempt to rescue American hostages held in Iran in 1980, and the subsequent Holloway Commission Report, highlighted several deficiencies of SOF that contributed to the failure.
+President Reagan’s inauguration and his “peace through strength” foreign policy further set the conditions for sweeping change within the Defense Department.
+However, failed and nearfailed operations as part of the United States invasion of Grenada grew political interest and necessitated further congressional inquiry.
+After conducting a two-year study, which included a review of SOF, Senators Goldwater and Nichols introduced legislation to end the rampant parochialism and force necessary jointness within the services.
+Forrest L Marion, Brothers in Berets: The Evolution of Air Force Special Tactics, 1953-2003 , 123.
+In 1987, Congress passed this legislation and for the first time protected USSF from funding and personnel cuts by giving SOF the same level of representation as other combatant commands.
+MISSION AND TASKS Since Vietnam, USSF has had a variety of missions ranging from elite commando operations to UW in support of national objectives.
+The variety of these missions though resulted in a force more capable of executing ad hoc capability adaptation while decreasing the potential long-term changes that would more specifically enable UW operations.
+For a time, some USSF units concentrated exclusively on conducting CT operations.
+This capability requirement was so prevalent that it even affected “Detachment Berlin,” the regiment’s most fully capable and United States Special Operations Command History, 7.
+Cannot Conduct Unconventional Warfare” . 49 mission-focused UW element.
+With the realization of the need for a National CT unit, USSF seemed to poliey makers to be the likely unit from whieh to ereate the foree.
+Under the direetion of General Edward Myer, Colonel Charlie Beekwith, an experieneed USSF offieer, began organizing an elite DA-foeused unit.
+Despite being effeetively foreed out as the national CT foree, CT remained one of USSE doetrinal tasks but was no longer the foeus mission.
+The military’s adoption of the AirLand Battle operating eoneept effeetively refoeused the Army toward high-intensity eonfliet.
+Left without politieal baeking for UW or CT, USSE found itself inereasingly willing to “play ball with the serviees” and throughout the 1980s, the regiment adopted mostly eonventional missions sueh as DA and SR in support of the new AirLand Battle eoneept.
+The AirLand Battle eoneept, was eoneeived by General Starry in 1977 but largely implemented in the 1980s and was formulated upon two assumptions.
+The first was that the Army eould not withstand another protraeted fight like the one in Vietnam.
+The seeond was that eonventional war eould be fought and won against the Soviets in Europe.
+Consequently, General Starry’s operating coneept focused on defeating a Soviet invasion of Europe by concentrating on winning the first battle.
+This transition of thought from a protracted war to one of massive conventional battle left little room for typical USSF missions.
+During the Persian Gulf War, the AirLand Battle concept was put on display as conventional Army units produced one of the finest examples of a Jominian “battle of annihilation” in history.
+American citizens at home were, for the first time, awed by the accuracy of airstrikes through video images distributed by the military from the nose cones of guided bombs.
+The Persian Gulf War both exemplified USSF’s capability to support AirFand Battle through conventional support to high-intensity operations such but also began a slow revival of USSF irregular warfare capability.
+As stated by General Tovo, “Special Forces conducted a wide range of missions during the Gulf War, with varying degrees of effect on the overall campaign.
+While assigned in this role, USSF teams not only trained the pan-Arab force but also provided conventional commanders with “ground truth” of coalition force capabilities.The proliferation of coalition operations in support of United Nations mandates throughout the 1990s repeatedly demanded USSF to perform this role.
+The reclamation of Kuwait and the defeat of the Iraqi military brought an end to Operation Desert Storm.
+However, with encouragement from the allied forces, Iraqi Shia and Kurdish populations rose up in revolt against Saddam Hussein.
+Consequently, Saddam Hussein turned his military loose on the rebels who were hopelessly overmatched by Iraqi armor and continuously attacked by helicopter gunships.
+Faced with nightly broadcasts of Iraqi brutality, the Bush administration, with United Nations approval, acted to stop what was sure to become a genocide.
+Almost immediately, the United States began supplying aid via airdrops to the displaced Kurds in what would become the most massive aerial delivery of aid since the Berlin Airlift.
+Members of the 1st Battalion, 10th SFG, who had been deployed to Northern Iraq during the war to provide CSAR capability, were once again called upon.
+Beginning in April 1991, just one month after the Kurdish uprising, these members entered Northern Iraq, to meet with Kurdish leaders and to coordinate aerial aid. xhe demonstrated success of USSF to conduct this type of operation made it the “go-to” for Humanitarian Assistance , operations throughout the 1990s.
+However, as noted, the prevailing strategic thought of the 1990s was dedicated to the RMA, which saw the technological edge demonstrated by United States forces in the Persian Gulf War as a vision for the future.
+This vision predicted that wars could be fought and won through the application of firepower from the air and sea onto land.
+In essence, and despite indications to the contrary, the military remained focused on highintensity warfare, effectively allowing USSF to play a more significant role in countering irregular threats as it was intended to do.
+By the close of the 1990s, the reputation of USSF had recovered from the Vietnam stigma and it was seen as the “go-to” force when strategic effects were required.
+This was demonstrated in the wake of the 2001 terrorist attacks when ’’the shock of 9/11 failed to provoke originality or imagination” from conventional Army leadership.Faced with courses of action which emphasized kinetic strikes from afar with minimal to no “boots on the ground,” President Bush opted to use USSF and CIA teams to link up with Afghan tribesmen and provide intelligence for the approaching armada of airpower.
+For the first few months in Afghanistan, USSF was able to accomplish multiple goals including facilitating the union of many tribes against the Taliban, the removal of the oppressive regime from power, and providing limited humanitarian assistance.
+To combat this threat, USSF’s focus throughout the initial years of the conflict centered on DA raids with pro-GIRoA James Kitfield, “New World Warriors,” Government Executive, November, 1995, 39.
+George W Bush, Decision Points , 191; Wolfowitz to Rumsfeld, “Using Special Forces on ‘Our Side’ of the Line,” September 23, 2001. 53 militias.
+With pressure from the international community, these activities were later curtailed and replaced with efforts to build the Afghan National Army and Afghan National Police .214 However, the resurgence of the Taliban demonstrated that the enemy-focused strategy could not succeed and required that the United States and GIRoA concentrate on local security.
+Village Stability Operations eventually became the consummate operation for SFOD-As in Afghanistan.
+The VSO program was begun in 2009 and paired SFOD-As with local villages to capitalize on the Pashtunwali concept of arbakai or local militia.
+While this operation was similar in form to previous USSF efforts with pro-GIRoA militias, the difference was in focus.
+Rather than attacking the Taliban, VSO, like its Vietnam CIDG predecessor, concentrated its efforts on the population.
+This indirect approach to COIN fit in well with the 2007 joint COIN Field Manual and consequently received support from the military leadership.
+Although these operations varied in their ability to create stability and link villages back to the government in Kabul, the concept nonetheless consumed the predominance of USSF’s effort in Afghanistan from 2010-2014.
+The early success of USSF in Afghanistan boosted USSF’s credibility within the joint force, and many of the SFOD-As that participated in the invasion of Afghanistan were again called upon for the invasion of Iraq.
+As Linda Robinson notes, USSF “had led the conventional military to appreciate what they could do.
+More than Village Defense,” Special WarfarelA, no. : 23. 54 proposal they made. ”217 in what would beeome the most massive deployment of Western SOF in history, SFOD-As eonducted a “very broad” array of missions during the invasion of Iraq.
+Whether it was UW in Northern Iraq with the Kurds or DA and SR in Western Iraq to find and destroy SCUD launeh sites, USSF time and again demonstrated its eapability to execute tactical level operations with operational and strategic impacts.
+While it took the Taliban years to develop an insurgency model in Afghanistan that could destabilize the country, the anarchic environment in Iraq following the invasion proved to be fertile ground for Sunni and Shia insurgent groups.
+The resultant civil war, combined with political risk for the Bush administration, necessitated USSF to take part in the enemy-centric COIN strategy.
+As noted in David Witty’s seminal work on the history of the CTS, in December 2003, Secretary of Defense Rumsfeld mandated the creation of an Iraqi counterterrorism unit. uSSF’s inherent ability to develop indigenous populations into fighting units and experience in FID, made it the best candidate to execute the directive.
+The Inside Story of America’s Most Secret Special Operations Team , 252; Charles H Briscoe, All Roads Lead to Baghdad: Army Special Operations Forces in Iraq , 80.
+Special Operations Force Program Is Achieving Goals, but Iraqi Support Remains Critical to Success (ARLINGTON, VA: Special Inspector General for Iraq Reconstruction, 2010), 1.
+The eombination of these units under one banner, as well as the integration of support and reeonnaissanee battalions, ereated a foree eapable of exeeuting the find, fix, and finish tasks of the targeting eyele internally.
+The growth of ISOF neeessitated a more signifieant eoneentration of USSF on a rotating basis to ensure the eoncept remained valid.
+The result has been the longest-enduring relationship between USSF and any foreign military unit and ereated one of the most sueeessful Iraqi Seeurity Foree Organizations.
+ORGANIZATION AND CAPABILITIES The period from the elose of the Vietnam War to the Global War on Terrorism has been marked by profound politieal, teehnologieal, and eeonomie environmental ehange.
+For instanee, at times, the foree has foeused on unilateral, direet operations in support of national or eonventional military objeetive and at others foeused on working “by, with, and through” partners and allies to aehieve goals. xhis mission variation has produeed some long-term organizational adaptation whieh has mostly eentered on inereasing detaehment’s lethality.
+More eommonly though, these ehanges have demanded ad hoe eapability adaptation as dietated by the mission and environment.
+Although USSF has always maintained the ability to eall in airstrikes, advaneed edueation in precision bombing provided by airpower experts was identified as a need within the SFOD-A during the invasion of Afghanistan.
+Almost immediately after the first troops returned from operations in Afghanistan, USSF developed a program to build a Special Operations Tactical Air Controller with JTAC capability and authority.
+Similar to the SOTAC course, the Special Forces Advanced Urban Combat Course was initiated by General Boykin, who saw the necessity for urban combat training during his deployment to Somalia.
+This program was then disseminated throughout the active duty groups to increase collective DA skills in an urban environment.
+To prepare their SFOD-As, 7th SFG leaders honed the program to inelude “34 hours of combat marksmanship, 60 hours advanced urban combat, and 26 hours of general subjects” training.
+By the Spring of 2000, the revamped SFAUCC graduated ten 7th SFG SFOD-As and the coneept was again disseminated throughout the regiment. eourse was undeniably prescient in its creation and lifesaving on the battlefields of Iraq and Afghanistan.
+While ad hoe changes are as diverse as the missions that USSF has condueted, there are several worth mentioning beeause they highlight internal organizational adaptability.
+Moreover, some of these changes demonstrate the need for a sealed version of a SFOD-As while others highlight the need for additional external capability.
+In either of these cases, what is telling is that the variety of missions has resulted in an inability to speeialize SFODAs to conduct UW operations.
+In terms of scaling up the size of an SFOD-A, the best example is that of Project Blue Light whieh eombined five SFOD-As into one company-sized organization with a CT mission. 5 j^st a decade and a half later, SFOD-As conducting SR in the deserts of Iraq and Kuwait justifiable scaled their organizations down to deerease deteetion risk and increase eoverage area. while splitting teams is doctrinally supported and the primary reason for duplication within the SFOD-A, joining teams is doetrinally and eulturally unsupported.
+Moreover, while these adaptations demonstrate the individual flexibility of USSF Soldiers, they fail to demonstrate a true organizational adaptation beeause they offered more or less of the same eapability.
+For example, during the VSO operations in Afghanistan, many SFOD-As requested embedded Military Information Support Operations and CA Teams.
+These additional teams increased detachment’s ability to leverage gains within the rural villages of Afghanistan and link them back to the government in Kabul.
+However, unlike their CIDG predecessor, the VSO operating concept never codified the best practices for the organization of the SFOD-A with enablers.
+Consequently, some SFOD-As VSO programs were inundated with enablers while others opted for a more minimalist approach.
+D, CONCLUSION From the close of the Vietnam War to the Global War on Terrorism, USSF has conducted a myriad of missions and executed countless ad hoc organizational changes.
+These changes have been executed as a result of the missions assigned and the environment in which they occurred.
+The results of a wide variety of missions has enabled USSF to gain and maintain relevancy.
+A SHIFT IN PRIORITY In the 2017 National Security Strategy and the 2018 National Defense Strategy , the Trump administration identified great power competition, particularly the growing threats of Russia and China, as primary security concerns for the United States.
+Kennan was not alone in seeing the necessity of options to project national power outside of conventional military confrontation.
+George F Kennan 1904-2005, “George F Kennan on Organizing Political Warfare” , Obtained and contributed to CWIHP by A Ross Johnson.
+Cited in his book Radio Free Europe and Radio Liberty, Chi n4 NARA release courtesy of Douglas Selvage.
+Today, USSF remains the only organization in the United States military specifically designed to conduct these types of operations.
+Throughout the Cold War, the United States and the USSR conducted UW operations against one another’s interests.
+In fact, as Frank Hoffman argues, United States eonventional overmatch has incentivized these types of operations.This is also indicative of a change of environment which has seen a decrease in the usefulness of the “weight of numbers and advaneed weaponry.”244 it is therefore paramount that USSF remains prepared and organized to conduct or combat UW operations with increased frequency.
+If we do not, then we risk the fate of French leaders at the outbreak of World War II whose minds had become too “inelastic” to realize ehanges that had oceurred to the character of warfare.
+To maximize USSF’s eompetitive advantage to conduct UW operations, it must be organizationally tailored for its operational environment.
+Preparing for the current environment in an era characterized by rapid ehange is tantamount to preparing for the last Bank, From OSS to Green Berets.
+Sergey Sukhankin, ‘Continuing War by Other Means The Case of Wagner, Russia’s Premier Private Military Company in the Middle East, ed.
+This requires an analysis of current global trends and peer activities that will likely play large parts in determining the future environment.
+It also requires an analysis of previous USSF adaptations to ensure that mistakes of the past are not replicated in the future.
+B, THE CURRENT ENVIRONMENT Since the fall of the Soviet Union, the world has significantly benefitted from Pax Americana.
+This has witnessed the breakdown of barriers in communication and economics that had previously been enforced by nation-states.
+As a result, throughout the 1990s and 2000s, the global number of deaths as a result of war declined as well as the percent of the global population living in extreme poverty.
+For the globalists who had predicted that open trade between nations would promote peace, economic prosperity, and establish a more modern world-order, these decades were evidence of truth.
+Buried within this economic prosperity, though, are the trends of globalization, urbanization, and littoralization which are increasingly changing this global environment.
+Perhaps the most impactful of the current global trends has been globalization itself Globalization is an umbrella term used to describe the interconnectivity of the international community as a result of transnational economics and associated technological advancement. jhe combination of these two factors has facilitated a rise in the transfer of capital between countries.
+As noted by the economist Anthony Giddens, “...the biggest difference is in the level of finance and capital flows.
+Giddens, Runaway World, 9. 63 consumer products, particularly those associated with communications.
+As a result, societies around the world, even those who have been historically isolated from external influences, are being inundated with foreign culture.
+An example of this can be found along Lebanon’s coast, where over a million refugees from the Syrian Civil War have emigrated and threaten to destabilize an already-strained government.
+Linked to the demand for better governance is that these issues rarely remain within the confines of the state.
+Internally, though, the inability of governments to meet their populations’ governance demand has left power vacuums which are then filled by Violent Extremist Organizations , insurgents, loeal strongmen, and/or proxy militias.
+All of these factors have contributed to the diminishment of state power particularly in the Middle East and Eatin America.
+Great power states’ soeieties have generally been unaffected by the deeline of resources and mass migration oeeurring in emerging eountries.
+This is not to say that these soeieties are not depleting their own and the world’s resouree availability, but rather that the impact has not been felt to the same degree yet and, as a consequence, eonsumer demand has not yet changed.
+This is mostly resultant from the positive economie effect of globalization, technological investment, and the build-up of these governments’ militaries as power projection platforms.
+As the pace of technology development, populations, and consumption increase, the reciproeal demand for resourees is also increased.
+This has and will eontinue to lead great power states eloser to confrontation.
+CEDs help individuals to “see” problems systemically rather than linearly by mapping the relationship between independent and dependent variables and assigning a positive or negative polarity. polarity indieates whether the independent variable results in the same or opposite effect in the Global Trends, “Paradox of Progress,” National Intelligence Council, 2017, 6.
+Systems Thinking and Modeling for a Complex World (Boston: Irwin/MeGraw-Hill, 2000), 102. 65 dependent variable.
+If increasing/deereasing the independent variable causes the dependent variable to increase/decrease beyond what it otherwise would have been, a positive polarity is assigned.
+Reciprocally, if increasing/decreasing the independent variable causes the dependent variable to decrease/increase beyond what it otherwise would have been, a negative polarity is assigned.
+With this in mind, a CLD can help analyze a problem as complex as the current global environment through “the identification of the behavior of feedback structures at play within bounded systems and subsystems.The loops formed in this process can be either balancing or reinforcing In this case, three balancing loops demonstrate that economic growth will continue to drive international trade, leading to the depletion of natural resources and compelling the aforementioned state evolution and interest.
+The outcome of this analysis is that the global trends that have dominated the last two decades stem from globalization and will continue unless otherwise abated.
+In fact, nuclear deterrence between great power states increases the likelihood that proxy warfare such as UW will dominate future conflict between great powers.
+THE COMPETITIVE SPACE As the confrontation between the United States and its peers / near peers seems inevitable, it is necessary to examine the United States defense strategy to determine USSF’s role in the future.
+The goal of this concept is to maintain the inter-domain dominance advantages the Army has benefitted from during the GWOT in the event that great power competition becomes great power combat.
+As the “only element in the United States Armed Forees organized, trained, and equipped speeifieally for UW,” USSF must remain foeused, organized, and prepared to eonduet these operations.
+To better understand the total value that USSF ean provide in this regard, it is neeessary to briefly examine the operations of our opponents.
+These opponents have, through an applieation of UW and hybrid warfare strategies, routinely “outmaneuvered their seemingly less nimble United States eompetitor.”265 xhis examination is not intended to provide a eomplete pieture of eaeh nation’s SOF and UW aetivities but rather to provide a snapshot of eurrent required eapability with whieh USSF must be prepared to eompete.
+However, the Russian Army’s poor performanee during the Georgian War in 2008 made it elear to the Kremlin that eompetition on the global stage in the 21st eentury required military reform.
+Regaining Strategic Initiative in the Gray Zone (Carlisle, PA: Army War College, 2016), 6.
+Following weeks of rioting in Kiev and the departure of the pro-Russian Ukrainian President Yanukovych, the focus of the Kremlin’s interest shifted from national control toward annexation of wealthy regions along the Ukraine’s eastern border.
+The first step toward this goal was the annexation of Crimea, a predominantly ethnic Russian region of the country.
+While western reporters and analysts observed, pro-Russian separatist units took control of key facilities backed by unknown soldiers who wore sterile uniforms.
+In the days leading up to the Crimean referendum, Russian SOF quietly infiltrated Crimea to conduct reconnaissance, organize separatist units, create a sense of chaos, and, when the time was right, execute limited direct-action operations.
+Bukkvoll, “Russian Special Operations Forces in Crimea and Donbas..” 69 and the subsequent request for Russian annexation.
+Throughout this campaign, information operations retained primacy and enabled the Kremlin to shape the environment while simultaneously providing greater “flexibility and efficiency” to the Russian SOF units on the ground.
+These actions were so adeptly synchronized that at the time of the Crimean parliament referendum vote, Kiev was still searching for a means to respond.
+Russian SOF, backed by well-developed information operations, were able to create a fait accompli before Kiev or NATO could muster an effective response.
+Following the Russian annexation of Crimea, additional Russian SOF units began to appear in other regions of Eastern Ukraine.
+While the Kremlin’s operations in Crimea benefitted from a predominantly ethnic Russian population and local popular support, its UW operations in eastern Ukraine did not.
+As a consequence, Russian SOF were forced to take a more active role in inciting rebellion, conducting sabotage operations, intelligence collection, and directing attacks against Ukrainian military targets.
+As early as April 2014, Russian SOF units were observed training local separatist units in several cities within the Donbas region of the Ukraine.
+Had it not been for Ukrainian nationalist resistance units, the return of Ukrainian conscription, and sanctions by NATO, the Russian operations in Eastern Ukraine would likely have ended in a similar result as Crimea.
+Now, even after the deployment of thousands of Russian regulars to the region, combat has ground into stalemate.
+While the fate of the Donbass region remains unclear, what is clear is that 21st century UW requires an adaptable force capable of conducting a range of activities including covert and clandestine operations in support of a detailed information operations campaign.
+Bukkvoll, “Russian Special Operations Forces in Crimea and Donbas. ,” 17.
+In 2007, the Russian Duma and the Federation Council passed a law allowing companies to legally use arms and “special means” for the procurement and transfer of hydrocarbons. xhis initial narrow focus of Russian PMCs expanded as operations in the Ukraine ground to a stalemate and requests for support began to arrive from Syria, Russia’s strategic partner in the Middle East.
+While PMC are ostensibly private, their ownership by wealthy oligarchs with direct ties to the Kremlin has made these organizations an extension of Russia’s foreign policy. xhe colocation of the Wagner Group, a premier Russian PMC company, and the 10th Special Forces Brigade as well as its ownership by Yevgeny Prigozhin, an oligarch with direct ties to Putin further validates this fact.
+Whether operating in the Ukraine or in Syria, the Wagner Group’s actions closely mirrored those of other Russian SOF units.
+This deliberate ambiguity has further provided Putin with deniability of Russian activity while maintaining an adept expeditionary UW Bukkvoll, “Russian Special Operations Forces in Crimea and Donbas. ,” Sukhankin, ‘Continuing War by Other Means, ’ 297.
+This force’s total capability was put on display when hundreds of Wagner PMC and attaehed Syrian Army units attaeked a United States / Kurdish base in Eastern Syria.
+On February 7,2018, after a week-long build-up of men and materiel, Wagner PMC equipped with T-72 tanks, artillery and mortars attaeked a small outpost eontaining approximately 40 United States SOF and Kurdish Syrian Defense Foree fighters.
+While the motivation for this attaek was most likely to seize the massive Conoeo oil fields, the truly faseinating faetor was the tenaeiousness of the attaekers.
+As noted by Sean MeFate, these forees did not waiver but pressed their attaek for four hours under relentless air attack by United States rotary and fixed wing aircraft as well as High Mobility Artillery Roeket System .280 xhis elearly indieates that the Russian PMC was trained and equipped to fight against an aggressive adversary.
+Moreover, it demonstrates that Russia is prepared to use its PMCs like SOF to aehieve politieal objeetives whieh, had they originated from a less ambiguous organization, would have been deelared an act of war.
+This eapability gap is especially interesting eonsidering that during the Cold War, China adeptly eondueted UW operations as part of its strategy to expand communism throughout Asia.
+The eurrent gap in a SOF UW foree highlights that China’s strategy sees no need for the eapability.
+Rather than investing in military UW as a means of power projeetion, PFA SOF eapability more elosely resembles that of the United States Army Ranger Regiment, whieh foeuses on swift Direet-Aetion missions in support of a national objeotive.
+This deliberate ehoiee indicates the China’s belief that “non-military warfare” is the future form of global oompetition.
+Dave Majumdar, “China’s Special Forces Units Are Getting Ready for War,” The National Interest, July 17, 2018.
+Examining China’s military capability, which is designed to create “political power for the party, lacks a clear concept for appreciating political warfare.
+Instead, we note that, like Russia, China has weaponized information and adeptly uses it to conduct political warfare.
+This matters because, as noted in the Joint Operating Environment 2035, the ability of regional powers to attain global reach will likely result in increased competition throughout multiple domains. a brief examination into how regional powers like the IRI have used SOE to hit above their weight class on the geopolitical stage is therefore appropriate.
+The linkages between the revolution in 1979, the subsequent “republie,” and extremist organizations sueh as the Palestine Liberation Organization.
+Nevertheless, the ability of Iran to oppose United States goals and initiatives in the Middle East despite recourse has enabled them to obtain several key strategie objectives.
+For example, in the early 1980s in Lebanon, the Quds Force, the IRFs premier SOF unit, was able to train, arm, equip, and advise previously disparate Shia militia groups to join forees under the Lebanese Hezbollah umbrella.
+After just a few years, the fledgling proxy movement was able to foree the United States and Israeli militaries to withdraw.
+Despite the unpreeedented success of LH in the 1980s, it was the IRI’s war with Iraq and realization of eonventional weakness that solidified Iran’s affinity for proxies and UW operations. xhis eontinued foeus has enabled LH to aehieve not only a standing army with advaneed weapons but also politieal baeking as part of an influential bloek within Lebanon’s government.
+This move toward loeal eredibility was bolstered by LH’s information dominanee.
+As noted by Hoffman, the transformation of foeus was exemplified during the 2006 Lebanon War when “the battle for pereeption dominanee was just as eritieal as the strategie strike eompetition and the gritty defense of the villages in southern Lebanon.
+For instance, in Iraq, as early as 2003, the Quds Force began training, equipping, and advising thousands of Muqtada al-Sadr’s Mahdi Army to counter United States military objectives. while trainers assisted the Mahdi Army in building its core cadre and development of tactics, the injection of Iranian technology to increase the human cost of United States involvement in Iraq had a hastening effect on the United States withdrawal.
+The ability of Iran to compete with the United States asymmetrically through the use of UW proxies and information warfare dominance again enabled strategic effects.
+In Syria, the ability of Iranian Quds Force to work alongside the Syrian Army is an illustration of Foreign Internal Defense as described in the United States Army’s Multi-Domain Operations Training Circular.
+Here, the Quds force exemplified a long-held belief within USSF that the best UW force can also provide the best assistance in a Counter-Insurgency campaign.
+Once again, the IRI was able to capitalize on weakness and instability to attain greater control over its neighbor.
+As ISIS forces marched through Mosul and Fallujah and threatened Baghdad, many Iraqi volunteers opted to join the Popular Mobilization Forces rather than the collapsing Iraqi military and police units.
+Moreover, this provides an example of how the IRI through the employment of adaptable SOF was able to support conventional forces in one region while building an irregular force in a neighboring country simultaneously.
+CONCLUSION A, THE FUTURE ENVIRONMENT While many scholars, experts, and defense analysts have prophesied about the future of warfare, most have focused on the technological aspects about the future of warfare.
+As a result, futurist literature is replete with predictions of cyber Armageddon scenarios which then drive investment and focus from the DoD into acquiring more technology.While developing and incorporating new and revolutionary technological advancements is critical to the success of the SFOD-A, the reality will be quite like the past competitive environment of the cold war.
+Rather than massed armies invading territories or truly crippling cyber-attacks, modem warfare seeks to advance the political agendas of the state strictly below the threshold for conventional war.
+However, whether by conventional or irregular means, modern war but still capable of producing political endstates.
+As a result, our opponents in the modern continuum are increasing their capacity to conduct warfare below the threshold of a conventional response while still eliciting positive results.
+As demonstrated previously in Chapter V, as economic growth and relative international prosperity continue to increase, the likelihood of this form of warfare increases.
+It is therefore necessary for the United States military to maintain a force organized to be capable of either conducting or defeating these operations with regularity.
+Current USASOC strategy dictates that for ARSOF to be competitive in the future environment, one of the essential risks necessary for enabling success it to divest of legacy missions and force stmcture.
+This future force cannot be massed formations but rather ought to be smaller units equipped McFate, The New Rules of War.
+When assessing the future eapability of the SFOD-A, it is therefore neeessary to examine the eapability of the SFOD-A during the Cold War.
+However, as terrorists eontinue to threaten our nation, it is also neeessary to examine the eapabilities of the SFODA throughout the GWOT to ensure that those valuable lessons learned are not forgotten.
+Therefore, any recommended change to the SFOD-A cannot be a step backward but must rather build upon existing capability.
+To that end, the following recommended change is a combination of the examination of the past, the current global trends and most likely future environment.
+The current focus of the United States military’s manning, training, and equipping for potential large-scale ground combat is likely to require additional SOF capabilities and operations.
+This increased requirement for SOF capabilities will occur for three reasons.
+First, the increased capability of our conventional forces and the United States’ nuclear deterrence, will most likely mean a return to a “cold-war atmosphere” requiring an increase in covert and clandestine deployments, not large-scale wars.
+Second, adversaries like Russia, China, and Iran, will continue to turn toward asymmetric options to create room within the competitive space to achieve their interests.
+These operations will, by design, deny the United States the ability to respond conventionally.
+Finally, as has been the case since President Fisenhower’s administration, a primary means that the United States will employ to counter aggression will be through the development of partners and allies.
+However, the shift in focus by the conventional military may give state and non-state actors additional space to develop into more robust networks with increased capability.
+This capability increase has the potential to edge the United States out of the competitive space changing the status quo of United States hegemony.
+Therefore, it is incumbent upon USSF to cover any gaps left by the transition of focus.
+To do this appropriately, USSF must modernize in parallel though not in mirror as it did while supporting the AirLand Battle operating concept.
+United States Army Special Operations Command, Army Special Operations Forces Strategy.
+Like the ehallenges whieh SOF face in continually providing relevance to conventional commanders.
+This temporary additive capability enhancement was again refleeted during VSO operations in Afghanistan highlighting the fact that while PSYOP is a core eompetency of USSF, it is something that individual soldiers receive little training on and are almost never validated in.
+If USSF is to be sueeessful in Great Power Competition by gaining information dominanee, it is neeessary to exceed the capability of United States adversaries to leverage information.
+This means that rather than simply attaehing PSYOP specialists to a SFOD-A when neeessary, information dominanee must be the umbrella under whieh all other operations take plaee.
+This is unlikely to happen if it is not trained eonsistently within the SFOD-A and integrated throughout operational planning and exeeution.
+This should be done without adding additional personnel to the unit, as this would also bring an untold number of logistieal adjustments.
+The capability adaptation should instead be treated as an individual skill with assoeiated MOS identifieation, like SOTACs.
+As USSF prepares to modernize in support of Great Power Competition, ineorporating PSYOP skills will enhanee partners efforts to reeruit and build popular support.
+As partners’ capability increases, the indigenous approach that USSF is best suited for will be reinforeed.
+This inerease in relevaney will deerease the likelihood of adaptations of USSF for unilateral / direet roles such as were seen during the post-Vietnam time period.
+Moreover, as other SOF units begin to modernize, it is likely that they will foeus heavily on their respeetive core capabilities.
+The reinforeement of foeus of USSF on indigenous populations through partner operations under an information dominanee umbrella will ensure the United States is not left with a capability gap.
+As the current PSYOP course falls under SWCS and is manned by individuals with years of PSYOP experience, SWCS should reserve billets for USSF soldiers to attend relevant sections of the PSYOP course.
+In so doing, SWCS would enable an expedited course for USSF soldiers who already have core SOF capabilities such as language training and small unit tactics.
+Finally, the addition of USSF PSYOP specialists on the SFOD-A would not have no negative effect on the relevancy of traditional PSYOP specialists.
+As necessary, SFODAs should still request Tactical PSYOP Teams to augment their deployments but instead of these teams working on basic PSYOP tasks, they would enable larger distribution and messaging.
+This would reciprocally enhance the information dominance umbrella of the SFOD-As operations while having the added benefit of decreasing tribalism between the two branches.
+With a sound understanding of the environment and missions that drove these adaptations, it becomes clear that the prevailing cause of transformation was the desire to remain relevant.
+If USSF is to stay ahead of the relevancy curve, it stands to reason that information dominance at the lowest level is critical to the success of operations in the information age.
+Report on the Governability of Democracies to the Trilateral Commission.
+To Cage the Red Dragon SEATO and the Defense of Southeast Asia, 1955-1965.
+Freier, Nathan, Charles R Burnett, William Cain Jr, Christopher D Compton, Sean M Hankard, Robert S Hume, Gary 11 Kramlieh, J Matthew Fissner, Tobin A Magsig, and Daniel E Mouton.
+Special Operations Force Program Is Achieving Goals, but Iraqi Support Remains Critical to Success.
+Ives, Christopher K United States Special Forces and Counterinsurgency in Vietnam.
+Cited in his book Radio Free Europe and Radio Fiberty, Chi n4 NARA release courtesy of Douglas Selvage.
+The Stability-Instability Paradox, Misperception, and Escalation Control in South Asia.
+Medal of Honor Recipient John Chapman and the Untold Story of the World’s Deadliest Special Operations Force.
+The Eirst Thirty Years, a History of the United States Army Special Eorces.
+Clandestine Cold War Operations of the United States Army’s Elite, 1956-1990.
+The Case of Wagner, Russia’s Premier Private Military Company in the Middle East.
+US Army Special Operations Command, “Eittle Green Men"" (Fort Bragg, NC; United States Special Operations Command, 2016), 92 “ United States Army Tactical Mobility Requirements Board Final Report, 20 August 1962.
+Aeeessed August 13, 2019. littp://cgsc.oontentdm.oolo.org/odm/ref/oolleotion/p4013collll/id/1689.

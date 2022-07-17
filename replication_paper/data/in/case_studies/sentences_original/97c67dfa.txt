@@ -1,0 +1,248 @@
+I present a framework for understanding a class of intelligence failures that are caused by the mis-assessment of how an adversary frames a decision and the risks that they are willing to take.
+I also present a new two-stage process for understanding how individuals assess the risk-propensity of adversaries in international politics.
+This is a vitally important question with significant implications for national security.
+It is therefore not surprising that a significant amount of research has been devoted to suggesting possible answers.
+Perhaps because intelligence analysis is so clearly linked to the judgment and information processing of those who make them, it has been relatively open to approaches that draw upon psychology.
+However, with a few notable exceptions, most scholars have been content to simply list ways in which individuals have been demonstrated to make judgments in a non-rational or suboptimal manner and then conclude that these cognitive shortcomings have important implications for the analysis of intelligence.
+Of course, they do, but what is needed is a more detailed exposition on what kinds of psychological phenomena are relevant for the study of intelligence and intelligence failures, when they are likely to significantly affect analysis and judgments, and what (if anything) can be done to correct or compensate for these potential problems.
+Quite obviously, misperception or a misunderstanding of any of these central factors is likely to make ‘strategic surprise’ more likely.
+Many factors – from bureaucratic impediments to time pressure – may contribute to such a misunderstanding.
+However, one critical factor in whether assessments of intentions are correct is how actors perceive and understand risk.
+In this article, I examine the mis-assessment of Soviet intentions by the United States in the months before the deployment of nuclear weapons to Cuba in 1962.
+The critical problem in 1962 was not that the United States hadn’t considered the possibility of a deployment of nuclear weapons to Cuba.
+Rather, the cause of the estimative failure was the manner in which this possibility was considered.
+The United States assessed Soviet intentions taking into account only the risks and costs – the ‘downside’ – of deploying strategic weapons into Cuba, and failed to consider the potential benefits that such a deployment would have for Khrushchev, as well as the reasons he might have for believing that such a move would be successful.
+As a result of this skewed assessment, the risks of such a deployment (as assessed by US officials) were judged to be too high for such a deployment to be at all likely.
+Mirroring risk is the tendency to project one’s own framing of a situation on to another, and/ or assume one’s own risk-profile to be shared by others.
+The case of the Cuban Missile estimation illustrates both aspects of mirroring risk.
+The first section of this article will present a framework for understanding how actors assess the risk-propensity of their adversaries in international politics.
+The second section will examine the process of estimation in the spring and summer of 1962, focusing on how United States officials assessed the intentions, framing and risk-propensity of Soviet leaders.
+The third and final section will analyze the Cuban Missile estimation in light of the ‘mirroring risk’ concept, as well as suggesting steps that might be taken to avoid such problems in the future.
+Notable topics of research have included the bureaucratic processes that impacted the implementation of political decisions,5 US6 and Soviet decision-making during the crisis,7 the role of international law,8 crisis decision-making,9 the impact of nuclear weapons on the crisis,10 and numerous memoirs devoted to the crisis.
+Additionally, there has been a great effort to determine what lessons should be drawn from the crisis.
+In fact, the majority of work devoted to answering these questions arose in the near-immediate aftermath of the crisis.
+The failure to follow through on analyzing these important questions is troubling for two reasons.
+First, the subsequent release of archived documents and transcripts, memoirs, interviews and conference materials (from the Havana, Cambridge and Moscow conferences attended by the principals of the crisis) gives us much better insight into the questions of both Soviet motivations and United States assessments of those motivations than we have had in previous decades.
+This allows us the opportunity – not available to past generations – to determine the ways in which United States assessments of the Soviet Union were incorrect.
+Second, there have been substantial advances in our understanding of the psychology of decision-making and how individuals react to risk, both of which are perennial problems of intelligence analysis.
+These advances allow us to finally place the erroneous United States estimation of Soviet intent in the proper context.
+United States intelligence services did identify the missiles before they became operational, and seem to have provided useful and relatively accurate updates during the actual crisis.
+Rather, it was a failure of estimation, and it took place well before the actual crisis.
+In fact, it was the failure of estimation that was partially responsible for the crisis.
+Had United States leaders believed the Soviets would deploy missiles to Cuba, or even taken the possibility of such a tactic seriously, there would have been several options available to them to prevent such a deployment.
+Yet, United States leaders did not believe that Khrushchev would order the deployment.
+The critical failure was not in detecting what the Soviet Union was actually doing, but in the biased and incorrect assessments of what they were likely to do.
+The failure was in the incorrect assessment that the Soviets would not deploy strategic weapons in Cuba because they would not accept the ‘high risk’ of such a deployment.
+To attempt to answer these questions, we must first examine how individuals typically assess the ‘risk’ associated with a given decision.
+The first stage is assessing or estimating how a target ‘frames’, or understands, the situation.
+Consequential decisions may have farreaching effects on any number of issues, but may have been initially framed as a response to only a single one of them.
+The second stage is assessing the most likely choice of the target, given the previous assessment of their decision-frame.
+This second stage must take into account the risk-tolerance of the target in order to allow the assessor to make a judgment as to the most likely behavior.
+This two-stage process of risk assessment is often done so quickly and intuitively that the multiple stages meld into one, but they are conceptually distinct.
+And bias, misperception or error may enter at either or both stages of the assessment.
+Below, I introduce the concept of ‘mirroring risk’ to describe what occurs when individuals project their framing of a situation onto that of a target and/or assume the target to share their riskprofile.
+Assessing the Decision-Frame Framing involves the decision-maker’s conception of the ‘acts, outcomes and contingencies associated with a particular choice’, and is inherently tied to the concept of risk.
+Framing is integral to decision-making, and reflects the decision-maker’s conception of what type of problem they are dealing with, what the stakes of the situation are and the appropriate means to deal with the problem.
+It also affects their estimates of probabilities of outcomes associated with a given choice and the value attributed to each outcome.
+Assessing how adversaries frame situations is a crucial first step in estimating their intentions and likely courses of action.
+However, in any given situation, there are generally several alternate decision-frames that would be equally valid.
+Two individuals with exactly the same information who are asked to make a decision might not only come to a different judgment, but also frame the problem in different ways.
+When Sherman Kent – author of the infamous National Intelligence Estimate prior to the Cuban missile crisis – speaks of the necessity for intelligence analysts 15 Amos Tversky and Daniel Kahneman, ‘The Framing of Decisions and the Psychology of Choice’, Science 211/4481 453.
+Mirroring risk occurs in this initial phase if individuals project their own understanding of a decision onto that of a target.
+In essence, the error is to assume that the target of assessment perceives and understands a given risk in the same way that you do.
+Mirroring risk may also occur if an assumption is made that a target will not pursue a given action because it entails a high degree of risk.
+This error, discussed in more detail below, occurs in the second stage of assessing risk, when the target’s most likely choice is being predicted.
+The former is an assessment of how an adversary ‘frames’ a situation, while the latter engages one’s judgments of the risk-profile of the target.
+Though the concept of mirroring risk is introduced in this article, there is an empirical basis for it in social psychology.
+One way in which this effect is demonstrated is to give participants a story that culminates in a ‘decision point’; respondents indicate what they would choose as well as what percentage of a ‘target group’ they believe would make the same choice.
+Some of the stories used in these experiments bear on the issue of assessing risk.
+He can pay a $20 fee by mail, or show up at court and contest the violation.
+In essence, this is a choice between accepting a certain loss of $20, or choosing a gamble in which there is some possibility of losing $20 and expending effort going to court and some possibility that you will not have to pay any money at all.
+The results indicated that subjects who chose either of the options tended to rate that option as relatively probable for ‘people in general’ and subjects who rejected that option rated it as ‘relatively improbable’ for others.
+An Egocentric Bias in Social Perception and Attribution Processes’, Journal of Experimental Social Psychology 13/3 280.
+An Egocentric Bias in Social Perception and Attribution Processes’,282.
+Mirror imaging – projecting your thought process or value system onto someone else – is one of the greatest threats to objective intelligence analysis.
+Not everyone is alike, and cultural, ethnic, religious and political differences do matter.
+Just because something seems like the logical conclusion or course of action to you does not meant that the person or group you are analyzing will see it that way, particularly when differences in values and thought processes come into play.
+Likewise, intelligence analyst Raymond Garthoff mentioned mirror imaging as a common ‘fallacy’ of intelligence analysis.
+The tendency, Garthoff claims, is to ‘project onto the subject of the estimate one’s views, perceptions, values and behavior’.24 There is evidence that ‘mirror imaging’ has been a pervasive problem in international politics.
+For instance, Goodman traces some of the difficulty of Britain in assessing the Soviet nuclear program to this problem.
+In order to produce intelligence estimates in the relative absence of quality intelligence, British analysts utilized assumptions that centered on an interpretation of the Soviet atomic program as a ‘mirror image’ of the Anglo-American program.
+Doing so contributed to the notion that the Soviet program could not have been further advanced than the British one, leading to the stereotype of Soviet ‘backwardness’, and ultimately, to the shocking surprise of the USSR’s first atomic test in 1949.27 Mirroring risk is an important and distinct sub-category of the more general phenomenon of mirror imaging.
+Mirror imaging refers to the more generalized tendency to assume that an adversary will act a certain way 23 Frank Watanabe, ‘Fifteen Axioms for Intelligence Analysts’, Studies in Intelligence 1/1 7.
+Mirror imaging can include the projection of one’s motivations, goals, fears, desires, risks, and even standard operating procedures on to a target.
+However, precisely because ‘mirror imaging’ can refer to so many distinct assumptions, it becomes relatively less useful as an analytical or conceptual device.
+The phenomenon encompasses so many potential problems that a realistic plan to ameliorate its deleterious effects is often reduced to prescriptions such as ‘being the other person, at least for a while’, or to avoid the ‘everybody-thinks-like-us mid-set’.28 In contrast, mirroring risk is a discrete phenomenon, specialized enough that there are specific guidelines that can be applied to attenuate or guard against its pernicious effects.
+As the analysis in the later sections of this paper will illustrate, United States analysts would not have had to possess any special talent for empathy in order to have produced a more accurate estimation of Soviet intentions in Cuba.
+There were several simple steps that could have been taken , such as including both costs and benefits that an adversary might consider or including a possible alternative framing of the situation as a matter of standard procedure.
+Assessing the ‘Risk Profile’ of an Adversary Assessing a target’s decision-frame, though crucial, is only a first step.
+The process of estimation and intelligence analysis must necessarily follow that assessment with a prediction of likely behavior.
+In making this estimation, a number of important factors come into play, including an estimation of the target’s goals, beliefs and values.
+However, also crucial to assessing this second-stage of decision-making is the assessment of the target’s risk profile.
+The most obvious example of an error in the second stage of risk assessment would be the judgment that an adversary is riskaverse when in fact they are risk-acceptant.
+An erroneous assessment of an adversary’s framing might mislead the intelligence analyst about what risks the target is willing to accept.
+Relevant to this issue is Prospect Theory, which has demonstrated very clearly the importance of framing and ‘domains’ in affecting the risk-profiles of individuals making decisions under conditions of risk and uncertainty.
+Emphasis in original; Richards J Heuer, Jr., The Psychology of Intelligence Analysis 70.
+It has been convincingly demonstrated, both experimentally and in real-world circumstances,30 that choices framed in terms of gains often lead to risk-averse choices, while framing a problem in terms of losses leads to risk-seeking behavior.
+For instance, the United States failed to anticipate Soviet intervention in the Egyptian-Israeli war of attrition , despite numerous overt signals, partly because United States intelligence analysts incorrectly assessed the Soviet framing of the situation and inferred that the Soviets would be risk averse.
+It was only after the first Soviet airlift of military supplies that United States analysts revised their analysis, stating that ‘in light of Egyptian vulnerability, the USSR might become more risk-prone’ than previously believed.
+In essence, these intelligence analysts had noted that in that particular context, the Soviet Union was facing a choice between a certain loss and a risky decision to aid Egypt, and therefore increased their estimates of the risks the Soviet Union was willing to tolerate in pursuit of their goals.
+While it has been convincingly demonstrated that framing can push people to be more or less risk-averse in a given decision, the ability to make use of this knowledge requires knowledge of a ‘base-rate’ of risk-acceptance.
+That is, intelligence analysis might know that a certain framing of a situation is likely to make an adversary somewhat less risk-acceptant, but that has very different implications depending on whether that adversary was very risk acceptant to start with, or just moderately so.
+However both articles focus exclusively on decisionmaking during the crisis, not on the relevance of prospect theory to estimating the behavior of others.
+While the Haas article may be correct in declaring that the ‘most important decisions’ made by both Kennedy and Khrushchev conform to the predictions of prospect theory, that is not the focus of this article.
+Rather, my interest is in examining why United States estimations of Soviet behavior were incorrect.
+How United States Intelligence Failed to Estimate the Soviet Intervention in the Egyptian-Israeli War of Attrition’, Journal of Strategic Studies 28/5 p.2.
+American Assessments of Soviet Intentions in Cuba We now turn to the events and assessments leading up to the deployment of the Soviet missiles in Cuba, seen from the perspective of United States decision-makers.
+Progressing from the framework provided above, the primary question is whether United States analysts fell prey to the potential mistakes noted earlier.
+Perhaps the most remarkable aspect of this case is the unwillingness of virtually every United States decision-maker and analyst before the crisis to question the fundamental assumptions that underlay the intelligence estimates.
+A1): Soviet leaders would perceive the deployment of missiles to Cuba as entailing a high degree of risk.
+The inevitable conclusion that flowed from these faulty assumptions was that the Soviet Union would not deploy missiles to Cuba.
+Let us turn now to how the estimation process unfolded in the spring of 1962.
+Early Estimations From the beginning of 1962 until just days before the crisis began, the US intelligence community issued a number of National Intelligence Estimates on the subject of Soviet intentions with respect to Cuba.
+In January of 1962, an NIE was released that explicitly considered the possibility that Cuba (or other Caribbean states that ‘fell under communist control’) might be used by the USSR as areas in which to establish missile, submarine or air bases.
+The estimate posited that the rationale for such a move would be to ‘bring North America under attack’ or ‘add to the deterrent to any conceivable United States military action’ in the Caribbean.
+When Situationally Determined Bargaining Behaviors are Attributed to Personality Traits’, Journal of Personality and Social Psychology 77/1 57.
+It assumed that Soviet leaders believed 1) the deployment of missiles to Cuba would entail a high degree of risk and that 2) they would not be willing to take such risks.
+In fact, this estimate spends a paragraph discussing the potential risks involved for the Soviets.
+It notes that such a deployment would heighten the risk of general war, increase the probability that the US would attempt to overthrow the Castro regime before the missiles or bases became operational, and involve the USSR in a ‘politically difficult’ situation in which they would have to maintain control over the missiles without offending Cuban leaders.
+Nowhere, however, does the estimate compare the risks of deploying missiles to the risks of not deploying missiles, despite the clear relevance of this comparison (it was later mentioned as the most salient factor by Soviet General Gribkov).37 Even without a technical understanding of prospect theory, such a comparison would perhaps have highlighted to United States officials the factors (e.g. the strategic balance between the two superpowers) that were relevant for Soviet leaders.
+It did not consider that such a deployment might change the strategic balance between the two superpowers, give Khrushchev extra bargaining power with respect to negotiations over the status of Berlin, or simply embarrass President Kennedy.
+Also notable for its absence is any discussion of either the potential gains from such a deployment, or consideration of whether Soviet leaders framed the situation in an alternate way.
+Though Kent mocks the suggestion to put oneself in the place of an adversary – to him this is as obvious as telling a baker the usefulness of flour – the fact remains that almost zero effort was expended in questioning a key assumption.
+For example, one possible risk of not deploying the missiles was that the Soviets would continue to fall further behind in the strategic balance, while a potential benefit might be that Khrushchev would hold a large bargaining chip to coerce the United States into removing its missiles from Turkey.
+Yet if this were true, it is even more damning, since it would mean that the analysts considered and decided to ignore the possibility that the Soviet Union might see things differently.
+This raises the issue of whether an alternative framing should be incorporated formally into the assessment process, especially in cases such as this, in which the costs of mis-assessment are high and an alternate framing would suggest significantly different policy options.
+After all, complexity and diversity in the judgments of intelligence analysts can be of little help to decisionmakers who are never made aware of them.
+It is not enough for only intelligence analysts and mid-level officials to consider alternate hypotheses and framings , leaders must do so as well.
+Three months later, in March, another intelligence estimate was released on the subject of Cuba.
+This estimate noted that Cuban military capabilities were being augmented by technology from the Soviet Bloc, but that it was ‘unlikely’ that the Bloc would provide Cuba with ‘strategic weapons systems’ or station combat units of any kind in Cuba.
+As the next section will demonstrate, increasing amounts of information that the Soviet Union had increased military assistance to Cuba – that ‘something different’ was taking place – were not sufficient to force analysts to confront and examine their core assumptions.
+The Beginning of the Soviet Buildup Throughout the summer of 1962, evidence accumulated that indicated an increased flow of military supplies and even personnel from the Soviet Union to Cuba.
+However, as previous estimates had done, this NIE concluded that it would be ‘unlikely’ that the Soviet Bloc would provide Cuba with the capability to 40 Ernest May, for instance, has suggested as a possible hypothesis that some of the writers of the NIE might have been uncomfortable with the ‘action implications’ of including the possibility of a Soviet deployment of missiles to Cuba in the estimate.
+By this logic, the writers would have been hesitant to include what they believed to be a very low-probability event in the NIE knowing that it might be used by others in the administration who were known to be in favor of a United States invasion of Cuba.
+In fact, intelligence analysts were forced to continually adjust their estimates of Soviet assistance upwards as the extent of the military aid to Cuba became apparent.
+At no time, however, did this lead to a major revision of the underlying assumptions of the intelligence estimates.
+In fact, we have no evidence that the assumptions were even questioned, let alone revised.
+The premises of these assessments, once formalized in the NIEs, seem to have been surprisingly resistant to change or reconsideration.
+Between July and August, analysts estimated that between four and six thousand Soviet Bloc personnel had arrived in Cuba.
+Some of them were presumed to be technicians, but some of them were also troops, contrary to the prediction of the then-current NIE that the Soviet Union would not station any combat units in Cuba that year.
+On 21 August, McCone reported that new information (obtained since 10 August) indicated that the extent of the Soviet supply operation was ‘much greater’ than had previously been reported.
+There also seemed to be indications that Soviet personnel were involved in construction work on the island.
+The speed and magnitude of this influx of bloc personnel and equipment is unprecedented in Soviet military aid activities; clearly something new and different is taking place.
+The report went on to recount evidence that the material being transported from the port areas was done at night, and that the streetlights were turned off in the towns as the convoys passed through.
+Interestingly, the memo of 21 August noted that the principals (Rusk, Robert Kennedy, General Taylor, McNamara and Bundy) did discuss ‘courses of action’ open to the United States should the Soviet deploy medium range ballistic missiles to Cuba.
+However, that discussion was very clearly the act of responsible statesmen, willing to consider for a few moments what they might do should the unexpected and improbable happen.
+Though we cannot know for sure , this seems to have been a discussion of a worst-case scenario, not a meaningful reconsideration of Soviet intentions or risk-tolerance, and certainly nowhere near a formal assessment of those factors by professional intelligence analysts.
+It is clear from the documented record that the underlying assumptions remained unchanged, even as evidence accumulated that should have forced their reconsideration.
+However, without an accurate and full understanding of the adversary’s decision frame, this is useful only on a superficial level.
+As long as the basic assumptions underlying the assessment remain unquestioned (the first stage of assessment), it is no surprise that the prediction of likely behavior (no deployment of missiles to Cuba) did not change.
+Evidence continued to accumulate through the end of August and the beginning of September that the Soviet deployment represented a departure from precedent.
+A memo written on 25 August by Roger Hilsman (Director of the Bureau of Intelligence and Research) noted the ‘unusually heavy Soviet shipments to Cuba’, but concluded that the ‘most likely explanation’ was to enhance the Cuban regime’s defensive capabilities.
+Hilsman concluded, in fact, that the Soviets had undertaken the military buildup with ‘reluctance’.47 The report did not mention the possibility that the buildup might include strategic weapons, or that the change in behavior might necessitate a re-examination of the Soviet’s fundamental motivations and framing of the situation.
+By the end of August, the military buildup in Cuba had caused sufficient concern to United States leaders for them to consider issuing a public statement on the matter.
+Yet, there was a surprising amount of internal disagreement on whether to issue such a statement.
+A report on this issue declared that the disadvantages of such a statement outweighed its potential advantages.
+However, the bigger issue mentioned in the memo was clearly that warning the Soviets against deploying nuclear missiles close to United States borders would give them ‘leverage’ to complain about US-controlled nuclear forces surrounding the Soviet bloc.
+President Kennedy did issue public warnings on 4 September and 13 September, though by that time the Soviet deployment had already been underway for over two months.
+The first was Robert Kennedy , attorney general and a close advisor to his brother, President John F Kennedy.
+At a 22 March meeting, RFK asked the Special Group50 what an appropriate course of action would be in the event that the Soviets did establish a military base in Cuba.
+We have no evidence that anything came of Kennedy’s question until months later, during another meeting of the Special Group.
+At a meeting on 31 May, the group noted that Establishment of a military base in Cuba would cost the Soviets very little in terms of world public opinion.
+For example, they could explain that they were simply taking a page from our book, and would remove their base form Cuba if we would remove ours from Berlin, Turkey or Formosa.
+The group concluded by agreeing to prepare written responses to RFK’s question for the next meeting.
+Yet, at a meeting over a week later, Roswell Gilpatric noted that RFK’s question had gone unanswered, and distributed a memo reminding participants of it, though there is no further mention of it in declassified sources.
+Though he did not appear to follow up on the matter, RFK provides an illustration of how one might re-examine core assumptions.
+In doing this, he used a frame of analysis that more closely approximated how the Soviets might see the situation.
+This is in marked contrast to most other United States policy-makers, who focused on the risks as they understood them, and ignored other elements of the decision-frame, such as the potential benefits or possible motivations of the deployment.
+That is, United States policy-makers knew that they would interpret a deployment of strategic weapons to Cuba as a major provocation, which would possibly precipitate a crisis and lead to increased chances of war, and they projected that knowledge onto Soviets leaders.
+While the Soviet leaders might have understood the risks in the same way, without also considering the advantages of such a deployment for the Soviets, United States assessments of the Soviet decision-frame were incomplete.
+While it is often noted how difficult it is to put one’s self in the mindset of an adversary, the type of analysis recommended in this article requires no special talent for empathy.
+Decision-makers and intelligence analysts must simply remember that their adversaries are unlikely to frame situations with reference only to the costs/risks of a given action.
+In fact, a major component of their decision is likely to be what benefits they might derive from an action.
+The second person who questioned the consensus judgment of Soviet intentions was Director of Intelligence John McCone.
+Whereas Kennedy had merely asked other decision-makers to consider the possibility, it is readily apparent that McCone was utterly convinced that the Soviets would deploy strategic weapons to Cuba.
+The possibility seems to have been first mentioned in a memo of 21 August in which McCone predicts that Cuba seems to be getting stronger, not weaker, and that in the future such a country would serve as ‘a possible location for MRBMs’ deployed by the Soviet Union.
+However, during his absence, he shared his concerns with the acting DCI, Lt.
+I recognize Cuban policy decisions most delicate and beyond agency or my competence.
+However believe we must give those making decision our best estimate of possible developments and alternative situations which might evolve and unexpectedly confront us.
+This memo offers a tantalizing glimpse into what could have been – what should have been – the process of estimation in the case of the Cuban missiles.
+The stakes of such a deployment were so high that alternate conceptions of Soviet behavior should absolutely have been considered.
+This was especially true in this case, where so much of the analysis rested upon one key assumption that was never questioned.
+Unfortunately, though McCone’s concerns were raised in Washington, there was little that could be done to prove his hypothesis correct.
+In McCone’s absence, Carter proposed extensive overflight photography utilizing U-2 planes.
+However, because of the concern that one of the planes might be shot down, few flights were undertaken.
+In fact, as McCone noted on 4 October, there had been no coverage of the center of Cuba for over a month, and all flights since 5 September had been either ‘peripheral’ or ‘limited’ as a result of restrictions put in place.
+Though it is generally McCone that is mentioned in scholarly accounts of the crisis, it was in fact RFK who suggested the more complete and accurate assessment of Soviet intentions.
+He did not have any more evidence than any other United States official at the time.
+And he hadn’t actually challenged or reformulated the basic assumptions that underlay the intelligence estimates; he simply believed the Soviets were likely to deploy missiles since that is what the scattered evidence indicated to him.
+In many ways this parallels an earlier incident in United States intelligence.
+During the purported ‘missile gap’ of 1957–1961, American intelligence services drastically over-estimated Soviet intercontinental ballastic missile stockpiles – at the height of the ‘gap’, the United States estimated that the Soviet Union would have almost 1,000 ICBMS when they had only four.
+The lone figure in the United States government that was not convinced by the intelligence estimates, and never believed in the existence of a missiles gap, was President Eisenhower.
+Yet, his position, like McCone’s, was based on intuition, not evidence.
+As a result, neither he nor McCone were able to convince their colleagues, and in both cases the estimation process continued farther down the wrong path.
+Discovery The immediate lead-up to the missiles’ discovery on 14 October has been well documented by other scholars, and does not bear repetition here.
+As intelligence reports piled up throughout the summer, analysts continually revised their estimates.
+However, they adjusted their assessments only incrementally, and failed to fully re-examine the assumptions underlying their assessments.
+This dysfunctional pattern was evident throughout the summer, until 21 September, when the first reports arrived of sightings of Soviet MRBMs in Cuba.
+Even as previous predictions of likely Soviet behavior were invalidated (such as the notion that the Soviets were unlikely to deploy combat troops to Cuba), analysts clung to their initial formulation that assumed that a deployment of missiles to Cuba was ‘high risk’ and that the Soviets were risk-averse with respect to Cuba.
+Assessing Khrushchev’s Framing With our enhanced understanding of the estimation process, we can now turn to the critical question of why United States officials were incorrect in their assessments.
+Recall that United States intelligence analysts repeatedly predicted that a Soviet deployment of missiles to Cuba was unlikely because of their beliefs that a) the risks of such a deployment were high and b) the Soviets would not be willing to take such risks.
+In fact, we can state definitively that United States officials mirrored risk by projecting their own framing of the situation onto the Soviet Union, and with some degree of confidence that United States officials also incorrectly assessed the risk profile of Khrushchev and his advisors.
+In the first stage, United States officials erred in their estimation of how Soviet leaders would frame a decision to deploy missiles to Cuba.
+They did so by focusing on the factors that were the most salient to the United States, not the Soviet Union.
+As a result, they based their prediction of likely behavior on an assumed framing of the decision that was both incomplete and misleading.
+United States officials wrote policy memos focused only on the ‘disadvantages’ for the Soviets in having a military presence in Cuba,68 only once noted that if the missiles were deployed it would be extremely difficult to force their removal,69 and refused to consider any other motivation for deployment besides aiding in the defense of Cuba.
+It was not until the actual crisis, for example, that any officials questioned whether the deployment might be for the purpose of exerting pressure on the United States over the Berlin issue, or addressing the strategic imbalance between the two superpowers.
+What United States officials did not do was to empathize with Soviet decisionmakers in any meaningful sense.
+Yes, it is true that they attempted to see the potential costs and risks as the Soviet Union likely would have.
+Yet, while they thoughtfully considered the risks and costs of deployment, glaringly absent from their assessments were the benefits or gains that might accrue, or the motivation that Khrushchev might have for the deployment.
+Because of this omission, they overlooked several factors that seem to have been influential in Khrushchev’s decision.
+One might concede that , intelligence analysts should be concerned primarily with assessing and estimating behavior, leaving the political implications, or the ‘action implications’ of such analysis to political leaders.
+By this logic, the question of how a possible deployment of Soviet missiles to Cuba would affect the overall strategic balance would be a question for the President, not Sherman Kent.
+However, while the distinction between analysis and implications might be useful in the abstract, in practice it seems likely to produce less accurate analysis than would otherwise be the case.
+This is because questions that on the surface seem to bear exclusively on what the implications of a given action might be are actually quite important for any intelligence estimate.
+That is, how an adversary perceives the consequences and implications of a decision are likely to directly affect what decision is made.
+Therefore, intelligence officials must consider all aspects relevant to the adversary’s decision-frame, without resorting to an artificial dividing line between objective analysis and political implications.
+Assessing Khrushchev’s Risk-Propensity The second problem in the estimation process was that United States officials seem to have incorrectly assessed the risk-acceptance of the Soviet Union.
+There is little doubt that United States officials believed the deployment of missiles to Cuban to entail a high degree of risk for the Soviet Union, and furthermore, that this was likely to constrain the behavior of Soviet leaders who would (in the US’s estimation) be unwilling to accept such a high degree of risk.
+Therefore, our judgment of whether the United States assessed Khrushchev’s riskprofile incorrectly depends to a large extent on how the Soviet leader characterized the risks of the deployment.
+We do know, for instance that Khrushchev and his associates believed the missile deployment would have to be accepted by President Kennedy if it could be presented as a fait accompli.
+Thus, in order for the plan to succeed, the missiles would have had to have been deployed in secret, without the United States finding out.
+The risks of the plan – to the extent that they were considered by Khrushchev and his advisors – were thought to be in the initial deployment.
+As Soviet policy-makers knew at the time, the United States flew high-altitude U-2 flights regularly, which could possibly have turned up evidence of the missile sites while they were being constructed.
+It seems highly likely that Khrushchev would have had some confidence that the plan would work, that it would be possible to move the forces undetected by the United States.
+Taking a risk only makes sense if one believes there is at least some chance that it will pay off.
+The explanation for why he believed this, despite abundant evidence to the contrary, might result from either motivated bias (the more we want something to be true, the more we believe it to be true) or simply bad advice.
+Daring and Caution in Foreign Policy Making’, Journal of Conflict Resolution 41/5 619.
+However, there is no attribution for this quote, nor is it repeated in any other accounts of the Soviet decisionmaking process.
+The strength of this effect increases in proportion to how important the outcome is.
+See Steven J Sherman, ‘On the Self-Erasing Nature of Errors of Prediction’, Journal of Personality and Social Psychology 39/2 211.
+That it was impossible – that the missiles would be discovered before they would be completely deployed.
+Even Fursenko and Naftali – despite including the ‘impossible’ quote mentioned above – suggest that Khrushchev (and some of his inner circle) ‘clung to the thesis that United States intelligence would not detect the missiles until it was too late to do anything about them’.81 Just as we may never have an exact and complete understanding of the Soviet motivation to deploy the missiles, we will probably never know exactly how Khrushchev perceived the risks associated with the mission.
+We can infer, however, that he at least had some belief that it would succeed , and was certainly aware of the possibility that the United States would discover the missiles before they were fully deployed.
+Therefore, we can with some degree of certainty rule out the hypothesis that Khrushchev was unaware of the risks of his plan, or ignored them.
+The remaining possibilities are that he saw the deployment as high risk, or as a low to moderate risk.
+Unfortunately, until more documentation of the Soviet decision process is made available, we are unlikely to be able to answer this question definitively.
+Yet, because we know that Khrushchev was aware of the risks involved (even if he judged the probabilities as more in his favor than objective reality would suggest), and we know that he did decide to deploy the missiles, we can infer at least that he was certainly not as risk-averse as United States officials believed him to be.
+United States officials projected their own framing of the situation on to the Soviet Union.
+However, this framing was both incomplete, and biased heavily toward the risks and costs of such a deployment.
+Because of this assumed framing, United States officials concluded that the risks of such a deployment were so high that such action was highly unlikely.
+In essence, the error in the first stage of assessing risk – the decision frame – led to, and was magnified in, the second stage when United States intelligence analysts estimated Khrushchev’s likely decision.
+Because the framing that United States officials had 78 Allyn, Blight, and.
+Thus, the magnitude of the error in assessing Khrushchev’s framing of a possible deployment seems to have been critical, and was only compounded further by the assumption of riskaversion.
+Though this might seem obvious, for many years government officials and scholars claimed intelligence before the crisis had worked as well as could be expected.
+Arnold Horelick, author of the first major study of the crisis , claimed as late as 1988 that the United States had ‘simply misjudged Khrushchev’s capacity to make mistakes’.82 While Khrushchev did seem to misjudge the consequences of deploying nuclear missiles in Cuba, focusing solely on his mistakes prevents us from learning important lessons from the failure of the United States to accurately assess Soviet intentions in Cuba.
+Of course, we cannot expect intelligence analysts to get everything right, all the time – such a standard would be unreasonable.
+International politics is a complicated business, and any number of unexpected or unanticipated factors might cause reality to deviate from the predictions of an intelligence estimate.
+As this article has suggested, the failure of the United States to anticipate the deployment of Soviet missiles to Cuba was largely a result of a faulty and incomplete assessment of the Soviet decision-frame.
+While these factors were significant, this assumed decision-frame completely neglected the factors – the benefits of such a deployment, the motivation for deploying the missiles and the reasons that such a plan might succeed – that were most salient to Premier Khrushchev and other Soviet leaders.
+As a result of the incomplete decisionframe assessed by United States intelligence officials – combined with the assumption that Khrushchev would be risk-averse – their estimates of likely Soviet behavior were incorrect as well.
+And because their fundamental assumptions were never updated or re-examined, estimations of Soviet intent with respect to Cuba did not change in the face of new and potentially disconfirming information.
+Ralph White, for instance, declares that empathy might be achieved by ‘being the other person, at least for a while’.83 However, a very rough, instrumental, version of empathy might be achieved with far less effort.
+Though including these four factors is no guarantee that the analysis that follows from them will be correct, it will almost always be a significant improvement upon assessments based on incomplete framings.
+Additionally, the case study presented above suggests that high-level decision-makers should have access to at least one ‘alternative framing’ of a situation.
+In the Cuban Missile estimation, virtually everybody assumed that the Soviet Union would frame the decision in a specific way.
+That framing suggested that Khrushchev would not deploy missiles to Cuba.
+However, several alternative framings would have generated directly opposite predictions.
+Hopefully this lesson in ‘estimative empathy’ and the perils of mirroring risk will a have similar impact and can now be added to that important list.

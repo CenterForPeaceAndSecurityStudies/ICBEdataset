@@ -1,0 +1,654 @@
+Subject to General Declassification Schedule of Executive Order 11652. d on 31 C UNCLASSIFIED CONF I DENTIAL UNCLASSIFIED DISCLAIMER The findings in this report are not to be construed as an official Department of the Army position unless so designated by other authorized documents.
+UNCLASSIFIED UNCLASSIFIED FOREWORD This document has been prepared in response to a requirement initiated by the Director of Plans, Office of the Deputy Chief of Staff for Military Operations.
+This is a final report prepared by the Strategic Studies Institute, United States Army War College, and as such does not reflect approval of the initiating agency or the Department of the Army.
+The report was written by Mr Kenneth E Roberts, a member of the Strategic Studies Institute, United States Army War College.
+The assistance and support of the Staff and Faculty of the United States Army War College and the United States Army Military History Research Collection is gratefully acknowledged.
+This document should not be released to agencies other than those on the Distribution List without prior approval of the study sponsor.
+In all three of the crisis periods, the actors responded on the basis of their own national interests, within the constraints of a short timeframe, and with a limited choice of alternatives.
+Each crisis was preceded by numerous indicators which were incorrectly analyzed because of preconceived notions, stereotypes, and personal biases.
+Although fears of encirclement and containment influenced action and reaction, the importance of formal alliances .was minor.
+The numbness which analysts felt in each crisis due to previous false alarm9 was exacerbated by enemy deception, restrictions on access to raw data, secrecy in decisionmaking, an abundance of irrelevant data, simple bad luck, delays, technological and logistical surprises, and, most importantly, by their own prejudices and perceptions.
+The importance of surprise, a credible deterrent, direct and constant communication among leaders, flexibility, deception, timing, and the maintenance of forward deployed forces and strategic mobility has QaJ been revalidated.
+The importance of alliances and their operation ^^P^~ during crises has apparently been exaggerated.
+No ultimate intelligence source— ""MAGIC,"" the U-2, or satellite reconnaissance— is useful without sound political and behavioral analysis.
+Such planning allows the perception of more options and the time for more choice and commitment.
+This objective can only be achieved by a strong military capability and presence supported by an aware citizenry.
+Future crises similar to Pearl Harbor, Cuba, and the Middle East can be averted by such a demonstration of will.
+In addition, frequent rotations of duty should be required to avoid overspecialization in strategic intelligence and more improvization CONFIDENTIAL CONFIDENTIA L should be encouraged in diplomacy and strategy formulation.
+A greater diversity of viewpoints should be encouraged and intellectual debate with nongovernmental scholars and specialists should be sought to challenge the conventional wisdom.
+Also, increased attention should be given to the development of additional airlift and troop mobility capabilities and to on the ground cloak and dagger intelligence gathering activities.
+Finally, because of the increasing interdependence of economies and use of embargoes, a thorough analysis should be made of the sources of vital raw materials and the potential for conflict and blackmail.
+A major R&D effort should then be undertaken to develop substitutes and synthetics.
+In this environment, the increased dependence on intelligence estimates in selecting and implementing foreign policy makes better strategic planning even more critical.
+The dangers of strategic surprise can only be eliminated if intelligence analysts and strategic planners base their conclusions primarily on an objective analysis of enemy capabilities, constrained where necessary only by a projection of relative order of priority regarding utilization, and remain prepared to react to <iny capability within that range.
+D-l APPENDIX E— REFERENCES E-l E-4 UNCLASSIFIED UNCLASSIFIED INTRODUCTION 1.
+The key to understanding the significance of these three crises, therefore, lies primarily in an examination of the role played by intelligence processors and decisionmakers rather than the failure of the intelligence gatherers and technology.
+National intelligence prediction failed in all three of the crises under consideration.
+Diplomacy succeeded in Cuba and in the Middle East but failed at Pearl Harbor.
+In terms of both long-range projections and short-term analysis, the role of intelligence and strategic planning in the crisis decisionmaking process is becoming increasingly important.
+As a result, a number of prominent political scientists have recently undertaken efforts related to case study comparisons of various crisis situations.
+Researchers in the areas of belief systems and decisionmaking such as 01ft Holsti, Roberta Wohlstetter, and others have long held, however, that analysts seldom review incoming information objectively.
+Instead, such information is usually unconsciously fitted into preexisting intelligence positions and preconceived behavior patterns or else simply disregarded as irrelevant or erroneous.
+This study is an attempt to validate and expand these conclusions, to examine reasons for the successes and failures of diplomacy, and to identify relevant trends and commonalities upon which to base useful recommendations for improved strategy formulation.
+The findings are based upon the most significant contributions of historians and political theorists and a review of various official intelligence documents, interviews, and personal analysis.
+President Roosevelt was '•••evinced before the surprise attack on Pearl Harbor that war betweta i ie United States and Japan was inevitable.
+The volume and diversity of data provided by American intelligence agents was excellent.
+The breaking of the top priority Japanese diplomatic code enabled us to anticipate attack.
+Although there were warnings that the attack would occur at Pearl Harbor, such a bold maneuver was by no means anticipated at the time by either diplomatic or military analysts.
+The United States and Japan began slowly moving toward crisis after the Japanese invasion of Manchukuo in 1931.
+The United States attempted to influence Japanese policy by the use of progressively stricter boycotts and embargoes.
+Subsequently, the signing of the Nazi-Soviet nonaggression pact and the Japanese treaty of neutrality with Russia meant that Japan would be forced to look southward for its supply of vital natural resources.
+It was in this region that United States and Japanese interests and ambitions clashed.
+The United States and Japan presented a number of proposals and counterproposals for peace between 9 April 1941 and 20 November 1941.
+These diplomatic efforts were doomed to failure, however, because the United States refused to accede to Japan's stated vital national interest of maintaining a strong protective position in China.
+Our negotiators insisted that Japan remove all of her forces, thereby leaving China in turmoil and hostile to Japan.
+After 26 July 1941, President Roosevelt froze &11 Japanese assets in the United States, closed all United States ports to Japanese vessels, and proclaimed a strict embargo on the sale of American petroleum products to Japan.
+This action forced Japan to accept American demands for withdrawal from China and Indochina or obtain raw materials elsewhere.
+Although Tojo became Prime Minister because he opposed negotiations, the new cabinet labored to give the impression that it was still interested in discussions.
+As early as January 1941, the United States Ambassador to Japan, Joseph C Grew, had obtained information from the Peruvian Ambassador in Tokyo, as well as from a number of Japanese sources, that in the event of trouble breaking out between the United States and Japan, the Japanese intended to make a surprise mass attack on Pearl Harbor.
+The United States intercepted a message from Japan to Ambassador Nomura in Washington on 5 November 1941 which stated that the deadline for diplomatic agreement with the United States was 25 November.
+In late November, Ambassador Grew and United States intelligence sources warned that a surprise aggressive movement might emerge from Japan suddenly in any direction at any time.
+A message intercepted on 6 December from Japanese intelligence in Honolulu advised Tokyo that the opportunity for surprise attack against Hawaii was good.
+The prior indicators and intelligence were not evaluated in such a manner, however, to predict that war would begin with a preemptive attack on United States territory in Hawaii.
+After the attack on Pearl Harbor the retaliatory powers of the United States were crippled for more than a year while the Japanese escaped with minimum damage to their attacking forces.
+The UNCLASSIFIED UNCLASSIFIED United States defending forces were unable to counter the Japanese attack.
+In contrast to the physical damage inflicted upon United States forces, the surprise attack served to unify a previously divided American public opinion behind the war effort.
+No other single action could have accomplished this feat so quickly and efficiently.
+Morale in the American military and intelligence communities was lowered as a result of the surprise.
+Rightly or wrongly, scapegoats were found for the disaster and a number of promising careers were ended.
+The American political elite has not yet regained faith in the validity of United States military intelligence.
+By September 1941, according to reports of the United States Strategic Bombing Survey, Japanese oil reserves stood at less than 50 million barrels.
+Delay, once the decision for war had been made, meant greater risks due to lack of oil and other vital raw materials.
+Japan realized that to obtain these resources, necessary for a long war of attrition, she must expel the United States and Great Britain from the East Indies and gain control of the region.
+Accepting this realization, the factor of the weather added urgency to the decision to go to war.
+October and November were the best months for landing operations in the East Indies because of the northeasterly monsoons.
+Such operations would have become practically impossible after January.
+Although the United States had begun preparing for war in 1939 by building up its military strength, in the American viewpoint it was more advantageous that it come in 1942 or 1943.
+Every effort was made to gain time after it became clear that a war on two fronts was a distinct possibility.
+The Japanese realized any delay would mean that the United States forces would be stronger.
+Military action quickly outpaced dipomatic and political reaction in both the United States and Japan Immediately after the attack on Pearl Harbor.
+The United States Congress passed a resolution on 8 December declaring that a state of war had existed between the United States and Japan since the time of the Pearl Harbor attack.
+Prior to 1940 it was in the interest of the United States to maintain Japan as a counterforce to communism in Asia.
+After 1940 Japan emerged as a more immediate threat to United States interests.
+Impact of Adversary's Interests , The United States represented the status quo power in the Pacific; Japan represented the revisionist power.
+Japan sincerely felt that the extension of its control over the Western Pacific was both natural and destined and that it was mutually desirable for all concerned.
+Japan claimed only to be interested in preserving peace and order in the Far East.
+Japan desperately needed oil, scrap iron, bauxite, and other raw materials to expand her economy and maintain her military forces.
+The world depression had already made it difficult for the Japanese to sell their goods abroad.
+British, Dutch, and American embargoes aimed at forcing Japan out of China and breaking her ties with the Axis powers were unsuccessful in their purpose.
+The Pearl Harbor attack served as a positive action on the part of Japan in obtaining vital material resources over the UNCLASSIFIED UNCLASSIFIED long-range period.
+Its root lay In a chain of events resulting from opposition to and misperception of these interests by the United States beginning with the insistence on total evacuation of Japanese forces from China and culminating in the embargoes.
+The United States could not accept the creation of a Japanese sphere of ""coprosperity"" in the Far East which Japan felt was so essential to her survival and economic growth, 6.
+The fact that a declaration of war against Japan coincided with the interests of our allies in Europe was secondary once the United States was attacked.
+Britain and Holland had feared that a Japanese attack on their colonies in the Far East would force them to open a distant second front in their war against the Axis powers.
+They saw little success in such an effort without overt military assistance from the United States.
+They were seriously concerned, since the United States had refused to obligate herself to enter the war or even to define the circumstances which might lead her to do so.
+Germany and Italy had long pressed Japan to declare war in the Far East to divert Allied forces to the area.
+Although these pressures may have had some impact on Japan's final move toward war, the decision was made primarily on the basis of self-interest and perceived economic necessity.
+There was little real military cooperation between the United States and the British Commonwealth prior to the formal staff conferences held in Washington in the spring of 1941.
+These conferences sought to deter Axis expansion of the war by coordinated strategic deployments, to develop unified plans in the event of United States participation in the war, and to devise ways to assure maintenance of freedom of the seas.
+United States and British strategic interests differed, however, and a later conference held in Singapore in April failed to establish a combined battle plan for operations in the Pacific, b, Kdnoye consistently refrained from informing Germany about the details of Japanese negotiations with the American Government.
+Japan apparently coordinated to a minimum degree with Germany and Italy on other matters also.
+Assurances had been sought that 1-5 UNCLASSIFIED UNCLASSIFIED Germany would not contest Japanese occupation of former Allied colonies in the Far East.
+Beyond this, Japan's detailed plans for attack were the work of Admiral Yamamoto.
+The Germans and Italians were pleased to see any form of aggression in the area.
+The American people were reluctant to go to war until they were given no alternative.
+Roosevelt worked hard to prepare the nation for the war he saw approaching.
+The lack of public belligerency perhaps contributed to the Japanese misperception of American will.
+The manner of the attack, however, quickly solidified public opinion behind the declaration of war, Although Japanese opinion was divided for some time, the creation of the To jo Cabinet expelled all effective opposition to war in Japan.
+The nation was psychologically prepared for war and launched into the fray with zeal and enthusiasm, 9.
+The United States refrained from threats and coercion against Japan until 1940.
+Roosevelt counted on the continued resistance of China and a growing dissatisfaction and impatience on the part of the Japanese public and the Navy with the sacrifices required for Japan's aggressive policies.
+Japanese political power was viewed as an effective counterweight to communism in Asia.
+During the winter of 1940-1941 the situation became more serious, but American policy continued to oppose war.
+Subtle warnings and attempts to negotiate were backed by economic sanctions, America's terms for peace were irreconcilable with Japanese interests and 2 Leonard Baker, Roosevelt and Pearl Harbor, a Great President in a Time of Crisis , 1970, 308, UNCLASSIFIED UNCLASSIFIED strategy, however.
+In sum, the Japanese felt that the political power of the United States, based on democratic principles, was weak and consequently they had little respect for it.
+United States efforts to avoid ""creating an incident"" seemed to confirm these views.
+Since Japan was ruled by an authoritarian regime, domestic political power became identified with support for war after 16 October 1941.
+Subsequently, political maneuvers and negotiations were used to deceive the United States and to hide the true Japanese commitment to war.
+The Japanese were cognizant of the superior military strength of the United States.
+They gambled that we would not ""choose"" to win a long war, however, and decided to resist an American counteroffensive as long as necessary to grind down American morale and will to win.
+Japan was well aware that she would become militarily impotent unless her forces were supplied with the necessary raw materials which were being embargoed.
+The Japanese military played a direct role in moving the nation toward war.
+The Navy served as a moderating influence for peace until the summer of 1941 when the choice became agreement with the United States, prolonged sacrifices due to critical shortages, or war.
+The Navy had previously opposed moving southward until an agreement had been reached in China, while the Army consistently pressed for war.
+The more militant voices became predominant in November of 1941 when General Hideki Tojo became Prime Minister and diplomacy failed to offer any hope for accommodation with the United States.
+The United States had the resources Japan desperately needed to maintain her preeminence as a major power in the Far East.
+The successively stricter United States embargoes against Japan served as a challenge rather than a restraint upon Japan's aggressive policies.
+Secretary of State Hull's repeated warnings that such embargoes would reduce any remaining influence of Japan's advocates for peace were realized.
+The exercise of the joint American-British-Dutch boycotts, freezing of assets, and embargoes of oil, bauxite, and other vital raw UNCLASSIFIED UNCLASSIFIED materials, forced Japanese leaders to attack Pearl Harbor on 8 December 1.94 L This does not deny that such an attack might have eventual Ly occurred anyway, but rather emphasizes the fact that other policies might have gained valuable time for the United States in the strengthening of American military forces, while the economic and military position of Japan would have continued to deteriorate.
+Japanese intelligence operating from Honolulu supplied military authorities in Tokyo with accurate, detailed information on United States deployments in Pearl Harbor and, prior to the attack, advised of the likelihood of a successful surprise attack on the facility.
+Its success enabled the Japanese attack forces to deal a crippling blow to the United States Navy in the Pacific.
+American intelligence failed to produce an accurate reading of Japanese capabilities and intentions prior to the attack on Pearl Harbor despite the fact that we possessed a massive variety of information sources for analysis.
+The intelligence resources available to the United States included:-* Top priority Japanese worldwide diplomatic codes.
+Many codes used by Japanese agents around the Results of radio traffic analysis which allowed the pinpointing of various Japanese fleet units.
+The competent economic and political analysis provided by Ambassador Grew in Tokyo and various naval attaches and military observers throughout the Far East, Results of British intelligence.
+Information provided by experienced foreign correspondents and newspapermen in the Far East, The Japanese press.
+Her conclusion is that we failed to anticipate Pearl Harbor because all the signals were imbedded in an atmosphere of ""noise"" — not for want of relevant information but rather an overabundance of irrelevant data.
+In Washington, the signals from Pearl Harbor were competing with a plethora of signals from Europe.
+In Honolulu, the competition was with signals indicating a Japanese attack on Russia and expectations of local sabotage.
+Military retaliation was the only United States option seriously considered.
+Although the President considered each of these actions, after listening to his advisers, he did none of them.
+He felt unsure what Congress and the people would approve until the Japanese military movement became better defined.
+He would not have to contend with the isolationists if the Philippines, Guam, or Hawaii were attacked.
+With Japan left to decide whether and how the issue of war and peace would be brought before the nation, there was less risk of costly dissention and reaction which would probably have benefited Japan.
+As Herbert Feis and other historians have pointed out, however, ""it caused the growth, as the American people learned more of what had taken place before the Japanese attack, of a sense that they had been led in ignorance. ""5 op. cit ., 333.
+UNCLASSIFIED UNCLASSIFIED After the ouster of the Konoye Cabinet, Japan saw war as the only alternative.
+The decision to attack Hawaii first rather than move directly south was primarily a strategic gamble.
+The superiority of American forces was recognized and the eventuality of war against the United States was accepted.
+A direct attack on the United States Pacific Fleet in Hawaii to achieve maximum immediate destruction was thus accepted as the best alternative action by Japan.
+It was the culmination of an opportunistic foreign policy, initiated months before, consisting of probing for weaknesses, disguising aims, and moving cautiously step-by-step in search of an expedient time to move.
+The decision to go to war was made by the Japanese military leaders within the framework of the Imperial Conference.
+President Roosevelt has been criticized for not informing the American public and Congress of the train of events and their implications preceding the attack on Pearl Harbor.
+Once the attack came, however, the decision to go to war was a reflex and political declarations later caught up with military realities.
+The warmth of Cuban relations with the Soviet Union increased noticeably after Defense Minister Raoul Castro's visit to Moscow in July.
+Subsequently, refugee groups began to claim that Soviet military ""technicians"" were arriving in Cuba in large numbers and later that these ""technicians"" were actually part of military units constructing bases in Cuba.
+Intelligence experts largely discounted these reports, however, due to the lack of definitive proof; a distrust of the motives of the refugees; the national policy of coexistence and its influence upon their perceptions; and the undependability of untrained observers.
+Navy air reconnaissance photographed all ships visiting Cuba during the summer of 1962.
+High level U-2 overflights were conducted at the rate of once each fortnight until September when they were increased to once every week.
+By late September, United States intelligence had evidence of the presence of large numbers of Soviet military personnel, surface-to-air missile sites, and IL-28 light bombers in Cuba.
+Premier Castro was making increasingly bellicose boasts and threats on Cuban radio and television and in the Cuban press, and, in a drunken state, Castro's personal pilot was overheard to boast that Cuba had everything, including atomic weapons.
+In the intelligence community, John McCone, head of the Central Intelligence Agency, alone suggested to the President as early as August that he believed the Soviet Union was installing offensive weapons in Cuba.
+Robert McNamara, Dean Rusk, and other Presidential advisers continued to argue, however, based on their experience, beliefs, and perceptions, that the buildup was merely defensive.
+The United States did not begin low level reconnaissance flights over Cuba until after the President's 22 October speech.
+Early reliable information on the number of Soviet troops and their equipment was therefore difficult to obtain.
+If American intelligence analysts and foreign policy decisionmakers had been more ready to intellectually accept the introduction of strategic missiles into Cuba, certain ""signs"" might have been detected earlier.
+One such sign was that many Soviet ships arriving in Cuba were riding high in the water, thus indicating that they were carrying space-consuming cargo.
+UNCLASSIFIED UNCLASSIFIED In summary, there were increasing indications from refugees, press reports, foreign intelligence sources on the ground, and from United States reconnaissance and visual observation that the USSR intended to install offensive surface-to-surface missiles in Cuba.
+Like Pearl Harbor, we failed to anticipate the Cuban crisis and recognize the signals, not because there was a lack of relevant information but because of an overabundance of irrelevant data and a predisposition on the part of American officials to interpret the information in terms of certain expectations.
+As soon as the American leadership and public knew of the Soviet offensive buildup in Cuba, many envisioned the possibility of another Pearl Harbor-type attack against the United States.
+This comparison and the fears it evoked influenced much of the counsel given to the President.
+It undoubtedly made a strong United States reaction more likely and served to unite public opinion behind the President's policies.
+The secrecy and deception associated with the Soviet buildup also served to convince the nations of Latin America that they too were threatened by the missiles.
+It helped sway world opinion in favor of the United States and thus made the fulfillment of Soviet strategy more difficult.
+Militarily, the surprise had little effect since the missiles were discovered before,, installation was completed and full SAM coverage had been achieved.
+Had this not been the case, the United States would have been faced with a fait accompli from which it would have been extremely difficult to force the Russians to retreat so gracefully.
+Between 18 September and 14 October, American intelligence assembled startling evidence which gradually led to the development of the hypothesis that Soviet offensive weapons were being installed in Cuba.
+The time was actually rather long in terms of crisis decisionmaking, but the speed of the Russian buildup intensified the urgency for United States countermeasures.
+The fact that no immediate action was required probably significantly affected the eventual outcome.
+The Soviets had planned to have their SAM defenses completed prior to installation of the offensive missiles to preclude a premature American discovery.
+Delays were encountered, however, which allowed United States reconnaissance to detect the installation and therefore confront the Soviet Union prior to completion.
+The result was that the USSR was caught off-guard and put on the defensive.
+Finally, the alternative chosen by the United States to meet the missile threat allowed Soviet decisionmakers time to reevaluate their actions and avoid direct military confrontation.
+The flexibility of the quarantine delayed any confrontation with the Soviet Union approximately 24 hours.
+The United States saw the existence of offensive missiles in Cuba as a serious, direct military threat.
+It endangered the early warning system and increased Russian first-strike capacity against the United States by 50 percent.
+The success of Soviet strategy in Cuba would have challenged United States leadership of the Western world and further weakened hemisphere solidarity.
+United States enemies would have proven their ""paper tiger"" thesis and presented other challenges at perceived weak points around the world.
+The Soviet Union claimed only to be interested in maintaining Cuba's sovereignty but risked a carefully constructed policy of peaceful coexistence during the missile crisis in order to strengthen its hand in a global strategic sense.
+A successful conclusion of the crisis from a Russian viewpoint would have left the United States completely discredited in the Western Hemisphere and destroyed any notions of a sphere of influence in the area.
+It would have forced the Americans to pay such a high price for the removal of the missiles from Cuba that the United States would have been discredited in Europe and Asia also.
+UNCLASSIFIED UNCLASSIFIED In addition to the obvious military benefits, a victory in Cuba would have strengthened Soviet leadership of the Communist world.
+Valuable propaganda would have been gained to exploit against the Chinese critics.
+Respect for Soviet military power and diplomatic ability would have increased throughout the world.
+The interests of United States allies in the Western Hemisphere were directly threatened by the installation of the Soviet missiles in Cuba.
+President Kennedy stressed the vulnerability of cities in Latin America to an attack.
+These friendly governments also recognized that an American diplomatic defeat would inevitably lead to increased Communist subversion throughout the hemisphere.
+American allies in Europe felt threatened by the consequences of the missiles if not by the missiles themselves.
+Turkey and Italy felt directly threatened due to the presence of United States missiles on their territory and their use as a pawn during the negotiations.
+West Berliners worried that the future of their city would be bargained away if America backed down.
+The fact that Allied interests coincided with American interests served to strengthen United States resolve and determination in the confrontation.
+The Organization of American States met on Tuesday, 23 October, and gave a 19-0 vote in favor of United States policy.
+This unexpected display of support had both major psychological and practical effect upon the Soviet leaders in forcing them to back down over Cuba.
+As far as Russia's Eastern European allies were concerned, their interests were not considered but their support was demanded and unconditional.
+Soviet concern for the interests and existence of the Castro regime may have been genuine, but the predominant factor in Soviet actions was that the installation of the missiles would benefit the Soviet Union foremost.
+Benefits to the security and prestige of Cuba in the hemisphere were of secondary importance.
+The United States reacted unilaterally in the Cuban missile crisis since its vital security interests were threatened and since the need for secrecy dictated action without prior consultation on a global scale.
+President Kennedy sought to retain control of decisionmaking and realized that no international organization or diplomatic consultations could force the removal of the missiles.
+United States allies were informed of American decisions after the fact.
+UNCLASSIFIED UNCLASSIFIED As Kennedy did not consult our NATO allies before taking actions which risked world war, neither did Khrushchev apparently seek the opinions of his Warsaw Pact allies before deciding to install the missiles in the Western Hemisphere.
+Even during the actual crisis, the Soviet Union displayed its disregard for Castro by failing to consult with him.
+Cuba played a minimal role in the UN talks and Cuban representatives expressed their dissatisfaction with the final agreement.
+During the period of decisionmaking, American public opinion was generally aware that United States relations with Cuba were becoming more strained but were not officially told that the Soviet Union had placed offensive missiles in Cuba.
+The American public strongly supported the position taken by the President once the nature of the crisis became apparent.
+Those critical of his actions primarily felt that stronger steps should have been taken.
+Most major newspapers editorialized in favor of the President after his 22 October speech.
+American public reaction undoubtedly served as one factor in forcing Khrushchev to moderate his position on Cuba.
+The Soviet and Cuban peoples were kept unaware of the actual realities t decisions and_terms of negotiation during the crisis.
+It is therefore doubtful that their opinions affected decisionmaking in any way.
+Khrushchev seriously misjudged the leadership abilities and determination of President Kennedy because of his failure to react forcefully to the Bay of Pigs crisis and to the construction of the Berlin Wall, and because of personal impressions gained at their summit meeting in Vienna.
+These impressions, combined with a general misunderstanding of the strengths of democracies, led the Soviet Union to attempt to effect a major strategic realignment in Cuba.
+Likewise, Khrushchev undoubtedly viewed this grand strategy as a means of assuring the stability of his own power and his influence internally.
+There is some indication that political considerations prevented more intensive American reconnaissance over Cuba which might have led to an earlier disclosure of the construction of the Soviet missile sites.
+Recent U-2 downings sensitized United States policymakers to the political repercussions of these flights.
+The State Department had not forgotten Khrushchev's use of a similar incident during his Paris summit with Eisenhower.
+Although UN leaders participated in the resolution of the crisis, their importance in the final settlement was minimal.
+The diplomatic and political pressures brought against the Soviet Union by United States allies in Europe and Latin America simply by their support of the United States position revealed another Soviet miscalculation and significantly affected the outcome of the crisis.
+Latin American nations offered military forces and bases to enforce the quarantine.
+United States diplomatic action secured prohibitions which barred the African or Caribbean air routes to Cuba for Soviet planes which might carry missile parts or nuclear warheads.
+Had the United States been diplomatically isolated, Soviet audacity would most likely have risen.
+The superior military position of the United States in the Caribbean prior to the completion of the planned missile installations was well understood by the Soviet Union.
+The Russians calculated, however, that the United States would not react forcefully to the introduction of strategic weapons into Cuba.
+Soviet strategists were convinced that their secrecy and deception and the rapidity of construction would preclude any effective United States response.
+This conclusion was strengthened by the failure of the United States to respond to the previous buildup of conventional defensive weapons systems.
+Military calculations were very significant in Khrushchev's Cuban strategy.
+Its success would have meant a dramatic automatic increase in the Soviet Union's preemptive strike capability.
+Greater targeting flexibility and missile reliability would have resulted.
+The American missile warning system would have been bypassed and our primary deterrent in 1962, the United States bomber force, would have been largely discredited.
+As a result, the entire global strategic balance of power would have been altered by decreasing the American-Soviet imbalance.
+Cuba would undoubtedly serve as an important base for intelligence gathering and electronic surveillance against the United States and Russian missiles could have been used to diminish United States influence in the Western Hemisphere by lending credibility to Soviet boasts of nuclear superiority and to threaten the Panama Canal.
+When the nature of the threat became clear and the decision was made by the President to use force if necessary, various tactical deployments were hurtled to make United States determination credible to the Soviet Union.
+The USSR had no real conventional military option with which to challenge the American threat once the confrontation emerged.
+Neither air protection nor surface and submarine escorts were available to break the United States blockade.
+Tactical nuclear weapons in Cuba may have offered some 2-6 UNCLASSIFIED UNCLASSIFIED defense to the island, but the massive United States preparations being readied for a possible invasion gave Khrushchev clear evidence of his military inferiority in the area.
+Nuclear war would not have served to achieve any of his original aims and would have resulted in unacceptable losses.
+Role of Economic Power . the United States utilized economic pressures to make it more difficult for the Soviet Union to supply Cuba.
+During September 1962, the State Department sought to persuade other Western nations to reduce or terminate shipment of supplies to Cuba.
+The embargo presented a serious challenge since most shipping to Cuba was done in non-Communist flag ships.
+There is little indication that the embargo had any real impact on the subsequent crisis.
+Little was heard about it after the 22 October speech and speculation has arisen that either the United States quietly abandoned it to show gratitude for the diplomatic support extended by our allies during the crisis or else it was initially intendad only to serve as a ""counterdeception"" which would have supported any of the flexible policies of the administration.
+The quality of the photographs proved to the world the validity of United States charges.
+The timely discovery of the construction precluded a more serious crisis which would have been inevitable if the United States had been faced with completed bases fully protected by SAHs.
+UNCLASSIFIED UNCLASSIFIED Intelligence analysts and decisionmakers failed, however, to accurately perceive Soviet strategy prior to the crisis.
+They either misunderstood or disregarded factors which might have led the Soviet Union to undertake gambles in order to improve its strategic posture.
+The pervasive belief that the Soviet Union would not deploy strategic weapons in Cuba caused the Administration to decline serious consideration of conflicting intelligence hypotheses.
+It would have meant ignoring previous pledges and commitments, destroying our future credibility, and giving the Soviet Union a great political victory in terms of the international balance of power.
+The use of diplomacy alone was rejected as being an inadequate response to the level of threat.
+The limitations of the United Nations were recognized by Washington as well as the fact that the many small new nations who comprised the bulk of the General Assembly membership would almost certainly oppose any action by a large nation against a smaller one.
+In addition, the Soviet Union had a veto and Ambassador Zorin of the Soviet Union was Chairman of the Security Council in October.
+Diplomatic protest was used, however, in conjunction with more direct, forceful action, to legitimize the United States position.
+Although given serious consideration, this alternative was judged unnecessarily aggressive.
+Civilians and Soviet military would undoubtedly have been killed and Russian MIGs and IL-28 bombers could have still attacked Guantanamo and the southeastern United States.
+Robert Kennedy, among others, saw such an action as a ""Pearl Harbor in reverse"" which would have harmed the moral position of the United States for decades.
+This option would have seriously endangered United States allies in Berlin, Turkey, etc., and could possibly have led to nuclear war.
+Enforce a maritime blockade of all traffic entering Cuban territorial waters.
+This course would have unnecessarily irritated many European allies and would have been clearly illegal in terms of UNCLASSIRED UNCLASSIFIED international law.
+It would have weakened America's moral case and would have been in opposition to previous American policy regarding freedom of the seas.
+Enforce a quarantine to stop only those Soviet ships delivering missiles to Cuba.
+It permitted a more controlled military escalation and greater political flexibility.
+It represented a strong, positive action but did not preclude negotiation.
+It was viewed as moral and legal in terms of United States national purposes and international law.
+It was the credible response least likely to escalate into nuclear war.
+A possible naval engagement in the Caribbean was viewed as the best strategic encounter in terms of United States capabilities.
+A temporary stalemate prior to any confrontation allowed time for a buildup of conventional forces in Florida and the Southeast, thereby strengthening the United States position.
+Thus, the United States combined diplomatic initiatives and military threats in a strategy to force a Russian retreat.
+The Soviet Union, confronted with the American response, was forced to withdraw or face the unacceptable risk of nuclear war.
+United States military superiority in the region left no other real choice.
+This group bypassed the more formal arrangements of both the Cabinet and the National Security Council.
+Although the President constantly sought to maintain channels of communication to his staff and access to diverse sources of information, counsel during the crisis was sought from a small number of advisers.
+The final decision to pursue a simultaneous policy of diplomacy and quarantine was made by Kennedy in the face of significant high level opposition.
+All indications point to the fact that the Cuban adventure was primarily the result of Khrushchev* s personal perceptions and strategy.
+There were a number of conflicting signals prior to the 1973 Middle East War, as there were prior to the attack on Pearl Harbor and the discovery of Soviet offensive missiles in Cuba, which, in retrospect, appear to be unmistakable warnings of aggression.
+In September, Egyptian and Syrian reconciliation with King Hussein of Jordan after nearly two years of hostility marked the initiation of a new phase of Arab rapprochement.
+Before meeting Hussein and President Hafez al-Assad of Syria in Cairo, President Sadat visited Saudi Arabia and Qatar, where he was assured of new assistance.
+The next week the Kuwaiti leader visited Cairo and offered Egypt similar promises.
+Reports indicate the three oil-rich nations offered to give Egypt more than $1. billion to purchase modern weapons.
+King Faisal began to Indicate his desire to use oil as a political weapon by freezing current production levels unless the United States showed a willingness to revise its Middle East policy and follow a more even-handed approach in the Arab-Israeli dispute.
+Faisal previously had been a rather conservative force in the region who was considered solidly pro-American.
+The Syrian-Jordanian Accords allowed Syria to move a large number of her troops from the Jordanian border to the ceasefire lines along the Golan Heights.
+Jordanian troops likewise withdrew from the Syrian frontier to the Jordan River truce lines with Israel.
+These troop movements were down-played in the Israeli press and no military initiative was forecast.
+The Egyptians moved large quantities of tanks, armored personnel, carriers, guns, and trucks to within a few miles of the canal in late September.
+There was little concern shown toward subsequent Egyptian troop concentrations along the Suez Canal.
+These movements were viewed as a part of predicted training exercises which are held annually at the same time of the year.
+These maneuvers were unusual, however, in that they occurred for the first time during the holy month of Ramadan.
+Not until the first week of October was there enough unusual activity to raise suspicions of an Arab offensive.
+While Israeli forces were put on alert, there was no general mobilization and no official fear that war was imminent.
+Perhaps the strongest signal was the massive Russian airlift from Damascus and Cairo to return home virtually all Soviet military personnel from both countries.
+Jerusalem merely warned the United States that a major Arab attack appeared probable and asked that Cairo and Damascus be warned to desist.
+Israel claims to have known about the offensive several days prior to the attack but resisted the temptation to attack so the world would recognize the Arabs as aggressors.
+Few Americans predicted a renewed outbreak of fighting in the Middle East.
+The United States apparently depends on second sources for a great deal of its intelligence in the Middle East.
+Such sources, although generally reliable, provide information which is difficult to analyze and assess.
+The primary impact of surprise in the October War was that the Israelis suffered a series of initial setbacks which were costly to reverse.
+Secondly, the confidence gained by the Arabs in these early victories helped eliminate some of the humiliation remaining from the June 1967 war.
+The attack put the Arabs at an initial strategic advantage and proved the Israelis were not immune to military defeat.
+The long-range Impact of these psychological readjustments at future peace negotiations can not be predicted.
+The assumption that the Arabs would be branded as aggressors and condemned by world opinion, as a result of the surprise attack, was not realized to the degree expected by the Israelis.
+Perhaps this was because much of the world perceived the Arabs to be attempting to regain their own territory occupied by Israel since 1967 or because of a desire not to be the target of the new-found Arab weapon of petropolitics.
+In any case, many Israeli assumptions had to be reevaluated in the wake of new political and military realities.
+The Israelis attempted to obtain world sympathy from the fact that the attack came on Yom Kippur.
+Had the attack come on any other holiday, they would have been scattered throughout the country und there would have been considerable traffic on the roads which would have interfered with troop columns rushing to the front.
+It served to strengthen the mistrust many United States decisionmakers have felt Jtoward military intelligence since Pearl Harbor.
+The United States had to react quickly after the initiation of hostilities to prevent the Soviet airlift from upsetting the balance of forces in the area.
+In the later stages of the crisis, quick American reaction was required to respond to the threat of Soviet intervention.
+In the final stages of battle, time became more critical as arrangements for a ceasefire attempted to keep pace with a fluid militaiy environment.
+The inability to identify precise positions on 22 October caused serious political problems in subsequent negotiations.
+The primary national interests of the United States in the Middle East at stake in the October 1973 war were the prevention of any single power or coalition of powers from gaining hegemony in the region and the maintenance of the security and independence of the state of Israel.
+The interest in continued access to the petroleum assets of the region did not seem as Immediate and did not greatly influence the American response.
+The United States felt that the massive Soviet airlift of arms and equipment would upset the tenuous balance which had been achieved in the region between the Arabs and the Israelis.
+A resupply of Israel was therefore initiated to prevent the danger of her defeat or the loss of such territories as would endanger her existence in future wars or at the peace table.
+Soviet moral and military support of the Arab cause has greatly increased Russia's prestige and influence in the Middle East.
+Their stated intention to intervene directly in the fighting further posed a serious threat to United States interests.
+President Nixon, as a result, took both diplomatic and military action to warn the Soviet Union of the consequences of intervention.
+The Soviet Union has long desired to gain a foothold in the Middle East for geopolitical, military, and psychological reasons.
+The expansion of Russia's influence there would strengthen her position as a world power and render obsolete the old American policy of containment.
+Her decision to support the Arabs was based primarily on these considerations.
+Soviet prestige has become linked to Arab success achieved with Russian weapons.
+Soviet global interests In detente with the West apparently predominated, however, when a direct confrontation with the United States became a danger.
+The USSR, recognizing there existed no serious threat to Arab territories, thus chose to accept United Nations mediation rather than pursue unilateral enforcement of a ceasefire and risk United States retaliation.
+American allies in Europe generally viewed their primary interest in the Middle East as continued access to Arab oil.
+They refused to cooperate with the United States, therefore* for fear that the Arab countries would cut off their oil supplies.
+Most Western European nations warned Washington that aircraft bound for Israel could neither land nor have rights of transit over their territories.
+This position was taken by Turkey despite the fact that Soviet resupply aircraft flew over Turkey without approval and without public protest.
+The European attitude did not deter the American decision to transport needed supplies to Israel.
+The result, however, was that a special, improvised system had to be devised to rush supplies to the Israelis.
+There has been much criticism of the United States by European nations, especially France, because of the fact that events in the Middle East were controlled by the United States and the Soviet Union without consulting other interested parties.
+Israel claims to have been forced by the United States to allow the shipment of provisions to the trapped Egyptian Third Army.
+The United States and the Soviet Union inform rather than coordinate with their respective Middle East clients when it is in their mutual interest.
+GeNHOENTIAL CONFIDENTIALReports vary concerning Arab coordination with the Soviet Union prior to the attack.
+Indications such as the Russian troop evacuation, however, support the contention of Russian foreknowledge.
+The Israelis, likewise, are usually forced to coordinate with the United States because of their dependence on American military aid.
+Despite minor trends to the contrary, the United States public, in general, is predominantly pro-Israel.
+There is also great support for President Nixon's policy of detente with the Russians and keeping the great powers in control of the situation.
+The factors of America* 8 influential Jewish population and our consciousness of being a nation of immigrants should not be ignored.
+Most important in explaining United States support for Israel, however, is the American ideal of fair play and sympathy for the underdog.
+This pro-Israel orientation probably played a substantial role in President Nixon's actions and the subsequent support shown in Congress.
+Even the oil industry remained fairly objective amid promises of higher prices, increased stock values and profits, and possible incentives for a renewed search for other sources of energy.
+This industry position allowed the voice of the American general public to be more influential.
+During the most serious hours of the crisis, President Nixon had to force Brezhnev not to carry out a private threat.
+Mutual Interest in the preservation of detente, after the United States displayed its determination in a show of force, allowed a peaceful resolution by political means.
+Even Soviet and American exchanges in the United Nations were rather restrained.
+Summits and special emissary exchanges were utilized to maintain communication with the Soviets and both sides of the Arab-Israeli confrontation throughout the crisis.
+The importance of politics was best shown in the final outcome, however.
+Both the United States and the USSR modified their previous positions concerning Israeli withdrawal by jointly sponsoring the UN ceasefire resolution.
+Mutual promises to pressure their respective clients probably ended the fighting.
+Encouragement from the oil companies to avoid incidents and pressures from both the Arabs and the Israelis to limit reconnaissance served to restrict our political-subversive activities in the region while the reluctance of the American people to get involved in another overseas war restrained definitive commitments.
+President Nixon assigned an important role to military power in the resolution of the Middle East conflict by responding quickly to counter Soviet supply activities to the Arab combatants and by ordering a worldwide military alert to demonstrate United States determination to oppose any unilateral Soviet intervention.
+Had the Russians not perceived this reaction as credible, the political resolution achieved would have been endangered.
+The role played by military power this time, however, was comparatively less important than during the 6-Day War.
+The Russians, who had threatened to intervene with missiles against Israel, backed down only when President Johnson pointed the Sixth Fleet at the area of battle.
+This time, however, the Soviets withdrew their advisers from both Syria and Egypt prior to the fighting.
+In October, Russian military actions seemed more sublimated to diplomatic maneuvering.
+The initial Arab military victories, combined with the heavy Soviet airlifts, forced the United States to react quickly in Israel's defense.
+The Arabs seemed to possess an unlimited supply of ammunition and their firepower was impressive.
+The Israelis lost many aircraft due to their failure to recognize the SA-6 threat and were forced to start a missile suppression program.
+They forced the United States to question Israeli air superiority and invincibility.
+New-found Arab economic power forced European moderation and, in some cases, open support for the Arab cause.
+It is also probable that resource needs in the area probably resulted in some moderation on the part of the United States.
+Disunity in the West, however, limited the credibility of threats of possible counterboycotts.
+The Arabs also used their power to coerce the Black African states that retained relations with Israel to break them.
+In exchange for this support the Arabs promised to use oil embargoes to support policies of the O.A.U. against South Africa, Rhodesia, and Portugal.
+The 1973 Middle East crisis is yet another example of misinterpretation of adequate, available intelligence.
+Few United States intelligence analysts and decisionmakers believed that the Arabs were ready to risk another war with Israel.
+Despite warnings and clear signals of approaching conflict, we interpreted these actions in terms of preconceived notions, experience, and expectations.
+The national policy of detente with the USSR and indications of developing detente between the adversaries in the Middle East made predictions of another Arab-Israeli war the subject of scorn.
+Valuable time was lost in the resupply of Israel because improvised routes had to be developed.
+The use of American forces stationed in Italy,"" Greece, and Turkey was always considered essential to a viable United States policy in support of Israel.
+Military planning must now be revised in light of the refusal of those nations to allow American troops and equipment stationed there to be deployed to Israel.
+American policymakers, faced with the choice of continued aid to Israel or bowing to Arab warnings of reprisal, chose the former.
+To have done otherwise would have reduced the credibility of American commitments and would have opened the door to initiatives toward Soviet hegemony over the Middle East and threatened the security of the state of Israel.
+Match the Soviet resupply effort to the Arabs by stepping up delivery of previously ordered supplies to Israel and authorizing additional aid.
+These actions represented the limits to which the United States public and Congress would go without a more defined threat, but they served to warn the Soviet Union of American determination to protect its interests in the region.
+The Russians valued detente with the West and were suspicious of Arab motives and loyalties.
+They chose, therefore, to jointly sponsor a UN-enforced ceasefire proposal.
+United States decisionmaking during the Middle East crisis appears to have been made primarily by the President.
+Although President Nixon and Secretary of State Henry Kissinger exercised strong control over choices, the National Security Council, the Washington Special Action Group, and other similar bodies were employed to a limited degree.
+Soviet decisionmaking does not appear to be as strongly identified with any single individual as it was during the Cuba crisis.
+Arab decisionmaking was performed primarily by the individual heads of state on the basis of their own particular interests although the round of inter-Arab conferences held prior to the fighting probably was used to coordinate the attack.
+The Egyptians realized almost any action would improve the conditions of the current stalemate and sought to seize some territory on the east bank of the Canal or, at the least, to end the unsatisfactory stalemate by evoking great power initiatives or intervention.
+During the months preceding the Pearl Harbor attack, Secretary of State Hull and Ambassador Nomura met approximately 40 to 50 times, usually at night, in Hull's apartment it the Wardman Park Hotel to try to avoid war.
+Despite secret Japanese pressure for a Konoye-Roosevelt meeting, however, the President followed the advice of Hull and Grew and avoided such an encounter on the basis that it would only serve to further complicate the foreign policy situation and, if unsuccessful, would further the interests of Japanese militarists who were arguing that the failure of diplomacy was inevitable.
+President Kennedy and Premier Khrushchev discussed the crisis and proposed solutions in direct exchanges.
+At one point in the crisis, events were occurring at such a fast pace that diplomacy was conducted via ordinary shortwave radio in order to speed the exchanges.
+While President Nixon was meeting in Washington with Egyptian and Israeli leaders, Kissinger and Assistant Secretary Sisco were hopping from capital to capital, first to Moscow and then throughout the Middle East.
+Prior to Pearl Harbor, both the British and the Dutch became disturbed with the United States because Roosevelt consistently refused to state the conditions under which we would supply assistance if their Eastern possessions were attacked or under what circumstances we would enter the fight ourselves.
+At Singapore, the United States and Great Britain were unable to agree on a common strategy in the Far East because of their differing interests.
+The distrust which emerged prior to and during the Second World War was accentuated by later crises.
+Interservice rivalries and rivalries between Naval War Plans and Naval Intelligence served to block communication and perception at Pearl Harbor.
+There was also a concentration on Atlantic and European affairs in Washington which made comprehension of Japanese intentions, motives, and actions more difficult.
+Code analysts were believed to be too immersed in the ""oriental point of view"" to be trusted entirely.
+In addition, officers in the field misunderstood the warnings from Washington because the War Department misunderstood the extent to which Pearl Harbor was assured that the most likely danger was from sabotage.
+Officials In Washington also were mistaken in their assumption that the Hawaiian Commanders knew the content of the secret Japanese cables available at headquarters which indicated the distinct possibility of surprise attack.
+The role played by the upcoming Presidential election is difficult to assess, but undoubtedly restricted the freedom of movement available to the President.
+Kennedy was obviously concerned about opposition charges that he was soft on communism.
+He needed a clear political victory after the embarrassment of the Bay of Pigs defeat and the showdown with Khrushchev at Vienna.
+The State Department continued to press its case concerning the dangers associated with the possible loss of a U-2 over Cuba.
+The Air Force, playing upon these arguments, stated that it would be better if a downed pilot were an Air Force pilot in uniform rather than a CIA agent.
+Apparently the CIA's U-2's had COrjr i DCNTIAL CONFIDENT I AL been modified to give them an advantage over the Air Force U-2's In averting Soviet SAM' 8.
+Eventually, Air Force pilots were trained to fly CIA U-2's and a successful overflight did take place on 14 October.
+Differences of opinion between State Department analysts, looking at American policy pragmatically, and the White House, under pressure from Jewish lobbying groups, detracted from a concerted consideration of the Middle East crisis.
+Many State Department analysts, often referred to pejoratively as the ""Arabists"" because of their background and leanings, found their influence diminished.
+Inevitable comparisons with the Cuban crisis and domestic pressures of the Watergate controversy may have constrained the exercise of policy options even further.
+Fears of an Anglo-American policy of encirclement against Japan in the Southern Pacific Ocean appear time and time again in official Japanese documents and memoirs.
+Such a perceived threat, whether real or imagined, was certain to be taken seriously by an insular power such as Japan.
+President Kennedy felt that the Soviet Union sought to encircle the West by subverting the world's developing nations and controlling the entire southern half of the globe.
+Cuba, of course, was the primary Soviet base of subversion in Latin America — the area which was most critical to the United States.
+Perhaps American officials felt the Russians were simply reversing the old United States policy of containment adopted by the State Department after the Second World War.
+The United States policy of containment sought to weaken the Soviet's viability as a world power by preventing the expansion of Russian influence to neighboring states.
+Greece, Turkey, and Iran were the focal points of United States efforts.
+Detente and increased Soviet sophistication and capabilities have allowed the Russians to leapfrog this ""line of defense"" and attempt to establish a power base in the Middle East.
+Psychologically, militarily, and geopolitically, this was a natural move.
+Previous false alarms and alerts and a numbness from facing repeated international crises served in each case to dull reaction and to make the true nature of the crisis unrecognizable until its seriousness had escalated.
+CONFinFNTIM eONriPCNTlA L In the week, prior to the Japanese attack on Pearl Harbor, Admiral Kimmel and his forces in Hawaii checked out seven false reports of Japanese submarines in the vicinity of Pearl Harbor.
+They doubted chances of a Japanese attack and viewed such alarms as serious irritants to their normal pursuit of duties.
+Likewise, Cuban refugees had been reporting Russian missiles in Cuba for more than a year and a half prior to the first official sightings.
+Natural prejudices of Cuban refugee groups and lessons learned from the Bay of Pigs invasion made American analysts particularly skeptical.
+Domestic political tactics of exaggeration regarding the Cuban threat in order to discredit the adminsitration were discounted by serious observers as merely self-serving.
+Warnings by John McCone were also suspect because of his conservative bias and the tendency of any organization such as the CIA to interpret evidence so as to justify its own existence.
+The Israelis had received various signals forecasting an imminent Arab attack for more than six months prior to the October War.
+Every time such a signal was received, the government had to make a decision on mobilization of reserves.
+The tenseness of the situation in general made all predicted attacks suspect to both the United States and Israel.
+Prior to Pearl Harbor, the Japanese imposed a radio blackout, gave shore leave to a number of Japanese sailors, issued false war plans to Japanese commanders, reinforced the northern border of Manchuria, engaged in false radio communications, and utilized other methods of deception to hide their true intentions.
+In Cuba the Soviets used trees, tarpaulins, camouflage nets, paint and mud to alter the natural shape of the missiles.
+As late as September the Soviet Union continued to insist that she had no real need for offensive bases in Cuba since her nuclear arsenal possessed sufficient forces to destroy any foe.
+They expected that the publicized defensive buildup would serve to shroud the introduction of strategic weapons into the Caribbean.
+Prior to the latest outbreak of fighting, President Sadat of Egypt seemed to have embarked upon a new campaign of moderation.
+Soviet advisers were expelled, the Egyptian-Libyan unification proposal abandoned, and new diplomatic initiatives were begun with Saudi Arabia and Jordan.
+A major policy speech by Sadat suggested surprising CONFIDENTIAL CONHUfcN I l / V b moderation toward the United States, and a United States firm, the Bechtel Corporation, was awarded the concession to build the new ""Suez to the Mediterranean"" oil pipeline.
+This $354,400,000 agreement was the first major cooperative effort with the United States since Aswan Dam days.
+Significant indications had been received by Secretary of State Kissinger that the Arabs were ready to negotiate.
+The Egyptians used sand colored netting to hide their equipment from Israeli aircraft and observation posts on the east bank of the Suez Canal in an additional attempt to hide their aggressive plans.
+The MAGIC , the Kennedy-Khrushchev communications, and the Nixon-Breshnev exchanges were closely guarded during the crises.
+While it is recognized that such sources must necessarily be read and interpreted swiftly, perhaps examination and comment by a wider range of experts might have proven beneficial.
+In each case, high level committees were directly supervising decisions and doing paperwork normally delegated to their lower level commands and staffs.
+In the case of Cuba, a credible argument can be made that the delay in analyzing the ""thousands of pictures"" was partially a result of the stringent secrecy imposed on all information concerning the missiles.
+In addition to the tendency to restrict access to raw data , decisionmaking in the three crises was also conducted primarily in secret.
+Roosevelt was unsure of the reaction of the United States public to war and sought to avoid the issue as long as possible.
+The Americans realized that events were becoming more serious, but this was only a vague impression before Pearl Harbor.
+During the Cuban crisis the public began to reexamine Senator Keating' s explicit early warnings that Soviet longand mediumrange missiles and combat troops were in Cuba.
+In the days before the crisis, President Kennedy continued to campaign on schedule in the Middle West.
+On 21 October, the Defense Department denied that the large concentration of military forces off Puerto Rico was linked with a crisis.
+Secretary of State Henry Kissinger stated in his news conference of 25 October that the complete extent of Russian threat could not be revealed, but promised to disclose the full details at some later date.
+The press and the American public began to surmise that the crisis 4-5 CQNFIDENT l Ab CONFIDENTIA L might be politically inspired due to President Nixon's domestic troubles.
+Political science research, largely quantitative, has proven the operability of this tendency in crisis situations.
+In all three cases, the United States tended to downplay the seriousness of the situation in the interests of detente until overt action was taken by the aggressor.
+Roosevelt issued directives to avoid incidents with the Japanese at all costs.
+He did not want a two-front war and refused to accept it as a possibility for a long time.
+Likewise, in Cuba and the Middle East, the United States did not want to accept the actions they saw being taken by the Russians and the Arabs.
+Under such conditions, the tendency is great to ignore small bits of information which, when combined and tested in a conceptual framework, may prove significant.
+It has been said that in foreign affairs, preparation, judgment, and experience are important, but luck is essential.
+Prior to the Pearl Harbor attack, the United States, to avoid any incidents, took the precaution of stopping all traffic on the northwest passage to Russia.
+This made visual observation of the Pearl Harbor task force impossible.
+The 7 December Hawaiian radio blackout and the use of commercial wire for the last alert message rather than the scrambler telephone may be ascribed to bad luck.
+The fact that the crisis and its preceding events occurred during the hurricane season made intelligence all the more difficult.
+The United States intelligence community remembered all too well the political explosion surrounding the Soviet downing of an American U-2 flight on 1 May 1960.
+They feared additional publicity would lead to world outcries which would force the abandonment of future U-2 flights.
+Based primarily on State Department fears of more political incidents, it was decided that the practice of flying up one side of Cuba and down the other would be replaced by a policy of more peripheral observation.
+The fact that the United States found itself faced with a serious fuel crisis even before the October War gave United States decisionmakers additional incentives to encourage moderation and compromise.
+The timing of certain events preceding the crisis which have been interpreted by the West as Arab deception may better be described as luck.
+Research in decisionmaking theory and crisis diplomacy during recent years has made great strides toward explaining strategic surprise.
+Dulles and Russia"" in Enemies in Politics , 1967, ed. by Daniel J Finley, 30. -CnNFinFNTIA^ C ONFIDENTIAL behavior is altered due to leadership or other important changes and our expectations, though previously correct, do not recognize the shift.
+Another condition which might also be added to Knorr's definition is a case in which an opponent acts with unexpected rationality.
+By late November 1941, United States policymakers had a firm conception of Japanese military plans.
+Evidence to the contrary given by an Army intelligence report in the fall of 1941 was dismissed by policymakers.
+Such a bold move by the Japanese was regarded as too radical a departure from normal behavior to be taken seriously.
+Installation of offensive missiles in Cuba by the Soviet Union was likewise considered irrational and improbable.
+The Stenriis Report on the crisis attributed the failure to predict Russia's moves to certain ""preconceptions"" of the intelligence community.
+A ""substantial error"" was noted in ""the predisposition of the intelligence community to the philosophical conviction that it would be incompatible with Soviet policy to introduce strategic missiles in Cuba.
+An Analysis of Policy Formulation in Terms of Current Decision Making Theory , 1971, 393. 6us Congress, Senate, Committee on Armed Services, Preparedness Investigating Subcommittee, Investigation of the Preparedness Program , Interim Report on Cuban Military Buildup , 1961, 3.
+The role of behavioral surprise is also important in the 1973 Middle East crisis.
+The Arabs were badly defeated in June 1967 and the United States and Israeli intelligence were convinced that no new attack would be launched in the near future.
+Stereotypes against the Arabs also led to mistaken conclusions about Egyptian fighting ability and the willingness of the Soviet Union to aid them.
+The individual Arab soldier was widely believed to be the weak link in the military organization.
+Politically, United States and Israeli planners perceived Arab weaknesses as a result of their previous inabilities to coordinate among themselves.
+Secondly, although we had fairly accurate information on Arab equipment, we were surprised at their ability to use it.
+We felt the Arabs recognized this fact and would defer any future adventures until they were in a stronger position militarily.
+Without a sound understanding of motivation and strategy, even the most accurate intelligence data on industrial capacity, economic development, technological advances, and military arsenals is useless.
+In all three crises, analysts and policymakers misread both the intentions of the adversary and his willingness to take risks.
+At Pearl Harbor, delays of up to 54 days were reported in decoding of Japanese diplomatic messages.
+Of course, the delay in the final warning message sent by commercial wire rather than by scrambler telephone is infamous.
+Although visual observation reported missiles as early as 29 July, overflight was delayed for one month.
+A flight on 14 October produced the first evidence of medium-range missiles.
+Likewise, Navy photographs of crates containing IL-28 bombers taken on 28 September were not evaluated until 9 October.
+One of the key elements in Khrushchev's strategy was to assure that antiaircraft rockets were capable of shooting down U-2's before any missiles were in place.
+Although a U-2 was downed on 27 October, the Soviet plot had been discovered two weeks previously.
+In the Middle East criticism has been directed at the government of Mrs.
+Meir on the basis that delays in response to the Arab threat resulted in increased Israeli casualties.
+The effect of delays in the American resupply efforts was significant due to European policies forbidding the use of their territories in such efforts.
+At Pearl Harbor we failed to realize that the Japanese had been able to put fins on their torpedoes, thus making attack in shallow harbors feasible.
+The greatest military surprise the United States encountered in Cuba was the unexpected capability of the Soviets to establish missile sites at such a rapid pace.
+This realization had a significant impact upon subsequent decisionmaking.
+The effective Egyptian use of the SA-6 and other Soviet weapons was a surprise of comparable significance.
+We were also impressed with Arab firepower and their seemingly unlimited supply of ammunition.
+Egyptian jamming and ECM and their nighttime and commando skills were also impressive.
+Surprises in tactics and toughness enabled Arab forces to make their initial gains.
+The use of high pressure jets of water to remove the walls of sand which line the banks of the Suez Canal, for example, allowed tanks to penetrate the second Israeli defense line.
+Massive armor and artillery rather than tactical innovation, however, was responsible for the initial Syrian successes in the Golan Heights.
+Both the United States and the Israelis underestimated Arab capabilities.
+The Japanese strike at Pearl Harbor, as has been shown, was directly influenced by increasingly stringent American embargoes of petroleum products, scrap iron, and other resources vital to Japan's economic growth.
+Since time was on the side of the United States, pressures mounted for war before the oil gauges dropped even further.
+Although the aim of the US-British-Dutch boycotts of Japanese goods and embargoes of vital resources were aimed at forcing a change in Japanese policies, they had the effect of challenging Japan to regain her honor and economic self-sufficiency in whatever manner necessary.
+It may be argued that United States use of a comparable boycott aimed at Cuba prior to the crisis had a similar effect.
+It served to evoke a challenge to Fidel Castro and to insure that he would be forced to accept total dependence on the Soviet Union.
+The United States is in a distinctly different position in the Middle East.
+This time petropolitics is being used by the Arab nations against the West.
+We miscalculated the ability and determination of the Arabs to carry out their threats.
+It is too early yet to determine the final outcome, but initial United States reaction indicates that the embargo will be viewed as a challenge and few, if any, alterations in America's pro-Israel policy will result.
+In future crises, historical analogies should preferably follow rather than precede a careful analysis of the situation.
+This is particularly true in a young nation such as the United States with a relatively short history in international politics and a tendency to be influenced largely by the relatively few International events which have threatened its vital interests.
+The advantage falls to the actor initiating the surprise aggression in diplomacy as well._as in military strategy.
+In times of crisis, Intra-alliance communication is subordinated to the national interest.
+The importance of allies and alliances in times of crisis may be a significant but not the dominant consideration affecting decisions.
+Direct and constant communication between national leaders during times of crisis reduces the potential for war.
+Ad hoc foreign policy decisionmaking is common during periods of crisis.
+In such situations, the power of the President generally predominates over Congress.
+Formation of key groups and consolidation of decisionmaking in the hands of a few individuals is required to escape bureaucratic formalities and bottlenecks. CUNHUIS.N T IAL jS QNriPCNTIAL The tendency to ignore expertise at lower levels in the government during periods of crisis should be avoided in order to improve analysis.
+In attempting to keep information from our adversaries wo should not also isolate ourselves.
+Reputation and experience of decisionmakers and government officials can be determining factors in the conduct of crisis diplomacy.
+The tendency toward overspecialization among intelligence analysts should be avoided.
+This is particularly true of civilian analyses who have dealt exclusively with one country or region for many years and find it difficult to predict unusual or changing behavior which does not fit a traditional pattern.
+Flexibility is maximized by announcing a credible, limited objective with regard to the desired resolution of the crisis and employing a graduated, proportional reponse to achieve it.
+It is probably better to be uncertain of enemy intentions rather than to be too certain of them.
+A sudden or unexpected recently shared interest with other actors leads to a tendency to overestimate the degree of actual common interest.
+Certain factors may generally be expected in crisis situations— surprise, deception, and careful timing.
+United States felt it would be incompatible with Soviet policy to Introduce strategic missiles into Cuba because of detente, a strategy of subversion rather than confrontation, and the fact that they had never put them in a satellite country before.
+The Soviets thought Kennedy was weak and would back down from a fait accompli.
+United States felt Israeli military superiority would preclude another Arab attack in the near future.
+There were signs that the Arabs were initiating a new era of moderation and that Soviet willingness to respond to Arab military needs was deceiving.
+REALITY US-British-Dutch economic boycott, time factors, and strategic considerations made attack on United States the chosen Japanese alternative.
+United States viewed Soviet action as a direct military threat which must be dealt with firmly.
+Arab attack showed new military capabilities and a new degree of coordination.
+Soviet assistance was significant, even to the point of offering troops to enforce a ceasefire.
+DECISION The Japanese decided to launch a surprise attack on Hawaii to strike a blow at United States offensive capabilities in the Pacific.
+The Soviets, at a strategic disadvantage, chose to avoid military confrontation.
+United States decided to supply Israel with needed weapons and to oppose great power intervention in the area.
+Peace was not restored until the military defeat of United States forced Soviet Union to withdraw offensive missiles from Cuba.
+Arabs gained a psychological victory; United States forced Soviet Union to back down on threat to intervene; precarious ceasefire reinstated.
+ANALYSIS United States misperceived Japanese intentions and capabilities.
+Analysis in Terms of ""Behavioral Surprise -GeNPrDENTtAtr Military lessons.
+The chances and consequences of misperception and erroneous information and the limited rime for analysis make nuclear retaliation very danRerous if based solely on advance strategic warning.
+Military operations and strategy should be structured so as to provide opportunities for graduated options clearly identifiable to an opponent.
+Actions should be avoided which might be incorrectly interpreted as a precursor to large-scale warfare.
+Restraint and limited use of force, requisites of a measured response, should be valued.
+Military strategy should be coordinated and coupled with a complementary political, diplomatic, and economic strategy in an overall plan to achieve a limitation of crrsis escalation.
+The requirement for quick action to meet sudden danger is necessary to gain time, develop options, and retain the flexibility to utilize or cope with further pressures.
+Military actions should clearly demonstrate United States resolution to achieve whatever specific objective the President has chosen.
+A credible strategic deterrent is necessary if any superpower expects to exact improvement in its international political position under risk-taking situations against another superpower.
+The necessity of maintaining forward deployed forces and strategic mobility remains essential to the protection of military power.
+PONFinFNTbflrL -GONae-ENTtAfcr The importance of economic interdependence is demonstrated during periods of crisis.
+One conclusion which may seem obvious should not be made — that Soviet pressure should be countered wherever it is met by approaching the brink of war and staring the Russians down.
+In Cuba, and to a lesser degree in the Middle East, the United States held certain advantages.
+This will undoubtedly not be true in all future crises, and the decision concerning the most appropriate action should be based upon each peculiar situation and the relative merits of the alternatives as they exist at that time.
+Diplomatic bluffs, official secrecy, and public silence invite strategic challenge.
+The analysts of these three crises points to an increasingly important role for international diplomacy in future crises.
+The new emphasi9 on skilled statecraft has been precipitated by greater high level, personal diplomacy, the advent of the ""hot line"" and improved methods of communication, and the extraordinary and improvised techniques of diplomacy exercised by Henry Kissinger.
+The great powers continue to show an increased understanding and sophistication in the handling of crises.
+There appears to be a continuing distrust of military intelligence by political decisionmakers despite increasing dependence on intelligence estimates in selecting and implementing foreign policy.
+There is also a tendency for great power rivalries to be played out by proxy.
+The dangers of direct confrontation in a nuclear age are well recognized.
+The strength of the current Soviet-American detente appears to be capable of weathering serious crises.
+Both the United States and the USSR appear to be learning that they have more to gain by cooperation than by confrontation.
+This appears to be true despite past failures of these techniques and the tendency to evoke a reaction opposite from that intended.
+Political, economic, and military interdependence among nation-states is increasing.
+Time and chances of survival are much less and the decision to make a preemptive strike would be much more difficult.
+Strategic surprise short of nuclear attack, as experienced in Cuba and the Middle East, will undoubtedly occur in the future.
+We must be able to assemble seemingly irrelevant lists of intelligence within a viable conceptual framework, and to act decisively to avoid escalation or to counter certain attack.
+There is a need to acquire greater diversity of viewpoints in the intelligence community and to encourage intellectual debate with nongovernmental scholars and specialists.
+Facts which seem to contradict ""official intelligence policy"" or ""higher documents"" should not automatically be dismissed or surpressed.
+The greatest danger to the effectiveness and utility of military planning documents is their tendency to inbreed.
+While experience and some degree of specialization is essential, overspecialization in strategic intelligence should be avoided to reduce the tendency for ""behavioral surprise."" l Roberta Wohlstetter, Pearl Harbor—Warning and Decision , 1962, 389.
+Frequent rotations of duty and diversification of training should therefore be encouraged.
+This is particularly important for civilian personnel who may not have the enforced mobility of their military counterparts.
+Personal and improvised methods of diplomacy and strategy formulation should be utilized to the greatest extent practicable.
+Although this information is basically correct and complete, it is frequently difficult to analyze.
+It does not adequately inform decisionmakers of enemy strategy, perceptions, and intentions.
+Data collected in this manner is particularly relevant to probable future crises which will involve proxies, which will be played out in precise, defined limits, and which will, during the period of detente, involve personalized, high-level diplomacy rather than unlimited military conflict.
+Dependence on second sources and the information provided by the agencies of friendly governments may be useful but problems of context, bias, and special interest make analysis difficult.
+In such an environment, additional emphasis should be given to on the ground cloak and dagger intelligence gathering activities.
+Renewed emphasis should be given to the development of additional strategic airlift capabilities and troop mobility.
+These capabilities are essential to the maintenance of a credible deterrent and the ability to exercise graduated responses.
+Interdependence and the increasing importance of embargoes in diplomacy dictate that a major analysis should be made to determine United States dependency on foreign sources of vital raw materials and the potential for conflict, shortages, and blackmail.
+A major effort should then be undertaken to develop substitutes for those endangered products or to develop the capability for synthetic manufacture to satisfy future military requirements.
+This was done with rubber after the Japanese aggression and important new fuel substitutes will undoubtedly result from the latest Middle East crisis.
+Anticipation of future needs and a major research and development program could give the United States a significant strategic advantage in future crises as well as perform a major scientific and economic service for the nation and the world.
+Pearl Harbor, Cuba, and the Middle East ""1 I) n Intelligence processed and evaluated within framework of stereotypes and preconceived notions.
+Tt.is would serve to increase training for leaders at the highest levels of government in the delicate art of crisis management and would perhaps increase the potential recognition of signals to head off future crises.
+Since misperception of United States will is often a result of a lack of public awareness, increased attention should be given to avoiding unnecessary classification and official secrecy.
+UNCLASSIFIED UNCLASSIFIED APPENDIX A CHRONOLOGY— PEARL HARBOR ATTACK 27 Jan — The United States Ambassador to Japan, Joseph C Grew, obtained information from the Peruvian Ambassador in Tokyo and from several Japanese sources that Japan was planning a possible surprise attack on Pearl Harbor employing all of her strength and equipment in the event of trouble breaking out between the United States and Japan.
+Foreign Minister Matsuoka was replaced by Admiral Toyoda, expected to be friendlier to the United States.
+Japan was thus forced to accept American demands for withdrawal from China and Indochina or obtain raw materials elsewhere.
+The United States, however, had to restore free trade with Japan, discontinue aid to China, press the Chinese to accept a treaty favorable to Japan, and recognize Japan's special interests in Indochina.
+UNCLASSIFIED UNCLASSIFIED 17 Aug — Roosevelt rejected Prime Minister Konoye's proposal for a summit meeting by insisting that agreement on fundamental principles first be reached at the ambassadorial level, ft Sop — TheJapanese Imperial Conference, in a meeting with Emperor Hirohito, decided on war if agreement with the United States was not reached by early October.
+Admiral Isoruku Yamamoto had been in charge of the preparation of these plans since he conceived the attack in January 1941.
+Washington received word that a fleet of 30 to 50 Japanese ships transporting five divisions of troops had been sighted off Formosa.
+Hull informed War Secretary Stimson that negotiations had probably ended. — Roosevelt directed notification of Hawaiian commanders that negotiations with Japan had virtually collapsed and that further Japanese aggression was possible.
+UNCLASSIFIED UNCLASSIFIED APPENDIX B CHRONOLOGY— CUBAN MISSILE CRISIS 29 Jul5 Aug — Cuban refugees noted an ""unusual number"" of ships unloading cargo and passengers at the ports of Havana and Mariel.
+These officials were stunned since Soviet leaders, publicly and privately, had offered assurances for weeks that no missiles would go to Cuba.
+UNCLASSIFIED UNCLASSIFIED 18 Oct — The JCS and Dean Acheson called for immediate military action.
+Kennedy's planned address to the nation. — President Kennedy addressed the nation on the discovery of ""offensive"" military weapons in Cuba. — UN Ambassador Adlai Stevenson requested an immediate Security Council meeting to discuss the crisis. —Secretary Rusk called for an emergency meeting of the Council of the OAS. — The Department of Defense put all United States military forces throughout the world on alert.
+UNCLASSIFIED UNCLASSIFIED 23 Oct — President Kennedy announced a ""quarantine"" around Cuba to interdict offensive weapons. — Soviet submarines were reportedly moving into the Caribbean. — A number of United States reserve units were mobilized.
+All Soviet and Warsaw Pact forces were put on alert. —Former Secretary of State Dean Acheson flew to Paris to brief NATO officials on the Cuban crisis. — In a television address, Premier Castro denied Soviet military equipment in Cuba was ""offensive."" — The Cuban military and the civilian population were placed under full mobilization.
+Twelve other Soviet ships reportedly altered course. — UN Soviet Ambassador Zorin charged United States photographs were false and stated that the Soviet Union had no offensive weapons stationed outside the USSR. — A White House press release reported new intelligence data showing that the Soviet missile buildup was continuing at a rapid pace.
+Since this was not a Soviet ship, it did not force the Russians to react in anger. — The President ordered the State Department to devise plans for a civil occupation government in Cuba. — A letter from Khrushchev indicated removal of the missiles might be arranged if the blockade were lifted and the United States assured there would be no Cuban invasion.
+UNCLASSIFIED UNCLASSIFIED 27 Oct — Khrushchev proposed a swap of Cuban bases for NATO bases in Turkey.
+This letter was much more ominous than the one received the previous day since it seemed to threaten a Russian invasion of Turkey if the United States attacked Cuba.
+The United States naval blockade and aerial surveillance was temporarily suspended while U Thant discussed with Castro supervision of dismantling of the Soviet missile bases.
+Subsequently, the Soviet Union proposed that a Red Cross group, or observers from the diplomatic corps in Cuba, might be used to supervise the dismantling and return of the missiles to the Soviet Union.
+Khrushchev announced that the 40 Soviet missiles emp laced in Cuba were now on their way back to the Soviet Union.
+UNCLASSIFIED UNCLASSIFIED 26 Nov — The United States rejected a joint Soviet-Cuban memorandum urging immediate United States guarantees not to invade Cuba.
+The United States refused to give such a pledge until there had been on-site inspection and verification in Cuba as Khrushchev had agreed in his 28 October letter 3 Dec — The Defense Department announced that the approximately 40 IL-28 bombers in Cuba were being returned to the Soviet Union.
+Algeria also reported planes were being sent to aid the fight in Egypt. —President Nixon instructed Kissinger to request a meeting of the UN Security Council.
+Iran welcomed the Iraqi gesture. — Herzog said that Israeli armored reserves had been mobilized and that the initiative was now in Israeli hands. — Saudi forces were alerted. — Egyptian commandos engaged Israeli troops at Sharm al-Shaykh. — The United States asked the UN Security Council to halt the fighting and to restore the ceasefire lines that existed on the morning of 6 October.
+The USSR expressed support for Egypt and Syria by opposing the plan. — The Sudan announced several armed units were being sent to the battlefront.
+Egypt continued to send men and supplies across the Suez Canal. — Israel reported Syria had launched 20 Soviet-built Frog rockets against Israeli civilian settlements. — Israeli jets raided Damascus and bombed the Soviet Cultural Center, reportedly killing six Russians.
+UNCLASSIFIED UNCLASSIFIED 10 Oct — The United States said the Soviet Union was resupplying Syria and Kgypt and that this would put a ""new face"" on the conflict.
+A White House spokesman said it would create ""serious difficulties"" between the United States and the USSR if continued.
+He said Egypt had missiles capable of hitting any part of Israel but that the Arabs do not call for the ""annihilation"" of Israel. —Kuwait announced a contribution of $350,000,000 to the war effort. —US officials said 25 F-4 Phantoms and 50 A-4 Skyhawks were being rushed to Israel to replace losses.
+He added Israel was prepared to make ""substantial compromises"" for a final settlement ""provided that our basic security is not affected."" — Eleven Arab oil-producing countries meeting in Kuwait announced that oil exports to countries ""unfriendly"" to the Arab cause would be reduced by 5 percent each month until the land occupied by Israel since 1967 is evacuated. —Soviet Premier Aleksei Kosygin arrived in Cairo for talks with Sadat . — Arab diplomats met in Washington with President Nixon to propose a peace plan and to urge direct United States participation in mediation efforts.
+UNCLASSIFIED UNCLASSIFIED 18 Oct — Abu Dhabi announced a halt in all oil exports to the United States.
+Saudi Arabia said it was immediately cutting oil production by 10 percent to pressure the United States and warned that all oil exports would be cut if the United States continued to aid Israel.
+Tank and artillery battles were reported on the Golan front. — Nixon asked Congress for $2. billion for emergency aid to Israel. — Libya ordered a ban on all exports to the United States and raised the price of oil from $4.90 to $8.92 per barrel.
+Israel accepted the ceasefire proposal. — Kissinger arrived in Israel from Moscow for talks with Israeli leaders. —Israel announced it held an area 20 miles deep toward Cairo and 33 miles along the Canal, from the outskirts of Ismailia to 7 miles north of Suez city. — Evening : Sadat announced Egyptian acceptance of the ceasefire on the condition that Israel simultaneously adhere to the resolution calling for withdrawal. — The ceasefire went into effect on the Egyptian front at 6:52 pra, but fighting continued in Syria.
+Jordan announced acceptance, but added that its troops in Syria were subject to Syrian command.
+UNCLASSIFIED UNCLASSIFIED 23 Oct — Heavy fighting resumed on the Egyptian front with both sides accusing the other of violating the ceasefire. — Israeli troops on the west bank of the Suez surrounded the city of Suez and cut off completely the Egyptian 3rd Army on the east bank of the Canal. — Dayan proposed a new ceasefire. — The USSR accused Israel of violating the ceasefire and warned of ""gravest consequences"" if fighting continued.
+The statement called on Israel to pull back to the ceasefire lines of 22 October. —The UN Security Council passed Resolution #339 calling for a ceasefire and the assignment of UN observers to supervise the ceasefire line.
+He added that Israel would enter negotiations with the position that ""everything is negotiable."" — Sadat appealed to the United States and the USSR to send troops to police the ceasefire.
+The United States rejected the appeal ^ and expressed the hope that other outside powers would not send troops to the Middle East.
+The Security Council voted 14 to to establish an emergency peace force to insure the ceasefire. — Egyptian spokesman Ashraf Ghurbal denied there were any Soviet troops in Egypt to enforce the ceasefire.
+One hour later, Israeli General Aharon Yariv met with an Egyptian general under UN auspices on the Cairo-Suez road and arranged for a convoy of Egyptian trucks to take non-military supplies to the trapped Egyptian 3rd Army.
+The Israelis stated they had agreed to the resupply only at American insistence.
+In addition, Israel agreed to allow nonmilitary supplies to pass tnrough its lines to Egyptian troops isolated east of the Suez Canal.
+Jagan and obtain required natural resourcea. 5lgnl.*i<*«Soviet, •ought to alter world strategic balance and Significant.
+Sovleta •ought to expand Influence in HE but her lntereat in IMPACT OF ALLIES' INTERESTS Minimal.
+Both United States and baali of national concerned acted primarily Limited.
+Data good, perceived Arab li perceived United States pi ALTERNATIVES Limited . only obtain ty through S After DECISIONMAKING PROCESS re left to determine ing.
+Prentice Hall, Inc., 1969, 127: ""Refining Deterrence Theory: The Japanese Attack on Pearl Harbor,"" by Bruce M Russett.
+An Ana lysis of Policy Formulation in Terms of Current Decision Making Theory.
+Investigations of the Preparedness Program, Interim Report on Cuban Military Build-up . 88th Congress, 1st Session, 1963.
+PERFORMING ORGANIZATION NAME AND ADDRESS United States Army War College Strategic Studies Institute, Carlisle Barracks, Pa.
+KEY «OROS (CMIM en nnt„ M4* II iwmmr «* U-Mt, *r Mm* mmHrj Political, military, intelligence, economic and sociological factors, long-range strategic planning.
+M 1473 COITION OP < NOV M IS OBSOLETE UNCLASSIFIED SECURITY CLASSIFICATION OF THIS PAG UNCLASSIFIED • CURITY CLASSIFICATION OF THIS »A0eMHnn DM gm.r.rf) areas of belief systems and decisionmaking have long held that analysts seldom review incoming information objectively.
+Instead, such information is usually unconsciously fitted into preexisting intelligence positions and preconceived behavior patterns or else simply disregarded as irrelevant or erroneous This study attempts to validate and expand these conclusions, to examine reasons for the successes and failures of diplomacy and to identify relevant trends and commonalities in these three crises upon which to base useful recommendations for improved strategy formulation.
+In each case, it was found that the actors responded on the basis of their own national interest, within the constraints of a short timeframe, and with a rather limited choice of alternatives.
+Each crisis was preceded by numerous indicators which were incorrectly analyzed by United States officials because of preconceived notions, stereotypes, and personal biases.
+Enemy analysts also misperceived United States national and popular will to resist their strategic challenge.
+Researchers in the area decisionmaking have long held that analysts seldom review incoming information objective mation Is usually unconsciously fitted into preexisting intelligence positions and precc or else simply disregarded as irrelevant or erroneous.
+This study attempts to validate slons, to examine reasons for the successes and failures of diplomacy, and to identify issile Crisis, and in re uncertain about what i of belief systems and Instead, such laforiceived behavior patterns ind expand these conclu.lalities in these three crises upon which to base useful recommendations for Improved strategy formulation.
+Enemy analysts also mlsperceived United States national and popular will to resist their strategic challenge.
+January 1941-October 1973 Descriptors : Political, military, intelligence, e Classification : CONFIDENTIAL tors, long-range strategic planning.
+Researchers in the areas of belief systems and decisionmaking have long held that analysts seldom review incoming information objectively.
+This study attempts to validate and expand these conclusions, to examine reasons for the successes and failures of diplomacy, and to identify relevant trends and commonalities in these three crises upon which to base useful recommendations for improved strategy formulation.
+In each case, it was found that the actors responded on the basis of their own national Interest, U) within ■ short timeframe, and with a rather limited choice of alternatives.
+November 1973 Completion Date : January 1974 Availability Date : January 1974 J preceded by numerous indicators which stereotypes, and personal biases.
+Political, military, intelligence, Classification : CONFIDENTIAL c and sociological factors, long-range strategic planning.

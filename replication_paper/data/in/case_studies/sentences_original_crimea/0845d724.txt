@@ -1,0 +1,246 @@
+The views, opinions, and findings should not be construed as representing the official position of either the Department of Defense or the sponsoring organization.
+Introduction In February 2014, after a decade of increasingly destabilizing political confrontations, Ukrainian nationalists ousted the Russian-supported Ukrainian government in what became known as the Maidan Revolution.
+Russian annexation of Crimea and covert support for “Ukrainian Russian Separatists” in the Eastern Oblasts of Ukraine soon followed.
+Nine months later, the Russian military intervened overtly in support of the Ukrainian Separatist forces.
+The conflict has settled into a large, complex example of Hybrid warfare in a context reminiscent of static military operations during World War One.
+Interest in mining the lessons emerging from Ukraine has been strong from the conflict’s beginning.
+If, as some have argued, the conflict in Ukraine represents a 21st-century version of the Boer War or the Spanish Civil War—where emerging military technologies and concepts were employed in a nascent form but pointed the way toward a disruptive future—then much more needs to be done to develop lessons in the broad middle.
+For example, European military observers of the Boer War noted the effects of machine guns and barbed wire on traditional infantry assault tactics, but these insights were never contextualized for potential war in Europe or war between major powers.
+The failure to do so clearly contributed to the murderous battlefield conditions of World War One a little more than a decade later.
+Learning lessons from these kinds of conflicts requires an integrated approach.
+Direct lessons applicable to current capabilities are often obscured by the particular economic, political, and social characteristics of the participants.
+Projecting these lessons into the future and more importantly, into conflicts of a different character from the one being examined, requires a different approach.
+Lessons Learned Efforts Regarding the Conflict in Ukraine Following the removal of pro-Russian President Viktor Yanukovych in 2014, Russia intervened militarily in Ukraine, first to annex Crimea and later to support a separatist uprising in a region of eastern Ukraine known as the Donbas.
+Russia initially denied being directly involved in the conflict in eastern Ukraine, despite the presence of significant Russian paramilitary forces, but abandoned plausible deniability when it overly committed regular Russian military units in August 2014.
+Fighting between separatists and the Ukrainian military has continued ever since, often with the participation of Russian units and frequently interrupted by temporary ceasefires.
+Soon after the conflict in Ukraine began, Western observers began collecting information on its conduct and trying to identify lessons.
+The purpose of this chapter is to characterize those efforts, to identify existing functional or temporal gaps in the literature, and to identify ways forward to address gaps and best utilize lessons learned efforts.
+To best characterize and assess prior work, the study compiled literature from a wide range of military and academic sources to contextualize the breadth of lessons learned efforts.
+In particular, the study focuses on operationallyand tactically-focused analyses of Russian and Ukrainian efforts in Crimea and the Donbas that were published between 2014 and 2018.
+The existing lessons learned literature varies in form and focus by the organization that created it.
+Academic contributions are largely structured as geopolitical overviews of the conflict or as high-level discussions of the nature of hybrid warfare—and were not central to the research conducted for this paper—but several academic institutions contributed important portions of the available literature.
+Phillip Karber, the Potomac Foundation president whose firsthand accounts at the front in Ukraine comprise a large portion of the lessons learned efforts in the conflict’s early years.
+Several prolific authors on the subject— including Major Amos Fox, an Army operations officer who has reported extensively on the conflict—rely heavily upon Karber’s work for source material.
+However, Karber’s sourcing should be considered with his particular bias in mind.
+Karber has long advocated for nonlethal and lethal military aid to Ukraine.
+He also relied largely upon memory in his recollections of interactions in country, providing no notes and little documentation to confirm his details.
+Karber’s work centrally among reporting on the early years of the conflict.
+One such publication, The Journal of Slavic Military Studies, was significant among the literature studied, focusing on the nature of future Russian warfare.
+Numerous Army organizations produced literature on Ukraine from 2015–18, including military lessons learned from the Army’s Foreign Military Studies office, the Army War College, the Army Command and General Staff College, Army Training and Doctrine Command, and the Modern War Institute.
+This is somewhat expanded in other sources within the Department, which include documents from the Joint Forces Staff College and various military journals and quarterly publications.
+Several recent theses from the Air War College address Russia’s hybrid warfare in Ukraine, but the implications on aerial warfare remain largely unexplored in the literature.
+NATO’s literature on the subject mainly characterizes high-level implications of hybrid and non-linear warfare in the European context, leaving a significant space unexplored by a prominent organization with interests in understanding the Ukrainian conflict.
+In general, the existing lessons learned efforts offer high-level geopolitical and tactical analyses, implications for the Ukrainian conflict, and focus on the land domain, which in turn reveals significant shortfalls in applying lessons learned to other conflicts.
+Due to the focus on geopolitical context or tactical and operational levels, few of the non-technical lessons can be applied to potential European conflicts with presumably different contexts or characteristics, nor to contests in other regions that may not bear much resemblance to the Ukraine conflict.
+These other conflicts will also occur across many domains, extending beyond land and the limited discussion of other domains covered in this body of literature.
+Lessons Learned Regarding Russian Military Operations in Eastern Ukraine While the conflict in Ukraine has remained relatively limited, Russia has nonetheless used some of its best units to conduct modern military operations against a capable opponent.
+In doing so, Russia has revealed capabilities and concepts that offer important lessons for the United States and NATO as they refine their capabilities, posture, and plans to deter Russian aggression.
+This chapter highlights key trends in Russian military operations in eastern Ukraine, focusing on force structure and personnel, ground operations, air operations and air and missile defenses, and information operations.
+Special Operations Forces in Crimea The takeover in Crimea was led by Russian Special Operations Forces , taking advantage of the presence of Russian forces and facilities on the Crimean peninsula supporting the Black Sea fleet.
+Russia has various groups within its ground forces that fit under the special operations label— Spetsnaz in Russian—but only recently established a dedicated SOF Command to oversee specialized, independent combat units.
+In contrast to Russian special reconnaissance forces, which typically conduct tactical support missions behind enemy lines, the units in SOF Command conduct direct, independent military operations.
+These units deployed to Crimea and led the nonviolent takeover, but there is no evidence that they have been involved in the fighting in eastern Ukraine.
+Paramilitaries Supported by Train and Equip Activities In eastern Ukraine, the fighters collectively included under the umbrella of Ukrainian separatists are made up of a number of groups with differing levels of affiliation with the Russian government.
+The first category of fighters are pro-Russian Ukrainian separatists that live in Ukraine and oppose the government.
+In some cases, these may be ethnic Russians that have been turned against the government in Kyiv by Russian propaganda and covert operatives.
+Agents from both the Main Intelligence Directorate and the Federal Security Service are operating in Ukraine.
+After the conflict broke out, Russian special forces and intelligence operatives trained, equipped, and organized many separatists.
+A second category of Russia-affiliated fighters in Ukraine are paramilitary groups, such as the Russian Orthodox Army, Night Wolves, Cossack paramilitaries, and Chetnik Guards.
+These groups often have members from both Russia and Ukraine, many of whom have military backgrounds or are on leave from the Russian Army.
+More than half of the Russian nationals who have fought in eastern Ukraine have been nongovernmental volunteers recruited by these organizations, not official Russian soldiers.
+The primary advantage of separatist and paramilitary units is that they function as a force multiplier.
+Russia is able to hold territory and frustrate Ukrainian military advances without committing a significant number of troops.
+It is also able to avoid sending in conscripts who are unreliable and, when significant numbers die, a political liability.
+While these groups operate quasiindependently, they have been far more effective because of Russian training, equipment, and direction.
+Paramilitary groups often conduct operations in coordination with regular Russian military units and have benefited from Russian operational and tactical reinforcement at key moments.
+Irregular units provide other advantages, including the ability to blend in with the local population.
+Russia’s Use of Military Power in Ukraine (Fort Leavenworth, KS: The Foreign Military Studies Office, 2015), 19.
+The Critical Role of Information Operations and Special Operations,” Small Wars Journal, , smallwarsjournal.com.
+In other instances, separatist forces have blended in with the civilian population to avoid direct attack or to sabotage Ukrainian ammunition depots.
+Russian Military Battalion Tactical Groups The regular Russian Army units that have overtly participated in the conflict in eastern Ukraine have been organized as BTGs.
+Generally, they have been held in reserve, then committed to critical engagements to help the separatists take and hold territory.
+Russian BTGs are combined arms formations organized around a particular mission.
+They are usually composed of a tank company, three mechanized infantry companies, an anti-armor company, 2–3 self-propelled artillery batteries, a multiple launch rocket battery, and two air defense batteries.
+Jean, and Kurt Ebaugh, “Ukrainian LL News From The Front,” Center for Army Lessons Learned, United States Army Combined Arms Center, 10 Nov 2016, 5.
+Combining separatist and regular BTGs, Russia has effectively degraded Ukrainian military forces with longrange artillery and rocket fire.
+Russia’s preferred concept of operations has been to keep its fires units at a safe distance, while relying on drones, counter-battery radars, and other intelligence, surveillance, and reconnaissance assets to target over the horizon.
+The observed combination of increased range and precision tracks with a general trend noted worldwide, particularly with multiple rocket launchers.
+As a result, Russia has on numerous occasions successfully blunted Ukrainian operations while avoiding significant casualties.
+Ukraine, on the other hand, is estimated to have suffered 80% of its casualties from artillery fire.
+The increased lethality has required fewer rounds, yet Russia has also demonstrated that it retains the ability to mass large volumes of fires when necessary.
+Using different types of drones, operating at various altitudes, Russia has enhanced the speed of its targeting for extended-range indirect fires.
+The SAIC Strategic Analysis & Assessments group, drawing on on-the-ground reporting by Dr.
+The most notable aspect of Russia’s use of drones in the Donbas is not the mix of vehicles themselves or even their unique characteristics but the ability of Russian units to integrate multiple sensing platforms into a real-time targeting system.
+By emphasizing overhead surveillance at tactical and operational ranges, Russia has been able to identify Ukrainian positions, combine multiple sensor inputs, and promptly deliver high-lethality indirect fires via artillery and rockets.
+Then, once Ukrainian units have been weakened, Russia at times has followed with direct armor and sniper engagements.
+What the United States Army Must Learn from the War in Ukraine,” Association of the United States Army, 16 Apr 2018, www.ausa.org.
+Implications of Ukraine for United States & Allies, Briefing for 1st Special Operations Command, United States Army, Ft.
+The United States, by contrast, often attempts to synchronize artillery strikes and infantry maneuver.
+Ukrainian units report that once a Russian unmanned aerial vehicle is spotted they may receive artillery strikes within minutes.
+Three factors have enabled Russia to conduct indirect fires with ruthless efficiency.
+Second, only Russian Army units are operating in eastern Ukraine, which makes it easier to plan and conduct strikes quickly without joint coordination or worry about fratricide.
+Third, Russia is not as concerned with collateral damage as the United States would be, which reduces the information required for strike planning.
+Russia has been willing to conduct area fires using Multiple Launch Rocket Systems and has increased effectiveness by relying on Dual-Purpose Improved Conventional Munitions, sensor-fused weapons, scatterable mines, top-attack munitions, and thermobaric warheads, many of which the United States does not field.
+With increased precision and specialized warheads such as Dual-Purpose Improved Conventional Munitions and sensor-fused weapons, the threat to lightly armored vehicles has increased.
+To conserve weight, most light armored vehicles have minimal top armor and are generally designed only to withstand shrapnel from airbursts.
+Improvised explosive device attacks in Iraq and Afghanistan have understandably focused attention on the vulnerable underside of vehicles, resulting in many vehicles being modified with increased under-vehicle and side armor and v-shaped hulls, but the Ukraine conflict has highlighted the vulnerability to top attack as well.
+Ukrainian units operating light-armored vehicles, in particular, have suffered significant, at times catastrophic, losses.
+Indeed, Ukrainian infantry units have taken to riding on top of light-armored vehicles and conducting dismounted assaults to avoid being trapped inside burning vehicles.
+Another response by Ukraine has been to increase reliance on prepared defenses.
+Russian targeting and maneuver have been supported by advanced electronic warfare and cyber capabilities.
+Russia has used jammers to disrupt communications and data links and to 15 Fox and Rossow, “Making Sense of Russian Hybrid Warfare,” 10.
+Lessons, 20. 9 conceal its maneuver units and advanced emission sensors to detect Ukrainian headquarters, operations centers, and maneuver units.
+Russian units have jammed and downed Ukrainian drones by disrupting their Global Positioning System links.
+They have also shown an ability to use their EW and cyber assets to detect electromagnetic emissions, geo-locate cellular phones, and generate targeting information for artillery strikes.
+As a result, Ukrainian units now view nearly all emissions as targetable and have been forced to operate with significantly reduced communications and coordination.
+Russia’s BTGs have also employed modern heavy tanks—primarily T-72B3s, T-80s, and T90s featuring reactive armor—to conduct effective assaults against Ukrainian positions already softened by artillery fire.
+The Ukraine war has reinforced the difference between United States and Russian concepts of armor.
+According to analyst Keir Giles, Unlike Western tank designs, which are optimized for defending a series of positions while falling back in the face of superior numbers, Russian tanks have traditionally emphasized features that allow speed, transportability, low observability, and, more recently, armor enhancements and defensive aids to further minimize losses while assaulting defended positions.
+At the start of the war, Ukrainian armor units were poorly trained, operating outdated and poorly maintained equipment, giving Russia a significant advantage.
+But even as Ukrainian tank proficiency has grown and Ukrainian infantry units have acquired modern anti-tank guided missiles, Russian armor has posed a significant challenge to Ukrainian forces.
+Air Operations and Air and Missile Defenses Another notable aspect of the conflict in eastern Ukraine has been the near absence of air power on both sides.
+Carrying out extensive air operations might have motivated the United States or Europe to respond more forcefully to Russia’s involvement.
+Second, Russian integrated air defense has been extremely effective, which has significantly reduced the need for counter-air operations.
+On the Ukraine side, air operations have not been viable for operational reasons.
+In 2014, Ukrainian aviation units had old platforms and were poorly trained, which made both fixed-wing aircraft and helicopters exceptionally vulnerable to Russian defenses.
+After suffering significant early losses, the Ukrainian military quickly all but abandoned close air support.
+Russia’s air and missile defense system consists of an integrated, overlapping network of operationaland tactical-level capabilities.
+Those operational capabilities are supplemented by tactical surface-to-air missile systems and man-portable air-defense systems that deploy with Russian and separatist BTGs.
+Many tactical systems are netted together with each other and operational-level defenses.
+Information Operations A final important aspect of Russian military operations in Ukraine has been the use of information operations.
+Russia has noted the importance of public opinion in Russia, Ukraine, and other countries—notably European powers and the United States—and aligned its message and operations to achieve desired outcomes.
+Russia is intervening to protect ethnic-Russians under assault from an illegitimate government in Kyiv.
+Even before the conflict, Russian propaganda arms were used to delegitimize the government in Kyiv and generate support for Moscow among the Russianspeaking population in eastern Ukraine.
+During the conflict, Russia continues to sell its story to this audience and others to improve its chances of operational success.
+Russia has also been cognizant of limiting its operations to avoid provoking a backlash.
+As noted above, Russia has shunned air operations to make its involvement appear more limited.
+For 29 United States Army Asymmetric Warfare Group, Russian New Generation Warfare Handbook, 8. 12 similar reasons, Russia has shown a preference for siege warfare in order to slowly achieve political gains.
+If, instead, Russia had achieved quick decisive gains by pummeling the Ukrainian military, the resulting casualties might have set off an international reaction.
+At the same time, Russia has attempted to demoralize Ukrainian troops and the Ukrainian population.
+Using its EW and cyber capabilities, Russia’s military has hacked into cell networks and sent targeted messaged to Ukrainian troops and their families.
+It has also aggressively conducted cyber operations to disrupt Ukrainian government and business activity and to intimidate Ukrainians and those who might support or do business in Ukraine.
+In various ways, Russia has taken steps to ensure that its message dominates.
+Moscow has made a concerted effort to build up its media presence in Russian-speaking areas along its periphery.
+Moreover, in both Crimea and eastern Ukraine, Russia made a point of taking over media outlets so it could control what message was disseminated to whom.
+Implications for the United States Military In drawing implications from the Ukraine conflict for the United States military, caution is warranted.
+Rather than seek to invade and conquer Ukraine, Russia has instead supported local separatists in the Donbas in an attempt to create a frozen conflict in pro-Russian areas of Ukraine.
+With this limited objective, Russia has used limited means, relying primarily on paramilitaries to do its fighting.
+Even when Russia has employed regular units against Ukrainian forces, its full capabilities have not been required.
+Ukraine’s military, while modern in many respects, does not approach the capability of a US-led NATO force.
+It is possible, and even likely, that Russia would employ different concepts of operation in a more serious engagement with a better trained and equipped US-led force.
+BTGs Perhaps the most important question for United States analysts is the extent to which Russia is likely to continue to rely on BTGs.
+There are indications that Russia plans to substantially increase the number of BTGs in its force structure.
+In this regard, there are signs that the Russian military is preparing for future conflict by reverting to a divisional model that emphasizes larger, heavier formations.
+For example, Russia has moved significant heavy forces from east to west by rail in recent military exercises.
+If Russia did emphasize BTGs in a conflict with NATO, these units would have a number of clear advantages and disadvantages.
+The main advantage of BTGs is the speed with which they can maneuver and conduct long-range fires.
+With organic air defense and ISR, units conducting tactical and operational fires each have their own capability to locate, target, and strike while providing for their own defense.
+BTGs posed a problem for Ukrainian forces because a standard Ukrainian mechanized brigade was often outgunned.
+The United States, therefore, might require more than one organic field artillery battalion in an Army BCT in order to match Russian BTGs.
+Russia gains speed in their indirect fires cycle by delegating to maneuver units with significant organic capability.
+But while these tactical units have operational-range fires, they are not well coordinated with still longer-range indirect fire capabilities that are controlled at the operational level and higher.
+BTG commanders do not have control over operational-level fire support assets, which can limit their operational effectiveness.
+According to the United States Army Asymmetric Warfare Group, Troops have to wait for a bombardment to stop and advance after volleys have ended or assets have completed their mission.
+This indicates a low proficiency in battle tracking which results from the Post-Soviet mission command style.
+Operating Under Threat of Surveillance and Targeting Electronic warfare will be a significant part of any future contest with Russia.
+In Iraq and Afghanistan, the United States military has enjoyed near-constant control of the air and the electronic spectrum.
+How Should the United States ABCT Be Organized and Equipped to Address the Current Hybrid Threat (Fort Leavenworth, KS: United States Army Command and General Staff College, 2017), 127.
+Russia, by contrast, has demonstrated that it can efficiently integrate multiple sources of ISR—overhead surveillance, electronic detect, spotters, and other means—into its targeting cycle.
+Operations centers need to limit communications, reduce or conceal the physical footprint of their antennas, and enhance their ability to relocate during an ongoing engagement.
+The United States concept of operations for drones is to launch and recover at a location that remains static during the course of a flight operation; against Russia, this location is likely to be targeted by long-range fires.
+Maneuver units must also be able to operate with a limited electronic and physical signature.
+The United States military requires secure, jam-resistant, low-probability-of-detection means of horizontal and vertical communication.
+In this regard, the Army is emphasizing high frequency radios for the former and frequency modulation radios for the latter.
+But there will be a constant competition between means of communication and adversary electronic detection and jamming capabilities.
+In addition, the United States Army must also reemphasize camouflage, concealment, and deception techniques.
+Operating in the Donbas, Ukrainian mechanized units that come to a temporary stop quickly camouflage with netting so that they look like vegetation clusters to overhead surveillance.
+NATO mechanized units, by contrast, generally rely on speed and maneuver, not camouflage, for survivability.
+On the modern battlefield with shorter targeting cycles for artillery and rocket fires, this approach may not be viable.
+Finally, United States maneuver units must be better prepared to disrupt enemy ISR and fires.
+Tactical ground units need organic, cost-effective UAV defenses—EW and kinetic—and improved counterbattery capabilities and training.
+Operating Without Air Superiority The Ukraine conflict demonstrates that the United States military will not be able to rely on uncontested air superiority in future high-end conflicts.
+The United States relies almost exclusively on airborne ISR, but in plausible Baltic conflict scenarios, Russian integrated air and missile defenses will cover some if not all of the battlefield.
+For the Air Force, this requires renewed emphasis on suppression of enemy air defense, offensive counter-air, and defensive counter-air against high-end surface-to-air missiles and fourth and fifth generation fighters.
+Army, Marine, and Air Force aviation units all need to prepare to provide close air support in a heavily contested environment.
+The Army and Marine Corps must be prepared to engage the enemy in high-intensity conflict without consistent, on-call ISR, close air support, or medical evacuations.
+Both services should consider pushing more organic capability to maneuver units, including counter-battery, air defense, and electronic warfare capabilities, so they are able to disrupt enemy fires without air support.
+They might also need to explore new tactics, such as deemphasizing helicopters, using difference concepts of operation for medical evacuations, or conducing suppression of enemy air defense operations with ground forces.
+Logistics At the theater-strategic level, the Ukraine conflict has demonstrated that Russia can rapidly move and concentrate forces from across the country.
+In a future conflict in Eastern Europe, the United States and NATO will not necessarily have a long period of warning provided by the buildup of Russian forces, which in turn may limit the period available to reinforce United States forces in Europe.
+In the area of sustainment, both sides in the conflict have reportedly experienced high expenditures of ammunition for indirect fire weapons.
+In a future conflict, the speed of Russian operations may be constrained by the supply of indirect fire munitions near the front.
+In Ukraine, Russia has often negotiated cease-fires, which were likely partially motivated by the need to resupply artillery units.
+In this regard, a future conflict with Russia may be characterized by short periods of intense fires, followed by hours or even days of resupply, then a resumption of hightempo operations.
+Responding to Hybrid Warfare At the strategic level, Russia’s activities in eastern Ukraine provide a blueprint for future hybrid warfare in the Baltics.
+A key aspect of the Russian approach and strategy is to capitalize on the presence of significant numbers of ethnic Russians living in the target country or area.
+These persons provide both the pretext for Russian intervention and the basis for the formation of indigenous resistance forces.
+United States and NATO forces, therefore, must be prepared to operate against a force consisting of paramilitaries and regular Russian units that are coordinating their activities.
+Paramilitaries will be a force multiplier for Russia in conventional operations, while also serving as an irregular warfare asset.
+As they have in Ukraine, paramilitaries may conduct reconnaissance or sabotage operations while blending in with civilian populations.
+Having to worry about high-end fires and insurgency tactics simultaneously will be a difficult challenge for United States and allied units.
+Incidents between United States forces and local citizens, whether real or fabricated, will be exploited to undermine the confidence of the target country’s populace and foment animosity toward United States and NATO forces.
+The United States and its allies, therefore, must be prepared to counter Russian information warfare by effectively disseminating their own narrative lest they lose local popular support.
+Implications of the Ukraine Conflict for Future Warfare Significant attention has been paid to the tactical and technical lessons from Ukraine for potential future conflicts with Russia.
+However, far less inquiry has been devoted to analyzing whether those observations are unique or might apply outside the specific context of the current conflict.
+This chapter endeavors to facilitate that discussion by proposing a number of hypotheses about the future of warfare drawn from lessons learned in Ukraine.
+Militaries will have to balance the benefits of greater connectivity against the risk that their opponents will exploit or disrupt those connections Although superior information has always been important in warfare, the development and proliferation of information technologies has enabled more coordinated collection from a broader range of sources, better integration, expanded opportunities for collaboration, and more rapid and efficient dissemination of information.
+Forces in the field no longer have to wait for information to flow up and decisions to move down the chain of command.
+Instead, they are able to act more rapidly because information can be shared widely across the network and decision-making can be pushed down to lower-level units.
+Greater band-width communications and more numerous sensors have increased the connectivity and situational awareness of ground forces, thereby facilitating the conduct of more dispersed operations.
+Highly accurate position, navigation, and timing satellites enable precision strike forces.
+Today’s expanded communication networks and information sharing capabilities influence and shape many aspects of military operations, from situational awareness to command and control.
+Militaries around the world have recognized the potential benefits of greater connectivity and developed new doctrine to take advantage of them.
+Whether it is called Multi-Domain Battle, New Generation Warfare, or Informatized Warfare, the emerging doctrine envisions extensive networks with data and information constantly flowing among entities on the battlefield.
+The constant transmissions required to reap the benefits of connectivity also provide excellent opportunities for detection and engagement by an adversary.
+A clear implication for ground forces is that if one can be “seen” one can be engaged and, if engaged, one can be killed.
+Future forces will need to be able to monitor, manage, and minimize their signatures across the visual, infrared, thermal, electronic and even audible 19 spectrums to limit detection.
+A necessary first step in emissions control is understanding the signature one’s units are generating.
+The Ukrainians, for example, use UAVs to monitor the signatures of their positions.
+Once the signature one’s units are presenting is understood, one can take steps to manage and minimize it.
+The Ukrainians bury electronic cables and operate radios and electronic equipment remotely in order to avoid revealing their locations.
+Second, protection from indirect fires will need to be increasingly emphasized.
+This may involve some combination of improved camouflage and deception techniques, increasing the armor protection on the top of vehicles, improved types of armor, electronic warfare capabilities to disrupt fusing or accuracy of munitions, vehicle protection systems capable of engaging indirect fire as well as anti-tank weapons, and weapons systems capable of intercepting indirect fire rounds in flight.
+Based on combat lessons learned, the Ukrainians and Russians, as well as the Israelis, are developing or have developed heavy armored personnel carriers based on main battle tank chassis’ to provide improved protection for infantry.
+In both domains, improved ISR and long-range strike capabilities are making even capable, stealthy platforms more vulnerable.
+First, power projection may become even more challenging as countries are able to erect detection networks in the home region and rely on longrange fires from their territory.
+As a result, future conflicts between major competitors may quickly devolve into standoffs in which there are large swathes of mutually denied territory, seas, and airspace.
+Second, militaries may have to reconsider their approaches for avoiding detection.
+With more numerous and capable sensors operating across the electronic spectrum, concealment strategies that emphasize providing false positives through decoys may be more effective than attempts to hide signatures from every conceivable means of detection.
+Even in cases where connectivity does not enable an opponent to locate and target one’s forces, it still poses the twin dangers of dependency and disruption.
+Russian operations in the Ukraine have reinforced that modern conflict will occur in a highly contested electromagnetic environment, an aspect which has been absent from the limited conflicts in Iraq and Afghanistan.
+The Ukrainians have learned to adapt to operating against a sophisticated electronic warfare threat, in many cases by adopting legacy solutions.
+They no longer trust GPS information, for example, because the Russians spoof it so frequently, and rely instead on maps and compasses.
+One clear implication is that training must address what to do if advanced communications and information systems are not available.
+The United States Navy regularly trains to operate in an electronically denied environment where command and control has been heavily impacted; ground forces need to do likewise.
+This has particular implications for Joint coordination, such as ground-to-air, where new tactics, techniques, procedures and capabilities may need to be developed.
+Conversely, some reversion to legacy solutions may be the most practical and effective.
+The Russian integrated air defenses have kept the Ukrainian Air Force grounded because Ukraine lacks the aircraft and electronic warfare capabilities to challenge them.
+Even more advanced air forces, however, are unlikely to achieve the level of air superiority enjoyed by United States forces in recent conflicts in the future.
+The viability of helicopters in such future air defense environments is questionable.
+To avoid radar detection, the Ukrainians have had to fly their helicopters at low altitudes where they are vulnerable to man-portable air-defense systems and small-arms fire.
+As a result, the Ukrainians have suffered significant helicopter losses and are no longer able to fly their helicopters within 30 km of the front lines.
+In the contested air environments likely to characterize future conflicts, militaries may still need to be able to find, fix, track, and target mobile entities deep in denied airspace.
+This is not only vital for the counter-long-range fires battle but also to suppress or destroy electronic warfare and air defense systems.
+Although airborne assets may be optimal, as the Russians have demonstrated, ground-based signals intelligence systems and weapon-locating radars can play an essential role as well.
+While precision will be essential, militaries will also benefit from more lethal munitions.
+Ground units will also have to protect themselves against aerial attack.
+Although not present in Ukraine, militaries will also be forced to deal with armed UAVs and UAV swarms.
+Militaries will be forced to balance the gains in coordination and capability from fielding larger, more capable units against the advantages in flexibility and survivability from relying on smaller, more dispersed units The Ukraine conflict has demonstrated that the massing of effects, if not forces, will still be necessary to exercise military power in the future.
+The Russians have been able to deliver devastating volumes of long-range fires and to deny large swaths of territory.
+Meanwhile, Russian heavy forces, although not used often since 2014, have proven decisive when employed.
+Larger units will have access to a greater range and volume of capabilities than smaller ones.
+They are also easier to command and control and require less decision-making at lower levels.
+Yet the Ukraine conflict has also demonstrated that concentrated forces are extremely vulnerable.
+Smaller units that can disperse on the battlefield have proven more survivable.
+If those lighter units have significant organic capabilities, they may also be more flexible than larger units.
+Although there has not been a significant naval component to the Ukraine conflict, the same observations are likely to be true at sea.
+Large combatants, while providing considerable combat power, are likely to be vulnerable.
+Coordinating the actions of numerous small units in a contested electromagnetic environment while minimizing the signatures of those units, however, will be challenging.
+Militaries will therefore need to develop organizational structures, operational concepts, and technologies that enable the rapid massing and demassing of military effects in contested electromagnetic and air environments.
+Army War College-Strategic Studies Institute Carlisle United States, 2016.
+Turkish Army War College, International Conference on Military and Security Studies, conference paper.
+Kofman, Michael, Katya Migacheva, Brian Nichiporuk, Andrew Radin, and Jenny Oberholtzer.
+Panel of Eminent Persons on European Security as a Common Project, 17 June 2015. www.osce.org/networks/164561 Lutsevych, Orysia.
+A United States Army War College Assessment on Russian Strategy in Eastern Europe and Recommendations on how to Leverage Landpower to Maintain the Peace.
+How Should the United States ABCT be Organized and Equipped to Address the Current Hybrid Threat.
+Zakem, Vera, Paul Saunders, Daniel Antoun, Dmitry Gorenburg, and Michael Markowitz.

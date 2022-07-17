@@ -1,0 +1,105 @@
+The consequences of war in Donbas, Ukraine Artem Kochnev and Marica Valente July 2021 @MEIFrontier • @MiddleEastInst • 1763 N St.
+Artem dedicated a series of papers to estimating the impact of war on real economy, asset prices, and reform progress in Ukraine.
+He has participated in peerreviewed academic conferences, provided contributions to the Vienna Institute for International Economic Studies, and has been published on VoxUkraine.org.
+She is a research affiliate of the DIW Berlin – the German Institute for Economic Research.
+She is an applied economist interested in microeconometrics with a focus on causal inference and machine learning methods.
+Her applications are in the fields of environmental economics, conflict economics, labor and migration.
+Marica’s research on the economic costs of the Donbas war was published in the journal of Defence and Peace Economics and received media coverage in the LSE Social Policy Blog, Vox Ukraine, and Kyiv Post.
+Introduction War does not end with the last bullet unloaded or papers signed.
+Unfortunately, the longer a conflict goes on, the harder it is to achieve peace.
+Conflicts fragment societies by aggravating existing tensions among social groups and creating new ones.
+Understanding these harmful consequences is, therefore, a prerequisite for a realistic strategy of conflict resolution.
+This report provides an overview of the consequences of the war in Donbas, Ukraine.
+It offers a concise overview of the key historical and economic developments surrounding the war.
+At times, the report sacrifices some depth of analysis, but only to achieve clarity of the main message, which has two points.
+First, the main costs in the region arise because of a policy driven humanitarian crisis.
+Despite being a highly militarized area, Donbas is no longer an area of active, large-scale military engagement.
+Donbas today is an area of a large-scale protracted humanitarian crisis affecting five million people.
+This crisis is, however, by far and large, a consequence of restrictive state policies imposed onto the separatistcontrolled areas.
+These policies, designed in the early days of the conflict to undermine pro-Russian sentiment in the region in the separatist-controlled areas, achieved little success but ruined economic connectivity of the region and forced involuntary pendulum migration of Ukrainian citizens from the separatist-controlled areas to mainland Ukraine, and back.
+Both points give only limited space for optimism for a future peace deal.
+With public opinion divided, the Ukrainian government will be constrained in addressing the consequences of the humanitarian crisis.
+Any change to policies concerning the breakaway region is likely to face severe opposition both, from the population and political contenders.
+This, in turn, makes chances of unification and restoration highly dependent on idiosyncratic political events.
+Until then, the war in minds is likely to continue and its scars to deepen.
+The Cost of Conflict in Ukraine Russia’s military operation in Crimea caught the Ukrainian government, and indeed global leaders, by surprise.
+Heated negotiations surrounding the destruction of Ukraine’s nuclear arsenal prior to 1994 – which at some point involved speculation of nuclear war – and subsequent discussions on Ukraine’s membership in NATO, indicates Ukraine’s national security was a critical issue even before 2014.
+Pre-War Development Ukraine was ill-prepared to combat internal or external threats for two main reasons.
+Second, Ukraine’s economy was underperforming compared to its neighbors, resulting in limited capacity to modernize its armed forces.
+Ukraine’s GDP per capita was 30 percent below the average of post-Soviet states in 2010 , although it was slightly above average in 1990.
+Economics literature typically attributes poor economic performance to pitfalls in the implementation of market reforms and progress of state governance institutions at the early stage of Ukraine’s economic and political transition.
+Powerful industrial lobbies and oligarchs used parliamentary parties to establish control over state subsidies, preserve market barriers to entry, and block implementation of equitable policies.
+Although political polarization was most pronounced at the extreme geographical ends of the country , it provided ground for tight political competition that resulted in a tug-of-war between political parties and hindered implementation of long-term reforms.
+For example, the victory of pro-western leaders in 2004 did not result in greater EU integration, primarily because of internal political confrontations between the apparatus of President Viktor Yushchenko and supporters of Yulia Tymoshenko, who led the party with the largest number of seats in the Parliament.
+Ukrainian leaders were therefore unable to establish transparent market and governmental institutions, leading to poor state governance, high levels of perceived corruption, and lack of public trust in state institutions.
+Meanwhile, most of the military infrastructure inherited from the Soviet Union was not properly maintained or modernized, largely due to Ukraine’s poor economic performance in the post-transition period, as well as poor governance.
+This, together with an unexpected military incursion from Russia, partly explains why the Ukrainian conflict became so costly and long-lasting.
+A Bird’s-Eye View Although the Ukraine-Russia conflict encompasses both the takeover of Crimea and the armed insurgency in Donbas, most of Ukraine’s attention has been devoted to the latter.
+This is because the takeover of Crimea did not result in large-scale fatalities and destruction of capital assets.
+According to available estimates, Russian incursion into Crimea caused two fatalities, while the war in Donbas is estimated to have taken 13,000 lives.
+The highest spikes in casualties were in August 2014 and February 2015, shortly before negotiations in Minsk.
+Economic challenges and costs of reintegrating the Donbas region in Ukraine . wiiw Research Report.
+The Donbas War took place in densely populated urban areas with opposing sides actively employing heavy arms – including artillery, tanks, and multiple-launch rocket systems – to expand territorial control.
+Many cities, including the major urban area of Donetsk, were taken over by opposing forces multiple times.
+Unsurprisingly, this caused collateral damage for civilian property and mass displacement of the local population.
+The economies of the conflict-affected regions of Donetsk and Luhansk have not improved with declining levels of violence, despite armed violence causing Ukraine’s economic downturn in the first place.
+This is largely because the roots of the crisis – negative expectations, lack of state capacity, and a humanitarian crisis – have not been addressed.
+The Donbas region’s once highly integrated economy is now divided along the line of contact between government and separatist controlled areas, with the latter subject to severe economic restrictions.
+The self-proclaimed separatists’ polities are not formally recognized by any UN member state.
+This implies that any economic contract inside separatist controlled areas will bear no legal force according to both Ukrainian and international law.
+This resulted in a rapid contraction of the local economy and a large-scale humanitarian crisis that affected five million people.
+Direct economic costs and the role of trade There are several key considerations in understanding the war’s impact on Ukraine’s economy.
+First, the size and structure of the Donbas economy determined the impact of local economic disruption on Ukraine’s aggregate economy.
+Together, the Donetsk and Luhansk regions accounted for around 16 percent of Ukraine’s total GDP prior to the war in 2014, compared to Crimea’s contribution of 3.8 percent of GDP at the end of 2012.
+The local economy was built on mining, metal, machine-building, and energy industries, which were interconnected through a dense network of railways.
+These likely had negative spillover effects on Ukraine’s bilateral trade.
+When combined with the conflict, the region’s structure and connectedness to the Ukrainian economy caused significant economic effects.
+First, it is estimated that the conflict had a severe impact on output and productivity measured by both conventional and non-conventional measures of economic activity.
+Even though the impact of war on Ukraine’s economy is recognized as significant in magnitude – it is estimated the average decline of GDP per capita between 2014 to 2017 by 17. percent 16 – economic contraction in the Donbas region was much stronger.
+Second, the conflict severely disrupted regional and international trade.
+While these measures had a significant impact on the separatist economies, many enterprises in the government-controlled areas were suddenly cut off from suppliers and purchasers.
+Ukrainian energy plants no longer had access to sufficient anthracite coal to continue electricity production.
+Indirect estimates suggest that trade restrictions could account for at least a half of the observed economic downturn in the separatist controlled areas.
+Humanitarian and environmental effects While the economic effects of the conflict were severe, the overall impact extends well beyond the economy.
+According to the UN Office for the Coordination of Humanitarian Affairs, 3. million people in the Donetsk and Luhansk regions struggle to secure access to food, sanitation, shelter, legal assistance, and basic public services such as healthcare and education.
+Much of that is caused by recurrent damage to critical infrastructure that provides electricity, water, sanitation, and heating.
+Restrictions on movement of people and goods across the line of contact is equally important.
+Prior to the war, most public services were concentrated in Donetsk and Luhansk.
+With these cities falling under control of the separatists, many households from nearby locations and rural areas are now forced to commute to other cities to receive critical services such as healthcare and education.
+The Impact of War, Politics, and International Credit on Reforms in Ukraine.
+In 2015, at the peak of the economic crisis in Donbas, data accounted for 2. million displaced people, 40 percent of the region’s total.
+The majority of this group were IDPs, with 36 percent seeking legal status in Russia.
+The integration of 1. million IDPs into the rest of the country has been a long-term issue for Ukrainian authorities.
+According to UN Organization for Migration , 91 percent of IDPs face difficulties in finding employment, the average income is 40 percent below the national average, and many are unable to fully integrate into local communities (51 percent reported full integration).21 The difficulties faced by IDPs in securing housing and income in government-controlled areas causes involuntary migration.
+This means populations of separatist controlled areas frequently request IDP status to gain access to public services and collect pensions in government-controlled areas, before returning across the contact line.
+While measurable environmental damage has so far been relatively limited, there are concerns around technological and natural disasters.
+These enterprises could emit significant levels of heavy metals and chemical substances, causing mass poisoning of the densely populated urban areas of Donetsk and Luhansk.
+At the same time, the region faces a double risk with the dense coal mining system of Donbas.
+The majority of the coal mines located in separatist-controlled areas are currently idle, benefiting from no proper maintenance.
+If these coal mines are not properly closed, the region may face irreversible environmental damage caused by increased geological instability and contamination of ground waters by heavy metals and radioactive chemical elements.
+Impact on Politics and Political Preferences The political implications of the conflict is another widely discussed topic with multiple considerations.
+On the one hand, the conflict itself is in part a result of EU-Russian tensions over Ukraine.
+The agreement would have guaranteed reduced tariff rates and a framework for political integration.
+One popular narrative in Ukrainian media is that Russia’s military operation in Crimea was conducted to secure the naval base in Sevastopol, while separatists were supported as a way to increase polarization and undermine the process of Euro-integration.
+Public support for economic integration with Russia fell sharply, with the share of respondents opposing integration rising from 28 to 60 percent .24 Moreover, while post-2014 governments have had mixed success in integrating Ukraine with the EU, Ukrainian politics is currently heavily dominated by a prowestern integration narrative.
+The unexpected landslide election of President Volodymyr Zelensky in 2019 did not deviate Ukraine from this path, with the current government continuing to promote a reformist and pro-European agenda.
+While Zelensky used the election campaign to highlight his points of difference with predecessor Petro Poroshenko, euro-integration has remained a unifying point between the two.
+The impact of conflict on Ukraine’s EU foreign policy was also significant.
+While Ukraine was considered to be one of the many “association countries” for the EU at the beginning of integration talks, it became a symbol for the EU to demonstrate its commitment to support integration initiatives.
+The post2014 surveys most likely did not cover Crimea, the Donbas and Luhansk regions in full, which were the strongest supporters of integration with Russia in the pre-war surveys.
+In a similar vein, one can hardly find support for the negative impact of war on Ukraine’s reform progress.
+Drawing on data between 2015 and 2019, Kochnev finds little to no correlation between conflict intensity and measures of reform progress in Ukraine.
+If anything, reform progress appears to be more closely linked with the electoral cycle, changes in income levels, and popular support of the ruling party.
+The effect of the war on political polarization in Ukraine is mostly evident in terms of preferences regarding a future peace deal.
+Survey results suggest that residents of the separatist controlled areas demonstrate positive attitudes toward Russian integration and are critical of western institutions and the ruling Ukrainian elites.
+This is largely at odds with nation-wide views, which indicate no clear majority regarding the future reintegration of the region.
+A survey conducted prior to last year’s local elections indicated that 45 percent of respondents do not support the idea of a “free economic zone” in Donbas.
+Such differences in political preferences pose a threat to a sustainable peace deal and economic and political integration.
+Whether or not it will manage to do so is one of the most intriguing and pressing issues of internal Ukrainian politics.
+Conclusion It is critical to understand the most pressing issues of the war in Ukraine.
+The local Donbas population has experienced a decline in living standards by three to four times within a single year, far outpacing that of the post-Soviet transition.
+This is considered to be amongst the steepest economic downturns in the 20th century.
+The immediate challenge for Ukraine in recovering physical infrastructure, markets, and state capacity is critical for mitigating the negative impact.
+At the same time, the conflict has prompted – even if indirectly – some positive political change in Ukraine.
+MIT Press. implementation process, which is considered one of the major obstacles in implementing Ukraine’s long-term development policies.
+On the other hand, the gap in political preferences between Donbas and non-Donbas population has widened, making any attempts of conflict resolution more difficult.

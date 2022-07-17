@@ -1,0 +1,85 @@
+From the societal safety sciences viewpoint, crisis management means a situation where an event that threatens safety and security of the society is close or proper responses at each stage after the event have taken place.
+Meaning of Crisis Webster, one of the well-known dictionaries in the USA, deﬁnes “crisis” as the turning point of whether a disease is going to heal or to worsen.
+In other words, crisis is the time when a moderate disease condition is making a big change.
+The word has a meaning of a turning point for better or worse, a decisive moment, or crucial time.
+The word crisis with its origin in medicine was introduced into psychology and psychiatry and started to carry the meaning of “important point” and then generalized into a term for critical danger.
+Crisis resolution stage When recovery is not made from a crisis, there are cases the situation turns into bankruptcy for a corporation, death for human, and “terminal stage” in medical terms.
+Avoiding the terminal stage and entering the recovery stage, that is, to prevent organizational corruption or human death at times of accidents or disasters is crisis management, and it is the purpose of societal safety sciences.
+Dangerous situation,” and “Kiki kanri” in Japanese, the phrase for crisis management, means “Policy or organization to counter a sudden large-scale disaster, accident, or event that was unexpected.
+Signiﬁcance of Crisis Management From a viewpoint of societal safety sciences, crisis management means to deal with a situation that an event that threatens the safety and security of the society is about to take place or to manage the state after one has happened.
+Risk management features before-theevent measures like accident prevention or insurance subscription.
+Crisis management, on the other hand, characterizes countermeasures against emergencies after an accident or disaster.
+Identifying risks and carrying out risk assessment of analysis and evaluation 3.
+Having decisiveness, leadership, and good communication when suddenly put under serious situations after major accidents or disasters 3.
+In the recovering stage, reﬂecting lessons learned from the accident or disaster into the action plans for the next emergencies 13.1.
+Fink’s Crisis Management Theory At the time the TMI accident in the USA, Fink was a member of the Pennsylvania crisis management team and published Crisis Management in 1986.
+The book was the ﬁrst in the USA about crisis management, and it is still in print.
+Among these steps, Fink introduced his unique assessment method for crisis forecasting in the premonition stage.
+CIV evaluates a crisis with its effect, results, monetary loss, and damage to human, with a number from 0 to 10.
+Fink explained the risk forecasting with a coordinate plane divided into four quadrants with probability of occurrence in the horizontal axis from 0% to 100% and CIV in the vertical axis with values 0–10.
+The intersection of the horizontal and vertical axes is where the occurrence probability is 50% with CIV 5.
+Fink’s method was visual and easy to understand, and it has now developed into “risk map” in wide use.
+It, thus, has an important position in administration by the national government and so.
+Cuban missile crisis was triggered when the USA demanded the Soviet Union back then to remove the midrange nuclear missiles Soviet had deployed in Cuba.
+At the time, the USA and Soviet were in a strong military conﬂict, and the risk of a nuclear war was at its peak.
+On 16 October 1962, a United States reconnaissance plane spotted a nuclear missile deployed in Cuba.
+A number of discussions were made on whether to bomb Cuba or not, and on 24 October, the USA started a blockade and boarding of ships headed for Cuba.
+On 27 October, a United States U-2 reconnaissance plane was shot down by Soviet expeditionary force in Cuba.
+The warning issued by President Kennedy of the USA lifted up the confrontation level, and the entire world was at a risk of nuclear war.
+The Soviet leader Khrushchev announced on 29 October, in reply to Kennedy’s ﬁnal warning, that the missiles will be removed from Cuba.
+President Kennedy’s leadership, ﬁrm determination, and quick action added with the First Secretary Khrushchev’s decision at the critical moment prevented the nuclear war.
+During the 1970s the world experienced national emergencies of currency crisis and oil crisis.
+Also 1984 was the year when the Union Carbide had a gas leakage accident in its Bhopal factory in India.
+Occurrences of such large-scale accidents at the corporate level led to people watching corporate crisis management as well.
+Crisis Management by the Japanese Government We will next overview crisis management by administration and the government in Japan.
+Japan, in the 1970s, experienced currency crisis, oil crisis, terror attacks, and hijacks by the extremists and started to discuss the need for crisis management at the Cabinet level in the early 1980s.
+A Korean Airlines ﬂight was shot down in 1983, the Glico-Morinaga case took place in 1984, and in 1990 the Gulf War started.
+After the burst of bubble economy, the Tokyo subway was attacked with sarin in 1995, and the concept and phrase crisis management spread to the public.
+Also in the ﬁeld of natural disasters, the 1995 Great Hanshin Awaji earthquake triggered strong awareness of crisis management against large-scale natural disasters.
+Under these circumstances, the Cabinet Law was amended in April of 1998, and the Japanese government formally made its system of crisis management.
+The amendment newly gave the secretary for crisis management the duty of, upon occurrence of an emergency situation, making the ﬁrst decision about necessary actions by the Cabinet and arranging with related ministries and agents about initial actions.
+In January of 2001, the Cabinet National Security and Crisis Management Ofﬁce were closed, and one of the three Assistant Chief Cabinet Secretaries was assigned to take charge of national security and crisis management.
+The system adds staff from ministries and agents on temporary transfer for support.
+Initial response upon emergency outbreak by the Japanese government crisis management), Deputy Director General of Crisis Management; and Crisis Management Center at the Ofﬁce of the Prime Minister.
+D consists of Secretary for Crisis Management, three Assistant Chief Cabinet Secretaries, Cabinet Public Relations Secretary, Director of Cabinet Intelligence, Director General of Cabinet Affairs Ofﬁce, Deputy Director General of Crisis Management, and staff members from National Security and Crisis Management Ofﬁce, Public Relations Ofﬁce, Cabinet Intelligence Ofﬁce, and Cabinet Affairs Ofﬁce.
+This organization is in charge of collecting information, reporting to the Prime Minister, arranging communications among related ministries and agencies, and overall arrangement of initial actions by the government.
+Especially about information, disaster information that reports what has happened and disaster management information about what to do to lessen the damage are the keys.
+Leadership is important for crisis management by the administration, and since quick decisions are needed, leaders have to prepare to make decisions even with insufﬁcient information.
+As regulated in the Disaster Countermeasures Basic Act, when disasters break out in prefectures, the prefectural governor takes the leader role of the Head of Local Disaster Management Headquarter for crisis management.
+When the incident turns into a mega-disaster, the national government supports the prefectures by establishing the Major Disaster Management Headquarter headed by the Ministers of State and the Extreme Disaster Management Headquarters headed by the Prime Minister.
+Upon an emergency situation of a mega-disaster, the Cabinet Crisis Management Center in the basement of the Prime Minister’s Ofﬁce carries out the initial action of information gathering and analysis, and a team is assembled around the Deputy Chief Cabinet Secretary for Crisis Management.
+This section discusses the disaster crisis management by the role model of the United States government.
+The 2005 hurricane Katrina left huge damages to the USA, and from the lessons learned then, the USA reviewed its disaster crisis management.
+As a result, good effects surfaced here and there, when hurricane Sandy hit the country.
+In the following seven lessons, Yoshiaki Kawata summarized what the federal government of the USA learned from failures in its response to hurricane Katrina and what improvements it implemented.
+In the USA, federal organizations like the Federal Emergency Management Agency with specialized engineers and the United States Army Corps of Engineers responded to disasters in the ﬁeld.
+The veriﬁcation system thoroughly studied lessons and failures in past disasters and did not hold individuals responsible for failures in disaster responses.
+The system turned the failures to knowledge and worked them into disaster response programs.
+Prepare against disasters never experienced before, and verify that lessons and failures of disaster responses are useful for future disaster response.
+Build structures at normal time, so when a disaster is about to strike or has struck, the head of administration can take leads and consult with specialists.
+Discuss measures to protect lives and economic foundations of residents in metropolitan areas with the assumption that disasters at all sizes can strike.
+Enhance resilience, that is, ability to recover, throughout the societies in preparation for the risks, dangers, or difﬁculties that threaten safety hit.
+In fact, events like terrorism, war, nuclear plant accidents, earthquakes, volcano eruptions, and tsunami are exemptions with regular insurance policies,e., premiums will not be paid against those events.
+These events, therefore, are not topics of risk management that started from insurance management, but they are topics for crisis management.
+Corporate crisis management differs from that of administration or a nation because if something goes wrong with it, in the worst case, it can lead to bankruptcy and the organization may disappear.
+Leadership theory about how a leader makes decisions upon breakout of crisis 2.
+Theory of organizational crisis management that hypothesizes a crisis outbreak and discusses how to build an organization that responds to it and functions at difﬁcult times 3.
+Crisis information theory to collect and properly spread information when a crisis is about to strike or has struck 4.
+Theory of crisis communication for both stakeholders outside the corporation and members within, about how to communicate what the crisis is about, and how to cope with it in the future 5.
+Study of failure that identiﬁes lessons from major accidents and disasters and learns from failure in crisis management Fink and Tedlow talked about the 1982 Tylenol incident as an example of best practice in crisis management.
+The event started with someone lacing poison in Johnson & Johnson’s prime product painkiller Tylenol and killed seven people.
+In the “prodromal” stage, the top management upon receiving inquiry from the media took immediate actions without hesitation.
+Tedlow wrote that corporations fall into crisis when the head of operations hides inconvenient facts.
+Actions by the top management was appropriate when the incident took a sharp turn in the “acute” stage.
+Johnson & Johnson’s corporate policy “Our Credo” lists it responsibility to the customers, employees, local communities, and shareholders.
+The top management placed the highest priority on social responsibility of the corporation and under the policy of “for the citizen’s reliance, speak all that is known and immediately speak new information,” carried out crisis communication to all stakeholders outside the company.
+In the “chronic” state when things started to settle, communication inside the company also received attention.
+Top management wrote a letter to all employees explaining how they reacted to the crisis and what they intended to do.
+The framework of crisis management starting from the “prodromal” stage, then the “turning point” of an outbreak of a major accident or disaster, and then making transition through “acute,” “chronic,” and “resolution” stages also applies to nations, administration, and corporations.
+This chapter overviewed crisis management with nations, administration, and corporations, and the methodology is, of course, also applicable to individuals.
+Today, expressions and ideas of special incidences and crisis management for the living are widely spread.
+Why business leaders fail to look facts in the face – And what to do about it.
+Open Access This chapter is licensed under the terms of the Creative Commons AttributionNonCommercial-NoDerivatives 4.
+You do not have permission under this license to share adapted material derived from this chapter or parts of it.
+The images or other third party material in this chapter are included in the chapter’s Creative Commons license, unless indicated otherwise in a credit line to the material.
+If material is not included in the chapter’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.

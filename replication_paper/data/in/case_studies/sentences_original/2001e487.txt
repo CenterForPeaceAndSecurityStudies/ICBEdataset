@@ -1,0 +1,353 @@
+If the opponent offers keen play I don’t object; but in such cases I get less satisfaction, even if I win, than from a game conducted according to all the rules of strategy with its ruthless logic. – Anatoly Karpov, Soviet and Russian Chess Grandmaster T he decisions we make in life involving our health practices, our choice of spouse, our educational pursuits, and our investments are major determinants of how our lives unfold.
+Though chance and opportunity are wild cards in the ultimate outcomes, the trajectories of our lives can often be traced back to our decisions made at key watershed moments.
+Though many of these choices are made on a spur-of-the-moment impulse, the most important decisions often follow information gathering and extended reflection.
+In chapters 2, 3, and 4, we examine the interplay of the cognitive processes involved in strategic decision-making–the process of translating our goals into a course of action.
+If chess models a game of “ruthless logic,” then poker–involving bluffing, reading body language, and intimidation–models a game with both visceral and rational components.
+Strategic Decision Making and Game Theory Inspired by the early triumphs of the hard sciences, the social sciences in the second half of the 20th century sought to add rigor and predictive power to their subjects by incorporating mathematical models.
+Research papers in a variety of subjects including economics, psychology, education, and business were increasingly populated with equations and mathematical formalism.
+With this evolution, fluency in mathematics was becoming an increasingly important component of the new literacy.
+In 1944, John von Neumann and Oskar Morgenstern published their groundbreaking Theory of Games and Economic Behavior in which they sought to mathematize strategic decision–making.
+By listing the options available to two adversaries and exploring the payoffs and penalties of each option, they sought to find an optimal solution for each combatant.
+As one of the fathers of the computer, von Neumann may have been anticipating a 33 Intelligence future use of computer-based decision–making.
+Human judgements in the decision-making process would be replaced by algorithmic procedures that would yield optimal results the way today’s computer chess programs scan the available options and choose the most promising move.
+What emerged from this publication was an entirely new branch of economics that is known today as game theory.
+Coincidentally, in fewer than ten years after its creation, this theory would be tested on the world stage in a dramatic political struggle that would threaten the existence of the human species, and be remembered as the most important period of decision making in human history.
+For six tension-filled days, Kennedy and his executive committee, known as ExComm, debated the pros and cons of four possible responses to the Soviet-backed threat.
+In the end, it was decided to issue a naval blockade of Cuba, preventing any shipments of military equipment to that island.
+In the days following the announcement of that quarantine, the future of our species hung precariously on the decisions of the two most powerful men in the world and on the visceral reactions of a third man–a passionate patriot.
+John F Kennedy announces the Quarantine on Cuba–October 22, 1962 This government, as promised, has maintained the closest surveillance of the Soviet military courtesy of the JFK Library buildup on the island of Cuba.
+For almost two decades since the development of the nuclear bomb, scientists had warned of the devastation that would result from a war between two nuclear powers.
+With Kennedy’s proclamation, the scientists’ greatest fears teetered on the brink of a horrible reality.
+The two world superpowers, the United States and the Soviet Union, were on a collision course with potentially catastrophic consequences.
+If Chairman Khrushchev of the Soviet Union were to challenge the blockade, it could trigger the first war in history with the potential to eradicate life on this planet.
+Tuesday, October 23, 1962 It was the day after Kennedy’s strident ultimatum.
+With the specter of annihilation lurking in our collective unconscious, we shuffled around the circular table of the Arbor Room, claiming our personal territories.
+Eldon, the supernerd who often took leadership in our weekly meetings, was the last to arrive.
+Placing his briefcase on the floor and his aluminum teapot on the table, he raised his voice above the ambient din.
+David, a nerd of gentler temperament, had an understated presence– seldom aggressive, but deeply reflective, playing devil’s advocate whenever the rest of us seemed to be in agreement.
+In this supposed test of courage, two adversaries race stolen cars along parallel tracks towards a cliff.
+Eldon’s intense eyes ignited and he sat erect, as I had observed on those 35 Intelligence occasions when he relished the chance to showcase his knowledge.
+The other two members of our motley gathering muttered that they had heard the term “game theory,” but claimed no formal knowledge of its content.
+Eldon’s range of knowledge was surprisingly broad; every branch of knowledge seemed to be grist for his intellectual mill and he ground down deeply into the content–he would never be chaff.
+Waxing eloquent, Eldon continued in his professorial manner, “Game theory is the study of strategic decision making.
+It was invented by John von Neumann, a father of the modern computer and a key scientist involved in the creation of the first atomic bomb.
+In this case, the players in this game of Chicken are Kennedy and Khrushchev.
+On a sheet of paper torn from his binder, Eldon sketched this simple table.
+In game theory, Chicken has the two players driving toward each other on the same track.
+Eldon continued, “The most desirable outcome for each player is to drive straight while the opponent swerves.
+This left Kennedy with only two options, accept the missiles,e., capitulate, or take action against the missiles,e., escalate.
+Suppose that both players in a game of Chicken are racing toward each other and one player signals his intention not to swerve by yanking out the steering wheel and throwing it out the window.
+When Kennedy announced the blockade, and asserted, ‘The greatest danger of all would be to do nothing’ he indicated that he would not capitulate.
+This declaration was equivalent to throwing the steering wheel out the window.
+Eldon didn’t draw another table, but his description brought this table to mind.
+David, who boasted an IQ in excess of 170, seemed to derive special pleasure in playing devil’s advocate.
+Once Khrushchev reverses his field, and submits to the blockade, he’s done and it’s game over.
+It’s Kennedy 1, Khrushchev 0,” retorted Eldon with a gesture of closure.
+Kennedy’s refusal to capitulate is not equivalent to throwing the steering wheel out of the window.
+Khrushchev knows that the newly-elected president doesn’t want war and that he would be open to negotiation.
+Sean, who had been watching inOh, East is East and West is West, tently, devoured a chocolate donut as and never the twain shall meet, if it were his last meal before the arrivTill Earth and Sky stand presently al of Armageddon.
+Wiping his chocoat God’s great Judgment Seat; late-covered fingers methodically with But there is neither East nor West, a tissue, he interjected, “This reminds Border, nor Breed, nor Birth, me of The Ballad of East and West.
+It was a joke he’d heard before and he wasn’t amused by the dismissal of what was offered as a serious contribution to the discussion.
+The animated discussion continued for an hour or so, without consensus, though I could see my three companions beginning to converge in their perspectives.
+He had assumed that the adversaries were plotting their strategies in a purely cerebral way, as in a chess match, where all options are considered and the move with the greatest perceived promise is chosen.
+Sean and David, on the other hand, had originally assumed that the crisis was a power struggle between two strong males in a turf war, alternately employing the tactics of intimidation and concession to gain the upper hand.
+They felt that the decisions were significantly influenced by visceral responses to confrontation.
+The Missile Crisis Escalation & Climax We didn’t have to wait long for events to unfold.
+Establishing a blockade in international waters, was traditionally regarded as an act of war, so Kennedy had called it a quarantine.
+The tension between the two superpowers seemed to be building to a calamitous climax.
+When Armageddon seemed inevitable, news came from the Director of the Central Intelligence Agency John McCone, reporting that Soviet ships in Bertrand Russell the face of the blockade had turned around.
+However, it would soon be apparent that this was merely the calm before the storm.
+The Soviet Union continued to deny that there were missiles in Cuba and Kennedy began to consider further escalation.
+On Thursday, October 25, Kennedy’s Executive Committee continued discussing in secret the removal of the missiles by force.
+In the greatest mobilization of troops since World War II, the United States prepared for a possible invasion of Cuba to remove the missiles with “surgical” air strikes.
+Not more than 24 hours later, Fidel Castro sent a letter to Khrushchev calling for a nuclear response in the event of an invasion of Cuba.
+I believe the imperialists’ aggressiveness is extremely dangerous and if they actually carry out the brutal act of invading Cuba in violation of 39 Intelligence international law and morality, that would be the moment to eliminate such danger forever through an act of clear legitimate defense, however harsh and terrible the solution would be.
+Then, just before noon, Major Rudolf Anderson flying an American U-2 spy plane was shot down and killed by a surface-to-air missile launched from Cuba.
+The United States had suffered its first casualty in what appeared to be an imminent nuclear exchange.
+Later that afternoon, a Soviet submarine armed with a nuclear-tipped torpedo approached the blockade line.
+The United States Navy dropped a series of warning depth charges unaware that the three officers on board the submarine had orders to launch the torpedo if engaged in battle.
+One of the three Soviet officers, Vasili Arkhipov, prevailed over the other two officers who were urging the launch of the deadly torpedo in retaliation.
+Many decades later the world would learn the details of what happened on that fateful day and how close the human race had come to a nuclear holocaust.
+Denouement On Sunday, October 28, Khrushchev announced over Radio Moscow that he had sent a letter to President Kennedy, agreeing to remove the missiles from Cuba.
+In exchange for this, Kennedy had agreed that the United States would not invade or support any invasion of Cuba.
+It appeared to the world that Khrushchev had capitulated and that Kennedy had stared down the Soviet Chairman in a battle of nerves.
+Fidel Castro, feeling betrayed by Khrushchev, expressed outrage and accused the Soviet leader of cowardice in the face of the American might.
+A series of conferences9 between 1987 and 1992 featured interviews with his brother’s former aides, Soviet insiders, and Cuban veterans, including Fidel Castro, that revealed the motives of the key decision makers in the US, the USSR (Union of the Soviet Socialist Republics), and Cuba throughout the Crisis.
+These documents provided insights into Khrushchev’s leadership style, his personality, and the inner workings of the Kremlin prior to and during those thirteen critical days.
+These new sources of information revealed a substantial gap between the public perception of the Crisis throughout the 1960’s and the reality of what happened.
+In the next chapter, we explore the secret files that reveal how Kennedy and Khrushchev made decisions in the high-stakes game of super-power dominance.
+As some of their “unknowns” became “knowns”, they saw their options and the consequences through a different lens.
+These changing perceptions profoundly modified their decisions as events unfolded.
+These insights have widespread implications that extend well beyond political confrontation and into areas as comparatively innocuous as marketing and lifestyle.
+We were relatively confident, albeit to different individual degrees, that decision making is predominantly rational.
+This would enable us to mathematize the process sufficiently to predict the outcome of the decision making in any confrontation.
+We continued to believe that game theory, in particular, and mathematics in general, would enable us to solve many of the important problems facing our species.
+The austere and dispassionate allure of mathematical reasoning was so seductive that we embraced this vision with the bold confidence of youth.
+In the process, one of them became a billionaire, another became a world-renowned physicist, and the third … well, we’ll discover that in time.
+In spite of the gloomy skies and drizzle on this late October day, all four of us were basking in a mood of muted jubilance.
+We had come from an animated lecture in applied mathematics in which Professor Ross had demonstrated how the equations of the orbits of the planets could be derived from Newton’s Law of Universal Gravitation.
+Using the calculus and the polar coordinates that Newton had developed, we were able to solve these differential equations and predict the locations of the planets at any time in the future.
+With calculus and the techniques for solving differential equations, we would be able to describe and predict natural events with almost any degree of precision.
+It was a heady time for anyone equipped with some basic mathematical skills and elevated aspirations.
+In the decades that followed, I would never recapture that euphoric intellectual optimism.
+Eldon paused as he prepared his response, “Well guys, I don’t want to gloat, but it looks like Kennedy won the game of Chicken.
+Khrushchev 43 Intelligence had to turn tail and remove his missiles from Cuba and Kennedy merely had to promise not to invade Cuba.
+Though David was small in stature and mild mannered, he had a mind that pursued a line of argument with the passion of a dog after a bone.
+He wasn’t going to let Eldon get away with a simplistic analysis of the events.
+Neither nation in this Cold War can appear to be weak, so Khrushchev must have received some concessions somewhere.
+The old Chinese proverb, ‘build golden bridges behind your enemy’, recognizes the importance of leaving your adversary a smooth path for retreat.
+Some of his ships had to turn tail and flee the blockade and others had to submit to a search.
+After denying at the United Nations that the Soviet Union had placed offensive weapons in Cuba, he had to admit that he had lied and that there were, indeed, Soviet missiles in Cuba.
+Khrushchev lost credibility with the world, and he alienated his allies, Cuba and China.
+The more we debated the issue, the more we realized that we did not have enough information to draw any reliable conclusions.
+We would have to live with our impressions of what had happened and wait for the other shoe to drop.
+However, new information that emerged in the final two decades of the 20th century told a different story.
+Throughout the confrontation, the decision makers toggled back and forth between cerebral and visceral modes, revising their estimates of the efficacy of each option and the payoff of each outcome.
+A few days later, he was informed of a secret plan, initiated the previous year by the Eisenhower administration, to sponsor an invasion of Cuba.
+The United States Secret Service had been recruiting anticommunist exiles from Cuba with the intention of overthrowing the Castro regime.
+The invasion was to be launched from Guatemala and all United States involvement was to be secret.
+The plan required that the incoming President make the final decision on whether to proceed.
+Three months after taking office, the youngest person elected to the US Presidency convened a groupthink meeting at the White House, in which he sought advice from the CIA, the military, and members of his administration about the viability of the invasion.
+Based mainly on the advice of his military advisors, John F Kennedy signed the order, on April 4, 1961 to proceed with a preemptive attack on the beaches of the Bay of Pigs on April 15.
+What later became known as the “Bay of Pigs fiasco” was a disaster for the invading forces, and was subsequently regarded as one of the greatest blunders in American foreign policy.
+Castro’s military decimated the invaders within 3 days, and the American prestige on the world stage suffered a devastating blow.
+Understanding Khrushchev’s great gamble in Cuba requires an insight into the Soviet leader’s personality and political style.
+The secret archives in Moscow reveal that Khrushchev seldom sought advice from the KGB during this tense period2.
+In this way, his style was more akin to a high-stakes poker player than a methodical chess master.
+He would bluff, bully, and gamble to gain advantage, even when his hand was significantly weaker than his opponent’s.
+On one occasion, he convened a meeting of his top nuclear scientists in the Kremlin’s Oval Room, where he announced his decision to resume nuclear testing of the Soviet bombs.
+You can be a good scientist without understanding 45 Intelligence a thing about politics.
+The angry outbursts and emotional tirades of Nikita Khrushchev belied his shrewd political instincts.
+He used these emotional displays to test his adversaries and plan his strategies.
+It was no accident that he was able to reach the pinnacle of power in a regime dominated by intrigue and secret alliances.
+Since Kennedy had only come into power in January 1961, Khrushchev had a limited basis for anticipating how the young president might react to political pressure, bullying, or friendly overtures.
+In characteristic style, he sought to test him and exploit any weaknesses he might find.
+His brief encounters with JFK had convinced him that the inexperienced president was an intellectual who could be bullied.
+This was a key assumption that underpinned Nikita Khrushchev’s decision to place nuclear missiles in Cuba.
+Khrushchev met with Castro in the spring of 1962 and by the summer, Soviet ships were transporting missiles, nuclear warheads, and tens of thousands of Soviet troops to Cuba under secret cover.
+By September 1962, the Soviet Union was rushing to complete its missile installations in Cuba.
+Khrushchev needed to test his assumption about Kennedy’s response when he would eventually discover the missiles.
+The Soviet leader decided to investigate by inviting JFK’s close friend and famous poet, Robert Frost to meet with him, ostensibly to initiate a “noble rivalry” between the superpowers in the creation of literary works.
+He had hoped to tap into Khrushchev’s openness and persuade him to take a road not taken by previous Soviet administrations.
+Stewart Udall, Secretary of the Interior, who accompanied Frost on the visit later wrote an article titled, Robert Frost’s Last Adventure:5 At the time, I wondered why Khrushchev was so solicitous about Frost, and why he spent so much time with me.
+We realized later that he was us because he was obsessed with President Kennedy’s forthcoming response to his nuclear lunge.
+The condition of Kennedy’s nerve, and his initial interpretation of Khrushchev’s intentions would be decisive.
+When I look back now with the benefit of hindsight, Khrushchev’s conduct was both conservative and cunning.
+The Cerebral Component to keep Washington guessing, to present a peaceful face one day and a tough stance the next.
+He mentioned Cuba to me only once, and it involved a typical Khrushchevian anecdote.
+To show me he was abreast of Washington politics, he noted that “some Senators” were demanding that Kennedy invade Cuba.
+He said it reminded him of a conversation young Maxim Gorki once had with the elderly Tolstoy.
+The United States missiles in Turkey and Italy on the borders of the USSR represented a potential threat to Soviet security, while the United States was an ocean away from a reciprocal Soviet threat.
+Khrushchev wanted to redress this perceived imbalance in nuclear strike capability.
+Furthermore, the ill-fated Bay of Pigs Invasion in 1961 convinced Khrushchev that the United States was planning to invade Cuba.
+The Soviet missiles with nuclear warheads that targeted the entire United States mainland would enable Cuba, an ally of the USSR, to provide a powerful deterrent against such an attack.
+It was also possible, in the long term, that Cuba could provide a beachhead for the eventual spread of Communism into the Western Hemisphere.
+Hoping that the missile sites in Cuba would be a fait accompli by the time they were discovered and gambling that Kennedy would acquiesce once their existence was known, Khrushchev bet on his instincts, and shipped the missiles and nuclear warheads to Cuba.
+The Cerebral Component of Kennedy’s Decision Making When Kennedy saw the photos of missile sites in Cuba on October 16, he cursed and dismissed acquiescence as an option.
+Having a Soviet missile base with nuclear potential situated 90 miles off the American mainland was unacceptable.
+Realizing that further delays would enable the completion of the missile site installations, he initially dismissed further negotiation as an option.
+Then he and his ExComm identified four possible responses to Khrushchev’s preemptive move.
+Ranking of Kennedy’s Options & Initial Preferences Fig..1 surgical air strikes to a general air strike to a blockade of an invasion of Cuba remove the missile sites remove all military Cuba installations 4 1 2 3 In figure 3.1, Kennedy’s original preferences are numbered from 1 to 4 47 Intelligence with 1 denoting his favored option.
+His eagerness to remove the missiles before they became operational, prompted him to favor an immediate “surgical” air strike that might be less likely than a general air strike to precipitate an all-out conflict.
+As the ExComm discussions continued, all the options were explored and each option had its group of supporters.
+When the military contingent indicated that a surgical air strike would probably not remove all the missiles, Kennedy began to move toward his second choice, a general air strike.
+Though the fourth option, an invasion of Cuba was supported by some of the Hawks, it was taken off the table because it violated international law in the way that the Japanese invasion of Pearl Harbor had in 1941.
+When the meeting ended, Kennedy was committed to the general air strike and the date for this attack was set at October 20.
+New reconnaissance U-2 plane photographs of missile installations in Cuba revealed that there were intermediate-range ballistic missile sites.
+These missiles could reach most of the continental United States excluding the Pacific Northwest, enabling the Soviet-controlled arsenal in Cuba to obliterate the United States missile sites in a preemptive strike.
+This new information prompted General Maxwell Taylor, the chairman of the Joint Chiefs of Staff to recommend reinstatement of option 4–a full invasion of Cuba, arguing that anything less would not be enough to remove these offensive weapons.
+Meanwhile, Llewellyn Thompson, a special advisor on Soviet affairs was urging the consideration of a naval blockade, but this was dismissed by the generals because it wouldn’t address the missiles that were already in Cuba.
+JFK’s memory of the bad advice, received from the Chiefs of Staff during the Bay of Pigs invasion, prompted him to assign greater credibility to advice from Thompson and the Secretary of Defense, Robert McNamara, who both cautioned that an invasion might precipitate a nuclear war.
+Furthermore, option 3, a blockade, would provide for more negotiation and give Khrushchev a respectable path for retreat.
+John Kennedy held a 45-minute meeting with the Joint Chiefs of Staff to inform them of his inclination to institute a blockade.
+He wanted to present a united front to the American public and wanted to ensure that the Chiefs were on board.
+It was clear to the President that he was squeezed between a hostile foreign power and his military Chiefs who saw preemptive strike as the only viable option.
+He said to his political advisor, Kenneth O’Donnell, “These brass hats have one great advantage in their favor.
+Any dissension among members of the ExComm could lead to political problems if the blockade were to fail.
+Throughout the day, the preferred options ran through the entire spectrum of choices from invasion to blockade, and concluded with a majority of support for an invasion.
+Robert Kennedy called the President who was in Chicago, and urged him to come back to Washington immediately to lead the ExComm deliberations.
+New intelligence reports revealed that at least eight medium-range ballistic missiles in Cuba were operational.
+This meant that any attack by the United States was unlikely to remove all the Cuban offensive weapons, leaving some nuclear sites capable of retaliation.
+A nuclear response by Cuba to an air strike therefore seemed highly probable.
+This information suggested that the cost of any military strike in human lives was much greater than originally estimated.
+After two hours of discussion, a vote was taken and the blockade option became the official ExComm choice.
+It was agreed that the President would deliver a nation-wide address informing the American public about the missiles in Cuba and his intent to institute a “quarantine” to prevent the transport of additional missiles to that island.
+A copy of Kennedy’s speech along with a covering letter would be sent to the Soviet premier Nikita Khrushchev.
+As the flow of new information emerging from the discussion reduced the gap between the perceptions of the decision-makers and the reality, the order of the preferred options had changed dramatically.
+The fear of precipitating a nuclear war had trumped the immediate impulse to remove the missiles by force.
+President Kennedy, wrapped up his meeting with the ExComm and left to deliver his speech announcing the blockade.
+If we go into Cuba, we have to all realize that we have taken the chance that these missiles, which are ready to fire, won’t be fired.
+At 7:00m. that evening, Kennedy delivered his address to the nation, indicating that the USSR had secretly installed in Cuba offensive missiles with nuclear capability.
+He stressed that this Soviet missile base threatened the entire Western Hemisphere and announced that the United States would set up a naval quarantine to search ships that might be carrying offensive weapons to that island.
+The address contained this appeal to the Premier of the USSR:10 I call upon Chairman Khrushchev to halt and eliminate this clandestine, reckless and provocative threat to world peace and to stable relations between our two nations.
+He has an opportunity now to move the world back from the abyss of destruction…–by refraining from any action which will widen or deepen the present crisis–and then by participating in a search for peaceful and permanent solutions.
+The Cerebral Component of Khrushchev’s Decision Making Khrushchev’s opponent in this game had neither folded nor called the bet.
+By announcing the blockade as a “quarantine,” he sidestepped the charge that his actions were an act of war.
+Most importantly, he chose the option that provided his adversary with a face-saving exit strategy.
+The Cerebral Component Ranking of Khrushchev’s Options & Initial Preferences Fig..3 refuse to remove refuse to remove agree to remove misacquiesce by agreeing to missiles from Cuba missiles from Cuba siles and negotiate a remove missiles and not submit to but submit to the quid pro quo the blockade blockade 3 4 1 2 Khrushchev’s initial response to Kennedy’s letter was anger.
+The Soviet premier felt that the American missiles in Turkey and Italy that threatened Soviet borders entitled the USSR to station its missiles in Cuba.
+Consequently, he decided, in spite of the embargo, to press on with the installation of the missile sites.
+He put the entire military on high alert, suspended all leave, and prepared for war.
+Option 1 was his visceral response to the threat of force implicit in Kennedy’s blockade.
+In his strident reply to the American president, on October 24, he threatened to run the blockade and apply force if necessary11.
+Khrushchev was extending an olive branch to Washington in his open letter to Russell, but Washington did not respond.
+In fact, on the morning of October 25, Khrushchev received a strong letter from Kennedy admonishing him for his deception and his precipitation of the crisis.
+It was clear that Kennedy 51 Intelligence would accept nothing less than the removal of all the missiles from Cuba.
+Previously that morning, the Soviets in the embassy in Washington had informed Khrushchev that the United States was preparing for some military action.
+Realizing that events were spiraling out of control, Khrushchev convened a meeting of the Presidium to formalize a new Soviet response to the US blockade.
+It has been conjectured that Khrushchev’s change of heart came from a recognition that the United States had a superior nuclear force and that the Soviets could not prevail in a battle fought so far off their shores.
+The 68-year-old Premier wished to investigate whether Washington would be amenable to an agreement whereby the Soviet Union would remove the missiles from Cuba, conditional on a United States promise not to invade that island.
+Khrushchev’s plan was approved by the Presidium, but the details would depend on the negotiation process.
+In a period of one day, Khrushchev’s discovery of Kennedy’s refusal to accept the missiles in Cuba transformed his preferred options in accordance with figure 3.4.
+Khrushchev’s Options & Final Decision Fig..4 refuse to remove refuse to remove agree to remove misacquiesce by agreeing to missiles from Cuba missiles from Cuba siles and negotiate a remove the missiles and not submit to but submit to the compromise the blockade blockade 1 2 taken off the table taken off the table The Final Agreement Robert F Kennedy’s posthumous memoir, Thirteen Days, provided some of the details of a series of secret negotiations he conducted with Soviet ambassador Anatoly Dobrynin that led to the final agreement in the settling of the Missile Crisis.
+When the dust had settled on a series of thrust-and-parry negotiations, President Kennedy pledged that the United States would agree not to invade Cuba without direct provocation.
+Furthermore, the United States would also remove the Jupiter missiles it had stationed in Turkey and Italy, in exchange for Soviet agreement to remove its missiles from Cuba and return them to the Soviet Union under United Nations supervision.
+An important part of this agreement was that while the United States pledge not to invade Cuba should be made public, the removal of the missiles from Turkey and Italy must remain secret.
+John Kennedy feared that publicly announcing the removal of the missiles from Turkey might alarm American allies in NATO and also make the United States appear to be submitting to the Soviet Union’s aggressive action.
+The Cerebral Component How Kennedy and Khrushchev approached the Known Unknowns In pure games there is no gap between reality and perception.
+Properly programmed, a computer can identify from a series of options the optimal choice.
+However, when we attempt to apply game theory to human decision making in real-life situations, we face the problem that our knowledge of the viable options is imperfect and we must make assumptions to fill the gap between reality and perception,e., what we know and what we know we don’t know.
+Facts that we know are called known knowns and facts that we know we don’t know are called known unknowns.
+On October 16, 1962, when Kennedy learned of the existence of the missiles, many questions emerged.
+The tables below display some of the known unknowns and the gaps between their assumptions and the corresponding reality.
+Kennedy that there were fully-armed, battle-ready about 6000 to 8000 Soviet Soviet troops in Cuba. technicians in Cuba.
+As he reduced this gap, the viability of each option changed dramatically and that changed his decisions.
+Kennedy, Khrushchev, and Castro on the Brink of Nuclear War, author Michael Dobbs observed:15 The President may be the best-informed person in the world, but there’s still much that he doesn’t know.
+The beginning of wisdom for any president–certainly including JFK–is understanding that you are groping about in the dark.
+Kennedy had learned from the failed Bay of Pigs operation that his generals had not collected enough information to support competent decisionmaking.
+Not only had they underestimated the capability of Cuba’s air force, but they had assumed that once the invaders established a beachhead on the Bay of Pigs, they could advance northward to the Escambray Mountains.
+Khrushchev attempted to close the gap between his perceptions and reality by interviewing Americans who knew Kennedy.
+Both leaders sought to make more informed decisions by converting known unknowns into known knowns.
+As they gained more information, the priority order of their options changed.
+Kennedy moved away from a surgical air strike, that would likely have triggered a nuclear response, and chose instead a quarantine.
+In his ability to gather evidence to inform his decision-making, Kennedy was exhibiting one of the defining characteristics of higher intelligence.
+Hypothesis 3.1 An important indicator of high intelligence is the ability to change your opinion in the face of compelling evidence.
+Khrushchev retreated from his initial effort at intimidation and moved toward conciliation.
+The quest on the part of both leaders to convert their known unknowns into known knowns was the cerebral component of their strategic decision making.
+However, lurking beneath this process was a hidden visceral component that assigned payoffs to the possible outcomes and this became a vital determinant in the ultimate decision of each leader.
+As the behind-thescenes details of this confrontation were unveiled, we learned about the complex interplay of visceral and cerebral processes that began with a visceral reaction followed by a frenetic quest to gain information and a scramble to assign potential payoffs and penalties to each option.
+The flow chart in figure 3. summarizes the stages through which both leaders reached their final decisions.
+Stages in the Decision-Making Process of Kennedy and Khrushchev Fig..5 Identify the Gather inAssign a Choose the ▶ ▶ ▶ options and formation to cost and a option that the known convert known benefit to optimizes unknowns unknowns to each option the benefits at known knowns minimum cost The first two steps in this flow chart represent the “cerebral” part of the decision-making process, as outlined in the previous section.
+However, it’s the third step in this flow chart that returns us to our original question about the efficacy of game theory in modeling decision making.
+A key assumption of game theory is that all participants make purely rational decisions based on their knowledge of the choices and the probable outcomes.
+If an optimum choice of several options exists, then any two participants with the same “known knowns” should reach the same decision.
+However, we observed in the discussions among members of the ExComm, that there was substantial disagreement at each stage about the preferred option–in spite of the fact that all members were in possession of the same facts.
+The generals perceived an aggressive military strike as the appropriate choice, while Llewellyn Thompson and Robert McNamara preferred negotiation and a less aggressive choice.
+Since all these men were in possession of the same facts, it was in the third stage of the flow chart that they must have differed–likely in their perceptions of the probable costs and benefits of each option.
+Since all the known knowns were shared, these opinions must have been spawned from instincts at the unconscious level.
+These insights reveal the challenges faced by any attempt to reduce all human decision making to an algorithmic process that can be modeled by artificial intelligence.
+The Visceral Component Truly successful decision making relies on a balance between deliberate and instinctive thinking. –Malcolm Gladwell, Canadian journalist and author The Arbor Room: Tuesday, November 6, 1962 T he carefree ambience of early fall faded into the past as the bright October days of colored leaves and football parades with marching bands yielded to the dank and dreary days of early November.
+Their brilliant red poppies revealed that they were rehearsing for the Remembrance Day ceremonies, commemorating those who died in the two World Wars.
+The parade ended at the Soldiers’ Tower where the names of alumni who had died in battle were inscribed.
+In a flash, I recalled a poem that our grade five class at Roselands Public School had memorized under protest.
+My mother, a Between the crosses, row on row, voracious reader of history, That mark our place; and in the sky had asserted that every generaThe larks, still bravely singing, fly tion has a war.
+She spoke sarScarce heard amid the guns below. donically of World War I that We are the Dead.
+Short days ago was declared to be the war to We lived, felt dawn, saw sunset glow, end all wars.
+I had assumed that raWe shall not sleep, though poppies grow In Flanders fields. tional thinking would always overrule our emotions in de – Lieutenant Colonel John McCrae1 57 Intelligence cision making during crises.
+In my enthusiasm for the power of rational thought, I dismissed her assertion with the same dispatch as her declaration that if Kennedy were elected President, he would be assassinated.
+It was easy to dismiss her predictions as “off-the-wall,” because mother was not good at chess or checkers.
+Before we learned to farm 12,000 years ago, we were hunter-gatherers, traveling in tribes and killing animals to survive.
+We, like our primate cousins, fought for territory and killed competing tribes when our space was threatened,” responded Eldon.
+They’re herbivores, so they don’t eat meat and they kill only in self-defense.
+Eldon sat straight in his chair, as if grouping a flood of ideas into a single response.
+We have to look at the record of human history to determine which primate species we most resemble.
+Before the Europeans came to America this continent consisted of Indian tribes who staked out hunting grounds that they protected in territorial wars.
+When the Europeans came to America, they used their superior technology and numbers to slaughter the Indians and occupy their territory.
+It was a direct result of Hitler’s invasion of Czechoslovakia and Poland, and Japan’s conquest of mainland China, that later culminated in the attack on Pearl Harbor.
+Eldon saw where David was going and he could see a potential checkmate.
+That challenges my current assertion that our instinct for war may prevail over our cerebral decision making.
+The Visceral Component response will always be with us, but I believe that our cerebral abilities can overrule this instinct.
+Sean, who had been listening intently as he devoured his donut, responded, “Actually, the point that David and I were making in last week’s discussion is that it was the human instinct for self-preservation that overruled the tribal instinct for war.
+Eldon sat back in his chair and poured his tea from the silver aluminum pot as he reflected on Sean’s comments.
+Supporting what seemed to be an evolving agreement, I inserted a personal anecdote.
+My father suggested we make a list of the pros and cons of owning a dog and then decide.
+In the list under ‘cons’ we noted that dogs cost money, they need frequent walking, they can complicate travel arrangements, etc.
+Assigning a weight to each factor was a purely visceral exercise–all the reasons against acquiring a dog were outweighed by the single desire to have a dog.
+If the price of acquiring a dog were beyond your family’s financial reach, that factor could trump the desire to have a dog.
+The intuition is a powerful distillation of inherited and learned behaviors, but we need to resort to rational thinking when our intuitions lead us astray.
+Last summer we were at the cottage where there are lots of rocks inhabited by large garter snakes.
+My mother was freaking out; the stealth movement of these reptiles pushes her terror button, so she asked me to kill the snakes.
+Although I knew that garter snakes are not venomous and are incapable of harming me, I was afraid to grab one.
+My heart was racing and I could feel an elevated anxiety as I seized it by the tail.
+The snake seemed heavier than expected and that increased my anxiety as I ran down the lane and tossed it into the dense brush.
+The pounding in my chest told me that something in the deeper underbrush of my brain was overriding my cerebral understanding that the snake was harmless.
+Cuddles was, indeed, a formidable presence in the McLennan Lab2 and she terrorized more than one generation of MPC students–but more about her later.
+As I too scurried to the physics lab, I reflected on the give and take of our Arbor Room discussion.
+Most people I encountered would take a position in a debate and defend it to the limit, barely acknowledging other points of view and often repeating the same argument with escalating vehemence.
+However, our group was distinctly different in their openness to opposing opinions.
+My confreres seemed to welcome challenging opinions as an opportunity to learn.
+In the years that followed, it became evident that this disposition paid significant dividends in enhancing our learning and moving us into the higher echelons of sophisticated thinking.
+However, during our discussion on November 6, we came to suspect that the visceral components might have played a more prominent role in the decision making, though none of us knew how prominently the emotions and the instincts of the antagonists factored into that confrontation.
+On December 21, 2015, the United States top-secret report Strategic Air Command Atomic Weapons Requirements Study for 1959 was declassified.
+Contained in that report was the list of 1100 Soviet-bloc airfields and 1200 population centers in the Soviet Union that were targeted by the United States for nuclear destruction in the event of a nuclear war.
+The fact that intelligent humans could coldly contemplate the brutal anreprinted with permission Associated Press nihilation of millions of members of their fellow species is a grim reminder that our visceral reaction to a perceived threat has not evolved much beyond our tribal days.
+However, the lessons of history have taught us that humans are territorial animals and the ongoing competition for land and resources demands that military escalation by a rival be met with a sufficient deterrent.
+Indeed, World War II taught us that if the Allies had been unwilling to prepare for or engage in war with the Axis Alliance they would have become subject to the tyranny of those aggressors.
+Even prominent intellectuals like Albert Einstein and Bertrand Russell–originally pacifists–revised their opinions on the necessity of preparing for war in the face of a bellicose adversary.
+Until recently our closest cousin, the chimpanzee (who shares 98% of our DNA) was believed to be one of the few primates that does not kill other members of its species for territorial acquisition.
+However, in 2010, anthropologist John Mitani and his colleagues completed a ten-year study in which they observed a large chimpanzee community at Ngogo, Kibale National Park in Uganda.
+During this time, they witnessed the Ngogo chimpanzees killing 18 members of a rival group and then occupying their territory.
+In times of emotional stress, we humans revert to our instinctive biological beginnings.
+Like our fellow animals, we respond to threats from external tribes by mobilizing for war.
+It is naïve to think that people who plan for defense are evil, inhuman or uniquely hawkish.
+Indeed, our mere survival at the top of the food chain has shown that our instincts have served us well during the first million or two years in our evolution.
+However, our technology has changed more dramatically than our fundamental nature, and these primitive instincts are now threatening our survival.
+Understanding the mechanisms that come into play as people make decisions in crisis situations requires a deeper insight into human cognition and the unconscious mind where all our hidden instincts reside.
+We refer to these instincts as unknown knowns, because they are programs or scripts etched in our brains through evolution or experience and are known only to our unconscious mind.
+An Instinct that Plays a Key Role in Decisions during Crisis In 2002, Daniel Kahneman, whom you met in the introduction, shared a Nobel Prize in economics for his research on human decision-making under conditions of uncertainty.
+If it shows heads you OR You receive $46 for sure. win $100; if tails, you win nothing.
+Though the rational choice is A (because it yields the greater expected value7 of $50), it was found that an overwhelming majority of people selected B as their preferred choice.
+The major insight that ultimately became the essence of prospect theory was that humans have evolved to be loss averse.
+This loss aversion prompts us to take a sure thing over a potential gain, even when the potential gain is disproportionately greater than the sure thing.
+Furthermore, our loss aversion prompts us to seek risk when given the choice between a sure loss and the chance of a loss.
+The Visceral Component Most people rejected the gamble, even though the expected value is a gain of $508.
+In 2000, he proved mathematically that according to standard theory, anyone who rejects the proposition above must also reject the following:9 Toss a coin.
+It is clear that many people who would accept the second proposition might reject the first.
+Rabin’s theorem proves that utility theory cannot distinguish between these two propositions.
+Hence, the loss aversion embedded in the human psyche prevents us from making purely rational decisions as defined in game theory.
+That is, in situations that threaten loss or regret we select less than the optimal solution.
+Furthermore, the degree to which a decision maker departs from a rational decision depends on that person’s loss aversion–known as his loss aversion coefficient.
+Loss Aversion in Golf–Playing Not to Lose The human tendency toward loss aversion was observed in a study of golfers published in 2011.
+In golf, the number of strokes that a 0-handicap golfer is expected to take from the tee shot to the final putt is called par for that hole.
+One stroke less than par represents a gain of one stroke against the golf course, and is called a birdie.
+One stroke more than par represents a loss of a stroke against the course and is called a bogey.
+If loss aversion is a factor in professional golf, then it would be expected that golfers would be more focused on protecting against a loss than making a gain.
+After collecting data on the success rates of birdie and par putts from equal distances, they verified that on average golfers make their birdie putts significantly less often than they make similar par putts.
+That is, professional golfers were significantly more focused on avoiding the loss of a stroke than on taking a risk to gain a stroke.
+Both leaders recognized that they carried the ultimate decision and hence the heaviest responsibility for their government’s actions.
+Kennedy had expressed this emotion at the height of the Missile Crisis in reciting from a poem by Spanish bullfighter, Domingo Ortega:12 Bullfighter critics ranked in rows Crowd the enormous Plaza full; But only one man is there who knows And he’s the man who fights the bull.
+Both antagonists struggled in repeated attempts to avoid a thermonuclear confrontation without appearing to capitulate.
+It may have been closer to a tie than an all-out victory for Kennedy, although JFK was the perceived victor.
+The fear of precipitating a nuclear war and the ethical burden of responsibility for mass destruction of human life moved both leaders back from the brink.
+This was the visceral component–risk aversion–in the final decision to negotiate.
+This “gut” response was followed by a shift into rational mode when he met with the ExComm to solicit more information about known unknowns, such as the locations, numbers, and nuclear capabilities of the missile sites.
+The Visceral Component Meanwhile, Khrushchev operating in rational mode, attempted to determine how Kennedy might react on discovering the existence of the Russian missiles in Cuba.
+His initial reaction was visceral,e., to refuse access to his ships and to retaliate.
+After Major Rudolf Anderson’s U-2 was shot down by a surface-to-air missile launched from Cuba, both leaders realized that the confrontation was escalating out of control.
+Not wishing to bear the responsibility for the first nuclear war, both leaders assigned a huge negative payoff to the “worst outcome” in the game theory model–they moved to negotiation.
+It appears that skilled decision makers toggle back and forth between visceral and cerebral modes as they assess their options and assign weights to the outcomes.
+However, the weights assigned to the possible outcomes derive mainly from visceral considerations that vary from person to person.
+In the classical economic theory of choice, each possible outcome of one or more decisions is assigned a payoff based on its perceived value.
+The payoff may be expressed in any currency such as money, status, or dominance, but the underlying assumption is that this payoff can be expressed as a number.
+A rational decision is one that selects from two or more choices, the one that yields the maximum payoff for the decision maker.
+A tacit assumption in theories of choice, such as game theory, is that payoffs can be assigned to outcomes in a sufficiently precise manner to allow for the computation of an optimal or rational decision.
+A second assumption is that the decision maker is expected to make a rational decision.
+Both assumptions have been challenged in the most recent decades by research in choice theory.
+Variations in Risk Aversion Skew the Game Theory Payoff Matrix While the existence of known unknowns limits the application of game theory to human decision making, there is an even greater impediment– assigning values to the payoff matrix.
+The emotional component of our decision making plays a key role in assigning payoffs to outcomes, and different decision makers may have significantly different loss aversion coefficients.
+For Kennedy and Khrushchev, the payoff for the “worst outcome” in Chicken was a huge negative.
+In his “Armageddon letter” on Black Saturday, under the battle cry “Patria o muerte” , he embraced the con65 Intelligence cept of a “glorious death”, advising Khrushchev to use nuclear weapons to annihilate the United States if they were to attack Cuba.
+Today, there are regimes like ISIS and al-Qaeda whose beliefs are rooted in ancient religious doctrines that promise an eternal life in exchange for a glorious death.
+In such cases, the “chicken” model no longer applies because the “worst outcome” may become a desirable outcome to one of the antagonists.
+The weights assigned to outcomes in a game theory model of conflict depend on the beliefs and visceral dispositions of the antagonists.
+Nuclear threats, it is true, contributed to a peaceful outcome of the Cuban missile crisis of 1962.
+We owe our hair’s-breadth escape from catastrophe to the spectre of nuclear war.
+But no one in a position of responsibility at that time would for an instant have contemplated its repetition.
+Stephen Hawking, in his 2018 posthumous publication, Big Answers to the Big Questions, warned:15 Aggression, …, has had definite survival advantage up to the present time.
+But now it could destroy the entire human race and much of the rest of life on Earth.
+A nuclear war is still the most immediate danger … Epilog My first glimmer of the power and secret workings of our hidden instincts or unknown knowns came to light in our Arbor Room discussion on November 6, 1962.
+These scripts that reside below our conscious level have a profound influence on our decision-making.
+Recent research in cognition has revealed some of these unknown knowns that work invisibly in the unconscious mind and are observable only through our behaviors.
+These irrational effects are most dramatically manifest in our decision making during stressful situations, such as direct confrontation, stock market chaos, or divorce.
+Though game theory can be useful in modeling decision making, it is limited by the unpredictability of our instincts.
+The fact that decision making is not purely rational, especially in crisis, limits the reliability of a purely mathematical treatment.

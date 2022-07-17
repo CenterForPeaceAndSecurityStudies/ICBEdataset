@@ -1,0 +1,313 @@
+Building on scientific breakthroughs made during the 1930s, the United States, the United Kingdom, Canada, and free France collaborated during World War II, in what was called the Manhattan Project, to build a fission weapon, also known as an atomic bomb.
+In August 1945, the atomic bombings of Hiroshima and Nagasaki were conducted by the United States against Japan at the close of that war, standing to date as the only use of nuclear weapons in hostilities.
+The Soviet Union started development shortly after with their own atomic bomb project, and not long after, both countries were developing even more powerful fusion weapons known as hydrogen bombs.
+Britain and France built their own systems in the 1950s, and the list of states with nuclear weapons has gradually grown larger in the decades since.
+Contents 1 Physics and politics in the 1930s and 1940s 2 From Los Alamos to Hiroshima 2.
+History of physics § 20th century: birth of modern physics In nuclear fission, the nucleus of a fissile atom absorbs a thermal neutron, becomes unstable and splits into two new atoms, releasing some energy and between one and three new neutrons, which can perpetuate the process.
+In the first decades of the 20th century, physics was revolutionized with developments in the understanding of the nature of atoms.
+In 1898, Pierre and Marie Curie discovered that pitchblende, an ore of uranium, contained a substance—which they named radium—that emitted large amounts of radioactivity.
+Ernest Rutherford and Frederick Soddy identified that atoms were breaking down and turning into different elements.
+Hopes were raised among scientists and laymen that the elements around us could contain tremendous amounts of unseen energy, waiting to be harnessed.
+G Wells was inspired to write about atomic weapons in a 1914 novel, The World Set Free, which appeared shortly before the First World War.
+In January 1933, the Nazis came to power in Germany and suppressed Jewish scientists.
+Like many others Leó Szilárd fled to London where in 1934, he patented the idea of a nuclear chain reaction via neutrons.
+The patent was not about an atomic bomb per se, as the possibility of chain reaction was still very speculative.
+Szilard subsequently assigned the patent to the British Admiralty so that it could be covered by the Official Secrets Act.
+In a very real sense, Szilárd was the father of the atomic bomb academically.
+The 1934 military secret patent of Szilard was clearly ahead of the time.
+The neutron inducted nuclear chain reactions and power from that reactions, and the possibility of the nuclear explosion from these reactions, and the rudimentary mechanics of such a power plant was five years before the public discovery of nuclear fission, and 8 years before Szilard and his friend Enrico Fermi demonstrated a working reactor with uranium at the university of Chicago in 1942.
+When he coined the neutron inducted chain reaction, he was not sure about the usage of the perfect element or isotope yet, despite he mentioned correctly the uranium and thorium too, finally he stressed mistakenly the idea of berylium.In 1934, Szilard joined with Enrico Fermi in patenting the world's first working nuclear reactor.In Paris in 1934, Irène and Frédéric Joliot-Curie discovered that artificial radioactivity could be induced in stable elements by bombarding them with alpha particles; in Italy Enrico Fermi reported similar results when bombarding uranium with neutrons.
+In December 1938, Otto Hahn and Fritz Strassmann reported that they had detected the element barium after bombarding uranium with neutrons.
+Lise Meitner and Otto Robert Frisch correctly interpreted these results as being due to the splitting of the uranium atom.
+They gave the process the name ""fission"" because of its similarity to the splitting of a cell into two new cells.
+The following year, they identified the active component of uranium as being the rare isotope uranium-235.
+Between 1939 and 1940, Joliot-Curie's team applied for a patent family covering different use cases of atomic energy, one being the first official document explicitly mentioning a nuclear explosion as a purpose, including for war.
+This patent was applied for on May 4, 1939, but only granted in 1950, being withheld by French authorities in the meantime.
+When the nucleus of uranium-235 absorbs a neutron, it undergoes nuclear fission, releasing energy and, on average, 2. neutrons.
+Because uranium-235 releases more neutrons than it absorbs, it can support a chain reaction and so is described as fissile.
+Uranium-238, on the other hand, is not fissile as it does not normally undergo fission when it absorbs a neutron.
+By the start of the war in September 1939, many scientists likely to be persecuted by the Nazis had already escaped.
+Physicists on both sides were well aware of the possibility of utilizing nuclear fission as a weapon, but no one was quite sure how it could be engineered.
+In August 1939, concerned that Germany might have its own project to develop fission-based weapons, Albert Einstein signed a letter to United States President Franklin D Roosevelt warning him of the threat.Roosevelt responded by setting up the Uranium Committee under Lyman James Briggs but, with little initial funding , progress was slow.
+The Maud Committee was set up following the work of Frisch and Rudolf Peierls who calculated uranium-235's critical mass and found it to be much smaller than previously thought which meant that a deliverable bomb should be possible.
+Edgar Sengier, a director of Shinkolobwe Mine in the Congo which produced by far the highest quality uranium ore in the world, had become aware of uranium's possible use in a bomb.
+Two of his first acts were to obtain authorization to assign the highest priority AAA rating on necessary procurements, and to order the purchase of all 1,250 tons of the Shinkolobwe ore.
+The Tube Alloys project was quickly overtaken by the United States effort and after Roosevelt and Churchill signed the Quebec Agreement in 1943, it was relocated and amalgamated into the Manhattan Project.
+Leo Szilard, invented the electron microscope, linear accelerator, cyclotron, nuclear chain reaction and patented the nuclear reactor in London in 1934.
+From Los Alamos to Hiroshima This section needs additional citations for verification.
+Manhattan Project UC Berkeley physicist J Robert Oppenheimer led the Allied scientific effort at Los Alamos.
+Proportions of uranium-238 and uranium-235 found naturally versus grades that are enriched by separating the two isotopes atom-by-atom using various methods that all require a massive investment in time and money.
+The beginning of the American research about nuclear weapons started with the Einstein–Szilárd letter.
+With a scientific team led by J Robert Oppenheimer, the Manhattan project brought together some of the top scientific minds of the day, including many exiles from Europe, with the production power of American industry for the goal of producing fission-based explosive devices before Germany.
+Britain and the United States agreed to pool their resources and information for the project, but the other Allied power, the Soviet Union , was not informed.
+The United States made a tremendous investment in the project which at the time was the second largest industrial enterprise ever seen, spread across more than 30 sites in the United States and Canada.
+Scientific development was centralized in a secret laboratory at Los Alamos.
+For a fission weapon to operate, there must be sufficient fissile material to support a chain reaction, a critical mass.
+Another secret site was erected at rural Oak Ridge, Tennessee, for the large-scale production and purification of the rare isotope, which required considerable investment.
+At the time, K-25, one of the Oak Ridge facilities, was the world's largest factory under one roof.
+The Oak Ridge site employed tens of thousands of people at its peak, most of whom had no idea what they were working on.
+Massive new physics machines were assembled at secret installations around the United States for the production of enriched uranium and plutonium.
+Although uranium-238 cannot be used for the initial stage of an atomic bomb, when it absorbs a neutron, it becomes uranium-239 which decays into neptunium-239, and finally the relatively stable plutonium-239, which is fissile like uranium-235.
+After Fermi achieved the world's first sustained and controlled nuclear chain reaction with the creation of the first atomic pile, massive reactors were secretly constructed at what is now known as the Hanford Site to transform uranium-238 into plutonium for a bomb.
+The simplest form of nuclear weapon is a gun-type fission weapon, where a sub-critical mass would be shot at another sub-critical mass.
+The result would be a super-critical mass and an uncontrolled chain reaction that would create the desired explosion.
+The weapons envisaged in 1942 were the two gun-type weapons, Little Boy and Thin Man , and the Fat Man plutonium implosion bomb.
+The plutonium gun was to receive the bulk of the research effort, as it was the project with the most uncertainty involved.
+It was assumed that the uranium gun-type bomb could then be adapted from it.
+In December 1943 the British mission of 19 scientists arrived in Los Alamos.
+In April 1944 it was found by Emilio Segrè that the plutonium-239 produced by the Hanford reactors had too high a level of background neutron radiation, and underwent spontaneous fission to a very small extent, due to the unexpected presence of plutonium-240 impurities.
+If such plutonium were used in a gun-type design, the chain reaction would start in the split second before the critical mass was fully assembled, blowing the weapon apart with a much lower yield than expected, in what is known as a fizzle.
+Chemical explosives were used to implode a sub-critical sphere of plutonium, thus increasing its density and making it into a critical mass.
+The difficulties with implosion centered on the problem of making the chemical explosives deliver a perfectly uniform shock wave upon the plutonium sphere— if it were even slightly asymmetric, the weapon would fizzle.
+They concluded that, while Germany had an atomic bomb program headed by Werner Heisenberg, the government had not made a significant investment in the project, and it had been nowhere near success.
+Similarly, Japan's efforts at developing a nuclear weapon were starved of resources.
+Historians claim to have found a rough schematic showing a Nazi nuclear bomb.
+In March 1945, a German scientific team was directed by the physicist Kurt Diebner to develop a primitive nuclear device in Ohrdruf, Thuringia.
+Last ditch research was conducted in an experimental nuclear reactor at Haigerloch.
+Debate over the atomic bombings of Hiroshima and Nagasaki On April 12, after Roosevelt's death, Vice President Harry S Truman assumed the presidency.
+At the time of the unconditional surrender of Germany on May 8, 1945, the Manhattan Project was still months away from producing a working weapon.
+Because of the difficulties in making a working plutonium bomb, it was decided that there should be a test of the weapon.
+The test, a plutonium implosion-type device, released energy equivalent to 22 kilotons of TNT, far more powerful than any weapon ever used before.
+The news of the test's success was rushed to Truman at the Potsdam Conference, where Churchill was briefed and Soviet Premier Joseph Stalin was informed of the new weapon.
+The atomic bombings of Hiroshima and Nagasaki killed tens of thousand Japanese combatants and non-combatants and destroyed dozens of military bases and supply depots as well as hundreds of factories.
+After hearing arguments from scientists and military officers over the possible use of nuclear weapons against Japan , Truman ordered the use of the weapons on Japanese cities, hoping it would send a strong message that would end in the capitulation of the Japanese leadership, and avoid a lengthy invasion of the islands.
+Truman and his Secretary of State James F Byrnes were also intent on ending the Pacific war before the Soviets could enter it, given that Roosevelt had promised Stalin control of Manchuria if he joined the invasion.
+Concerns about Kyoto's cultural heritage led to it being replaced by Nagasaki.
+Evidence suggests that these leaflets were never dropped over Hiroshima and Nagasaki, or were dropped too late.
+On August 6, 1945, a uranium-based weapon, Little Boy, was detonated above the Japanese city of Hiroshima, and three days later, a plutonium-based weapon, Fat Man, was detonated above the Japanese city of Nagasaki.
+To date, Hiroshima and Nagasaki remain the only two instances of nuclear weapons being used in combat.
+The atomic raids killed at least one hundred thousand Japanese civilians and military personnel outright, with the heat, radiation, and blast effects.
+Many tens of thousands would later die of radiation sickness and related cancers.
+Truman promised a ""rain of ruin"" if Japan did not surrender immediately, threatening to systematically eliminate their ability to wage war.
+Soviet atomic bomb project This section needs additional citations for verification.
+Soviet atomic bomb project The Soviet Union was not invited to share in the new weapons developed by the United States and the other Allies.
+During the war, information had been pouring in from a number of volunteer spies involved with the Manhattan Project , and the Soviet nuclear physicist Igor Kurchatov was carefully watching the Allied weapons development.
+Stalin was nonetheless outraged by the situation, more by the Americans' guarded monopoly of the bomb than the weapon itself.
+Some historians share the assessment that Truman immediately authorized nuclear weapons as a ""negotiating tool"" in the early Cold War.
+In alarm at this monopoly, the Soviets urgently undertook their own atomic program.The Soviet spies in the United States project were all volunteers and none were Soviet citizens.
+One of the most valuable, Klaus Fuchs, was a German émigré theoretical physicist who had been part of the early British nuclear efforts and the UK mission to Los Alamos.
+Fuchs had been intimately involved in the development of the implosion weapon, and passed on detailed cross-sections of the Trinity device to his Soviet contacts.
+Other Los Alamos spies—none of whom knew each other—included Theodore Hall and David Greenglass.
+The information was kept but not acted upon, as the Soviet Union was still too busy fighting the war in Europe to devote resources to this new project.
+In the years immediately after World War II, the issue of who should control atomic weapons became a major international point of contention.
+Many of the Los Alamos scientists who had built the bomb began to call for ""international control of atomic energy,"" often calling for either control by transnational organizations or the purposeful distribution of weapons information to all superpowers, but due to a deep distrust of the intentions of the Soviet Union, both in postwar Europe and in general, the policy-makers of the United States worked to maintain the American nuclear monopoly.
+A half-hearted plan for international control was proposed at the newly formed United Nations by Bernard Baruch , but it was clear both to American commentators—and to the Soviets—that it was an attempt primarily to stymie Soviet nuclear efforts.
+The Soviets vetoed the plan, effectively ending any immediate postwar negotiations on atomic energy, and made overtures towards banning the use of atomic weapons in general.
+The Soviets had put their full industrial might and manpower into the development of their own atomic weapons.
+The initial problem for the Soviets was primarily one of resources—they had not scouted out uranium resources in the Soviet Union and the United States had made deals to monopolise the largest known reserves in the Belgian Congo.
+Two days after the bombing of Nagasaki, the United States government released an official technical history of the Manhattan Project, authored by Princeton physicist Henry DeWolf Smyth, known colloquially as the Smyth Report.
+The sanitized summary of the wartime effort focused primarily on the production facilities and scale of investment, written in part to justify the wartime expenditure to the American public.
+The Soviet program, under the suspicious watch of former NKVD chief Lavrenty Beria , would use the Report as a blueprint, seeking to duplicate as much as possible the American effort.
+The ""secret cities"" used for the Soviet equivalents of Hanford and Oak Ridge literally vanished from the maps for decades to come.
+At the Soviet equivalent of Los Alamos, Arzamas-16, physicist Yuli Khariton led the scientific effort to develop the weapon.
+Beria distrusted his scientists, however, and he distrusted the carefully collected espionage information.
+As such, Beria assigned multiple teams of scientists to the same task without informing each team of the other's existence.
+If they arrived at different conclusions, Beria would bring them together for the first time and have them debate with their newfound counterparts.
+American developments after World War II With the Atomic Energy Act of 1946, the United States Congress established the civilian Atomic Energy Commission to take over the development of nuclear weapons from the military, and to develop nuclear power.
+The AEC made use of many private companies in processing uranium and thorium and in other urgent tasks related to the development of bombs.
+The Atomic Energy Act also established the United States Congress Joint Committee on Atomic Energy, which had broad legislative and executive oversight jurisdiction over nuclear matters and became one of the powerful congressional committees in United States history.
+Its two early chairmen, Senator Brien McMahon and Senator Bourke Hickenlooper, both pushed for increased production of nuclear materials and a resultant increase in the American atomic stockpile.
+The size of that stockpile, which had been low in the immediate postwar years, was a closely guarded secret.
+Indeed, within the United States government, including the Departments of State and Defense, there was considerable confusion over who actually knew the size of the stockpile, and some people chose not to know for fear they might disclose the number accidentally.
+The first thermonuclear weapons This section needs additional citations for verification.
+History of the Teller-Ulam design Hungarian physicist Edward Teller toiled for years trying to discover a way to make a fusion bomb.
+It was thought at the time that a fission weapon would be quite simple to develop and that perhaps work on a hydrogen bomb would be possible to complete before the end of the Second World War.
+However, in reality the problem of a regular atomic bomb was large enough to preoccupy the scientists for the next few years, much less the more speculative ""Super"" bomb.
+Only Teller continued working on the project—against the will of project leaders Oppenheimer and Hans Bethe.
+The Joe-1 atomic bomb test by the Soviet Union that took place in August 1949 came earlier than expected by Americans, and over the next several months there was an intense debate within the United States government, military, and scientific communities regarding whether to proceed with development of the far more powerful Super.After the atomic bombings of Japan, many scientists at Los Alamos rebelled against the notion of creating a weapon thousands of times more powerful than the first atomic bombs.
+Many scientists, such as Bethe, urged that the United States should not develop such weapons and set an example towards the Soviet Union.
+Promoters of the weapon, including Teller, Ernest Lawrence, and Luis Alvarez, argued that such a development was inevitable, and to deny such protection to the people of the United States—especially when the Soviet Union was likely to create such a weapon themselves—was itself an immoral and unwise act.
+Oppenheimer, who was now head of the General Advisory Committee of the successor to the Manhattan Project, the Atomic Energy Commission, presided over a recommendation against the development of the weapon.
+The reasons were in part because the success of the technology seemed limited at the time , and because Oppenheimer believed that the atomic forces of the United States would be more effective if they consisted of many large fission weapons rather than the large and unwieldy super bombs, for which there was a relatively limited number of targets of sufficient size to warrant such a development.
+What is more, if such weapons were developed by both superpowers, they would be more effective against the United States than against the USSR, as the United States had far more regions of dense industrial and civilian activity as targets for large weapons than the Soviet Union.
+In the end, President Truman made the final decision, looking for a proper response to the first Soviet atomic bomb test in 1949.
+On January 31, 1950, Truman announced a crash program to develop the hydrogen bomb.
+However, an insight by Los Alamos mathematician Stanislaw Ulam showed that the fission bomb and the fusion fuel could be in separate parts of the bomb, and that radiation of the fission bomb could first work in a way to compress the fusion material before igniting it.
+Teller pushed the notion further, and used the results of the boosted-fission ""George"" test to confirm the fusion of heavy hydrogen elements before preparing for their first true multi-stage, Teller-Ulam hydrogen bomb test.
+Many scientists, initially against the weapon, such as Oppenheimer and Bethe, changed their previous opinions, seeing the development as being unstoppable.
+Mike used liquid deuterium as its fusion fuel and a large fission weapon as its trigger.
+Truman had initially tried to create a media blackout about the test—hoping it would not become an issue in the upcoming presidential election—but on January 7, 1953, Truman announced the development of the hydrogen bomb to the world as hints and speculations of it were already beginning to emerge in the press.
+Not to be outdone, the Soviet Union exploded its first thermonuclear device, designed by the physicist Andrei Sakharov, on August 12, 1953, labeled ""Joe-4"" by the West.
+This created concern within the United States government and military, because, unlike Mike, the Soviet device was a deliverable weapon, which the United States did not yet have.
+Still, it was a powerful propaganda tool for the Soviet Union, and the technical differences were fairly oblique to the American public and politicians.
+Following the Mike blast by less than a year, Joe-4 seemed to validate claims that the bombs were inevitable and vindicate those who had supported the development of the fusion program.
+Coming during the height of McCarthyism, the effect was pronounced on the security hearings in early 1954, which revoked former Los Alamos director Robert Oppenheimer's security clearance on the grounds that he was unreliable, had not supported the American hydrogen bomb program, and had made long-standing left-wing ties in the 1930s.
+Edward Teller participated in the hearing as the only major scientist to testify against Oppenheimer, resulting in his virtual expulsion from the physics community.
+On March 1, 1954, the United States detonated its first practical thermonuclear weapon , known as the ""Shrimp"" device of the Castle Bravo test, at Bikini Atoll, Marshall Islands.
+The device yielded 15 megatons, more than twice its expected yield, and became the worst radiological disaster in United States history.
+Efforts were made to recover the cargo of contaminated fish but at least two large tuna were probably sold and eaten.
+A further 75 tons of tuna caught between March and December were found to be unfit for human consumption.
+When the crew member died and the full results of the contamination were made public by the U.S., Japanese concerns were reignited about the hazards of radiation.The hydrogen bomb age had a profound effect on the thoughts of nuclear war in the popular and military mind.
+With only fission bombs, nuclear war was something that possibly could be limited.
+Proponents brushed aside as grave exaggeration claims that such weapons could lead to worldwide death or harm.
+Even in the decades before fission weapons, there had been speculation about the possibility for human beings to end all life on the planet, either by accident or purposeful maliciousness—but technology had not provided the capacity for such action.
+The great power of hydrogen bombs made worldwide annihilation possible.
+The Castle Bravo incident itself raised a number of questions about the survivability of a nuclear war.
+Government scientists in both the United States and the USSR had insisted that fusion weapons, unlike fission weapons, were cleaner, as fusion reactions did not produce the dangerously radioactive by-products of fission reactions.
+This fission stage made fusion weapons considerably more dirty than they were made out to be.
+This was evident in the towering cloud of deadly fallout that followed the Bravo test.
+When the Soviet Union tested its first megaton device in 1955, the possibility of a limited nuclear war seemed even more remote in the public and political mind.
+Even cities and countries that were not direct targets would suffer fallout contamination.
+Extremely harmful fission products would disperse via normal weather patterns and embed in soil and water around the planet.
+Speculation began to run towards what fallout and dust from a full-scale nuclear exchange would do to the world as a whole, rather than just cities and countries directly involved.
+In this way, the fate of the world was now tied to the fate of the bomb-wielding superpowers.
+Deterrence and brinkmanship This section needs additional citations for verification.
+Nuclear testing, Nuclear strategy, and Nuclear warfare November 1951 nuclear test at the Nevada Test Site, from Operation Buster, with a yield of 21 kilotons.
+It was the first United States nuclear field exercise conducted on land; troops shown are 6 mi from the blast.
+Throughout the 1950s and the early 1960s the United States and the USSR both endeavored, in a tit-for-tat approach, to prevent the other power from acquiring nuclear supremacy.
+As one instance of this mindset, in the early 1950s it was proposed to drop a nuclear bomb on the Moon as a globally visible demonstration of American weaponry.The first atomic bombs dropped on Hiroshima and Nagasaki on August 6 and 9, 1945, respectively, were large, custom-made devices, requiring highly trained personnel for their arming and deployment.
+They could be dropped only from the largest bomber planes—at the time the B-29 Superfortress—and each plane could only carry a single bomb in its hold.
+This ratio of one plane to one bomb was still fairly impressive in comparison with conventional, non-nuclear weapons, but against other nuclear-armed countries it was considered a grave danger.
+In the immediate postwar years, the United States expended much effort on making the bombs ""G.I.-proof""—capable of being used and deployed by members of the United States Army, rather than Nobel Prize–winning scientists.
+In the 1950s, the United States undertook a nuclear testing program to improve the nuclear arsenal.
+Because testing was seen as a sign of technological development , halts on testing were often called for as stand-ins for halts in the nuclear arms race itself, and many prominent scientists and statesmen lobbied for a ban on nuclear testing.
+In 1958, the U.S., USSR, and the United Kingdom declared a temporary testing moratorium for both political and health reasons, but by 1961 the Soviet Union had broken the moratorium and both the USSR and the United States began testing with great frequency.
+The weapon was largely impractical for actual military use, but was hot enough to induce third-degree burns at a distance of 62 mi away.
+In 1963, all nuclear and many non-nuclear states signed the Limited Test Ban Treaty, pledging to refrain from testing nuclear weapons in the atmosphere, underwater, or in outer space.
+Most tests were considerably more modest, and worked for direct technical purposes as well as their potential political overtones.
+The other was a program of miniaturization, reducing the size of the nuclear weapons.
+Smaller bombs meant that bombers could carry more of them, and also that they could be carried on the new generation of rockets in development in the 1950s and 1960s.
+United States rocket science received a large boost in the postwar years, largely with the help of engineers acquired from the Nazi rocketry program.
+These included scientists such as Wernher von Braun, who had helped design the V-2 rockets the Nazis launched across the English Channel.
+The introduction of nuclear armed rockets, like the MGR-1 Honest John, reflected a change in both nuclear technology and strategy.
+Long-range bomber aircraft, such as the B-52 Stratofortress, allowed deployment of a wide range of strategic nuclear weapons.
+A SSM-N-8 Regulus is launched from USS Halibut; prior to the development of the SLBM, the United States employed submarines with Regulus cruise missiles in the submarine-based strategic deterrent role.
+Early nuclear armed rockets—such as the MGR-1 Honest John, first deployed by the United States in 1953—were surface-to-surface missiles with relatively short ranges and yields around twice the size of the first fission weapons.
+The limited range meant they could only be used in certain types of military situations.
+Strategic weapons—weapons that could threaten an entire country—relied, for the time being, on long-range bombers that could penetrate deep into enemy territory.
+In operations like Chrome Dome, SAC kept nuclear-armed planes in the air 24 hours a day, ready for an order to attack Moscow.
+These technological possibilities enabled nuclear strategy to develop a logic considerably different from previous military thinking.
+Because the threat of nuclear warfare was so awful, it was first thought that it might make any war of the future impossible.
+President Dwight D Eisenhower's doctrine of ""massive retaliation"" in the early years of the Cold War was a message to the USSR, saying that if the Red Army attempted to invade the parts of Europe not given to the Eastern bloc during the Potsdam Conference , nuclear weapons would be used against the Soviet troops and potentially the Soviet leaders.
+With the development of more rapid-response technologies , this policy began to shift.
+First strike meant the first use of nuclear weapons by one nuclear-equipped nation against another nuclear-equipped nation.
+If the attacking nation did not prevent the attacked nation from a nuclear response, the attacked nation would respond with a second strike against the attacking nation.
+In this situation, whether the United States first attacked the USSR or the USSR first attacked the U.S., the result would be that both nations would be damaged to the point of utter social collapse.
+According to game theory, because starting a nuclear war was suicidal, no logical country would shoot first.
+However, if a country could launch a first strike that utterly destroyed the target country's ability to respond, that might give that country the confidence to initiate a nuclear war.
+The object of a country operating by the MAD doctrine is to deny the opposing country this first strike capability.
+The English phrase MAD was often known by, ""nuclear deterrence,"" was translated by the French as ""dissuasion,"" and ""terrorization"" by the Soviets.
+This apparent paradox of nuclear war was summed up by British Prime Minister Winston Churchill as ""the worse things get, the better they are""—the greater the threat of mutual destruction, the safer the world would be.
+This philosophy made a number of technological and political demands on participating nations.
+For one thing, it said that it should always be assumed that an enemy nation may be trying to acquire first strike capability, which must always be avoided.
+In American politics this translated into demands to avoid ""bomber gaps"" and ""missile gaps"" where the Soviet Union could potentially outshoot the Americans.
+It also encouraged the production of thousands of nuclear weapons by both the United States and the USSR, far more than needed to simply destroy the major civilian and military infrastructures of the opposing country.
+These policies and strategies were satirized in the 1964 Stanley Kubrick film Dr.
+Strangelove, in which the Soviets, unable to keep up with the US's first strike capability, instead plan for MAD by building a Doomsday Machine, and thus, after a mad United States General orders a nuclear attack on the USSR, the end of the world is brought about.
+With early warning systems, it was thought that the strikes of nuclear war would come from dark rooms filled with computers, not the battlefield of the wars of old.
+The policy also encouraged the development of the first early warning systems.
+With long-range bombers, from the start of a nuclear attack to its conclusion was mere hours.
+Planners reasoned that conventional command and control systems could not adequately react to a nuclear attack, so great lengths were taken to develop computer systems that could look for enemy attacks and direct rapid responses.
+The United States poured massive funding into development of SAGE, a system that could track and intercept enemy bomber aircraft using information from remote radar stations.
+It was the first computer system to feature real-time processing, multiplexing, and display devices.
+It was the first general computing machine, and a direct predecessor of modern computers.
+Emergence of the anti-nuclear movement This section needs additional citations for verification.
+Exploding with a yield equivalent to 12,500 tonnes of TNT, the blast and thermal wave of the bomb destroyed nearly 50,000 buildings and killed approximately 75,000 people.
+Subsequently, the world's nuclear weapons stockpiles grew.Operation Crossroads was a series of nuclear weapon tests conducted by the United States at Bikini Atoll in the Pacific Ocean in the summer of 1946.
+To prepare the Bikini atoll for the nuclear tests, Bikini's native residents were evicted from their homes and resettled on smaller, uninhabited islands where they were unable to sustain themselves.National leaders debated the impact of nuclear weapons on domestic and foreign policy.
+Also involved in the debate about nuclear weapons policy was the scientific community, through professional associations such as the Federation of Atomic Scientists and the Pugwash Conference on Science and World Affairs.
+Radioactive fallout from nuclear weapons testing was first drawn to public attention in 1954 when a Hydrogen bomb test in the Pacific contaminated the crew of the Japanese fishing boat Lucky Dragon.
+The Russell–Einstein Manifesto was issued in London on July 9, 1955, by Bertrand Russell in the midst of the Cold War.
+It highlighted the dangers posed by nuclear weapons and called for world leaders to seek peaceful resolutions to international conflict.
+The signatories included eleven pre-eminent intellectuals and scientists, including Albert Einstein, who signed it just days before his death on April 18, 1955.
+A few days after the release, philanthropist Cyrus S Eaton offered to sponsor a conference—called for in the manifesto—in Pugwash, Nova Scotia, Eaton's birthplace.
+This conference was to be the first of the Pugwash Conferences on Science and World Affairs, held in July 1957.
+The Aldermaston marches continued into the late 1960s when tens of thousands of people took part in the four-day marches.In 1959, a letter in the Bulletin of the Atomic Scientists was the start of a successful campaign to stop the Atomic Energy Commission dumping radioactive waste in the sea 19 kilometres from Boston.
+On November 1, 1961, at the height of the Cold War, about 50,000 women brought together by Women Strike for Peace marched in 60 cities in the United States to demonstrate against nuclear weapons.
+It was the largest national women's peace protest of the 20th century.In 1958, Linus Pauling and his wife presented the United Nations with the petition signed by more than 11,000 scientists calling for an end to nuclear-weapon testing.
+The ""Baby Tooth Survey,"" headed by Dr Louise Reiss, demonstrated conclusively in 1961 that above-ground nuclear testing posed significant public health risks in the form of radioactive fallout spread primarily via milk from cows that had ingested contaminated grass.
+Submarine-launched ballistic missiles with multiple warheads made defending against nuclear attack impractical.
+However, by the 1960s, both the United States and the Soviet Union had developed intercontinental ballistic missiles, which could be launched from extremely remote areas far away from their target.
+They had also developed submarine-launched ballistic missiles, which had less range but could be launched from submarines very close to the target without any radar warning.
+This made any national protection from nuclear missiles increasingly impractical.
+The international politics of brinkmanship led leaders to exclaim their willingness to participate in a nuclear war rather than concede any advantage to their opponents, feeding public fears that their generation may be the last.
+Civil defense programs undertaken by both superpowers, exemplified by the construction of fallout shelters and urging civilians about the survivability of nuclear war, did little to ease public concerns.
+The United States administration of John F Kennedy concluded that the Soviet Union, then led by Nikita Khrushchev, was planning to station Soviet nuclear missiles on the island , which was under the control of communist Fidel Castro.
+On October 22, Kennedy announced the discoveries in a televised address.
+The missiles had 2,400 mile range, and would allow the Soviet Union to quickly destroy many major American cities on the Eastern Seaboard if a nuclear war began.
+The leaders of the two superpowers stood nose to nose, seemingly poised over the beginnings of a third world war.
+Khrushchev's ambitions for putting the weapons on the island were motivated in part by the fact that the United States had stationed similar weapons in Britain, Italy, and nearby Turkey, and had previously attempted to sponsor an invasion of Cuba the year before in the failed Bay of Pigs Invasion.
+On October 26, Khrushchev sent a message to Kennedy offering to withdraw all missiles if Kennedy committed to a policy of no future invasions of Cuba.
+A day later, however, the Soviets sent another message, this time demanding that the United States remove its missiles from Turkey before any missiles were withdrawn from Cuba.
+On the same day, a U-2 plane was shot down over Cuba and another almost intercepted over the Soviet Union, as Soviet merchant ships neared the quarantine zone.
+Kennedy responded by accepting the first deal publicly, and sending his brother Robert to the Soviet embassy to accept the second deal privately.
+On October 28, the Soviet ships stopped at the quarantine line and, after some hesitation, turned back towards the Soviet Union.
+The Crisis was later seen as the closest the United States and the USSR ever came to nuclear war and had been narrowly averted by last-minute compromise by both superpowers.
+Fears of communication difficulties led to the installment of the first hotline, a direct link between the superpowers that allowed them to more easily discuss future military activities and political maneuverings.
+It had been made clear that missiles, bombers, submarines, and computerized firing systems made escalating any situation to Armageddon far more easy than anybody desired.
+After stepping so close to the brink, both the United States and the USSR worked to reduce their nuclear tensions in the years immediately following.
+Testing underground continued, allowing for further weapons development, but the worldwide fallout risks were purposefully reduced, and the era of using massive nuclear tests as a form of saber rattling ended.
+In December 1979, NATO decided to deploy cruise and Pershing II missiles in Western Europe in response to Soviet deployment of intermediate range mobile missiles, and in the early 1980s, a ""dangerous Soviet-US nuclear confrontation"" arose.
+As the nuclear abolitionist movement grew, there were many protests at the Nevada Test Site.
+Four of the significant groups organizing this renewal of anti-nuclear activism were Greenpeace, The American Peace Test, The Western Shoshone, and Nevada Desert Experience.
+There have been at least four major false alarms, the most recent in 1995, that resulted in the activation of nuclear attack early warning protocols.
+They include the accidental loading of a training tape into the American early-warning computers; a computer chip failure that appeared to show a random number of attacking missiles; a rare alignment of the Sun, the United States missile fields and a Soviet early-warning satellite that caused it to confuse high-altitude clouds with missile launches; the launch of a Norwegian research rocket resulted in President Yeltsin activating his nuclear briefcase for the first time.
+Initial proliferation This section needs additional citations for verification.
+The United Kingdom had been an integral part of the Manhattan Project following the Quebec Agreement in 1943.
+The passing of the McMahon Act by the United States in 1946 unilaterally broke this partnership and prevented the passage of any further information to the United Kingdom.
+The British Government, under Clement Attlee, determined that a British Bomb was essential.
+Because of British involvement in the Manhattan Project, Britain had extensive knowledge in some areas, but not in others.
+An improved version of 'Fat Man' was developed, and on 26 February 1952, Prime Minister Winston Churchill announced that the United Kingdom also had an atomic bomb and a successful test took place on 3 October 1952.
+At first these were free-fall bombs, intended for use by the V Force of jet bombers.
+A Vickers Valiant dropped the first UK nuclear weapon on 11 October 1956 at Maralinga, South Australia.
+Anglo-American cooperation on nuclear weapons was restored by the 1958 US-UK Mutual Defence Agreement.
+As a result of this and the Polaris Sales Agreement, the United Kingdom has bought United States designs for submarine missiles and fitted its own warheads.
+France had been heavily involved in nuclear research before World War II through the work of the Joliot-Curies.
+This was discontinued after the war because of the instability of the Fourth Republic and lack of finances.
+However, in the 1950s, France launched a civil nuclear research program, which produced plutonium as a byproduct.
+In 1956, France formed a secret Committee for the Military Applications of Atomic Energy and a development program for delivery vehicles.
+With the return of Charles de Gaulle to the French presidency in 1958, final decisions to build a bomb were made, which led to a successful test in 1960.
+In 1951, China and the Soviet Union signed an agreement whereby China supplied uranium ore in exchange for technical assistance in producing nuclear weapons.
+In 1953, China established a research program under the guise of civilian nuclear energy.
+Throughout the 1950s the Soviet Union provided large amounts of equipment.
+But as the relations between the two countries worsened the Soviets reduced the amount of assistance and, in 1959, refused to donate a bomb for copying purposes.
+Chinese first gained possession of nuclear weapons in 1964, making it the fifth country to have them.
+It tested its first atomic bomb at Lop Nur on October 16, 1964 ; and tested a nuclear missile on October 25, 1966; and tested a thermonuclear bomb on June 14, 1967.
+China ultimately conducted a total of 45 nuclear tests; although the country has never become a signatory to the Limited Test Ban Treaty, it conducted its last nuclear test in 1996.
+In the 1980s, China's nuclear weapons program was a source of nuclear proliferation, as China transferred its CHIC-4 technology to Pakistan.
+China became a party to the Non-Proliferation Treaty as a nuclear weapon state in 1992, and the Nuclear Suppliers Group in 2004.
+China declared a policy of ""no first use"" in 1964, the only nuclear weapons state to announce such a policy; this declaration has no effect on its capabilities and there are no diplomatic means of verifying or enforcing this declaration.
+Cold War ICBMs, like the American Minuteman missile, allowed nations to deliver nuclear weapons thousands of miles away with relative ease.
+On 12 December 1982, 30,000 women held hands around the 6 miles perimeter of the RAF Greenham Common base, in protest against the decision to site American cruise missiles there.
+After World War II, the balance of power between the Eastern and Western blocs and the fear of global destruction prevented the further military use of atomic bombs.
+This fear was even a central part of Cold War strategy, referred to as the doctrine of Mutually Assured Destruction.
+So important was this balance to international political stability that a treaty, the Anti-Ballistic Missile Treaty , was signed by the United States and the USSR in 1972 to curtail the development of defenses against nuclear weapons and the ballistic missiles that carry them.
+This doctrine resulted in a large increase in the number of nuclear weapons, as each side sought to ensure it possessed the firepower to destroy the opposition in all possible scenarios.
+Early delivery systems for nuclear devices were primarily bombers like the United States B-29 Superfortress and Convair B-36, and later the B-52 Stratofortress.
+These systems were used to launch satellites, such as Sputnik, and to propel the Space Race, but they were primarily developed to create Intercontinental Ballistic Missiles that could deliver nuclear weapons anywhere on the globe.
+Development of these systems continued throughout the Cold War—though plans and treaties, beginning with the Strategic Arms Limitation Treaty , restricted deployment of these systems until, after the fall of the Soviet Union, system development essentially halted, and many weapons were disabled and destroyed.
+On January 27, 1967, more than 60 nations signed the Outer Space Treaty, banning nuclear weapons in space.
+Most of the lost weapons were recovered, the Spanish device after three months' effort by the DSV Alvin and DSV Aluminaut.
+The Soviet Union was less forthcoming about such incidents, but the environmental group Greenpeace believes that there are around forty nonUnited States nuclear devices that have been lost and not recovered, compared to eleven lost by America, mostly in submarine disasters.
+The United States has tried to recover Soviet devices, notably in the 1974 Project Azorian using the specialist salvage vessel Hughes Glomar Explorer to raise a Soviet submarine.
+We can neither confirm nor deny the existence of the information requested but, hypothetically, if such data were to exist, the subject matter would be classified, and could not be disclosed.The collapse of the Soviet Union in 1991 essentially ended the Cold War.
+However, the end of the Cold War failed to end the threat of nuclear weapon use, although global fears of nuclear war reduced substantially.
+In a major move of symbolic de-escalation, Boris Yeltsin, on January 26, 1992, announced that Russia planned to stop targeting United States cities with nuclear weapons.
+Cost The designing, testing, producing, deploying, and defending against nuclear weapons is one of the largest expenditures for the nations which possess nuclear weapons.
+According to a retrospective Brookings Institution study published in 1998 by the Nuclear Weapons Cost Study Committee , the total expenditures for United States nuclear weapons from 1940 to 1998 was $5. trillion in 1996 Dollars.For comparison, the total public debt at the end of fiscal year 1998 was $5,478,189,000,000 in 1998 Dollars or $5. trillion in 1996 Dollars.
+The entire public debt in 1998 was therefore equal to the cost of research, development, and deployment of United States nuclear weapons and nuclear weapons-related programs during the Cold War.
+Second nuclear age This section needs additional citations for verification.
+The second nuclear age can be regarded as proliferation of nuclear weapons among lesser powers and for reasons other than the American-Soviet-Chinese rivalry.
+India embarked relatively early on a program aimed at nuclear weapons capability, but apparently accelerated this after the Sino-Indian War of 1962.
+After the collapse of Eastern Military High Command and the disintegration of Pakistan as a result of the 1971 Winter war, Bhutto of Pakistan launched scientific research on nuclear weapons.
+The Indian test caused Pakistan to spur its programme, and the ISI conducted successful espionage operations in the Netherlands, while also developing the programme indigenously.
+India tested fission and perhaps fusion devices in 1998, and Pakistan successfully tested fission devices that same year, raising concerns that they would use nuclear weapons on each other.
+All of the former Soviet bloc countries with nuclear weapons transferred their warheads to Russia by 1996.
+South Africa also had an active program to develop uranium-based nuclear weapons, but dismantled its nuclear weapon program in the 1990s.
+Experts do not believe it actually tested such a weapon, though it later claimed it constructed several crude devices that it eventually dismantled.
+Known as the Vela Incident, it was speculated to have been a South African or possibly Israeli nuclear weapons test, though some feel that it may have been caused by natural events or a detector malfunction.
+Several key United States scientists involved in the American bomb making program, clandestinely helped the Israelis and thus played an important role in nuclear proliferation.
+Khan of Pakistan's programme confessed to having been a key mover in ""proliferation activities"", seen as part of an international proliferation network of materials, knowledge, and machines from Pakistan to Libya, Iran, and North Korea.
+The first claimed detonation was the 2006 North Korean nuclear test, conducted on October 9, 2006.
+On May 25, 2009, North Korea continued nuclear testing, violating United Nations Security Council Resolution 1718.
+A third test was conducted on 13 February 2013, two tests were conducted in 2016 in January and September, followed by test a year later in September 2017.
+In 2022 during the 2021–2022 Russo-Ukrainian crisis, Russian President Vladimir Putin, as he had lightly done in the past, alleged that Ukraine was on the path to receiving nuclear weapons.
+According to Putin, there was a ""real danger"" that Western allies could help supply Ukraine, which appeared to be on the path to joining NATO, with nuclear arms.
+Critics labelled Putin's claims as ""conspiracy theories"" designed to build a case for an invasion of Ukraine.
+Klaus Fuchs, Rudolf Peierls and the Making of British Nuclear Culture 1939–59.
+A Technical History of Los Alamos During the Oppenheimer Years, 1943–1945.
+National Museum of Nuclear Science & History/Atomic Heritage Foundation.
+ISSN 0096-3402. ...the total figure will likely be equal to the $5 trillion national debt.
+An Annotated Chronology, 1969–1994 Archived 2001-09-27 at the Library of Congress Web Archives.
+Second nuclear ageColin S Gray, The Second Nuclear Age, , Paul Bracken, The Second Nuclear Age, Foreign Affairs, January/February 2000, Further reading ""Presidency in the Nuclear Age"", conference and forum at the JFK Library, Boston, October 12, 2009.
+Comparative table of the histories and arsenals of the five NPT-designated nuclear powers as of 1993.

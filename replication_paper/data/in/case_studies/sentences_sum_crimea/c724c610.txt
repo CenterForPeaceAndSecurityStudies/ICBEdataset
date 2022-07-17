@@ -1,0 +1,293 @@
+ The view, opinions, and/or findings contained in this report are those of The MITRE Corporation . The view is not construed as an official Government position, policy, or decision, unless designated by other documentation .
+ Topic IDs were modified to match “AIDA Seedling Data Collection and Annotation Plan V3.0’, released by LDC February 28, 2018 .
+ The previously released section about this topic has been moved to the Appendix . The previous released section has been removed from the Appendix.
+ Expanded the Background and Informational Conflict sections, added Russian and Ukrainian language data sources, and added more English sources . Added more English data sources and more English information .
+ Expanded the Informational Conflict section, added Russian and Ukrainian data sources, and added more English sources . Expanded Russian and Ukraine data sources. Added more English data sources .
+ The NIST document is intended to provide a narrative description of the scenario . The document also includes the informational conflict that is inherently part of the selected scenario .
+ In the context of this document, a scenario is a real-world situation within a specific subject domain . The scenario is broad enough to encompass multiple events or components, such as international conflicts or natural disasters .
+To make the scenario more manageable, it is broken down into one or more topics . The exact number of topics is dependent on the breadth of the scenario .
+ There are conflicting assertions in the open source data, to include text, audio, images, and video data . In the context of this scenario, a topic is a real-world event about which there are conflicting claims in the data .
+ Annotated training data on topics in the scenario will be provided by the Linguistic Data Consortium . It will provide annotated data not related to the scenario .
+ These topics are explored in greater detail in a later section of the document . These topics were explored in a greater detail.
+English, Russian, and Ukrainian language data sources are presented in each of these sub-sections .
+ A Note about Data Sources references many sources of data, including some that are considered untrustworthy by media analysts .
+ The Russia-Ukraine Conflict in Perspective Largely through user-generated social media, the war in eastern Ukraine was among the most immediately-documented conflicts in history . The conflict was one of the most immediate-documented wars in history.
+ The protests preceding the war should begin with a simple Facebook post. It is then fitting that the protests should start with a Facebook post . It's then fitting to start the protests before the war.
+ The longest political protests in the nation’s history lasted from November 2013 to March 2014, and led to a bloody uprising .
+ Yanukovich fled the country and his administration was replaced by a government seeking greater European integration . Facing a popular revolt, Yanukovich flee the country .
+ Instability in Ukraine led to the Kremlin’s decision to annex Crimea . Soon rebels in eastern Ukraine started an insurgency that led to their declaration of self-rule .
+ The war in the Donbas continues into 2017, claiming roughly 10,000 lives, according to U.N. figures .
+ Ukrainian leadership’s decision to postpone the signing of a single trade agreement with the European Union was the trigger of the crisis . Ukraine's roots lay in the geopolitical orientation of Ukraine, according to the Ukrainian government .
+ Both during the Orange Revolution of 2004 and the Maidan Revolution of 2014, Ukraine has sought greater integration with the West . Russia has made every effort to stop it, and Russia has been making every effort.
+ Ethnic, cultural, and linguistic separation between ethnic Ukrainians and Russian speakers to the east . With some notable exceptions in more cosmopolitan cities like Kiev and Odessa, this split reflects the important ethnic, cultural and linguistic split .
+ Conflict in the Information Environment. Separating versions of events is inherently difficult when participant and observer assertions about those events reflect entirely distinct worldviews .
+ Ukrainians’ divergent world views and concepts of identity were reflected in the narratives that emerged prior to and during the conflict for the future of the nation .
+ These are played out day-to-day and in real-time via print, radio, television, and through social media . These played out by print,Radio, TV, and social media.
+ The very cause of the conflict was in dispute from the beginning, as reflected in public opinion . The conflict has been in dispute since the beginning of the year .
+ A February 2014 national survey showed that in the Donbas, respondents blamed the unrest on Europe’s intention to integrate Ukraine into its sphere of political influence .
+In western Ukraine, respondents diverged, citing outrage at the regime of President Viktor Yanukovich as a reason for the crisis . In western Ukraine.
+ The fog of war also naturally contributed to conflict in the information space . The fog also naturally contributes to conflict.
+ The increased speed and penetration of user-generated media provides a useful window into events as they happen . The increased use of the media is a good way to get into events.
+ It also provides warring parties the opportunity to exploit one another’s cognitive vulnerabilities . It also gives them the chance to exploit each other's cognitive vulnerabilities.
+ Russia took advantage of this and more traditional forms of media to persuade, confuse, and dismay target audiences, particularly at the early stages of conflict . Russia has taken advantage of more traditional form of media.
+ Ukraine’s ethnic, cultural, and national fissures provided a broad target surface for Russian information activities . Russian information could be penetrated with deniability through the use of online media channels .
+ Russian theory of information confrontation provides a useful blueprint to understand the conflict as it unfolded in Ukraine .
+ Information confrontation occurs in peacetime or during war, and may serve to persuade a target audience by attracting empathy, emotionally agitate, disrupt self-confidence and unrest .
+ Information confrontation may exploit cyber and cognitive vulnerabilities to achieve its objectives . Consisting of complementary technical and psychological components, information confrontation may be used to exploit cyber vulnerabilities . Information confrontation is a key part of the cyber and psychological component .
+ It may be used to prepare the ground for separatism, mobilizing citizens, and influence the policies of foreign governments . It may also be used as a way to influence foreign government policies .
+ The sheer volume of information sources in this conflict further compounds the difficulty of discerning facts on the ground. Divergent Narratives.
+ News and information sources offer varying versions of events, in some cases identifying facts to support pre-conceived narratives intended to persuade an audience or reinforce its beliefs .
+ Russia has used overt and covert channels of communication to destabilize the political situation in the Donbas . The ultimate objective is to convince Kiev to cede substantial political influence over eastern Ukraine .
+ The international community has sought to report the facts of the conflict . But its reporting is questioned by Russian official news sources and those sympathetic to their goals .
+ The effect of such activity is to persuade, to further entrench an audience in its opinions, or to encourage information paralysis . The very nature of truth is itself put in question .
+ Fundamental events of the conflict are still in dispute, let alone their implications . The conflict is still in the middle of the world .
+ The Maidan revolution and the identities and affiliations of insurgents in the Donbas are the source of the humanitarian crisis that ensued . These include the legitimacy of the Maidan Revolution and the identity of the insurgents .
+ From the early days of the conflict, Maidan activists portrayed their activities as self-initiated and driven by anxiety about Ukraine .
+ Russian mainstream media featured images of nationalist militias storming the parliament with Molotov cocktails . Ukrainian media publicized the brutal suppression of its democratic demonstrations by riot police and hired thugs .
+ The identities and affiliations of combatants have also been in question since the beginning of armed conflict in eastern Ukraine .
+ Russia steadfastly claimed that Donbas insurgents were self-defense militias or volunteers from abroad . The opposition accused them of being Russia-backed mercenaries, intelligence elements, or regular military .
+ Russia continues to deny the presence of troops in the Donbas . Satellite imagery, intercepted audio, and photographs of troops and weaponry have been provided by the international community .
+ Under this veneer of deniability, Russia is able to maintain freedom of action to achieve its objectives . Russia is also able to keep freedom ofaction to achieve objectives .
+ The shooting down of Malaysian Airlines Flight MH17 complicated the Kremlin’s plans to conduct a covert war in the Donbas .
+Multiple often contradictory narratives emerged from overt and covert media channels controlled or influenced by Russia . In this, as with numerous other instances of violence in which Russia tried to hide its complicity, multiple often contradictory stories emerged .
+ At its height, information war seeks to justify political action, and appeals to international norms and agreements to do so . At the height of the information war, it seeks to justifying political action .
+ Both sides of the conflict predicted that the other was most likely to break the terms of the Minsk ceasefire agreements . But third party sources including the OSCE suggest that both sides are about equally likely to violate the treaties .
+ Russia found humanitarian justification for the extrajudicial actions of pro-Russian militant groups . Citing the Kiev government’s inability to preserve peace and order in Ukraine, Russia said it was humanitarian justification .
+ Russia sought to portray itself as the guardian of the rights of ethnic Russians and other residents of the Donbas . Ukrainian sources accuse Russia of territorial violations .
+ Information is a valuable commodity for those who seek to understand and relay facts on the ground . Information in time of conflict is a useful commodity for people who want to understand.
+ It is a battleground where stakeholders craft narratives and frame perceptions to advance their competing objectives . It is also a battleground for stakeholders to craft narratives, frame perceptions and frame narratives .
+ The task of isolating and capturing facts in the context of information conflict is innately difficult . Participants seek to portray differing versions of events, sow confusion, or incite discord .
+ Ukraine's ongoing transformation may have far-reaching international implications . The task of understanding events on the ground in the face of competing narratives remains an important objective .
+ The training data was released in two sets, with Train 1 being provided at the program's kickoff . Train 2 will be released later in the first year .
+ The following table lists the topics in chronological order of the events, rather than ID order .
+ T103 Train 1 Flight of Deposed President Viktor Yanukovich T102 Train 1 Crash of Malaysian Air Flight MH17 T101 Train 2 Donetsk and Luhansk Referendum . T107 Train 2 Humanitarian Crisis in Eastern Ukraine T106 Train 2 War Ceasefire Violations in
+ The Appendix contains leftover topics that did not make the final cut for training or evaluation data . See also the Appendix, which contains leftover issues that didn't make the cut .
+ The Linguistic Data Consortium will be providing participants with data annotated for Committed Belief . Sentiment, Emotion, and Cognitive State Committing Belief will be provided .
+ Sentiment Sentiment will not be annotated in the first release of Train 1 data . Train 1 will be released on Sunday .
+ Participants should be aware that in the domain of Ukraine-Russian relations, sentiment is valuable for gauging the political and ideological leanings of the information source . However, participants should be mindful of the potential biases of information .
+ One can often tell by the language being used whether the writer is pro-Russian or pro-Western . That provides insight into which elements of the story may be missing or distorted .
+ One way in which sentiment is expressed is through references to person, organization, and location entities . One way is to express sentiment is by references to people, organizations, and locations .
+ Sentiment towards these entities gets reflected in alternative ways of referring to them, for example, pro-Kiev radicals/extremists, Maidan terrorists, Neo-Nazis, Fascists, Banderovists .
+ As the Ukraine war got underway, different ways of styling the combatants emerged .
+ Pro-Russian writers characterize Ukrainian government troops as stormtroopers . The ProUkrainian writers talk of the Ukrainian military as being liberators fighting terrorists, rebels, guerillas, and Russian subversives .
+ The postrevolution government in Ukraine is often referred to as the Kiev junta by its opponents . The post revolution government is often called a 'Kiev junta'
+ The 2014 Ukrainian revolution is considered a Revolution of Dignity by its supporters . The 2014 Ukraine coup is referred to as the Ukraine coup by its opponents .
+ The Ukrainian government says they are carrying out an Anti-Terrorist Operation in eastern Ukraine . But the same activities are characterized as attacks by the separatists .
+ Both sides use the terminology clearing or liberating an area . Both use the terms of seizing or assaulting or occupying an area.
+ Ukraine-Russia relations. This section lists online content related to Ukraine- Russia relations . This section includes information about Ukraine and Russia .
+ Articles and videos related to individual topics are contained in sub-sections under “Specific Informational Conflict Topics’s” later in this report .
+ These articles, videos, and images may or may not be present in the data distributed to participants . The data is distributed to Participants .
+ These resources can serve as a source of relevant development or test data for automated algorithms . In addition, these resources can also be used to test algorithms .
+ Each by itself provides a sampling of many topics related to this domain, rather than being limited to just a few topics . Some topics that are outside the scope of this scenario include events from the 20th century and earlier .
+ This video provides a quick overview from a western perspective of the conflict up to September 2014 . This video shows the conflict between the West and the West as well as the West .
+ It mentions several topics around which informational conflict arose, but does not present opposing points of view . It mentions a number of topics, but doesn't present opposing views .
+ The music is aimed at a millennial audience, with bold, loud music in the background . It's useful primarily as an easily digestible introduction .
+ The video covers the time period from February 2014 up through March 2015 . The video highlights many of the key points of informational conflict .
+ This video presents an historical perspective of the conflict in Ukraine up to August 2014 . This video shows some coverage of what was happening in Ukraine between August 2014 and July 2014 .
+ It contains many clearly labeled images, with an accompanying voice narration . The narration highlights elements of the informational conflict and controversies .
+ This interactive timeline covers events from November 13, 2013 to February 17, 2017 . The timeline is based on the time of the year, with a total of 12 months .
+ It contains a rich collection of events, with a representative news article for each event on the timeline . The timeline is then enhanced with hyperlinks to additional news stories .
+ Covering from November 2013 through January 2015, this provides an anti-Western, pro-Russian perspective on some main events . This is a look at some of the most important events in Russia .
+ Russian-language timeline of events in Ukraine from November 2013 to December 2016 . The timeline is based on the Russian- language timeline in Ukraine .
+ The timeline was produced by the Russian News Agency TASS, which is owned by the Russia Federation government .
+ Twitter account of the Ministry of Foreign Affairs of the Russian Federation . Twitter account is of the ministry of foreign affairs of Russia .
+ His tweets and images he posted are a subject of controversy . See the topic “Are there Russian Troops in Ukraine?’s in the appendix .
+ Not all Russia-based or Russian-language outlets will be pro-separatist and anti-Ukrainian . Some will have a more balanced approach to the conflict .
+ Resources include videos, photos, Daily Reports, Spot Reports, and other types of reports .
+ The team members are engaged in a wide range of other volunteer activities . They are involved in a variety of volunteer activities including volunteering .
+ Even before beginning annexation of Crimean Peninsula, Russian Federation started information war against Ukraine .
+ Most of Russian nation believed it, former brothers began to see us as enemies . And surprisingly, most of Russia believed it.
+ News Front seeks to protect the interests of Russian civilization, showing the true face of the opponents of the world .
+ Dozhd focuses on news, discussions, culture, politics, business reports, and documentaries .
+Ruptly Ruptly is a video news agency specializing in video on demand belonging to the Russian-based RT news network based in Berlin .
+ The shootings occurred on February 20, 2014 at Independence Square, known as “the Maidan,’ located in Kiev, the capital of Ukraine .
+ Ukrainian activists gathered in Kiev's central square, the Maidan, to protest President Viktor Yanukovich’s decision not to sign the Association Agreement with the European Union .
+ Ukrainians long sought economic reform and greater integration with the West . Ukrainian President's decision caused uproar with Ukrainians who long sought greater integration .
+ The protests turned violent in January after the government's passage of a controversial anti-protest law . Security services opened fire on activists, using rubber bullets and live ammunition .
+ Violence began escalating on Tuesday, February 18, and reached a peak on Thursday, February 20, with numerous reports of snipers shooting into the crowds on Independence Square .
+ Competing Perspectives Accounts differ on varying points, including the sources of gunshots, the affiliations of the shooters and their targets .
+ The Ministry indicated that they were pursuing several theories, including that the murders were committed by the Berkut. Subsequently, the same Ministry indicated they were pursue several theories .
+ The report cast doubt on evidence, including a photograph allegedly showing a senior policeman holding a rifle with both hands . The same officer had been missing one of his hands since an accident six years prior .
+ A year after the event, the BBC published a report containing statements from a man they called ‘Sergei’ who claimed to have been enlisted by the Maidan activists to shoot at police .
+ Parubiy later occupied a post as Secretary of the National Security and Defense Council of the interim Ukrainian government .
+ Multiple claims emerged, implicating Russian security services, CIA-trained shooters, and Ukrainian SBU in differing accounts .
+ The conversation appears to have implicated the post-Yanukovich government in the shootings . Both sides were shot by the same sniper, according to the conversation .
+ Another source of informational conflict under this topic is how many people were killed .
+ From an information extraction point of view, there are complexities beyond the information conflict . There are complexities in the information extraction process .
+ The death toll from the violence is often reported for all three days and not just Thursday February 20 . The deaths are often reported in the United States .
+ It can be challenging to acquire information about the number of killed by snipers . The number of snipers in the U.S. can be difficult to identify .
+ The slaughter of 53 protesters in the Maidan on February 20 changed history . Photographs Expose Russian-Trained Killers in Kiev .
+ A number of factors drove the interest in Yanukovich’s location . Yanukovich's location was a key factor in the Yanukovich decision .
+ Ukrainian parliament votes to remove Yanukovich from power . Yanukovich was ousted on the heels of the bloodshed that occurred on Independence Square .
+ Yanukovich's lavish estate near Kiev had been abandoned by both him and his security, leading to speculations about where he had gone .
+ The new Ukrainian government issued an arrest warrant for him on February 24 . He surfaced in Kharkiv Ukraine that afternoon in a TV broadcast .
+ Acting Ukrainian Interior Minister Arsen Akavov posted an announcement on his Facebook page that Yanukovich was wanted for “mass murder of peaceful citizens’s’ at Maidan .
+ Yanukovich was with Yanukovich, who he was with, and who was assisting him . This gave rise to a flurry of speculation and reports concerning the whereabouts of Yanukovich .
+ He was flown by helicopter to Donetsk, and from there he went briefly to Russia . Later that day he was flown to Crimea, then emerged in Crimea .
+ He spent several days in Crimea before arriving in Moscow by late Tuesday, February 25 . He arrived in Moscow on February 25.
+For the next couple of days there were reports of him in different places near Moscow . For the next few days he was reported in different locations near Moscow.
+ The following timeline is one generally accepted version of events . It is assembled here from a number of sources .
+ This timeline does not necessarily contain conflicting information; for different versions of the timeline, see the Competing Perspectives section . This timeline doesn't necessarily include conflicting information .
+ Evidence for the different claims include security camera footage, CCTV footage, eyewitnesses and individuals who claimed to have been with him .
+ On many days, the current location of Yanukovich was unknown .
+ Putin revealed what he said was formerly classified information in a videotaped interview published in August 2016 .
+ Russian intelligence determined that Yanukovich’s motorcade was heading into an ambush meant to kill the ousted leader . Russia directed the motorcade to a location on the coast of Ukraine, where Yanukovich was picked up by a Russian helicopter .
+ Putin corroborated other reports that Yanukovich left from Donetsk and ended up in Crimea during this time period .
+ Donskoi claimed Yanukovich and his personal guard crossed in helicopters from the village of Urzuf in the Donetsk region to Yeisk, Russia . He claimed that Yanukovich crossed in helicopter from the region to the Russian city of Yeisk .
+ From Yeisk, Russia, he traveled to Anapa, Russia on a military transport plane . From there he flew to Gvardeyskoye and then on to a military airfield near Simferopol in Crimea .
+ Other versions suggest he was present either at Sevastopol, or at Balaclava that day . He later appeared in Moscow at the Radisson hotel .
+ The Marines of the 810th Separate Brigade of the Black Sea Fleet put on a landing craft, and a day later reached the shores of Novorossiysk Russia . Another Russian source asserted that he left Crimea much sooner .
+Some sources of informational conflict come from direct disavowals of reports carried by other sources . Some sources of information come from other sources, such as Twitter .
+Ukrainian Orthodox church spokesman said Yanukovich was not hiding in a bunker in a monastery .
+ Rossiyskaya Gazeta, the official newspaper of President Vladimir Putin, denies reports that the Russian Navy in Cossack Bay, Sevastopol, had given Yanukovich asylum .
+ Russian Foreign Affairs Committee head Mikhail Margelov denies Yanukovich is in Russia . He says Russia wouldn’t risk giving him asylum .
+ Some media reported that Yanukovich’s was staying at Barvikha Sanatorium in Moscow . The Press Secretary of the Department of the Sanatorium dismissed the claim .
+ There were even some claims that Yanukovich had been killed by foreign assassins . There were also claims that he was killed by assassins .
+ Muddying the information waters were predictions being reported by news media and social media .
+Local reports indicated the yacht hadn't been seen in some time . GPS data confirmed its last known location was some distance away .
+ Rossiyskaya Gazeta alleged that the CIA smuggled Yanukovich off to the United States after offering him and his family asylum in exchange for leaving the political arena .
+ Yanukovich and his entourage were using at any given point in time in his travels, as well as who he was with or who he met with in a given location . Other salient information connected to this topic is the vehicles Yanukovich was using .
+ Donetsk and Luhansk oblasts of Eastern Ukraine are collectively known as the Donbas . Referendums were held to determine the future status of the Donetsk andLuhansk Oblasts .
+ The ballots asked voters if they favored “self-rule,” though remained ambiguous as to whether the regions would declare independence or maintain some degree of autonomy within Ukraine . The ballots remained ambiguous.
+ A May 2014 Pew Research Center poll found that over 70% of Ukraine residents sought to remain part of Ukraine . proponents of the ballot measure claimed a near-unanimous vote in favor .
+ The man identified as Barkashov suggests that the results in Donetsk be fabricated with an 89% vote in favor . In this conversation, the man identifies himself as BarkASHov .
+ There were two instances of pre-filled ballots being intercepted by authorities . In one case, a collection of 100,000 in one case was intercepted . In the other, 10,000 were intercepted in the other case .
+ A CNN crew witnessed several people voting twice at the same station . All had a "yes" vote. o Nothing prevented one person from voting .
+ The speed at which results were reported in Donetsk raised additional suspicions about the accuracy . The head of the People’s Republic of Donetsk Central Election Committee, Boris Litvinov, disputed reports that people were voting twice .
+ separatists claimed that 81% of Luhansk citizens voted in the referendum . Ukrainian government estimated that only 24% of the population are entitled to vote .
+ There were conflicting reports about polling stations, some claiming they were empty and others claiming they had been swarmed . photographic evidence presented by both sides was presented by the two sides .
+ The vote took place amidst the continuing civil war in the regions, with pro-independence militias and Ukrainian security forces clashing in multiple cities .
+ Malaysian Air Flight MH17 crashed in rebel-held eastern Ukraine, near the village of Hrabove .
+Accusations quickly surfaced as to who and what was responsible for the crash . This made for a very volatile situation, and accusations quickly surfaced .
+ Initially, there was some confusion about what had crashed, a military plane or a commercial one . Now, there is some confusion over what happened .
+ Once it was established that this was a commercial airliner, the informational conflict was mainly about who shot it down . The conflict was mostly about who shoot it down.
+ The Ukrainian government and many in the international community claimed that the rebels were responsible . The rebels were using a missile system provided by the Russian Federation .
+ The separatists denied having access to missile launching capabilities, and Russia denied they had provided any such equipment .
+ There were differing claims about where the missile launcher had been located and who fired it . The separatists or the Ukrainian military claim the plane was shot down .
+ Some speculated the airliner had been shot down by a missile launcher in Russian territory .
+ Russian Channel One released a satellite image putatively depicting a fighter jet at the moment it released its rocket .
+ Russia Today indicated that after lengthy attempts, it had been unable to find any witnesses to the launch of the Buk rocket launch . Russia Today said that after long attempts, the launch had been unsuccessful .
+ Russian state-affiliated arms manufacturer Almaz Antey conducted experiments putatively showing that the rocket that was used could not have been the version of the Buk that was in the Russian armory . Instead was an older version that was. in the possession of the Ukrainian military .
+ The CIA placed a bomb on MH17 to blame the attack on Russia and strengthen the case for sanctions . The CIA, in conjunction with the Dutch security services, placed the bomb on the MH17 .
+ These voices objected to the speed at which Russia was implicated in the crash . They remained a source of critique and opposing viewpoints as different pieces of evidence emerged .
+ There was some speculation that the crash was an attempted assassination of president Putin . The similarity of colors on his plane and that of Malaysian Airlines was the reason .
+ This theory resonated well within the anti-war community, because it was speculated that the U.S. was framing Russia for its own purposes .
+ Comparisons were made to the evidence the U.S. had presented for weapons of mass destruction in Iraq as justification for that war .
+ More extreme versions of this view categorized the dominant Western narrative as analogous to the one surrounding the events of 9/11 . The truthfulness of both were questioned .
+Evidence put forth in support of one view or the other was itself a source of dispute . Evidence put forth by one view was itself itself a Source of dispute.
+ The Russian government also produced satellite imagery in support of the claim that the Ukraine military used a BUK missile launcher against the airliner . These images were also the source of scrutiny and counterclaims .
+ Radar images provided by the Russian government remain inconclusive to this day .
+ Eyewitness photos and videos played a major role in the informational conflict . Eyewitness photographs and videos were used in the conflict between the two sides .
+ There were photos and videos of a BUK missile launcher in Ukraine, before and after the crash, with a missile missing . For example, there were photos of a missile launcher.
+ There were numerous photos and videos posted on social media documenting equipment convoys before and after the crash . There were also footage of the aftermath.
+All of this and much more was analyzed by interested citizens and then posted on YouTube and blogs . All of this was analyzed and then put on YouTube .
+ The most definitive evidence came from reports produced by the Dutch investigators and Joint Investigative Team . The Dutch investigators produced the most definitive reports .
+ The most common claims made by the various sides and the evidence they produced are documented in the following data sources . Data Sources are the most common.
+ While the event occurred in 2014, it is still being investigated and debated to this day. Note that while the event happened, it was still being debated and debated .
+ Flight MH17 was shot down by a BUK missile from a farmland near Pervomaiskyi . The incident happened on a farmland in the town of Pervomiskyi.
+Protests against the new government turned into armed conflict in eastern Ukraine . The living conditions for civilians worsened.
+ refugees moving out of the conflict zone, who then faced lack of food and shelter in the new location . One major issue was refugees moving from conflict zone to new location.
+ Residents who stayed in conflict zones faced severe shortages of food, water, shelter, electricity, and access to health supplies and facilities .
+ As early as March, media observers noted that Russian news sources were talking about a “humanitarian crisis’s emerging in Ukraine, several months before the rest of the world raised this issue .
+International organizations such as the United Nations also began to express concerns about the humanitarian situation . The situation has become increasingly difficult .
+ The Russian Federation dispatched a convoy of tractor trailers which they said was carrying humanitarian aid . Then, amid much controversy and concern, on August 12, they said they were carrying aid .
+ Some say Trojan horses are Trojan horses carrying military personnel and equipment . Some say they are military equipment and military personnel .
+ In contrast, a Pravda blogger opined, “There are no weapons or military inside the KAMAZ trucks because that would make no sense,’ he said .
+ Debaltseve occupies a strategically important section of eastern Ukraine . It is located on a major highway and a railway hub near the border between Donetsk and Luhansk .
+ The territory around Debaltseve formed a vital part of Ukraine’s effort to create a ‘wedge’ between these two regions .
+ For Ukraine, possession of the city would deny separatist forces freedom of movement . It would ensure a key line of communication between Ukrainian front-line forces and its headquarters to the West .
+ The Artemivsk highway that leads out of Debaltseve towards what was then Ukrainian-held territory was also a constant target . The Artenivsk road that leads to the Ukrainian border was also an important target .
+ The first Minsk Protocol had been signed months earlier, in September 2014 . The first Protocol was signed months before the first treaty was signed .
+ The second Minsk accords were signed during the Debaltseve conflict, on February 12, 2015, but failed to curtail the fighting . The second accords, signed in February 2015, were signed in the same month .
+ Debaltseve comes under pro-Russian separatist control . The Russian government has been in power for more than two years .
+ September 2014 Intermittent shelling of Debaltseve by separatist forces by separatist Forces . September 2014.
+ Ukrainian supply lines are nearly cut off, amidst Grad rocket fire on the 31 mile north-south highway between Artemivsk and Debaltseve .
+ remaining residents of Debaltseve begin to attempt to evacuate from the city . The remaining residents are attempting to leave the city.
+ Artemivsk highway becomes nearly impassable, with multiple refugee-laden buses being hit by artillery fire . The highway is being used to transport refugees from refugee camps .
+ The stated intent is to allow remaining civilians to escape from the Debaltseve area . The stated intention is to let remaining civilians escape.
+ Shelling lessens until 13:00 EET, when salvos of Grad rockets began raining down on Debaltseve . Shelling was lessens than 13:30 EET.
+ DPR forces assault the Debaltseve police headquarters, killing the city’s chief of police .
+ Separatist forces attempt an offensive on Debaltseve proper in an effort to push out government troops before the start of the ceasefire .
+Fighting ceases across most of the combat zone, but it continues at Debaltseve . Though fighting continues, it continues to be a major problem in the area .
+ separatist forces storming government positions in the nearby village of Chornukhyne . Shelling strikes Ukrainian positions, and separatist forces make multiple attacks on city .
+ Minsk II does not apply to Debaltseve, as it was not mentioned in the agreement . Zakharchenko says that Minsk I does not applied to Debalseve .
+ Ceasefire Notes Reuters describes the ceasefire as “stillborn’ in Debaltseve .
+ Streams of ragged Ukrainian soldiers who had left Debaltseve arrive in Luhanske as day goes on .
+ Competing Perspectives Conflicting information can be observed with respect to the ceasefire agreements and details about the fighting in the Debaltseve area .
+ Ukrainian officials blamed separatists for the use of heavy weapons in shelling the city . The shelling was a violation of the first provision of the accords .
+ Ukrainian President Petro Poroshenko argued in a conversation with Angela Merkel that the agreement had been violated when Ukrainian forces were attacked during their withdrawal .
+ Donetsk Peoples' Republic announced they would not comply with the ceasefire in Debaltseve . Hours before Minsk II was to take effect, the Donetsk Peoples’ Republic announced that they wouldn’t comply .
+ The town had been encircled before the ceasefire was set to begin, they argued . They argued it did not constitute an active front in the fighting .
+ Right Sector leader Dmytro Yarosh said that he reserved the right to continue fighting . He said that Minsk II was unconstitutional .
+ Ukrainian officials would deny that the kettle had been closed during the conflict . At different points in time, the separatists and other sources on the ground would report that it was closed .
+ separatist forces would report they were in control of a given area . But government officials would assert that Ukrainian forces had been successful in pushing back separatists .
+ U.S. State Department spokeswoman Jen Psaki said Russia was responsible for shelling of Debaltseve . The Russian Armed Forces had deployed “a large amount of artillery and multiple rocket launcher systems,’ she said .
+ The same day, a tweet from then U.S. ambassador to Ukraine, Geoff Pyatt, contained satellite imagery of what he said was Russian military systems near Debaltseve .
+ He was at the time discussing the signing of the ceasefire plan, about which he asserted that while Russia was one of its guarantors, it could not affect developments on the ground because it wasn't directly involved .
+ The soldiers themselves had suffered great losses and participated in the harrowing retreat along the back roads and fields . They contested all these claims, saying the retreat was anything but orderly, and the number of killed and wounded much higher .
+ DPR and Russian sources also claimed the losses were much higher on the Ukrainian side .
+ fighting in eastern Ukraine during the same timeframe. Complicating the discussions of truce violations is the fact that there was fighting going on elsewhere in the Ukraine during same timeframe .
+ Lugansk People's Republic Government Officials, Separatist Soldiers, and Civilian Interviews as well as never before seen Footage .
+ This appendix contains leftover material on topics that were not chosen for either the training or evaluation data .
+ The topics presented here are a rich source of text, imagery, and video data . It is our hope that data about them will prove useful to system developers .
+ The Russian Federation is bolstering the military capabilities of the separatists in eastern Ukraine with Russian military personnel and equipment . The issue began in 2014 and continued into 2015 .
+ The training topic on the humanitarian crisis and the associated “humanitarian convoys’s” relates directly to the question of the presence of Russians on Ukrainian soil .
+ The Battle of Kramatorsk was presented in detail below . Another particular event related to this debate is the Battle ofKramatork .
+ A collection of other subtopics related to the controversy. Following that is a collection of others related to this controversy .
+Battle of Kramatorsk began following the Ukrainian revolution in February 2014 . The opposition arose in eastern and southern Ukraine .
+Pro-Ukraine protests escalated into armed conflict when separatists seized control of government facilities . Ukrainian government responded with a counter-offensive .
+ The Battle of Kramatorsk began on April 12, 2014 when protesters took control of the local executive committee building . Armed separatists from the Donbas People’s Militia captured the police station and took control.
+ Ukrainian military regained control of the airfield by April 15 and regained control on July 5 . Kramatorsk has been taken over by the Ukrainian military .
+ Suspicions arose when well-armed, well-trained men in uniforms lacking insignia began appearing among them .
+ Known as “men in green’s’ and “little green men,’ they became the focal point of accusations that Russia was assisting the separatists .
+ A number of clues began surfacing as early as March which pointed to Russian interference in eastern Ukraine after the change in leadership in Kiev .
+ Russian news sources portrayed pro-Russian forces in the region as homegrown activists who opposed an “anti-constitutional junta’s’ in Kiev .
+ Evidence that Russia was directly involved included accounts from local residents and news media . NATO analysis of tactics, behavior, and equipment observed amongst the uniformed and armed groups in eastern Ukraine .
+ Russia denied the validity of all the evidence and allegations of their involvement . Russia denied all the allegations and the allegations of its involvement .
+ The Ukrainian government sent photos to the Organization for Security and Cooperation in Europe in mid-April 2014 . They said they provided evidence that Russian Special Forces and intelligence operatives were in eastern Ukraine and assisting the separatists .
+ The Russian government dismissed the evidence and denied that any active duty Russian personnel were on the ground in eastern Ukraine . The government also denied that there were any active Russian personnel on ground in Ukraine .
+ The Ukrainian government annotated the photos, highlighting faces, insignia, and equipment . The photos contain equipment that is only available through the Russian military and contain known members of the military .
+ The claims started to become more specific, identifying specific types of equipment and specific individuals . The photos have been published in the past .
+ One series of photos purported to identify a ‘bearded man’ as a member of Russian Special Forces . The thick beard and the quality of the photos made it impossible to positively identify him as the same man in each photo .
+ Babai is considered somewhat of a folk hero in Russia . As a fighter, he has no formal affiliation with the Russian government .
+Cossack is described as a simple Cossack who voluntarily decided to fight out of nationalistic sentiment . He is also a mercenary fighting alongside the separatist “federalist’s movement .
+ One photo shows a group of men with a caption that asserts it was taken in Russia . The caption says they were in Russia and that they were taken in the country .
+ Another photo shows the same men and is identified as being taken in eastern Ukraine . The men are believed to have been taken in Ukraine .
+ The photographer came forward and insisted that all of the photos had been taken in Slovyansk, Ukraine .
+ The identity of the “men in green’s” centers mostly around relations,e.e., Person-Organization relations and Person-at-Location relations .
+ The photos and eyewitness observations of these men were not what was being disputed . Instead, what was at issue was who they were affiliated with, and where they were located .
+ Lavrov Makes Statement on non-Interference of Russia in the Ukrainian Situation, April 14, 2014 .
+ Babai is called an “pro-Russian activist,” not a Russian soldier or intelligence officer . He is called a ‘pro- Russian activist’ not a soldier or an intelligence officer.
+ There is not one Chechen Platoon in Kramatorsk or Slavyansk,” May 16, 2014 .
+ Ukrainian military lay down arms in Kramatorsk, Ukraine .
+ Following the ousting of Ukrainian President Viktor Yanukovich, there was an uprising in eastern and southeastern Ukraine .
+ In April, pro-Russian separatists seized government buildings in Kharkiv, Donetsk, Luhansk, Sloviansk, Mariupol and Kramatorsk .
+ The Ukrainian military were mobilized to the region to restore peace and recapture the seized regions and facilities . Ukraine's military was mobilized to restore the seized areas and facilities.
+ In the ensuing conflict, there was intense debate about whether or not Russia was assisting the separatist militants with equipment and personnel .
+ The claims and evidence began surfacing in 2014 and reached a peak in 2015 . The claims began surfing in 2014.
+ Another statement in October of 2016 was interpreted as an admission of direct involvement of the Russian military . Another statement was interpreted by Western sources as an admitted involvement of Russia .
+ The Russian government and media broadly denied the presence of regular military forces in eastern Ukraine .
+ President Putin only admitted to the presence of military intelligence in the region, and not regular military forces . President Putin said he did not want to use military forces.
+ Older military equipment may have been obtained from Ukrainian military bases . Older equipment may be obtained from Ukraine military bases.
+ Throughout 2014 and 2015 there were specific incidents around which the debate circulated . The debate was focused on specific incidents.
+ The claims were corroborated by British and Ukrainian officials . These increasingly specific claims were confirmed by British officials .
+ annotations on the photos identified locations and types of equipment on the ground .
+ Satellite Photos of Russian Troops in Ukraine. Numerous Russian officials denied the allegations outright .
+ They claimed the Russian Federation was not supporting and arming the separatists . They claimed they were not supporting or arming separatists .
+ In Russian language media, there was very little discussion of satellite photos . In the Russian language, there were very little talk of these satellite photos.
+ The Russian government was not there at the behest of the Russian government, according to him .
+ Russia Today published an article which implied that observers from the Organization for Security and Cooperation in Europe denied the presence of Russian troops or equipment in Ukraine .
+ RT cites statements made by Russian representative to the OSCE, Andrey Kelin . The Russian representative is a member of the European Union .
+ OSCE observer reports show Kelin was making claims to the OSCE . However, a closer inspection of the context from related articles shows that Kelin's information was not based on OSCE reports .
+ Russian Federation only invited to observe two checkpoints in Ukraine . Both were in areas under the control of Ukrainian government .
+ Picard notes that OSCE has a very limited view of border crossings .
+ There’s also conflicting information within media reports about the annotated satellite images .
+ Other statements are more guarded as to whether the observed forces are in or merely near Ukraine . Other statements have been more guarded.
+ NATO says the images show Russian combat forces engaged in military operations “in or near Ukrainian Territory’s Ukrainian Territory. The image shows Russians self-propelled artillery units set up in firing positions near Krasnodon, NATO says .
+We are confident these are Russian military, not separatist, systems, February 13, 2015 . We are confident they are not separatist systems, we say .
+In it, he’s wearing a uniform unlike the ones in any of his other posts . In it, the uniform is not his uniform .
+ He’s wearing a white armband, and he appears to be standing in a battlefield . He appears to have been standing in the battlefield .
+ U.S. General Philip Breedlove has been in charge of the Defense Department of Defense . Breedlove is the head of the Department of defense .
+ Putin’s statements translated into English. Here is a sample of headlines, coverage of the statement .
+ Russian president admits that he sent soldiers into eastern Ukraine after all . After two years of resolute denials, the president admits he sent troops into Ukraine .
+ Mr Putin denied that “regular forces’ were involved in the conflict . He conceded that ‘people dealing with tasks…in the military sphere’ had been involved in conflict .

@@ -1,0 +1,238 @@
+Ratherthan constituting fixed barriersto innovation, routines and plans can be relatively plastic and subject to strategic alterationsor misrepresentations.Although this can be partly understoodin terms of organizationalprocesses, plans and routines are both a response to and the context for strategic interactionby organizationalparticipants.
+I present evidence of this and suggest why decision makers may not plan even when planning is possible and why plans may not be implemented even when they already exist.
+Withoutan accountof their source, organizationtheories that are based on plans or routines can explain behavior only in the sense that they can cite the rules that govern observed action.
+While even this modest strategy is sometimes an advance over theories that emphasize calculation to the neglect of rule-governed behavior, a more satisfactory account requires empirical and theoretical treatment of the birth, persistence, and death of plans and routines.
+This article revisits terrainfirst explored by GrahamAllison in an effort to improve our understandingof the role of routines and plans in the conduct of the United States and Soviet governments in the 1962 Cuban missile crisis.
+First, this crisis is the closest the world has ever come to thermonuclearwar.
+Had United States troops invaded Cuba, they would have faced Soviet defenders armed with tactical missiles equipped with nuclear warheads.
+Any Soviet use of nuclear weapons against United States forces would almost certainly have led to general war.
+Second, the case is relatively well documented:in additionto the famous ExComm tapes (May and Zelikow 1997), declassification of the written recordhas been extensive.
+This research was assisted by an award from the Social Science Research Council of an Advanced Fellowship in Foreign Policy Studies with the supportof a grant from the Ford Foundation.I am grateful to Peter Feaver,MarthaFeldman,Alexander George, James March, and Michael Ting for their comments and suggestions on earlier drafts.
+His accounts have long defined the terms of debate about the role of organizationalroutines, not just in the missile crisis, but in United States foreign policy making more generally.
+If ever there were a situation where the involvement of leaders would override the effects of organizational factors, this would be it.
+If routines and plans played a significant role in shapingbehaviorin this case, one can presumethat their importanceis highly general.
+This article makes two general points, one empirical and one theoretical.The empirical one is that a close examinationof the evidence suggests that routines and plans did not closely constrain the United States response to the discovery of missiles in Cuba.
+First, the amount of time that decision makers had to deal with the missile threat and to consider implementing countermeasuresis much longer than commonly believed.
+Thus, a putative absence of plans and routines to deal with the threatin October 1962 raises the question of why such routines and plans were not developed as much as eighteen months earlier, when the first serious consideration of the possibility of Soviet offensive missiles in Cuba occurred within the executive branch of the United States government.
+Second, when decision makers found that they lacked plans to deal with this event as they desired, they obtained new plans or the modification of existing ones.
+This was done sufficiently quickly that new plans were availablewhen the missiles were confirmed by aerial photography.Third, when leaders found plans and routines too constraining,they were able to overrideor evade them by personal interventionsthat either negated or ""designed around"" the obstacles created by the routines.
+The general theoretical point is that while circumventing routines may be costly, leaders may find it both feasible and attractiveto do so.
+The first, ironically, includes the very Model II-style processes that are often taken as providing a foundationfor a view of organizations as rigid and stereotyped in their behavior.
+A richer conception of organizationalprocesses suggests that a rule-governedorganization is nonetheless capable of considerable variety and flexibility in its responses.
+The second set involves strategic interaction among organizational decision makers.Adherence to plans is cooperativebehavior;defection is often costly, but sometimes worthwhile.
+I discuss the United States government'sresponse to the possibility of Soviet missiles in Cubain terms of three puzzles.
+First, althoughthe possibility that the U.S.S.R. would install offensive missiles in Cuba was recognized as early as April 1961 and although it was realized that this would pose an extremely serious challenge to the United States, planning to deal with this contingency was extremely limited, and the operations of October 1962 bore little resemblance to those planned earlier.
+Second, although the planning had identified a United States response to a Soviet military provocation a blockade of Cuba-that response was deemed by decision makers to be extremely problematic, and they were dissatisfied with it.
+Nevertheless, planners did not search widely for a response that would avoid the problems associated with a blockade.
+Third, in the case of the air strike and the blockade, plans were produced, but they did not significantly constrain how these options were implemented.
+When leaders saw that implementingthese plans would not produce the results that they wanted, they caused the plans and organizationalbehavior to be changed.
+However, their interventions in turn were shaped by their broader political objectives.
+Because action typically involves the implementationof complicated tasks requiringa significant degree of preparation and coordination,the likelihood that a government will be able to improvise a successful responseto an internationalcrisis is takento be low.An example that fits this theory well is the failed 1980 mission to rescue hostages held at the United States embassy in Tehran.
+Failures to plan adequately and to train, rehearse, and ""debug""mission proceduresled to the failure of this highly risky mission, several deaths, and a humiliating defeat for the United States government.
+Although some of Allison's original examples of government behavior constrainedby routinesor plans have not faredwell upon furtherexamination(Welch 1992), subsequentrevelations have also broughtto light other instances of routines shaping behaviors.
+In addition to their treatment of air strike planning, Allison and Zelikow discuss several other instances on the United States and the Soviet sides.
+The most relevant criticism is offered by Bendor and Hammond , who argue that even a complete reliance on routines to govern behavior need not entail organizationalresponses that are rigid and limited in variety.Their argument stresses how small numbers of simple decision rules can be combined and recombined to generate behavior of considerable complexity and variety.
+While this criticism is accurate and constructive, it does not speak to an issue that lies at the heart of any attemptto explain organizationalbehavior in terms of routines or plans.
+If routines or plans are easy to create and to change, then explaining organizationalbehavior in terms of them will simply displace the analyticalpuzzle, not solve it.
+In the long run routines can be developed or modified so that organizationalcapabilities evolve.
+The failure of organizations to do this when they possess timely warning of future contingencies is not explained merely by noting that change is costly.
+At least some of the time it should be worth paying those costs, particularlywhen the anticipated contingency is highly threatening.
+When Allison first wrote, it seemed unproblematicto treat the missile crisis as very much a short-runphenomenon.
+Charles Hermann offered what became a widely acceptedjudgment, that in comparison with other internationalcrises, the Cubancrisis was markedby unusuallystrong surprise,strong threat, and intense time pressure.
+If so, then it is understandablewhy United States decision makers would be constrainedby their alleged inability to fashion novel responses in the short time supposedly available.
+Unfortunately,Hermann'sassessment, though highly plausible based on the information available then, is wrong.
+Recognition of the necessity for preparing a response to Soviet missiles in Cuba appeared on agency agendas well before October 1962.
+In fact, the very existence of the White House tapes is due to John Kennedy's anticipation that a crisis involving Cuba was likely to occur in the late summer of 1962.
+As recounted by his secretary,Evelyn Lincoln, ""Duringthe time of the Bay of Pigs, there were certain people who said before that they were for the operation and after said they were against it.
+The Latest Evidence Anticipation,But No Planning There is the remote possibility of an attemptto convert Cuba into a Russian base for strategic attack on the United States.
+Recently declassified documents show that finding Soviet ballistic missiles in Cuba was not as surprising as it was portrayed in such early accounts as RobertKennedy'sThirteenDays or TheodoreSorensen'sKennedy.
+Attorney General Robert Kennedy started his narrativeon October 16, when he and President Kennedy learned of the Soviet missiles; Theodore Sorensen began his account on September 6, when he met with Soviet AmbassadorDobrynin.
+It is now known that United States decision makersbegan discussing the possibility of Soviet missiles in Cuba and a blockade as a response long before then.
+Mr Berle indicated that he had given considerable thought to the establishment of a naval blockade of Cuba as a weapon against the Castroregime.
+The Defense representative,Mr Williams, reportedthat a blockade of Cuba was physically feasible.
+Such a blockade, to be effective, would requirethe stopping, boarding and searching of all vessels destined to Cuba, regardless of flag.
+The opinion was expressed by Mr Williams that the Soviet Governmentwould consider such treatmentof its vessels as an act of war.
+He also stated that unless Cuba committed a unilateral aggression against the United States, the blockade of Cubanports would in itself be considered an act of war and would violate two treaties to which we are a signator, including the Rio Treaty.
+Thus, the October 1962 blockade now seems remarkablein a way that it previously did not.
+Rather than being an inspired revision of an old plan in the face of a novel and extremely threateningsituation, it now appears to have been an option for meeting a dimly perceived threatthat had been considered and reworkedin a desultory and unenthusiastic fashion over an extended period.
+The timing of his query coincided with the Turkishand Italian bases for United States intermediaterange ballistic missiles becoming fully operational.
+Well before October 1962, officials had also discussed a blockade as a countermeasureto a strengthening Soviet military role in Cuba or a Soviet move against Berlin.
+This was part of a multi-agencyassessmentof a blockadecompletedin responseto RobertKennedy's March 22 request.
+In an August 10 meeting with Secretary of State Dean Rusk, General Maxwell Taylor,Advisor McGeorge Bundy, and Robert Kennedy, Director of Central Intelligence John McCone argued that the Soviets might install missiles in Cuba.
+Former intelligence official Dino Brugioni relates that Taylor told him that no one in the group was shocked at the idea and that it had already occurredto him and probablymost of the policy makers, saying ""It certainly had been discussed in the intelligence community and by military contingency'This was the interagency group that managed covert operations against Castro.
+Eleven days after the August 10 meeting, McCone, Rusk, McNamara, McGeorge Bundy, Taylor, and others discussed the appropriate United States response to the placement of Soviet MRBMs in Cuba.The policy makers considered the merits of imposing a partial or full blockade, but Rusk and Bundy expressed misgivings.
+McNamarafavored sabotage and guerrilla warfare,while Robert Kennedy queried McCone about the possibility of provoking Cuban action against the U.S. base at Guantanamo,presumablyto provide a pretext for United States military intervention.
+Bundy also expressed interest in covert operations but recognized that they would involve ""a high degree of attribution""to the United States McCone tried to dampen their enthusiasm by mentioning the lack of success of previous covert actions and the likelihood that Cubaninternalsecurity would become even more formidable.
+McCone met with PresidentKennedy on August 22; they met again the next day in what has been described as a National Security Council meeting, this time accompaniedby Rusk, McNamara,Roswell Gilpatric,Taylor,and Bundy.
+Although his view was not shared, he 3McCone, Rusk, and McNamarainet on August 17, but little documentationhas surfaced.
+None of these analyses is mentioned in the October ExComm deliberations, which suggests either they had not been completed, nobody had read them, or they had been read and promptly forgotten.
+Apparently there were only two significant instances of political planning before October 1962.
+The second was the stockpiling in West Berlin of food, coal, medicines, and industrial materials in case the Soviets blockaded that city again.
+From the standpointof these revelations, the most remarkableaspect of U.S. planning was that except for the military elements, there was so little of it.
+It is the lack of planning in the face of directives to do so, ratherthan its constraining effects, that constitutes the true puzzle concerning the relationshipbetween plans and the United States government'sbehavior in this crisis.
+Option A was to cancel operationalplans and treat Cuba as a bloc nation; Option C was to commit to overthrowing Castro, including, if necessary, use of United States forces, and Option D was to use a provocation and overthrowCastro by United States military force.
+The B plus variant allowed the United States to seek to provoke a revolt against Castro that might require United States interventionto succeed.
+After the Soviet military build-up accelerated in late summer, the executive branch had from August to October in which to plan new responses; thus, decision makers were hardly limited to executing plans written before August.
+Although the decision makers'negative view in August of the blockade could have motivated them to order new plans for other political or military responses, they did not do so.
+As will become clear from examining the air strike option, there was nothing about the military planning process as such to suggest that novel responses could not have been created within 60 days.
+The number of alternatives available to leaders is endogenous to the planning process that produces them and that process had enough time to produce more alternatives.However, it clearly did not.
+Plans, but No Constraint The case for Model II rests on organizationsbeing unable to modify routines quickly.
+If the crisis is viewed as a 13-day event, then that view is at least plausible.
+However, the recent evidence suggests that a Model II account is unappreciativeof just how quickly routines can be alteredand how unconstraining they might be, even in the short run.
+The United States air strike planning process is the clearest case of this, and it is especially significant because it is the organizational characteristicthat perhapshad the greatest impact on the outcome of the crisis.
+It is well known that at the outset of the crisis, most of the ExComm, including the President, favored launching an air strike againstjust the missile sites.
+What stifled their enthusiasmwere the repeatedwarnings by the military that a ""surgical"" strike could not be guaranteedto destroy all missiles.
+Moreover,the military arguedthat the threat posed by surviving Cuban and Soviet air power to Florida or to United States invasion forces would have to be neutralized, thus requiring a larger attack.
+Had the military responded to early civilian interest in a ""surgical""air strike with more alacrity and placed less emphasis on the need for preemptingan attack on Florida by widespread air attacks on a long list of Cuban targets, it is much less likely that the crisis would have ended without open hostilities.
+In Allison's original account, the military had to base its planning for air strikes and an invasion of Cuba that were not tailored to the special situation created by the existence of the Soviet missile sites.
+The failureto propose an air strikeplan that matched civilian preferences for a highly selective use of force was described in terms of organizationalrigidityand a ""misunderstanding"" in which the military allegedly failed to grasp the political importance of limiting the 1172 TimothyJ McKeown scale of damage of an air attack.
+As a result, they were allegedly unable to formulate an air strike plan that the civilians found appealing, in spite of the strong initial civilian inclination to approvean air strike.
+Allison and Zelikow's revised account presents a substantiallydifferent picture.
+Prior to the photographicdiscovery of the missiles, the armed forces, at the direction of the White House, had already prepared three different plans of operations against Cuba.
+Unlike the directives for political planning, the directives to revise military plans were energetically implemented.As described by Allison and Zelikow, The presidentialorder spurredan intense reevaluationof the air strike plan, which until then had been abstractand associated only with a general attack on Cuba.
+The new work on the air strike plan went to the United States Air Force'sTacticalAir Command, headed by GeneralWalter Sweeney.
+The White House continued to press the armed forces to update their air strike plans.
+While that claim is not inaccurate,it neglects an implication that is more critical for a Model II understanding.A leader who understandsthat agencies operate on plans and routines can counteractand perhapsnegate their tendency to respond in stereotyped ways to novelty by ordering the revision of plans, providing the resources needed for revision, and then closely supervising the revision process.
+That is exactly how the White House shaped air strike planning for Cuba.
+After the missiles were photographed, and in preparationfor the October 17 ExComm meeting, the Joint Chiefs approveda menu of five air strike options.
+Option I was an attack on missile and nuclear storage sites ; this correspondedto what the ExComm had in mind when they discussed a ""surgical"" strike.
+However, its content kept shifting as military planners kept adding more sorties to the options.
+The continual revision of the sortie numbers was noticed by the ExComm participants,and it became a source of irritationto some.
+On October 19, McNamaracomplainedto the Joint Chiefs that they just talked to the President in very general terms.
+But every day the numbers for airplaneswe'll have in the air is increasing.
+Maxwell Taylor,a member of the Joint Chiefs, was a former commanderof an airborne division.
+Taylor grew exasperated with the air strike planning and told his colleagues that the continual increase in sortie numbers was underminingthe military's case for an air strike.
+That rigidity cannot be understoodwithout understandingthe political strategy of the Joint Chiefs.
+Planning in the Service of the Joint Chiefs' Agenda It is difficult to trace empirically the reasons for the weak response to directives for planning in the period between the spring of 1961 and late summer of 1962.
+Officials do not often write down why they do not take seriously the 1174 TimothyJ McKeown directives of their superiors, nor are superiors fond of recording why they do not follow up on earlier directives they have issued.
+As a result, much of the analysis of the reasons for the weakness of the planning process rests on circumstantialevidence.
+However, in one domain the 1962 air strike planningthe analysis can rely on relatively abundantdocumentation.
+What he could not see then was that the way that the military presentedthe air strike option to the ExComm could be understood not as the result of a ""misunderstanding""at all, but rathera calculated gamble on their part that the President could be persuadedto use force.
+If he were to be so persuaded, then they wanted to make the most of the opportunityby receiving prior authorization to implement an air strike plan that would preparethe way for an invasion.
+Once such a large attackhad taken place, the level of casualties and destruction on Cuba would have been sufficiently great that an invasion would then seem a less drastic escalation than if it occurred without a preparatoryair campaign.
+The Chiefs came close to saying as much in a brief conversation among themselves in the aftermathof the October 19 ExComm meeting, where they had presented their views.
+After the meeting broke up, they stayed behind to talk briefly, unaware of the White House taping system.
+Shoup : Somebody's get to keep them from doing the ... thing piecemeal.
+It is in light of these comments that the persistent proposals of the Chiefs for large air strikes can be understood.They did not want a war of limited objectives and limited means against Castro, but rather a military campaign to remove him from power.
+It is not surprising that they would be unencouraging about the success of a ""surgical""air strike and would respond to civilian concerns about not destroying all the ballistic missiles by trying to persuade them to adopt a broader strike ratherthan emphasizing the possibility of repeated re-strikes of the smaller target list.
+But if Welch could divine the critical operational issue, the general probably could, too.
+Had he been trying to persuade Kennedy of the wisdom of attackingjust the missiles, he might have been quick to volunteer the informationthat would have allayed the President'sfears.
+Since he did not do so in a situation where the Chiefs wanted to prevent the civilians from ""doing the . . . thing piecemeal,"" it is temptingto conclude that Sweeney wanted to answer truthfully,but in a way that did not encourage his superiorto take a course of action that he viewed as insufficient.
+Hence, his reply was narrow ratherthan expansive and did not speak to the larger issues behind the President's question.
+The linkage to domestic politics here is only implicit, but it no doubt was understoodby all the participants:if the Chiefs recommend bombing Cuban airfields in addition to bombing the missile sites, and the administration rejects that advice and bombs only the missile sites, and if the Cubans retaliate by air attacks on Florida, then the White House would be in the difficult position of having chosen policies that would lead to the first significant hostile action by a foreign government on United States soil since the War of 1812.
+The military here chose not to override this rule and did not suggest it could be overridden,and the civilians either did not know enough to consider overridingit or were motivated not to discover any ways of making a limited air strike option appearmore likely to succeed.
+The rule constrainedthe responses to the missiles only because the parties tacitly agreed not to override it.
+If there were enough aircraftto fly hundredsof sorties against a much longer target list, then there must have been enough to strike repeatedly at the missile sites, thereby achieving higher probabilities of destroying all the missiles.
+The problem with the Chiefs' strategy,as Maxwell Taylorseemed to realize, was that if a small air strike became less attractive, it might simply lead the civilians to prefer no air strike at all.
+That is essentially what happened soon after the discovery of the missiles.
+When military options were reconsideredon October26, after it became apparentthat the Soviets were not abandoningwork on the missiles, the preferredair strike plan in the ExComm was a slight modification of the original ""surgical""proposalto strikeonly the missile sites.
+Hence, the need had passed for a strike aimed at targets that were not strategic weapons systems.
+The ""surgical""air strike option was never abandoned, and if air strikes had been initiated, it is likely that such a plan would have been used.
+Thus, even the military'smonopoly of expertise, control of operationalplanning, strong aversion to the ""surgical""strike, and efforts to achieve the adoption of an alternative plan were not enough to eliminate this option from serious consideration.
+Ratherthan establishing a case for the importanceof organizationalprocesses, the maneuveringaroundthe air strike planning shows the capacity of the White House to continue to control decision making about the use of force, even in the face of military efforts to induce the abandonmentof the civilians' preferred option.
+As Levy suggests, organizational rigidity is partly a function of leaders' lack of effort to monitor and shape planning so that the leadership has options.
+When they make the effort, the planning process can be responsive to leaders' desire for more alternatives.
+Examination of alleged organizational constraints in the blockade tends to support these conclusions.
+Although the blockade force was planned in May 1962 to consist merely of twelve destroyersand two surveillance aircraft(Joint Chiefs of Staff 1962), the naval force actually deployed was many times that size.
+Another incident that Allison and Zelikow cite to illustrate the potency of plans is more illustrative of their plasticity, their use as objectiveseeming devices to obfuscate organizational self-interest, and the capacity of leaders to negate their constraining effects, provided they take time to learn what lies behind them and to override them personally.
+In their discussion of how the President'scommand to United States missile bases in Turkeynot to returnfire if attacked was treated by the United States military,Allison and Zelikow (1999, 19798) note that the Joint Chiefs of Staff objected to the order and none was initially sent.
+The President learned of the failure to carry out the instruction only because of a direct question he posed to a Defense Department official duringa briefing on a differentpoint.
+Only when they were not able to find such a passage did they resort to a cable to the NATO commander stating that without specific presidential authorization, the weapons were to be destroyed or rendered inoperable if any attempt were made to fire them.
+The simplest explanationfor this lies in the fact that unlike the United States case, the top Soviet leadership seldom second-guessed the organizations charged with implementing this mission or closely monitored its implementation.
+Khrushchev originated the idea of installing the missiles in Cuba, but once his plan was adopted, he did not devote the attentionto organizationaldetails that the Kennedy White House did.
+National Security Council staff and made high-level foreign policy decisions simply by consulting in person or by telephone among themselves, their ability to monitor and alter the implementation of directives was more limited than their United States counterparts.
+Khrushchevsometimes broughthis personalinterestto bear-for example, when he directed that surface-to-airmissiles in Cuba be made operationalbefore installing ballistic missiles.
+In the absence of high-level attention, Soviet 'Bracketed text is included in May and Zelikow as editorial commentary.
+The dictatorial regime exhibited intermittentand inconsistent control from the top and frequentlysuccumbed to routine-itis, while the democratic regime performedbetter.
+In contrastto studies of routines that treat them as cognitive constructs (Cohen and Bacdayan 1994) or as rules that are implicit in observed patterns of behavior , routines here are treated as tangible and social.
+In this context ""birth""and ""adoption""are easily separated:""Birth""refers to the draftingof a written document, while ""adoption""refers to its formal approvalby the relevant decision makers.
+The President as Commander-in-Chiefalways can refuse to implementany military plan when the contingency for which it was designed and approvedhas materialized.
+He likewise is free to reject any plan created by the National Security Council or other agencies, as long as the rejection does not violate statute law or the Constitution.
+Only when the President or someone delegated by him to make the decision has orderedthe plan to be implementedis implementationsaid to have begun.
+Thus, plans or routines are in effect political settlements.The Presidentin this scheme is just anotherplayer,thoughone endowedwith some extraordinaryadvantagesunique formal authority,ability to set the agenda and to mobilize public opinion, and de facto leadership of a political party.
+In the tradition of Neustadt , obedience to presidentialdirectives is problematicratherthan assumed.
+The fact that the President sits at the top of a hierarchydoes not guaranteethat his orders will be promptly and faithfully executed.
+However,the fact that they do not explore the connectionbetween Model II and Model III processes is no reason why the connection cannot be made.
+Like a truce among nations, the truce among organization members tends to give rise to a peculiar symbolic culture sharedby the parties.
+A renewal of overt hostilities would be costly and would also involve a sharp rise in uncertainty about the future positions of the parties.
+In particular,a contemplatedaction otherwise sensible both for the organizationand for the member taking it may have to be rejected if it is likely to be interpretedas ""provocative"" that is, as signaling a lessened commitmentto the preservation of the truce and a correspondingwillingness to risk overt conflict for the sake of modifying the routine in a mannerfavored by the member who initiates the change.
+Sometimes the revisions can proceed peacefully as when, for example, a Paretoimprovementis proposed but there is no guaranteethat this must be so.
+Correspondingly,decisions to avoid planning are decisions to avoid conflict.
+Subunitsmay be reluctantto plan because they fear that the outcome will be a settlement that will be worse than the status quo.
+Finally,just as a deterrentthreatoften inspires aggressors to work aroundthe threat in an effort to achieve their objectives without directly confronting the deterring state , so too can decision makers work aroundexisting routines or plans when the outcomes that they desire cannot be achieved through them, but only in other ways.
+Unless task complexity is unusually high or time pressure is more severe than in this case, events duringthe missile crisis suggest that they often are able to do this.
+Recognizing that informationprocessing constraintsmay not be as powerful as heretofore believed does not imply discarding Model II in toto.
+Rather, it suggests that the kinds of information processing constraints an organization chooses to surmountand the ways that it chooses to surmountthem are partly the product of political calculations.
+Sometimes it pays to devote the effort to overcoming these constraints,and sometimes it does not.
+Instead, they can be and were manipulated to serve the policy objectives of the decision makers who controlled these processes.
+The failures to plan political responses to the missiles and to search for alternativesto the blockade suggest that the argumentof Model II can readily be inverted.
+Foreign policy making is not necessarily constrainedby too much planning.
+Rather,a lack of political planning places a premium on the improvisational skills of top-level officials when weakly anticipatedevents suddenly become crises.
+One might object that since decision makers saw Soviet ballistic missiles as improbable, the failure to plan is simple to understand:planning was simply not worth the trouble.Although this interpretationis plausible, it faces several difficulties.
+First, even though decision makers may have assigned the outcome a low probability,they also viewed it as extremely unfavorableto United States government interests.Thus, the contingency was importantin an expected utility sense because the probability was offset by the large magnitude of the utility loss.
+Second, it is clear that top-level officials repeatedly asked for analyses and plans for the contingency of Soviet offensive missiles in Cuba.
+If one can observe governmentagencies churningout plans in circumstanceswhere it is fairly certain that top level decision makers will ignore them , then ceteris paribus one would expect that when decision makers ask for plans, this will be all the more reason for them to be produced.
+Third, military planning did go forward, even though political planning did not.
+This suggests that the sources of the lack of the latter lie not in general processes, but ratherin more context-specific differences between military and political spheres.
+Explaining the lack of political planning is no easier than explaining any other nonevent.
+If a serious high-level, interagency review of the Jupiter missile deployment or possible responses to Soviet missiles in Cuba had been undertaken,it would have been difficult to prevent knowledge of it from reaching high-level officials in the relevant national security organizations.
+The possibility that plans would then leak might have been a deterrentto conducting such a review.
+The response was delivered the next Monday.Thus, it was written over the weekend, when offices would have been nearly empty, and the request for an immediate response provided the necessary bureaucraticcover for the legal adviser to transmithis response directly to McGeorge Bundy without clearing it with other offices in the State Department.Here, routines hinderedplanning rather than facilitating it, so they were circumvented.
+If military planning is not subject to interagency review, and if the security around it is tighter, this could partly explain why only it was conducted.
+A second difficulty is that because plans for foreign policy (as opposed to changes in the laws or in budgets) can never be binding on the President,planners are aware that whatever they create may be discarded by the President when the time comes to use it.
+Presumably,this would lead sophisticated officials to devalue planning.
+In turn, presidents who are aware of how these officials view the situation will tend to hold their plans in low esteem because they will realize that senior officials made little commitment to the planning process.
+However, senior military officials were strongly motivatedto secure new military plans and supervise their promptproduction.
+If the use of force were considered, they wanted to be able to show that they could accomplish national objectives by using it.
+Although they probablyrealized that Kennedy was skeptical of their claims, they knew that they would have no chance at all if they did not have a plan that appearedto be capable of achieving the given objective.
+If civilian high-level officials are chronically overloaded, and if their attention is dominated by ""fires in the in-basket"", then they will find the time that they might be able to devote to planning being whittled away by the constant demands of day-to-day decision making.
+As noted by Daft and Becker , organizations have queuing rules for problems; those deemed to be low prioritymay be repeatedlyneglected.
+Because this is an information-processingconstraint when viewed in the short run, it appears consistent with the general 91 am indebted for this insight to Peter Feaver.
+However, when viewed in the long run, the question of why leaders did not invest in more decision-making capacity must be addressed.
+These small, general purpose units were unlikely to be used for this purpose by an administrationthat had taken office on the presumptionthat the EisenhowerNSC system had been far too bureaucraticand planned too much.
+In such a situation it would hardly be surprising if officials were reluctant to delegate the preparation of contingent responses to staff.
+Assessing the political consequences of actions against Castro would engage these concerns much more directly than an assessment of narrowlymilitary problems facing some use of military forces.
+Where officials are known to be divided, a decision to plan is a decision to place a conflictual item on the agenda.
+From the time it became aware of the Bay of Pigs operation, the Kennedy White House knew that opinions on what to do about Castro were sharply divided on means, even if there was little disagreement about ends.
+There is little reason to initiate a review of policy if one believes that there is a good chance that it will produce conclusions that one does not like.
+For opponents of the established policy, there correspondingly is not much reason to press for a policy review if one believes that it will simply ratify the status quo.
+As long as one had hope that the problem of what to do about Castro would be ""overtakenby events,"" postponing a reconsideration of Cubanpolicy might seem expedient.
+While the military were in a weak position to press for a change in policy, they could at least preparetheir case so that if events caused a reconsiderationof military options, they would be ready.
+Political contingency planning also might not have occurred simply because it would have been very hard to do.
+One would have to know what resources would be available, as well as the resources and intentions of the other actors.
+Such planning also inevitably involves the analyst in a candid assessment of the weaknesses and limitations of one's own government and policy.
+If the option is a ""fallback"" position, it might therefore make the adoption of the ""fallback"" seem more likely.
+Since the status quo Cuba policy was much closer to civilian than to military preferences, it would have been reasonable for the civilian agencies to avoid analyses that might reach conclusions that policies that they did not particularlylike were feasible or even desirable.
+The plasticity of the air strike plans and their opportunisticpresentationby the Joint Chiefs suggest a more fundamentallimitation in an analysis that focuses only on routines.
+At least in this case, routines were less a strait-jacket and more a weapon in the hands of decision makers in their struggle to have their preferred courses of action adopted.
+An expert can be tempted to assert that ""we have to do it this way"" in order to achieve the adoption of policies desired on parochial grounds.
+That seems to have been what occurred in regard to the air strike proposals.
+Moreover,the President was also using the planning process strategically by letting the Chiefs continue to plan for an air strike and invasion, by listening to their proposals, and by carefully leaving the door open to the im'Io am grateful to Alexander George for this suggestion.
+McMaster suggests that doing so was Kennedy'sway of making sure that the Chiefs retained enough hope in the eventual adoption of their policies that they were dissuaded from openly breaking with the administration.Thus, from both the President's and the Chiefs' perspective, planning was a means to an end, not an end in itself.
+Conclusion A model of organizationalbehavior in which actions are governed by routines, while routines evolve via mutation and naturalselection, offers a simple but powerful alternative to models resting on rational calculation.
+It accords well with the observations that organizationsuse routines to perform tasks and that human calculational ability is limited even when organizationsdistribute calculationaltasks among subunits, there is no guaranteethat the resulting performance will mimic that of a hypothetical omnisciently rational calculator.
+Such a view of organizations is cast at an extremely high level of abstraction.
+Because organizationsare intelligentin a way thatbacteria are not, it is worthwhile to ask what is lost by using a model that ignores human capacities to anticipate events and to act strategically.
+First, relations between superiors and subordinatesare not mechanical compliance with directives is not automatic.
+Superiorsand subordinatesknow this, and it shapes the kinds of directives that superiors send, when and how subordinateschoose to comply, and how superiors respond to noncompliance.
+Second, dissatisfaction with currentalternativesdoes not automaticallylead to the development of new ones.
+Developing alternatives is costly and risky and cannot be presumed to be an invariantconsequence of dissatisfaction with current options.
+In a situation of strategic interaction, organizationaldecision makers may believe that a new menu of alternatives would leave them in a worse position than the status quo.
+Interestsare thus to some degree constrainedby the discussion of plans as well as cloaked by it.
+Much United States national security planning resembles the process depicted here.
+It typically involves several organizational subunits operating under uneven or intermittenthierarchical control from presidential appointees or the President himself.
+This analysis also raises the question of how the pattern of declassification is related to the evolution of scholarly explanations.
+Early accounts tended to promote an ""inspiredimprovisation""view of United States behavior,while the later (but still incomplete)1""declassifications support an interpretationthat is less flattering.
+Because declassification is not random and proceeds using guidelines that are themselves classified, the analyst is playing a game with the declassifying authorities.First, the authoritieschoose what to release; then the analyst chooses an explanationfor events.
+This is unlike analyzing a randomsample or experimentallymanipulatingstimulusconditions.
+Since the evidence now suggests that the President was considerably less constrainedby plans and routines than Allison's original account claimed, one might conclude that this research has merely restored the pre-Allison understanding of internationalcrisis as a time when top-level decision makers exert unusually close control.
+Although some routines were redesigned or ignored, that alone does not compel the analyst to revert to a Model account.
+That understandingis deficient because it is insensitive to the degree to which government actions in crisis are a result of bargaining,the role of plans and routines "" For example, neither Robert Kennedy'spapers on the crisis nor the President'sdaily briefings preparedby the CIA for this period are declassified.
+The most obvious way is that the bargaining is often over what plan or routine will be adopted.The fact that they are often the objects of political struggle suggests that Allison was correct to call attention to their general importance.Second, as the discussion of Presidentialdirectives to United States forces in Turkey suggests, decision makers who wish to direct the behavior of subordinateorganizationalactors may tend to rely on invoking existing plans ratherthan personal commands.
+This makes sense in a world where the justification for a policy matters.When directives can be framed simply as asking for implementationof existing policy, they are probably more difficult to resist.
+Third, plans or routines determine the default policy and thus the status quo point for bargaining.
+Fourth, as Allison noted, organizations often have difficulty executing options for which there is no plan or routine and thus can expand or shrinktheir range of alternativesby expanding or shrinkingtheir planning, training, and rehearsal activities.
+Fifth, the information upon which policy choices are based is often gatheredby routines.
+For all these reasons, the relation between Model II, which is devoted to the effects of routines on organizationalbehavior, and Model III, which is devoted to the effects of high-level bargaining, is intimate.
+Specifying their linkages more precisely is one of the more importantpieces of unfinished theoretical business left from Allison's original contribution.While one may want to preserve the distinction between the two models for some purposes (as a pedagogical strategy, for example), the distinction between the two now seems much more artificial than it did when Alison first offered his theoretical account more than 30 years ago.
+George Lee Butler Rose to Be Chief Commanderof America's Nuclear Forces.

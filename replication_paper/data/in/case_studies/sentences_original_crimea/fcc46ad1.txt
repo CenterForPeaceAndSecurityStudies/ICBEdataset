@@ -1,0 +1,830 @@
+NAVAL POSTGRADUATE SCHOOL MONTEREY, CALIFORNIA THESIS THE NATURE OF RUSSIA’S THREAT TO NATO’S ENHANCED FORWARD PRESENCE IN THE BALTIC STATES by Michael R Kristek Sr.
+Mikhail Tsypkin Second Reader: Thomas-Durell Young Approved for public release.
+FUNDING NUMBERS THE NATURE OF RUSSIA’S THREAT TO NATO’S ENHANCED FORWARD PRESENCE IN THE BALTIC STATES 6.
+ABSTRACT In the wake of Russia’s 2014 annexation of Crimea and subsequent military support to separatists fighting in Eastern Ukraine, the North Atlantic Treaty Organization has deployed Enhanced Forward Presence forces to Estonia, Latvia, Lithuania, and Poland to reassure NATO’s members and to deter Russian aggression.
+The EFP suggests policy makers consider a Russian incursion into the Baltic States a significant possibility.
+It details Russia’s national security strategy, military doctrine, and foreign policy toward the Baltic States to assess Russia’s political-strategic objectives.
+The EFP presents a viable military deterrent against Russian armed aggression through its trip-wire function, which would lead to deterrence by punishment.
+However, the Baltic States, and thereby NATO, remain vulnerable to Russian political and social influence by way of energy dependence, malign state influence in the information sphere, and Estonia and Latvia’s own divisive citizenship policies.
+NATO’s ability to develop consensus on and codify what actions constitute an information operations attack will enhance NATO’s ability to deter Russian information warfare.
+THE NATURE OF RUSSIA’S THREAT TO NATO’S ENHANCED FORWARD PRESENCE IN THE BALTIC STATES Michael R Kristek Sr.
+Chair, Department of National Security Affairs iii THIS PAGE INTENTIONALLY LEFT BLANK iv ABSTRACT In the wake of Russia’s 2014 annexation of Crimea and subsequent military support to separatists fighting in Eastern Ukraine, the North Atlantic Treaty Organization has deployed Enhanced Forward Presence forces to Estonia, Latvia, Lithuania, and Poland to reassure NATO’s members and to deter Russian aggression.
+REASSURANCE, DETERRENCE, AND DEFENSE IN THE BALTIC STATES ..................................................................................................................7 A THE IMPETUS FOR NATO ACTION ...................................................7 1.
+Covert Invasion and Annexation of Crimea ................................8 2.
+Russian-Backed Separatist Campaign in the Donbas ..............11 B NATO RESPONSE ..................................................................................13 1.
+NATO’s Readiness Action Plan and the European Reassurance Initiative .................................................................13 2.
+RUSSIAN POLICY AND STRATEGY .............................................................17 A NATIONAL SECURITY STRATEGY .................................................18 B MILITARY DOCTRINE ........................................................................24 C RELATIONS BETWEEN RUSSIA AND THE BALTIC STATES ....................................................................................................27 1.
+Pre-Soviet Relations .....................................................................27 2.
+Post-Soviet Relations ...................................................................29 D IMPLICATIONS FOR THE BALTIC STATES ..................................31 1.
+Concept and Aims of Hybrid Warfare.......................................31 2.
+Russia’s Hybrid Warfare Goals and Methods in the Baltic States ..................................................................................34 3.
+RUSSIAN MILITARY CAPABILITY ..............................................................43 A REFORMS................................................................................................43 1.
+Serdyukov, Makarov, and the New Look ..................................43 2.
+Shoigu ............................................................................................46 3.
+Organizational Reforms ..............................................................48 4.
+Material Reforms .........................................................................57 B CONTEMPORARY PERFORMANCE ................................................64 vii 1.
+Ukraine..........................................................................................64 2.
+Syria ..............................................................................................75 C GROUND FORCE CAPABILITY .........................................................76 1.
+The Battalion Tactical Group and its Organization and Equipment ....................................................................................84 3.
+ANALYSIS AND IMPLICATIONS ................................................................103 A PERSONNEL .........................................................................................104 B LOGISTICS............................................................................................107 1.
+Thank you for enduring countless family obligations without me, for the sake of me completing my schoolwork.
+Thank you for the countless evenings of putting the children to bed, providing coffee or water, cooking meals, running errands, bringing me items I had left at home, and generally picking up the slack for everything I should have been helping to do.
+My previous commander, Major Jake Hubbard, supported by not only passing on material of interest, but by continuing to advocate for my career.
+Major Tom Kulisz and Major Andrew Reaves provided my krisha; they were instrumental in me navigating both NPS and the Marine Corps’ EWS though a year and a half in Monterey, with all the life circumstances that happened in between.
+I owe Professor Donald Abenheim a debt of gratitude for providing me with a “real graduate school experience” and for encouraging me to pursue a research topic that interested me above all others.
+To Professors David Yost, James Moltz, Covell Meyskens, Richard Grahlman, and Scott Jasper, thank you for affording me the opportunity to make my research relevant to your classes.
+To Captain Christopher Bone, United States Navy, thank you for taking the time to actually read my thesis and for your comments and feedback.
+Finally, to my advisors, Professor Mikhail Tsypkin and Professor Thomas Young, I am grateful for the long leash and freedom that you allowed me.
+The professional contacts you provided were indispensable, and your quick, insightful comments and reviews speak to your tremendous skill and depth of knowledge.
+BACKGROUND AND SIGNIFICANCE In the wake of Russia’s 2014 annexation of Crimea and subsequent military support to separatists fighting in Eastern Ukraine, the North Atlantic Treaty Organization has deployed Enhanced Forward Presence forces to Estonia, Latvia, Lithuania, and Poland to reassure NATO’s members and deter Russian aggression.
+Prior to the dissolution of the Soviet Union, the United States Army maintained a series of field manuals that analyzed the organization, doctrine, operations, tactics, and equipment of the Soviet Army.
+These field manuals served as the basis for how United States and NATO ground combat forces organized and trained to fight a Soviet adversary.
+With the collapse of the Soviet Union, the United States Army now maintains only a generic, non-country–specific, opposition force series on adversary organization, operations, tactics, and equipment.
+While the Army’s current OPFOR publications are based on post-Soviet forces and account for many changes in Russian force structure and organization, the Russian military continues to modernize, experiment, and reorganize.
+These reforms began with an attempt to transition from a mobilization force built upon conscripts to a professional force.
+Following Russia’s poor yet effective 2008 performance in Georgia, Russia instituted its “New Look” reforms to address organizational and battlefield deficiencies.
+In response to NATO’s EFP in Poland and the Baltic States, however, the Russian military is reverting back to Soviet-era formations.
+As security experts, defense officials, and policy makers are considering the possibility that NATO and Russian forces may engage in combat within the Baltic States, contemporary analysis of Russia’s order of battle , tactics and lessons-learned in current conflicts within Syria and Ukraine, and combat preparations through jointstrategic exercises is prudent for NATO ground forces to understand the nature of the Russian threat.
+This thesis analyzes how Russian forces could engage NATO ground forces in the Baltic States.
+It analyzes if the scenario of direct military confrontation is plausible and assesses what events would precipitate direct military confrontation between Russian and NATO forces.
+LITERATURE REVIEW There are three primary schools of thought regarding whether or not armed conflict between Russia and NATO in the Baltic States is plausible.
+The first is an ideologically driven argument, typified by Russian policy analyst Mikhail Aleksandrov and Russian-nationalist political scientist Alexander Dugin’s writings, that points to the inevitability of Russia reabsorbing the Baltic States through the realization of its greatpower status.
+These two schools are informed by opposing views of the Crimean affair.
+One side views it as Russian opportunism during a period of instability on its border.
+The other sees it as the calculated manifestation of Russian hybrid warfare doctrine, attributed to Russian General Valery Gerasimov, and applying all the instruments of national power against an enemy in a non-linear fashion.
+The third school of Post-Soviet thought warning of Russia’s possible military designs in the Baltic States is deductive reasoning informed by Russia’s military exercises on the Baltic periphery, specifically, the Zapad series of JSEs.
+Despite the stated goals of Zapad as a counterinsurgency exercise, many Western defense and security experts view the Zapad exercises as blueprints for how Russia would attack the Baltic States and potentially Poland.
+Several think tanks have participated in wargames to investigate the outcome of a Russian invasion of the Baltic States, however, ongoing Russian military reorganization, modernization, and tactical refinement beg the question of how the Russians would actually fight in such a scenario.
+The hybrid scenarios involve Russia infiltrating non-conventional forces to stoke ethnic tension, organizing separatist paramilitaries in ethnically-Russian dominant cities, such as Narva, Estonia, or the Latgale region of Latvia.
+The separatists would be supported by information operations , to include cyber attacks.
+A NATO response would lead to a conventional Russian incursion in defense of ethnic Russians.
+Furthermore, the experts disagree on Russia’s reliance upon a strategic nuclear deterrent, non-strategic nuclear forces , or conventional precision-guided munitions to achieve its goals.
+Regardless of whether or not Russia would adopt a conventional or hybrid approach, either scenario would involve conventional forces at some point.
+There are conflicting opinions on whether or not a conventional Russian force in the Baltic States would be based on the New Look reforms or a more traditional Cold War model.
+New Look reforms are characterized by Battalion Tactical Groups , subordinate to brigades and operating under the command and control of armies.
+The Cold War model is characterized by regiments, subordinate to divisions, operating under the C2 of armies.
+United States Army War College Assessment on Russian Strategy in Eastern Europe and Recommendations on How to leverage Landpower to maintain the Peace (Carlisle, PA: Strategic Studies Institute and United States Army War College Press, 2017), 42.
+Furthermore, Swedish analysis of the Zapad exercises foresees tank and combined-arms armies consisting of divisions as the primary model for a Russian advance into the Baltic States.
+These armies would be supported by airborne units with attached tank companies and naval infantry amphibious landings, all backed by large-scale indirect fires.
+The primary gaps in the literature fail to address how C2 was executed from within the Western Military District during its Zapad exercises.
+There are operational and tactical implications for NATO forces depending on whether or not Russian forces were employed as fully-manned brigades, as single BTGs under the command of a brigade, single BTGs under direct C2 of armies, or some other C2 construct.
+Furthermore, the wargame literature does not appear to account for the Russian military’s reconstitution of tank armies.
+It also fails to address whether or not lessons learned in fire support and coordinating arms post-Georgia have been integrated into Russian tactical doctrine.
+The most significant piece of information missing from the literature at the outset of thesis research was how Russia will carry out the Zapad 2017 exercise.
+If Russia is training to fight NATO in the Baltic States through Zapad, the 2017 installment portrays the latest Russian thinking in organization, doctrine, and tactics, and equipment.
+POTENTIAL HYPOTHESIS The most compelling argument for whether or not Russia will invade the Baltic States is articulated best by retired United States diplomat Kirk Bennet.
+He postulates that a Russian invasion of the Baltic States would simply be too costly for Russia.
+It would jeopardize Russia’s operations in Ukraine, the Caucuses, and Syria.
+Furthermore, additional international sanctions would cripple Russia’s energy exports, thus bankrupting the economy.
+To fulfill the aims of this thesis, however, there must be an assumption that Russia would invade.
+Any protracted attempt at state capture through hybrid means, using special operations forces and intelligence operatives in a covert, unconventional campaign to support an ethnic Russian separatist movement, would likely draw a NATO buildup, diminishing Russian chances for success.
+Therefore, Russia’s most likely course of action will be an armor heavy Blitzkrieg from Belarus into the Baltic States, carried out by the WMD’s newly reconstituted 1st Guards Tank Army, with the goal of securing permanent geographic access to the Kaliningrad Oblast.
+Supporting ‘Hard Power’ to 2020? –Swedish Defense Research Agency, 2013), 50; Rod Thornton, Military Modernization and the Russian Ground Forces , 31.
+THE IMPETUS FOR NATO ACTION In 2014, when Viktor Yanukovych abdicated his presidential responsibilities and fled Ukraine in the face of the Euromaidan Revolution, the Kremlin seized the opportunity to intervene militarily amidst the turmoil.
+Russia’s Crimean campaign was fueled by fears of both Russian regime instability vis a vis the Euromaidan “color revolution” movement, and the implication that Russia’s Black Sea Fleet anchorage in Crimea may have been threatened by the deteriorating civil and security situation in Ukraine.
+Russia’s interests include maintaining Black Sea Fleet ports in Crimea, and the capability they provide Russia to project power into the Mediterranean and beyond.
+NATO and EU expansion threaten President Vladimir Putin’s revisionist quest to balance the West through a Russian-dominated Eurasianist hegemony.
+A corollary to that goal is the unification of ethnic Russians and the greater Slavic peoples.
+The Euromaidan movement provided a power-vacuum through which the Kremlin could seize the initiative to secure its interests while promoting union with ethnic Russians in Crimea and the Donets Basin region of Eastern Ukraine.
+They advanced until significant resistance was met, and then consolidated their gains through deterrence and diplomacy.
+A Primer on Modern Russian Unconventional Warfare, Ukraine 2013–2014 (Fort Bragg, NC: The United States Army Special Operations Command, June 2015), 39.
+Covert Invasion and Annexation of Crimea Russia likely began developing plans to seize Crimea following the dissolution of the Soviet Union.
+These plans would have been updated during the 2004 Orange Revolution, and the 2013 Euromaidan movement.
+Russian forces moved against key Crimean administrative facilities, followed by key aviation and air defense units.
+Russian special designation (Voyska Spetsialnovo Naznacheniya—Spetsnaz) and special operations forces initially blockaded military units, while fully seizing air defense and C2 nodes.
+Despite Russia’s illegal covert actions, there did not appear to be enmity between the Ukrainians and Russians at many locations under siege.
+While waiting for a diplomatic resolution, Russian forces eventually withdrew or relaxed their posture outside many Ukrainian military facilities.
+Russia’s Crimean operation began in force in the early morning on 27 February 2014.
+Plain-clothes members of the Special Operations Command (KSO, alternatively known as the Special Operations Forces Command – KSSO) and the Airborne Forces’ 45th Guards Separate Spetsnaz Regiment , which has since been upgrade to brigade strength, seized Crimea’s parliament building.
+Russia’s Black Sea Fleet blockaded Ukraine’s naval surface forces in port in Crimea, but was unsuccessful in preventing the Coast Guard from fleeing.
+The Military Operation for Crimea,” in Brothers Armed: Military Aspects of the Crisis in Ukraine, ed.
+It often denotes a unit which Is not under the direct tasking authority of the unit to which it Is subordinate, but rather, under the C2 of a higher-echelon command; Georgian intelligence officer; email communication with the author, 19 March, 2017.
+On 28 February, The Kremlin ordered snap inspections across the Western and Southern Military Districts.
+Black Sea Fleet Spetsnaz were lifted into Crimea via Mi-8 helicopters that were escorted by Mi-35M attack helicopters.
+In the afternoon, approximately 1500 Spetsnaz were lifted into Crimea by Il-76 transports.
+Spetsnaz seized Crimea’s airport and the Ukrainian state television station.
+The 10th Sep Spetsnaz Bde surrounded Crimea’s parliament building, augmenting Russian forces already in control of the structure.
+In the afternoon, Russian forces surrounded three Ukrainian air-defense regiments and two radar installations, to include the 55th Anti-aircraft Missile Regiment in Yevpatoria.
+Forces likely from either the 18th Coastal Defense Bde or 382nd Sep Marine Bn conducted an amphibious landing in Feodosiya via Zubr air-cushioned landing craft .26 Between 1 and 2 March, the 10th Sep Spetsnaz Bde arrived in Crimea via amphibious shipping, along with the 25th Sep Spetsnaz Rgt’s equipment.
+Russian researcher Anton Lavrov notes that uniformed Spetsnaz, without insignia, deployed across Crimea in “battalion and company-sized troop convoys…in trucks…accompanied by armored vehicles” on 2 March.
+Russian forces established a logistics staging area at Lazarevsky barracks, which had been long been abandoned for military purposes.
+Russian naval forces blockaded Ukrainian naval forces in Novoozerne on 5 March.
+After holding their blockade for three days, Russian forces surrounding the 5th Naval Aviation Bde at Novofedorivka airfield were unable to prevent the unit from flying five helicopters and three fixed-wing aircraft off the installation and into Ukrainiancontrolled airspace.
+Although this occurred over a five-day period, these were the only Ukrainian aircraft to flee Crimea.
+From 6 to 17 March, Russian forces transitioned from deploying lightly armed and equipped Spetsnaz in Ukraine, to deploying armored vehicles and artillery, as well as attack aircraft, along Russia’s border with Ukraine to deter a Ukrainian counterattack.
+On 6 March, Russian forces scuttled the decommissioned Russian Ochakov to assist in blockading Ukrainian naval holdouts.
+The 727th Sep Marine Bn and the 18th Guards Sep Motorized Rifle Bde began moving from their bases in Russia toward Crimea on 6 March.
+On 9 March, the 11th Sep Coastal Defense Rocket Artillery Bde, with 3K55 K-300P Bastion-P coastaldefense cruise missiles , was observed in Crimea.
+The CDCMs served as antiaccess and area denial deterring against third-party intervention, as the Ukrainian navy was already blockaded.
+The 18th Sep MRBde entered Crimea and reinforced Spetsnaz and proxy forces at the Perekop Isthmus.
+The Russian units at Perekop, reinforced with artillery and multiple-launch rocket systems , were the primary defense against a Ukrainian counterattack.
+On 19 March, Russian KSSO forces began the operation to seize the remaining Ukrainian military units that had taken defensive positions in their bases.
+They were supported by motorized infantry in armored personnel carriers and Mi-35M attack helicopters, as well as proxy forces in some instances.
+The Russians systematically boarded and seized Ukrainian vessels, while surrounding and coercing ground forces through shows of force.
+By 25 March, Russia had affected the surrender or defection of all Ukrainian forces in Crimea.
+Russian-Backed Separatist Campaign in the Donbas Concurrently with its covert invasion of Crimea, Russia began its military intervention in the Donbas.
+Sutyagin argues that Russia’s goal in Ukraine is maintaining control over a reintegrated Donbas, giving the Kremlin influence within the Ukrainian political process.
+The Russian military’s primary mission in the Donbas is to advise and assist, and build the capacity of RBS forces in Eastern Ukraine.
+Throughout this campaign, Russia deployed 40,000 to 50,000 ground combat troops and an additional 45,000 to 50,000 combat support and combat service support forces on the border with Ukraine, Belarus, and Moldova.
+These forces provided deterrence against Ukrainian forces fighting RBS, while also providing a rear area in which to organize and train for combat operations in Ukraine.
+The primary methods Russian forces used to assist RBS were providing C2, intelligence, weapons and equipment, and training.
+Russian forces provided persistent cross-border fire support, and ultimately engaged in direct offensive combat operations at the brigade level.
+RBS, under Spetsnaz guidance, began seizing government buildings in the Donbas in March.
+On 27 April, RBS seized the Donetsk television station and begin broadcasting Russian Today instead of Ukrainian programming.
+In response, Russian artillery forces initiated cross-border strikes against Ukrainian forces in July 2014.
+In August, Russia intervened directly with ground forces, committing approximately 4,000 conventional forces to spoil Ukraine’s successful counteroffensive.
+The Kremlin’s committal of conventional forces demonstrates the futility of its hybrid methods against forces willing to offer resistance.
+However, after the Minsk I agreement, Russian forces resumed a front-line combat role.
+The 5th Tank Bn and 37th MRBde deployed to the Donbas in February 2015, engaging Ukrainian forces in Debal’tseve.
+Putin’s War in Ukraine (Washington, DC: Atlantic Council, 2015), 5; Sutyagin, “Russian Forces in Ukraine” 1.
+By March 2015, Russia had approximately 12,000 forces in the Donbas serving in both advisor and directcombat roles.
+Aside from conventional and special operations forces, Russia employed intelligence personnel, local and foreign paramilitary and volunteer fighting formations, and private military corporations under Russian leadership to wage its campaign against Ukraine.
+NATO RESPONSE In the post-Crimean environment of Russia’s hybrid campaign in Ukraine, the Baltic States are experiencing renewed fear of Russian invasion.
+The barometers for tensions between Moscow, Tallinn, Riga, and Vilnius are read in Brussels, Mons, and Washington, DC, The Baltic States’ EU and NATO membership binds their strategic relations with Russia to Europe and the Atlantic and, in turn, influences U.S., EU, and NATO policies toward Russia.
+Following Russia’s annexation of Crimea, analysts and policy makers have paid considerable attention to collective defense and reinforcing deterrence against potential Russian aggression in the Baltic States.
+NATO’s Readiness Action Plan and the European Reassurance Initiative NATO implemented the readiness action plan during its 2014 Wales Summit, which enhanced the NATO Response Force by creating the Very High Readiness Joint Task Force .49 RAP emphasizes rotational deployments into the Baltic States to serve as a trip-wire force while staying within the basing and stationing limits of the Conventional Forces in Europe Treaty and the NATO-Russia Founding Act.
+Pursuant to the RAP, NATO established Force Integration Units in the member states along its eastern flank with Russia.
+The NFIU serve to facilitate C2 and improve infrastructure for the reception, staging, onward movement, and integration in case of NRF, VJTF, and alliance-member deployment.
+A wide base of alliance members increased air and maritime patrol and policing in the Baltic Sea.
+Along the vein of Baltic security, NATO increased bilateral partnerships with Sweden and Finland, while increasing the frequency and size of its exercises in the region.
+In concert with the RAP, the United States proposed its European Reassurance Initiative at the Wales Summit.
+The ERI is meant to assure United States allies while deterring Russian aggression.
+Aside from deploying forces, the ERI enhances infrastructure and prepositions equipment in the AOR to increase United States capability to respond to threats.
+Enhanced Forward Presence Concurrently with ERI, the Undersecretary of the United States Army sponsored a RAND study examining the prospects for NATO’s defense of the Baltic States against a conventional Russian ground attack.
+Headquarters, USEUCOM, 5 January 2017, www.eucom.mil/doc/35544/eri-factsheet.
+The RAND study’s results received sensationalized media attention, and generated debate among analysts and policy makers.
+It presented a severe capability gap between Russian and NATO ground forces that would prevent NATO from exercising deterrence by denial toward Russian Aggression.
+The RAND study’s policy implications materialized at NATO’s 2016 Warsaw Summit.
+Given the Baltic States’ proximity to Russia and Kaliningrad, their significant Russian minority populations, Russia’s aggression in Georgia and Ukraine, and Russia’s stated foreign policy goals, the Baltic States and Poland successfully lobbied their NATO allies for an increased deterrent to Russian aggression.
+At the 2016 Warsaw Summit, NATO committed to deploying rotational ground forces as an EFP in Poland and the Baltic States.
+While the RAND study appears to be the catalyst for EFP, it was based on a specific wargame scenario.
+As NATO moves forward with EFP, in order to counter aggression, any effort at deterrence must first understand the nature of the threat.
+RUSSIAN POLICY AND STRATEGY The Kremlin’s overarching foreign policy goals are to become a regional hegemon and global great power.
+It relies on its nuclear deterrent to underwrite its revisionist goals.
+Putin’s policies have evolved from seeking European multilateral cooperation and bilateral relations with the U.S., to creating multilateral geopolitical dominance in the Eurasian sphere.
+Putin relies on multilateral organizations created and dominated by Russia, such as the Collective Security Treaty Organization , Eurasian Economic Union , and Customs Union to support Russia’s balancing.
+With the hope of the OSCE supplanting NATO dashed, Russian relations with Europe are increasingly characterized by bilateralism.
+This European bilateralism, once characterized by German dominance of European affairs, is now seeing a cohesive anti-Russian bloc in which the Baltic States are no longer beholden to the pressures of larger states.
+The Duma Defense Committee and military draft the NSS in an iterative process.
+The Security Council and Duma endorse the NSS before it is signed by the President.
+The military’s response, the Military Doctrine of the Russian Federation, is also approved by the President.
+The following discusses the Kremlin’s worldview, national security interests, threat perceptions, and the policy implications of these factors as promoted by Russia’s NSS and Military Doctrine.
+Russia envisions itself in a struggle with the West for resources, markets, influence, and access to the global commons.
+The Kremlin seeks stability within the international system through what it views as equal security, which is the idea that it must balance against threats.
+The interests and priorities it identifies include many socially-oriented themes such as preserving Russian culture and improving the economy and living standards.
+However, it also includes the dubious interest of social and political stability, signaling regime fears of domestic dissent, and providing precedent for government intervention in civil discourse.
+These fears were partially stoked by the unforeseen mass protests in Russia following 2011 parliamentary and 2012 presidential elections.
+The current NSS is oriented toward authoritarian regime stability against internal threats, while projecting the threat image onto foreign powers to rally national support.
+The NSS gives significantly more attention to domestic, non-military goals and concerns such as strengthening national unity.
+It highlights the need to protect and reinforce traditional Russian culture and values against foreign influence.
+Russia believes the West is actively trying to subordinate the legitimacy of Eurasian governments, in opposition to Russia’s national interests.
+This includes Western-led sanctions that are limiting Russia’s economic growth.
+Russia views itself as surrounded by threats, to include from the Arctic.
+Russian defense and security researcher Isabelle Facon cites the Kremlin’s view that “ United States efforts to retain absolute military supremacy” create problems for Russia, while NATO expansion and EU enlargement into the former Soviet and Warsaw Pact spaces limit Russia’s ability to exert influence while contributing to general global instability.
+Russian national security concerns include military threats from NATO precision-guided munitions and forthcoming U.S. prompt global strike systems, as well as conventional weapons, missile defense systems, and weapons of mass destruction proliferation.
+Furthermore, United States efforts to secure biological weapons labs in the Former Soviet Union are viewed warily by the Kremlin, which perceives nefarious motives behind the United States actions.
+While Russia’s external threat perception is focused on NATO, this manifests internally as fear of regime change through color revolution.
+On the domestic front, Russia feels its citizenry is subject to influence by information operations from foreign71 Hedenskog, “Russian Security Policy,” 109.
+These groups, such as nongovernmental organizations and the media, foster corruption and subversion to create global instability.
+The Kremlin feels the ultimate goal of these information operations is regime change through a color-revolution-style event.
+The latest NSS iteration codifies Russia’s fear of Western-backed color revolutions such as those in Urkaine, Georgia, Kyrgyzstan, and the Arab Spring as well as regime change such as that in Serbia, Iraq, and Libya.
+The Gerasimov Doctrine is based on Russian General Valery Gerasimov’s theory that future war is characterized by Western-instigated regime change following a pattern.
+This pattern consists primarily of non-military measures—i.e., information operations—perpetrated by state proxies such as NGOs and media.
+The information operations are designed to fuel a domestic, anti-regime opposition that would draw a violent response from the regime, after which Western powers can intervene with military force to affect regime change.
+Russia’s NSS expresses the intent to increase its coercive power both internally and abroad.
+Russia’s national security goals are focused on placing Russia at the nexus of global power and leadership.
+The Kremlin pursues these goals through a mix of soft power intended to promote Russian culture, IO to garner sympathy and support, and hard power to deter and coerce.
+Building a Military to Support Great Power Aspirations, 17; Oliker, “Unpacking Russia’s New National Security Strategy;” Thomas, Kremlin Kontrol: Russia’s Political-Military Reality, 71.
+Strategic deterrence in Russian security thought includes not only nuclear forces, but a whole-of-government approach that uses the entirety of the instruments of national power.
+Import-substitution industrialization and revitalizing the defense industry are Russia’s key tools for economic development, and military modernization is the key benchmark for how the Kremlin will evaluate the success of its strategy.
+Russia is developing its military capability by increasing readiness and strategic mobility.
+To the extent that Russia is building defense capability, Russia considers this a defensive measure focused on deterrence.
+In the European theater, Russian efforts to balance against the perceived threats from Western IO efforts and asymmetries in missile defense and precision strike capabilities take the form of deterrence via A2AD systems.
+The Kremlin is modernizing its military capability to balance against its perceived threats, as well as to entice non-aligned, or impressionable states toward its sphere of influence.
+These threats necessitate a buffer zone in which Russian political or military influence and interests predominate.
+The Kremlin pursues this buffer through Eurasian regional organizations and bilateral relations.
+The NSS specifically targets NGOs and social media, citing their perceived role in the peaceful color revolutions in Georgia, Kyrgyzstan, and Ukraine.
+The Kremin’s compatriots abroad policy is meant to unite ethnic Russians abroad with their motherland, fostering nationalism based upon Putin’s view of their spiritual-moral and cultural-historical linkages, and providing Rossotrudnichestvo with a security umbrella to guarantee their civil rights.
+Conversely, this policy also provides what some view as a convenient pretext for Russian military intervention in the former Soviet Republics.
+The Russian National Security Strategy discusses maintaining trust and security in Northern Europe, primarily through multilateral means in the Council of the Baltic Sea States .92 Russia expert Dr.
+Russian relations with the Baltic States seek to control the economic and security environment, as well as foster the consideration of Russian interests when the Baltic States decide geopolitical issues.
+While Russian relations with the West are suffering, it will simply turn to the East rather than capitulate.
+NATO has a military presence in the Baltics now, so the Kremlin will focus on its Syria operations, the CSTO, Eurasia, and Asia proper.
+Russia claims to value the roles of international and regional organizations, as well as international law, in achieving foreign policy objectives.
+Russia’s staunch support of the Assad regime and legislation that requires foreign-funded NGOs in Russia to register as foreign agents are also manifestations of policy in action to counter Western-led regime change.
+However, it will use institutionalism instrumentally, particularly when deferring to the United Nations provides an advantage, or when balancing against NATO and the EU via the CSTO and EEU.98 Russia will continue to seek opportunities to demonstrate power and leadership in the international and domestic arenas.
+The Kremlin will continue attempting to counter United States influence, while at the same time realizing that it must rely on working with the United States on transnational threat issues such as terrorism.
+MILITARY DOCTRINE Doctrine in the Russian sense is akin to policy in the United States sense.
+Military doctrine is the official Russian view on preparing for armed conflict.
+Contained within is the nature of warfare, and how to apply military force within that construct.
+Russia’s military doctrine is predicated on analysis of the threats to Russian interests.
+The doctrine aims to counter NATO and U.S. expansion, force build up, and missile defense.2 Current Russian military doctrine characterizes modern warfare as fought predominantly through asymmetric, indirect methods.
+These forces are integrated toward achieving cross-domain synergy that culminates in simultaneous effects.
+Modern conflict also includes political and social components, supported by external actors.
+Conventional weapons are increasingly technical, and processes are exceedingly networked and automated, resulting in higher degrees of target discrimination and kinetic effects, while offering reduced warning and reaction time.
+The Russian military doctrine stresses conflict prevention, fostering stability through deterrence.
+Beginning in 1999, Russian military doctrine permitted the first-use of nuclear weapons specifically to repel an aggressor when no other means of crisis resolution are viable.
+This manifests in a doctrine of escalation intended to deescalate a crisis.
+In addition to maintaining strategic rocket and non-strategic nuclear forces , the Ministry of Defense is expanding the role of nuclear, biological, and chemical defense forces.
+This has a dual purpose; it promotes the utility of thermobaric weapons in urban environments, while also countering a perceived United States biological weapons threat.8 Nuclear weapons are still the cornerstone of Russian strategic deterrence, but deterrence has expanded to include non-nuclear, and non-kinetic means.
+Russia is developing its precision strike capability, including it for the first time in the 2014 military doctrine.
+Russia is expanding its conventional and irregular military capability because nuclear deterrence will likely be ineffective at deterring the threat it perceives from color revolutions.
+At the same time, the Swedish Defence Research Agency notes that Russia acknowledges that non-military, indirect methods such as IO are now much more effective than the power of the gun in achieving political and strategic objectives.1 Toward a whole of government, whole of nation effort at national defense and security, Russia continues the Soviet tradition of political indoctrination, targeting its citizenry with propaganda to maintain war-footing.
+The Russian General Staff recognizes the importance of technology in modern and future warfare, and Russian conscripts have neither the technical skill, nor the time to learn the skills necessary to serve with maximum utility on today’s battlefield.
+The military doctrine cites Russia’s policy to seek deterrence through coalition building, arms-control regime compliance, countering unilateral and alliance missile defense while promoting joint missile defense, countering the weaponization of space, relying on UN-led peacekeeping operations, countering biological weapons, and countering information operations.
+Pre-Soviet Relations In determining Russia’s threat to NATO’s EFP, it is relevant to evaluate the relations between Russia and the Baltic States.
+The Estonians, Latvians, and Lithuanians as nations with a geographic homeland existed in their current location before the Slavic predecessors to modern Russians immigrated to the region.
+The geographic territory now belonging to the Baltic States was set upon by Russian imperial designs during Peter the Great’s reign.
+He sought Baltic Sea ports for his expanding navy, and invaded the territory of Estonia during his Great Northern War with Sweden at the beginning of the 18th century.
+Under Catherine the Great, Russia incorporated Lithuania into the Russian Empire by the end of the 18th century.
+The Baltic States were again brought within the Russian sphere under the Soviet Union as agreed upon by Germany and Russia in the Molotov-Ribbentrop Pact.
+In accordance with provisions in the secret protocol to the non-aggression pact, the Soviets invaded the Baltic States after the outbreak of the Second World War.
+Although Germany’s military held the Baltic States during much of the war, the Soviet Union’s victory over the Nazi’s cemented the Baltic States within the Soviet state.
+Following the war, ethnic Russians and Russian-speaking Soviet citizens were relocated into the region, dramatically shifting the demographics of Estonia and Latvia.8 Gorbachev’s Glasnost and Perestroika of the 1980s led to independence movements in the Baltic States.
+His subsequent inaction against the reemergence of Baltic nationalism from 1987 to 1990 set the conditions for the demise of the Union of Soviet Socialist Republics , making it impossible for Russia to take part in crafting the future of the Baltic States.
+Gorbachev’s eventual reaction, too late, was an attempt of a crackdown by security forces and the military in Latvia and Lithuania that further exacerbated nationalist tendencies in the Soviet republics.
+During the August 1991 revolution in Moscow, the Baltic republics declared independence.
+The Evolution–Not Revolution–of the Russian Way of Warfare,” in Military Review 96, no. : 10.
+Petersburg, and its other Baltic ports; and maintaining Baltic pipeline access to Germany.
+Russia does not view the former Soviet republics as independent actors; it views them as tools of the West.
+Under that rubric, Russian relations with the Baltic States should be analyzed from an adversarial stand-point in an EU or NATO context.
+When U.S.-Russian relations are good, Russia has no incentive to harass the Baltic States.
+When relations sour, Russia is prone to saber-rattling and rhetoric designed simply to draw attention to itself.4 The Baltic States are a lever with which the Kremlin believes it can sow discord and weaken alliance consensus, ultimately delegitimizing NATO as the guarantor of European security.
+Russian fears of NATO expansion, particularly of NATO forces’ forward presence in Poland and the Baltic States, draws vehement reactions from Russian politicians.
+It incites official rhetoric that portends a Russian invasion to recapture its former Soviet Republics.
+Russia’s current energy policy, tied to its national security interests, is to retain a Russian-dominated market.
+The Kremlin’s goals toward this end are market stability and a diverse, Russian-controlled, transit and distribution network.
+Russian gas and oil firms seek to retain their dominance over the Baltic States’ energy markets, while diversifying transit options to the greater European market.
+Additionally, Russia seeks continuing access to the warm-water ports in Baltic States.8 The Russian National Security Strategy’s inclusion of Rossotrudnichestvo is particularly salient for the Baltic States.
+There are significant minority populations of ethnic Russians, native Russian speakers, and Russian citizens in the Baltic States.9 Many are stateless aliens as a result of not possessing the requisite language skills for citizenship under the post-Soviet Baltic States’ citizenship laws.
+Except for in Lithuania, where they enjoy full citizenship, Russian speakers are largely disenfranchised politically and economically.
+Ethno-linguistic tensions within the Baltic States provide cleavages which Russia can exploit, and has taken the opportunity to nest within its overall concept of Russian security and stability.
+This narrative leads the Baltic States to minimize the Soviet contribution in defeating the Nazis.
+IMPLICATIONS FOR THE BALTIC STATES NATO faces a hybrid threat from Russian revisionist, ideologically expansionist aims in the Baltic States.
+Western observers contend that Russian national security thought perceives a permanent state of hybrid war with the West, and the Baltic States are a primary battlespace for this conflict.
+This section discusses the concept of hybrid warfare and its aims, followed by Russia’s goals and methods for carrying out such a campaign, and concluding with the Baltic States’ susceptibility to the Russian hybrid threat.
+Concept and Aims of Hybrid Warfare Contemporary thought on Russian warfare focuses on the phenomenon of hybrid warfare, characterized primarily by unconventional and non-military means of obtaining political objectives.
+General Gerasimov is often viewed as Russia’s chief hybrid warfare ideologue.
+As Chief of the General Staff of the Armed Forces of the Russian Federation, he is responsible for writing Russia’s military doctrine.
+Russia refers to what the West calls ‘hybrid’ as next generation, or non-linear warfare.
+Problems of Shaping Local Defense Mechanisms,” The Journal of Slavic Military Studies 29, no. : 331, DOI:10.1080/13518046.2016.1200359.
+Conventional force is used pursuant to a fabricated pre-text, carried out by agent provocateurs.8 Gerasimov observed the changing nature of military means for obtaining political objectives.
+He observed the spread of democracy, and subsequent disorder that occurs when democracy overtakes authoritarianism, and he postulated that these events were a form of warfare perpetrated by the West.
+Many Western observers of Russian security issues cite his thoughts on the future of warfare as a doctrine that will guide Russia through waging undeclared information wars to achieve its goals.
+However, hybrid is a Western construct, and does not give sufficient weight to military power.
+While Russia has exhibited coercive tools in the diplomatic, informational, and economic realms, Russian military action in Ukraine demonstrates that military power remains a necessary policy instrument.
+United States characterizations of hybrid warfare involve a combination of conventional military force with state and non-state sponsored criminal, terrorist, and irregular warfare elements to achieve political goals.
+Alexander Lanoszka defines hybrid warfare as a strategy manifest in the “marriage of conventional deterrence and insurgent tactics” that exploits nationalism to achieve political goals through plausibly deniable covert action.
+Threats and Potential Responses (Santa Monica, CA: RAND Corporation, 2017), 5, 9.
+Hybrid tactics include propaganda, espionage, political agitation, criminal sabotage and subversion, recruiting fifth columns, infiltrating covert forces, and border demonstrations and skirmishes.4 Information warfare is an important, some consider the pre-eminent, method of conducting a hybrid campaign.
+IW seeks to damage the physical, as well as psychological, targeting the actual information systems and networks themselves as well as seeking to influence perceptions in order to shape outcomes.
+Hybrid warfare is not attritional in nature; the primary target is domestic politics, not military forces.
+The overwhelming local superiority of the belligerent coerces the target state into a state of paralysis; the target fails to act militarily against a state-sponsored threat that may be difficult to attribute—it may even appear legal and legitimate.8 Theorists and observers disagree on the impetus for hybrid tactics; Lanoszka sees strength as the precursor to hybrid tactics, while Russia military analyst Dr.
+Emmanuel Karagiannis see hybrid warfare as the natural reaction of a relatively weak military.
+Thornton’s view is that hybrid practitioners have adapted to exploit their conventional weakness, while Lanoszka’s view is that a hybrid strategy can only be effective if the practitioner’s conventional deterrent is effective.
+Hybrid practitioners aim to shatter the enemy’s will through a time-competitive cycle in which the enemy is not only unable to determine the aggressor’s intentions, but is unable to determine who the actual combatants are.
+The ideas of out-cycling your opponent and using the whole of government’s instruments of national power in asymmetric warfare are not new.
+They evoke notions of Clausewitz, Boyd and his OODA-loop , and the Marine Corps’ maneuver warfare doctrine.
+What distinguishes hybrid, particularly in the Russian case, is the notion of perpetual aggression combined with the effort to blur the lines between warfighters and civilians.1 2.
+Russia’s Hybrid Warfare Goals and Methods in the Baltic States The goal of Russian hybrid actions against the Baltic States is to render NATO ineffective at fulfilling its defensive role.
+The Kremlin has political influence through local, regional, and national political parties, as well as through organized crime syndicates.
+The Kremlin seeks to subvert regime legitimacy in Baltic States through highlighting and exacerbating ethnic tensions over the civil rights of ethnic Russians there.
+It has conducted cyberattacks against the Baltic States and used energy resources as tools of coercion.7 Russian efforts to weaponize energy include supporting IW campaigns targeting the development of non-Russian reliant energy infrastructure, supporting unions within the energy industry, and shutting off energy sources in retaliation for pursuing policies counter to the Kremlin’s policies.8 Some Western analysts believe Russia’s protracted campaign against Ukraine suggests it is unlikely to embark on a similar imbroglio in the Baltic States.
+Its goals are to erode faith in the legitimacy and veracity of democratic public institutions and non-Russian-backed media.
+Additionally, the Kremlin endeavors to erode the morale of the Baltic States citizens’ perceptions of vulnerability by conducting aggressive maneuvers along its borders and violating their territorial seas and airspaces.
+However, the Kremlin seeks to limit Russian forces along its border with NATO to discourage a conventional NATO build-up.6 The Kremlin’s IW effort is bulwarked by a robust media presence in the Baltic States to provide persistent pro-Russian messaging to both Russian and non-Russian speakers alike.
+The Kremlin spreads its IW themes through traditional media such as radio, television, and print, as well as through the cyber realm, which offers even more anonymity and deniability.
+Social media and its susceptibility to mis-attributable—even fake—contributors provides an ideal venue for promoting Russian themes while subverting the legitimacy of the Baltic States.
+Furthermore, the Kremlin sponsors NGOs, civic organizations, and educational institutions within the Baltic States to promote Russian messaging and state-sanctioned culture.7 Russia seeks to exacerbate civil tensions through an IW effort aimed at stoking populist fears in the Baltic States against which it can rally to the defense of Rossotrudnichestvo.
+Russia’s effort to de-legitimize NATO hinges on creating an environment of uncertainty as to the Kremlin’s involvement in either sowing discord or intervening on behalf of Russian-speaking minorities in the Baltic States.
+This provides Russia an advantage in which NATO and the West are slow to react while debating Russia’s covert involvement and the legitimacy of overt actions.
+Russia aims to conceal its involvement long enough to create sufficient debate within NATO’s decisionmaking bodies as to Russia’s true role, resulting in NATO failing to react in a timely manner.
+If NATO cannot agree that Russia has attacked a member-state, NATO cannot act as an alliance.
+These Rossotrudnichestvo, would be incited to protest against discriminatory language and citizenship policies.
+Russian agent provocateurs would incite violence against the state, while also inciting a violent state reaction against separatists.
+This is the manifestation of reflexive control that further reinforce Russian IW themes.
+Kremlinsponsored militias, supported by Russian security services would then act to protect the rights of the Rossotrudnichestvo.
+The psychological deterrent of Russia’s numerically and asymmetrically superior local forces would deter a response from both the Baltic States and NATO.173 Or, further armed conflict would then create a justification for Russian armed intervention, a conventional limited-objective attack reminiscent of Russia’s 2008 war with Georgia.4 Returning to the impetus for alarm, Russia’s actions in Ukraine, it is important to note that Russia appears to have operated opportunistically, rather than in a calculated fashion intent on seizing Crimea and supporting separatism in the East.
+Much like Russia’s cyber-attack in Estonia, it fit Kremlin policy, but the Kremlin was not the catalyst for action.
+Conflict scenarios involving Russia introducing little green men into the Baltic States ignore the disparity between the Baltic States and Crimea.
+Russia leased its Black Sea Fleet naval bases in Crimea from Ukraine, and many of Russia’s little green men were already legitimately stationed in Crimea.
+No such situation exists in the Baltic States; no Russian forces are garrisoned in NATO countries and any attempt to deploy such a force would be immediately transparent to the sovereign Baltic States.
+This suggests Russia’s goal is to have influence agents in place to take advantage of developing situations.
+Susceptibility of the Baltic States to Russian Hybrid Tactics Several factors contribute to the Baltic States’ susceptibility to Russian hybrid warfare.
+They are primarily focused on Rossotrudnichestvo, the enduring legacy of the Baltic States’ tenure as Soviet republics, and Russia’s border with the Baltic States.
+In as much as Russia desires to expand its influence, NATO’s RAP, and subsequent EFP—conventional deterrence measures targeting Russia that include increased NATO forces deployed to the Baltics—increases the likelihood of Russian hybrid, rather than conventional warfare.7 The significant minority population in the Baltic States has caused some to fear Russian state capture, or a hybrid take-over scenario.
+While Nalbandov and Lo imply that the Baltic States’ NATO and EU membership places them forever outside of Russia’s control, Russia’s self-proclaimed right to intervene on behalf of ethnic Russians, however, may give disproportionate influence to the Russian diaspora in the post-Soviet space.
+Ethnic Russians comprise 24 percent of the population in Estonia, 27 percent in Latvia, and 6 percent in Lithuania, while the percentage of Russian speakers is 34 percent, 30 percent, and 8 percent respectively.
+Russian speakers comprise the majority in Riga proper, and are a significant portion of Tallinn’s population.
+Resident aliens comprise 7 percent of Estonia’s population and 12 percent of Latvia’s.
+These demographics also tilt sharply away from the titular nations in the Ida-Viru County of Estonia, the Latgale region in Latvia, and in cities close to Lithuania’s border with Kaliningrad and Belarus.0 There are vulnerabilities to Russian influence in the Baltic States, but the hybrid template of Ukraine does not project well in Estonia and Latvia, and has even fewer prospects in Lithuania.
+The professional, NATO-backed security services of the Baltic States are capable of collecting intelligence, conducting counterintelligence, and providing internal security.
+Despite Russia’s persistent IW campaign to promote its agenda, the higher standard of living within the EU is preferable to Kremlin rule for the Baltic States’ minorities.
+Although these parties receive the primary share of Russian-speaking citizen’s votes, the low percentage of the Russian-speaking citizenry relegates these parties to secondary political importance, not partners in coalition governments.
+However, residency, not citizenship is the requirement for voting in municipal elections.
+In Riga and Tallinn, where Rossotrudnichestvo comprise significant portions of the population, the Kremlin can wield disproportionate influence.2 Russian IW themes and foreign policy toward the Baltic States highlight and exacerbate the tensions between Russian-speakers and the titular nations within the Baltic States.
+This morphed into anti-Soviet nationalism during the Second World War, and lingers today as antiRussian nationalism, portrayed by the Kremlin as fascism that targets the civil rights of Russians and Russian speakers in these former Soviet republics.
+The history of Soviet occupation and subsequent physical, demographic, and psychological legacies contribute to feelings of fear and helplessness among ethnic Estonians, Latvians, and Lithuanians.
+Russia is afforded an advantage over NATO in understanding how to exploit the regional complexity in the post-Soviet space during an IW campaign.
+The Baltic States’ militaries by themselves are inadequate for defense against Russian conventional forces.
+Furthermore, they are newcomers to NATO and not every state in such a large alliance may risk their own security on behalf of Estonia, Latvia, or Lithuania.
+However, Radin also acknowledges the unlikeliness of a conventional scenario.0 Armed conflict between Russia and the Baltic States would deprive Russia of a prime source of income.
+Russia has worked diligently to develop natural gas delivery infrastructure such as Nord Stream to decrease its reliance on transit states such as the Baltics, subsequently giving Russia more geopolitical leverage in those bypassed states.
+Yet, while the Baltic States, and the EU as a whole, are largely dependent on Russian energy imports, Russia is also dependent on EU markets for its energy exports.
+This is even more relevant now that Lithuania is importing liquid natural gas, which it also supplies to Estonia, and Latvia is unbundling its Kremlin-controlled, vertical energy firm structures, loosening Russia’s total grip on the Baltic States’ energy security.
+Furthermore, as was demonstrated in Ukraine following Russia’s annexation, Russia was not apt to turn off the gas taps to Ukraine due to its downstream feed into Crimea.
+Lithuania is in a similar position, as it serves as a transit state for the Soviet-era energy infrastructure that supplies Kaliningrad.
+Any gas production cuts to Lithuania would affect Russia’s ability to project its A2AD bubble from Kaliningrad.
+REFORMS Reform in the Russian Armed Forces had been discussed since the dissolution of the Soviet Union; however, it was Russia’s poor performance during its five-day war with Georgia in 2008 that was the catalyst for implementing change.
+Command, control, and communications systems were not networked, and often did not work.
+Poor C3, compounded by service-specific reporting chains, precluded joint coordination of air support.
+Russian aircraft were vulnerable to Georgian integrated air defense systems , compounded by a lack of Russian identification of friend or foe technology, resulting in Russian air losses to Georgian forces as well as fratricide.
+Russian intelligence was widely criticized for its poor technical performance; Russia’s Global Navigational Satellite System was not fully operational, leading to failures to provide timely indications and warning, and in targeting.
+When new equipment was in-place, such as reactive armor, the actual panels had been removed, negating the armor’s function.3 1.
+Serdyukov, Makarov, and the New Look Putin appointed Anatoliy Serdyukov as Defense Minister in 2007.
+The first civilian Defense Minister, he was an accountant by trade, specifically brought in to battle the military’s endemic corruption, which accounted for 30 percent of the MoD’s budget that year.
+By 2012, military police brigades, subordinate to the MoD, were established in each military district.
+An accountant by trade, Serdyukov pursued structural reorganization, seeking high combat readiness through efficiency.
+Despite Serdyukov’s association with the New Look, his Chief of the General Staff, Nikolai Makarov, proposed and led the majority of reforms.
+It was Makarov’s idea that a smaller, professional force would be most valuable, especially during the initial stages of conflict.
+He also sought to simplify C2 through simplifying the military district structure.
+The new district/OSK structure, with joint C2, allowed personnel reductions at the services’ headquarters, central commands, the General Staff, and MoD.198 Along with the C2 structure, the military consolidated the 65 various military schools and academies into 10.199 In 2009, Serdyukov established d a 34-month non-commissioned officer academy.0 Aside from reorganizing into OSKs, the primary hallmark of Russia’s New Look reforms was the transition from divisions to brigades as the primary operational unit.
+Abandonment of the divisional model streamlined C2 from the operational command, to OSK, to brigade.
+Colby Howard and Ruslan Phukov , 93; Galeotti, The Modern Russian Army 1992–2016, 29.
+Although the primary rationale for this transition was a shift in focus from Cold-War era units poised for confrontation with the West to a force poised for rapid deployment to secure regional stability and counter separatists within Russia, this was largely a shell-game.
+Russia’s military was unable to meet its volunteer enlistment goals and unable to staff its readiness goals across the force.
+The majority of Russian divisions were cadre-only shells, ghost units waiting for conscripts to be mobilized.
+The VDV retained the division construct, was staffed with a higher proportion of volunteer professionals, and enjoyed higher personnel readiness than regular forces.
+Additionally, the VDV needed divisions to provide the extra CS and CSS that VDV forces required for operating forward of friendly lines.2 Serdyukov abandoned mobilization-based conscript manning for permanentreadiness brigades.
+This was possible by reducing the size of the force from two million nominal personnel, to a target of one million staffed billets.
+Serdyukov traded logistics for combat personnel by outsourcing garrison logistics services to civilian contractors.
+In 2010, warrant officers, who filled traditional WesternNCO roles were disbanded.
+In 2013, they were returned to the force structure, now serving in a more Western-style, technical role.
+When he felt that Medvedev’s priorities had been achieved, Serdyukov, went on to prioritize improving procurement and combat training, forming a military police force; trading CSS, such as messing, for combat billets by switching to civilian providers; as well as equipping the Aerospace Defense Forces ; and increasing the number of contract professionals.8 2.
+Shoigu At the end of 2012, Serdyukov and Makarov were replaced by Sergei Shoigu as Defense Minister and General Valery Gerasimov as Chief of the General Staff.
+Shoigu worked to instill pride back to the Russian military, which many senior officers felt Serdyukov had eviscerated.
+He brought back legacy formal uniforms and reinstated the Tsarist-era 1st Sep Semyonovsky Rgt ceremonial honor guard in Moscow, as well as venerated combat units that had been disbanded.
+His chief concern, however, was enhancing Russia’s conventional offensive potential.
+Shoigu prioritizes combat readiness through tactical training, that is, at the brigade-level and below.
+A Test for Russian Military Reforms (Paris: Defense Research Unit, French International Relations Institute–IFRI, May 2015), 8. 46 capability is a new part of Russia’s deterrence strategy, bolstered by Russia’s aggression in Georgia.
+Russia is operationally testing and employing new EW equipment and tactics, techniques, and procedures in Syria and Ukraine.
+Shoigu reestablished many of the disbanded professional training schools that were consolidated in the New Look.
+In 2014, the National Defense Control Center, and the Combat Control Center were created to provide networked national-level C2.218 And in 2015, the MoD announced plans to create a contract-professional-only NCO corps.
+Capabilities, Limitations, and Implications for International Security, 22–3.
+International Centre for Defence and Security, September 2017), 20, 23.
+Tank units have increased their engagement ranges in training from an average of 1700 meters to 2200 meters, and have implemented independent tank engagements.
+Force generation lessons have led Russia towards prepositioning of equipment and material to support the rapid deployment and build-up of combat forces.
+In addition to reliance on the VDV’s rapid air-deployment capability, Russian prepositioning operates on the concept of deploying ground forces by rail, emphasizing speed through leaving heavy equipment and weapons in garrison, to be shipped a month or two after the initial deployment.2 3.
+Organizational Reforms Maneuver Forces Russian order of battle is in a state of flux.
+The military is not completely abandoning the New Look brigade model, but it is reactivating divisions and deactivating brigades.
+In exercises and in Ukraine, brigades are proving inefficient at C2 because they have to provide C2 for 18 subordinate units.
+At the same time, the MoD is creating two “super light” motorized rifle brigades, which will be equipped with wheeled, instead of tracked vehicles.
+They will be formed in the CMD and SMD, where terrain precludes heavy armor maneuverability.5 In 2013, Russia reestablished the 2nd Guards Tamanskaya MRDiv and 4th Guards Kantimarovskaya Tank Div as formations with regiments as subordinate units.
+This was widely viewed as a balance against NATO’s growing presence in the former Soviet Union, as well as a morale boost for both the public and military.
+The 14th AC’s 200th and 80th MRBdes are positioned on the Kolya Peninsula, with the 200th MRBde adjacent to the border with Norway.
+This balancing with the 14th AC and 99th MRDiv is less about Arctic adventurism than insecurity.8 Regardless of brigade or division formations, BTGs are the preferred units for tactical employment.
+The BTG has received much attention following the New Look, giving many the impression it is a novel construct, but it has actually been in use since during Soviet times.
+Capabilities, Limitations, and Implications for International Security, 23. 49 conducts preventative maintenance to ensure equipment readiness, while also serving as a headquarters staff and C2 element that can form a brigade in case of general mobilization.
+The MoD’s goal is to staff these forces completely with professional contract servicemen by 2018.234 The VDV are the President’s strategic reserve forces, and although there is a VDV brigade attached to each military district, the VDV is operationally controlled by the central VDV headquarters.5 The MoD planned to double the VDV’s end strength, to 72,000 personnel, by the end of 2017.
+The VDV’s 45th Guards Sep Spetsnaz Bde was recently upgraded from a regiment.
+VDV training has transitioned from preparing regionally-focused and capability-specific units to training generalists, capable of operating in the full range of geographic conditions, from desert, to arctic, to airborne operations over the water.8 The VDV is transitioning from its traditional airborne role to an air assault focus with a greater infantry role.
+It is adding tank companies to each VDV division (except the 7th, which is designated for mountain warfare) and the 31st Sep VDV Bde, with plans to upgrade the companies to tank battalions armed with T-72B3M tanks and BMD-4M infantry fighting vehicles starting in 2018.
+The VDV also plans to upgrade the separate reconnaissance companies within VDV brigades and divisions to reconnaissance battalions, each with a Spetsnaz company.
+These units employ unmanned aerial vehicles at the company level, and were some of the first to get Grusha UAVs.9 Incidentally, UAV companies are being established in all Ground Forces maneuver brigades as well, employing tactical Orlan-10, Takhion, and Eleron-3SV UAVs.0 In 2012, the General Staff established the KSSO, created out of 346th Spetsnaz Bde.
+These forces undertake national command authority missions, and would go on to be highly influential in Crimea.
+The 127th Sep Reconnaissance Bde was established under the Black Sea Fleet in 2014, and the 96th Sep Recon Bde was established under the 1st Guards Tank Army in 2015.
+There are plans for each army to get one, each with a Spetsnaz Bn and a psychological operations unit organic to it.
+These separate reconnaissance brigades are not Spetsnaz under the GRU’s control.
+They are under the operational control of the conventional commander at the Army level.
+Additionally, the Ground Forces’ brigade and division-level reconnaissance companies are being upgraded to battalions, each with a Spetsnaz company.3 In 2008, sniper platoons were introduced at the motorized-rifle, tank, and Marinebrigade level, as well as at VDV regiments and divisions.
+The platoons have since been upgraded to four-platoon companies, resident at the brigade and regimental level and assigned to a specific subordinate battalion.
+One of the platoons is designated Spetsnaz, and is under direct tasking authority of the brigade commander.
+While some accounts of Russian snipers in Ukraine claim snipers are operating en-masse, conventional tables of organization place snipers in two-man teams.
+Additionally, the reconnaissance groups of Spetsnaz battalions and Ground Forces reconnaissance battalions each have two-man sniper teams, although these snipers are not employed as a team.5 Nuclear, Biological, and Chemical Defense Under the New Look, the MoD established NBC brigades under each military district.
+Capabilities, Limitations, and Implications for International Security, 66. 52 been given increased prominence through their role in countering ISTAR and artillery in Ukraine.
+NBC forces serve a dual role, providing force protection through concealment and NBC defense, while also providing indirect fires with thermobaric flamethrowers.
+These thermobaric weapons have been instrumental in urban combat in Ukraine.
+In 2014, the MoD established NBC regiments at the combined-arms army level, this is in addition to the standard NBC companies within brigades and divisions.9 Combat Engineering In 2008, combat engineers were expanded into combat engineer regiments at the combined-arms army level, brigades at the district level, battalions at the motorized-rifle brigade level, and companies at the tank brigade level.
+Assault Pioneers were reestablished within combat engineer units in 2015, in response to Russia’s poor performance in seizing the Donets’k airport through 2014 and 2015.
+Assault Pioneers are focused on urban assault and obstacle reduction to penetrate defenses.
+The 6th Combined-Arms Army’s 30th Combat Engineer Rgt was reestablished after 2013’s Zapad JSE highlighted an insufficient pontoon bridging capability to operate in the terrain in vicinity of the Baltic States and Finland.
+By 2020, each CAA plans to reintroduce combat engineer regiments, each with an assault pioneer battalion.
+EW units exist at the military district, CAA, division, and brigade level.
+Between 2009 and 2015, EW brigades were formed at the military district level.
+EW brigades are each comprised of four battalions.6 EW companies, capable of 50km of EW coverage, were formed within the New Look’s maneuver brigades.
+The headquarters platoon employs a RP330KPK automated command post and R-330K automated control station.
+There is a platoon dedicated to jamming cellular and Global Positioning System signals, as well as radio communications and munitions that employ radiocontrolled fuses.
+The fifth platoon has two squads, one dedicated to jamming radio communications, employing the RP-377L and RP-377LA Lorandit-M C-IED jammer and direction-finding systems; and the other dedicated to targeting landmines and improvised explosives, employing 15 RP-377UVM1L portable automated jammer.0 This organization and equipment loadout does not appear inflexible, and appears to be based on being equipped with either the RB-301B Borisoglebsk-2 automated EW system, or the R-330M1P Diabazol automated EW system.
+The RB-301B employs the R330K automated control station to synchronize variants of the R-330T UHF, R-378A/B HF, R-325U HF, and R-934B VHF automated vehicle-mounted jammers.
+While the manufacturer displays the Borisoglebsk as a wheel-mounted system, McDermott notes that it is available in tracked-variants, based on the MT-LB chassis.
+The truckmounted R330M1P Diabazol employs the R-330KMA C2 system to synchronize the Altayets-AM HF/UHF/Global System for Mobile Communications , R-330Zh, and R-934UM VHF/UHF jammers.3 In October 2017 the MoD announced the creation of a permanent, separate EW company dedicated to countering UAVs, ostensibly armed with 1RL257 Krasukha-S4 mobile EW systems.
+The MoD created logistics and maintenance storage bases and MTO brigades at the military district level, as well as MTO battalions at the brigade level.
+Building force protection and defensive supply infrastructure is a first for the Russians.9 Greater emphasis has been placed on improving the Railway Troops, which are fundamental to Russia’s ability to support transportation both within Russia, and across the Soviet legacy rail networks in the former Soviet Union and in Finland.
+The Zapad 2009 JSE emphasized to Russian planners that rail transport was imperative for intratheater transport, while also foreshadowing the need for prepositioning and centralized maintenance facilities at the MD level.
+It took five days for the 4th Tank Bde to move 400km from its Moscow garrison to Belarus during the exercise.
+Motorized rifle brigades took even longer due to a lack of An-124 transport and Mi-26 assault support aircraft.
+Beginning in 2014, tactical aviation in support of maneuver forces are being moved from the VKS to the Ground Forces, establishing one brigade in each military district, and one regiment at each combined-arms army.
+Brigades will have 84 to 88 assault support and attack helicopters, as well as EW helicopters, and regiments will have 66 assault support and attack helicopters.
+The number of Military Transport Aviation regiments was also increased, and transport squadrons were created.
+These are aligned to VDV formations, which is the VTA’s main priority for support despite also being available for general Ground Forces lift.
+The VTA employs legacy An-12, An-22, An-26, An-124, and Il-76 transport aircraft.5 4.
+The current GPV, in effect from 2011 to 2020, has the goal of modernizing 70 percent of the military’s equipment over the course of its implementation.
+When Shoigu assumed control of the MoD, he moved to redevelop the domestic military-industrial complex, while also endeavoring to increase equipment reliability by bundling life-time maintenance contracts into the procurement process.8 The current GPV pays considerable attention to automation, C2 integration, and targeting adversary C4ISR.279 It emphasizes reliance on technology over manpower, and pays greater attention to protecting individual forces than in the past.
+Gerasimov, following Makarov’s lead, is continuing to modernize Russia’s network-centric C4ISR.281 The military has procured new C2 systems; the VDV has the Andromeda-D, which is entering initial operating capacity ; and the Ground Forces will have the Sozvezdie-M2, which has not yet entered IOC.282 Russia is developing autonomous ISR, fire support, and NBC defense systems such as the Kompas RURS and Platforma-M unmanned ground vehicles.
+The Ratnik, which is to be introduced from 2014 to 2020, is a digitalcamouflage pattern family of network-integrated armor and communications equipment.
+Other armor innovations are the OVR-1 explosive ordnance disposal suit, and the OVR-3Sh liquid-cooled assault-pioneer armor.7 The next GPV, which was supposed to have been approved in 2016, now has a target implementation of 2018 to 2025.
+It has not yet been approved, but reportedly the MoD will only receive half of its requested funding.
+The GPV 2025 will focus less on traditional military hardware, and emphasize the information sphere, autonomous systems, precision-guided munitions, and new weapons concepts such as hypersonic weapons.8 Beginning in 2009, the military industrial complex vertically integrated Russia’s EW-systems manufacturers into one company, forming a research and development center the next year.
+The defense minister established a scientific committee for EW in 2015, and two additional EW production firms began operating soon after.
+At the operational level, Russia employs the Murmansk-BN system, which targets communications in the HF frequency band over a 5,000km range.
+Russia plans to field the RB-109A Bylina system in EW brigades from 2018 to 2025.
+Russia’s military airlift command, the VTA, began fielding the Il-22PP EW aircraft in 2016.293 Additionally, the GPV plans to add An-70 transport aircraft to the VTA fleet, while also upgrading to the An-124-100 and Il-76MD90A.294 Russia’s next generation of armored vehicles will be built around the Armata, Kurganets-25, and Bumerang families of vehicles.
+Additionally, the GAZ-2975 Tigr-M armored utility vehicle is being fielded across the force.
+There is the 2S35 Koalitsiya-SV self-propelled artillery, MLRS, and BMO-2 thermobaric flamethrower variants.
+The T-14 will have its own UAV system for organic battlefield awareness and more independent tank operations.
+The Armata will allow transition from operations conducted by standard units to a modular structure of task organized Armata vehicles.
+This idea began circulating in 2014, and envisions replacing battalions with a module of 2 tanks, 3 IFVs, a combined fire-support and air-defense variant, an artillery variant, a supply variant, and a C2 variant.
+The modular concept theoretically supports continuous operations by using rotational crews.8 Russia’s existing tanks are being upgraded to T-72B3 and T-72B3M variants, and the Marines are upgrading their PT-76 light amphibious tanks to T-80 and T-90s.
+In addition to the heavy Armata system, the GPV plans on implementing the Kurganets-25 family of tracked, amphibious armored vehicles.
+There is an IFV variant, meant to replace the BMP and MT-LB platforms, and an APC variant.
+The GPV also includes the Bumerang family of wheeled armored vehicles, consisting of the K-16 APC, and K-17 IFV, intended to replace BTR-series vehicles.
+Current BTR-80s are being upgraded to air droppable BTR-82As, with 2S23 Nona-SV self-propelled mortar and Taifun-M MLRS variants.1 Additional artillery and rocket upgrades include increasing the size and scope of artillery units within the Ground Forces, and increasing the range, rate of fire, and mobility of systems.
+There are new thermobaric weapons, such as the SPO Varna-S, for use in urban combat, and a new Uran-10 antitank weapons.
+The 9M111 Fagot anti-tank guided missile is being replaced by the 9M133 Kornet and the 9M115-2 Metis-M.304 All heavy artillery systems are being transitioned from towed to self-propelled systems; the 2S35 KoalitsiyaSV is replacing both the 2A65 Msta-B towed howitzer and the 2S19 Msta-S selfpropelled system.
+The 9A53 Uragan-1M and 9A52-4 Tornado MLRS systems and their variants are replacing legacy MLRS; the BM-21 Grad is being replaced by the 9A53-G Tornado, and the 9K58 BM-30 Smerch is being replaced by the 9A53-S Tornado.
+The Uragan and Tornado are universal systems capable of firing multiple rocket calibers, providing more flexibility and range to tactical and operational-level commanders.
+Capabilities, Limitations, and Implications for International Security, 59. 62 artillery commanders with greater ISTAR capabilities.
+Each separate missile brigade within the Ground Forces will have its 9K79-1 Tochka-U operational-tactical ballistic missile launchers replaced by newer 9K720 Iskander-M launchers.8 Small arms are being modernized through the GPV as well.
+The AK-12 is replacing the AK-74 as the standard-issue rifle, and the PYa MP-443 Grach is replacing the Makarov as the standard-issue sidearm.
+Combat engineers will be employing upgraded POM-3 anti-personnel, as well as M-225 and Temp-30 anti-tank mines, upgraded UMZ-K mine-laying vehicles with a planned UMZA Armata variant.
+Russia used ethnic Cossack paramilitaries to blockade and seize Crimean positions.
+Local Crimean proxy forces had marginal impacts on Russia’s Crimea operation; their utility was in providing a public face of resistance against the Kyiv regime.6 The 16th Sep Spetsnaz Bde, 76th Guards VDV Div, 810th Sep Marine Bde, the 431st Maritime Reconnaissance Spetsnaz Point (Naval Spetsnaz brigades are designated as points), and the General Staff’s KSSO were instrumental in seizing Crimea.
+Covert Spetsnaz seized terrain, then turned it over for local proxy forces to occupy.
+The KSSO, a national-mission unit created in 2011, is a separate command from the General Staff’s Main Intelligence Directorate Spetsnaz.
+During Russia’s 2008 war in Georgia, Cossacks operated under the command and employ of the Russian military.
+The Creation of Russian Special Operations Forces,” in Brothers Armed: Military Aspects of the Crisis in Ukraine, ed.
+Russian forces moved personnel and equipment into Crimea via ferry, fixed and rotary wing aviation, and amphibious transport.
+The majority of conventional Russian forces, armed with APCs and artillery, entered Crimea after rail transport to the Kerch ferry crossing.
+Russia’s invasion was supported by a thorough intelligence penetration of the Ukrainian security services, and an active IW campaign to garner popular support for Crimea’s referendum and independence and spread disinformation and obfuscate Russian involvement.
+Russian propaganda efforts portrayed the messianic vision of Putin and the Russia military rescuing ethnic Russians from Western, Ukrainian fascists.
+They were led and advised by current and former Russian intelligence and security forces personnel.
+Russian intelligence and security services organized proxy forces and encouraged Ukrainians to defect.
+Russian and RBS BTGs in Donbas operated directly under the C2 of the SMD and General Staff.9 Force Generation and Sustainment Russian forces in the Donbas were primarily contract soldiers, not conscripts.0 Observers estimate between 3,500 and 12,000 Russian forces at any given time were participating in combat in Ukraine between August 2014 and December 2015.
+Eight of Russia’s ten field armies provided forces for combat and CS; the only two that did not were the EMD’s 5th and 35th.
+Tor Bukvoll notes that Spetsnaz from “all seven Spetsnaz GRU Brigades, the 45th Guards Sep VDV Spetsnaz Bde, and the Federal Security Service ,” participated in the Donbas, but the KSSO, which provided Spetsnaz for the Crimea seizures did not participate in the Donbas.
+There were three to four Spetsnaz battalions operating in the Donbas at any given time.
+Their role in the Donbas was primarily training and advising separatist forces and conducting special reconnaissance.
+Due to manpower constraints and combat losses, Russian BTGs were not employed as organic units, but rather, they were often piecemealed together.
+These units were drawn from a relatively limited geographic area in this early phase of the operation against Ukraine.
+Personnel and equipment resourcing suggests that the WMD and SMD have insufficient personnel and equipment to sustain combat operations against Ukraine.2 Russian forces in the Donbas were qualitatively inferior to the forces that were used to seize Crimea.
+McDermott notes that “regular combined-arms operations … secured key advances” in Ukraine.
+As the conflict wore on, however, Russian and separatist forces in Ukraine increasingly suffered from low morale.
+The Russian Ministry of the Interior reacted by deploying forces, its Dzerzhinsky Div, to prevent Russian and separatist forces from retreating.
+Rail transportation was the primary method Russian and RBS forces used for logistics in the Donbas.
+Not only did rail allow for efficient transportation of military vehicles without incurring the maintenance requirements of road travel, but it provided a measure of force protection as improvised explosive devices became a threat in the area.8 However, it constrained Russia’s ability to maneuver across the dispersed battlespace.
+Additionally, Russian forces in the Donbas suffered increasing casualties due to the lack of deployed and disaggregated medical capability.9 Russia denies its forces were fighting in Ukraine, but there are numerous examples of Russian-only military hardware in the Donbas.
+Russian forces in the Donbas were occasionally armed with AS Val silenced assault rifles.
+They employed T-72B3 and T90 main battle tanks, 96K6 Pantsir-S1 air defense systems, KamAZ-43269 Dozor armored reconnaissance vehicles, KamAZ-5350 trucks, 2B26 Grad-K MLRS, GAZ-3937 Vodnik multi-purpose vehicles, and GAZ-2975 Tigr-M armored utility vehicles.1 The hallmark of Russian maneuver in the Donbas has been massed fires, followed by armored attack.
+Russian armored and mechanized advances were preceded by VDV insertion, and accompanied by ground-based air defense.
+Russian BTGs in Ukraine operated on 40km frontages, the doctrinal frontage of a brigade.
+UAV Overmatch in the Ukrainian Conflict, (Ft Leavenworth, KS: Foreign Military Studies Office, 2015), 2.
+Karber notes that Russia is employing at least “13 fixed wing and at least one quad-copter design” in the Donbas.
+The Zastava model ISR UAV, as well as the RB-341V Leer-3 and Shipovnik-Aero are some examples.
+The first is long-range, high altitude ISR along the border, followed by brigade-level rear-area surveillance from slightly shorter ranges and slightly lower altitudes.
+The third role includes cueing the fourth role – short range target and coordinate acquisition for BM-21 Grad MLRS at approximately 1,000 to 2,500 feet.
+The standard time between UAV target identification and the application of fires is 15 minutes.7 Russian UAVs appear constrained by their programming.
+They do not appear to have the capability for real-time ground control station direction, and do not appear to be able to acquire moving targets.
+Additionally, Russian UAVs do not appear to be active at night, suggesting a lack of IR imaging.
+The Russian preference for countering UAVs is EW targeting the UAV’s C2 and navigational systems.9 Russian forces and RBS are also using EW to pre-detonate radio-proximity artillery and mortar rounds, interfere with and jam radio and cellular communications, conduct ISTAR to target emitters, and conduct PSYOPS.360 EW tactics consisted of using counterbattery radar to locate and target Ukrainian forces with artillery.
+Additionally Russian IO tactics consisted of taunting Ukrainian forces through text message in conjunction with artillery strikes, as well as threatening to harm Ukrainian forces’ families.
+The RB-531B Infauna was used to jam communications within 3km of maneuver units, while the 1L262E SPR2M Rtut-BM, Leer-2, and Lorandit were used to jam GSM signals.
+The RB-301B Borisoglebsk-2, RB-341V Leer-3, R-330Zh Zhitel, and R-934UM were operated from 15 to 30km from the front; and the Shipovnik-Aero, 1L269 Krasukha-2-O, 1RL257 Krasukha-S4, and A-50 EW aircraft were used at ranges from 60km up to 240km from the front.3 Fires Artillery is the primary maneuver arm in the Russian Ground Forces, and it is the main effort in Ukraine.
+The overwhelming majority of casualties in the Donbas were from artillery.
+Russian artillery units also supported RBS with cross-border fires from within Russia.7 United States Army Major Amos Fox highlights that because the Kremlin did not deploy VKS aircraft to Ukraine, Russian commanders were obviated of the responsibility for joint fires coordination and airspace de-confliction.
+He claims that the targeting cycle enjoyed “near instantaneous sensor-to-shooter” responsiveness.
+This may hold true for ground reconnaissance forces, but does not accord with observations of UAS ISTAR and the 15minute kill chain lag between target acquisition and application of fires.
+Russian forces prefer massed fires and area fires over precision fires.
+They increasingly use MLRS over standard tube artillery in the Donbas, at a ratio of 3:4, which results in substantially more MLRS than conventional tubes.
+Examples of Russian artillery tactics consist of massed 122mm MLRS fires against a 300m target area at a range of up to 15km from five firing positions dispersed across a 23km front.
+In another attack, the Russians used five 122mm MLRs dispersed across a 100m front to attack a point target.
+Russian forces prefer to engage targets with artillery from maximum range.
+As the battlespace grew, Russia pursued longer-range projectiles for its artillery systems.
+While no longer used by NATO forces, Russia makes heavy use of dual-purpose improved conventional munitions , scatter-able mines , as well as top-attack munitions and thermobaric munitions.
+The increased effects of artillery led the Russians to entrench and reinforce positional defenses.
+The dispersed nature of fighting in the Donbas resulted in the re-allocation of Russian brigade and higher-level artillery systems to the battalion level.
+Russian battalions were augmented with longer range 2S3 Akatsiya self-propelled guns, 52-P-546 D-20 towed howitzers, and BM-21 Grad systems, giving battalions fire support out to 18km, which is farther than their typical 2S1T Gvozdika self-propelled and 2A18M D-30 towed howitzers.
+Russia employed the BM-21 and BM-21-1 Grad, TOS-1 Buratino thermobaric MLRS, 9P140 BM-27 Uragan, 2A18M D-30, 9K58 BM-30 Smerch MLRS, 2S3 Akatsiya, 2S5 Giatsint-S self-propelled gun, 2S7 Pion self-propelled gun, and 2S35 Koalitsiya-SV artillery systems in the Donbas.
+Russian forces in the Donbas used the 2S1 Gvozdika self-propelled howitzer in both its traditional indirect fire role, and as a direct fire weapon.
+The 2S1 Gvozdika was used to cover armored advances at ranges from 1km to 6km.
+Additionally, Russian forces in Ukraine employ the 1L219M Zoopark-1, 1RL232 Leopard-T, and 1RL239 Lynx-1 counterbattery radar systems.
+Armor Russian forces’ use of explosive reactive armor on its legacy and upgraded tanks diminished the utility of single-warhead anti-tank missiles and rockets in Ukraine.
+Singlewarhead missiles are not able to penetrate reactive armor equipped tank hulls.
+Although this effect was shared by both Ukrainian and Russian tankers, neither side deployed tandem-warhead ATGMs in the Donbas.
+The active armor on Russia’s T90 tanks has successfully defeated ATGMs in the Donbas.
+The T90 was deployed in smaller numbers, in company-sized formations, and saw less front-line use compared to the T-72B3.
+However, the T90 was instrumental in Russian success against Ukrainian forces.
+The active armor on Russia’s most modern tanks has proven susceptible to direct fire weapons.
+The increased proliferation and lethality of direct fire weapons and artillery in the Donbas has resulted in Russian infantrymen forgoing the comparatively weak armor of their IFVs and APCs.
+Instead, they are riding atop their vehicles and fighting as dismounted light infantry to increase their survivability.
+Karber observes “the net effect is that tank attacks are less effective because they no longer have accompanying mechanized infantry with equal mobility and able to protect them from other infantry.6 Deception Russia’s operations in Ukraine are disavowed by the Kremlin, setting the stage upfront for an overarching climate of deception from the top down.
+While allowing Russia maneuver time through ambiguity, Russia’s deception has also limited its ability to prosecute the war.
+Russia did not deploy its air forces to the Donbas because that would have taken away the Kremlin’s plausible deniability.
+Foreign Military Studies Office Russia analyst Timothy Thomas describes a deceptive IO tactic RBS employ through requesting OSCE observers visit their positions.
+Russian forces then initiate an artillery strike against Ukrainian forces that concludes before OSCE observers arrive at the Russian position.
+Russia made a pattern of suspending operations while negotiating, only to resume offensive action in violation of the treaty upon Ukrainian acquiescence.
+After Putin assured besieged Ukrainian forces in Ilovaisk that they would be allowed safe passage to withdraw, the Ukrainians accepted the truce.
+However, Russian troops attacked the withdrawing Ukrainians and turned those who surrendered over to RBS, who tortured and executed the prisoners.
+Maskirovka— camouflage and deception—by way of inflatable decoys was used in September 2014 to deceive the OSCE after the Minsk ceasefire, giving observers the illusion that Russia was withdrawing forces and complying with sanctions when they in fact retained armor in place.0 2.
+Syria Russia’s intervention in the Syrian civil war consists primarily of an air campaign against the Islamic State and other insurgent forces that are battling the Syrian regime.
+The air campaign is coordinated on the ground by Spetsnaz performing terminal attack control.
+Although the air campaign has been augmented with occasional cruise missile strikes, these were not out of necessity, but rather, to advertise and demonstrate that capability.
+Russia specialist Dmitry Gorenburg notes that Russia’s aviation operations demonstrated an “over-used and aging aircraft fleet” that nonetheless successfully implemented the post-Georgia reform goals of joint integration between terminal attack controllers and strike aircraft pilots.
+Whereas previously, coordination occurred between service-component headquarters, the joint integration of forces under new OSKs has enabled rapid strike coordination.
+Impressively, Russian aviation has successfully integrated strikes with Iranian and Syrian ground maneuver units.
+However, Russian VKS suffered from personnel shortages; and from maintenance, pilot-performance, and inventory deficiencies in Syria.
+After several mishaps, the Kremlin resorted to reducing and cancelling non-Syrian aviation operations to maintain operational tempo.
+Nonetheless, Russian forces in Syria have been achieving their operational and tactical objectives.
+They are employing PGMs, as well as UAVs for ISTAR and BDA for the first time in combat.
+Additionally, Russian forces on the ground have been using microwave jammers to counter enemy UAVs.5 Russia’s performance in Syria bears the caveat that Russian aircraft have de facto air superiority and freedom of movement fighting lightly equipped insurgent forces in an electromagnetically uncontested environment.
+Furthermore, Russia’s use of Spetsnaz for terminal control begs the question of how well aerial fires would be integrated within conventional ground forces conducting maneuver against an adversary with near-peer capabilities, as was the case when Russia struggled during its war in Georgia.
+With the addition of OSK-N, the districts are operationalized into five OSKs.
+The WMD has the largest concentration of forces, comprising 40 percent of total Russian Forces.
+Additionally, it shares a border with the NATO member-states Estonia, Latvia, Lithuania, Norway, and Poland.
+This section provides an open source assessment of the Russian Federation’s ground-combat forces that could be deployed against the Baltic States without significant warning.
+Western Military District Composition and Disposition The WMD, operationalized as OSK-West , is headquartered in St.
+Through the Baltic Fleet, the WMD controls the 11th AC in Kaliningrad, which includes the Baltic Fleet’s ground forces.
+He claims there are five in the WMD, two for motorized rifle, one for tank, and two for artillery units.
+Under the 6th CAA is the 216th BKhRVT in Petrozavodsk, Republic of Kareliya; and under the 20th Guards CAA there is the 99th BKhRVT in Tver’.394 Also, under the 20th Guards CAA is the 103rd Military Supply Depot in Shilovo, Voronezh Oblast’, which apparently does not function as a prepositioning center.
+According to Jane’s, there are eight additional BKhRVT, however, some of the locations given are outside the WMD’s area.
+The 1117th AirDef Rgt in Kobyakovo, Moscow Oblast’ is also subordinate to the 2nd Guards MRDiv.1 The 144th Guards MRDiv is comprised of the 488th MRRgt in Klintsy, which was formed from the 28th Simferopl MRBde, recently transferred from the CMD; as well as the 228th Tank Rgt, which is still forming; and the 856th Arty Rgt in Pochep, Bryansk Oblast’.402 Additionally, its subordinate motorized rifle regiments are dispersed along the border with Ukraine and Belarus.
+The Ministry of Defense is transitioning the motorized rifle brigades into divisions, but as of January 2017, the 6th and 20th Guards CAAs still each had 2 brigades in lieu of divisions.
+Petersburg and Neni-Myaki, Republic of Karelia; 30th Combat Engineer Rgt in Kerro, Leningrad Oblast’; 6th NBC Rgt in Sapyornoye, St.
+Petersburg; 10th Sep NBC Bn in Sertolovo; and the 51st Sep Bde in Krasnoye Selo, St.
+The 3rd Guards MRDiv, recently formed on the basis of the 9th Sep MRBde, contains the 252nd MRRgt in Boguchar, 752nd MRRgt in Valuyki, 237th Guards Tank Rgt in Valuyki, and the 99th Arty Rgt in Boguchar.
+Russian Federation–Army;” “‘New’” Divisions in the West;” Sutyagin, email message to the author.
+The 11th AC’s principal combat power is the 79th Guards Sep MRbde in Gusevo and the 7th Guards Sep MRRgt, which may now be at brigade strength.
+The Rossgvardia’s 136th Sep Special MRRgt in Kaliningrad can also be subordinated to the 11th AC in contingencies.
+Additionally, the VKS’ 44th Air Defense Div in Kaliningrad is composed of the 183rd Guards AirDef Rgt in Gvarkeysk, 1545th AirDef Rgt in Znamensk, and the 81st Radar Rgt in Pereslavskoye.1 The WMD includes the Baltic Fleet and its associated air defense, aviation, coastal artillery, missile forces, and naval infantry.
+Capabilities, Limitations, and Implications for International Security, 92. 82 comprised of The 336th Guards Sep Marine Bde in Baltiysk.
+The 336th is comprised of two Marine battalions, one assault landing battalion, and two artillery squadrons.
+The Baltic Fleet is also responsible for the 561st Maritime Reconnaissance Spetsnaz Point in Parusnoye, comprised of two naval Spetsnaz companies.
+Russian Federation–Army;” Lavrov, “Russian Military Activity in the Baltic,” 8; Perrson, “Russian Military Capability,” 81.
+Russian Federation–Army;” Lavrov, “Russian Military Activity in the Baltic,” 8; Perrson, “Russian Military Capability,” 81; Sutyagin, Russia’s New Ground Forces: Capabilities, Limitations, and Implications for International Security, 93. 83 and 1683rd Sep MTO Bn in Ivanovo.
+The division is scheduled to establish a tank battalion by 2019.415 106th Guards Airborne Division The Principal combat power of the 106th Guards VDV Div is the 51st Guards VDV Rgt in Tula and 137th Guards VDV Rgt in Ryazan.
+The Division is scheduled to establish another VDV regiment and tank battalion by 2019.416 2.
+The Battalion Tactical Group and its Organization and Equipment The MOD is moving away from Serdyukov’s New Look brigades, returning to a division model based on four maneuver regiments.
+Tank divisions have three tank regiments and one motorized rifle regiment, while motorized rifle divisions resemble the inverse structure.
+The WMD’s 6th and 20th Guards CAAs’ brigades should transition to divisions in 2017.
+The 20th Guards CAA’s brigades will fall under regiments within the 3rd Guards MRDiv.
+In units that retain brigades, brigades will not fall under divisions; both divisions and brigades are subordinate to Army-level formations.0 A standard motorized rifle brigade is comprised of 3 motorized rifle battalions, as well as tank, self-propelled howitzer, MLRS, AAA, anti-aircraft missile-artillery, antiaircraft missile, reconnaissance, signals, engineer, and MTO battalions.
+Force Structure, Tactics, and Modernization of the Russian Ground Forces , 33.
+Tank brigades have a similar structure, with an inverted ratio of motorized rifle to tank battalions.
+A brigade’s motorized rifle battalions each have three companies, while the tank battalions have four.
+Overall, a motorized rifle brigade has approximately 3,800 personnel, while a tank brigade has approximately 3,000.422 Where regiments are used, they serve as headquarters for four infantry or tank battalions, divided into three infantry and one tank, or three tank and one infantry.
+Regardless of a hierarchy that subordinates regiments under divisions to armies, or one that subordinates brigades to armies, BTGs are the primary combined-arms unit of employment for the Russian ground forces.
+Although BTGs pre-date the fall of the Soviet Union, they received renewed prominence in the reforms that characterized Anatoliy Serdyukov’s tenure as Minister of Defense.
+The Russian Army could neither man nor equip its nominal forces, so it cut conscript positions and scaled down from regiments to brigades, focusing on devolving regimental fire-support assets to BTGs to provide a manned, trained, and equipped force that would have sustainable readiness for operational use.4 Since 2013, the Russian MOD has limited publishing official information about its military organization, equipment, and capabilities.
+To compound matters, the organization and equipment of motorized rifle units differ depending on whether the unit is armored or mechanized.
+Armored motorized rifle units are equipped with BMP-type IFVs while mechanized units are equipped with BTR and MT-LB-type APCs.
+Gerasimov detailed the structure of a BTG as an infantry or tank battalion, each with two to four companies and supporting arms.
+Supporting arms consist of anti-tank, artillery, reconnaissance, engineer, and logistics platoons.
+The armored forces are smaller due to their superior firepower; they do not require an additional AT platoon.
+Therefore, tank-heavy BTGs should typically have 31 tanks, models T-72B3/T-80/90/14, and 11 BMP-2/3s.
+Additionally, they could have NBC attachments from their CAA, which are equipped with TOS-1 Buratino thermobaric MLRS and RPO flamethrowers.
+From its directly subordinate forces, the WMD can field two Recon BTGs, likely with BTR and BRDMtype vehicles and five mechanized, infantry-heavy BTGs.
+From the 1st Tank Army, the WMD can field seven tank-heavy BTGs and four mechanized infantry-heavy BTGs.
+From the 6th CAA, the WMD can field four mechanized infantry-heavy BTGs (with MTLBs).433 The 20th Guards CAA can provide eight BTGs, five armored infantryheavy, and three mechanized infantry-heavy.
+Strategic exercises typically involve an entire military district, and each district participates in a JSE on a regularly scheduled, quadrennial basis.
+The Kremlin uses legal instrumentalism, maintaining plausible deniability of the true size and scope of JSEs through the conduct of parallel exercises, in order to bind OSCE member states to continue sharing information on their military exercises – information that is intended to build trust and confidence in a stable security environment – without reciprocation.
+The Kremlin invited observers to Belarus for its latest JSE, but not the Russian portions of the exercise, or to the parallel exercises.
+Zapad 2013 occurred along Russia’s border with NATO and the Nordic countries.
+The primary Russian training audience was five BTGs from the 20th Guards CAA that trained for 10 days, covering 1,500km of movement.
+Snap inspections just prior to the exercise involved 12,000km movements, including a 400km foot march.
+In parallel, the SMD conducted exercise Combat Commonwealth, focusing on air defense.
+Ukrainian authorities estimated 240,000 Russian personnel would take part, while Lithuanian officials put the number lower, at 140,000, and Poland estimated 100,000 personnel would participate.
+These figures undoubtedly include not only Zapad, but forces in parallel exercises.
+Additionally, this includes one Russian tank brigade with 94 tanks, 61 IFVs and APCs, 44 artillery pieces, and 2,900 troops.
+This accords with the observed participation of the 1st Guards Tank Army’s 6th Sep Tank Bde, which initiated rail movement to Belarus on 14 September.
+This allows for one tank regiment, one motorized rifle regiment, and one independent reconnaissance battalion.
+RUSI assesses these units to be the 2nd Guards MRDiv of the 1st Guard’s Tank Army’s 1st Guards Tank Rgt, 1st Guards MRRgt, and the 136th Guards Sep Recon Bn.8 The WMD’s 11th Army Corps and the Baltic Fleet’s 336th Guards Sep Marine Bde, as well as the newly re-established and 14th AC, subordinate to OSK-N were also involved in Zapad 2017.
+The 11th Army Corps’ 7th Guards Sep MRRgt, the 79th Guards Sep MRBde, and the 244th Guards Arty Bde participated, as well as the 14th AC’s 80th and 200th MRBdes.
+Additionally, the 45th Guards Sep VDV Spetsnaz Rgt likely participated.1 Zapad 2017 was a combined, joint-interoperability exercise within the Union State’s armed forces and their various branches.
+The scenario provided a defensive narrative, based on a surprise attack from the West.
+This narrative is pragmatic; it fits Russia’s historical experience from the Second Word War, but it only partially aligns with Russia’s current threat perception.
+Unlike Zapad 2013, which carried undertones of color revolution and exercised the capability to suppress civil-disorder and irregular warfare, Zapad 2017 was strictly conventional and high intensity.
+Exercise aggressor forces engaged Russian forces with air and cruise missile strikes, simultaneously with diversionary ground maneuver and vanguard reconnaissance in force conducting direct action.
+Parallel exercises in other military districts mirrored Zapad’s scenario, implying Russia is preparing to defend against a multi-front attack.
+The parallel exercises suggest Russia is capable of employing brigade-sized units for multi-front operations.8 Zapad 2017 was a two phase exercise.
+Phase one was a three-day defense until the WMD could forward deploy forces and aviation.
+Although Zapad 2017 did not have the overt simulated nuclear strikes that were present in Zapad 1999 and 2009, the defensive phase of the exercise culminated with simulated, potentially nuclear, strikes from Tu-22M3 bombers on 15 September, and a 9K720 Iskander-M missile system on 16 September.
+Zapad 2017’s conventional forces were monitored through a COP that provided situational awareness down to the battalion level, provided by a communications architecture that covered 1,000km.
+Data was transferred along a high-bandwidth network, with transmission speed up to 20 gigabytes per second.
+In Belarus, the host nation’s 86th Comm Bde, along with the 70th Mobile Command Post from the General Staff of the Russian Armed Forces, provided C2.476 This combined architecture was instrumental in the Union States’ ability to conduct close air support with Belarusian aviation providing fires for Russian armor units.
+They employed the GLONASS and GPS enabled Andromeda-D C2 systems in their BTRs, theoretically allowing COP down to the squad level.
+The dual-use of both satellite systems suggests preparation to operate in a GLONASS-denied environment.
+During the Georgia War, Russian forces often used commercial GPS for navigation, as their GLONASS constellation was not fully operational.
+Spetsnaz forces used the Strelets C4ISR system to provide friendly-force COP down to the individual level, as well as ISTAR to support targeting and fires.
+Integration of the Strelets system with GLONASS and UAVs was a primary C4ISR focus in Zapad 2017.481 Zapad 2017 saw extensive use of UAVs for traditional ISR as well as ISTAR in support of artillery fires.
+Russian ground and naval forces employed the Orlan-10, Eleron-3SV, and Grusha UAVs.
+A Russian EW brigade used RB-109A Bylina automated EW detection and suppression systems, along with Sagittarius C2 and ISTAR components from the Strelets system, as well as Orlan-10 UAVs linked with RB-341V Leer-3 EW vehicles, which provide the capability to jam cellular signals.4 Fires in Zapad 2017 The WMD’s 6th Air Force and Air Defense Army employed Tu-22M3 bombers, escorted by Su-35 fighters in their traditional roles.
+Su-24M strike aircraft were used to target aggressor C2, while Su-24MP aircraft were used in a strike coordination and armed reconnaissance role.
+Both Su-25 and Su-34 strike aircraft conducted bombing sorties while escorted by Su-35 multi-role fighters.
+Su-25 strike aircraft used rockets and cannon fire against mobile armor formations.
+Russian VKS primarily used unguided bombs and rockets, in coordination with the SVP-24 Gefest targeting system, during the first four days of the exercise, switching to PGM for the last two days.
+In addition to fixed wing aircraft, the Russian 15th Army Aviation Bde employed Mi-35M, Ka-52, Mi-28N, and Mi-8AMTSh helicopters in CAS and anti-armor roles.
+Belarus also employed Mi-8MTV5 and Mi-28N helicopters to provide CAS for Russian VDV forces.7 In addition to the Tu-22M3’s potential nuclear role in Zapad 2017, Russia launched a silo-based RS-24 Yars ICBM on 16 September, followed by a mobile-variant RS-24 Yars intercontinental ballistic missile on 20 September.
+This is in keeping with Russia’s military doctrine, which supposes that quickly escalating to a nuclear strike when Russian state survival is faced with a conventional threat would result in capitulation by the aggressor.
+In addition to strategic rocket forces, Russian forces employed the 9K720 Iskander-M with 9M723 short-range, operational-tactical ballistic missile , the legacy 9K79-1 Tochka-U tactical ballistic missile system, and the 9K720 Iskander-K with R-500 9M728 ground-launched cruise missile .489 Russian forces conducted simulated launches of Iskander-M and Tochka-U missiles against massed armor from ranges of 30 to 100km.
+All Tochka-Us are to be phased out by 2020.490 The Russian MoD also reported that during the exercise Russian forces launched an Iskander-M at a range of 480km, but Kofman suggests it was most likely an Iskander-K.491 Massed artillery and rocket fires, as per Russian tactics, were the main effort for conventional ground forces in Zapad 2017.
+Artillery fire direction received target inputs from UAVs, 1L271 Aistenok counter-mortar radars, and the Strelets system.
+As opposed to the 15 minute kill-chain lag that was observed between UAV observation and fires in Ukraine, Russian forces in Zapad 2017 conducted real-time targeting with BM-21 Grad MLRS and with single-tube artillery.
+Its forces were organized into a BTG, reinforced with T-72B1 Tanks, BM-21 Grad MLRS, 2S3M Akatsiya self-propelled howitzers, and towed artillery.
+VDV forces with BMD-2 IFVs augmented the 11th Army Corps’ BTG for combined-arms maneuver that emphasized motorized rifle forces supported by artillery.
+NBC forces employed the RPO-A Shmel thermobaric rocket launcher as an urban, antipersonnel weapon.
+Additionally, Baltic Fleet Marines conducted an amphibious landing with BTR-82A APCs from tank landing ships in the Baltic Sea, with Ka-27 helicopters providing assault support, and under cover of Mi-35M attack helicopters.
+The Marines operated ashore in BMP-2 IFVs, supported by tank destroyers – presumably 2S25 Sprut SDM1 self-propelled anti-tank guns.7 In Belarus, the 1st Tank Army’s 4th Tank Div employed an array of tanks.
+The division used new T-72B3 tanks, while its recently re-formed 423rd Guards MRRgt used older T-80BVs.
+The 1st Tank Army’s 6th Bde used T-72B3s, and was supported with 2S19 Msta-S artillery.
+Russian armor units in Belarus operated in conjunction with Belarus’ 120th Sep MRBde.
+The WMD’s VKS forces trained for air superiority missions with Su-27, Su-30SM, Su-35, and MiG-31 multirole fighter aircraft, while the WMD’s IADS and attack/strike aviation supported ground forces’ maneuver.3 VDV forces operated independently at the battalion and detachment level throughout Zapad 2017.504 The VDV conducted airborne insertions to secure key infrastructure, such as airfields, and to disrupt adversary conventional and special operations forces as Russia’s rapid reaction force.
+The VDV practiced river crossings in their IFVs, in anticipation that an aggressor would use PGMs to destroy key infrastructure, such as bridges, during the initial phase of conflict.6 In addition to the battalion that each major VDV command in the WMD provided for the exercise, two battalions from the 76th Guards VDV Div likely participated; one employed BMD-4M IFVs and the other employed BTR-MD Rakushka APCs.7 Detachments from the 106th Guards VDV Div employed both BMD-4M IFVs and BTRMDM Rakushka APCs.
+Russian VKS aircraft and support personnel were transferred to forward basing during the exercise, indicating Russia has limited power projection capability away from its current garrison basing.
+The Russian General Staff’s rapid-deployment force, the VDV, was notified of their deployment orders on 14 September.
+The 76th Guards VDV Div was able to deploy one battalion – equipped with 10 BMD IFVs – in a matter of hours after receiving notification.
+The 106th Guards, 98th Guards, and 76th Guards VDV Divs started operations on 18 September, five days after notification , although the 98th may have inserted on 17 September.3 Infantry, armor, and artillery units were transported to their training areas via rail.
+The Russian MoD contracted 4,162 individual rail cars to support moving personnel and equipment from Russia into Belarus during 2017.
+While many observers consider this to apply specifically to Zapad 2017, a Russian commentator Pavel Kovalev assesses that 2,908 rail cars have already been used transporting Russian forces and equipment into Belarus for earlier exercises this year.
+Each rail car can hold up to two pieces of armored rolling stock, or one passenger/cargo car.
+Additionally, the combat service support requirements to sustain one battalion also requires one train.
+MTO units employed older KET-L light recovery trucks and BTS-4 tracked armored recovery vehicles, but also employed upgraded BREM-K wheeled armored recovery vehicles, TPM recovery vehicles, MTO-UB-2 Ural maintenance workshops and BAKM 1040 BK cranes.
+Bridging units made extensive use of pontoon bridging in an effort to prepare for the expected destruction of infrastructure in actual combat.8 Force Protection in Zapad 2017 Force protection efforts were a main theme throughout Zapad 2017.
+In an A2AD role, Russian forces used 3K60 Bal CDCMs to neutralize aggressor surface threats.
+According to Kofman, the VKS focused on “defending key civilian infrastructure” during the defense phase of Zapad 2017.520 Air and missile threats were mitigated with S-300 and S-400 SAMs and 96K6 Pantsir S1 anti-aircraft systems.
+Russian military EW brigades employed RB109A Bylina automated EW detection and suppression systems.
+Pantsir crews engaged slow, low flying targets, typically flying 200km/h at 50m altitude.
+The 76th Guards VDV Div conducted air defense with 9K35 Strela 10M tracked, short-range lowaltitude SAMs; 9K338 Igla-S MANPADS; and ZU-23 towed AAA.525 Russian ground forces leveraged their NBC troops to provide smoke for concealment of maneuver forces, as well as for protection while training to fight in a NBC-denied environment.
+When Estonia, Latvia, and Lithuania joined NATO, Russia was no longer viewed as the enemy.
+The post-Ukraine climate, however, is characterized by the Baltic States’ view that Russia is an existential threat to their independence and sovereignty.9 Russia’s Crimea invasion was opportunistic and asymmetric, exploiting Ukraine’s C2 and security structures, which had been weakened by civil disorder and influence operations, to secure its Black Sea Fleet anchorages.
+The thoroughness and relative speed with which Russia carried out the Crimea operation suggests it was the product of detailed planning that was conducted over several years.
+Russian forces affected the complete capture and control of Crimea in less than 30 days, with relatively little armed violence.
+The Kremlin’s slower, less committed response in the Donbas suggests Russia lacked the detailed plans in place, the resources, and the political will to achieve similar results there.
+Russia’s floundering successes in the Donbas reveal a military that has asymmetric advantages over Ukraine, but has not yet achieved the readiness levels it desires.
+The keys to Russia’s success in Crimea were the speed and surprise of its forces.
+In the Donbas, the integrated use of air defenses, ISR, and fires have given Russia the advantage.
+Russia was aided by the ambivalence of the West in the face of what was clearly two illegitimate armed invasions of a sovereign state.
+Russia’s actions in Ukraine show that military force is a policy tool that has not diminished in the age of information and hybrid warfare.
+PERSONNEL Regarding Russia’s military means, New Look reforms aimed at a force structure of one million personnel, but as of the end of 2016, there were only 930,000 uniformed billets.
+Galeotti contends that the military reached its staffing goal of 425,000 professional service members ahead of its 2017 deadline, with 427,000 in 2016.
+This is from total force he estimates to be 760,000, of which the Ground Forces comprise 230,000.
+Sutyagin provides a less-optimistic assessment, estimating that the Ground Forces are 19 percent below their 243,500 personnel end-strength.
+Herspring, with the bleakest estimate, assesses the total force to be 23 percent below end-strength.5 A Russian brigade’s ability to generate either one or two BTGs is dependent upon its contract manning.
+The new divisions in the SMD and WMD will require a 37,000 personnel end-strength increase.
+However, the VDV and Spetsnaz, as Russia’s Rapid Reaction Forces, are the priority for professional manning.
+The imperative for allprofessional manning in the Rapid Reaction Forces leaves conventional maneuver forces with a smaller percentage of professionals.
+It desires to have only professional NCOs supervising conscripts, reducing the need for officers at the lowest levels.
+Yet despite meeting its professionalization targets, it is not sufficiently filling NCO billets.
+Where officers and NCOs do fill traditional Western roles, officers are reluctant to empower their NCOs, creating a duplication of effort.
+Russia’s dearth of NCOs is compounded by the inordinately long 42-month training program at the Ryazan NCO Academy.
+The combat arms are a priority for NCO staffing, leaving CSS units to struggle with insufficient leadership.
+CSS NCO billets are typically filled by graduates of the Volsk Military Institute of Rear Services, which offers a three and a half-month course.3 Russia’s conscription pool is inadequate to support its requirements.
+Draft dodging is endemic; over a quarter of conscripts who do show for service are physically unfit, and a tenth are disqualified for criminality.
+Many Russians evade serving for fear of the brutal hazing that is characteristic of Russian conscript service.
+Despite the introduction of military police and structures to maintain and enforce accountability, hazing and corruption remain problems.
+The military needs to draft 600,000 conscripts a year, in two biannual cycles of 300,000.
+It often fails to meet half of that goal due to evasion and physical disqualification.
+The initial decline, coupled with generally poor health, has resulted in an insufficient manpower pool to support Russia’s conscription goals.
+However, while the demographics of eligibility have temporarily corrected, the manpower shortage is forecasted to continue.
+Demographics are expected to peak at 2020, after which the effects of Russia’s net population decline, compounded by intellectual capital flight, will limit Russia’s ability to sustain a high-technology force.
+In the face of net population decline, Russia is encouraging foreign-born Russian-speakers to enlist, and experimenting with all-women motorized rifle battalions.9 Putting an end to the conscription and mobilization-based force structure has left Russia with no true second-echelon reserve capability.
+Difficulties in sustaining force generation in Ukraine highlight these manpower limitations.
+Six months of the term are occupied by individual and unit training, providing commanders only a few months of service from their conscripts before demobilization.
+Budget constraints and time limitations result in the average Russian solder receiving as little as one-eighth of the live-fire training time of Western forces.
+GPV With the collapse of the Soviet Union and privatization of state-owned enterprises, military procurement turned westward.
+But developing ISI to substitute by 2020, or even 2025, for the nearly 1900 weapons systems (including the electronic and optical components in the Armata family) that are affected by EU, U.S., and Ukrainian sanctions is wishful561 ISI is not particularly effective for Russia’s defense industry, as the majority of firms must focus on dual-use technology to secure capital.
+Despite ISI, high tech components from states that are sanctioning Russia still account for 10 to 20 percent of end item sub556 Galeotti, The Modern Russian Army 1992–2016, 20.
+This accounts for the majority of electronic components in military systems, to include GLONASS-K satellites.
+Russia is trending back towards state-owned defense enterprises, but this is negatively effecting innovation and efficiency.
+The result, coupled with an economic downturn, is a weak production capability.6 Putin twice attempted military modernization prior to the GPV 2020, and twice failed.
+The GPV 2020 appears to be another drastic failure in terms of achieving its stated goals.
+As of 2017, only approximately $250 of the planned $630-$650 billion had been spent on the GPV.569 Procurement has been fraught with difficulty.
+It is slow, inefficient, and rife with corruption,g., $134 million was lost to fraud, waste, and abuse in 2012.
+Contracts are non-competitive, and are often more about domestic politics, supporting industries that are too big to fail, than about rearmament with the best technology.
+Andrey Frolov at the Moscow-based Centre for Analysis of Strategies and Technologies notes that despite the Kremlin’s efforts to counter corruption, it is hampering both the government and industry sides of the procurement sector.1 Economic realities threaten the military’s ability to complete its reforms.2 Russia’s defense budget has steadily increased as a share of GDP under Shoigu.
+Russia has continued increasing its defense budget, but the devalued ruble has resulted in a trend of net decline in real defense spending.
+Defense budget shortfalls will be exacerbated by competition within the power ministries, to include the Rossgvardia, which Putin will rely on more for domestic support as the proliferation of social media increases the average Russian’s desire for transparency and accountability.
+There is a rush to complete modernization before the money truly runs out, but a shrinking budget due to low oil prices, sanctions, and inflation continuously results in shifting GPV implementation benchmarks to the right.7 The military-industrial complex’ continually delayed production and procurement cycles have resulted in supplying the force with outdated technology in insufficient quantities.
+There is still no armed platform similar to the United States Predator, still in operation but already a museum piece, or the current Reaper.
+Marginal PGM use in Syria and Zapad 2017 suggests that PGMs are either in short supply, too expensive to procure, or both.
+Despite seeking an integrated C4ISR network, the ground forces and VDV employ different systems.
+Despite media hype about the Ratnik and Strelets, only the Spetsnaz are using its C2 components, while the base system is simply body armor.
+High technology equipment and weapons systems are disproportionately vulnerable to damage and maintenance issues in the Russian Ground Forces.
+This is the platform that will supposedly allow for rotational tank crews in modular elements conducting around-the-clock operations, with no regard to manpower or maintenance deficiencies.
+The 1st Guards TA and 20th Guards CAA are slated to be the first units that receive this new technology, highlighting another fundamental flaw in Russia’s force generation and logistics nexus.
+Not only do the VDV and Ground Forces have different vehicles, even if the Armata, Bumerang, and Kurganets are fielded, different units will get different compliments.
+For units that train on one system, their ability to rapidly deploy and fight competently relies upon falling in on a prepositioned stock that has exactly the right compliment of equipment.
+FORCE GENERATION AND DEPLOYMENT Russia’s use of BTGs in regional conflicts does not indicate BTGs would operate independently in a fight against NATO forces.
+That no one army was singularly represented with all of its forces begs the question of Russia’s ability to deploy fully-staffed combined-arms armies capable of conducting round-the-clock operations.
+The Kremlin most likely cannot, as a result of operational overstretch and manpower shortfalls.
+Russia’s ability to redeploy units from other military districts theoretically enables it to support large-scale combat operations with nine combined arms armies.
+However, these forces would not be immediately available in one military district.
+FOI points out that Russia has never mobilized that many formations at once, that it is unlikely such a large force could be mobilized without signaling Russia’s intentions to intelligence agencies, and that this would leave no strategic reserve aside from the minimum formations in each military district.
+While it is noteworthy that Russia deployed 40,000 forces to the Ukrainian border in seven days in 2014, social media analysis suggests that personnel from the 1st Guards TA’s 6th Sep Tank Bde deployed for Zapad 2017 over one month prior to the beginning of the exercise.
+Russian forces deploying over more than 100km will likely travel by rail.2 Mechanized movement over any greater distance is likely to result in the type of maintenance issues experienced near the Roki Pass in Georgia, when Russian tanks broke down at key choke points.
+With an imperative for rail travel, Russia is limited in projecting considerable power into Europe to air lift, as Russian railcars only work on Russian 1.520 m broad-gauge rails, not on standard European or Chinese 1.435m rails.
+Russian broad-gauge rails are the standard in the former Soviet Republics (including the Baltic States), as well as in Finland.
+The VTA is comprised of the 12th Transport Air Division, which commands 5 regiments, employing a total of 6 An-124, 5 An-22, and 82 Il-76 transport and cargo aircraft.
+One VTA sortie can lift 5 motorized rifle brigades, transporting 25,200 to 26,800 passengers without their vehicles or heavy equipment.5 The VTA regiments are geographically positioned to support VDV operations.
+If the aircraft were aggregated, the VTA could transport an entire VDV division in three sorties.
+Sutyagin assesses Russia is able to field 47,000 personnel in BTGs for rapid deployment.
+In 2013, the Swedish Defense Research Agency estimated that one CAA with four brigades and one VDV brigade could prepare in one week, and carry out combat operations without reinforcement for one month, in one direction.
+The RAND study that formed the basis of opinion for NATO’s response to the perceived Russian threat claimed the WMD could field 22 battalions.
+RAND’s methodology is somewhat unclear, claiming at one point to use 27 Russian battalions and a week of mobilization, after which it would take 36 to 60 hours to reach at least one BalticState capital, while simultaneously claiming to use 25 battalions, some of which are stationed in Kaliningrad.
+It claimed to use four tank, five mechanized, five motorized, eight VDV, and three Marine battalions in its calculations.0 The FOI assesses Russia’s personnel readiness to be 90 percent of nominally available forces and estimates the WMD’s nominally available number of maneuver units at two divisions and nine brigades.
+Additionally, FOI posits that the 11th AC is not deployable from its current basing in Kaliningrad.2 Within the WMD, operationalized as OSK-W, FOI assesses that a tank army of five brigades, and CAA of four brigades with associated fire support would be immediately available for combat, retaining one combined-arms army of three brigades in reserve.
+The FOI assesses that OSK-W could prosecute a multi-front campaign due to its large size and ability to field two major formations simultaneously.4 Russia is building its military capability in the WMD, but this build-up is focused on supporting RBS in Ukraine and defending Crimea.
+Sutyagin argues that threatening the Baltic States is really about pressuring Ukraine.
+This trend is forecasted to continue in the 2018-2025 GPV.610 Second to nuclear forces, the GPV prioritizes air defense modernization.
+Russia’s perception is based on the fear the United States missile defense system.
+Russia’s military doctrine is based on the perception that the West is waging undeclared war against Russia.
+In response, the Kremlin seeks to balance through asymmetry while building a modern force; it is not expansionist, as much as it is reactionary.
+The 1st Guards TA and 20th Guards CAA were established in 2014 to balance NATO, however, their subordinate units have been used mainly in Ukraine.
+The 20th Guards CAA is relocating to Voronezh to focus on operations in Ukraine.
+Although the Ground Forces are modernizing with the T-14 tank and T-15 IFV, and plan to procure 2,300 tanks between 2016 and 2020, that equipment is going to the 1st Guards TA and 20th Guards CAA, for placement along the border with Belarus and Ukraine.
+Despite rhetoric, the 6th CAA and 76th Guards VDV Div, not the 1st Guards TA, are aligned towards any potential incursion into the Baltic States.
+Rearmament in the 6th CAA and Baltic area has focused on air defenses, such as the 9K332 Tor-M2 and 9K35 Strela 10M4 tracked, short-range low-altitude SAMs, and 9K333 Verba MANPADS.619 Despite the West’s anxiety over the Zapad exercises, the scenario is defensive.
+The WMD is characterized by large strategic air defenses focused on defending Moscow, because Russia realizes that NATO is not likely to carry out a ground operation to invade Russia; the NATO comparative advantage is in precision guided munitions and air power.
+Baev theorizes that instead of intervening in the Baltic States, a more likely course of action for Russian forces building up in the WMD is to secure a land bridge from Russia, to Crimea, and on to Moldova.
+Securing a land bridge to Crimea through a non-NATO state is quite different than seizing NATO territory en route to Kaliningrad.
+Russian forces are hampered by political restraints in Ukraine, where they must limit their operations to maintain a modicum of deniability.
+The Ukrainian Army is more capable now than it was in 2014, when it achieved tactical successes against Russian and RBS forces.
+There were 3,500 to 6,500 forces actually in Ukraine during August 2014, along with 90,000 on the border, 40,000 to 50,000 of which were ground combat forces.
+Russia’s contemporary conventional ground forces are roughly half that size, and are comprised of approximately half conscripts.
+Manpower, morale, and equipment limit Russia’s ability to achieve its goals through conventional power.4 For a Russia that views threats as proximal, regardless of capability and intent, it has invited a threat to its own doorstep through EFP.625 The Kremlin is likely to move forward with policy decisions that assuage NATO and the EU by demonstrating an unwillingness to use the conventional side of hybrid tactics in the Baltic States.
+As far as securing economic stability is the Kremlin’s goal in the Baltic States, it seems like Russia has reached its terminus towards this end.
+The Kremlin has little rational interest in occupying the Baltic States, as Russia has sunk considerable cost into developing bypass energy and shipping transportation infrastructure to nullify the value of Estonia and Latvia’s ports for Russia.
+The diaspora issue will gradually fade as an increasingly cosmopolitan youth replaces the older Soviet-era generations, creating less appetite for Moscow’s intervention on their behalf.
+The memory of Soviet occupation, and Russia’s claims of Nazi sympathizers within the Baltic States will remain a tension, but its value is little more than symbolic.
+Even business interests have been able to trump nationalistic fervor in the Baltic States when dealing with Russia.
+The Military Perspective,” in The Russian Military in Contemporary Perspective, ed.
+Despite tactical military victories in Ukraine, RBS, and the Kremlin in general, have failed to achieve their political goals.
+The conflict is an expensive stalemate, diverting resources that Russia could use for power-projection, or to develop its own economy.
+Furthermore, Russia’s imbroglio in Ukraine has been a strategic failure through its diplomatic and economic consequences.
+The United States and EU-led embargo, falling oil prices, rising inflation, and a lack of investor confidence is eroding Russia’s economy.
+Nevertheless, Russia continues to pursue a hard line with NATO, and has engaged in nuclear posturing and saber rattling, moving missiles to Kaliningrad to increase its A2AD capability.
+They are also using UAVs to collect information on the strength and disposition of EFP forces.9 For their part, if the Baltic States want to prevent stagnating into irrelevance, they must engage with the West to secure sustainable infrastructure investment.
+The Baltic States’ economies have a comparative advantage in the labor market that will be lucrative for EU investment.
+Only when the Baltic States can turn away from Russian energy will they have true independence, which is paramount to assuaging their security fears.
+It appears imperative for NATO and the EU that bolstering deterrence in the Baltic States means empowering them through integrative EU investment in energy security infrastructure.
+This would likely occur in tandem with airborne and air assault operations, likely from elements of the 76th Guards and 98th Guards VDV Divs.
+Sutyagin theorizes that if Russia were to invade the Baltic States, it would be precipitated by either the 11th AC establishing a separate reconnaissance brigade, or the newly forming 237th Rgt deploying to Kaliningrad as a detached, separate brigade.
+OPPORTUNITIES The RAND study recommends bolstering the Baltic States’ defensive capabilities with a seven-brigade tripwire force.
+NATO’s EFP is a meager effort along those lines, offering no deterrence through denial.
+From 2017 throughout 2018, NATO is establishing its EFP through four rotational multi-national battalions, one in each of the three Baltic States and Poland.
+This would require a tremendous national effort from every NATO Member State, and that effort would have to be preemptively stationed along Russia’s border.
+Latvia has two light infantry battalions, equipped with 40 Spartan CVR-T APCs.
+Lithuania has two mechanized infantry battalions, two motorized infantry battalions, and one artillery battalion on active duty.
+Army deployed its first armored brigade to Poland in January 2017 as part of Operation Atlantic Resolve—the United States mission to reassure NATO and counter Russian aggression.
+The NATO forces in place would likely be defeated through attrition or capture, after which the Kremlin would begin negotiating for a beneficial outcome.
+The loss of NATO forces in direct combat with Russian forces, however, would change the calculus of Russian revisionist border adventures.
+NATO did not intervene in Georgia, or in Ukraine, because there was no imperative.
+NATO would be compelled to punish Russian aggression in a Baltic scenario, and NATO’s reaction would not be as geographically limited as Russia’s advance.
+The deterrence value of EFP is as a disposable force that would provide impetus for an armed NATO response.
+If such a scenario were to occur, Russian training and operations demonstrate asymmetries that could be exploited by NATO forces.
+Russian planning and conduct of maneuver warfare is predicated on scientific correlation of forces, and offers little room for ingenuity.
+Once operational-level commanders issue an order, it translates into a plan.
+There is no decentralized execution based on fulfilling an overarching commander’s intent, but rather, commitment to the plan.
+United States Army Captain Nicolas Fiore’s research suggests Russian BTGs suffer from exploitable vulnerabilities.
+Fiore notes that BTGs in Ukraine did not have persistent, wide-area ISR capabilities, limiting their ability to focus ISR and EW, and relegating commanders to focusing C2 on narrow objectives, while degrading their overall battlespace awareness.
+He observes that the BTG structure’s disproportionately high complement of brigade-level fire support assets leaves it vulnerable to either the rear, flanks, or both.
+It can neither adequately defend its entire position against fire, movement, and maneuver, nor can it properly mass to maximize efficiency of fire support.
+While Fiore’s point regarding security is valid, Russian forces do prefer mass.
+However, Russian forces prefer to mass their artillery against point targets, using infantry and armored maneuver only after direct and indirect fires enable a breakthrough.
+Fiore also cites force regeneration issues with Russian BTGs that suffered casualties in Ukraine.
+While this may be attributed to the lack of second echelon forces following the New Look reforms, it could also speak to general manpower shortages due to recruitment failures, inadequate reserve mobilization system, or prohibitions on deploying conscripts into combat abroad.
+Russia’s increased air presence in in the Baltic has been met by an increase in the numbers of aircraft supporting NATO’s Baltic Air Policing mission.
+NATO must maintain communication with Russia, from the tactical to strategic levels, to deescalate quickly any such tensions.
+Russia has local superiority through an overwhelming capability in manpower and combined-arms forces.
+Russia can deploy an overwhelming force without warning, and can follow up with reinforcements to sustain momentum or reinforce its position.
+Despite reforms, economic and demographic decline, as well as operational commitments would limit the Kremlin’s ability to sustain such an operation indefinitely, especially if required to commit to a multi-front defense.
+These capabilities seem to portray a bleak military situation for the Baltic States and NATO, especially considering Russia’s A2AD and nuclear capabilities.
+Despite Russia’s comparative advantage in a Baltic-States scenario, Russia has not yet demonstrated the will to embark on any such action.
+While Russian forces train for such a scenario in their strategic exercises, this does not communicate intent; all militaries train to carry out their functions.
+What is more relevant than wargames is that Russia’s military intervention against non-NATO forces in Ukraine have not achieved any political settlement after three years of protracted conflict.
+Because the Russian military faces increasing fiscal constraints and growing mission creep against non-NATO forces in Ukraine and Syria, it is not in Russia’s interest to engage in a third conflict against a committed alliance.
+NATO’s EFP, although insufficient for defending the Baltic States, is sufficient for deterring any conventional Russian force from entering the Baltic States, regardless of size.
+As security of the regime is the Kremlin’s primary goal, a military adventure in the Baltic States presents a losing proposition.
+Russia’s actions in Ukraine have led to a stalemate that is slowly whittling down their economy, already suffering from the drop in global oil prices and soon to be followed by a net drop in global oil demand.
+Fears of Russian revisionism in the Baltic States have led to NATO placing more troops in the region.
+NATO’s commitment to reinforcing deterrence in the Baltic States stands in stark contrast with Georgia and Ukraine.
+As Russia is not likely to use conventional force against NATO, NATO’s resolve and deterrence will be further enhanced if it can come to a consensus on what constitutes, and how to respond to attacks in the cyber domain and electromagnetic spectrum.
+Defense Research Unit, French International Relations Institute—IFRI, May 2015.
+Defense Intelligence Agency, 2017. www.dia.mil/Military-Power-Publications.
+The Politics of Energy and Memory between the Baltic States and Russia.
+In Russian Military Capability in a Ten-Year Perspective—2016, edited by Gudrun Persson.
+Strategic Studies Institute and United States Army War College Press, 2017.
+CSTO Stages Intelligence and Reconnaissance Exercise,” The Central Asia-Caucasus Analyst.
+The Ministry of Foreign Affairs of the Russian Federation document № 2232–01-12-2016.
+Norberg, Johan and Fredrik Westerlund, with contribution from Carolina Vendil Pallin and Roger Roffey and maps by Per Vikström, “Russia's Armed Forces in 2016,” in Russian Military Capability in a Ten-Year Perspective – 2016, edited by Gudrun Persson, 23—56.
+Podcast, Kennan Institute, Woodrow Wilson International Center for Scholars.
+United States Army War College Strategic Studies Institute, forthcoming.
+Shlapak, David A., Michael W Johnson, Karl Mueller, and David Ochmanek.

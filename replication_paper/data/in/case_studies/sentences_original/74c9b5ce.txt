@@ -1,0 +1,289 @@
+Most people find it easier to think in terms of what I call the time horizon for an event.
+If nuclear war has one chance in a thousand of occurring each year, then it has a 1,000 year time horizon.
+Because the risk of a nuclear war varies with time, this is not the same as saying we expect to survive 1,000 years, even though, to simplify, I sometimes may say something like that.
+Before studying ways that risk analysis can help us estimate the time horizon for a nuclear war, it helps to consider what various values for that parameter would imply.
+A 1,000 year time horizon at first sounds safe because none of us will be around that long.
+But, a child born today would have almost a 10% chance of not living out his or her expected life of 78 years.
+That risk is closer to 78/1000 or 7.8%, but when roughly estimating a number, scientists and engineers often use an order of magnitude estimate, in which the estimate is rounded to the nearest power of 10 to avoid giving an impression of greater accuracy than is warranted.
+The table on the next page puts the risk for various time horizons for a full-scale nuclear war into perspective, assuming that it would kill most people.
+The second column is the probability that a child born today would die in a nuclear war; the third column is the number of nuclear power plants that would have to surround your home town to produce an equivalent level of risk; and the last column is how often you would have to skydive from an airplane to bear the same risk.
+For example, in the skydiving analogy, the whole world is in the harness with you.
+While Chernobyl might seem inconsistent with that million year design goal, it is not considered a modern design because it did not have a containment vessel.
+The accident at Three Mile Island was not catastrophic because its containment vessel did what it was supposed to – contain the radioactivity that was released by the accident.
+In contrast, Chernobyl killed over 50 people immediately, and the total death toll is estimated to be at least in the thousands, with some arguing that the number is nearly a million.
+The last column is based on skydiving having a fatality rate of one in 100,000 per jump.
+A table similar to the one shown above can be constructed for a nuclear terrorist event, but the entries would depend on where you lived and the assumed severity of the event.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 2 of 29 attack, the numbers in the table would be reduced by a factor of 100.
+This helps explain why, even though most research about the danger of a nuclear disaster focuses on nuclear terrorism to the exclusion of nuclear war, I believe it is necessary to consider both possibilities.
+Nuclear war has a lower probability each year, but a much higher cost – potentially infinite.
+A preliminary risk analysis of nuclear deterrence In March 2008 I published what appears to be the first quantitative risk analysis of nuclear deterrence.
+That paper was intended for an engineering audience and therefore used some mathematics that is beyond the reach of the layperson.
+However, I believe the basic ideas can be expressed in plain English, as I will attempt in the next few sections.
+If the math is more complex than you can handle, just skip over that part and don’t worry since it is not be crucial to what follows.
+Even if you cannot follow the math, the descriptive material should help explain why the risk is so much greater than most people realize.
+An in-depth risk analysis would have required expertise in a number of areas, and involved a large team effort.
+Working by myself, I therefore simplified the analysis by considering only one possible trigger mechanism for a nuclear war, a crisis involving Cuba.
+Because that approach ignores other potential causes, it underestimates the risk and is called a lower bound.
+Three events divided by 50 years produces an occurrence of 6% per year.
+Such an action would have violated one of our key concessions in return for which the Russians removed their Cuban missiles.
+Had Reagan reimposed the blockade, the Russians would likely have taken some action, possibly even threatening to redeploy missiles unless the blockade was lifted.
+Such a reaction was made more likely by the fact that, at that same time, Reagan was in the process of deploying Pershing IRBMs (socalled “Euromissiles”) in Western Europe, over strenuous Soviet objections.
+While not as close to the Soviet border as the Turkish Jupiters had been, the only way the Soviets could match such weapons was with missiles in Cuba.
+Potential Initiating Events Becoming a Crisis The next step in my analysis was to estimate the probability that, once an event had occurred with the potential to initiate a major crisis involving Cuba, such a crisis actually followed.
+Because only the first initiating event led to a full-blown crisis, it might be argued that we learned from that mistake and ⅓ is too large an estimate today.
+Conversely, the fact that the latter two potential initiating events occurred at all is evidence that we did not adequately learn from the first mistake, or that we learned the wrong lesson.
+Because these two factors tend to cancel each other, I used ⅓ as a reasonable estimate.
+Multiplying this by the 6% chance each year of a potential initiating event, results in a 2% probability of having a Cuban crisis each year.
+Equivalently, I estimated that we can expect to see a Cuban crisis about once every 50 years.
+This is not a precise estimate and 1% per year (100 2 Although nuclear weapons were first developed in 1945 and a second nation obtained them in 1949, until approximately 1960 there were too few weapons for the strategy to be called deterrence in the sense that we think of it today.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 4 of 29 years between crises) or 4% per year could also be argued, but would not change the conclusion appreciably.
+Crossing the Nuclear Threshold Up to this point, I was able to make use of historical data in estimating probabilities, but that is not possible in estimating the probability that a crisis comparable to 1962’s actually crosses the nuclear threshold.
+Because nuclear weapons have not yet been used during the deterrence era , this estimate, of necessity, involves some subjectivity.
+In such cases, risk analysis uses a technique known as expert elicitation.
+In that process, opinions of experts with different views of the risk are combined.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 5 of 29 have to go ahead.
+In my analysis, I used a range of 10% to 50% for this probability, discounting Bundy’s and Dillon’s optimism for the reasons explained in the following two subsections.
+The unknown nuclear torpedo A major danger of crossing the nuclear threshold was totally unknown to Kennedy and his advisors.
+Only on the 40th anniversary of the crisis in 2002, did we learn that two Soviet submarines that had been forced to surface by American destroyers each possessed 15-kiloton nuclear torpedoes (comparable to the weapons that destroyed Hiroshima and Nagasaki) and that the subs’ captains considered using them.
+The destroyers were under orders to enforce the American naval blockade of Cuba and used what they regarded as signaling depth charges to command the subs to surface.
+Though smaller than normal depth charges, they still caused damage to the sub, leading the crews to believe they were under attack.
+Because submarines maintain radio silence when being hunted, at least one captain also feared that World War III had started up on the surface.
+Fortunately, others on board the sub succeeded in calming the captain and he eventually surfaced, even though such a “surrender” was a blot on both the officer’s and the Soviet navy’s honor.
+Soviet battlefield weapons for repelling an American invasion During the crisis, there was repeated, strong pressure for an American invasion of Cuba.
+Those advocating this strategy either were unaware of or did not adequately consider the risk that the Soviets might have battlefield nuclear weapons on the island to repel such an invasion – which we later learned they did.
+They could be interpreted as being about conventional war between the United States and the USSR, or they could be interpreted – especially McNamara’s statement – as relating to full-scale nuclear war.
+Given that submarines routinely practice radio silence in a war zone, I suspect that these details on the signaling procedure never reached the sub.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 6 of 29 his advisors should have considered that the Soviets would take such a step and were delaying the announcement until it was needed.
+Yet declassified records show that, at a minimum, that possibility was given inadequate attention and often seems to have been totally overlooked.
+The unsuccessful 1961 Bay of Pigs invasion had humiliated Kennedy and the United States and, when the Soviet missiles were discovered on Cuba, intensified pressure to invade the island, topple Castro, and “excise” what many saw as a communist cancer in the Western hemisphere.
+Evidence for this perspective comes from tapes Kennedy secretly made of his ExComm meetings.
+General Earle Wheeler, Army Chief of Staff, increased the pressure by insisting that only bombing , a blockade, plus an invasion could protect the United States against a nuclear strike from Cuba.
+While Kennedy never convinced his military advisors of the wisdom of delaying an attack on the missiles and Cuba, he did manage to restrain that sentiment within the ExComm.
+Senator Russell suddenly lashed out: “Mr President, I could not stay silent under these circumstances and live with myself.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 7 of 29 Definitive evidence that the Soviets had battlefield nuclear weapons on Cuba only came to light twenty-five years later, after the breakup of the Soviet Union lifted the veil of secrecy from many of their records.
+Page 212: Khrushchev understood the importance of the decision he had just made [to send tactical nuclear weapons to Cuba] and took pains to maintain direct control of these special weapons.
+A day after he authorized the new shipment, the Minister of Defense drafted an order permitting the Soviet commander in Cuba, General Issa Pliyev, to employ these battlefield nuclear weapons in the event that communications to Moscow were cut and a U.S.-led invasion had begun.
+Malinovsky’s deputy, Marshal Zakharov, signed in his capacity as army chief of staff, but Malinovsky did not.
+With or without authorization, Pliyev almost surely had the ability to use the nuclear weapons under his command, as did a number of lower level Soviet officers.
+The use of Permissive Action Links or PALs to prevent unauthorized use of nuclear weapons did not become widespread until later.
+Even today, such safeguards are likely to be removed if armed conflict seems imminent.
+Under the intense pressure of an American invasion, Pliyev might well have used the weapons even if not authorized to do so.
+On the assumption that a United States invasion was more likely than a blockade, the Presidium worked out a set of instructions for the Soviet commander in Cuba, General Pliyev.
+The group’s first reaction was to take steps to avoid an accidental nuclear exchange.
+A cable was drafted that ordered Pliyev to “put all of his forces on alert” but not to contemplate using any of the nuclear weapons deployed at his command.
+The more the Soviet leaders thought about the restrictive language of this cable, however, the less they liked it.
+If the Americans attacked Pliyev and the 41,000-man Soviet contingent in Cuba Prof.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 8 of 29 would be outnumbered.
+The nuclear tipped Luna and cruise missiles were his only potential salvation.
+Unwilling to sacrifice the Soviet group, the Presidium tentatively came up with a different set of instructions.
+Pliyev would be authorized to use the tactical nuclear weapons in the event of a United States landing; but without a direct order from Moscow, he was not to fire the 1,100-nautical-mile R-12.’s.
+A look at the blast effects of these weapons left little doubt that if Pliyev used his battlefield nuclear weapons there would be enormous pressure on President Kennedy to destroy Cuba, at the very least.
+One FKR cruise missile carried enough power, roughly twelve kilotons of TNT, to blow a United States aircraft carrier group apart.
+Of the eighty missiles with nuclear warheads originally ordered to be shipped, the Kremlin had already sent thirty-six to the island.
+Page 243: Concerned that Khrushchev and the Presidium were rushing to the brink of nuclear war prematurely, Malinovsky recommended to the group that it wait until 1 AM, or 6 PM Washington time, to authorize Pliyev to fire the Lunas.
+Fearful that Washington would somehow learn about this delegation of authority, Malinovsky cautioned that they should not give the Americans “a pretext to use their own nuclear weapons” before this was absolutely necessary.
+Persuaded by Malinovsky, the Kremlin decided to send the first set of conservative instructions immediately, barring the use of any nuclear weapons.
+The second set of instructions – the order prepared in September 1962 but not signed by Malinovsky – would be held pending developments in the Caribbean.
+As you can see, not only did Dillon not have detailed information on “what would have followed,” but that was also true for Kennedy and all of his advisors.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 9 of 29 the Soviet submarines, and the record shows little to no concern for the possibility (which turned out to be an actuality) of Soviet tactical nuclear weapons being used to deter – and if need be repel – an American invasion.
+Multiplying the 10% to 50% range that I estimate for the probability of such a crisis going nuclear by the 2% per year probability of a Cuban crisis occurring in the first place, results in a range of 0.2% to 1% per year for the probability of crossing the nuclear threshold.
+As usual, I rounded those numbers to avoid implying greater accuracy than is warranted.
+When other potential initiating events that could cause us to cross the nuclear threshold (e.g., a nuclear terrorist attack, or a crisis involving Georgia) are included, the risk becomes even larger.
+Given the statement by Kissinger and Senator Lugar’s survey, mentioned earlier in this handout, nuclear terrorism, all by itself, has a much higher probability of causing a nuclear disaster.
+Considering a sequence of events such as above is important however, since a first use of nuclear weapons in a Russian-American confrontation carries a higher risk of producing a full-scale war than if the first use is by terrorists or India or Pakistan.
+Full-Scale War The previous section’s conclusion – that a crisis involving Cuba has somewhere between a 15% and 50% chance of causing a nuclear disaster over the lifetime of a child born today – is so serious that, in a way, this section is not needed to make the case for changing our approach to nuclear weapons.
+That somewhat alleviates the difficulty of again estimating the probability of an event that has never happened, and one that is even more difficult to envision than crossing the nuclear threshold.
+This last step is to estimate the odds of a full-scale nuclear war resulting from a Cuban crisis, given that the nuclear threshold already has been crossed earlier in the crisis.
+While Kennedy did not specify what he meant by the 1962 crisis ending in war, his evacuation order to the families of White House staff lends support to the hypothesis that he meant full-scale nuclear war.
+McNamara’s stated fear that he would not live out the week is also consistent with that 11 While it is sometimes wrong to multiply probabilities, it is can be done here because the probabilities are conditional probabilities.
+Explaining that would be far beyond the scope of this handout, but I wanted you to know that I took that issue into account.
+It should also be remembered that these estimates are lower bounds, so the true risk is higher.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 10 of 29 interpretation.
+If that is the case, then the probability range calculated in the last section is for a full-scale war, not just crossing the nuclear threshold.
+However, to avoid being seen as alarmist, my estimate used a range of 10% to 50% for this new probability as well.
+Multiplying that range by the previous range for crossing the nuclear threshold results in a range that runs from 0.02% per year to 0.5% per year for the risk of a full-scale nuclear war.
+The corresponding risk of such a war over the lifetime of a newly born child ranges from 1.5% to one-in-three, considering only crises involving Cuba as the cause of the war.
+When all possible trigger mechanisms are considered, the risk becomes even higher.
+Operation Northwoods demonstrates how intent the Joint Chiefs of Staff were on toppling Castro.
+If the goal were not so serious, the proposed ruses would read like a slapstick comedy routine.
+When the crisis first started to unfold, Kennedy was unaware that we had similar missiles in Turkey.
+Somewhat flustered, Kennedy then used tortured logic to try and invalidate the relationship he had just said would be “goddam dangerous:” “Yeah, but that was five years ago.
+In actuality, our Turkish missiles became fully operational in April 1962.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 11 of 29 The decision-makers in 1962 were well aware of the analogy between United States Jupiter missiles in Turkey and Soviet missiles in Cuba but preoccupied with finding ways to deny it.
+In spite of the fact that Cuba and the Soviets would have been within their rights to fire on these American planes, the Soviet government and top brass recognized the danger of escalation and issued strict orders to prevent an unnecessary incident.
+In spite of this attempt to keep the crisis under control, on October 27, Major Rudolf Anderson was killed when a Soviet surface-to-air missile shot down his U-2 spy plane.
+The downing of Major Anderson’s U-2 led a number of Kennedy’s advisors to urge military action.
+The surface-to-air missile that hit Major Anderson’s U-2 was fired without the required permission and in violation of a standing order.
+Trying to contain the crisis, General Pliyev had given orders that such action should only be taken on his command, but his deputies were unable to reach him during the short time when they had any chance of hitting Anderson’s U-2.
+For all of Khrushchev’s efforts to control the use of force in Cuba, he had not been able to prevent the first American casualty.
+His commanders in Cuba had given a liberal interpretation to his earlier order to defend their positions from a United States air attack.
+The 13 Richard K Betts, Nuclear Blackmail and Nuclear Balance, The Brookings Institution, Washington, DC, 1987, page 113.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 12 of 29 crisis now moved into its most dangerous phase since October 22 [when Kennedy announced the naval blockade].15 5.
+On the same day that Major Anderson’s U-2 was shot down, Captain Charles Maultsby flew a U-2 out of Alaska, became lost, entered Soviet airspace, and was detected by their air defense.
+While Soviet or Cuban attacks on American aircraft within their airspace were seen as “firing the first shot,” potential Soviet penetration of American airspace was seen in a very different light.
+The day before Major Anderson was shot down, on October 26, a Soviet convoy was ordered to move a cruise missile with a 14-kiloton nuclear warhead into position to attack the American naval base at Guantánamo Bay should war break out.
+Traveling at night, with lights blacked out, on treacherous roads, one of the vehicles fell into a ravine, killing three people and injuring a number of others.
+The sudden sound of the crash, accompanied by screams, at first led some in the convoy to believe they were under attack by rebel forces or even American troops.
+If the Soviet warhead had accidentally detonated, in the confusion and chaos, it could have been mistaken for an American nuclear attack on Cuba.
+Fortunately, with cooperation from the press which had been ready to break the story but held back in the interests of national security, he was able to keep the situation secret from the public for six days, during which time he was better able to recognize the implications of such actions.
+He realized an attack on the Cuban missiles would require an equally forceful Soviet response, most likely a tit-for-tat bombing of the American missile sites in Turkey or blockading West Berlin, where a crisis the year before had brought the two nuclear superpowers close to war.
+Adding to the danger, an attack on Turkey, under NATO’s Article 5, was to be considered the same as a Soviet attack on American soil.
+Kennedy also came to realize that an air strike could not guarantee taking out all the missiles, jeopardizing Miami, Washington, and other American cities that were within range of the surviving missiles.
+Even if the Soviet hierarchy did not authorize such an attack, it was recognized that a low level officer in charge of a missile battery might take matters into his own hands if under attack.
+Thus, in spite of his own initial reaction and repeated external pressure for both an air strike and an invasion of Cuba, Kennedy decided to start with a naval blockade of the island, and announced that in his Monday, October 22, television broadcast to the nation.
+While that would not prevent more of the missiles that were already on Cuba from becoming operational , it would prevent new ones from arriving, and send a strong message to the Soviets with less risk of escalation than an outright attack.
+Kennedy was aided in his effort to portray Khrushchev’s actions as fundamentally different from America’s placement of missiles in Turkey because the the American deployment had been done openly, while Khrushchev had repeatedly denied any intention to place missiles on Cuba, thereby making the Soviet actions appear more sinister.
+Khrushchev had acted surreptitiously because he correctly assumed that American public opinion would react violently to his action.
+He reasoned that announcing the missiles only after they were fully operational, would leave America little choice but to accept what the Soviet Union had lived with for years – hostile forces close to its borders.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 14 of 29 approval from the OAS for that action.
+In spite of these fig leafs – which Kennedy’s tapes show were portrayed as a complete suit of clothes by his advisors – the president and his ExComm held their breath as Soviet ships approached the line Kennedy had drawn in the water.
+Other ships approached the quarantine line days afterward, producing new concerns about what would happen and how to respond.
+The previously described, dangerous confrontation between the American destroyers and the nuclear-torpedo-armed Soviet submarines occurred three days later, on Saturday, October 27.
+That is also the day that Anderson’s U-2 was shot down, Maultsby’s U-2 violated Soviet airspace, and McNamara reflected that he feared he might not live to see another Saturday night.
+The danger continued for months after the public thought the crisis ended.
+A 2007 article cites evidence in the John F Kennedy Library to claim that, “The United States Joint Chiefs of Staff continued to prepare to invade Cuba if the diplomatic settlement fell apart.
+The danger of that occurring was exacerbated by Castro prohibiting American inspections on Cuban soil, leading Kennedy’s advisors to fear that perhaps the Soviet missiles had not all been removed.
+Those fears persisted even though, as shown in the photograph on the next page, 21 the Soviets took steps – leaving the missiles in plain view as they left Cuba – to help American reconnaissance aircraft verify their removal.
+The Soviets felt the need to have all missiles operational as soon as possible, in order to fulfill Khrushchev’s original plan of having a local nuclear deterrent to prevent American attacks on either the missiles or Cuba.
+For exactly the same reason, Kennedy and his advisors felt pressure to take out the missiles or invade Cuba before more missiles were operational.
+For example, Kennedy received two conflicting messages from Khrushchev.
+Dobbs notes that Rusk and the others mistakenly believed that it was the missile-carrying ships that turned around at that point in time, even though they had done so the day before.
+But, even a Soviet ship carrying innocuous cargo could have tested the blockade, with possibly deadly consequences.
+What the ships carried was less important in some ways than what the Americans feared they might carry.
+All intellectual property rights for material on this site are reserved.
+Without express permission all reproduction as well as all use of the material other than for consultation within the domestic and/or private circle or for publication for a strictly scientific purpose is prohibited.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 15 of 29 horror of war and offered to remove the Soviet missiles in return for an American pledge not to invade Cuba.
+The entire letter is on line as part of a large collection, and you can locate it within the collection by searching on Moscow, October 26, 1962.
+A second, public, more formal, and more demanding letter arrived the next morning.
+This saved Kennedy from having to deal, at least immediately, with objections from Turkey, and gave the appearance that he had won the contest of wills.
+Being the apparent winner had important domestic political overtones since midterm elections loomed early in November.
+Had the missile trade been publicly known, Kennedy would have been skewered by the Republicans who were still smarting from his use of a fictitious missile gap to defeat Richard Nixon in the 1960 presidential election.
+Instead, basking in the glow of seeming victory in the Cuban crisis, the Democrats performed much better in those elections than originally forecast.
+Of course, Kennedy’s advantages from this secret deal were Khrushchev’s problems.
+Although Kennedy did not have to deal with Turkey feeling publicly betrayed, Khrushchev had precisely that problem with Cuba.
+And, even though in reality Khrushchev had struck a good bargain, getting the two key concessions he wanted (a no invasion pledge from the United States and removal of the Turkish missiles), on the surface he appeared to lose.
+While other factors were also involved in his ouster as leader of the Soviet Union two years later, 22 While these days, it is usually Republicans who paint Democrats as “soft on defense,” they learned the value of doing this from Kennedy.
+On 12 November 1962, United States reconnaissance planes photographed the Soviet freighter ‘Kurchatov’ on her return to the Soviet Union.
+Missiles can be seen on the ship’s deck because the Soviets purposely uncovered them to allow the United States to monitor their withdrawal.
+The starting points for these potential initiating events occur approximately every 20 years, including after the end of the Cold War.
+Further, events such as the 2008 Georgian war (which we will study in greater detail) show that potential initiating events for non-Cuban crises are continuing to occur.
+An indepth study would catalog many more such events, rate their severity, and result in a plot of these events versus time.
+That effort would likely show variation with time, and that variation could then be brought into the analysis to produce a better estimate of the risk we face.
+In July 2008, the last potential initiating event I identified (our Eastern European missile defense system) came close to producing a full-blown crisis over Cuba.
+As discussed earlier in this handout, after the Russians indicated they would respond to that perceived threat to the credibility of their deterrent by basing bombers on Cuba, Air Force Chief of Staff, General Prof.
+The Russian response to General Schwarz’ “red line” could just as well have been to draw one of their own, or point out that they had effectively already done so when they strenuously objected to the placement of American missiles in Poland.
+Such a response would have brought us much closer to, if not into, a full-blown crisis.
+Fortunately, the Russians took a much more cautious approach, issuing a formal denial of the first press report, while still having military planes quietly visit both Cuba and Venezuela.
+Even that response could have blown up if American media, or the president’s political opposition, had picked up on it and brought it into the public spotlight.
+And, as noted earlier, the chances of that happening depend on who is president and the nature of his or her political opposition.
+If something like that were to happen now, with Obama in office, I suspect that the risk would be higher.
+An in-depth risk analysis would look at this question in more detail, but again, the preliminary evidence seems to indicate that any changes in the estimate for a potential initiating event producing a crisis will not be so large as to invalidate the need for reducing the risk.
+For example, in the past, we have benefited somewhat from Russian leaders knowing the horror of war on their own soil and tending to act more prudently as a result.
+As a new Russian generation takes power, that tendency may be reduced, increasing the risk.
+Once a major crisis has erupted, the primary question becomes the maturity level of the actors involved.
+The more mature they are, the more likely they can defuse the crisis before any nuclear weapons are used.
+What is required is an ability to 24 Some of the missile interceptors in Bush’s plan were to be based in Poland.
+In September 2009, President Obama modified the plan, at least initially moving to what many saw as a more flexible (and less threatening to Russia) sea-based system.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 19 of 29 put aside hurt pride and understand the opposing point of view – not necessarily to agree with it, but in order to respond more effectively.
+There has been some growth in human maturity over the last 50 years, with women’s rights and minority rights being indicators.
+But that growth is limited geographically and tends to be one of the first victims of war fever.
+In the later poll, 45% believed Saddam Hussein was “personally involved” in the attack.
+In a related poll also done in 2003, 44% of Americans believed that “most” or “some” of the hijackers were Iraqi citizens.
+Today’s nuclear weapons have more safeguards than those of 1962, making it harder to bypass the chain of command.
+But, once a crisis has reached major proportions, there will be strong pressure to remove those safeguards.
+If a commander in the field is facing a possibly nucleararmed adversary, he is at a major disadvantage if he must receive approval before being able to fire.
+As an example of the military’s greater concern that nuclear weapons be available for use compared to their concern that they might be used without authority, consider the following story related by Bruce Blair in 2004.
+Last month I asked Robert McNamara, the secretary of defense during the Kennedy and Johnson administrations, what he believed back in the 1960s was the status of technical locks on the Minuteman intercontinental missiles.
+What he had just learned from me was that the locks had been installed, but everyone knew the combination.
+The Strategic Air Command in Omaha quietly decided to set the “locks” to all zeros in order to circumvent this safeguard.
+During the early to mid-1970s, during my stint as a Minuteman launch officer, they still had not been changed.
+Our launch checklist in fact instructed us, the firing crew, to double-check the locking panel in our underground launch bunker to ensure that no digits other than zero had been inadvertently dialed into the panel.
+SAC remained far less concerned about unauthorized launches than about the potential of 25 Saddam Hussein was a secular dictator, who did not share power with religious elements – or any others.
+Al-Qaeda is a fundamentalist Islamic organization which wants to replace such secular governments with Islamic-based ones.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 20 of 29 these safeguards to interfere with the implementation of wartime launch orders.
+And so the “secret unlock code” during the height of the nuclear crises of the Cold War remained constant at 00000000.
+A more recent example of this unsafe approach is described in one of my blog posts from October 2010.
+When a system failure at Warren AFB in Wyoming affected fifty ICBM’s, various security protocols built into the missile delivery system, like intrusion alarms and warhead separation alarms, were offline.
+Assuaging fears that America’s nuclear deterrent might have been compromised during this failure, it was noted that the missiles still could be launched from airborne command centers.
+That sounds risky because there is an unavoidable tradeoff between the danger of not being able to launch our missiles when wanted versus accidentally launching them.
+The system design can reduce the risk of either of those errors, at the expense of increasing the other.
+A design that allows the missiles to be launched during a system failure would seem to increase the risk of an accidental launch.
+For these reasons, I suspect that an in-depth risk analysis will find little change in the odds of a new crisis crossing the nuclear threshold, even when just a Russian-American crisis is considered.
+When the new risks of nuclear terrorism and a war between India and Pakistan are factored in, it is conceivable that the odds today are even worse than they were in 1962.
+Kennedy had almost a week from the discovery of the missiles until he was forced to go public with that information and present a plan of action.
+During that time, as he thought through the implications of his initial plan to bomb the missiles, his opinion changed, and he fought off repeated calls for such action from others, notably the entire Joint Chiefs of Staff.
+Kennedy had the luxury of so much time partly because the press cooperated when he asked them to hold their stories until after his television address.
+How We Can Prevent the Crisis that Might Bring on a Nuclear War, Houghton Miflin Company, Boston, 1985, page 37.
+Hence it would seem to be just as applicable today as with respect to 1962.
+For example, my preliminary risk analysis indicates that our current nuclear strategy is at least 1,000 times riskier than living next to a nuclear power plant.
+If we agree that an acceptable level of risk would be no greater than living next to one such plant, then my analysis indicates that the risk needs to be reduced by at least a factor of 1,000.
+Moving beyond that first question, a very insightful paper on risk analysis (use this link if you cannot access the first one) by MIT’s Prof.
+George Apostolakis argues that risk analysis needs to be seen as a process, not a one-time effort, and that decisions should be risk-informed as opposed to risk-based.
+That is, risk analysis should be one of the tools brought into the decision process, but should not be thought of as a dictator, telling us exactly what needs to be done.
+Apostolakis also explains that risk analyses need to be peer reviewed and improved based on that process.
+If the best risk analysis in an area has problems, that calls for correcting those problems to the greatest extent possible, not throwing out the baby with the bath water.
+Decisions made in the absence of a quantitative risk analysis still depend on subjective estimates of the risk, but those making the decisions no longer have to justify the assumptions that support their conclusions.
+In contrast, my risk analysis of nuclear deterrence forced me to explain why I chose the numbers I did, allowing objective criticism to correct errors.
+If you disagree with my estimate of 6% per year for the rate of occurrence of potential initiating events, you can explain why you believe the evidence I presented is incomplete or inapplicable, and offer new evidence of your own.
+If you disagree with my estimate of 10% to 50% for the probability of a full-blown Cuban crisis crossing the nuclear threshold, again we can argue our positions more objectively.
+Contrast the benefit of knowing where and why we disagree in our estimates with the situation when no risk analysis is available.
+My own experience dealing with nuclear deterrence from a risk analysis perspective over the last several years has convinced me of the value of that approach, and I hope this introduction has conveyed some of the lessons I have learned.
+Risk Analysis Provides Early Warning Signs Risk analysis provides early warning signs for faulty system designs that are headed for catastrophic failure – but only if we pay attention to those signs.
+Unfortunately, history shows that society usually makes the mistake of distorting early warning signs into evidence that all is well.
+The oil industry has said the Deepwater Horizon rig catastrophe was a unique event, the result of an unprecedented series of missteps that are unlikely to be repeated.
+In the months before and after the rig exploded and sank, killing 11 and spilling millions of barrels of oil into the Gulf of Mexico, the industry was hit with several serious spills and alarming near-misses, some of them strikingly similar to what happened aboard the Deepwater Horizon.
+The Deepwater Horizon “was an isolated incident,” says Erik Milito, a senior official at the American Petroleum Institute.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 23 of 29 The failures and missed indications of hazard were not isolated events during the preparation of the Macondo well for temporary abandonment.
+Numerous decisions to proceed toward abandonment despite indications of hazard … suggest an insufficient consideration of risk and a lack of operating discipline.
+As we now know, all those early warning signs were ignored and the near misses mistakenly seen as proof that all was well.
+Ignoring early warning signs and mistakenly viewing near misses as proof that all was well also led to the loss of the Challenger space shuttle.
+The Orings on the shuttle’s booster rocket were designed to prevent hot gases from escaping from the combustion chamber.
+Ignoring the early warning signs and misinterpreting near misses as successes 27 because an accident had not yet occurred proved fatal to the Challenger’s crew.
+Prior to being destroyed by Katrina, New Orleans was known to be vulnerable to a slow moving category 3 hurricane.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 24 of 29 catastrophe.
+I do not know for sure why this early warning sign was overlooked, but suspect that successfully escaping a real near miss the year before played an important role.
+When Hurricane Ivan had a 23% chance of hitting New Orleans with disastrous results, an evacuation was ordered.
+Given the catastrophic consequences of failing to evacuate when needed, even a 23% chance of a disaster warrants evacuating.
+Many people therefore ignored the evacuation order for Katrina which had a slightly smaller 21% chance of hitting the city.
+In 2008, Hurricane Gustav triggered the largest evacuation in United States history.
+Gustav weakened before making landfall, leading one evacuee to complain, “Next time, it’s going to be bad because people who evacuated like us aren’t going to evacuate.
+It takes time to evacuate a city, so the decision must be made well before the hurricane hits, when its ultimate strength and path are only roughly known.
+An objective analysis is needed that balances the costs of the two types of error – needlessly evacuating versus not evacuating when we should – and then factors in the probability of a particular storm hitting the area in question.
+In the case of Ivan, Katrina and Gustav, I suspect such analyses would vindicate the evacuations that were ordered.
+The problem is getting society to recognize that we live in a world with imperfect information, so seemingly “needless evacuations” are needed to reduce the risk of disaster (errors of the second kind) to an acceptable level.
+The financial meltdown, from which we are still trying to extricate ourselves provides another good example of how hard it is to get society to start paying attention to early warning signs and to stop seeing near misses as proof that the systems in place are functioning properly.
+The meltdown first came to public consciousness in the summer and fall of 2008, when the nation was told that, if it didn’t provide $700 billion to Secretary of the Treasury Henry Paulson to buy mortgage-related securities, we faced a crisis that could rival the Great Depression.
+The situation was so dire that Section 8 of Paulson’s original proposal stated that all of his actions in using those funds “may not be reviewed by any court of law or any 28 One of the first things I learned as a graduate student studying decision theory is that, without perfect information, the only way to have zero errors of one kind is to have 100% errors of the other kind.
+If you cannot be 100% certain of your decision , then the only way to never “needlessly” evacuate is to never evacuate.
+That guarantees that every time you should have evacuated, you won’t, giving an error rate of 100% in that direction.
+While Congress added some oversight provisions before appropriating the funds, that section of the original proposal gives some idea of how serious matters had become.
+The figure below charts the Dow Jones Industrial Average for a five year period from 28 JAN 2006 to 28 JAN 2011.
+It shows that, until the meldown started, its potential magnitude was not appreciated even by sophisticated investors.
+While derivatives were not the sole cause of the meltdown, their use of leverage greatly amplified the damage.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 26 of 29 • Several years later, the head of the Commodity Futures Trading Commission , Brooksley Born, recognized the danger posed by derivatives, but was blocked from regulating them by Congress.
+As reported in the March/April 2009 issue of Stanford’s alumni magazine.
+He had warned in his annual letter to Berkshire Hathaway shareholders that disaster awaited those who invested in those related financial instruments.
+Even “the Oracle of Omaha,” as Buffet is often called, can be seen as a Cassandra when his warnings contradict a widespread belief that all is well.
+We view them as time bombs, both for the parties that deal in them and the economic system.
+In spite of these repeated, specific warnings (“financial weapons of mass destruction” is about as graphic as you can get) and in spite of the credibility of their sources (Buffet is widely regarded as a financial genius) society overlooked the danger, an error for which we all now are paying a heavy price.
+While no public funds were used, this should have been seen as an early warning sign that high leverage could produce systemic effects.
+Instead, the successful wind-down appears to have added to complacency that the financial system was working as planned.
+At the start of 1998, LTCM had leverage greater than 25:1 on $129 billion of debt, and derivatives tied to $1.25 trillion of financial instruments.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 27 of 29 investors can only leverage 2:1.
+Prior to the Great Depression, stocks could be leveraged 10:1, but that ratio was lowered when it exacerbated the crash of 1929.
+People continued to trust their money to risky financial institutions because they were protected by government backed insurance, and the risky institutions paid higher interest rates.
+This deregulation without de-insurance led many institutions to take outsized risks and ultimately cost American taxpayers $124 billion.
+Because the cost was not catastrophic, this early warning sign was largely neglected.
+The above evidence shows that society often overlooks catastrophic risks until it is too late.
+It was successfully attacked and entered by armed men in November 2007.
+While they were lost, these six weapons were inadequately protected from theft.
+That same day, Russia was flying strategic bombers toward the United States in an exercise.
+If the Russian military had not learned of the terrorist attack and grounded the bombers before an accident could occur, in the confusion, they might have been shot down even while outside U.S. airspace.
+Hellman, “Nuclear Weapons, Risk and Hope,” Handout #6a, STS152, AUT 2012-13, Page 28 of 29 • Both the 1991 and 1993 Russian coup attempts created dangerous conditions that also were not generally understood in the West.
+During the latter, a number of American intelligence officers at the North American Aerospace Defense Command headquarters who did understand the danger called their families and told them to leave Washington out of fear that the Russians might launch a nuclear attack.
+Ongoing tensions could produce a rematch, and Sarah Palin, reflecting the misunderstanding that plagues many Americans, has said that the United States should be ready to go to war with Russia should that occur.
+Unlike with the Gulf oil spill, the space shuttle disaster, the destruction of New Orleans by Hurricane Katrina and the economic meltdown, the consequences of a failure of nuclear deterrence would be so catastrophic that overlooking these early warning signs is not an acceptable option.
+As explained on my related web site, your involvement, coupled with in-depth risk analyses of nuclear deterrence, has the potential to play a key role in bringing the danger into clear focus before disaster strikes.
+To end this section on a positive note, in the process of combatting the ignorance and misperceptions that produce much of the nuclear risk, we will create a better world that we can be proud to pass on to future generations.
+That positive goal motivates my efforts even more than eliminating the danger, and I encourage you to think in those terms as well.
+It provides a better foundation both for one’s own mental state and for reaching out to others.

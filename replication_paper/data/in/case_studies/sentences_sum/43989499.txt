@@ -1,0 +1,12 @@
+ Custom link text can only contain alphanumeric characters and the \u0026#39;-\u00 26#39 . characters . The characters are alphanumerated characters . Custom link texts can only be used in the form of text . The text text must contain al
+ Custom link text must not exceed 40 characters in length . Use this link to help us understand our navigation system .
+ Custom link text can contain lowercase and uppercase characters and it is case-sensitive . It can be used to create a custom link text with a custom message message .
+ You can save an item by using the \u0026#39;\u2729 Save button . Use the saved item to save the most recent item in this article .
+ You cannot save more items until you visit the {SAVED_ITEMS_TMX page and remove some items . Use the weekly Newsquiz to test your knowledge of stories you need to share in the comments .
+ If this is a public computer, choose \u0026#34;Select All; and then . then . remove your Saved Items before you leave the workstation . If you want to clear all items from your workstation, clear them again .
+ "To experience full interactivity, please enable Javascript in your browser" "Click to save this item," "click to remove this item", "Close" and "Save this item" "Use this information to help you understand your collection collection history" "SITE_KEY_download
+ If you are not logged in and this is a public computer, choose \u0026#34;Select All . Select All and then remove your Saved Items before you leave the workstation . If you're not logged-in, choose Select All and remove all .
+ You can open this web page in a browser for later reference, or post it somewhere to share it somewhere . Use the comments to help you understand today's featured news stories .
+ "You\u0026#39;ve searched":"SITE_cdm_search_Key_Key: "The username or password is invalid" "Please try different search terms":""Site_error_KEY_key_1: "Error": "
+ Log in and refresh the page to access restricted or unpublished collections . Use the weekly Newsquiz to test your knowledge of stories you saw on CNN iReport .
+ Information includes the lot owner, lot location, and the date when the lot was purchased .

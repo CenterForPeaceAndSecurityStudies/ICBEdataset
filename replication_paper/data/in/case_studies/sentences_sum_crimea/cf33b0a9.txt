@@ -1,0 +1,213 @@
+ Social media users produce content in order to communicate ideas to their Ukraine–Russia war . Online political discourse can provide important clues about the political dispositions of communities, says KEYWORDS .
+ We map the evolution of russkoyazichnoe naselenie Russian-speakers’ attitudes, expressed on social media . Russian analysts might have observed them at the time .
+ The Russian-Ukrainian interstate border only moved as far as their military could have advanced while incurring no occupation costs – Crimea, and no further .
+ With no Ukrainian authority to make arrests, newly formed proand anti-government militias acted on their own accord . With the map already re-drawn, no Ukrainian authorities made arrests, no arrests .
+ Throughout 2014, these militias clashed with each other and brutalized civilians . Throughout 2014 these militias clash with each others .
+ Few of the antigovernment militias had much success seizing or holding government buildings or other symbols of power . Few of these militias had been able to seize or hold government buildings .
+ The exception to this general rule was the eastern Donbas region of Ukraine . indigenous insurgents captured the regional apparatus of the state in two regions .
+ Militias clashed, then consolidated, and, eventually, formed stable coalitions with hierarchical chains of command . Militians clashed then consolidated and formed stable Coalitions .
+ Those coalitions are today referred to as ‘the Ukrainian army’ and “the secessionist rebels’ in both academic and policy shorthand .
+ Property and industry damage is estimated in the tens of billions of dollars . The damage to property and industry is estimated to be in the thousands of billions .
+ The battles of Ilovaisk and Debaltseve are two critical junctures . Regular troops have been involved in the two battles .
+ As the war conventionalized along a territorially ﬁxed line of contact, the brutalization of civilians slowed .
+ Ethnic identities have hardened, perhaps, but not in simple ways, pitting ethicized Russians against ethicized Ukrainians .
+Civilizational and religious fault lines have not been weaponized as some pessimists predicted . Civilizational andreligious fault lines are not weaponized, as some predicted .
+ Most Russian-speakers living in Ukraine in 2014 rejected calls for rebellion against the post-Yanukovych government . Most Russians living in the country are now living in Russia .
+ Many born in historical Novorossiya went further, actively performing their Ukrainian patriotism . Many volunteered to ﬁght oﬀ an invasion .
+ It has been well documented that many proand anti-Putin ﬁghters on both sides have pilgrimaged from distant lands . It is also welldocumented that many �ághters are locally recruited .
+ Ukraine’s war pits Russian-speakers who accept the premises of the Russian state narrative against those who are inoculated against that narrative . Ukraine's war pits Russia-speaker who accept premises of Russia's state narrative.
+ Military deaths as a fraction of total rayon population on the Ukrainian side since the spring of 2014 . Military deaths have been a fraction. of total Russian military deaths since 2014 .
+ A thick line surrounds the territory of historical Novorossiya . Early predictions are producing anti-invasion/anti-Putin martyrs at a consummate with other parts of Ukraine .
+ Crimea is shown on this map and others in this paper as part of Ukraine in order to reﬂect the plasticity of interstate borders that would have been felt at the time . Crimea is also shown on the map and other parts of Ukraine .
+ Moscow policy elites in Moscow would have been considering using conventional military to move the undeclared front lines of the war .
+ Russian planners would have wanted to know if they were interested in opting out of the Ukrainian polity .
+ Russian-language social media traﬃc could have been one new source of military intelligence . We show that Russian- language social media could be one of the new sources of intelligence .
+ Our departure from previous studies is emphasizing the potential for these data to be repurposed for crisis decision-making .
+ We reconstruct a number of diﬀerent maps of social attitudes shared by Russian-speakers active on social media .
+ Our dataset contains approximately 7 million online user entries . All entries are generated within the territorial borders of Ukraine .
+ Aggregated patterns in the data we analyze provide a measure of how many self-identiﬁed Russians living in Ukraine would have favored border revision .
+ If Russian strategists were considering expansion beyond Crimea, they would have been able to use social media information to assess, says CNN .
+ The boundaries of opposition are not at all clear. But another mechanism reducing the likelihood of interethnic violence is another mechanism .
+ Maidan Square in central Kyiv became a focal point for “Euromaidan’s” protests . As the weeks passed, the protests took on an all-or-nothing anti-regime ﬂavor .
+Clashes between state security forces and armed protesters gradually produced martyrs . Clashes between police and protesters have led to the deaths of those killed .
+ Russian special forces seized Crimea a few days later . The Crimea region was seized by Russian forces .
+ The popular understanding within Russia was that its military was “coming to the defense of ethnic Russians at risk’s military was coming to defense of those at risk .
+Parts of Donets'k and Luhans’k became the front lines of the conventional war .
+ The Russian military did not send aid to militias outside of Crimea or the Donbas . The military has not sent any aid to the militias in Crimea .
+ Russia only sent conventional ground forces to assist secessionist militias in the Donbas . The Donbas had demonstrated capacity to hold government buildings for months .
+ Russia did not engage in overt kinetic military activity outside of Crimea . Russianlanguage media broadcasts during the time represent an exemplary information warfare campaign .
+ Russianspeakers within Ukraine to take advantage of the temporary window of Ukrainian state incapacitation and rise up . Another was to encourage Russianpeakers to rise up and take advantage.
+ All three triggering mechanisms were prominent in the content of Russian television coverage of post-Maidan Ukraine . All three trigger mechanisms were key to Russian TV coverage .
+ A constant barrage of news stories – including fabricated stories about Russian boys being cruciﬁed by Ukrainian far-right groups – left no doubt Russians, stranded in Ukraine, were potential hostages and under imminent threat .
+ The subordination of Russians in a new status hierarchy below Ukrainians was a reoccurring theme . The subordinated of Russians to Ukrainians in new status hierarchies was aReoccurred theme .
+Valorization of heroic resistance to Ukrainian fascism was accompanied by promises of status rewards to patriotic volunteers from across the former Soviet Union . Valorized resistance to fascist fascism was followed by promises to patriotic volunteer volunteers .
+ This gloss is not meant as a comprehensive history, simply an amuse-bouche to whet the appetite for empirical exposition . This gloss was not meant to be comprehensive history .
+After unexpected regime change in Kyiv, Russian-speakers were provided two competing narratives to make sense of the tectonic political shift .
+ These narratives contain well-understood focal points calibrated to exile one’s political enemies from respectable coalition politics .
+ Coup, Unconstitutional, Fascists Maidan Events: Revolution of Dignity points for Ukraine Post-Maidan Violence . “The appropriate Russia-Ukraine relationship, . . . natural hierarchy,’s “natural hierarchy’. “
+ By the time Russian armor intervened directly in late August at the battle of Ilovaisk, it was clear that the ease of seizing Crimea would not be repeated .
+Two primary considerations caused us to prefer Twitter to Facebook or VKontakte . The two main considerations were Facebook and VKontAKte .
+ Twitter, by contrast, was new enough at the time that it had little reputation beyond being a popular social media platform that did not censor . Twitter was a new enough to be popular enough to have a reputation beyond its reputation .
+ It contained a suﬃcient population of both pro-K Kremlin and anti-Kremlin users for analysis . The population of pro-kremlin users was analysed for analysis.
+ Multiple studies have shown that Twitter contained substantial numbers of pro-Kremlin and anti-K Kremlin accounts and tweets .
+ It was more practical for our team to acquire and work with large quantities of Twitter data than VKontakte or Facebook data in 2014 . Second, it was morepractical for us to acquire, work with Twitter data.
+ VKontakte’s API is neither well documented in English nor reliably uncensored . The API is not well documented.
+ To make responsible inferences about public opinion expressed on social media, it is necessary to contrast earnest reproduction of keywords that signal support for the Kremlin narrative .
+ Many multilingual Twitter users performed solidarity with Maidan protesters by activating their Ukrainian identity by communicating on Twitter in Ukrainian . They switched back into Russian after the success of Maidan .
+ An interpretation is that they switched back in order to participate in online information warfare – the replication of proor anti-Kremlin propaganda .
+ Russian-speaking populations are the subsample of Ukrainian citizens who would have been most salient to Kremlin strategists . Our study restricts the investigation to Russian-language content .
+ The six months in this study were marked by a series of dramatic, contentious events with their own vocabulary .
+ A few weeks after the voting exercise in Crimea, coordinated protesters occupied government buildings in the eastern Ukrainian city of Kharkiv in April .
+ There was an attempt to storm a police station in Mauripol to seize heavy weapons .
+ In early May, violent clashes in Odessa left 42 people dead when a building caught fire .
+ The framing language of ‘fascism’ and “terrorism’ was prevalent in descriptions of all these events . The framinglanguage of “fascist’s and ‘terrorism” was prevalent.
+ A Python script has all tweets from Ukraine so that each tweet in the sample contains at least one keyword from a narrative's dictionary .
+ We considered complicating our bag-of-words approach with cases and declensions . We opted for a dictionary including only nouns and adjectives in the nominative case for initial ﬁltering .
+We have no reason to believe the decision to search only in the nominative biases in the dictionary .
+After manually screening for automated accounts, this process yielded 5,328 tweets from 1,339 individual accounts . After manually screening, the process yielded more than 5,000 tweets .
+ Four native Ukrainians and three Russian-speaking residents of North America read each tweet and coded it as pro-Kremlin or anti-K Kremlin . Second, teams of Russian-speakers – four native Ukrainians, three Russians and four Russians – read the tweets and coded each tweet .
+ This second step is necessary both because irony confuses unsupervised computer classiﬁers and sometimes has poor inter-coder reliability . Visual inspection was the most reliable way to spot automated accounts, says author .
+ We searched Google, Facebook, Facebook and VKontakte for each user in our sample . To understand the demographics and professions of these users, we searched Google and Facebook .
+ Tentative results suggest that the sample skews slightly young and male, but with a bulk of accounts unidentiﬁable on these characteristics .
+ Hand-coded tweets were used as a training set on which we built each model . We used each model to train each model.
+We stemmed all words, removed stopwords, and dropped all Foursquare-account generated data . Through processes described in our online Supplementary Materials, we stemmed all Words, removedStopwords, removed all stopwords . We also removed all the Fours quare-
+ The resulting classiﬁers identify 58,689 tweets as pro-Kremlin and 107,041 as anti-K Kremlin . The resultingclassi� identities identify 58,689 tweeters as pro Kremlin.
+ A large majority of tweets to be anti-Kremlin . The keyword ﬁlter �álter.
+ The pro-Kremlin selection dictionary is much larger than the anti-K Kremlin dictionary . This result surprises, given that the pro- Kremlin selection Dictionary is much bigger than the Anti-KRussian dictionary .
+ The dotted lines in this ﬁgure divide the sample into the three periods discussed above . The dotted line is the line between the sample and the period discussed .
+ Cauterized uprisings by Russianspeakers in various parts of Novorossiya occur in late April and early May .
+ The Ukrainian Government’s ATO (‘Anti-Terrorist Operation’) is initiated in May . The ATO is the Ukrainian Government's anti-terror operation .
+ The greatest density of pro-Kremlin tweets occurred in April and May . 11 of the greatest number of anti-Maidan tweets were in April or May .
+ During this period, the Russian military had consolidated control of Crimea . It was unclear whether the Kremlin would come to the assistance of militias who had seized territory .
+ The anti-Kremlin narrative did not emerge as dominant until the government’s dedicated counterinsurgency policy transformed ‘terrorism’ into the focal point for resistance .
+ In some cases these competitive narratives “latched on’ to the same oﬄine events, providing diﬀerent frames for their description, and in other cases the narratives ‘change the subject’ and simply focus on di�
+ The Twitter Streaming API provides only 1% of tweets and thus prevents the reconstruction of full threads .
+ We must make inferences about oﬄine events based on what amount to conversation snippets . We must be more careful about what amount of conversation snippets we have .
+ Pro-Kremlin tweets promulgated the narrative that the Ukrainian military had shot down its own plane .
+ Approximately twice as many anti-Kremlin tweets as pro-K Kremlin tweets (41% compared to 20%) in our sample referenced the event .
+ The front lines, where Russian military intervention would have been operationally feasible at low cost, are of special interest . The front line, where Russia's military intervention could have been Operationally feasible, is special interest.
+ This region is where uprisings of ethnic Russians never occurred, but if they had, they might have been joined with logistical support from the Russian military .
+ The two narratives track each other relatively evenly for the ﬁrst two periods, suggesting an ongoing battle on social media for hearts and minds in Russian-speaking communities in Novorossiya in the early months of the conﬂict .
+ The Anti-Kremlin discourse clearly dominates the entire period . The Supplementary Materials show the same graph using data from all of Ukraine .
+ We also undertake two additional robustness checks to ensure that automated accounts do not drive the results from machine-learning models .
+ The Anti-Kremlin narrative dominates the Pro-K Kremlin narrative . The anti-kremlin narrative is the one even more once these tweets are removed .
+In March and early April, the pro-Kremlin narrative ebbed and ﬂowed, but was generally dominant in the Novorossiya sample . In March andEarly April, it was mostly dominant.
+ As the conventional warfare phase gets underway, the antiKremlin narrative begins to dominate . The antiK Kremlin narrative is beginning to dominate.
+ Dropping tweets on these criteria does not substantively alter our inferences . Dropped tweets on this criteria do not substantive alter ourinferences .
+We exploit variation in the prevalence of each narrative across oblasts as a fraction of overall Russian Twitter behavior . To enable spatial comparisons across Ukraine, we exploit the variation in each narrative .
+ We calculate the percentage of all Russian-language geotagged tweets originating within an oblast .
+To calculate the numerator, we repeat the oblast-level calculation for the population of tweets that contain keywords from either narrative track . To calculate the number of tweets with keywords from both narrative track and narrative track.
+ The percentage of all tweets in Russian from each oblast can be used to compare the percentage diﬀerence between Bi and Ai, and the percentage between Ci and Ai .
+ This quantity measures the overor under-production of pro-Kremlin or anti-K Kremlin tweets, against an oblast-speciﬁc production baseline . This quantity is based on the over or under- production of tweets .
+ There are enough data to make comparisons across space. So long as we observe some pro-Kremlin behavior in every oblast there is enough data for comparison .
+ The non-parametric nature of this operationalization generates two advantages, according to the author . The Non-parametrical nature of the operationalization creates two advantages .
+ It incorporates oblast-speciﬁc amounts of Russian production . Second, it avoids mechanically capturing the East–West cleavage .
+ Crimea would produce a lot of pro-Russia tweets. For example, it is not surprising that Crimea would be a popular destination for pro-Russian tweets .
+ The Russian Twitter site produces more than would be expected given its baseline production of tweets in Russian .
+Using the full sample of hand-coded data, oblast uses the full data . The full sample is used by oblast .
+ Overproduction of anti-Kremlin narratives takes place in the west, in the center Kyiv, and on the military front line.
+ The other oblasts where social media users reproduced the pro-Russia narrative were Transcarpathia, Khmel’nyts’kyy, Zhytomyr, Odessa, Dnipropetrovs’k, Kharkiv, Z
+ Overproduction of the anti-Kremlin narrative is more common in the West, but crucially, in Mykolayiv, Donets’k, and Luhans’K.
+ These areas are precisely where it would have been easiest for Russia to expand if it wanted to . These areas would be where it could have been easier to expand.
+ The Spearman rank correlation between this relative production measure and the proportion of pro-Kremlin tweets by oblast is .58.58 .
+ Many people in these supposedly pro-Russia oblasts were against Russia may have given pause to military planners . Many of these supposedly anti-Russia people may have been against Russia .
+ The EastWest dimension of the data is now much more pronounced. Second, the EastWestdimension of theData is now more pronounced .
+ Russian-language Twitter behaviors in the seven oblasts that were formerly part of the Habsburg Empire systematically underproduce the focal point keywords in the pro-Kremlin dictionary and overproduce keywords.
+ The opposite trend occurs in eight of the nine easternmost oblasts, and also in Odessa . The opposite Trend occurs in the easternmost Oblasts .
+ Mykolayiv and Luhans’k.k. The most active “front lines’ of the social media conﬂict were MyKolayv and LuHans'k. k.
+Use the full sample of machine-coded tweets by oblast . The full sample is based on a sample of Twitter messages .
+ Historical Novorossiya overproduces pro-Kremlin narratives and underproduces anti-K Kremlin narratives . The Russian government has been accused of overproducing pro-kremlin narratives .
+ Mykolayiv, Kyiv, and Luhans’k are notable for the relative overproduction of both narratives . The three men are known for their strong performances in the past .
+ Darker colors indicate a relative surge in tweets containing target keywords relative to overall Twitter traﬃc in the district .
+Spatiotemporal trends would have correlated with the oﬄine social behaviors that would have been easily visible to civilians, journalists, or embedded observers reporting to Russia .
+ All factors suggested, including a priori, hegemonic dominance of the pro-Kremlin narrative . All factors suggest, including the priori and a previousi, had been involved .
+ Data suggest that a key point of failure for a Russian ‘social tip’ towards widespread pro-Kremlin sedition occurred in Luhans’k.
+ Eventually this oblast emerged as the front line of conventional warfare . The oblast has now emerged as a front line for conventional warfare.
+ This altered the sample to reﬂect a diﬀerent set of social dynamics than elsewhere . The sample was altered to re-examine a set of social dignities .
+ The progression in the variation in Russian-speakers in Ukrainian oblasts emerges in these snapshots . A Russian intelligence analyst might have seen them .
+ Visual inspection of the 166,454 tweets in a rough time series..22.2014–03.15.2014 .
+ Occupied Sevastopol’ was to our surprise, according to these data .
+ Kharkiv, Zaporizhzhia, Dnipropetrovs’k, and Odessa, might have been tempting targets for annexation in March and April . Kharkov especially, but also Zaporizerhzhian, DNiproprop
+ There were a few attempts by pro-Russia forces to engineer uprisings . Between mid-March and late May, there were a handful of attempts by the Russian forces .
+ The anti-Kremlin tweets in Mykolayiv in period 2 probably reﬂect sentiments by residents . Residents expressed fears that Russian planners might be tempted to create a land bridge linking Crimea to Transnistria .
+After the election of Petro Poroshenko, the consolidation of the post-Maidan Ukrainian state, and the intensiﬁcation of an artillery war would have been more diﬃcult .
+ Social media users in Novorossiya continued to be relatively receptive to the Kremlin’s point of view .
+ Russian-speaking communities in Novorossiya. This interpretative exercise is not meant to be the ﬁnal word on public sentiment . It is just an exposition of how these tools could have been used by a computer-literate observer monitoring social media trends .
+ Caveats and speculations Twitter was essentially an anti-Kremlin platform in 2014 during our study period in Ukraine .
+Spatiotemporal trends in online behaviors, which we can measure from a distance, correlate with the oﬄine signaling behaviors that would have manifested in Russian-speaking communities . But it is worth re-emphasizing that extrapolating wider trends in public opinion from
+ There may well have been a hidden density of pro-Kremlin Russian-speakers that decamped from Twitter and continued to communicate on Tor, in chat rooms, on forums, or on platforms beyond the scope of our analysis .
+ Social media communications can be used to estimate levels of support for seditious political attitudes . That said, social media communication can also be used for a seditious attitude .
+ border revisions are very rare, and since social media is very new, inferential limitations should be made explicit . Since border revisions, social media should be more explicit, says the author .
+ Twitter is not a perfect substitute for representative public opinion sampling . Twitter is a great substitute for public opinion samples .
+Social media is a new technology for non-users and users . It's new, but the technology itself is new, and it's not new .
+ There is exciting behavioral work to be done, but until there is academic convergence on best practices for how to interpret spontaneous performances on social media, frontier-mapping exercises should be treated with caution .
+ Three assumptions must hold to justify online observation as measurement for oﬄine behavior .
+ It must be the case that individuals in our sample do not maintain a performance identity on social media that promulgates information contrary to oﬄine beliefs .
+ The same people should share the same ideas on Twitter as on other platforms, as around kitchen tables or on soccer .
+ Context-speciﬁc research is needed to sort extremist cheap talk on social media from sincerely held extremist beliefs .
+ Any study of community signaling behaviors tacitly assumes that the imagined audiences for tweets are local friend and family networks . Second, any study ofcommunity signaling behaviors assumes that Twitter users are local friends and family.
+ This assumption is plausible, and consistent with academic understandings . But more site-speciﬁc research is needed, says author .
+ The native population of an area must produce the bulk of the data in a sample .
+ The majority of data emanated from non-community members such as journalists or mercenaries . It would be a huge problem if the majority of the data emanates from journalists and mercenaries .
+ Strategic eﬀorts to create a false impression of local support through the use of bots or clandestine operatives could also contaminate inferences .
+ Manual inspection of the 5,328 tweets and 1,339 accounts convinced us that this study contains relatively few accounts originating from outside an oblast . But we admit caution on this point .
+ A sophisticated information operation, if prepared years in advance, could foil visual inspection of the sort that we employ in this paper . A sophisticated data operation could foil the sort of inspection that we use in the paper .
+ Our inferences assume we are measuring foreign-directed grassroots activism, not astroturf . We're not measuring foreign directed activism, we're measuring grassroots activism .
+ Weighed against the concerns of analyzing data from social media platforms . Weighed. against these concerns .
+ Unstructured data from populations that would be otherwise impossible to reach (in this case Crimea or behind lines of control in the Donbas) can be analyzed .
+ There is no attempt to claim population representativeness, so neither social desirability bias nor strategic nonresponse confounds inferences .
+ Research designs that employ social media data can compare patterns of production that occur at the same time in many places . Unlike ethnographic observation, it is limited by the range of the researcher’s own sensory equipment .
+ The most salient objection to these results is that they are not novel . The results are based on the results of a new study of the U.S. study .
+ New social media data to draw costly maps that reproduce old maps may be criticized as old wine in new bottles .
+ There are three reasons not to dismiss this paper’s methodology or results so quickly . The paper's methodology and results are not to be dismissed.
+ Russian military personnel during crisis bargaining. First, unlike a cross-sectional survey, these data mirror the series of updates that would have arrived in real time .
+ Old understandings of public opinion would have been held up under close scrutiny .
+ In that moment of crisis, no party, academic or military would have had time to collect or analyze data .
+ There were many surprises among our research team as we conducted this study. There were also surprises among the research team .
+ Most Russian speakers did not use Twitter as a forum to voice support for Russia . Outside of occupied Crimea, most Russian speakers didn't use Twitter to speak .
+ The failure of the pro-Kremlin narrative to catch on would have been an important source of military intelligence for Russian planners in 2014 .
+ Russia has begun the process of redrawing the post-Soviet territorial map . It is not clear where Russia would deﬁne the natural end-point to its irredentism .
+ Russian mechanized units could have moved quickly to establish facts on the ground if they had expected to arrive in Russia .
+ The front lines of Ukraine’s conﬂict could easily be many kilometers farther west . The front line of Ukraine's Con�ctict could be many miles away .
+ Russian diplomats invoked familiar “responsibility to protect’s arguments . Some claim that Russia did not go farther because its leadership feared international censure .
+ The information that military planners needed for a more ambitious policy, but did not have, is whether they were likely to encounter resistance .
+ The Russian-Ukrainian interstate border moved only as far as Russian forces could advance while incurring no occupation costs – Crimea, and no further .
+Social media is intrinsically worthy of study, says John Sutter . Sutter: Social media enables irredentist mobilization is intrinsically worthwhile of study .
+ Social media has underappreciated implications for revisionist powers trying to assess occupation costs . If we are correct, social media have implications for Revisionist powers .
+Until the recent proliferation of inexpensive smartphones, states did not have the capability to reliably measure ‘memetic demand’ in real-time . States didn't have the ability to reliably and systematically measure “memetic Demand’s’.
+ Our empirical results suggest that this capability probably already exists . Our results suggest this capability may already exist .
+ The master cleavage of this war is the East–West (RussophoneUkrainophone) division . The design is calibrated to illuminate intra-Russian-speaking discordant politics .
+ Our tests assume that Russian-speaking civilians were purposive agents competing with each other to explain the many unexpected political upheavals in Ukraine during the study period .
+ Social media behaviors are public signals analogous to scrawling graﬃti, whistling a patriotic tune on a bus, talking loudly about politics in a public setting .
+ Social media users add content to platforms in order to communicate ideas to their social network . The prevalence of overtly political behaviors can provide important clues about the political dispositions of the community .
+ Russian military actions in 2014 were altered as a result of re-purposing social media trends for military intelligence . We present no evidence supporting the claim that Russian military action was altered .
+ Social media data are straightforward to analyze systematically and can be collected at a relatively low cost . Social mediaData can be analyzed systematically and is easy to analyze and collect .
+ Following Kostyuk and Zhukov, we favor the analogy between information warfare techniques and airplanes at the start of the First World War .
+ planes were used primarily for reconnaissance before they were used to drop bombs . Recall that planes were primarily used for reconnaissance .
+ Conventional militaries are just beginning to explore the ways that emergent information technologies can shape battle. Conventional military forces are just starting to explore ways to shape battle .
+ As techniques for real-time data mining become commodiﬁed, they will be integrated into best practices for counterinsurgency and military planning .
+Russian military actions in Crimea will continue to be disputed . How much popular support there was for Russian military actions within the permanent population of Crimea will remain disputed .
+ Russia’s narrative reinforced analogies to World War II . “NATO” with “Nazis’ using consonant repetition, substituting “Germany” for “the EU,” the explicit claim that Maidan was a CIA coup, etc
+ The classiﬁes 204,189 tweets as concerning either narrative, 144,776 of which are anti-Kremlin .
+ The tweet was created on the app Foursquare . Validating the output showed many were of the form of “I’m at ,’s at .”
+ No Foursquare tweets had appeared in the hand-coded data . This confound was not discovered until the referee process .
+ The study did not change results substantively, but we rely on the smaller dataset excluding Foursquare data for all analyses in this paper . Simply removing all tweets that start with “I’m at” (a total of 37,735)
+ Vladimir Putin in the epigraph, openly questioning the legitimacy of the border between Ukraine and Russia, was delivered with scripted sincerity .
+ We did not aggregate to a lower geographic level, such as city or raion, because of lack of tweets available in our hand-coded sample . We also wanted to subdivide the data into smaller bins by time period .
+ Crimea produced 4.3% of all Russian-language tweets, but it produced 10.93% of the pro-Kremlin narrative . For example, in one period, Crimea produced 3.2% of Russian tweets .
+ Our method would calculate that it produced 154.19% / more pro-Kremlin tweets than the baseline expectation . The method is based on the fact that the Kremlin tweeted 154.9% more than expected .
+ Results are robust to an alternative model speciﬁcation in which the denominator is the percentage of all geotagged tweets originating from within each oblast regardless of language .
+ Twitter users are not representative of the entire population, says Twitter user . Russian annexation was overwhelmingly popular with the population, according to the data .
+Mykolayiv, Kyiv City, and occupied Sevastopol’ are also sites of contestation . Mykolaysiv,Kyiv City and Kyiv city are also Sites of Contestation .
+ No public polling during this period in Crimea, Luhans'k, or Donets’k. Yet we are aware of no public polling.
+ The shortcomings of social media should be weighed against the ability to conduct studies that danger would otherwise forbid . Social media should also be considered as a good way to conduct research .
+ behaviors on Twitter replicate known oﬄine phenomena such as Dunbar’s Number and diurnal patterns of activity . We are cautiously comfortable with this assumption .
+ Ganna Grebennikova, Aleksandr Karpekov, Yaroslav Makarov, Anton Prokopyev, and Iuliia Puchko Wilson. Acknowledgement for excellent research assistance .
+ We thank Dominique Arel, Rex Douglass, James Fearon, James Fowler, Erik Gartzke, Steve Hanson, Jon Lindsay, Margaret Roberts, Phil Roeder, Jacob Shapiro, Branislav Slantchev, Barbara Walter and Jeremy Weinstein .
+ The editor and two anonymous reviewers helped improve the paper at multiple steps . The editor, two anonymous reviewer and the editor helped improve it at several steps .
+ Translation and transliteration choices for proper nouns from Russian or Ukrainian into English in the main text are somewhat haphazard and ought not be decoded as taking sides in philology wars .
+ Testimony Presented before the House Armed Services Committee on March 22, 2017 .
+ Kelly, V Barash, K Alexanyan, B Etling, R Faris, U Gasser, and J Palfrey. Kelly, J., VBarash, V. Barash and J. Palfreys are all from the same group .
+ Techniques and Counter-Strategies to Russian Propaganda in Central and Eastern Europe. Techniques and counter-strategies.
+ Legatum Institute. Center for European Policy Analysis , Information Warfare Project, is based in London .
+ Britain and Ireland, France, France and Algeria, Algeria, Israel and the West Bank-Gaza .

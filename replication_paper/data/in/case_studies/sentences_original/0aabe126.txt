@@ -1,0 +1,199 @@
+This term is often used in public forums without precise understanding of its full meaning, or of the dynamics and risks of the strategy it involves.
+And while most game theorists have an intuitive understanding of the theory underlying it, they rarely carry it to the point of writing down a model that captures the specifics of the crisis, let alone putting any numbers into it that will give us a rough idea of how big that risk of nuclear war was.
+In the belief that theory should constantly make a better contact with reality, and should give us not just qualitative but also quantitative understanding, we offer here an analytic narrative of the crisis, leading to a model where we can get some numbers out.
+A threat is a response rule, and the threatened action inflicts a cost on both the player making the threat and the player whose action the threat is intended to influence.
+However, if the threat succeeds in its purpose, this action is not actually carried out.
+Therefore, there is no apparent upper limit to the cost of the threatened action.
+But the risk of errors—that is, the risk that the threat may fail to achieve its purpose or that the threatened action may occur by accident—forces the strategist to use the minimal threat that achieves its purpose.
+You create in advance a probability, but not certainty, that the mutually harmful outcome will happen if the opponent defies you.
+Therefore you must arrange in advance to lose control over the realization, while controlling the probability.
+Brinkmanship is the creation and deployment of such a probabilistic threat; it consists of a deliberate and controlled loss of control.
+Then we argue why a simple explanation – a threat from the United States that compelled the Soviet Union to withdraw the missiles – is inadequate.
+Then we build a model of brinkmanship as a dynamic or “real-time” version of chicken, or a war of attrition, and solve it numerically to get an idea of the rough magnitudes involved.
+Brief Narrative of Events Our account draws on several books, including some that were written with the benefit of documents and statements released since the collapse of the Soviet Union.
+We cannot hope to do justice to the detail, let alone the drama, of the events.
+We urge you to read the books that tell the story in vivid detail, and watch movies like Thirteen Days for the drama.
+In late summer and early fall of 1962, the Soviet Union started to place mediumand intermediate-range ballistic missiles in Cuba.
+The MRBMs had a range of 1,100 miles and could hit Washington, D.C.; the IRBMs, with a range of 2,200 miles, could hit most of the major United States cities and military installations.
+The missile sites were guarded by the latest Soviet SA-2–type surface-to-air missiles , which could shoot down United States highaltitude U-2 reconnaissance planes.
+There were also IL-28 bombers and tactical nuclear weapons called Luna by the Soviets and FROG by the United States, which could be used against invading troops.
+Allison remains important not only for its narrative, but also for its analysis and interpretation.
+Our view differs from his in some important respects, but we remain in debt to his insights.
+Had they been successful, it would have increased their offensive capability against the United States manyfold.
+Their initial placement in Cuba had about 40 MRBMs and IRBMs, which was a substantial increase.
+But the United States would still have retained vast superiority over the Soviet Union in the number of nuclear missiles capable of striking the other side.
+Also, as the Soviets built up their submarine fleet, the relative importance of land-based missiles near the United States would have decreased.
+But the missiles had more than mere direct military value to the Soviets.
+Successful placement of missiles so close to the United States would have been an immense boost to Soviet prestige throughout the world, especially in Asia and Africa, where the superpowers were competing for political and military influence.
+Finally, the Soviets had come to think of Cuba as a “poster child” for socialism.
+The opportunity to deter a feared United States invasion of Cuba and to counter Chinese influence in Cuba weighed importantly in the calculations of the Soviet leader and Premier, Nikita Khrushchev.
+U.S. surveillance of Cuba and of shipping lanes during the late summer and early fall of 1962 had indicated some suspicious activity.
+When questioned about it by United States diplomats, the Soviets denied any intentions to place missiles in Cuba.
+Later, faced with irrefutable evidence, they said that their intention was defensive, to deter the United States from invading Cuba.
+It is hard to believe this, although we know that an offensive weapon can serve as a defensive deterrent threat.
+An American U-2 “spy plane” took photographs over western Cuba on Sunday and Monday, October 14 and 15; they showed unmistakable signs of construction on MRBM launching sites.
+He immediately convened an ad hoc group of top-level advisers, 3 later called the Executive Committee of the National Security Council , to discuss the alternatives.
+He decided to keep the matter totally secret until he was ready to act, mainly because if the Soviets knew that the Americans knew, they might speed up the installation and deployment of the missiles before the Americans were ready to act, but also because spreading the news without announcing a clear response would create panic in the United States.
+To preserve secrecy, the President continued his normal schedule, including travel to speak for Democratic candidates in the upcoming midterm congressional elections.
+He dodged press questions abut Cuba and persuaded one or two trusted media owners or editors to preserve the facade of business as usual.
+Different members of ExComm had widely differing assessments of the situation and supported different actions.
+Kennedy pointed out that the first placement, if ignored by the United States, could grow into something much bigger and that the Soviets could use the threat of missiles so close to the United States to try to force the withdrawal of the U.S., British, and French presence in West Berlin.
+During the two weeks that followed, they would be joined by or would consult with several others, including the United States Ambassador to the United Nations, Adlai Stevenson; the former Secretary of State and a senior statesman of United States foreign policy, Dean Acheson; and the Chief of the United States Air Force, General Curtis LeMay. 4 this purpose.
+Khrushchev thought Kennedy would accept the missile placement as a fait accompli.
+In all ExComm meetings up to and including the one on the morning of Thursday, October 18, everyone appears to have assumed that the United States response would be purely military.
+The only options that they discussed seriously during this time were an air strike directed exclusively at the missile sites and the SAM sites nearby, a wider air strike including Soviet and Cuban aircraft parked at airfields, and a full-scale invasion of Cuba.
+If anything, attitudes hardened when the evidence of the presence of the longer-range IRBMs arrived.
+Between October 18 and Saturday, October 20, the majority opinion within ExComm gradually coalesced around the idea of starting with a blockade, simultaneously issuing an ultimatum with a short deadline , and proceeding to military action if necessary after this deadline expired.
+Some people held the same positions throughout these discussions (from October 16 through 21)—for example, the military Chiefs of Staff constantly favored a major air strike—but others shifted their views, at times dramatically.
+President Kennedy’s own positions also shifted away from an air strike toward a blockade.
+Although his reasons undoubtedly were mainly military and geopolitical, as a good politician he was also fully aware that a weak response would hurt the Democratic party in the imminent congressional elections.
+In contrast, the responsibility of starting an action that might lead to nuclear war weighed very heavily on him.
+In the second week of the crisis , his decisions seemed constantly to favor the lowest-key options discussed by ExComm.
+By the end of the first week’s discussions, the choice lay between a blockade and an air strike.
+Kennedy made the decision to start by imposing a blockade and announced it in a television address to the nation on Monday, October 22.
+He demanded a halt to the shipment of Soviet missiles to Cuba and a prompt withdrawal of those already there.
+Kennedy’s speech brought the whole drama and tension into the public arena.
+Other world leaders and the usual busybodies of international affairs offered advice and mediation.
+Between October 23 and October 25, the Soviets at first tried bluster and denial; Khrushchev called the blockade “banditry, a folly of international imperialism” and said that his ships would ignore it.
+The Soviets, in the United Nations and elsewhere, claimed that their intentions were purely defensive and issued statements of defiance.
+This exploration included some direct messages from Khrushchev to Kennedy.
+It also included some very indirect and lower-level approaches by the Soviets.
+In fact, as early as Monday, October 22—before Kennedy’s TV address—the Soviet Presidium had decided not to 6 let this crisis lead to war.
+The missiles in Turkey were obsolete; the United States wanted to remove them anyway and replace them with a Polaris submarine stationed in the Mediterranean Sea.
+But it was thought that the Turks would regard the presence of United States missiles as a matter of prestige and so it might be difficult to persuade them to accept the change.
+The Soviet Presidium ordered the ships carrying the most sensitive materials to stop or turn around.
+The United States side saw only that several Soviet ships (which were actually carrying oil and other nonmilitary cargo) continued to sail toward the blockade zone.
+A tanker was allowed to pass without being boarded; the tramp steamer Marucla carrying industrial cargo was boarded but allowed to proceed after only a cursory inspection.
+But tension was mounting, and neither side’s actions were as cautious as the top-level politicians on both sides would have liked.
+On the morning of Friday, October 26, Khrushchev sent Kennedy a conciliatory private letter offering to withdraw the missiles in exchange for a United States promise not to invade Cuba.
+First, the United States Navy was not being excessively aggressive in enforcing the blockade.
+It had let through some obviously civilian freighters; they boarded only one ship, the Marucla, and let it pass after a cursory inspection.
+Khrushchev sent another letter to Kennedy on Saturday, October 26, offering this swap, and this time he made the letter public.
+The new letter was presumably a part of the Presidium’s strategy of “looking around” for the best deal.
+The hardening of the Soviet position, as shown by the public “Saturday letter” that followed the conciliatory private “Friday letter,” was another concern.
+This discovery showed the Soviet presence there to be vastly greater than thought before, but it also made invasion more dangerous to United States troops.
+In addition, Cuban anti-aircraft defenses fired at low-level United States reconnaissance planes.
+A tough private letter to Khrushchev from President Kennedy was drafted and was handed over by Robert Kennedy to the Soviet Ambassador in Washington, Anatoly Dobrynin.
+The U.S. missiles in Turkey will be removed after a few months, but this offer is void if the Soviets mention it in public or link it to the Cuban deal.
+On the morning of Sunday, October 28, just as prayers and sermons for peace were being offered in many churches in the United States, Soviet radio broadcast the text of a letter that Khrushchev was sending to Kennedy, in which he announced that construction of the missile sites was being halted immediately and that the missiles already installed would be dismantled and shipped back to the Soviet Union.
+Kennedy immediately sent a reply welcoming this decision, which was broadcast to Moscow by the Voice of America radio.
+In fact, the construction activity at the Cuban missile sites continued for a few days.
+They also tried to keep the IL-28 bombers in Cuba out of the withdrawal.
+Inadequacy of Simple Game-Theoretic Explanation At first sight, the game theory of the crisis looks very simple.
+The prospect of nuclear annihilation was equally frightening to Kennedy, but that is in the nature of a threat.
+All that is needed is that the threat be sufficiently costly to Khrushchev to induce him to act in accordance with Kennedy’s wishes; then Kennedy doesn’t have to carry out the bad action anyway.
+But a moment’s further thought shows this interpretation to be unsatisfactory.
+One might start by asking why the Soviets would deploy the missiles in Cuba at all, when they could look ahead to this unfolding of the subsequent game in which they would come out the losers.
+They must have thought it possible that the United States would accept the missiles as a fait accompli, just as they themselves had accepted United States missiles in Turkey.
+This belief may have been bolstered by their perception that President Kennedy had appeared weak, both during his meeting with Khrushchev in Vienna and during the Bay of Pigs episode in 1961.
+And the members of ExComm were never sure about how the Soviets would respond to various United States actions.
+Thus we have to allow asymmetric information about the other side’s payoffs into a game-theoretic analysis.
+But even more important, several facts about the situation and several events in the course of its unfolding do not fit into the picture of a simple threat.
+As we pointed out before, the idea that a threat has only a lower limit on its size—namely, that it be large enough to frighten the opponent—is correct only if the threatener can be absolutely sure that everything will go as planned.
+You cannot know your opponent’s value system for sure, and you cannot be completely sure that the players’ intended actions will be accurately implemented.
+Your opponent may defy it, requiring you to carry out the costly threatened action; or your opponent may 5 We do not mean that the United States would have immediately launched a nuclear attack on the Soviet Union, but that a United States air strike on the missiles or an invasion of Cuba to remove the missiles would have started a sequence of events – a Soviet attack on Berlin, NATO’s inability to stop it using conventional forces, and so on – that would almost surely have culminated in nuclear war between the superpowers. 10 comply, but the threatened action may occur by mistake anyway.
+When such risks exist, the cost of threatened action to oneself becomes an important consideration.
+Neither side could be sure of the other’s payoffs—that is, of its relative valuations of winning or losing the cold war and the costs of a hot war.
+Also, the procedures and details of “blockade” and “air strike” were much more complex than the simple phrases suggest, and there were many weak links and random effects between an order in Washington or Moscow and its implementation in the Atlantic Ocean or in Cuba.
+Allison’s excellent book brings out all of these complexities and uncertainties.
+They led him to conclude that the Cuban missile crisis cannot be explained in game-theoretic terms.
+It is not that game theory is inadequate for understanding and explaining the crisis; rather, the crisis was not a two-person game—United States versus USSR, or Kennedy versus Khrushchev.
+Each of these two “sides” was itself a complex coalition of players with differing objectives, information, actions, and means of communication.
+The players within each side were engaged in other games, and some members were also directly interacting with their counterparts on the other side.
+In other words, the crisis can be seen as a complex many-person game with alignments into two broad coalitions.
+Kennedy and Khrushchev can be regarded as the top-level players in this game, but each was subject to constraints of having to deal with others in his own coalition with divergent views and information, and neither had full control over the actions of these others.
+We argue that this more subtle game-theoretic perspective is not only a good way to look at the crisis, but also essential in understanding how to practice brinkmanship.
+We begin with some items of evidence that Allison emphasizes, as well as others that emerge from other writings.
+First, there are several indications of divisions of opinion on each side.
+On the United States side, as already noted, there were wide differences within ExComm.
+In addition, Kennedy found it necessary to consult others such as former President Eisenhower and leading members of Congress.
+The media and the political opposition would not give the President unquestioning support for too long either.
+Kennedy could not have continued on a moderate course if the opinion among his advisers and the public became decisively hawkish.
+Individual people also shifted positions in the course of the two weeks.
+Most important, the United States military chiefs always advocated a far more aggressive response.
+Even though Khrushchev was the dictator of the Soviet Union, he was not in full control of the situation.
+There were limits to how far he could count on the Presidium to rubber-stamp his decisions.
+Various parties on the United States side had very different information and a very different understanding of the situation, and at times this led to actions that were inconsistent with the intentions of the leadership or even against their explicit orders.
+The concept of an “air strike” to destroy the missiles is a good example.
+The nonmilitary people in ExComm thought this would be very narrowly targeted and would not cause significant Cuban or Soviet casualties, but the Air Force intended a much broader attack.
+As for the blockade, the United States Navy had set procedures for this action.
+There was similar lack of information and communication, as well as weakness of the chain of command and control, on the Soviet side.
+For example, the construction of the missiles was left to the standard bureaucratic procedures.
+The Soviets, used to construction of ICBM sites in their own country where they did not face significant risk of air attack, laid out the sites in Cuba in a similar way, where they would have been much more vulnerable.
+All these factors made the outcome of any decision by the top-level leaders on each side somewhat unpredictable.
+A dire threat of waging nuclear war would be too large for Kennedy to tolerate and therefore not credible to compel Khrushchev; the uncertainty can be used to make the threat probabilistic and credible.
+The risk should be high enough that Khrushchev will comply, but low enough that Kennedy can tolerate it.
+The difficulty in practicing brinkmanship is to control, within these lower and upper bounds, the probability that the threat goes off if the opponent does not comply.
+And in the Cuban missile crisis, the risks were rapidly rising out of the control of the top leaders on both sides.
+Ellsberg was astounded to hear much higher estimates of the probability of war offered by more senior people in ExComm, but later realized that they were correct.
+He and other relatively junior participants had not known to what extent the top people were losing control of the situation.
+At numerous points—for example, when the United States Navy was trying to get the freighter Marucla to stop and be boarded—the people involved might have set off an incident with alarming consequences by taking some action in fear of an immediate threat to their own lives.
+The firing rule required the approval of three officers, only two of whom agreed.
+So the third officer may have single-handedly prevented all-out nuclear war.
+A U-2 plane drifted “accidentally” into Soviet air space and almost caused a serious setback.
+General Curtis LeMay, acting without the President’s knowledge or authorization, ordered the Strategic Air Command’s nuclear bombers to fly past their “turnaround” points and some distance toward Soviet air space to positions 6 This story became public in a conference held in Havana, Cuba, in October 2002, to mark the 40th anniversary of the missile crisis.
+A participant there, Vadim Orlov, who was a member of the Soviet submarine crew, identified the officer who refused to fire the torpedo as Vasili Arkhipov, who died in 1999.
+On the same day an overflying United States U-2 plane was shot down by a Soviet surface-to-air missile; a lower-level local commander interpreted his orders more broadly than Moscow had intended 1997, 682).8 **** FIGURE 2 ABOUT HERE **** Each day the crisis continued, the probability of nuclear war was increasing, and the top leaders were losing control over it.
+Combine this rising risk of disaster with each side’s uncertainty about the other’s payoffs, and we have a game of dynamic or real-time chicken, also called the war of attrition in game theory literature.
+Instead of the two teenagers of the Chicken “story” driving their cars toward each other while the risk of a collision increases, testing each other’s bravery in deciding when to swerve, we have leaders of the two major powers of the day, testing each other’s resolve as the risk of armageddon increases.
+The risk of catastrophe increases over time, and cannot be controlled by either party except by conceding.
+Brinkmanship – A Game Of Real-Time Chicken The war of attrition is usually modeled as a game in continuous time (e.g.
+We develop a discrete-time 7 LeMay, renowned for his extreme views and his constant chewing of large unlit cigars, is supposed to be the original inspiration, in the 1963 movie Dr.
+Strangelove, for General Jack D Ripper, who orders his bomber wing to launch an unprovoked attack on the Soviet Union.
+For overviews and critiques of these, see O’Neill and Zagare . 15 version, both to simplify numerical calculations and to fit the story, so the game has thirteen steps, one for each day of the crisis.
+With probability the game goes on to step 𝒏 + 𝟏 .11 In conformity with the evidence, detailed in Section 2, that the players had very poor control over the level of risk at any point, we take these probabilities to be exogenous.
+The only endogeneity is whether the players will choose to continue the game to the next higher level of risk.
+But some control over the probabilities themselves may be worth exploring in future work.
+We assume that the value of winning 𝑾 and the cost of losing 𝑳 are fixed and common knowledge.
+Since a player would never concede if his realized 𝑪 is less than 𝑳, the implied probability that each side is so hard-line is now 𝑳/𝑪max ; this will guide our choice of numbers in the numerical solution.
+A player at the soft extreme of the distribution (with a high cost of catastrophe 𝑪 close to 𝑪max ) would concede quickly.
+Then at this step only those players with 𝑪 in the interval remain, among whom those in the interval concede.
+As written, gives a form more useful for the backward iteration needed in our numerical solution.
+Therefore given , in the present case is also true , and there is no need to impose it separately.
+Numerical solution of the Cuban missile crisis “game” We solve the above model numerically, using parameter values in the context of the Cuban missile crisis.
+This is just a guess, but perhaps reasonable given the magnitude of the catastrophe.
+We tried values of 𝑪max ranging from 5 to 20 and the results do not change substantially.
+On Sunday October 28, the risk rises to 1.000 because if Khrushchev had not conceded that day , US invasion plans would have gone into effect.
+For easy reference, we include a brief summary of major events of each day in the second column.
+The third column shows the rising 15 We experimented with a range of values of Cmax and the other parameters, and found broadly similar results.
+Readers may wish to conduct their own experiments; that is easy to do using a spreadsheet.
+In column 4 we have the threshold levels of C such that a player with C above it would concede at that stage.
+We emphasize that the numbers we put into the model are guesses, albeit informed by the narration of events.
+Therefore the numbers that emerge in the solution must be regarded as only rough indicators of the reality of the situation, and subject to much discussion and correction.
+First, we see why Khrushchev may have embarked on this adventure at all.
+He clearly put significant value on the prestige that a victory in this confrontation would yield to the USSR (and to him as its leader) in other communist countries, in the third world, and in many countries of the Western bloc as well.
+It would also strengthen his position in other confrontations with the US, especially over Berlin.
+So he may have had a low C relative to L Combine this with the likelihood that he thought Kennedy to be weak , based on his assessment formed during their meeting in Vienna in 1961, and during the Bay of Pigs episode the same year.
+Secondly, we must infer that both sides in fact must have been very hard-line to have lasted as long as they did without conceding.
+However, it is also possible that both sides underestimated the risk of war for quite a while, and only the near-collisions that occurred in the last two days of the crisis brought home to them the facts of how far they had lost control of the situation.
+In Column 6, the conditional probability of disaster on the Saturday is high enough that McNamara’s fear as he left the White House that beautiful Fall evening “that might be the last sunset I saw” is 21 understandable.
+And in Column 7, the cumulative probability of disaster over the whole duration of the crisis becomes high enough that we should indeed be thankful that it did not end in a nuclear disaster.
+Practicing Brinkmanship In the Cuban missile crisis, the very features that make it inaccurate to regard it as a twoperson game make it easier to practice brinkmanship.
+The blockade was a relatively small action, unlikely to start a nuclear war at once.
+But once Kennedy set the blockade in motion, its operation, escalation, and other features were not totally under his control.
+Rather, he was implicitly saying, “The wheels of the blockade have started to turn and are gathering their own momentum.
+The longer you defy me, the more likely it is that some operating procedure will slip up, the domestic political pressure will rise to a point where I must give in to the hawks, or some military guy will run amok.
+I may be unable to prevent nuclear war, no matter how much I may regret it at that point.
+And Khrushchev was making similar implicit statements to Kennedy until he did concede.
+We believe that this perspective gives a much better and deeper understanding of the crisis than can most analyses based on simple threats.
+It tells us why the risk of war played such an important role in all discussions.
+If, as you are increasing the level of risk, your opponent does comply, you must be able to “go into reverse” very fast—begin reducing the risk immediately and quite quickly remove it from the picture.
+If the Soviets feared that Kennedy could not control hawks such as LeMay , they would gain nothing by giving in.
+To reemphasize and sum up, brinkmanship is the strategy of exposing your rival and yourself to a gradually increasing risk of mutual harm.
+The actual occurrence of the harmful outcome is not totally within the threatener’s control.
+However, the loss of control must itself be controlled; the probability of disaster should remain within certain bounds that make the risk acceptable to the threatener.
+This is difficult to achieve, and in the last couple of days of Cuban missile crisis the situation came close to becoming totally uncontrolled for the two principals.
+As this process continues, update your estimates of the opponent’s payoffs.
+It appears that in the Cuban missile crisis both sides initially greatly underestimated the opponent’s toughness, and updated their estimates in the light of continued defiance but almost too late.
+Retain enough control over the situation to control the risk of catastrophe – high enough to gain the opponent’s compliance and low enough to be tolerable to you.
+Remain alert for signs that the situation is getting out of your control, and be ready to reassert control and de-escalate.
+In the Cuban crisis Khrushchev’s realization of this came almost too late; it is not clear whether the United States leadership ever fully realized it; certainly not the military commanders.
+Theory of Metagames and Political Behavior; MIT Press: Cambridge, MA, USA, 1971.
+Payoffs of Row player at step 𝒏 < 𝑵 29 Probability Cumulative Probability Probability of disaster probability Date of disaster that each Concession at this step of disaster (October Major Events at this step player threshold (conditional up to and 1962) if neither concedes at on it being including concedes this step reached) this step 15 U2 photos show MRBM missile sites 16 JFK briefed, convenes ExComm 0.010 9.852 0.015 0.010 0.010 17 New overflight, evidence of IRBMs 0.025 9.120 0.074 0.021 0.030 18 0.040 7.971 0.126 0.031 0.055 ExComm continues meetings.
+Differences of 19 0.050 6.853 0.140 0.037 0.080 opinion, changes of mind.
+Their Presidium meets in secret and decides 22 0.100 4.329 0.143 0.073 0.186 they will eventually withdraw but will first explore best possible deals in exchange.
+Some Soviet ships 24 approaching quarantine line stop or reverse, 0.200 2.889 0.182 0.134 0.297 others continue.
+Castro authorizes anti-aircraft fire on low-flying US 26 reconnaissance flights.
+Soviet junior officer 0.500 1.801 0.227 0.299 0.456 in Cuba nearly fires missile at overflying U2 while boss is away from desk.
+NSK's's hardline letter , JFK independently offers this as secret deal in letter RFK hands over to Dobrynin.
+Soviet sub crew 27 0.750 1.416 0.214 0.464 0.531 considers firing nuclear torpedo; but fails in required unanimity of 3 officers.

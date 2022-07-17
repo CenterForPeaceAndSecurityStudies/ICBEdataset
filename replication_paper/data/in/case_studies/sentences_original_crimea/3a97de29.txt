@@ -1,0 +1,601 @@
+All manuscripts are reviewed by at least two other experts in the field to ensure the high quality of the publications.
+In addition, publications undergo professional language checking and editing.
+The responsibility for the views expressed ultimately rests with the authors.
+About the author András Rácz is Senior Research Fellow at the Finnish Institute of International Affairs in Helsinki.
+Until 2014 he worked at the since disbanded Hungarian Institute of International Affairs.
+He was a member of the European Foreign and Security Policy Studies Programme of the Volkswagen Foundation, and was Visiting Fellow at the Transatlantic Academy of the German Marshall Fund in Washington D.C. in 2011–2012.
+In April 2014, separatist riots broke out in Eastern Ukraine, following a very similar pattern to those in Crimea.
+Well-trained, heavily-armed men appeared in Donetsk and Luhansk,1 and started to organize demonstrations and take over public administration buildings and police stations by claiming that they were local separatists dissatisfied with the new Kyiv leadership.
+The capture of the first major buildings in Donbass was quickly followed by the proclamation of the so-called Donetsk and Luhansk People’s Republics, two non-recognized separatist entities.
+All these actions were accompanied by a strong and intensive, well-coordinated diplomatic, economic and media campaign both in Ukraine and abroad, also supported by pressure exerted by the large Russian military units lined up along the border with Ukraine.
+The highly-trained separatist forces, together with their local allies, were able to completely disable the functioning of the Ukrainian state administration in Crimea, and the peninsula was soon annexed by Russia, without any gunshots targeted at people.
+The rapidly unfolding Crimea crisis shocked both the newly established Ukrainian government and the Western world.
+The unprecedented, very efficiently coordinated actions of Russian soldiers, pro-Russian local separatists, the Russian media and diplomacy were described by many experts as an example of hybrid warfare.
+Where the name of a settlement differs in Ukrainian and Russian, the Ukrainian variant is used, in respect of Ukraine’s state language and territorial integrity.
+Even though it is fairly obvious, for the sake of academic clarity, it should be pointed out that the present report is based on the theoretical assumption that the Russian Federation has been an active participant in the conflict in Eastern Ukraine from the very beginning, although official Russian sources keep claiming the opposite.
+Unlike in the case of Crimea, Moscow never admitted to the involvement of Russian regular armed forces in Eastern Ukraine.
+However, Russian support for the insurgency in Eastern Ukraine was evident from the start.
+The most effective units of the Donetsk and Luhansk separatist movements consisted of the same highly-trained and disciplined, well-equipped ‘polite green men’, wearing Russian uniforms and using Russian military equipment similar to that used in Crimea.
+All of this evidence confirms that Russia has been an active supporter of the insurgency in Eastern Ukraine.
+Derived from the first, the second research question is focused on the operational prerequisites for the Russian hybrid war.
+From the perspective of methodology, an inductive approach was adopted in order to try to draw general conclusions from the concrete events observed in Ukraine.
+In actual fact, induction is one of the few available options, as hybrid war in all its complexity was little heard 2 Such as T-72BM tanks, BM-21 2B26 multiple-launch rocket systems and advanced 96K6 Pantsyr air defence vehicles.
+Although the concept of hybrid warfare was not new, the way Russia implemented it was indeed a novelty.
+Consequently, policy-oriented literature on hybrid warfare was practically nonexistent until the Crimea operation; few theoretical works have been published to date.
+Following the Crimea crisis, however, the international expert community has started to analyse the events, although the topic is still something of a ‘moving target’, as many details are not yet known.
+The adoption of an inductive approach almost automatically leads to a problem with regard to sources.
+Throughout the research phase, the reliability of the available sources has constituted a serious problem.
+This was due in part to the effect often referred to as ‘the fog of war’, that is, the lack of tactical information on what is happening on the ground.
+The other, more serious reason has been the intensive information measures — more commonly referred to as propaganda — continuously conducted by both the Ukrainian and Russian sides.
+Hence, the critical analysis of resources has been of crucial importance throughout the research.
+While using information provided by Ukrainian and Russian channels and also the national media, efforts have consistently been made to verify it by means of independent sources.
+News reports delivered on the ground by independent Western journalists and social media networks, such as Facebook and Twitter, proved to be particularly useful fact-checking sources.
+Monitoring the oftentimes real-time reporting via social media provided in-depth insights into daily life in the territories affected by the fighting, which would have been impossible to obtain from any other source.
+Needless to say, a critical, cautious approach had to be adopted in these cases as well.
+Other valuable sources included witness reports collected by various organizations and media channels, as well as public information from the OSCE Monitoring Mission.
+In addition, analyses and policy papers written by independent outside experts turned out to be highly useful.
+Primary sources connected to either the Ukrainian or Russian government sides turned out to be more useful for support purposes than for fact-based research.
+The only notable exception was the strategic map published daily by the National Security and Defense Council of Ukraine.
+These maps, available in both Ukrainian and English, painted a remarkably accurate picture of the strategic INTRODUCTION 13 situation, although they were understandably of limited use at a tactical level.
+NSDC maps were generally honest and accurate in depicting both the successes and defeats of the Ukrainian forces, and consequently turned out to be very useful sources, at least in the period under examination.
+It studies the events in Ukraine in detail only between February and August 2014.
+The starting point is the power change in Kyiv that followed the EuroMaidan and provoked Russia to launch the Crimea operation, which was later openly admitted by President Vladimir Putin.
+The end point of the research is August 2014, when due to the success of Ukraine’s AntiTerror Operation against the separatists, Russia had to send a massive number of regular forces to Eastern Ukraine in order to prevent the defeat of its proxies.
+This resulted in the collapse of the border defence on a long section of the Ukraine-Russia border and also in the decisive defeat of ATO forces at Ilovaysk.
+However, since August 2014, the conflict has been transformed from a hybrid war into a conventional interstate war, albeit of limited size and scope.
+This does not mean that elements of hybrid warfare have completely disappeared from the Russian political and military inventory, but rather that the general character of the conflict has indeed changed.
+Consequently, the research does not focus on the events that took place before the February 2014 change of power either, and deals with them only to the extent that is necessary in order to understand the way in which hybrid warfare functions.
+Developments taking place in Ukrainian domestic politics in the period under scrutiny are also touched upon only briefly.
+All in all, the report concentrates on the practical aspects of the implementation of Russia’s hybrid war.
+In addition, the author takes it for granted that the basic timeline of the events in Ukraine is known, thereby eliminating the need for extensive, chronological footnoting.
+First, a brief overview is provided on the development of asymmetric warfare theory.
+The second chapter focuses on hybrid war theory, as well as the Russian concept of new-generation warfare.
+The third part is dedicated to the extant academic and policy-related literature on this new form of Russian warfare.
+The fourth part concentrates on defining the main components and phases of Russia’s hybrid war, based on the Crimea and Donbass experiences.
+In the fifth chapter, the prerequisites for hybrid warfare are examined.
+The report ends with a sixth, concluding 14 RUSSIA’S HYBRID WAR IN UKR AINE chapter, where recommendations are also made for launching a defence against hybrid warfare.
+Lastly, I would like to express my gratitude to Gudrun Persson, Mark Galeotti and Peter Mattson for their constructive ideas on hybrid warfare presented in various conferences during 2014 and 2015, as well as to my colleagues at the Finnish Institute of International Affairs for their support.
+This particularly applies to Juha Mäkinen for his help with the editing and to Lynn Nikkanen for her excellent work as language editor.
+All errors remaining in the text are solely the author’s responsibility.
+The development of asymmetric warfare theory in the 19th and 20th centuries While a comprehensive overview of the history of asymmetric warfare would clearly exceed the length of the present report, an introduction to the development of asymmetric warfare is called for in order to properly contextualize Russia’s hybrid war in Crimea, and to understand the extent to which Russia’s hybrid warfare constituted a theoretical and operational novelty.
+The well-known Prussian political thinker and soldier, Carl von Clausewitz , stated in his famous work On War that ‘War is merely the continuation of policy by other means’,3 where the original German term Politik means both politics and policy combined.
+Clausewitz clearly recognized that war is just a tool, but not the objective itself, when he stated that ‘War is thus an act of force to compel our enemy to do our will’.4 Furthermore, in On War Clausewitz makes a clear distinction between the objectives of various forms of warfare.
+One such objective is aimed at beating the enemy by defeating its army and conquering its territory.
+The objective of another type of warfare is to achieve the desired political goals by exhausting the enemy’s forces, but without aiming either for a decisive military victory or the conquest of territory.
+The first type could be termed direct warfare, as pointed out by Hungarian military theorist Balázs Forgács6 using the classical categorization of Basil Liddell Hart, because it intends to achieve 3 C Clausewitz, On War.
+The second type of warfare Forgács describes as indirect, because it intends to achieve the desired political objectives without destroying the enemy’s forces or conquering enemy territory.
+Indirect warfare has been typical of irregular armed forces conducting asymmetric operations, because for the weaker side exhausting the enemy’s army is a more rational objective than trying to defeat it.
+Consequently, asymmetric warfare in most cases has been able to achieve only indirect results, namely exhausting the enemy, but not completely destroying its forces, or capturing enemy territory.
+Clausewitz argued that successful irregular warfare — what he called ‘people’s war’ because he described it as a widespread uprising — could be effective only if five key conditions were met.
+Second, the war needed to be carried out in the heart of the country, thus behind the main frontlines.
+Third, the war could not be decided by a single catastrophe, meaning basically that irregular forces have to refrain from becoming engaged in open, decisive battles.
+Fourth, the insurgence has to occupy a considerable part of the country, and fifth, the character of the given nation has to be suitable for a people’s war.
+Karl Marx and Friedrich Engels also contributed to the thinking on asymmetric warfare, while combining it with their theory about the working-class revolution.
+In his work entitled Defeat of the Piedmontese, published in 1849, Engels openly criticized the Piedmontese uprising because the insurgents wanted to fight against the Austrian regular army in a regular way, on the open battlefield, and thus were defeated.
+Mass uprising, revolutionary war, guerrilla detachments everywhere — that is the only means by which a small nation can overcome a large one, by which a less strong army can be put in a position to resist a stronger and better organised one.
+Engels explained that a massive uprising that could mobilize the whole province would have been able to counter the superior training and equipment of regular Austrian troops, by its size, by the smart exploitation of geographical conditions and by relying on continuous guerrilla warfare.
+Lawrence, popularly known as Lawrence of Arabia, wrote extensively about his asymmetric warfare experiences against the Ottoman Turkish Army.
+He pointed out that terrain conditions, namely the vast desert impassable for Turkish regular forces but easy to cross for more mobile Arab irregulars, played a key role in his victory.
+Yugoslav Communist partisan leader Josip ‘Broz’ Tito also wrote extensively about the importance of the rough terrain that allowed his forces to avoid open confrontations with larger, better-equipped German units, and to strike at their weaker points instead.
+So did Chinese Communist leader and military commander Mao Zedong, who described mountains and hard-to-pass river areas as the best places for guerrilla bases11.
+THE DEVELOPMENT OF ASYMMETRIC WARFARE THEORY IN THE 19TH AND 20TH CENTURIES 21 T h e r e l ation bet w een r egu l a r and i r r egu l a r forces Lawrence, Mao and Tito all argued that irregular guerrilla forces alone are often unable to defeat the enemy.
+According to Lawrence, ‘irregular troops are as unable to defend a point or line as they are to attack it’,12 if they have to fight against regular forces.
+Hence, during the whole Arab uprising Lawrence and his Arab allies strove to set up a regular Arab army able to cope with Turkish forces.
+Meanwhile, cooperation and coordination with British regular units were necessary13 in terms of logistics, supplies, intelligence, and sometimes also fire support.
+This experience was shared by the Soviet and Yugoslav partisans, as well as the French resistance fighters during the Second World War.
+Although irregulars were able to bog down considerable enemy forces and could sometimes inflict serious damage, strategic victory was achieved not by the partisans, but by the advancing regular allied armies.
+Mao Zedong paid a lot of attention to the question of how regular and guerrilla armies need to cooperate and fight together.
+He separately examined how coordination should function in terms of strategy, during concrete campaigns and also at the tactical level in individual battles.
+He argued that the concrete command structure should depend on the tasks to be achieved, but strategic command had to be unified.
+He described the proper relation between the regular army and partisan units as ‘two arms of a man’.17 12 Lawrence, op. cit., 3.
+In many of his works, Lenin advocated the idea that an armed insurrection by the working class would be necessary to seize power.
+As the working class was concentrated in urban areas, Lenin was the first to define the city as a possible terrain for asymmetric, ideology-led partisan warfare against the suppressive central power.
+In his work Lessons of the Moscow uprising, he made detailed recommendations about how barricades were to be set up and how regular army soldiers were to be combated by well-organized workers’ units.
+He further developed the use of propaganda as well, by promoting the need for its continuous, systematic use in a detailed and concentrated way.
+In connection to the latter, he often asserted that a revolution should endeavour to make the government troops change sides, primarily by means of tailored propaganda as well as personal agitation.
+Lenin spoke openly about the need to assassinate the enemy’s political and military leaders, by stating that ‘ruthless extermination of civil and military chiefs was our duty during an uprising’.21 Although attempts to kill military leaders have always featured in military history, promoting the need to destroy civilian leaders as well was basically advocating the inclusion of terrorist methods in the inventory of asymmetric warfare.
+Needless to say, Lenin was not the first to promote terrorist actions against political leaders because 19thcentury revolutionaries such as Mikhail Bakunin had already done so.
+However, Lenin was the first to integrate terrorist methods into the wider context of asymmetric, urban warfare against the central authorities.
+THE DEVELOPMENT OF ASYMMETRIC WARFARE THEORY IN THE 19TH AND 20TH CENTURIES 23 The guerrilla tactics of urban warfare were perfected by Brazilian Leftist revolutionary Carlos Marighella.
+In his book entitled Minimanual of the Urban Guerrilla,23 published in 1969, Marighella argued that cities were the best places for guerrilla warfare because the very functionality of state institutions could be disabled there, by seizing or destroying political and administrative buildings.
+Based in part on his own practical experiences, Marighella gave very detailed tactical advice on urban warfare, including how to seize enemy weapons, how to set traps for members of the police force, and so on.
+He advocated the use of small, highly mobile and flexible, but well-trained teams, which eluded capture by the slower and more rigid police force.
+Instead of open confrontations, he preferred ambushes, surprise actions and terrorist attacks against the political, police and military leadership of the central power.
+Not only have hundreds of journal articles and tens of thousands of news reports24 referred to it, but the expression has also been adopted by NATO.25 However, it should be noted that the expression originally had a different meaning.
+Hence, it is necessary to briefly trace the development of both the concept of hybrid war and of Russia’s so-called new generation war in order to understand the military theory behind the origin of the war in Ukraine.
+The aim is not to provide a full historical overview, but to list the main milestones in its theoretical development.
+The Russian variant, ‘гибридная война’, resulted in no fewer than 235,000 hits.
+The hybrid war in Chechnya Nemeth argued that Chechen society was in a hybrid situation between a pre-modern and contemporary state, where the architecture of the modern society was built upon the basis of a traditional, pre-state clan and family ties.
+This structure enabled Chechens to mobilize their society for war and provide widespread support for the fighting through family ties.
+The field commanders who emerged could also rely on the loyalty originating from kinship relations in addition to military virtues and demonstrated success against the Russians.
+What is more important from the perspective of the current study is that from this hybrid society a hybrid form of warfare emerged, which combined elements of regular and irregular warfare in a highly flexible and efficient way.
+The Chechens were successful in synthesizing elements of Western and Soviet military doctrines with guerrilla tactics and the sophisticated use of modern technology.
+Reliance on their intimate knowledge of the terrain and the background support of clan and kinship relations played an important role in their strong resilience.
+Their warfare put great emphasis on flexibility, enabling the Chechens to quickly shift gear from guerrilla warfare to more conventional, direct tactics and back again, depending on the Russian moves.
+A seemingly amorphous, but deliberately structured, coordinated, strategic way to strike from all directions at a particular point or points by means of a sustainable pulsing of force and/or fire, close in as well as from stand-off positions… swarming will work best – perhaps it will only work – if it is designed mainly around the deployments of myriad, small, dispersed, networked maneuver units.
+In addition to their highly flexible operational tactics the Chechens also used psychological and information operations against the Russian forces.
+Their detailed knowledge of Russian culture and fluency in Russian made their information operations very effective.
+Meanwhile, due to close kinship and religious ties as well as ethnic homogeneity, Chechen society turned out to be largely impervious to Russian propaganda efforts.
+Besides undermining the morale of Russian soldiers, Chechens were able to drum up considerable political support and sympathy in the West as well.
+Again citing Arquila, Nemeth states that, for Chechens, the war signified much more than the battlefield itself.
+Instead, they perceived it in a wider, non-linear sense and hence, in addition to field tactics, they also employed all the means of the information age to gain an advantage over their enemies.
+At the same time, as the hybrid nature of Chechen society is hard for outsiders to understand, so was hybrid warfare, which hampered the operational capabilities of Russian military intelligence.
+THE EMERGENCE OF THE HYBRID WAR CONCEPT IN MILITARY THEORY 29 terrorism, massacres, extremely inhumane treatment of prisoners, and criminal methods as well.
+All in all, the term ‘hybrid warfare’ in Nemeth’s work basically signified a society-specific way of warfare, which combined irregular and regular tactics with modern information measures.
+As the Chechen wars were the focus of his study, he made little effort to explore implications of wider relevance than the specific Chechen case.
+However, as will be demonstrated later, certain elements of the Chechen ‘hybrid warfare’ may well have influenced the contemporary Russian hybrid warfare, particularly when it came to the overall perception of the war.
+Hybrid wars in Vietnam, Afghanistan, Iraq and Lebanon Nemeth’s theories were further developed by John McCuen in his authoritative article published in the March-April issue of the Military Review in 2008.33 According to McCuen, contemporary hybrid wars are fought on three decisive fronts.
+The first of these is the conventional battleground, where one needs to face both symmetric and asymmetric threats.
+The second is the battleground of the population of the attacked country, where the often alienated and hostile locals need to be convinced, while the third front is composed of the home population and the international community, whose support is also essential, particularly in the case of long, protracted wars.
+To secure and stabilize the indigenous population, the intervening forces must immediately rebuild or restore security, essential services, local government, self-defense forces and essential elements of the economy.
+Hence, the standard, sequential approach of conventional warfare, which was based on the logic of firstly defeating the enemy’s regular forces, secondly securing control over the territory, and then starting state-building and reconstruction was inadequate in contemporary hybrid conflicts.
+Moreover, due to the interconnected nature of the three fronts, failure in any of the three may well result in the overall failure of the whole operation.
+By analyzing the conflicts in Vietnam, Afghanistan and Iraq in depth, McCuen pointed out that the enemy decided to target the local population because they clearly recognized their own inability to defeat the United States military.
+Instead of trying to seize and control territory, they concentrated on the human terrain, namely both on the indigenous and the home front population.
+Their strategy was based on the desire not to defeat the United States army, but to prolong the conflict until the growing dissatisfaction of the local population forced the United States military to retreat.
+In order to extend the conflict, locals needed to be kept alienated from the United States forces, while dissatisfaction was to be induced on the home front mainly via information measures.
+Consequently, according to McCuen, in order to win a hybrid conflict, combat victories and territorial gains need to be immediately followed by massive efforts to build security, governance, infrastructure and stability in the conquered territories.
+Otherwise, the enemy would be able to fill the vacuum created by the advancing US forces, thereby creating a lasting, protracted insurgency based on the support of dissatisfied locals, and possibly of outside powers.
+This is a lesson which might resonate in Ukraine as well, if and when Kyiv is able to regain full control over the separatist regions.
+In addition to Afghanistan and Iraq, experiences of the 2006 war in Lebanon have also contributed to the development of hybrid war theory.
+The surprising success of Hezbollah against the well-trained and equipped Israeli Defence Forces attracted the attention of military theorists.
+THE EMERGENCE OF THE HYBRID WAR CONCEPT IN MILITARY THEORY 31 Hybrid threats incorporate a full range of different modes of warfare including conventional capabilities, irregular tactics and formations, terrorist acts including indiscriminate violence and coercion, and criminal disorder.
+Hybrid wars can be conducted by both states and a variety of non-state actors.
+These multi-modal activities can be conducted by separate units, or even by the same unit, but are generally operationally and tactically directed and coordinated within the main battlespace to achieve synergistic effects in the physical and psychological dimensions of the conflict.
+Hoffman also pointed out that even though traditional wars could also include both regular and irregular elements, these occurred in different places or in different formations.
+However, in a hybrid war all the above-listed elements act in a coordinated, coherent way.
+Hence, for the external observer as well as for the enemy, they may become blurred into a single force acting in a single, comprehensive battlespace.
+The key to hybrid warfare is convergence and coordination, which allow the various actors to act together in order to achieve a synergistic effect.
+Hoffman also concluded that the efficiency of hybrid warfare is also due to the growing destruction potential of modern weapon systems.
+Another important point raised by Hoffman is that hybrid wars do not herald the demise of conventional warfare, but indeed represent a complicating factor in defence planning.
+In other words, the emergence of hybrid threats does not make older tools and methods of conventional warfare obsolete and unnecessary.
+Instead, they add a new layer of threats which a modern armed force needs to be able to counter.
+Any adversary that simultaneously and adaptively employs a tailored mix of conventional, irregular, terrorism and criminal means or activities in the operational battlespace.
+Rather than a single entity, a hybrid threat or challenger may be comprised of a combination of state and non-state actors.
+Hence, even in 2009 there was little that was new in the combined use of state and non-state actors, as well as the simultaneous appearance of conventional, irregular methods as well as terrorism and criminal means.
+It is worth pointing out, however, that even this definition concentrated only on the various ways of using force and violence, and thus did not consider the use of political, diplomatic and economic tools.
+An adversary that simultaneously and adaptively employs some combination of political, military, economic, social, and information means, and conventional, irregular, catastrophic, terrorism, and disruptive/criminal warfare methods.
+The main novelty of Glenn’s definition is that it already took into account the use of non-violent political, economic and other means as well.
+Hence, striking similarity may be observed if one compares this definition to the field events in Crimea and Eastern Ukraine.
+In the spring and summer of 2014, Russian forces and proRussian separatists in Ukraine employed all the measures listed by Glenn.
+The only exception unseen in Ukraine is catastrophic terrorism, as well as natural or man-made disasters that cause extreme damage to the population, environment, society, infrastructure and governmental functions,41 such as blowing up a major river dam or a nuclear power plant.
+THE EMERGENCE OF THE HYBRID WAR CONCEPT IN MILITARY THEORY 33 However, the above-mentioned definition was not adopted by all.
+In 2012 a whole collection of essays was published about hybrid warfare, edited by Williamson Murray and Peter R Mansoor.
+Williamson, Mansoor and the contributing authors perceived and described hybrid warfare by concentrating on the combat actions of military and irregular forces, while paying much less attention to the social and information aspects.
+In their opinion, hybrid war was akin to classical joint forces operations, which involved infantry, artillery, cavalry and other service branches.
+Hybrid warfare was thus ‘a useful construct to analyze conflicts involving regular and irregular forces engaged in both symmetric and asymmetric combat’.43 They firmly declared that hybrid war was not changing the face of war; it was merely changing the way forces engage in its conduct.
+Consequently, as they focus almost exclusively on combat operations, their work is of limited relevance in describing the conflict in Ukraine, the main particularity of which was the very limited use of direct force.
+Russia’s ne w-gene r ation wa r fa r e In line with Western developments, Russian military thinkers have also studied the changes taking place in the nature of warfare in depth, and the emergence of new forms of combat.
+In keeping with the previous sections, the goal of the present report is not to provide a full overview of the developments of Russian military thinking, but to highlight some of the milestones that led to the warfare witnessed in Ukraine in 2014.
+He predicted that due to the increased range of missile and artillery systems, in a future war the depths of enemy territory could easily be penetrated in an attack.
+In his book, Gareev frequently refers to the works of various Western scholars, demonstrating that Russian military science has been fully aware of, and able to monitor, react to and further develop the ideas of counterparts in the West.
+Gareev pointed out that technological development made the methods and means of information warfare much more sophisticated than before.
+New computers and communication systems allow the swift collection of information and short-reaction command and control.
+He forecasted the widespread use of electronic warfare, aimed at disrupting the functionality of enemy communication, radar systems and command and control.
+He also argued that new information warfare methods may well imply that, instead of a direct armed attack, the struggle may get transformed into a hidden, latent, undeclared war.
+THE EMERGENCE OF THE HYBRID WAR CONCEPT IN MILITARY THEORY 35 high-precision weapon systems in the depths of enemy territory.
+The focus will be on destroying military, political and economic targets, particularly the command and control infrastructure, without directly engaging enemy forces in a conventional attack.
+The document reflected many changes in modern warfare already mentioned by Gareev and others, including the fact that in-depth precision strikes and long-range fire combat are going to replace close-contact fighting, the increasing importance of information warfare, the emergence of global communication networks in command and control, and the need to employ combined strike capabilities.
+These ideas about future armed conflicts were significantly developed by General Valery Gerasimov, Chief of the General Staff of the Russian Federation, in the journal Voenno-promishlenniy kurier, published in 2013.50 By referring to the experiences of the Arab Spring, Gerasimov described a new form of warfare, called “new generation warfare”, which concentrates on the combined use of diplomatic, economic, political and other non-military methods with direct military force, instead of waging open war.
+The Russian general argued that the importance of non-military means in reaching political and strategic goals has increased; moreover, they are often more efficient than arms alone.
+Gerasimov foresees the concealed, non-open use of force, such as paramilitary and civilian insurgent units, and emphasizes the need to rely on asymmetric, indirect methods.
+He urges that, besides the physical reality, war should include the information space as well, where the real-time coordination of the means and tools used is possible.
+He puts great emphasis on targeted strikes conducted well behind enemy lines and on the destruction of the enemy’s critical infrastructure, regarding both its military and civilian elements, preferably in a short timeframe.
+Gerasimov advocates the massive use of special forces and also of robotized weapons, such as drones.
+Furthermore, although it is far from classical military theory, mention should also be made of an article by Russian presidential advisor Vladislav Surkov, written under his frequently used pseudonym, Nathan Dubovitsky.
+The essay speaks about a future war, which involves everybody and everything, all aspects of life, while still remaining elusive in its main contours.
+It is probably no coincidence that the article was published on 12 March 2014, only a few days before the official Russian annexation of Crimea.
+Since then, Russian military theorists have continued to discuss new generation warfare.
+The authors declared the Gulf War to be the first ‘new generation conflict’ in human history and use it to illustrate their thesis about the characteristics of this type of warfare, along with the general concept of network-centric warfare.
+The authors concur with Gerasimov in stressing the high importance of asymmetric actions aimed at neutralizing the enemy’s military superiority through the combined use of political, economic, technological, ecological and information campaigns.
+By referring again to the Gulf War, the writers point to the need for integrating all these tools into a single, shared system of command and control in order to multiply their efficiency.
+Similarly to Gerasimov, Chekinov and Bogdanov continue the defence narrative, describing new generation warfare as an operation possibly conducted by the United States or the West.
+They write very explicitly about the need to massively employ non-military methods prior to and during an armed confrontation.
+THE EMERGENCE OF THE HYBRID WAR CONCEPT IN MILITARY THEORY 37 the target country.
+They also accuse the United States of operating a specialized internet ‘troll’ army and of using Facebook and Twitter for propaganda purposes.
+The authors highlight the need to gain information superiority over the target country, both by conducting intensive propaganda prior to the actual attack, and by the continuous use of electronic warfare methods to disable enemy communication, command and control capabilities.
+Hence, EW is transforming from a combatsupport activity into an important form of combat operation.
+Their forecast is that the main battleground for new-generation wars will be the information space.
+According to the authors, new-generation wars will be dominated by psychological and information warfare aimed at crushing the morale of enemy troops and the population, thus breaking their will to resist.
+In addition, they predict that in future wars the widespread use of non-traditional forms of fighting can be expected, such as weapons able to influence the weather or trigger earthquakes,57 as well as the increased use of robotized, possibly autonomous weapon systems.
+The opening period starts with an extremely intensive, months-long coordinated non-military campaign launched against the target country, including diplomatic, economic, ideological, psychological and information measures.
+Deceiving and bribing governmental and military officers in the target country is an important way of decreasing the functionality of enemy armed forces in advance.
+The authors also anticipate the arrival of international militants in the target country to exacerbate the situation.
+Directly prior to the start of the military phase, large-scale reconnaissance and subversive missions are to be expected, which use all possible means and methods of information gathering, ranging from diplomatic signalling tools to espionage in order to locate and map out enemy military units, key governmental facilities and critical infrastructure.
+This is to be followed by a full-scale electronic warfare operation, an ‘electronic knockdown’ aimed at disabling the enemy’s government and military.
+Immediately thereafter, the real military attack would begin, probably with a massive aerial operation involving precision missiles, drones and other automated weapons, as well as long-range artillery.
+According to the authors, by the end of the opening phase, the enemy country would have its main government and military control centres destroyed, and critical infrastructure heavily damaged to such an extent that it would be rendered ungovernable.
+The next, closing phase of a new generation war would see the attacker’s regular ground forces entering the target country, in order to isolate and destroy the remaining points of resistance.
+This second phase is much less detailed; in contrast to the several pages dedicated to the opening phase, the closing phase constitutes only one paragraph.
+This reinforces the impression that Chekinov and Bogdanov consider the first, predominantly non-military phase of the conflict to be much more important than the second.
+There is a striking similarity between the new generation war theoretically described by Chekinov and Bogdanov in 2013 and the events that took place in Ukraine in 2014, particularly prior to and during the Russian operation in Crimea.
+As the authors prescribed, a several-months-long non-military preparatory campaign against Ukraine must have started well before the EuroMaidan, in mid-2013 at the latest, but probably even earlier.
+THE EMERGENCE OF THE HYBRID WAR CONCEPT IN MILITARY THEORY 39 that time, which is indeed a rare case in military history.
+However, this did not help the new Ukrainian leadership that came to power in February 2014 to stop the hybrid war and prevent the Russian annexation of Crimea.
+From what can be reconstructed, the term hybrid war did not emerge immediately after the start of the Russian operation in Crimea.
+While the elusive, indirect and highly effective warfare conducted by the Russian forces took not only Ukraine but the whole world by surprise, experts and journalists were casting around for expressions to describe this suddenly emerging, unprecedented phenomenon.
+When the Russian operation unfolded in late March, even the leading military and defence affairs journal Jane’s had not yet come up with a concrete name, but spoke only about a ‘novel approach’ to warfare.
+So did Latvian expert Jānis Bērziņš in his April 2014 study, which was one of the first comprehensive analyses of the new Russian warfare being waged in Crimea.
+Even long after the Crimea operation, several expressions have been used in parallel.
+Peter Pomerantsev used the expression ‘non-linear war’ in Foreign Policy in May 2014,63 referring to the already-cited work of Vladislav Surkov.
+The same ‘non-linear war’ term was used by Mark Galeotti, leading expert on Russian security structures in his essay published in July,64 based on the logic of warfare put forward by Gerasimov.
+In August, the well-known security, defence and intelligence blog The XX Committee simply spoke about a ‘special war’66 in describing the Crimea and Donbass operations.
+The use of the term hybrid war didn’t gain traction until summer 2014, although there were several mentions before that.
+Dutch General Frank van Kappen called the Russian operations a hybrid war on 26 April 2014.67 Russian political scientist and former advisor to President Vladimir Putin, Andrei Illarionov, also mentioned the term in June 2014, pointing out the importance of information warfare in this new mode of warfare.
+A breakthrough in the discourse came when NATO decided to adopt the expression.
+Shortly thereafter in August, the Washington Post also used the term,70 followed by the use of the expression ‘hybrid warfare’71 more than once and as a well-elaborated, comprehensive term during NATO’s Wales Summit in late September.
+It should be noted, however, that in addition to the increasingly dominant role of NATO’s hybrid war discourse, new, alternative terms are also emerging.
+They proposed this expression because, as they argued, Russia uses several military and non-military means under a single central command, subordinated to a centrally-defined political goal, and a number of means are not at all of a military or violent nature, such as food bans.
+Further, the use of conflict instead of war also better reflects the varying degrees of ambiguity and intensity in Russia’s actions.
+According to the authors, this is in stark contrast to the more binary Western interpretation, which perceives the absence of armed fighting as peace.
+All in all, concerning the terminology to be used when describing Russia’s new mode of warfare as deployed in Crimea and in Eastern Ukraine, one may conclude that the expression hybrid war has become the most commonly used term.
+This occurred notwithstanding the fact that, strictly from the military science point of view, hybrid war originally had different, albeit related meanings.
+The fact that NATO adopted the term surely contributed to its wider use.
+Hence, the present report will keep using the term hybrid war, while bearing in mind that the meaning of academic expressions may well develop and get transformed over time.
+Hybrid war has already undergone such a transformation, well before Crimea.
+The original concept coined by Bill Nemeth referred to the flexible, half regular, half irregular warfare of the Chechens in 1994–1996, but later evolved to describe the combined warfare of relying on conventional arms, irregular warfare, methods of terrorism and organized crime, as applied by Hoffman, for example, when talking about Iraq.
+The same transformation of meaning is taking place once again, as hybrid war is gradually becoming the preferred term to describe Russia’s operation in Crimea and in Eastern Ukraine.
+In addition to all of the above, it is also important to note the article by Lawrence Freedman published in the December 2014–January 2015 issue of Survival.
+Freedman argued75 that while from April 2014 the situation could be described as an externally sponsored insurgency in Eastern Ukraine, or as a hybrid war, this changed with the massive involvement of regular Russian forces in August 2014.
+Hence, he applied the term limited war to describe the post-August phase of the conflict.
+All in all, it is worth pointing out that the original denotations of hybrid war are not capable of completely describing the Russian warfare in Ukraine.
+Probably the most important difference is that in Ukraine a state, namely Russia, has been using hybrid warfare, while in all previous cases these tools were used by non-state actors.
+Hence, Russia’s operations in Ukraine have been much wider than any earlier analysts of hybrid wars could have imagined.
+They included influencing even the highest levels of policymaking and the use of diplomatic and macroeconomic measures as well, none of which was mentioned in the earlier definitions – precisely because earlier analysts of hybrid warfare thought mainly about nonstate actors, incapable of conducting high politics.
+In contrast to the earlier studies, Russia’s hybrid warfare was not concentrated solely on the battlefield or in the operational theatre; instead, the main emphasis was put on other, non-military methods, which mitigated the necessity for an armed confrontation.
+In order to properly understand the way in which this functions, the relevant literature needs to be studied first.
+Russia’s hybrid war in the literature The conflict in Ukraine, starting with the operation in Crimea and continuing with the one in Eastern Ukraine, attracted massive media and expert attention.
+However, particularly in the initial weeks that followed the occupation of Crimea, it was mostly journalists who monitored and commented on the events, as well as politicians, of course.
+The expert community required more time to provide in-depth analysis that went beyond the level of merely reporting on the movements of the ‘polite green men’ and their local allies.
+The Washington-based Center for European Policy Analysis first reacted to the annexation of Crimea in late March 201476 with a report that pointed to the vulnerability of Central and Eastern Europe.
+The authors argued that Russia certainly has the military capabilities and may also have the political will to carry out rapid, limitedobjective military strikes, which would make NATO face a fait accompli situation in the region.
+The paper also recognized that Article 5 of the Washington Treaty cannot provide a suitable defence against the Russian tactics used in Crimea.
+However, while they rightly assessed the strategic significance of the Crimea operation, CEPA experts did not address the Russian tactics, namely the hybrid war itself.
+However, as they rightly noted, such risks would not necessarily prevent the Kremlin from conducting another intervention – which eventually occurred in Eastern Ukraine.
+Probably the first, more detailed study on the new, unprecedented form of Russian warfare was prepared by Latvian expert Jānis Bērziņš in April 2014.78 Bērziņš mostly referred to the article by Russian authors Valery Gerasimov, Sergey Chekinov and Sergey Bogdanov about the new generation of warfare mentioned in the previous chapter, and also further developed Peter Mattson’s analysis of the new operational concept executed by the Russian armed forces.
+Bērziņš devised a categorization composed of eight consecutive phases of new generation warfare, based primarily on the guidelines provided by Chekinov and Bogdanov.
+In addition, he made numerous recommendations about how Latvia should defend itself against hybrid warfare.
+In June 2014 the International Centre for Defence and Security in Estonia provided a detailed analysis of the involvement of the Russian military and special forces in both Crimea and Eastern Ukraine.
+The paper was based on the available primary sources, mainly on photographic and video evidence.
+In addition to documenting the Russian involvement as such, the ICDS paper also proved that some of the units seen in Crimea were later put into action in Eastern Ukraine as well.
+Galeotti called this approach an ‘Aesopian’ one, where defence means offence, and repelling an attack actually means attacking.
+Presenting the Arab Spring – wrongly – as the result of covert Western operations allows Gerasimov the freedom to talk about what he wants to talk about: how Russia can subvert and destroy states without direct, overt and large-scale military intervention.
+Somewhat at odds with Galeotti’s post-Crimean interpretation, Gudrun Persson argued as early as December 2013 that Gerasimov meant exactly what he had written, namely that the new wars, which might be similar to the Arab Spring, may pose a serious threat to Russia, particularly because Russian military science lags far behind that of the United States.
+Galeotti also noted the great importance Gerasimov attached to the coordination between various state agencies, as well as between military, intelligence and information operations.
+Further, he identified several points in Gerasimov’s arguments that were consistent with the discourse and actions of the Soviet Union.
+In fact, several authors concluded that hybrid warfare actually contained little novelty.
+Several elements that were used in Ukraine constituted integral parts of the Soviet political-military inventory.
+J Hedenskog – C Vendil Pallin , Russian Military Capability in a Ten-Year Perspective – 2013.
+RUSSIA’S HYBRID WAR IN THE LITER ATURE 49 the government of independent Estonia, by taking over strategic locations, governmental institutions and communication networks.
+Paul Goble,85 as well as Vitaly and Dmytro Usenko,86 compared the Russian aggression against Ukraine to the Winter War between Finland and the Soviet Union in 1939–1940, and found a number of spectacular similarities.
+Both attacks were carried out despite existing treaties on non-aggression, and the first strikes were delivered by deploying special forces, which attacked bridges, roads and command, control and communication infrastructure.
+On the other hand, Moscow did, and also has been doing, its best to conceal the losses of these undeclared wars, often even from the very families of the killed or injured.
+As Roy Allison concluded,88 Russia’s efforts to justify its actions with false and misused legal claims need to be systematically countered and deconstructed, otherwise Moscow may further fracture the international legal order already damaged by the annexation of Crimea.
+As well as recognizing the similarities with earlier historical examples, Popescu concluded that the real novelty of the Russian operation in Ukraine was actually the ‘near perfect’ coordination between the various tools used.
+FOI experts also pointed out90 that the Russian operation in Crimea presented no major novelty regarding either Russia’s military capabilities, or the disinformation and propaganda measures conducted.
+The only really new element was the skilful and effective coordination of the diplomatic, economic, military and information instruments used during the operation, all in the framework of a single, well-functioning command structure.
+However, authors argue that Crimea constituted a particularly favourable environment for the Russian operation.
+For example, Russian forces in Crimea met no resistance, and hence the operation in the peninsula actually reveals little about their fighting capabilities in a regular conflict.
+Consequently, FOI analysts warned that whereas Russian military capabilities were often underrated before Ukraine, there was now a risk of overrating them.
+In their aforementioned article, Oscar Jonsson and Robert Seely agreed with the FOI analysis that the only real novelty of the Russian warfare witnessed in Ukraine was the highly effective coordination of the various tools used.
+Otherwise, they came to the conclusion that in terms of the means used, much of the Russian operation was ‘old wine in new bottles’.92 It should be noted, however, that Russia has significantly strengthened and upgraded some of its old tools, familiar since Soviet times, particularly concerning information warfare.
+RUSSIA’S HYBRID WAR IN THE LITER ATURE 51 Keir Giles,93 Russia has invested considerable time and resources in establishing a strong media presence in the Western world as well.
+The Russian media in Ukraine has traditionally had a strong presence, due in part to the high ratio of Russian-speakers and also due to the significant proportion of Russian-owned companies in the Ukrainian media market, as shown by Joanna Szostek based on a detailed analysis.
+Russian-speakers in Ukraine frequently watch, and mostly even prefer Russian television channels, and read the local versions of Russian newspapers.
+Taken together, these factors empower Moscow with a strong media presence in Ukraine.
+With regard to the other means Russia has had at its disposal in Ukraine, without even trying to survey the whole spectrum of the literature, mention must be made of the book by Jakob Hedenskog and Robert Larsson about Russia’s political and economic leverages over the post-Soviet states, published in 2007 by the FOI.96 This study analyzed in detail the various foreign and security policy tools and means Russia has been using in the post-Soviet region, thereby placing the non-military elements of the hybrid war in a historical context.
+A Case of “Soft Power”?’, East European Politics and Societies and Cultures.
+The second part of the book describes the most important modalities of influence, ranging from tools of high diplomacy to cultural policies, all of which played an important role in the operation against Ukraine as well.
+Another noteworthy aspect of the hybrid war in Ukraine is the mass of literature which emerged in Russia following the official narrative by the Kremlin.
+While the main elements of this narrative may occasionally change (for example, in April 2014 Putin himself admitted the involvement of Russian special forces in Crimea after almost two months of denial), some key elements remain constant.
+Crimea is depicted as a territory that historically belongs to Russia and the February-March 2014 insurgence as an organically developed, bottom-up independence movement; Russia is officially not involved in the conflict; the legitimacy of Ukraine’s political leadership is still questioned despite the democratic presidential and parliamentary elections conducted in 2014; Ukrainians are often depicted as radical nationalists and fascists, and the changes that took place in Kyiv with Euromaidan are often perceived essentially as an American plot.
+This ideological setup is strongly supported by an intensive book release campaign both in Russia and abroad.
+A case in point is the new book by Sergey Glazyev, entitled Ukrainskaya katastrofa.
+From American Aggression to New World War?), published in 2015, which promotes in detail all elements of the official Russian narrative described above, primarily for the domestic Russian audience.
+Military Aspects of the Crisis in Ukraine99, is aimed mainly at Western, English-language readers.
+The book not only provides an in-depth, albeit somewhat biased analysis of the Russian and Ukrainian militaries, but also promotes the official Kremlin narrative by questioning Ukraine’s territorial claim to Crimea in a cunning, cryptic way.
+A detailed analysis of the Russian version of events is, however, beyond the scope of the present study.
+Hybrid war in action Based on the events that took place on the ground in Crimea and in Eastern Ukraine, it is possible to map out the functioning of the hybrid war using an inductive methodology.
+Of course, one needs to be aware of the distorting effects of the ‘fog of war’, the frequent shortage of reliable information, as well as the disinformation and propaganda operations conducted by all sides involved in the conflict.
+However, during the year that has passed since the examined events took place, the timeline of events has become much clearer and many more details have now emerged, which was not the case during the outbreak of hostilities.
+Hence, the analysis below is based on the assumption that — in light of the knowledge about contemporary Russian strategic thinking on the new generation warfare and the timeline of events in Crimea and in Eastern Ukraine — it is possible to construct a more detailed classification of the way in which hybrid warfare functions.
+In addition, it is possible to draw some general conclusions about the prerequisites for waging a successful hybrid war.
+Ope r ationa l ph ases of t h e h y br id wa r By inductively analyzing the operations Russia has conducted in Crimea and in Eastern Ukraine, hybrid war can be described as being composed of three main phases, each of which is composed of three sections.
+Of course, as this classification is abstracted from the concrete events that took place on the ground, it is necessarily a constructed one that has no direct connection whatsoever to the Russian operational planning, as the relevant information most probably constitutes well-guarded 57 state secrets in Russia.
+However, as a construct, it may still turn out to be useful for those who are trying to better understand the very functioning of hybrid warfare — and also for those who need to elaborate on the necessary countermeasures.0 Preparatory phase The first, preparatory phase concentrates on mapping out the strategic, political, economic, social and infrastructural weaknesses and vulnerabilities of the target country, and creating the necessary means for capitalizing on them.
+In the case of Ukraine, Russia has been in an excellent position to do so, thanks to the long common history, the tight economic and social ties between the two countries, as well as the strong connections between political, economic and security elites.
+In other words, the initial phase of hybrid war is built on the traditional toolbox of Russian foreign policy, in line with the increasing importance of non-military measures in Russia’s concept of new generation warfare.
+In addition, many of the actions listed below are not explicitly or necessarily illegal, which makes it hard for the target country to defend itself against them.
+Strategic preparation • Exploring points of vulnerability in the state administration, economy and armed forces of the target country.
+Political preparation • Encouraging dissatisfaction with the central authorities in the target country by using political, diplomatic, special operation and media tools.
+Operational preparation • Launching coordinated political pressure and disinformation actions.
+During the preparatory phase, no violence is openly engaged in, and the measures taken do not contravene any political or legal threshold that would make the target country take serious, active countermeasures.
+However, if the targeted government detects these steps and gets concerned about them, this already serves Russia’s purposes, as the pressure felt may make the other country more receptive to Russia’s demands and interests.
+Self-doubt and fear constitute important parts of Moscow’s foreign policy inventory.
+HYBRID WAR IN ACTION 59 The effects of the preparations become visible only in the next phase, when the attack is actually launched, basically following the principles laid down by Chekinov and Bogdanov.
+Attack phase All the weaknesses explored during the preparatory phase of hybrid warfare suddenly surface when the attacking country actually launches the full-scale hybrid offensive.
+From this moment on, hybrid war clearly becomes different from the traditional actions of Russian foreign and security policy described above.
+The key difference is that open, organized, armed violence starts to occur.
+Not a single shot was fired, but it quickly became clear that Ukrainian units could not leave their bases without using force against the unmarked militants.
+In Donetsk, the regional state administration building was among the first targets to be taken over in April 2014, and the building still serves as the headquarters of the so-called Donetsk National Republic.
+Police and local security forces failed to defend the buildings, mostly due to the lack of clear commands to do so, and also due to their low morale, weak leadership and inadequate equipment.
+In parallel with these actions, well-organized, often armed demonstrators, dressed in civilian clothes and exhibiting high tactical skills, started to take over other, less defended public administration buildings, media outlets and civilian infrastructure.
+Capturing television and radio stations as well as broadcasting towers was of key importance because it enabled the attackers to take central government media channels off the air, and to replace them with Russian channels.
+Both the attackers and the ‘polite green men’ consistently claimed that they were local protesters dissatisfied with the Kyiv central government.
+The Russian official discourse and media consistently referred to them, and still does, as the ‘opposition’ or ‘resistance’ by using the term opolchenie.
+In parallel with these actions, Ukraine’s chains of command and control were frequently damaged, disrupted or jammed by sabotage attacks, corrupt officials103 and electronic warfare.
+As a result of the intensive, multifold pressure, as well as the hesitation of the Kyiv government, almost all of the Ukrainian army, police and navy units ultimately surrendered in Crimea.
+Some actually changed sides, while the resistance of the few that stood firm was broken with low-level violence.
+While the affiliation of the attackers, namely that they had arrived from Russia, quickly became evident — even many of the exact units were subsequently identified104 — Moscow kept denying its involvement, and was duly able to confuse Western observers and buy time to quickly reach a fait accompli both in Crimea and later in Donbass.
+In this respect, Moscow’s consistent denial policy could be considered a clear success.
+Hence, one might presume that if similar attacks were to take place against a NATO member country, Moscow would probably employ the same denial strategy, hoping that it could prevent the activation of Article V of the Washington Treaty.
+This would be perfectly in line with the whole concept of ‘new generation warfare’ described earlier, where the aim is to break the target country’s ability to resist by using predominantly non-military means.
+As most actions would remain below the threshold of NATO’s collective defence, the attacker could count on the fact that NATO would not get engaged at all, or would do so only when it was already too late.
+Although most actions of the attack phase are conducted by nonmilitary means (using the term non-military in the sense that the regular military does not participate in the attack), it is important to recognize that the regular military also has a key role to play.
+HYBRID WAR IN ACTION 61 posing an imminent threat of an overwhelming conventional attack.
+In this way, they managed to both divert Kyiv’s attention and resources, and also to block Ukraine’s counter-attack options, as the government did not want to provoke Russia by opening fire on the increasingly violent demonstrators.
+After this was achieved, Russia quickly established alternative centres of political power.
+In Crimea, deputies of the occupied parliament were forced by armed Russian militants to vote for holding a referendum on independence, while in Donbass, separatists proclaimed the so-called People’s Republics of Donetsk and Luhansk.
+None of these decisions or self-proclaimed entities had any proper democratic legitimacy.
+Although the decision on the referendum in Simferopol was taken by the legitimately elected members of the Supreme Council of the Autonomous Republic of Crimea, they were forced to do so at gunpoint.
+This was later openly admitted by senior separatist commander Igor Girkin — often using the nom-de-guerre Strelkov — in a January 2015 TV show in Russia.
+The legitimacy of the separatist leaders is a purely constructed one, consistently built up and strengthened by Russian diplomacy, media and public discourse, both at home and abroad.
+The Russian media constantly refers to the separatist authorities as if the People’s Republics of Donetsk and Luhansk were properly functioning states, as if their leaders had legitimacy, and as if they represented the local population in the democratic sense.
+However, even this constructed legitimacy may well suffice in alienating the locals from the central government by relying on the attacker’s information monopoly and by establishing an alternative political power centre.
+Exploding the tensions • Organizing massive anti-government protests and riots in the attacked country.
+Ousting the central power from the targeted region • Disabling the central power by capturing administrative buildings and telecommunications infrastructure in the targeted region.
+The media of the attackers tries to mislead and disorientate the international audience, and discredit the target country.
+Establishing alternative political power • Declaring an alternative political centre, based on the captured administrative buildings, by referring to real or fabricated traditions of separatism.
+HYBRID WAR IN ACTION 63 As demonstrated both in Crimea and in Eastern Ukraine, towards the end of the attacking phase the resistance potential of the target country was broken, its governance, command, control and communications capabilities were severely damaged and it lost control over one or more parts of its territory.
+However, such success would not have been possible without capitalizing on the inherent, multifold weaknesses of Ukraine, explored in the preparatory phase.
+In other words, if insufficient weaknesses can be identified in the target country, a fullscale hybrid offensive never starts.
+Stabilization phase In order to consolidate the results achieved by the hybrid war, the attacking country needs to take additional steps to further strengthen and legitimize its rule.
+However, in this respect the Eastern Ukraine scenario turned out to be radically different from the Crimean one.
+Referendums on ‘independence’ were organized in both regions, and in both cases the results were in favour of the separatists.
+On the peninsula, according to the ‘official’ results, more than 97% of the population voted for secession from Ukraine with an 83% turnout.
+Russia’s Human Rights Council later inadvertently published the real results:106 the turnout was only 30% and only half of those who cast their vote supported independence, which means that only 15% of those eligible to vote were in favour of secession.
+Nevertheless, this obviously did nothing to change the fait accompli on the ground.
+Russian units stationed in Crimea kept exerting pressure on the local elites and the population, with the result that after less than a full day of ‘independence’, Crimea was annexed by Russia.
+In Eastern Ukraine, however, separatism could not gather sufficiently strong momentum towards secession, mostly due to the low local support — to be discussed in detail in the next chapter — and also to the lack of such massive operational support as that provided in Crimea by the Russian units stationed there.
+Although the Russia-supported separatists were successful in ousting the central government from considerable territories, without massive Russian ground presence they would never have been able to control the territory to such an extent as they did in Crimea.
+Instead of establishing a functioning alternative power, what they managed to create in the main was a political, security and social limbo for several months.
+Meanwhile, the Kyiv government realized that the lined-up Russian regular forces were not going to attack due to the anticipated high political costs, and Kyiv duly decided to launch a counteroffensive, the so-called Anti-Terror Operation on 15 April 2014.
+However, the ATO suffered from considerable problems from the outset when it came to morale, command and control and equipment.
+The operation got off to a spectacularly bad start at Kramatorsk on 16 April when a whole column of ATO armoured vehicles was held up and captured by demonstrating civilians and separatists, without a single shot being fired.8 In early May, referendums were conducted in the occupied territories of the Donetsk and Luhansk oblasts, but they took place hastily and chaotically.
+Similarly to Crimea, the international community condemned the referendums and did not recognize them as valid in any sense.
+Although the exact motives underlying Moscow’s decision are not yet known, presumably the size of the territory, the ongoing armed resistance of the Ukrainian army, and the foreseeable political and economic fallout all played a role.
+From the perspective of hybrid warfare this means that — relying again on the inductive methodology based on concrete events — there are at least two possible outcomes.
+One variant is the annexation of the captured territory, as occurred in Crimea, while the other option is to keep the territory inside the attacked country, but deny the central government any control.
+The case of Ukraine perfectly demonstrated how hybrid warfare is able to cripple the very functionality of a state without launching a full-scale war against it.
+Political stabilization of the outcome • Organizing a ‘referendum’ and decision about secession/independence in the target country, all with the strong diplomatic and media support of the attacking country.
+Lasting limitation of the strategic freedom of movement of the attacked country • Loss of territory results in severe economic hardship, domestic political destabilization and possibly grave humanitarian situation.
+One of the main reasons why the developments in Eastern Ukraine turned out differently from those in Crimea was that, following the election of Petro Poroshenko as President of Ukraine on 25 May 2014, the ATO also gained momentum.
+Hence, in order to prevent the defeat of the separatists, in August 2014 Russia launched a massive intervention by its regular forces, thus transforming the conflict into a conventional, albeit limited, interstate war.
+Ope r ationa l r easons w h y t h e h y br id wa r was so effecti v e in U k r aine Despite its partial failure in Eastern Ukraine, Russia’s hybrid war was devastatingly effective against Ukraine.
+However, in order to properly understand the reasons for this efficacy, one needs to be aware that some of them were of a very general nature, while others were highly Ukraine-specific factors.
+HYBRID WAR IN ACTION 67 The element of surprise The first and probably most important general reason for the high effectiveness was the element of surprise.
+Although neither the main thrust of contemporary Russian strategic thinking, nor the inherent weaknesses of the Ukrainian state constituted any novelty, the rapid implementation of the full spectrum of hybrid warfare (i.e. all three phases described above) managed to take both Kyiv and the West by surprise.
+This form of warfare had never been fully deployed anywhere else, and thus the means of defence against it were also underdeveloped.
+Furthermore, Russia was apparently successful in misleading both Ukraine and the West in terms of intelligence.
+According to an article published in the Voenno-promishlenniy Kurier in September 2014 by Russian General Anatoly Zaitsev, one of the key elements of success was the strict radio silence maintained by the Russian forces before the operation, combined with extensive disinformation operations.
+The surprise factor combined with the efficient use of deception provided Russia with a decisive advantage over Ukraine — and probably would have done so against many other possible adversaries.
+An additional, but more Ukraine-specific factor was the skillful use of the Russian base in Sevastopol, as well as the ships of the Black Sea Fleet to swiftly move and redeploy forces participating in the operation.
+General Zaitsev also mentions the ‘polite green men’, who appeared in a timely fashion whenever necessary to prevent a possible counter-attack by the Ukrainian forces.
+The main tool in misleading both Kyiv and the West was the extremely effective, well-coordinated information warfare.
+Moscow invested an immense amount of time and resources in building up this capability,113 and was smart enough not to uncover its full potential before the decisive moment of the attack.
+Hence, the full power of information warfare — both in Ukraine and abroad — constituted another element of surprise.
+As Kyiv was just as unprepared as probably many other countries would have been, it was unable to properly counter this unforeseen pressure, and was put in a weak, defensive, reactive position.
+Further, the attackers could enjoy the benefits of the lack of accountability, as they appeared to have neither any connection to any foreign state, nor any formalized institutional subordination.
+Meanwhile, Ukraine was put in a situation where it formally had no partner to negotiate with, because Russia consistently refused to engage in any bilateral discussions, claiming its non-involvement.
+At the same time, Moscow followed the old pattern familiar from the frozen conflicts of the early 1990s, and pushed Kyiv to negotiate directly with the separatists.
+This was something that Ukraine obviously could not do, because it would have meant the de facto recognition of the separatists as legitimate partners.
+Furthermore, the denial of formal involvement theoretically empowered Russia with the possibility to stop the hybrid attack at any time, in the event that things did not go according to plan.
+By simply withdrawing its unmarked forces and ordering its agents to gradually put an end to the violent demonstrations and sabotage actions, Moscow would have been able to exit both the Crimean and the Eastern Ukraine operations without formally losing face.
+Although there was no need to exercise this option in the end, it was still available.
+Attackers indistinguishable from civilians Another element that contributed to the efficiency of the hybrid offensive was that many of the attackers were dressed in civilian clothes and were thus practically indistinguishable from the local civilian population.
+This seriously limited the potential of the Ukrainian government to use force against them for four main reasons.
+First, Kyiv could hardly risk killing Russian-speakers, because Moscow has had both the capability and the means necessary for an armed intervention, launched in the name of defending the Russian population.
+However, the other reasons why disguising attackers as civilians was so effective were already highly Ukraine-specific.
+Ukraine had a HYBRID WAR IN ACTION 69 severe lack of capable, reliable and properly equipped police officers to deploy against the attackers.
+It should be remembered that the former ‘iron fist’ of Ukraine’s interior ministry forces, the Berkut riot police unit, was mainly loyal to the regime of ousted president, Viktor Yanukovich.
+Berkut was disbanded immediately after the change of power in Kyiv, in February 2014, in relation to the crimes allegedly committed by Berkut members during the EuroMaidan protest.5 However, the disbanded riot control capability was not replaced with anything of a similar nature.
+Hence, Ukraine rendered itself defenceless against violent riots at a very critical moment.
+Finally, the possibility of using massive force against the Russiacontrolled demonstrators — with many local civilians among them — was a risk that most ordinary non-Berkut Ukrainian policemen were simply not willing to take, either from the moral or the responsibility perspective.
+Lacking proper riot control capabilities, the only option to quickly disperse the violent demonstrations would have been to use firearms against the demonstrators.
+However, the decision to open fire against civilians is never one that is taken lightly by any police or military force.
+In addition, Russian propaganda was highly effective in sowing the seeds of doubt about the legitimacy of the interim government in Kyiv.
+As a result, many police officers could not be sure which orders to follow and whether the law was actually on their side.
+This was particularly the case when many of their commanders disappeared or actually changed sides, as happened in Eastern Ukraine.
+All in all, it was hardly surprising that most ordinary Ukrainian police officers were not eager to risk injury or even death, not to mention their career prospects, in trying to defend the attacked buildings against the rioters, and duly decided to stand passively by instead.
+An additional, absolutely Ukraine-specific factor that explains why Russian hybrid warfare was so effective against Kyiv was the long-standing, grave weakness of Ukraine as a state in terms of its governance and functionality.
+Prerequisites for a hybrid war Following the swift annexation of Crimea and the rapid outbreak of what initially appeared to be a similar conflict in Eastern Ukraine, many perceived the Russian hybrid war as a new, invincible, universal menace, a weapon that Russia could deploy anywhere, at any time.
+However, a closer look at the events in Ukraine reveals that successfully employing the full spectrum of hybrid war, namely when it exceeds the preparatory phase and an actual attack is launched, is actually bound to a number of prerequisites, all of which will be studied below in detail.
+If these requirements are not fulfilled, or only partially met, hybrid war may turn out to be unsuccessful.
+In order to identify the prerequisites for the use of hybrid war, it has to be kept in mind that its initial, non-violent sections do not constitute anything particularly illegal or violent.
+As stated in the previous chapter, the preparatory phase of hybrid warfare does not differ that much from the conventional tools of Russian diplomacy, such as gathering information, establishing contacts with decisionmakers, setting up media outlets, supporting cultural projects and proMoscow NGOs, and so on.
+In fact, hybrid war preparations are mostly built on these long-known and long-employed tools of Moscow, which could be used in almost any environment and in any circumstances, albeit with varying degrees of efficiency.
+Of course, one needs to remember the methodological constraints listed in detail in the introductory chapter, the most important being that the sample that can be used for the analysis of the full spectrum of hybrid war is very limited.
+So far we have only one completely successful case, namely Crimea, and another, partially successful case, namely Eastern Ukraine, where the initially hybrid war was 73 transformed into a conventional, but limited armed conflict.
+Hence, analysts need to be wary of drawing too general conclusions based only on these two cases.
+Mi l ita ry su pe r ior it y Based on the phases described in the previous chapter, one may conclude that the most important prerequisite for the full spectrum of hybrid warfare is that Russia needs to be militarily stronger than the target country.
+Again, full spectrum in this context means that the hybrid war develops from the predominantly covert preparatory phase to the already open, second, attack phase.
+The reason why Russian military superiority is essential is that the ability of the attacked country to conduct armed resistance needs to be disabled in order to allow Phase 2, namely open, armed actions to unfold.
+Otherwise, ‘polite green men’ and their local armed allies could be arrested – or, if police means are insufficient, then destroyed by military force – from the very first moment that they appear and try to capture public administration buildings and elements of key infrastructure in the target country.
+The main reason why the Ukrainian government could not use force against either the ‘polite green men’ or against the violent protestors in Crimea and in Eastern Ukraine was the acute danger of an overwhelming conventional attack from Russia.
+One needs to remember that both during the Crimean events and the beginning of the crisis in Eastern Ukraine massive Russian forces were lined up along the border with Ukraine.
+Although the Kremlin officially justified their presence by claiming that they were only participating in snap exercises, in reality they posed an imminent military threat to Ukraine.
+Taking into account that Russia claims the right to defend Russianspeakers abroad, even with the use of force if necessary, the Ukrainian leadership could hardly risk using force against the invaders, because it could have easily induced a full-fledged attack from Russia.6 In other words, the threat of a massive Russian conventional military attack against Ukraine functioned as a deterrent and thus seriously limited Kyiv’s freedom of action.
+Although the new Ukrainian interim government was very weak in terms of functionality after the ousting of Yanukovich, military units based in Crimea would have been able to conduct some armed resistance, if ordered to do so.
+However, such an order never came, precisely because Kyiv did not dare to risk a massive, devastating military attack from Russia.
+Besides, there was an additional outside element that played a role, namely the reluctance of the West to see Ukraine get involved in an open military conflict with Russia.
+Ukrainian officials sometimes openly claim that ‘The West told us not to do anything, not to provoke the Russians’.119 However, as stated above, this deterrent functions only if Russia possesses clear military superiority over the attacked country.
+This means that the attacked state either has no strong self-defence capabilities at all, or is unable or unwilling to put them into action.
+Furthermore, the attacked country must have no allies committed and able to guarantee its defence.
+If, on the other hand, the attacked country decides to use military force against the invaders, the hybrid offensive may soon turn into a disaster.
+Military history has few cases where irregular forces have been able to hold open territories against a systematically advancing regular army.
+If irregular forces become engaged in symmetric combat, in other words if they try to rigidly defend territory in the classical ‘No step back’ sense, partisans inevitably get outgunned and often outnumbered by the professional military, which is ready to employ heavy weaponry against them, including air power, tanks and heavy artillery.
+This was well demonstrated by the success of Ukraine’s AntiTerror Operation launched against the separatists in April 2014.
+The lightly armed, often disorganized rebel militias were not able to withstand the advancing Ukrainian regular units, despite the support they allegedly received from Russian special forces.
+The rebels suffered serious losses both in terms of personnel and territory.
+PREREQUISITES FOR A HYBRID WAR 75 Wea k cent r a l pow e r and sec u r it y st ruct u r es As described above, both the preparation and the attack phases of hybrid warfare are largely built on capitalizing on the inherent weaknesses of the target country.
+Weak central leadership, badly functioning state administration and underpaid, corrupt police and armed forces all increase the vulnerability to infiltration and bribery.
+Conversely, a well-functioning, strong state administration, together with its police and secret services, is able to quickly uncover and suppress such activities emanating from abroad.
+However, the Ukrainian state was unable to do so during the Crimean crisis for a number of reasons.
+First, the whole state was infected by an extremely high level of corruption, including the highest levels of state administration.
+According to the 2013 survey by Transparency International, during Viktor Yanukovich’s presidency Ukraine was the third most corrupt state in Europe, after Belarus and Russia.1 Obviously, these structural weaknesses in the state administration did not disappear with the February 2014 political turnabout.
+Further, oligarchs have had a strong influence not only on the political elite, but also on the police, border guards and secret service structures, particularly in Eastern Ukraine.2 Low and/or questionable government legitimacy is an additional factor that may weaken the resistance potential of the target country.
+This was particularly the case during the Crimean crisis when the new Kyiv leadership was faced with serious problems of legitimacy, as well as everyday functioning.
+Although the election of Petro Poroshenko as President on 25 May 2014 helped to address the legitimacy problems, functional hardships persisted.
+Low-level local Ukrainian commanders, isolated from any alternative source of information, often decided to surrender under the pressure of the Russian information warfare.
+The Yanukovich regime purposefully weakened the Russia-oriented counter-intelligence capabilities of the Security Service of Ukraine (Sluzhba Bezpeki Ukrajni, SBU) and massively compromised the organization to Moscow.3 Information was leaking from the SBU to such an extent that when a special forces unit was sent to arrest Yanukovich, who had fled to Crimea, the former president was informed about the action before the commando unit had even left Kyiv.
+Another spectacular case was when special agents of the Alpha Group were betrayed by their own commander to the separatists in Eastern Ukraine.
+All in all, in order to enable the SBU to carry out its duties properly, the whole organization had to be restructured and rebuilt.
+When the crisis unfolded in Donbass, the then Interim President, Oleksandr Turchynov, openly admitted that the police and security services were ‘helpless’ against the pro-Russian gunmen taking hostages and occupying public buildings.
+As pointed out by Simon Shuster, the reason why many police units stepped aside was that they probably realized they would lose either way.
+Had Russia taken over Eastern Ukraine, police officers using force against civilian pro-Russian demonstrators may well have faced war crime charges.
+If Ukraine had won in the end, local police officers could still have been made scapegoats for the initial failures to protect administrative buildings and critical infrastructure.
+What is more, most police officers would have been reluctant to open fire against civilians.
+PREREQUISITES FOR A HYBRID WAR 77 the local oligarchs and criminal groups, who supported the separatists against the new Kyiv government.
+In the conventional armed forces there were also many professional soldiers who finally chose Russia over Ukraine.
+A remarkable moment was when Rear-Admiral Denis Berezovsky, commander of the Ukrainian fleet, tried to rally the whole fleet to change sides and swear allegiance to Moscow.
+Following the annexation of Crimea, more than 5,000 Ukrainian soldiers and navy personnel decided to continue serving in the Russian armed forces.
+Lasting, r egiona l ly-concent r ated dissatisfaction w it h t h e cent r a l g ov e r n m ent Judging by the experiences gained in Crimea and in Eastern Ukraine, in order to successfully implement the fourth and subsequent sections of hybrid warfare, there has to be a lasting, regionallyconcentrated dissatisfaction with the central government, preferably with an inherent ethnic or separatism-related element.
+This dissatisfaction may serve as a basis for organizing first political, and then armed opposition against the central power, as well as for demands for autonomy and independence.
+Such a dissatisfaction strengthened by ethnic and languagerelated elements has been present both in Crimea and Eastern Ukraine.
+Although a detailed description of its causes would far exceed the framework of the present study, it should be noted that this dissatisfaction was closely connected to the overall corruption and dysfunctionality of the earlier Ukrainian governments during the previous two decades.
+Hence, it was not hard for pro-Russian activists, and subsequently agents, to find like-minded people among the locals, and to organize civil society networks followed by protests and riots.
+However, the deeper differences between Crimea and Donbass may actually serve as an explanation for why the two cases ultimately had different outcomes.
+While in the Crimea the majority of locals were supportive of the actions taken against Kyiv (even if not necessarily of concrete separatism), in Donbass the level of public support was much lower.
+The Kyiv International Institute of Sociology conducted a survey from 8 to 16 April 2014, in which they asked the population about the ongoing takeovers of public buildings in Eastern Ukraine, and also about the possibility of joining Russia.
+Regarding the former, consent exceeded 15% only in the Donetsk and Luhansk regions, with 78 RUSSIA’S HYBRID WAR IN UKR AINE separatism also receiving the highest support here.
+The combined result of the ‘surely yes’ and ‘mostly yes’ answers regarding separatism was 27.5% in the Donetsk region and 30.3% in the Luhansk region.
+Hence, one cannot say that the majority of the population would have supported either the takeover of public buildings, or the separation from Kyiv.8 It has to be said, however, that in all affected cities there were indeed some people among the local population who sympathized with the idea of seceding from Ukraine, or at least with the possibility of a federal transformation of the country.
+However, the visible public support for the violent actions of the Donetsk separatists was very low.
+There were no large, pro-Russian demonstrations taking place, and local people were hardly out in the streets en masse; in most public gatherings in support of separatism only a few hundred, or a maximum of one to two thousand people were present, which was not very significant in a city of one million inhabitants.
+In countryside towns only a few hundred locals actively supported separatism, according to news reports about the demonstrations there.
+Hence, the picture provided by Russian media channels about the ‘people of Donetsk’ rising up collectively was fundamentally false and distorted, as the active local support for the violent actions was very low.
+Most local residents reacted as they had learned to do during the Soviet years, and simply remained passive even during the riots, and particularly after the eruption of the open, armed violence.
+The shortage of locals supporting separatism became an acute issue in October 2014 during the siege of Donetsk airport.
+At that time a Communist Russian veteran of the Chechen war fighting in Donetsk openly complained that locals were fleeing instead of defending their homeland.
+PREREQUISITES FOR A HYBRID WAR 79 Pr esence of Russian-spea k ing m inor it y as sou rce of l egiti m ac y c l ai m Another important prerequisite is the massive presence of a Russian, or Russian-speaking minority in the target country, due to both political and operative reasons.
+With regard to politics, based on the presence of Russian-speakers in Ukraine, Moscow could claim that its actions were legitimate because it was protecting the rights of ethnic Russians.
+Using Russian-speaking minorities as reference points for coercive actions is nothing new.
+On the contrary, it has been an integral part of the Russian political inventory since the very breakup of the Soviet Union.0 When it comes to operational reasons, among the Russian-speaking minority it is probably easier to find people dissatisfied with the central power and to recruit them for the purposes of the attacking country.
+They may serve not only as sources of tactical and operational intelligence, but may also provide shelter and guidance for infiltrating special forces, and participate in organized anti-government protests and riots.
+The presence of Russian-speakers enables the special forces of the attacking country to disguise themselves as locals, and masquerade as civil society activists and local opposition members.
+Furthermore, it enables the attacking country to formally deny its involvement and claim that armed rioters are merely dissatisfied locals, as Russia did in both the Crimean and Eastern Ukraine cases.
+Moreover, disguising the infiltrating special forces as locals also limits the potential of the target country to use force against those taking illegal actions.
+The reason for this is that shooting at ‘civilians’ may weaken the overall legitimacy of the government both domestically and abroad, particularly if the media of an adversary country picks up and capitalizes on the story.
+Besides, using massive violence against civilians may also cause moral problems within the armed forces.
+However, as elaborated above, it is a false generalization to state that ethnic Russians in Ukraine would have univocally supported the separatist ideas.
+On the contrary, many Russian-speakers are actually fighting on the side of the Kyiv government forces.
+In both Crimea and Eastern Ukraine, the Russian media was very successful in constructing an alternative reality in which they could claim that most Russian-speakers were in favour of the secession from Ukraine, while in fact this was not the case at all.
+In other words, in the country against which a hybrid war is being employed, the majority of Russianspeakers may well find themselves the objects, not the subjects or partners of Russia’s actions.
+St rong m edia pr esence b ot h in t h e ta rget cou nt ry and a broad An additional prerequisite is that the attacking country has to possess a strong media presence in the target country.
+Moreover, when the full spectrum of hybrid war started to unfold, namely when implementation had reached the second, attacking phase, separatists were quickly able to establish almost full control over the media both in Crimea and Eastern Ukraine.
+In both cases, television and radio studios as well as broadcasting and transmission towers were among the first critical infrastructure targets to be overtaken.
+This way, they could ban the pro-Kyiv media from the air and replace it with Russian channels.
+Hence, the central government practically lost its ability to deliver its messages to the population of the attacked regions, except for the internet and a few radio broadcasts.
+Meanwhile, due to its well-established position in the West, the Russian media has been able to obscure and blur the perception of events, both in Crimea and in Eastern Ukraine.
+At the time of completing the present report, there was already some open-source information available on the build-up and functioning of Russia’s ‘troll army’, for example, from defectors,133 a year earlier when the Ukrainian conflict started to unfold, and this form of information warfare constituted a novelty to many.
+The importance of a strong media presence and of information warfare in general, leads to the conclusion that without the existence of modern media no hybrid war can be waged.
+Consequently, this form of warfare is unsuitable for an environment where the level of technological development is low.
+Moreover, Russia may employ the full spectrum of hybrid warfare only in those countries where its media has a similarly dominant position, as it had in Ukraine.4 Lo gistics In addition to the factors mentioned above, implementation of the full spectrum of hybrid war also has certain logistical requirements.
+Although this element cannot be reconstructed from the available Russian public sources, certain conclusions may still be drawn from the events in Ukraine.
+While individual agents may work independently, and so may small special forces units for a short while, the full implementation of the second and third phases of a hybrid war requires constant logistical support.
+The attacker needs to know and master both the language and culture of the target country, as well as its main political and historical narratives, and ways of discussing them.
+Direct proximity either to Russia or to Russian military bases is required in order to provide the attackers – including both the special forces and their local allies – with shelter, food, drink, weapons, ammunition, fuel and equipment.
+Sending replacements and evacuating the wounded also necessitates maintaining constant, uninterrupted contact with the hinterland.
+Additionally, as mentioned by Zaitsev, during the Crimean operation, Black Sea Fleet ships played a crucial role in ensuring the mobility and concentration of the attacking forces.5 Logistical prerequisites also imply that while Russia might be able to conduct actions belonging to the first, preparatory phase of the hybrid war in a relatively high number of countries, such as setting up a media presence, establishing contacts with the local criminal network and conducting information operations, the possibilities of taking any open, armed actions are much more limited.
+Conclusions The form of warfare Russia employed in Ukraine in 2014, often called hybrid war, has been aimed at defeating the target country by breaking its ability to resist without actually launching a full-scale military attack.
+In line with contemporary Russian military thinking on ‘new generation warfare’, hybrid war is built on the combined use of military and non-military means, employing basically the whole spectrum of a state’s policy inventory, including diplomatic, economic, political, social, information and also military means.
+In this respect, the term ‘full-spectrum conflict’ developed by Oscar Jonsson and Robert Seely would provide a much more precise description, but as NATO has started to officially describe such events as hybrid war, this concept is dominating the discourse.
+Basically, all the tools and means employed by Russia in the framework of hybrid warfare have long been parts of the Soviet/Russian foreign and security policy inventory, as well as of the history of asymmetric warfare.
+The only real novelty was the highly effective, in many cases almost real-time coordination of the various means employed, including political, military, special operations and information measures.
+Even though both the Kyiv government and the West were caught unawares by the swift and effective Russian operations in Crimea and in Eastern Ukraine, this was partially due to the element of surprise (i.e. the lack of precedent and the subsequent lack of elaborate defences), and mostly due to the inherent weaknesses of the Ukrainian state.
+In fact, hybrid war is built on exploring and capitalizing on the inherent structural weaknesses of the target country.
+Corruption is a key element of infiltration into the target country’s political, administrative, economic, defence, police, secret service, social and media structures.
+Impoverished, badly governed states, where the respect for democracy and human rights is weak and where ethnic and social tensions are present, are particularly vulnerable to a hybrid offensive.
+Preparing the hybrid attack against Ukraine, namely identifying the weaknesses and establishing the points of entry, was largely built on the traditional foreign policy activities of the Russian Federation, ranging from diplomacy to coercion and generally aimed at maintaining control over Ukraine.
+Hence, as most of these activities are not openly illegal and are predominantly non-violent, active defence against them is highly complicated.
+Furthermore, when the attack phase, namely the already openly violent period of the hybrid war starts, it is already too late because the attacked state quickly loses control over the regions targeted, at least this was the case on two occasions in Ukraine.
+The initial development happened almost exactly as described by contemporary Russian scholars and analysts discussing the functioning of new generation warfare.
+However, before jumping to the conclusion that hybrid warfare is an absolute, invincible menace, one needs to be aware that successfully waging a hybrid war is bound to a number of important prerequisites.
+First and foremost, the target country needs to be weak and divided, with officials that are easy to corrupt.
+If insufficient weaknesses can be exploited in the preparatory phase of hybrid warfare, the actual attack never gets underway.
+Second, the attacker needs to be militarily stronger than the target country in order to limit the countermeasure potential of the defender.
+The Kyiv government could not take open action against the Russian ‘polite green men’ and their local proxies because they were deterred from doing so by the threat of an overwhelming, massive conventional attack by Russia, posed by the tens of thousands of Russian regular troops lined up along the border, under the disguise of a snap exercise.
+In other words, hybrid war does not mean that the target country could be rendered dysfunctional solely by non-military means.
+In fact, the regular military force also has a key role to play, and hence military superiority still constitutes a necessary condition for victory, just as it does in any other war.
+The difference is that in a hybrid war the regular 88 RUSSIA’S HYBRID WAR IN UKR AINE military force is used mainly as a deterrent and not as a tool of open aggression.
+Consequently, if this deterrent can be neutralized, either by credible national defence capabilities or by collective defence, it is highly unlikely that Russia would risk launching a full-scale hybrid war that would include sending ‘polite green men’ and other special forces en masse to the target country.
+As can be gathered from the limited concrete experiences gained in Ukraine, a third precondition for a successful hybrid offensive is the massive presence of ethnic minorities of the attacking state in the target country, who are not completely satisfied with their treatment by the central government.
+In Ukraine, Russia could use ethnic Russians as a recruitment base for protests and riots, with many utilized as agents and collaborators, and sources of operational and tactical intelligence.
+Moreover, the presence of Russian-speakers allowed the ‘polite green men’ and other infiltrating Russian special forces to disguise themselves as locals, which seriously limited the counter-action potential of the central government.
+However, an important particularity regarding ethnic minorities is that, apparently, only their presence, but not the active support of the majority is needed.
+According to numerous sociological polls, active and particularly violent separatism was never supported even by the relative majority of Russian-speakers in Ukraine.
+Hence, the developments were against the will of the majority, even though most of them reacted only passively.
+Meanwhile, Russian state propaganda consistently depicted them as a homogenous group firmly supporting the break-away efforts, by making the opinion of the few look as if it was the position of the majority.
+Consequently, in the country against which hybrid war is employed, the majority of local Russianspeakers may well find themselves the objects of, but not the subjects or partners of, Russia’s actions.
+In addition to all of the above, the successful implementation of hybrid warfare is also bound to a strong media presence, both in the target country and abroad, as well as to important logistical requirements.
+Concerning the latter, based on the limited sample provided by the events in Ukraine, a hybrid offensive is possible if there are already Russian military bases in the target region before the attack, enabling the operation to rely on them in terms of personnel, support and supplies.
+Another option is that the attacked region has to share a long, uncontrolled border with the attacker, through which the uninterrupted flow of supplies can be ensured, as is the case in Eastern Ukraine.
+CONCLUSIONS 89 However, the different outcomes in Crimea and Eastern Ukraine – the first being a swift success, while the second turned into a long and costly conventional war – may indicate that an established Russian military presence in the target region constitutes an absolute precondition for a successful hybrid attack, and therefore simply having a common, weakly controlled border is not enough.
+At present, the question cannot be answered properly, due to the lack of information on Russia’s plans and actions before and during the crisis.
+Taking into account these preconditions, one may conclude that the number of countries where Russia would be able to employ a fullspectrum hybrid war – that is, not only preparations and non-military measures aimed at exerting pressure, but also an attack – is actually very limited.
+At present, all of the preconditions for a hybrid war have been met in Ukraine and in Georgia.
+In Belarus and Kazakhstan, almost all of the preconditions have been met, apart from the weakness of the state; in fact, these countries have firm, centralized, presidential regimes.
+The vulnerability of Moldova and Armenia is much less serious, as they do not share a direct border with Russia, and hence the small Russian bases isolated from mainland Russia are clearly not suitable for measures involving a military component.
+However, the fact that a full-scale hybrid war poses an acute threat to only a small number of countries does not mean that Russia could not employ its hybrid toolbox, namely the perfectly coordinated use of political, diplomatic, economic, information and other measures against other countries, while pursuing a limited, predominantly nonmilitary agenda.
+Furthermore, research into Russian hybrid warfare is important because one cannot exclude the possibility that other major powers may learn and adopt the methods Russia has developed, and use them in their own perceived zones of influence, for example in East Asia.
+The most important practical implication is, of course, the possible means of defence against a hybrid war.
+In line with the abovedescribed dual, namely military and non-military nature of hybrid warfare, defence against it also needs to address both aspects.
+Neither a solely non-military, nor an exclusively military-oriented defence can be successful, but both aspects are critically important.
+With regard to the military dimension, the key element is that the deterrent posed by a possible, massive conventional attack by regular Russian forces has to be neutralized.
+If this threat can be properly 90 RUSSIA’S HYBRID WAR IN UKR AINE addressed, the open attack phase of the hybrid war is unlikely to even start.
+The reason for this is that the attacked country might be able to easily defeat ‘little green men’ and their local allies if its counteraction potential is not restricted by Russian deterrence.
+Neutralizing Russian deterrence may be built on strong self-defence capabilities, or on collective defence.
+Either way, the defence has to be credible, strong and capable of being mobilized at very short notice.
+The latter is particularly important because a hybrid attack is at its most vulnerable and easiest to break right at the moment it starts.
+The bifurcation point is the appearance of illegal armed formations, be they civilians or clad in military garb, claiming to be local self-defence units or international volunteers.
+If a hybrid attack manages to gain momentum, the gradual loss of control over the targeted territories, as well as heavy damage inflicted on critical infrastructure, is almost unavoidable, as demonstrated in Ukraine.
+Hence, decisive action needs to be taken against ‘little green men’ from the moment they appear.
+In this case, the Russian communication strategy built on denying involvement would turn against its master.
+Moscow could not credibly complain about the neutralized ‘little green men’ or other armed formations without actually admitting its involvement.
+Needless to say, the proper legal framework for taking such action needs to be elaborated in advance.
+For countries relying on national defence, the realistic aim is not to establish capabilities that would be able to repel the full weight of the attacking Russian armed forces.
+Instead, national defence should be able to raise the costs for the attackers to such an extent that they, as rational actors, would finally refrain from taking military action.
+As demonstrated above, Russian new generation warfare puts great emphasis on cyber and electronic warfare; Chekinov and Bogdanov even spoke about an ‘electronic knockdown’ prior to the start of the actual attack.
+Hence, advanced, state-of-the-art cyber and electronic warfare defences are of key importance.
+Special attention needs to be paid to securing communication channels, ranging from the highest political level to the tactical one, as well as to anti-drone measures.
+Another aspect is that the protection of critical infrastructure vulnerable to sabotage needs to be strengthened both by active and passive means, due to the high importance Russia attaches to disrupting the very functioning of the enemy state.
+Civilian communication infrastructure in those regions potentially vulnerable to a hybrid attack needs to be strengthened.
+It has to be ensured that even if CONCLUSIONS 91 certain television and radio towers and broadcasting stations, as well as internet hubs, were damaged (or have to be destroyed in order to prevent an illegal takeover), the government would remain able to deliver its message throughout the country.
+Hybrid warfare is built on capitalizing on the weaknesses of a country, on flaws in its political system, administration, economy and society.
+If an adversary cannot detect sufficient weaknesses, then no full-scale attack can be launched, meaning that hybrid warfare never reaches the second, attack phase.
+In addition to a democratic political structure and wellfunctioning public administration, it includes respect for human rights, transparency, media freedom, the rule of law and proper rights guaranteed to ethnic, national, religious and other minorities, all in order to improve the domestic democratic legitimacy and support of the government, and hence the very stability of the state.
+Special attention needs to be paid to the fight against corruption, at all state and societal levels.
+Corruption has been one of the main means of Russia’s infiltration into the political, administrative, economic and security structures of Ukraine.
+From the perspective of defence against hybrid warfare, of particular importance is the anti-corruption control of public officials, as well as of members of the armed forces, police and security services.
+Furthermore, in order to detect and prevent foreign infiltration intentions and efforts in time, the strengthening of intelligence and counter-intelligence capabilities is called for, along with a thoroughly prepared recruitment and training strategy.
+Western analytical capabilities specialized in Russia and the post-Soviet region, which have largely diminished since the end of the Cold War, need to be built up again.
+Another important lesson to be learned from the events in Ukraine is that a proper legislative framework needs to be established to efficiently counter separatism, anti-constitutional deeds, hate speech and other actions that may serve as bases for foreign hybrid war efforts.
+However, the balance between preserving fundamental democratic rights and freedoms and strengthening security needs to be maintained.
+In order to implement the laws, a properly trained, staffed, led and equipped police force is essential.
+Special attention needs to be paid to criminal intelligence and riot control capabilities, as these are the main 92 RUSSIA’S HYBRID WAR IN UKR AINE areas where the police can contribute to the defence against hybrid threats, by countering illegal and violent demonstrations.
+Meanwhile, one needs to be aware that due to the very nature of the predominantly legal, mostly covert nature of the preparatory phase of hybrid warfare, no absolute defence is possible.
+A committed adversary will always be able to conduct certain diplomatic, intelligence, and particularly information operations, such as media campaigns.
+However, a properly functioning state is able to keep these actions at bay, and a well-governed society is highly resistant to them.
+In addition to all of the above, the resilience of the society in question towards hybrid threats, particularly towards disinformation, propaganda, sabotage actions and supply interruptions needs to be reinforced.
+However, it is important to strike the right balance between strengthening resilience, but not generating paranoia.
+A more general, but no less important aspect is that the said society needs to be made aware of the importance of defence spending and properly informed about its purpose in order to secure the necessary, lasting public support.
+All in all, an informed, conscious, coherent and wellgoverned society is the best defence against the threat of hybrid warfare.
+Translated by Yakov files/1946/1946-h/1946-h.htm, accessed 19 Vladimirovich Fomenko.
+Polity Press, Cambridge, doesnt-have-a-warlord-problem-russia2013, 354. donbas/, accessed 15 April 2015.
+Case of “Soft Power”?’, East European Politics Pomerantsev, P., ‘How Putin is Reinventing and Societies and Cultures.
+FMFRP%2012–18%20%20Mao%20Tseeuropa.eu/uploads/media/Alert_4_hybrid_ tung%20on%20Guerrilla%20Warfare.pdf, warfare.pdf, accessed 19 March 2015. accessed 19 February, 2015.
+Usenko, V – Usenko, D., ‘New “old” Russian Military Aspects of the Crisis in Ukraine.
+The Hidden Hand edu/ojs/index.php/fm/article/view/889/798, by John Barron’, Christian Science Monitor, accessed 19 January 2015.
+Intermediate com/1983/1103/110307.html, accessed 5 May Commentary on the Concept of the Political, 2015.
+These actions were accompanied by a strong and intensive, well-coordinated diplomatic, economic and media campaign both in Ukraine and abroad, also supported by pressure exerted by the large Russian military units lined up along the border with Ukraine.
+The form of warfare Russia employed in Ukraine in 2014, often called hybrid war, has been aimed at defeating the target country by breaking its ability to resist without actually launching a full-scale military attack.

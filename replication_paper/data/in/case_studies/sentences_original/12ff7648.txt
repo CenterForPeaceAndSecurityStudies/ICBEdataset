@@ -1,0 +1,832 @@
+You are free to copy, distribute, display, and perform this work as long as you give the original author credit, do not use this work for commercial purposes, and do not alter, transform, or build upon this work.
+You must make clear to others the license terms of this work if you distribute it.
+The full Creative Commons Public License can be found at the end of this file.
+A considerable number of such books had already been written, of course, ranging from the very informative and humorous, such as Larry Gonick's The Cartoon History of the Universe, to the not-so-informative or humorous, which I will not identify.
+These questions are of interest to us all, or at least to all of us reading this particular book.
+The twentieth century saw scientific fields becoming so complex that only a small number of specialists are able to master their techniques and the mathematics used to describe them.
+And very few of these people have the time and inclination to write amusing books describing the highlights, not only of their own field, but also of other relevant fields.
+In reading this book you will probably encounter some terms with which you are unfamiliar.
+You will not be tested on these terms, but should wish to review them, feel free to use the extensive glossary at the end of the book.
+Each of the fifty-three chapters in this book represents a significant event in the history of the universe.
+The first page of each chapter lets you know where and when the event occurred.
+Time points early in the history of the universe give the time elapsed since the Big Bang—these are usually written in scientific notation.
+You can look at the glossary entry on “scientific notation” for more information on how to interpret these numbers.
+I hope that you enjoy it, that you learn from it, and that you recommend it to friends, relatives, coworkers, acquaintances, bartenders, bus drivers, flight attendants, random passers-by, and pretty much anyone else you happen to meet.
+Eric Schulman Alexandria, Virginia December 16, 1998 XIV 10^^ seconds after the Big Bang The Universe QUANTUM FLUCTUATION In Which Our Universe Begins nee upon a time, long ago and far away, there was a universe very much like our own.
+It had dogs, and cats, and people (some of whom preferred the dogs and some of whom preferred the cats), and Trigoencephalopodic Gnoccis, and other things of which you've never 1 heard because we haven't encountered them yet.
+Now it just so happened that one of the effects of quantum mechanics was that large amounts of matter and energy could spontaneously appear, even though this rarely happened in a given volume of space.
+Well, on this particular once-upon-a-time, an entire universe appeared.
+Its density was more than 1000 billion billion billion billion billion billion billion 3 billion billion billion times that of water and its temperature was more than 100,000 billion billion billion degrees Fahrenheit.
+Luckily for the inhabitants of the first universe, the new universe quickly became detached from the old universe and started expanding into a completely different four-dimensional volume of space.
+This is the story of that Universe, and of some of the things that have happened in it during the last 14 billion years. 10“^^ seconds after the Big Bang The Universe QUANTUM FLUCTUATION In Which the Grand Unified Force Separates into the Four Forces of Nature as We Now Know Them, and the Universe Expands to Many Times Its Original Size in a Very Short Period of Time “Welcome ladies and gentlemen to another beautiful diurnal period here at Universal Downs.
+We're ready for the start of what should be a most exciting Cosmological Derby.
+There are just four forces competing today, but each and every one of them is a champion in its own right.
+All four forces are lined up and unified at the starting gate, waiting for the bell to announce the moment of the Big Bang, which will start this exciting race to determine which is the strongest force in the Universe.
+While the fundamental particle physicists frown at the lack of precision in this explanation, the rest of us may continue on to the next chapter, which discusses parking places. 6 10“^^ seconds after the Big Bang The Universe EXPANSION In Which the Universe Continues to Expand, though not Quite as Quickiy The Universe is expanding, but for some reason it never gets any easier to find a parking place.
+You would have to wait 65 million years for a one-mile block in the middle of space to expand enough to produce another parking space.
+The other reason is that the gravitational attraction between all of the particles in the Earth completely overcomes the expansion of the Universe, so even if you circled a block on Earth for 65 million years it wouldn't get any bigger.
+Taking public transportation would be a much more efficient use of your time.
+In order to answer that question, let us imagine ourselves to be twodimensional creatures living on the surface of a balloon.
+Only the mathematicians among us have any concept of up/down, and everyone else suspects that they are probably just making it up.
+Eventually however, some two-dimensional astronomers discover 7 that the balloon is expanding.
+However, these concepts are quite difficult for the two-dimensional inhabitants of balloonland.
+But that would imply the Universe has a finite volumeastronomers call this type of universe “closed”-and will eventually stop expanding and begin to recollapse.
+While this is possible, many astronomers now consider it to be unlikely.
+It appears most likely that the Universe is infinite in extent-“open”-and will continue to expand forever, which implies that it is a three-dimensional hyperbolic paraboloid in four-dimensional space.
+Think of it as the fourdimensional representation of a three-dimensional saddle.
+Antiparticles are very much like particles, except that when particles and antiparticles meet they completely destroy each other and emit a burst of energetic radiation.
+God saw that the light was good, and He separated the photons from the particles and antiparticles.
+God called the photons “bosons” and the particles and antiparticles He called “fermions.And there was pair production and there was photon creation-the first 10'""^^ seconds.
+So God made an exponential expansion of the Universe that separated the magnetic monopoles from each other so that all attempts to find one would be futile.
+And there was vacuum energy density and there was 'j-y inflation-the first 10' seconds.
+God made protons and neutrons combine to produce deuterium nuclei, and the deuterium nuclei He combined to make helium nuclei.
+And there was also some lithium and there was also some beryllium-the first three minutes.
+God blessed the partieles and said, “Be fruitful and produee neutral atoms,” and the radiation beeame less energetie and the eleetrons eombined with atomie nuelei.
+And there was baekground radiation and there were neutral atoms-the first 380,000 years.
+God made the elusters of galaxies aeeording to their kinds, and the galaxies aeeording to their kinds, and the stars aeeording to their kinds.
+And there was violent relaxation and virialization-the first billion years.
+Enter PETRUCHIO and GrumiO Petruchio Verona, for a while I take my leave, To see my friends in Padua; but, of all.
+My best beloved and approved friend, Hortensio; and I trow this is his spatial domain— Here, sirrah Grumio; knock, I say.
+Grumio tunnels through PETRUCHIO’s energy barrier, producing PetrumiO, a deuteron Enter HORTENSIO Hortensio.
+While photoiA-s are hot, eLectrorvs are 0orre, with photorvs coLot, eLectrorvs corue.
+While you rvtay thlrrfe this dawce Is square, Fuslorr Is corvLliA-0, so tafee care.
+LOCAL GROUP, 10 billion years B.C. —Another major galaxy formed today in the Local Group, a collection of about two dozen galaxies located on the outskirts of the large Virgo Cluster of Galaxies.
+Whether life will develop within either of these galaxies is still an open question.
+Globular clusters contain hundreds of thousands of stars and orbit the new galaxy along elliptical paths.
+The stars here are mostly hydrogen and helium so it is not expected that many planets will form, making it unlikely for life to arise around these stars.
+As the pregalactic cloud began to collapse in earnest, the cloud's slight rotation became faster and faster and the stars and gas formed a disk.
+It is expected that the intense star formation in this region of the new galaxy will result in large amounts of the elements needed to form planets and life.
+The chances for life may be highest near the center of the galaxy, where the star formation is most intense.
+However, it is possible that supernova explosions will sterilize planets that orbit stars close to the center of the galaxy.
+The Galaxy TURBULENT FRAGMENTATION In Which a Giant Cloud of Gas Fragments into Smaller Clouds, Which Become Protostars a stellar nursery IF YOU’RE LIKE ME, YOU’VE PROBABLY LOOKED UP AT THE SKY COUNTLESS TIMES TO ADMIRE THE BEAUTIEUL STARRY NIGHT and wished you could have the same effect in your own home.
+Because this month’s issue of Martha Stellar Living is devoted to learning how to make a star.
+I love stars because they provide an opportunity to be so wonderfully creative with such simple ingredients.
+That cloud of gas you probably have in your garden could be turned into an old standby such as a Sun-like yellow star.
+And simply by adding a bit of mass you can easily produce a brilliant blue 17 supergiant.
+Of course, a well-stocked pantry makes the preparation of stars much, much simpler.
+Magnetic fields are most important and a good garden is an absolute must for providing the necessary elements.
+My garden is modest, only a few cubic parsecs in size-about 100,000 billion billion billion billion billion cubic yards or so-but it provides me with all the hydrogen, helium, and trace elements necessary to make perfect stars every time.
+To start, take a cloud with about ten thousand solar masses of material.
+The cloud will be rotating, which is a problem because of course angular momentum is conserved.
+This is often very troubling to novices since the traditional methods won't help here, but remember that flexibility is an important part of being a good and creative cook.
+So instead of dealing with each part of the cloud individually, add a magnetic field to transfer some of the angular momentum from the entire cloud to the surrounding medium.
+Don't rush this step-you need to wait a full million or even ten million years before proceeding if you want a perfect star.
+Your cloud should now be relatively smooth, with just a few lumps here and there.
+At this point, add some random motion to the mixture, and watch as this turbulence fragments it into smaller and smaller pieces.
+The Galaxy MASSIVE STAR FORMATION In Which a Massive Star Is Formed stars in the making IN THE LAST ARTICLE I SHOWED YOU HOW TO TURN A GIANT MOLECULAR CLOUD INTO SOME LOVELY PROTOSTARS, AND now it’s time to learn how to turn one of these into a perfect star.
+As long as you keep it transparent the radiation will escape from the center and the temperature will be stable.
+Remember that you can't get a perfect star if it is heated unevenly during formation, so never skimp on these details.
+After a few thousand years, the central regions should become dense and begin to collapse faster than the rest.
+The density and pressure should increase 20 until the central regions reach a temperature of about 3,140 degrees Fahrenheit, at which point the hydrogen molecules begin to break into hydrogen atoms, spurring further collapse until a temperature of about 53,540 degrees Fahrenheit is reached in the core.
+This increase in core temperature should occur over a period of a few hundred thousand years-remember not to rush things-and the surface temperature will increase from -270 degrees Fahrenheit to a most satisfactory 4,940 degrees Fahrenheit.
+At this point the time required for the next step depends greatly on the final mass you want the star to have.
+Because I insist on offering only the very best to my guests, I usually make a massive star of about 15 solar masses.
+And since such stars don't take as long to make, I can create more of them.
+While a star the mass of the Sun would take 40 million years to complete the protostar phase, a 15 solar mass star needs only 60,000 years.
+Of course, the more massive star will live for only 10 million years rather than 10 billion, but that can be an advantage since I like to redecorate fairly frequently.
+Still, since less massive stars are cool, they are red, so I sometimes make a number of 21 low-mass stars just for a little variety in color.
+Remember, the star clusters you create can be elaborate, elegant, and quite substantial at the same time.
+Don't forget that the final mass of each star will depend somewhat on the environment of the proto star-be sure to prepare the region ahead of time so there will be no errors.
+In the final stages, the core temperature increases to a few hundred thousand degrees Fahrenheit, the hydrogen is ionized, and then the star contracts to its final radius.
+Once the core temperature is high enough , nuclear fusion commences, and a new star is born.
+Remember that throughout this process, organization is of utmost importance.
+Make sure that your ingredients are ready when they are needed-knowing when and where to add more material is absolutely essential for making a perfect star.
+For example, if the star rotates too quickly, it could end up with an active surface, and it will not make for a lovely presentation.
+I KNOW THAT BEFORE YOU SIGNED UP TO BE A MASSIVE STAR YOU READ THE FANCY BROCHURES THAT TALKED ABOUT HOW BRIGHTLY YOU'D BE SHINING AND HOW YOU'D BE VISIBLE FROM HALFWAY ACROSS THE Galaxy.
+All three were busy fusing hydrogen to helium, but because their masses were not the same, they each went about it in a different way.
+The little star shone only as brightly as it thought wise, and used up its hydrogen fuel very slowly.
+The medium star used up its hydrogen in 10 billion years and then started fusing helium to carbon and oxygen.
+But the helium only lasted a billion years, after which the medium star decided to be content with being a slowly cooling white dwarf.
+Even though it had 25 times more hydrogen than the medium star, it used it up 1,400 times faster, and the hydrogen only lasted 7 million years.
+Then the big star started fusing helium to carbon, but that only lasted half a million years.
+It was left with a core of one and a half solar masses of iron at a temperature of 10 billion degrees Fahrenheit.
+And unfortunately for the big star, the protons and neutrons in iron nuclei are so tightly bound together that iron fusion doesn't produce energy.
+Now the big star felt as though 7 billion billion billion elephants were pressing down on its core, and the temperature rose even more until energetic photons completely disintegrated the iron nuclei.
+The big star thought that 7 million years was a long time and that it didn't have to worry about such a distant future.
+After the hydrogen was gone, it realized that such wasteful energy production may not have been the wisest course of action, but it was too late to do anything about it.
+The Galaxy SUPERNOVA EXPLOSION In Which a Massive Star Ends Its Life by Expioding “Hum Parsec to Star Command, come in, Star Command.
+According to my neutrino detector, silicon burning should be almost complete.
+Even though individual neutrinos very rarely interact with matter, that many neutrinos could easily fry you.
+The material has rebounded and is flying away from the center of the star.
+I am safely away from the supernova and am now able to report on the effects it is having on the surrounding area.
+Nearby clouds of hydrogen and helium gas are being compressed by the force of the explosion, and the heavy elements it created are being mixed with the clouds.
+Some of these clouds are now dense enough to become protostars, but the amount of metals is probably too small to create planets.
+My husband and I wanted a star with a big enough habitable zone that we could have life on at least one planet, but we didn't have a lot of resources to spend.
+The stars would be emitting only 30 to 60 percent of the energy that a one solar mass star emits.
+It was exactly 1. solar masses and there were nine planets forming around it, one of which was at a distance of 93 million miles from the star.
+Stars produce more energy with time, so the location of the habitable zone changes, but we calculated that this planet would be habitable for at least six billion years, by which time we will have long since retired.
+They found only 1 part per 10 billion of lead and no detectable radon in the star, which set our minds at ease.
+After getting a loan for the necessary resources, we signed the final papers and the star system was ours.
+The Earth PLANETARY DIFFERENTIATION In Which the Planet Earth Forms “Welcome back to the Planets Show on the Galactic Value Channel.
+It's a terrestrial planet, which as you know is the number-one best-selling planetary type in our GVC collection.
+The Earth and the other terrestrial planets are forming close to the sun out of kilometer-sized chunks of rock.
+Because the temperature in the inner solar system is too high for ice to survive, the terrestrial planets have only about 10 percent of the planetesimals available to the outer planets, and therefore will not become massive enough to hold onto hydrogen and helium.
+It will be a beautiful mixture of brown and blue, with about 70 percent of its surface covered by water.
+You know, when I saw that it was on the schedule I heard the writing on the wall and just knew it would go fast.
+I was especially impressed by the way in which molten iron will percolate down through the silicate mantle to produce a spinning metallic core.
+I'm expecting an atmosphere to form from the emission of volatile gases 34 from volcanoes, as well as from comet impacts.
+The cycle goes on For billions of years; watch as The Sun gets brighter.
+The Earth MOLECULAR REPRODUCTION In Which Life on Earth Begins It was a dark and stormy night.
+In the shallow tide pool, a nucleic acid base collided with a sugar molecule.
+The tide pool had once been connected to the sea, but since then an army of sluggish days had marched by and evaporation had increased the concentration of organic molecules.
+Things had been tough for a long time, but now it was easier for small chains of molecules to form.
+A longer chain with a sinister look formed on the clay bottom, but then a speedy molecule slammed into it like brass knuckles on a Ming vase and disappeared into the night.
+In the upper atmosphere, the water, methane, nitrogen, carbon dioxide, and hydrogen sulfide that composed the comet had been shock heated and converted into dozens of different organic molecules.
+The shock wave from the impact hit the pool, increasing the 39 temperature of the water like a match in a bathtub still.
+When the Sun rose in the morning, its bright ultraviolet light sped things up.
+Many complex chains of molecules were formed in the newly enriched tide pool.
+One of the new chains had the unique property that it could reproduce itself using the molecules in the tide pool as raw materials.
+The simple molecules of the tide pool began to feel like swimmers with concrete galoshes.
+It didn't take long before most of the bit players had been consumed and the tide pool was filled with copies of the new chain.
+Then a high tide came in and washed many of the big boys out to sea, where they began to prey upon a new set of short, helpless chains of molecules.
+The long chains of molecules continued to reproduce themselves in a shallow bay near the tide pool by feasting upon the smaller chains in the area.
+Some of the long chains lost the ability to produce reproducing copies of themselves, but every so often a molecular chain formed that could reproduce itself even better than the rest, and soon the area was swarming with this kind of chain.
+The process led from complex chains of molecules to even more complicated groups of molecules.
+WARNING Thank you for purchasing a genetic code from Genetic Codes, Incorporated.
+We at GenCod are pleased to provide you with a genetic code that will allow for a wide variety of design possibilities.
+With proper care, your genetic code can last for billions of years or longer.
+These instructions for protein assembly using your GenCod genetic code will help insure that your protein synthesis goes smoothly and quickly.
+Be advised that any variation could result in unsatisfactory and/or dangerous proteins and a possible voiding of your warranty.
+Thymine always bonds with adenine, guanine always bonds with cytosine, cytosine always bonds with guanine, and uracil always bonds with adenine.
+After the copying process is complete, take the RNA strand to the protein synthesis site.
+Once the RNA has been moved to the protein synthesis site, begin reading the strand in groups of three nucleotides eachknown as codons-and adding amino acids using the table below.
+Its function is determined by its three-dimensional structure, which is defined by the order of its amino acids.
+Your GenCod genetic code assumes that you will only be using left-handed amino acids.
+Mixing right-handed amino acids and left-handed amino acids will almost certainly result in malformed proteins and could cause death, disease, or other serious injury to you and/or to neighboring organisms.
+Refer to the diagram for pictures of L-alanine and D-alanine, the two stereoisomers of the amino acid alanine.
+H I 0 H-C-H H \ I I C C N-H / I I 0 H H L-alanine D-alanine O' H H \ I I C C N-H / I I 0 H-C-H H I H Your GenCod genetic code has been specially designed to be as error-free as possible-for example, if a mutation changed a GCA codon into a GCG codon, then no change in the protein would occur since they both code for alanine.
+Despite the fact that your GenCod genetic code has been shown in laboratory tests to be more resilient to errors than 99.9999% of the possible genetic codes, some errors are inevitable and this should not be seen as a defect in our product.
+In fact, without such errors evolution would be impossible, and you would be unable to use the full power of your GenCod genetic code.
+Thank you for purchasing a genetic code from Genetic Codes, Incorporated.
+We hope that it will provide you with billions of years of satisfactory use.
+The Earth FERMENTATION In Which Bacteria Obtain Energy from Their Surroundings Polymers in the ocean get made When organic compounds are sauteed Bj lightning or heat, Ora OV-lighttreat, So that sugars like glucose pervade.
+And glucose was a favorite treat Eermentation reduced The glucose, and produced Ethanol, CO2, and some heat “When there's lots of glucose that works fine.
+Hosts Seeking Endosymbionts Recently nucleated cell seeks cyanobacterium to become chloroplast.
+I'll supply a protective environment with carbon dioxide, water, and access to light, you supply the chlorophyll, produce carbohydrates, and release oxygen.
+Ext 1 If you can turn carbohydrates Into energy, then you've got what I need, baby.
+Ext 2 Endosymbionts Seeking Hosts Purple aerobic heterotroph wants to become a mitochondrion for a caring proteobacterlum.
+I long to turn sugar and oxygen Into energy, water, and carbon dioxide for you.
+I'll slip Inside your cell walls and give you a lifetime of satisfaction.
+The Earth RESPIRATION In Which Eukaryotes Evolve to Survive in an Atmosphere with Increasing Amounts of Oxygen Foraminifera V 4.
+Enter DiNOFLAGELLATE, DIPLOMONAD, Microsporidian, and Trichomonad 20 Foramy.
+And a geologic era shall never go by, 30 From this day to the ending of the world.
+But we in it shall be remembered; We few, we happy few, we band of protists.
+The Earth MULTICELLULAR ORGANISMS In Which Organisms Composed of Many Specialized Cells Arise ASSOCIATIVE DISORDERS The essential feature of these disorders is the alteration of individual cells to become mutually dependent upon one another for various cellular functions.
+If it occurs with identical cells (as in Colonial Organism Disorder), then the cells become temporarily or permanently associated but little integration of cellular activities occurs.
+A state of being is defined here as an enduring pattern of existence wherein the individual cells combine to participate in food consumption or production, reproduction, and locomotion as a single entity.
+In classic cases, the collection of cells is 48 permanently associated as a colonial organism; in other cases, transient collections of cells can form a temporary aggregation.
+Diagnostic criterion for 314.15 Colonial Organism Disorder _ A The existence of only one distinct state of being within a group of identical cellular organisms.
+In classic cases (Complex Multicellular Organism Disorder), a large amount of cellular specialization occurs, with different types of cells being responsible for locomotion, reproduction, and other cellular functions.
+In other cases (Simple Multicellular Organism Disorder), only a limited amount of cellular specialization occurs.
+Today we have with us two pair of protozoans who have swapped chromosomes.
+We will protect their identities by calling them Protozoans 1, 2, 3, and 4.
+Well, Terri, it just feels so good to be able to exchange advantageous characteristics with loved ones.
+Eor example, if I develop a more efficient method of locomotion, I want my sweetheart to be able to move in the same way.
+When we're in the mood, my lover and I merge and share protoplasm, during which we do the chromosome swapping.
+Afterwards we separate and during our next cell division, our new chromosomes are used.
+Terri, I want to be able to join with my partners more intimately by giving them all of my chromosomes while keeping copies for myself.
+I agree with what Protozoan 3 has to say, but I foresee an even greater advance, in which instead of reproducing by dividing into two identical cells, we divide into four cells, each containing half of our genetic information.
+These cells would then be able to join with cells from other protozoans, and we would have a very efficient method of producing new traits, which could then be tested via natural selection.
+I call it sexual 52 reproduction and I think everyone will be doing it soon.
+Palaeolyngbya, reported the results at the annual meeting of RAAC, the Rodinia Association for the Advancement of Cyanobacteria.
+Bacterial astronomers recently discovered that in only five billion years the sun will run out of hydrogen in the core and expand to engulf the Earth.
+Palaeolyngbya's team is responsible for developing the capability to explore the solar system and the Galaxy for new places to live.
+Palaeo54 lyngbya, “we hoped to be able to develop simple multicellular organisms that would then evolve into life forms we could use to explore the Galaxy.
+Gloeocapsomorpha is leading the effort to evolve the arthropods into “intelligent” creatures that will be able to build space ships to leave the Earth, taking bacteria volunteers with them.
+Although the arthropods appear to have the best chance to complete the project, a small group is trying to evolve the chordates.
+The bacterial scientists estimate that it will take about half a billion years to develop the capability for space flight, and then another few hundred mill ion years to completely colonize the Galaxy.
+Now we are testing whether this subphylum, or any subphylum so conceived and so dedicated, can long endure.
+We have come to dedicate a portion of it as a final resting place for those who here gave their lives that this subphylum might live.
+But, in a larger sense we can not dedicate—we can not conescrate—we can not hallow this mud.
+The brave trilobites, living and dead, who struggled here have consecrated it, far above our poor power to add or detract.
+The world will little note, nor long remember, what we say here, but it can never forget what they did here.
+It is for us the living, rather, to be dedicated here to the unfinished work that they who fought here have thus far so nobly advanced.
+In research funded by previous TSF grants we developed improved lungs and began to replace fins with feet.
+The improved lungs extract oxygen from air in addition to the oxygen we obtain from the water with gills, and have since been used extensively in shallow stagnant ponds and bays where the oxygen content in the water is too low for gills to function properly.
+The feet have been very useful in traversing the bottom of swampy regions on the edges of continents.
+Such locomotion does not alert prey to our presence the way that swimming does, and has therefore dramatically increased our ability to obtain food.
+For example, because air is much less dense than water, on land the downward gravitational force will not be balanced by an upward buoyancy force.
+We will therefore need compact and muscular bodies to overcome the force of gravity.
+For complete COL we will also need to be able to reproduce out of the water.
+This will require eggs that will hold water while being 59 permeable to the oxygen that is so important to developing embryos.
+Although this problem is difficult, it is not intractable, and it will be the subject of a future TSF grant proposal if the current proposal is funded and successful.
+The Earth COMET COLLISION In Which a Comet Hits the Earth Once upon a time, on a warm June day about 65 million years ago, while Shelley Shrew was sleeping under a big green leaf on an island near the Yucatan peninsula in what is now Mexico, a comet hit her on the head, killing her instantly.
+The Earth DINOSAUR EXTINCTION In Which the Dinosaurs Die I've lost you, you've lost me, We're as dead as dead can be 'Cause a 10-mile comet smashed into the Earth, There won't be more dino births.
+The Earth MAMMAL EXPANSION In Which Many Species of Mammals Develop MAMMALIA CLASS PROSPECTUS A Balanced Class of Vertebrates TAM-CO, Tertiary Animal Management Company Pangea, Earth The Mammalia Class is a diversified open-ended class of vertebrates that seeks to provide long-term growth.
+The Class invests about 65% of its species in placental mammals, about 32% of its species in marsupial mammals, about 3% in multituberculates, and less than 0.1% in monotremes.
+As with any investment that is subject to wide fluctuations in environmental conditions, you could lose resources by investing in the Class.
+These species have not been approved or disapproved by the Species and Environmental Commission, nor has the Species and Environmental Commission passed upon the accuracy or adequacy of this prospectus.
+Remember that past performance is not necessarily indicative of future returns.
+Examples include the prairie-dog-like Eambdopsalis and the squirrel-like Ptilodus.
+A highly successful subclass, especially in some parts of the world, marsupials have short gestational periods.
+The Eutheria are placental mammals and are the most successful mammal subclass, with indications that they will become even more successful over time.
+Placental mammals bear live young that are nourished before birth by a placenta.
+The Class invests in species that show great promise for future returns.
+As a result of the failure of the Dinosauria subclass in 65 million years B.C., the Mammalia Class has shown a great deal of recent diversification, especially among the carnivorous mammals.
+One of our cheerful representatives will be very glad to bring you a basket full of useful information and free gifts.
+We'll also be happy to answer any questions and provide you with any information you may require to address your changing needs.
+Those flexible digits and forward-facing eyes can also be very useful on the savannah.
+You diverged from monkeys about twenty million years ago and from chimps about five million years ago, so you're probably feeling a bit disconnected from your roots.
+We understand what you're going through, and you can count on us to be there for you.
+Just remember, walking has freed your hands for carrying, tool use, and accepting our free gifts.
+Your brain has been getting bigger for the past two million years, so you're now smart enough to realize what a great deal this service is and to understand the advertisements that we'll include in your basket for free.
+We've been bringing together different species in a spirit of cooperation for millions of years.
+They are TALKING, and you too can exchange information orally after you take this simple course in spoken language.
+Consonants Vowels g as in grunt. u as in grunt, r as in grunt. n as in grunt. t as in grunt.
+Below are the parts of speech used in spoken language; Simple nouns Compound nouns grunt, water grunt grunt, water buffalo grunt, buffalo grunt grunt, buffalo water Verbs Pronouns grunt, do grunt, / grunt, eat grunt, you Adverbs Coniunctions grunt, quickly grunt, and grunt, slowly grunt, but Adiectives Articles grunt, yellow grunt, the grunt, brown grunt, a 68 3.
+Complex sentence Grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt, Thagg.
+Eat the brown water buffalo but do not drink the yellow buffalo water, Thagg.
+Thagg, grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt, grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt, grunt grunt grunt grunt grunt grunt grunt grunt grunt, grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt grunt.
+Thagg, it occurs to me that if you hold the stone you wish to flake in one hand, and the stone with which you intend to strike it in the other, after which you strike the one with the other, then you may obtain much more efficacious tools than if you continue using your current method of throwing the second stone at the first while it is laying on the ground.
+The Earth GLACIATION In Which a Thousand-Year Ice Age Begins “And in other news, Mount Toba on the island of Sumatra erupted today.
+Darkness will continue for the next several weeks as ash from 71 the volcano covers about 20 percent of the planet, and temperatures will begin to drop.
+The temperature will be about 20 degrees lower than average for the next six years, and I'm forecasting that approximately three-quarters of all plants in the Northern Hemisphere won't survive.
+In addition, global snow cover will reflect much of the Sun's light, causing a world-wide ice age that will last a thousand years and kill off all but a few thousand people.
+Flint Scrapers Are Very Helpful in Shaping Bone and in Processing Hides.
+Some Folks Have Been Using Flint Blades On and Off for More than Two Hundred Thousand Years, and Bone Tools Go Back Almost that Far.
+THINK NEW THINK BOLD THINK BONE Paid for by the Aurignacian Bone Tool Advisory Council.
+The Earth RELIGION In Which a Diversity of Beiiefs Arise Ceremontaltsim. ^agantsin. ©cculttsm. iUlpsittctsim. ^anttjeisim. ^tn&utsim.
+Calbintsim. illacumba. ^umantsin. ©etsim. ^resibptEriantsim. papttsitsi. ©uakersi.
+Jfreemasionrp. ^asitbisim. jMetbobtsim. ^ptrttualtsim. jHarttnisim. ^babersi. ^anttera.
+Cbristabelpbiantsim. ©neiba. ^ptritism. paba't. ^ePentb-Bap SbPentisitsi.
+The Earth ANIMAL DOMESTICATION In Which Humans Domesticate Animals “Hi, Rex.
+They do most of the work taking down the prey and I get as much as I can eat.
+We'll snooze in the sun all day and they'll bring food to us whenever we want.
+The Earth FOOD SURPLUS PRODUCTION In Which Humans Develop Agriculture “I'm hungry.
+I don't think that's exactly what you meant by all those strange words, but it's a start.
+The Earth WARRING NATIONS In Which Nation Battles Nation for Resources 50 WAYS TO LOOT YOUR NEIGHBOR The problem is too much discontent, she said to me.
+I'd like to help you do your duty as marquis, There must be fifty ways to loot your neighbor.
+I said, I appreciate that, but I'll have no more talk about the fifty ways.
+Furthermore there is a plan that I like better, I confess And then she killed me, took my land, and became marquise.
+Caravans of hundreds of donkeys traveled twelve hours a day or more to and from Armenia, and ships full of timber sailed to Egypt and returned with fish, flax, papyrus, alabaster, lentils, and gold.
+Overreaching leaders, faltering armies, overuse of farmland, but none of them really fit.
+After spending 12 years in field research, Erank and I get together to compare notes.
+It looks like the population in the north abandoned their homes and moved south into the cities, overtaxing water and food supplies and leading to urban chaos.
+Hmm... this soil has very few earthworm holes but lots of wind-blown fine dust.
+If the north dried out, then the wheat, barley, and sheep that provided the empire with wealth would have disappeared.
+Upon arrival back in Ann Arbor, Friday and Jones wrote up their results and submitted a series of papers to the American Journal of Archaeology.
+Explaining the disappearance of the Akkadian Empire is rewardable by not less than tenure and not more than promotion to full professor.
+The Earth CIVILIZATION In Which Many and Sundry Events Occur “Good morning class, and welcome back to World History.
+He was the son of King Solomon and because of his misrule the northern tribes broke away from Jerusalem and established the kingdom of Israel.
+By this time all his elephants had perished, and despite his military victories, his home of Carthage failed to 87 give him sufficient support.
+In the end, he could never muster enough strength to assault Rome itself in the fifteen years that his army ravaged Italy.
+Yes, that was when Emperor Wu-Ti became a Buddhist and introduced Buddhism to central China.
+In 1378 the cardinals had elected Urban VI as pope, but within four months they had declared that election null and void and elected Clement VII instead, creating two lines of popes.
+He soon died and was replaced by John XXIII, but Gregory XII and Benedict XIII refused to step down, so now there were three 88 popes.
+That was the year Martin Luther felt compelled to protest the Church's granting of indulgences.
+Oh, yeah, that was the year that Yoshimune became the eighth shogun of the Tokugawa Shogunate.
+Only 33 when he became shogun, he was known as one of the wisest rulers in the history of Japan.
+He carried out many reforms and encouraged the martial arts and education.
+Your facts about Yoshimune are correct, but he became shogun in 1716, not in 1717.
+Tomorrow we're going to be discussing the preamble to the Constitution of the United States.
+The executive branch will be headed by a President, whose term will be four years.
+President and vicepresident to be elected by electors from each state, chosen in 90 a fashion approved by the state legislature.
+OK, the president will be the person who receives the most electoral votes, and the vice-president will be the person who receives the second largest number of electoral votes.
+What if... —Okay, Okay, I know you could've chosen to call Constitution King.
+Yes, I know that their advertising says that special orders don't upset them.
+Well, give us a call if you change your mind. —OK, we'll fill in the details and get this to you by September 17.
+For though the Luddites break looms there Still a chance that they will see They can all get jobs in industry.
+The Earth WORLD CONFLAGRATIONS In Which Most of the World Is at War “Good evening, and welcome to World at War, the game show that lets you decide the fate of the world.
+Colonel Dimitrijevic, it's June of 1914 and you want to insure Serbia's independence from Austria-Hungary.
+In addition, this plan would require Germany to attack France as soon as Russia mobilized, regardless of whether it was a strategically good time to do so.
+Premier Salandra, the Great War has started and Italy has declared itself neutral.
+Italy would be unable to win any decisive battles, would suffer heavy casualties, and would gain little or no territory.
+It's 1917, and the War hasn't been going well, in part due to American supplies being shipped to the Allies.
+Your submarine warfare would not cripple the Allied cause, but it would draw America into the War and lead to a German defeat.
+President Wilson of the United States, Prime Minister Lloyd George of Britain, and Premier Georges 95 Clemenceau of France.
+Gentlemen, Germany has been defeated and a treaty to end the war must be drafted.
+That would worsen the economic situation in Germany and increase nationalist feelings in the country while leaving it with an enormous potential for military buildup, which could lead directly to future German aggression.
+Mr Churchill, it is the early 1930s and nationalism is on the rise in India.
+The Labour government wishes to make concessions, as do many in your own Conservative party.
+Not only is an independent India destined to happen, but such an action on your part would politically isolate you at a time when England might have to remain strong in the face of a dictator in, for example, Germany.
+Chancellor Dolfuss, the year is 1934 and many Austrians would like to see a union of Austria with Nazi Germany.
+Italian Premier Benito Mussolini says that he would support Austrian independence only if socialist parties are banned from politics.
+That would destroy the one political force with the potential to resist the Nazis.
+You would probably be murdered by Austrian Nazis, and although Mussolini would protect Austria for a few years, it would inevitably fall to the Nazis and be absorbed by Germany.
+General Gamelin, it is 1940 and a German attack on France is inevitable.
+The year is 1941 and you have been warned that Germany is about to break the 1939 Nazi-Soviet Non-Aggression Pact.
+Premier Konoye, your Foreign Minister is urging you to sign a Three-Power Pact with Germany and Italy.
+Had the resources you put into battleships gone into submarines instead, this might have worked, but as it is Britain would be able to survive and the economic and military might of the United States would be brought to bear against you, leading to your defeat.
+Convince one or more of the countries that have atomic weapons to detonate one where and when you like.
+This would probably be difficult to do, unless you happen to want a fission explosion on a small island in the Pacific, in a desert, or near a border between two countries who have recently announced that they have nuclear weapons.
+One or more of the countries that have atomic weapons may be willing to part with a few for the right price.
+You could use uranium , but this is difficult to obtain since more than 99 percent of uranium is U-238, which isn't suitable for use as an active material in bombs.
+Although the weapons-grade device will reliably release kilotons of energy, the reactor-grade device will ha ve a less predictable yield of between ^Band kilotons.
+Despite this disadvantage, you will probably have a much easier time obtaining the reactor-grade plutonium.
+Construct a spherical shell around this sphere withwedgeshaped grooves on the inside of the shel Th e grooves should be covered thick layer of gold and of polonium.
+Then make^^l identical plutonium wedges and assemble them into a soccer ball shape surrounding the spherical shell.
+Put conventional explosives around the plutonium shell and a^^|cm thick shell of Uranium-238 around the explosives.
+Finally, it would be good to have a lead shell around the whole thing to cut down on the radiation coming from the plutonium and uranium before the bomb is detonated.
+When a plutonium atom absorbs a neutron it splits into two smaller atoms (for example, strontium and barium), which releases energy and several more neutrons.
+These neutrons each go on to split other plutonium atoms, which emit more energy and neutrons.
+Since Uranium-238 is a very good reflector of neutrons, any neutrons that escape from the plutonium sphere will be bounced back by the uranium shell.
+The chain reaction continues until betweenH% and of the plutonium atoms have been split, at which point so much energy has been released that the bomb (and much of the surrounding countryside) is vaporized.
+The surgeon general has determined that fission explosions may be hazardous to your health.
+The Solar System SPACE EXPLORATION In Which Humans Begin to Explore Outer Space ""We choose to go to the moon.
+On April 12, 1961, Yuri Gagarin became the first human in space, making a one-orbit flight.
+Hundreds of people and thousands of satellites have followed these pioneers into Earth orbit.
+The satellites study the Earth, transmit telephone calls between continents, make observations of the Universe, and allow anyone in the world with a satellite dish and a descrambler to watch soap operas and dirty movies.
+Spacecraft have been sent to study the Moon, the Sun, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and comets and asteroids.
+An asteroid six miles on a side would satisfy the current world demand for aluminum, chromium, and gold for twenty to thirty thousand years.
+At current prices, the gold alone in one such asteroid would be worth about 60 trillion dollars.
+It is possible that life on a planet like the Earth will keep mutating and evolving until it develops a species intelligent enough to invest in a program to detect and divert potentially catastrophic comets and asteroids.
+Data from high-speed cameras suggested that the velocity of the plate was more than 40 miles per second right after the nuclear blast.
+This velocity is high enough for the plate-if it survived the passage through the atmosphere-to have escaped not only from the Earth, but also from the Solar System.
+Their starting point is different, and their courses are not the same; yet each of them seems to be marked out by the will of Heaven to sway the destinies of half the globe.
+On October 15, 1962, photos of Cuba taken from an American U-2 spy plane revealed nuclear-capable Soviet missiles that would have been able to reach much of the United States.
+Many of President Kennedy's closest advisors supported an immediate invasion, not knowing that the Soviet field commanders in Cuba had 98 tactical nuclear weapons that could very well have been used against an American invasion force.
+The individual pilots had the ability, though not the authority, to fire their nuclear-tipped missiles.
+On the evening of October 22, the President addressed the people of the United States, announcing to the world the presence of Soviet missile bases in Cuba and demanding that they be removed.
+On October 24, Soviet ships on their way to Cuba were stopped by United States Naval vessels.
+They had been delivered in September, and on October 24 the missile officers began frantically working to get the missiles online as soon as possible.
+He shot at the intruder and sounded the sabotage alarm, which alerted airfields all over the area to watch for possible saboteurs.
+At Volk Field in Wisconsin, however, the klaxon signaling a nuclear war went off by mistake.
+The pilots immediately started their nuclear-armed interceptors and were moving down the runway when an officer drove his vehicle in front of them and ordered them to stop.
+The base commander had phoned Duluth and found out that it was the sabotage alarm that should have sounded, not the nuclear war klaxon.
+This was a previously scheduled test, but no one had thought to cancel it, despite the fact that the other nine test missiles had been loaded with nuclear weapons during the previous two days.
+The pilot radioed for help and nuclear-armed Air Force F-105 jets were scrambled to escort the pilot back.
+The Soviets launched interceptors to shoot down the U-2, but it returned to American airspace before they could reach it.
+Had the U-2 been attacked, it would have been within the local Air Force base commander's authority to order the FI05s to use nuclear missiles against the Soviet aircraft.
+The interceptor pilots had the ability, and in the case of a communications failure, the authority, to attack hostile Soviet aircraft by using their nucleartipped missiles.
+At the same time, a satellite came over the horizon at just the wrong moment, resulting in a real radar detection despite the fictional missile.
+I certainly hope that Knabsnoitan is more liberal in interpreting these directives than he used to be.
+Five men are arrested for breaking into a national party headquarters at the Watergate officeapartment-hotel complex.
+The President holds a press conference at which he notes that “what really hurts in matters of this sort is not the fact that they occur, because overzealous people in campaigns do things that are wrong.
+In a conversation with an aide, the President says, “The cover-up is what hurts you, not the issue.
+The judge in the Watergate trial says he is “not satisfied” the full story was disclosed.
+The Senate votes 70 to 0 to establish a Select Committee to investigate Watergate.
+In a conversation with the vice-chair of the Senate Select Committee on Watergate, the President says, “The main thing is to have no damn cover-up.
+In a conversation with the White House counsel, the President says, “[Ejspionage and sabotage is illegal only if against the government.
+In a letter to the Watergate judge, one of the defendants writes that he and the other defendants were under “political pressure” to plead guilty and remain silent.
+He claims higher-ups were involved in the breakin and that perjury had been committed at the trial.
+In a conversation with the Attorney General, the President says, “I don't want any cover-ups of anything.
+The acting Director of the FBI resigns after it is revealed that he destroyed evidence relating to the Watergate scandal.
+The White House announces the resignations of the Assistant Secretary of Commerce, the President's chief domestic affairs adviser, the White House chief of staff, the United States Attorney General, the White House counsel, and the Undersecretary of Transportation.
+The Vice-President resigns and the House minority leader is nominated to replace him.
+The new Attorney General and deputy Attorney General resign after refusing to fire the special prosecutor.
+The Solicitor General is named acting Attorney General and fires the special prosecutor.
+In a televised program from Disney World, the President says, “in all of my years of public life I have never obstructed justice.
+The President releases 1,254 pages of transcripts of taped events within the White House in lieu of turning over the tapes themselves.
+The Supreme Court rules 8-0 that the President must turn over 64 tapes sought by the special prosecutor.
+The House Judiciary Committee passes three articles of impeachment against the President.
+The Earth REUNIFICATION In Which a Wall Goes Up and Then Comes Down “It is almost never when a state of things is the most detestable that it is smashed, but when, beginning to improve, it permits men to breathe, to reflect, to communicate their thoughts with each other, and to gauge by what they already have the extent of their rights and their grievances.
+After the end of World War II, Berlin and Germany are divided Into four sectors occupied by the Soviets, Americans, British, and French “From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the continent.” —Winston Churchill, March 5, 1946 1949: Germany Is divided into East Germany and West Germany “Every gun that is fired, every warship launched, every rocket fired, signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed.
+It is spending the sweat of its laborers, the genius of its scientists, the hopes of its children.” —Dwight D Eisenhower, April 1953 “Whether you like it or not, history is on our side.
+I don't believe that the Poles consider themselves dominated by the Soviet Union.” —Gerald Ford, October 6, 1976 “A strong nation, like a strong person, can afford to be gentle, firm, thoughtful, and restrained.
+It is time they stopped thinking up one option after another in search of the best way of unleashing nuclear war in the hope of winning it.
+I'm pleased to tell you today that I've signed legislation that will outlaw Russia forever.
+We begin bombing in five minutes.” —Ronald Reagan, August 11, 1984 “It is better to discuss things, to argue and engage in polemics than make perfidious plans of mutual destruction.” —Mikhail Gorbachev, April 19, 1987 “We are in a war called peace.
+It is a conflict that has not ended and that will probably continue for generations.
+Their principal weapons in the struggle with the West are propaganda, diplomacy, negotiations, foreign aid, political maneuver, subversion, covert actions, and proxy war.
+Danforth Quayle, May 22, 1989 “The Cold War began with the division of Europe.
+The Berlin Wall comes down “Today, Eastern Europe is again Central Europe-which it has always been historically, culturally and philosophically.” —Zbigniew Brzezinski, March 7, 1990 1990: Reunification of Germany “hat I see in Marxist ideology and the Communist pattern of rule is an extreme and cautionary instance of the arrogance of modern man, who styles himself the master of nature and the world, the only one who understands them, the one everything must serve, the one for whom our planet exists.
+The Earth WORLD WIDE WEB CREATION In Which a New Medium Is Created “Marc Andreessen will tell you with a straight face that he expects to become the standard interface to electronic information.
+Well, now it's time to say hello to Bill and Microsoft, Who never take it lightly if their market share is lost Internet Explorer may not be a pretty swap.
+Let's say you’re an astronomer and you’re working on a Saturday afternoon because you have more to do than can be fit into a 40-hour workweek.
+After a few hours of work you realize that you’re bored by tbe details of what you’re doing and that you’ve got to do something different, even if only for an hour or so, or else you’ll take “hit any key to continue” far too literally.
+Even though you know that the end result of your work will be an improved knowledge of the Universe around us, getting to that end result can be a trial at times.
+You are, after all, an astronomer, and cosmology, the study of the origin and history of the Universe, is a subfield of astronomy, so you feel quite well qualified to write such a history.
+Because you have internalized the philosophy of “publish or perish,” you submit the piece to the Internet newsgroup rec.humor.funny, which is read by almost half a million people around the world.
+Then, 42 minutes later, you receive a missive that begins, “I have accepted your joke for rec.humor.funny Oh joy, oh rapture, oh bliss.
+The piece appears eight weeks later and is brought to the attention of the editor of the Annals of Improbable Research (see the glossary entry for more information about this most important scholarly journal), who wants to publish it.
+The editor has just published The Best of Annals of Improbable Research, which contains two of your pieces, and is signing copies of the book at the ceremony.
+Because of this, two representatives of the publisher are in attendance when you present The History.
+After a month or so you’ve put together a proposal and the publisher has accepted it.
+Then you find out that you can’t write the book after all, because I’ve already written it.
+But if it weren’t for the people listed below, this book might not exist and certainly wouldn’t be what it is.
+The Earth EXTRAPOLATION In Which Future Events Are Discussed Extrapolation is a very important concept but it can be quite difficult to do well.
+To put it simply, extrapolation is trying to figure out what will happen based on what has already happened.
+Interpolation is easier, that's just using what happened at the start and at the end in order to figure out what happened in the middle.
+I wrote the Extrapolation chapter of A Briefer History of Time on December 31, 1997.
+So instead of attempting to use my powers of extrapolation to make further predictions about the future.
+I’ll use this space to tell you a little more about the version of A Briefer History of Time you’re reading right now.
+In some ways it’s better because I’ve fixed typos and made a few improvements.
+However, it lacks the illustrations the hardcopy version has and some of the chapters here aren’t formatted quite as nicely.
+You are free to copy, distribute, display, and perform this work as long as you give me credit, do not use this work for commercial purposes, and do not alter, transform, or build upon this work.
+I enjoyed writing the original A Briefer History of Time and I’ve enjoyed revisiting it for this electronic version.
+The editor and co-founder of The Annals of Improbable Research, the editor of the books The Best of Annals of Improbable Research, Sex As a Heap of Malfunctioning Rubble , and The Ig Nobel Prizes, and all-around great guy.
+The resting stage of primitive eukaryotic life that lived between 1. to 1. billion years ago.
+Aerobic exercise is good for you, while anaerobic exercise tends to hurt a lot.
+Although hundreds of amino acids are known, only twenty are used to create proteins in life as we know it.
+Amino acids have been discovered in meteorites, in the gas between the stars, and in certain hair-care products.
+Followers of the sectarian movement that split from the Anabaptists in 1693, primarily over the Anabaptist belief that only the pure should be involved in religion.
+Members of Christian sects who believe that baptism should only be administered to believers and that infant baptism is not authorized by the Bible.
+Founded in 1955, this religion teaches that by meditating several times a day, devotees can reach a state of bliss.
+Members of the Church of England, which split off from Catholicism in 1534 so that Henry VIII could get his marriage to Catherine of Aragon annulled.
+A quality possessed by objects in circular motion, equal to the mass of the body multiplied by its velocity multiplied by the radius of the circle.
+Angular momentum is “conserved,” which means that if the radius decreases then the velocity increases.
+A dramatic example of the effects of angular momentum occurs when rotating ice skaters rapidly increase their spin simply by pulling their arms in.
+A wholly remarkable international science humor magazine, devoted to publishing science articles that are educational and humorous.
+In Sumerian cosmology he mated with his sister Kishar to create the great gods, including Enki.
+You probably knew this already, although you may not have thought about the termites.
+Helpful non-scientist critic and friend from way back in the days of the second Reagan Administration.
+All particles have antiparticles that are identical to them except for having an opposite electromagnetic charge.
+He built factories to employ hundreds of people, a dramatic change from the situation until then, in which only a few people worked together under one roof.
+Eounded in 1914, it is the largest of the Christian Pentecostal traditions.
+The author discovered one of these in 1993 but has since lost track of it.
+The building blocks of everyday matter, atoms are composed of nuclei surrounded by electrons.
+The protons and neutrons in the nucleus are held together by the strong nuclear force, and the electrons are bound to the atom by their electromagnetic attraction to the protons in the nucleus.
+A belief system that teaches that supreme bliss is attainable through a sequence of initiations after leading a monastic life and severing ties with family and friends.
+A period of time during the late Stone Age that was characterized by widespread use of flint blades and bone tools.
+Founded in 1844 by Mirza Ali Muhammad , this sect of Islam forbid polygamy and was violently persecuted.
+Founded in 1863 by Mirza Hoseyn Ali Nuri , the principles of this faith include the oneness of humanity; the oneness of religion; the evolutionary nature of religion; harmony between religion, science, and reason; the elimination of prejudice; the equality of men and women; the abolition of extremes of wealth and poverty; and universal peace.
+Members of Christian sects who believe that baptism should only be administered to believers and that immersion is the only baptism method authorized by the Bible.
+On Earth, a hard gray metal that is sometimes used in golf clubs and nuclear weapons.
+In the United Kingdom, 10® is often referred to as “a thousand million” and the word billion means 10*^, which is what people in the United States call a trillion.
+Black holes are typically five to a billion times the mass of the sun and spend very little of their time gallivanting around the universe gobbling up whatever comes near.
+These are marine animals that look like clams, but trust me, there are significant differences that I can't recall at the moment.
+Founded in 1929 as a sectarian movement from the Seventh-Day Adventist Association, which was founded as a sectarian movement from the Seventh-Day Adventist Church, Branch Davidians believe that the Second Coming of Christ is imminent.
+This sect was founded in 1946 and split from the Christian Pentecostal Movement in the 1950s.
+They believe that the first sin occurred when Eve engaged in sexual activities with the Serpent in the Garden of Eden.
+This is a somewhat complicated particle physics concept involving rather complicated mathematics.
+Formed in 1920 out of the Anabaptist tradition, this sect believes that the current society is a system of injustice based on violence, fear, and isolation, and that a new social order based on unity and Joy must take its place.
+National Security Advisor to the President of the United States from 1977 to 1981.
+Balloons float in the air because of buoyancy, while the hair of television personalities is buoyant because they use better hair-care products than you do.
+Bom in Massachusetts and raised in Connecticut, he went on to become President of the United States of America in 1989.
+Founded in the 16* century A.D. by John Calvin, this sect of Protestant Christianity teaches that human beings have no free will and that who will go to Heaven is predetermined.
+One might think that this would encourage people to do whatever they wanted to, but instead it encouraged them to be thrifty and industrious so as to show everyone else that they were destined for salvation.
+Organic compounds like starches and sugars that are composed of carbon, oxygen, and hydrogen.
+On Earth, pure carbon is either diamond or graphite, one of which is used in jewelry and the other of which is used in pencils, briquettes, and other useful items.
+On Earth, a colorless non-flammable gas required for photosynthesis, released by respiration, and used in carbonated beverages.
+Bom in Ecclefechan in 1795, this Scottish writer lived on a farm at Craigenputtock for six years; he hated and feared democracy.
+A nuclear engineer and Sunday school teacher who went on to become President of the United States of America in 1977.
+A direct descendant of the original Christian Church, which believes that Jesus Christ is the Son of God and that by faith in Christ people may obtain salvation and eternal life.
+Unicellular organisms have only one cell, while multicellular organisms like you can have trillions of cells.
+Cells reproduce, convert and store energy, manufacture molecules, and are present in most hair care products.
+The use of subcellular organelles so that each cell can have different duties in multicellular organisms.
+Any of a number of different belief systems that revolve around ordered actions of a symbolic nature performed to express and transmit values and beliefs.
+Formed in 1993, the followers of Chen Tao believe that the Earth has endured four nuclear holocausts, more than 888,800 million lesser holocausts, and is about to experience a fifth nuclear holocaust.
+A white or colorless substance that forms the hard outer part of crustaceans and insects.
+An organelle in plants that turns light, carbon dioxide, and water into carbohydrates and oxygen.
+The animal phylum that includes humans and other vertebrates, chordates have a dorsal nerve cord that runs down the back and connects the brain with the rest of the body.
+Plasma-physics-graduate-student-cum-copy-editor, turned software engineer and director of marketing at Maverick Technologies; hopefully one day proprietor of The Random Cafe.
+Founded in 1973, this Christian sect believes that all human behavior is inherently religious.
+Founded in 1879 by Mary Baker Eddy, Christian Scientists deny the reality of the material world and believe that healing results from understanding one's indestructible relationship with God.
+Prime Minister of England between 1940 and 1945, he should not be confused with Winston Churchill the American novelist and member of the New Hampshire legislature between 1903 and 1905.
+Premier of Prance in 1906-1909 and 1917-1919, he was also a doctor, a teacher, a journalist, and a novelist.
+A collection of hundreds or thousands of galaxies held together by the gravitational attraction between them.
+Globular clusters are stable collections of hundreds of thousands to millions of stars and are held together by gravitational attraction.
+Open star clusters are smaller and tend to be locations where stars have recently formed; they do not in general survive for more than a few tens of millions of years.
+Dirty snowballs composed mostly of dust plus frozen water, carbon dioxide, ammonia, and methane.
+Every so often one will come into the inner solar system and release a dramatic tail of evaporated ices.
+A computer program that translates computer programs written in a particular computer language that only programmers can understand into lists of instructions that only computers can understand.
+A device that tends to do what you tell it to rather than what you want it to.
+The statements in computer languages are usually composed of a series of incomprehensible words and symbols that require a compiler to translate them into a series of incomprehensible strings of Ts and O's.
+It states that everyone must strive to be virtuous and looks forward to the great commonwealth when humanity is united under ethical rule.
+Astronomy Ph.D., excellent copy editor, and all-around wonderful person.
+Father of all-around wonderful person Caroline Cox and expert on military history.
+A large class of arthropods that includes crabs, lobsters, shrimp, barnacles, and wood lice.
+They were awarded the Nobel Prize for Physics in 1903 and she was awarded the Nobel Prize for Chemistry in 1911.
+These single-celled organisms use light to produce carbohydrates and oxygen through photosynthesis and the results of their work can be found in most health food stores.
+The belief that the wonders of nature demonstrate the existence of God and that formal religion is unnecessary and can be counterproductive given the conflicts between adherents of different religious belief systems.
+The nucleic acid that contains the genetic code for organisms on the Earth.
+According to the Cable News Network, many people first heard about DNA during the Orenthal James Simpson trial.
+Tritium is even heavier, with two neutrons and one proton in the nucleus.
+Tritium is somewhat radioactive, so its presence in the congressional districts of influential representatives can lead to highly political government actions, even when the amount of radioactivity is very small.
+The Chief of the Intelligence Department in the Serbian General Staff who organized the assassination of Archduke Ferdinand in 1914.
+He had also been involved in the assassination of King Alexander in 1903.
+Unicellular organisms that have two long groups of protein strands called flagella that are used for locomotion.
+Founded in 1958, this belief system teaches that the world is a chaotic, confusing, and disordered place that human beings attempt to veil with a thin sheet of order and stability.
+Leader of the Austrian Farmers' League, he became Chancellor of Austria in 1932 and met his untimely end on July 25, 1934, at the hands of Austrian Nazis.
+The Donnybrook Fair was held each year between 1204 and 1855, when it was suppressed because of disruptive brawls and excessive rioting.
+A collection of beliefs from numerous ancient European religions stressing the cultivation of a close relationship with nature and the pursuit of knowledge and wisdom.
+In astronomy, dust refers to very small (about 10 millionths of an inch in diameter) grains of carbon, silicon, and other elements.
+The third planet from the Sun, it has a mass of seven thousand billion billion tons and a diameter of about 8000 miles.
+It has an atmosphere of nitrogen and oxygen and one relatively large moon.
+It is very likely to be the planet on which you are reading this book, unless it’s been uploaded to the International Space Station.
+An animal phylum that includes starfish and sea urchins, echinoderms can only live in salt water.
+Founded in 1965, this religion teaches that the body is separate from the immortal inner soul, that people must travel through twelve planes of existence before they can reach God, and that it is important to limit one's use of alcohol, tobacco, and drugs.
+The electromagnetic force is not as strong as the strong nuclear force, which means that atomic nuclei are held together despite the fact that protons repel each other electromagnetically.
+They are much less massive than the protons and neutrons that make up the nucleus of atoms.
+An organism in a symbiotic relationship with the organism within which it is living.
+For example, two protons both have positive electric charge and therefore repel each other, with the strength of the repelling force being proportional to the inverse of the square of the distance.
+In other words, the closer the protons get, the larger the force pushing them apart becomes and the more energy is required to overcome the repelling force.
+When the two protons are sufficiently close then the strong nuclear force can hold them together because it is much stronger than the electromagnetic force pushing them apart.
+In Sumerian cosmology he was married to the goddess Ninki; Marduk was their son.
+Members of American churches that split from the English Anglican Church in 1789.
+All known plants and animals are eukaryotes, as are fungi and many relatively simple organisms known as protists.
+Prokaryotic life, on the other hand, lack discrete nuclei and subcellular organelles.
+A skeleton that supports the body from the outside rather than from the inside.
+At the moment, the universe is no longer expanding exponentially, but rather in a linear fashion.
+Long groups of protein strands used by for locomotion by some microscopic organisms.
+A machinist's apprentice who went on to found the Detroit Automobile Company in 1899.
+That didn't work out too well, so in 1903 he founded the Ford Motor Company, which did rather better.
+A square is two-dimensional, it has length and width, which are perpendicular to each other.
+A cube is three-dimensional, it has length, width, and height, which are all perpendicular to each other.
+A hypercube is four-dimensional, it has length, width, height, and another dimension perpendicular to the first three.
+I can't point to this dimension, just as a two-dimensional creature couldn't point out what direction “height” could be measured in.
+Formed in 1717, Freemasonry stresses tolerance, respect, kindness, understanding, philanthropy, and morals.
+Some claim that the Masons are a secret society, although their membership, constitution, rules, aims, and principles are not secret and they sometimes advertise in in-flight magazines.
+Christian Fundamentalists believe that the Bible is literally true and that they are the guardians of the truth.
+The building of heavier elements from lighter ones, a process that usually releases energy.
+For example, four protons combine to form one helium nucleus in hydrogen fusion.
+A collection of hundreds of billions of stars held together by gravitational attraction.
+Appointed Chief of the Erench General Staff in 1931, he was named Commander in Chief of all Erench forces in June of 1939 and generalissimo of the Allied forces at the start of World War II in September, 1939.
+The war didn't go too well for Erance, though, and he was replaced on May 19, 1940.
+A state of matter in which the volume expands in all directions unless confined.
+A list of words and their definitions, usually found at the back of a book, in which the author tries to explain all potentially unfamiliar terms.
+Of course, the potentially unfamiliar terms in the glossary definitions then require glossary entries, and the potentially unfamiliar terms in these definitions then require glossary entries.
+On Earth, gold is a metallic element used in jewelry, coins, electronics, and nuclear weapons.
+One of the four fundamental forces of nature, this force results in every particle attracting every other particle.
+The gravitational attraction between all our particles and all the particles in the Earth keeps us on the ground.
+A gas that acts to heat the atmosphere of the Earth in a way that's not as similar as you'd expect to the way that a glass greenhouse heats the air inside of it.
+Eounded in 1913, followers of Gurdjieff believe that all individuals need purification and that they must work on relationships by opening themselves to others.
+The region around a star in which a potentially habitable planet can exist.
+The time it takes for half of a quantity of radioactive material to decay.
+The half-life of Radon-222 is 3. days, while the half-life of Uranium238 is 4. billion years.
+Some folks reckon that he invented them spinning jenny things 'round about 1765.
+Founded in the early 1700s by Rabbi Israel ben Eliezar, Ba'al Shem Tov as a sect of Judaism, Hasidism stresses the priority of emotion over intellect, the idea that all men are equal before God, and that prayerful devotion is preferable to Talmudic Study.
+A playwright, essayist, and brewery worker, he became President of the Czech and Slovak Federal Republic in 1989, and the first President of the Czech Republic in 1992.
+Helium nuclei are made up of nuclei with two protons and usually two neutrons.
+On Earth, helium is a colorless, odorless, non-flammable gas that allows balloons to fly but doesn't result in fiery explosions.
+An organism that obtains food from outside sources rather than by making it through photosynthesis or other methods.
+These as yet undiscovered scalar bosons are purported to give leptons, quarks, and intermediate vector bosons their masses, would be responsible for the existence of nine rather than three charged quark currents, and would cause both parity and charge-parity symmetry violations in weak processes.
+The religious beliefs and practices of the majority of people in India.
+Its beliefs include reincarnation based on karma, wherein the good and bad actions of individuals determine the form they will take in the next lifetime.
+A leader in the field of software development and validation, she developed the first compiler and created the computer language that led directly to COBOL, the first business-oriented programming language.
+She was born in 1906, studied mathematics and physics at Vassar College, and received a PhD in mathematics from Yale in 1934, while she was a professor at Vassar.
+In 1943 she Joined the United States Naval Reserve as a Lieutenant and was the first programmer of the Navy's Mark I computer.
+While working on the Mark II computer at Harvard she found the first example of an actual bug in a computer.
+She retired from the Naval Reserve as a Rear Admiral when she was eighty years old and she died in 1992 at the age of eighty-five.
+Belief systems that emphasize human capabilities, the study of past human achievements and literature, and respect for scientific knowledge.
+The most basic chemical element, hydrogen atoms are made up of one proton and one electron.
+On Earth, hydrogen is a colorless, odorless, flammable gas that allows balloons to fly, burn, and/or explode, depending on the size of the balloon and whether or not there are any sparks nearby.
+An intercontinental ballistic missile, which is a missile that can launch a warhead from one continent and have it land in another.
+These prizes honor people whose achievements cannot or should not be reproduced.
+The formal presentation of charges against a public official accused of misconduct so that he or she will be tried and removed from office if convicted.
+Bill Young, and Don Young voted to impeach the President of the United States, William Jefferson Clinton, on December 19, 1998.
+In the United States, the House of Representatives votes for the impeachment of federal officials while the Senate is responsible for trying them.
+In economics, too many dollars chasing too few goods, leading to price increases.
+In astrophysics, an exponential expansion of the Universe that occurred between about 10'^^ and 10'^^ seconds after the Big Bang.
+Founded in 1904, Integral Yoga teaches that people can obtain self-knowledge through regulated breathing, meditation, and/or self surrender.
+Ionized atoms have lost one or more of their electrons, making them positively charged and therefore subject to electric and magnetic fields.
+If you want to be picky about it, adding extra electrons to neutral atoms is also considered ionization.
+It teaches that one should submit to the will of God and constantly praise and glorify him.
+Founded by Mahavir Jain in the 6th Century B.C., Jainism is an offshoot of Hinduism and teaches that the cycle of reincarnation and rebirth can be escaped through monastic retreat, charity, and good works towards all life, especially humans and animals.
+Jainism teaches that the Universe had no beginning, that it will have no end, and that it operates in accordance with natural law.
+Founded by Charles Taze Russel in 1869 as a sect of the Adventists, their beliefs include that God's name is Jehovah, that salvation is acquired by good works, that only 144,000 people will enter Heaven, that those who do not make it into Heaven will disappear as if they had never existed, that Satan and his evil angels were kicked out of heaven to rule the Earth in 1914, and that Jesus will return soon.
+On average, each Jehovah's Witness spent 34.60693 minutes preaching each day.
+An American clergyman who was the first President of King's College , he should not be confused with the English writer who published a 40,000-entry Dictionary of the English Language in 1755.
+Extremely Orthodox, Orthodox, Very Conservative, Conservative, Somewhat Conservative, Reform, or Extremely Reform.
+The fifth planet from the Sun and the largest of the planets in the Solar System.
+It has more than sixty moons larger than a mile in diameter and four moons larger than 2000 miles in diameter.
+The Jovian atmosphere is very thick and is composed almost entirely of hydrogen and helium.
+Professor Kaplan deserves thanks for critically reading a final version of the manuscript and pointing out a number of inconsistencies.
+A Pulitzer Prize-Winning biographer, he was President of the United States from 1961 until his death in 1963.
+There are many theories about his death, one of the most concise being that a tiger got him.
+He should not be confused with J Danforth Quayle, the Vice President of the United States between 1989 and 1993.
+Russian shepherd and locksmith, he was also Premier of the Soviet Union between 1958 and 1964.
+It is said that while some followers of kibology wear pants, others do not.
+In the Linnean classification scheme used in biology, humans are of the animal kingdom, the chordata phylum, the vertebrata subphylum, the mammalia class, the eutheria subclass, the primate order, the anthropoidea suborder, the hominidae family, the homo genus, and the sapiens species.
+In Sumerian cosmology she mated with her brother Anshar to create the great gods, including Enki.
+Secretary of State of the United States of America between 1973 and 1977, he was awarded the Nobel Peace Prize in 1973.
+Premier of Japan twice , his aim of a “new order in East Asia” didn't come about quite like he imagined.
+In Sumerian cosmology, a primeval serpent who, with Lakhmu, brought forth Anshar and Kishar.
+In Sumerian cosmology, a primeval serpent who, with Lakhamu, brought forth Kishar and Anshar.
+On Earth, lead is a soft gray metal that should not be consumed by humans.
+Lead consumption can lead to frequent headaches, difficulty concentrating, lethargy, and a host of other maladies.
+Freeman and Company Publishers in 1998 and enjoyable person to work with.
+If you deposit $100 a month in a savings account that pays no interest, and you never withdraw any money, then your savings account is growing linearly.
+After the first month you have $100, after the second $200, after the third $300, and so on.
+A state of matter in which the volume is constant although the shape can change.
+On Earth, lithium is a soft silver metal used in batteries, ceramics, and lubricants.
+Lithium carbonate can help about 70 percent of people suffering from manic-depression.
+Prime Minister of England between 1916 and 1922, he should not be confused with David Lloyd, the Chief Justice of Pennsylvania between 1717 and 1731.
+A group of workers who destroyed looms in England between 1811 and 1816.
+On April 20, 1812, a large group of Luddites were prevented from destroying a particular factory and so burned the owner's house down instead, precipitating a government crackdown on Luddite activity.
+This enabled the fish with lungs to swim faster and longer than the fish without lungs.
+Lungs later became extremely useful to the animals that left the ocean to live on land, where gills tend not to work very well.
+He nailed his 95 theses to the church door in Wittenberg and started down the path that would lead to the Protestant Reformation and eventually to Garrison Keillor.
+The Grand Duchy of Luxembourg is located in Western Europe between Belgium, France, and Germany.
+A land of gently rolling hills, Luxembourg enjoys a stable economy with a 4 percent growth rate, a 2 percent inflation rate, and a 3 percent unemployment rate.
+It exports steel products, chemicals, rubber products, glass, and aluminum, while importing minerals, metals, food, and consumer goods.
+The government is a constitutional monarchy whose head of state is a hereditary Grand Duke.
+Every five years all 60 members of the legislative Chamber of Deputies are elected by direct popular vote.
+Judges on the Superior Court of Justice are appointed for life by the Grand Duke.
+The dominant languages in Luxembourg are Luxembourgish, German, French, and English.
+Germany occupied the grand duchy between 1914 and 1918 and between 1940 and 1944.
+A constitutional revision in 1948 revoked the perpetual neutrality of the grand duchy.
+Luxembourg is a member of the European Union and is closely connected economically to the Netherlands and especially to Belgium.
+The Luxembourg franc is fixed to the Belgian franc and Belgian francs circulate freely in Luxembourg.
+Macumba; Based on the spirit worship of Africans shipped to Brazil in the 1550s as slaves, Macumba teaches that humans have both a physical and a spiritual body, that the physical world is always being contacted by spirits, and that humans can learn to contact spirits for the purposes of healing and spiritual evolution.
+Caused by the electromagnetic force, these fields affect moving charged particles and are responsible for magnetism and indirectly for ATM cards.
+Many have searched for a monopole-derived Nobel Prize, but none have been successful so far.
+Founded by the Persian sage Mani in the 3rd century A.D., this religion teaches that the human body is evil and that the soul can only be redeemed by conquering its carnal desires.
+The ruler of the Sumerian gods, he defeated Tiamat in battle and cut her in half to form the heavens and the earth.
+Afterwards he created people out of clay and produced seeds so that they could grow food.
+One ranking system goes king, duke, marquis, count, and baron in decreasing order of royalness.
+One ranking system goes queen, duchess, marquise, countess, and baroness in decreasing order of royalness.
+The fourth planet from the Sun, its mass is 10 percent of the Earth's, and it is 4000 miles in diameter.
+Mars has a thin atmosphere of carbon dioxide, two small moons, and a tendency to attack the Earth in science fiction stories.
+Eounded by Louis-Claude de Saint-Martin, Martinism teaches that one should not work for personal interest and that the sexes are equal in the ability to develop divine gifts.
+This Virginia native invented the mechanical reaper at the age of 22 and, in so doing, set the world on the path to modern agriculture.
+A machine that allowed the harvesting of crops as soon as they were ripe, it solved one of the most important farming problems.
+Until the mechanical reaper, crop losses were large because harvesting took too long and was too inefficient.
+Eounded in 1526 as a sect of the Anabaptist faith, Mennonite churches exist as associations of people who are mature enough to make freewill decisions to join the church.
+People who seem to deviate from the teachings of the church are banned from the congregation and shunned.
+The closest planet to the Sun, its mass is 6 percent of the Earth's and it is 3000 miles in diameter.
+Mercury is also the name of a chemical element used in many thermometers, some batteries, but few reputable hair care products.
+Conversion is central to Methodism, as is repentance, faith, sanctification, and the privilege of salvation for everyone.
+Freeman and Company Publishers in 1998 and source of good ideas and helpful advice.
+These organisms are very small compared to the size of a wombat, for example.
+A protozoan organism that forms spores for reproduction or for protection when the environment turns hostile.
+In the United States Army, Air Force, and Marine Corps, the commissioned officer ranks go as follows: second lieutenant, first lieutenant, captain, major, lieutenant colonel, colonel, brigadier general, major general, lieutenant general, and general.
+Note that a major outranks a lieutenant, but that a lieutenant general outranks a major general.
+Navy a captain is a relatively high-ranking officer, while in the other U S. military services, a captain is a relatively low ranking officer.
+One of the dominant religions of the Roman Empire, Mithraism was centered on the struggle between the forces of good and evil.
+Mithraic ceremonies included fasting and secret rituals including baptism.
+A diverse phylum of invertebrate animals that includes snails, squids, clams, and a large number of other organisms.
+Note that it does not include the brachiopods, which really are quite different from clams.
+For one thing, the two shell valves are often unequal in size, whereas the two shell valves in most clams are the same size.
+A one-ton truck traveling at 60 mph has more momentum than a 5-ton truck traveling at 5 mph, but you wouldn't want either of them (or anything else, for that matter) to run into your Miata.
+An object that orbits around a planet and is larger than about ten miles in diameter.
+Mormons perform baptisms for the dead and participate in the Church's extensive missionary program.
+A broad spectrum of beliefs that center on putting oneself into a direct relationship with God, Nature, or a unifying principle of life through personal religious experience.
+The process of evolution by which organisms that are wellsuited to their environment tend to live and reproduce themselves while those that are poorly-suited tend to die off before reproducing.
+Founded in 1951 by Gerald B Gardner, Neo-Paganism or Wicca worships the sacredness of nature, teaches that one must have balance in life, and draws much of its inspiration from ancient European religions.
+There are few strict rules; people are allowed to do what they will so long as no harm befalls others or themselves.
+Founded by the Roman philosopher Plotinus, this set of philosophical and religious beliefs teaches that pure intelligence emanates from a perfect unknowable One that gives each soul a choice between a sensual and corrupt existence or self-denial that will eventually lead to an all-pervading ecstasy.
+Usually the eighth planet from the Sun , it has 17 times the mass of the Earth, and it is 30,000 miles in diameter.
+A chargeless but probably not massless particle required by many particle interactions that use the weak nuclear force.
+This may be one reason why hair-care products are so expensive these days.
+These particles have no charge and are found in the nucleus of atoms and in almost every hair-care product on the market today.
+Composed almost entirely of neutrons, these objects are more massive than the sun and are about 20 miles across.
+Stars more massive than about eight times the mass of the sun will probably end their lives as neutron stars, or perhaps black holes.
+A series of messages devoted to a particular topic that is transmitted over Usenet, a distributed network of tens of thousands of computers acting as news servers.
+In Sumerian cosmology she was married to the god Enki; Marduk was their son.
+Nitrogen atoms are an important component of proteins, nucleic acids, and gunpowder.
+Affiliate of the Charlotte Sheedy Literary Agency, Inc., and expert negotiator.
+Nucleic acids like DNA and RNA hold genetic information, facilitate protein synthesis in cells, and usually manage to increase profit margins for hair care products.
+The belief that hidden knowledge about mysterious forces that rule the universe can be tapped through supernatural means.
+Some believe that occult forces can cause 18 */ 2 -minute gaps in taped conversations.
+The Oneida Community was founded in 1848 by John Humphrey Noyes in a schism from Methodism and Adventism; it taught that right conduct must be based on love of God and encouraged group marriage and a scientific breeding program.
+For example, mitochondria are organelles that perform respiration, while chloroplasts are organelles that perform photosynthesis.
+A class of chemical compounds that contain carbon and are essential to life as we know it, as well as to many hair-care products.
+On Earth, a colorless, odorless gas that is produced by photosynthesis and is required for aerobic respiration, combustion, and the vast majority of hair care products.
+On Earth, a colorless gas with a peculiar burnt odor that blocks ultraviolet radiation.
+A broad spectrum of belief systems that include reverence for the Earth and all its creatures and generally see all life as interconnected.
+A belief system that says that the Universe is God and that God is the Universe.
+Eounded in 1901, this is the fastest growing segment of Christianity in the world.
+The primary characteristics of Pentecostalism that differentiate it from other Christian denominations are speaking in tongues, prophesying, healings, and exorcism.
+Think of them as large black compact disks where the music is read by a needle that moves in a groove.
+Individual “particles” of light, photons have properties of both waves and particles.
+The process by which plants convert light, water, and carbon dioxide into carbohydrates and oxygen.
+A large body that orbits a star and does not produce energy by fusion reactions.
+Usually the ninth planet from the Sun , its mass is 0. percent of the Earth's, and it is 1400 miles in diameter.
+On Earth it is a radioactive metallic element used in atomic weapons and nuclear power plants.
+The use of aggressive arguments in debates on controversial issues, such as which hair-care products are better than others.
+On Earth it is a radioactive metallic element that is sometimes used with beryllium as a neutron source in atomic weapons.
+Any belief system that includes a plurality of gods, especially when each has a special function.
+Polytheistic religions include those of ancient Egypt, Greece, Rome, India, and many others.
+An organization of Christian Churches that are governed by a hierarchy of courts rather than by bishops or by the individual congregations themselves.
+Proteins are made up of amino acids and are often found in hair-care products.
+A kingdom of eukaryotic organisms with neither a complex development from embryos nor extensive cell differentiation.
+These are positively charged particles that are found in the nucleus of atoms and in almost all hair-care products.
+The semi-liquid complex of proteins, water, and organic and inorganic compounds that makes up the insides of living cells.
+A phylum of eukaryotic organisms that contains both unicellular and colonial species.
+The Society of Friends was founded in 1650; they believe that no one is holier than anyone else, they do not observe baptism, they perform marriage ceremonies for both opposite-sex and same-sex marriages, and they forbid members to join the military or make oaths.
+Among other things, quantum mechanics says that you can never know exactly where a particle is or how fast it is going, that you can't put two identical particles too close together, and that almost everything has some probability of happening.
+Quantum mechanics often seems to have a lot to do with dead cats, or half-dead cats, or potentially dead cats, or something like that.
+Vice President of the United States between 1989 and 1993, he should not be confused with John Fitzgerald Kennedy, the President of the United States between 1961 and 1963.
+It is sometimes found in the basements of homes but very rarely on the surfaces of stars.
+He should not be confused with the William Ramsay who was Lord Mayor of Alexandria, Virginia.
+One of the founders of Alexandria, Virginia, he was Lord Mayor of that city in 1761.
+He should not be confused with the William Ramsay who co-discovered argon, helium, neon, krypton, and xenon.
+Founded in the 1930's, Rastafarians believe that His Imperial Majesty Haile Selassie 1 is the living God for the black race, that Ethiopia is Heaven on Earth, that there is no afterlife, and that blacks are held down through poverty, illiteracy, and inequality.
+Not to be confused with his son, Ron Reagan, who played Prank in Soul Man and also appeared in the 1993 TV show The Positively True Adventures of the Alleged Texas Cheerleader-Murdering Mom.
+An Internet newsgroup that distributes a few works of humor per week to about half a million readers around the world.
+The process by which animals and plants convert carbohydrates and oxygen to energy, water, and carbon dioxide.
+The nucleic acid that facilitates protein synthesis for organisms on the Earth.
+A watchmaker from Indiana who co-founded Sears, Roebuck and Company in 1893 with Richard Sears.
+Known as “The City of Seven Hills,” Rome was founded in 1834 where the Etowah and Oostanaula rivers meet.
+A bustling city of more than 30,000 people, Rome is the regional center for a six-county area that has a population of about a quarter of a million people.
+President of the United States from 1933 until his death in 1945, he should not be confused with Theodore Roosevelt, who was President of the United States from 1901 until 1909.
+Eleven months after his inauguration he asked Congress to declare war on Japan.
+President of the United States from 1901 until 1909, he should not be confused with Eranklin Delano Roosevelt, who was President of the United States from 1933 until 1945.
+The Ancient Mystical Order Rosae Crucis was founded in 1915 by H Spencer Lewis.
+Members study ancient and modern knowledge of science, mysticism, philosophy, and metaphysics.
+Astronomer, planetary scientist, author, winner of the Pulitzer Prize, and science popularizer extraordinaire.
+Spain claimed the islands in the 15th and 16th century, Britain and France in the 17th and 18th century, they were ceded to Britain in 1783, and they attained independence on October 27, 1979.
+Premier of Italy between March of 1914 and June of 1916, he led his country into World War I Santiera: Founded in the 1700s, Santiera is a blend of West African religions and European Catholicism.
+Santierans believe in spirits that are the emissaries of God, possess distinct personalities, and can be summoned through certain music, colors, and animals.
+Founded in 1966 by Anton Szandor LaVay, the Church of Satan teaches that people should devote their lives to fulfilling their desires and to helping others do the same.
+The sixth planet from the Sun, Saturn has 95 times the mass of the Earth and is 75,000 miles in diameter.
+It has more than thirty moons larger than four miles in diameter and one moon larger than 3000 miles in diameter.
+Saturn's atmosphere is very thick and is composed almost entirely of hydrogen and helium.
+He discovered oxygen in 1774 (independent of Joseph Priestly), chlorine in 1774, and molybdenum in 1778. von Schlieffen, Count Alfred: Chief of the German General Staff from 1891 until 1906, he borrowed a few ideas from Hannibal to create the Schlieffen plan for defeating Erance within six weeks.
+A theological movement that proposed God as the source of both revelation and reason, so any apparent contradiction between the two was due either to an incorrect interpretation of revelation or to faulty reasoning.
+If the radioactive element has a half-life of an hour, then the laws of probability say that after sixty minutes the cat has a 50 percent chance of being alive and a 50 percent chance of being dead.
+Quantum mechanics, on the other hand, says that after an hour the cat is 50 percent alive and 50 percent dead.
+Co-author of the Annals of Improbable Research article “How to Write a Scientific Research Report” and all-around amazing person.
+Author of A Briefer History of Time, contributor to The Best of Annals of Improbable Research, and member of the editorial board of the Annals of Improbable Research.
+Teacher, legislative field agent, expert on history and politics, and inspirational father.
+Founded in 1995 by Paul Harrison, this belief system attempts to combine religion and science into a coherent whole.
+The Church of Scientology was founded in 1954 by science fiction author L Ron Hubbard.
+Masaharu Taniguchi, this movement believes that all religions emanate from one universal God, and that every person has all the creative powers of God.
+Officially organized in 1863, Seventh Day Adventists believe that the Second Coming of Jesus Christ will occur soon.
+They believe that the human body is a temple to God and so do not smoke, drink alcohol, or use drugs.
+The United Society of Believers splintered off from a Quaker community in 1772.
+Shakers emphasized celibacy and simplicity in their daily lives and believed that God is a duality of male and female rather than a trinity.
+Any of a number of belief systems that include the idea that the world is pervaded by spirits that affect the living and that these spirits can be contacted by shamans.
+Shamanism is found in Native American, African, Inuit, and Siberian religions.
+The ancient native religion of Japan, in which a large number of generally beneficent supernatural beings or kami oversee the world.
+Founded in 1940 by Sathya Sai Baba, this sect of Hinduism believes that there is one God who is called different names by different religions; only unreligious people are wrong.
+Sai Baba followers strive to achieve enlightenment by having pious faith and directing all thoughts, feelings, and actions towards God.
+OJ Simpson was born in 1947 and has worked as a football player, a TV and movie actor, and a TV producer at different stages in his career.
+A Polish-born American writer who was awarded the Nobel Prize for literature in 1978, he should not be confused with the Isaac Singer who patented the sewing machine in 1851 Singer, Isaac Merrit: An American inventor who patented the sewing machine in 1851.
+He lost a patent infringement suit brought by Elias Howe but in spite of this his company went on to become rather successful.
+He should not be confused with the Isaac Singer who was awarded the Nobel Prize for literature in 1978.
+Sikhs believe in monotheism, that all religions are one, and that God can be realized through meditation and religious exercises.
+A hypothetical particle that is the integer-spin version of the neutrino.
+The mass of Earth's sun, which is equivalent to 4000 billion billion billion pounds.
+That's a big number, but perhaps we can make it more manageable by converting from pounds to elephant masses.
+We are in a solar system composed of the Sun, nine planets including the Earth, and thousands of smaller objects such as moons, asteroids, and comets.
+A state of matter in which the volume and the shape tend to be constant.
+The first mechanical spinner, it allowed carded cotton to be spun into thread automatically, multiplying the productivity of workers by a factor of eight.
+Eounded in the 1850's by Allan Kardec (the nom de plume of H Leon Denizard Rivail), spiritists believe that mediums can communicate with spirits that will answer philosophical and scientific questions.
+Eounded by Emanuel Swedenborg in 1744, this movement believes that the spirit world overlaps with the material world and that the spirits of the dead can communicate with the living.
+Other beliefs include the infinite nature of God, that service to others improves one's spirit, that the soul exists for eternity, and that people are responsible for their own thoughts and actions.
+They feed by filtering water that is drawn through their pores and expelled out larger openings.
+Founded in 1964 by Chinmoy Kumar Ghose (now known as Sri Chinmoy) as an offshoot from Hinduism, this movement tries to attain personal harmony, international harmony, and world peace through meditation, living and working in the world, vegetarianism, and celibacy.
+A stable sphere of mostly hydrogen and helium gas supported against gravitational collapse by nuclear fusion in the core.
+At a distance of roughly 93 million miles, the Sun is the nearest star to the Earth.
+A molecule that is composed of the same atoms as another molecule, but arranged in a way that makes each molecule the mirror image of the other.
+Subduction; The process by which oceanic crust is pushed under either oceanic or continental crust, usually resulting in volcanic activity as the newly melted rock makes its way towards the surface.
+Sufism; Developed in the late 10* century A.D. within Islam, this mystical movement emphasizes a personal union of the soul with God, often through ascetic practices.
+On Earth, sulfuric acid is an oily, corrosive liquid that is rarely found in reputable hair-care products.
+Suma Chiug Hai; Founded in 1982 by Hue Dang Trinh (now known as Suma Ching Hai), this movement combines Christianity and Buddhism.
+Followers meditate for 2Vi hours per day and refrain from taking the life of sentient beings, speaking what is not true, taking what is not offered, sexual misconduct, and using intoxicants.
+Supercluster of galaxies; A group of dozens of clusters of galaxies that is held together by gravitational attraction.
+Symbiosis; Mutual cooperation between different organisms such that each benefit from the relationship.
+Founded in 1958 by Charles E Dederich, this movement seeks to manifest oneness by combining beliefs from Buddhism, Taoism, Emerson, and Aldous Huxley.
+Eounded by Lao-tze in the 6* century B.C., this philosophical religion teaches that the ideal state of being is freedom from desire, which can only be reached through mystical contemplation.
+People who are one with the Tao (the way the universe functions) act through effortless action.
+A large, usually inoffensive, chiefly nocturnal hoofed mammal with a long, flexible snout.
+Eounded in 1838 by Miki Nakayama , this movement believes that God created human beings in order that they would live joyous lives by helping and respecting others and by making them happy.
+A group of four-legged vertebrates including amphibians, dinosaurs, birds, and mammals.
+The definite article of the English language, which gives particulars for the noun it modifies.
+In Sumerian cosmology Tiamat was a dragon goddess who lived in the sea.
+After one of the gods complained that the others were making too much noise, she gave birth to a host of strange creatures (lion-demons, scorpion-men, sphinxes, mad dogs, etc.) and sent them out to make the gods behave themselves.
+The gods were a bit shaken by this army and promised Marduk that he could have supreme authority over everything if he would just take care of this little problem for them.
+Marduk agreed to the deal, slew Tiamat, and created the heavens and the earth out of her dead body.
+This French politician wrote an often-quoted book about America and went on to become the Vice President of the French National Assembly in 1849.
+First espoused by Plato in the 4* century B.C., this belief system teaches that divinity permeates all objects and that although absolute goodness exists, it is only knowable through intuition rather than through human experience or reason.
+Founded in 1956 by Mehesh Prasad Varma (now known as Maharishi Mahesh Yogi), this Hindu movement teaches that people can reach an enlightened state through meditation, which will lead to increased intelligence, higher levels of resistance to disease, and better job performance.
+A very big wave, also known as a tidal wave, which can be caused by earthquakes or asteroid impacts, although not by tides.
+Quantum mechanics says that the position of a particle is uncertain, and therefore that there is some possibility that a particle will be within an energy barrier rather than outside of it.
+The process of moving from outside to inside without traversing the distance between is known as quantum tunneling, and it is very important for the fusion reactions in stars like the Sun.
+UV photons are energetic enough to cause cell damage and promote skin cancer.
+The Holy Spirit Association for the Unification of World Christianity was founded in 1954 by Sun Myung Moon.
+It teaches that people can be restored from sin by recognizing Moon's special status, joining the Unification movement, raising money and winning converts for the Unification Church, receiving Moon's blessing in marriage, bearing sinless children, and leading lives that will produce a sinless world.
+Founded in 1961 as a merger between the Unitarian and Universalist Christian traditions, this movement believes that God is the author of reason and religion, that all religions have a right to their own beliefs, and that no two people see the truth in the same way.
+The Universe is a three-dimensional volume of space that may or may not be infinite in size.
+To be more specific, it is almost certainly larger than a billion billion billion billion billion billion billion billion billion cubic yards.
+To put that in perspective, the volume of the Earth is only a thousand billion billion cubic yards, while the volume of the Galaxy is about a billion billion billion billion billion billion billion cubic yards.
+If you think about it you will conclude that the Universe is staggeringly huge compared to the Galaxy, which is colossal when compared to the Earth, which is gigantic when compared to you.
+On Earth, a radioactive metallic element used in atomic weapons and nuclear power plants, but rarely if ever in hair-care products.
+The seventh planet from the Sun, it has 15 times the mass of the Earth and is 30,000 miles in diameter.
+It teaches that Urantia is an ancient name for the planet Earth, that Jesus is the sovereign of Earth's local universe, and that God the Universal Eather is present in all universes, which are each guided by a different Son of God.
+Quantum mechanics says that there is a non-zero probability of a particleantiparticle pair being created and destroyed in a given volume of space in a given period of time.
+Erom one point of view, these particles and antiparticles don't really exist because they are created from nothing and go back to nothing in a very short period of time.
+However, while they are there they do have mass and energy, so even though they are “virtual” particles, they contribute to the energy density of space.
+If the “vacuum” energy density is very large then the universe can expand exponentially, and this is thought to have happened during the inflationary period very soon after the Big Bang.
+The second planet from the Sun, its mass is 80 percent of that of the Earth, and its diameter is 7500 miles.
+In biology, a virus is an entity that can only reproduce itself within a host cell.
+In computer science, a virus is a program that inserts copies of itself into other programs and usually causes some (potentially undesirable) even to happen, sometimes on a given date.
+An opening in the crust of the Earth through which liquid rock escapes to the surface.
+On Earth it is an odorless, tasteless, colorless liquid that may react vigorously with certain materials.
+One of the four fundamental forces of nature, this force changes particles into other particles.
+Eor example, in nuclear fusion protons are changed into neutrons via the weak nuclear force.
+Stars less massive than about 8 solar masses will end their lives as white dwarfs.
+Born in 1859 and becoming King of Prussia and German Kaiser in 1888, he got Germany into war in 1914.
+The Kaiser fled to the Netherlands and wrote his memoirs, in which he tried to convince the world that World War I hadn't been his fault.
+The first-and so far only-President of the United States to have earned a Ph.D., Dr.
+Three months after his inauguration he asked Congress to declare war on Germany.
+An excellent high school volleyball player who went on to become President of Russia.
+There is also an evil spirit named Angra Mainyu and humans must choose to serve one side or the other.
+This choice may be helped by the knowledge that Ahura Mazda will triumph in the end.
+Definitions ""Collective Work"" means a work, such as a periodical issue, anthology or encyclopedia, in which the Work in its entirety in unmodified form, along with a number of other contributions, constituting separate and independent works in themselves, are assembled into a collective whole.
+A work that constitutes a Collective Work will not be considered a Derivative Work for the purposes of this License.
+Nothing in this license is intended to reduce, limit, or restrict any rights arising from fair use, first sale or other limitations on the exclusive rights of the copyright owner under copyright law or other applicable laws.
+The above rights include the right to make such modifications as are technically necessary to exercise the rights in other media and formats.
+You may distribute, publicly display, publicly perform, or publicly digitally perform the Work only under the terms of this License, and You must include a copy of, or the Uniform Resource Identifier for, this License with every copy or phonorecord of the Work You distribute, publicly display, publicly perform, or publicly digitally perform.
+You may not offer or impose any terms on the Work that alter or restrict the terms of this License or the recipients' exercise of the rights granted hereunder.
+You must keep intact all notices that refer to this License and to the disclaimer of warranties.
+You may not distribute, publicly display, publicly perform, or publicly digitally perform the Work with any technological measures that control access or use of the Work in a manner inconsistent with the terms of this License Agreement.
+The above applies to the Work as incorporated in a Collective Work, but this does not require the Collective Work apart from the Work itself to be made subject to the terms of this License.
+If You create a Collective Work, upon notice from any Licensor You must, to the extent practicable, remove from the Collective Work any reference to such Licensor or the Original Author, as requested.
+You may not exercise any of the rights granted to You in Section 3 above in any manner that is primarily intended for or directed toward commercial advantage or private monetary compensation.
+The exchange of the Work for other copyrighted works by means of digital file-sharing or otherwise shall not be considered to be intended for or directed toward commercial advantage or private monetary compensation, provided there is no payment of any monetary compensation in connection with the exchange of copyrighted works.
+Such credit may be implemented in any reasonable manner; provided, however, that in the case of a Collective Work, at a minimum such credit will appear where any other comparable authorship credit appears and in a manner at least as prominent as such other comparable authorship credit.
+Representations, Warranties and Disclaimer By offering the Work for public release under this License, Licensor represents and warrants that, to the best of Licensor's knowledge after reasonable inquiry; Licensor has secured all rights in the Work necessary to grant the license rights hereunder and to permit the lawful exercise of the rights granted hereunder without You having any obligation to pay any royalties, compulsory license fees, residuals or any other payments; ii.
+The Work does not infringe the copyright, trademark, publicity rights, common law rights or any other right of any third party or constitute defamation, invasion of privacy or other tortious injury to any third party.
+Termination This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License.
+Individuals or entities who have received Collective Works from You under this License, however, will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses.
+Sections I, 2, 5, 6, 7, and 8 will survive any termination of this License.
+Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License (or any other license that has been, or is required to be, granted under the terms of this License), and this License will continue in full force and effect unless terminated as stated above.
+Miscellaneous Each time You distribute or publicly digitally perform the Work or a Collective Work, the Licensor offers to the recipient a license to the Work on the same terms and conditions as the license granted to You under this License.
+No term or provision of this License shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.
+This License constitutes the entire agreement between the parties with respect to the Work licensed here.
+There are no understandings, agreements or representations with respect to the Work not specified here.
+Licensor shall not be bound by any additional provisions that may appear in any communication from You.
+This License may not be modified without the mutual written agreement of the Licensor and You.

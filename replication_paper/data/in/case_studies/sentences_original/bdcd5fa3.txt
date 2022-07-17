@@ -1,0 +1,100 @@
+Although NSA has in recent years adopted a more liberal policy with regards to declassification, the results of that policy have been limited to a particular period of time.
+As a result, little is known about the role of signals intelligence during the Cold War.
+The latest release, therefore, provides a rare glimpse of Sigint at work in this crucial period in American history.
+The release is also significant because it provides a new perspective on the missile crisis.
+In the shadowy world of intelligence operations, Sigint has always occupied an especially dark corner.
+Although some information about the intelligence background to the crisis has appeared, this has been limited largely to the role of overhead reconnaissance and the work of the Central Intelligence Agency in debriefing refugees and running informants inside Cuba.
+The contributions of Sigint to the onset and eventual resolution of the crisis remain obscured or ignored.
+Recently, a special issue of this journal considered the role of intelligence in the crisis, but had little to say about Sigint.
+A 'secret history' of the crisis makes scant mention of Sigint, while a standard history of American intelligence in the twentieth century refers to 'a massive Sigint collection program' during the crucial events in October 1962, but provides no details.
+When the CIA published a collection of documents relating to the crisis, Sigint-related material was not included.
+The newly released documents, therefore, provide for the first time details about the important contributions of Sigint.
+Castro's anti-American rhetoric, his tilt toward the Soviet Union, and his support for 'national liberation' movements throughout the Western Hemisphere presented the prospect of an actively hostile regime only 90 miles off the coast of Florida.
+This debacle did little to lessen the Kennedy administration's commitment to remove Castro, but it demonstrated, among other things, the need for better intelligence on Cuba.
+The NSA had always been an important element in intelligence operations against Castro's Cuba.
+In early October 1960 the Agency had uncovered some of the earliest signs of Cuban-Soviet Bloc military collaboration when surveillance of Soviet shipping communications revealed that the cargo ship Atkarsk had arrived at a Black Sea port to load 2,454 tons of 'Yastrebov's cargo' for transport to Cuba.
+Yastrebov, whom NSA analysts knew had recently visited Havana, was a Russian trade official who had been closely associated with the export of military cargo from the Black Sea to Indonesia and the Middle East since 1956.
+Communications intelligence also suggested that the vessel Kirov was already on route to Cuba with a shipment of arms.
+Also in October 1960, surveillance of Czechoslovak air force circuits revealed Spanish-speaking pilots training in ground attack aircraft at a Czech airbase.
+This report was confirmed by similar intercepts in January and May 1961.
+The nationality of the pilots could not be immediately confirmed, but intelligence analysts knew that among Spanish-speaking countries only Cuba had relations with the Soviet satellites sufficiently close to allow training programs.
+In May 1961 NSA's listening posts targeted on Cuba recorded Cuban air force personnel complaining about having to learn Russian, a clear sign that the Soviet Union had assumed a direct role in training.
+American Sigint closely monitored the movement of Russian material into Cuba.
+Direction finding and, possibly, decryption of enciphered messages, allowed NSA to track Soviet vessels across the Atlantic and into their berths in Cuban ports, although Sigint did not always provide clues to the nature of the cargoes.
+Surveillance of Cuban military circuits, however, revealed new Russian military equipment entering service.
+In June 1961, for example, intercept operators listened to a Cuban radioman tell a colleague at another camp that his artillery unit had received new radar.
+In April 1962 Cuban plaintext communications referred to radar tracking exercises.
+This traffic included references to equipment designators identical to the designators for Russian radar sets.
+By the spring and summer of 1962 American signals intelligence was also tracking the arrival in Cuba of Russian military and technical personnel, including rocketry officers.
+In July and August a total of 38 Soviet or Soviet Bloc ships, including at least five passenger liners, docked in Cuban ports.
+If the liners were cruise ships on holiday voyages, their radio traffic was rather curious.
+Additional Comint evidence confirmed that the Russian passenger liners were not disembarking tourists.
+As early as May 1962 linguistic analysis of voice communications on Cuban air force circuits had detected Slavic accents among the Spanish-language conversations.
+By late August American intercept stations were regularly monitoring Russian pilots and ground control personnel training their Cuban counterparts.
+The Russians spoke Spanish, but occasionally were overheard reverting to their native tongue to convey a difficult command or request to each other.
+By October the Red Air Force had apparently colonized its Cuban counterpart.
+For example, on 18 October, only four days before President John F Kennedy publicly revealed the presence of Russian offensive missiles in Cuba, NSA determined that 12 of the 63 'Cuban' aircraft operating over the island were definitely piloted by Russians, while another 22 probably were.
+The influx of Soviet personnel and equipment in the spring and summer of 1962 caused concerned American intelligence authorities to speculate about Moscow's intentions.
+Well into the summer, for example, the Director of Central Intelligence, John McCone, believed that the Soviets were preparing only surface-to-air missile sites or sophisticated Sigint facilities for use against the United States.
+In July, Secretary of Defense Robert McNamara directed NSA to expand its Cuban collection program 'as a matter of the highest intelligence priority'.14 The Agency immediately began to reposition its considerable resources.
+In 1960 NSA had concluded that established intercept stations provided insufficient coverage of Latin America and Sub-Saharan Africa.
+Aside from stations in Puerto Rico and the Panama Canal Zone there were no facilities positioned to cover Latin American communications.
+Unfortunately, new land stations required lengthy and delicate negotiations with host countries and were expensive to construct and maintain.
+Ships, on the other hand, were cheaper and required permission from no one to sail in international waters.
+Initially crewed by civilians and refitted to accommodate NSA specialists and their electronic equipment, these small ships served as floating intercept stations as they cruised slowly up and down the coasts of Africa and South America.
+In the summer of 1961 a third vessel, the USS Oxford, a World War II era Liberty Ship, was placed in service with a navy crew and assigned to the east coast of South America.
+In response to the Secretary of Defense's directive in July 1962, NSA initiated action to lease and refit for surveillance missions yet another vessel.
+Since the new ship could not be operational before December 1962, Oxford was diverted from its current assignment and ordered to the waters off Havana.
+To supplement the shipborne surveillance effort, the Naval Security Group, the Navy's Sigint service which operates under the general supervision of the NSA, moved 20 personnel to an undisclosed location, almost certainly in Florida, where they set up their intercept equipment in existing buildings and mobile vans.
+On 29 August 1962 a U-2 spy plane returned from a mission over Cuba with photographic evidence that the Russians were constructing eight surface-to-air missile sites across the island.
+On 5 September another U-2 mission photographed a missile site at Banes near the coast.
+At first uncertain about the purpose of the Banes facility, American intelligence eventually identified it as a cruise missile emplacement for coastal defense.
+In the foreign policy field such intelligence raised serious questions about the military balance of power and Soviet intentions in Cuba.
+In a congressional election year, Kennedy worried about charges that he was abandoning the Monroe Doctrine and undermining national security by acquiescing in the conversion of Cuba into a forward bastion of Soviet military power.
+In these circumstances the administration needed to determine the capabilities and operational status of Soviet forces in Cuba, especially if those capabilities were offensive.
+The White House ordered strict controls on the dissemination of all material dealing with Soviet weapons systems in Cuba.
+At the NSA senior officers established a special handling channel, codenamed 'Funnel', for any Sigint evidence of potentially offensive weapons in Cuba.
+No further dissemination was authorized without specific instructions from the director.
+In September 1962 NSA launched a major Elint attack against Cuba in order to identify and locate offensive weapons systems.
+Initially the missile site at Banes received particular attention since an accurate assessment of the missile's radar system would suggest the range of the weapon which, in turn, would indicate whether it was defensive or offensive in purpose.
+Radars at SAM sites and air bases were also important targets as military planners considered measures to jam the early warning, target acquisition, and guidance systems of Cuba's air defense network in order to protect American air reconnaissance operations over the island.
+On 9 October, for example, Elint operations identified a Soviet 'Komet IIP military radar in service on an unidentified aircraft.
+This discovery was especially worrisome since earlier versions of the Komet were employed with air-launched, longrange missiles.
+In another instance of successful Elint, NSA identified radars known to American intelligence as 'Spoon Rest' operating from sites near Mariel, Matanzas, and Havana.
+Spoon Rest radars were used with the SA-2 anti-aircraft missiles, the weapon that had downed Francis Gary Power's U-2 over Russia two years earlier.
+Aerial reconnaissance had earlier determined that SA-2s were being installed at various sites, but it was difficult to determine from photographs if the missiles were operational.
+Elint in the form of emitting 'Spoon Rest' radars provided the unwelcome evidence.
+With SA-2 batteries operational, U-2 overflights of Cuba were now in serious jeopardy.
+By October the growing requirements of Cuban operations compelled NSA to divert equipment and personnel from other high priority targets.
+Resources were stretched to the breaking point as intelligence consumers in the White House, the State Department, and the service departments and commands increased their demands for Sigint.
+On 10 October General Blake decided that NSA's first priority was to cover and report in real time any Cuban or Soviet military reaction to the highand low-level air reconnaissance flights that were collecting crucial image and electronic intelligence.
+This priority was reaffirmed after the disappearance of a U-2 near Banes on 27 October.
+To intelligence consumers clamoring for Cuban Sigint (the Air Force's Continental Air Defense Command and the Navy's Atlantic Command were especially insistent) General Blake explained that to satisfy only a portion of their demands NSA would have to double the current intercept and cryptanalytic effort and that resources simply were unavailable for any such expansion.
+To maximize the available resources, the director moved to consolidate intercept and processing at a few locations and to create jointly staffed facilities.
+Toward this end NSA directed that Army Sigint personnel be assigned to the Naval Security Group for temporary service at naval Sigint stations working Cuban targets.
+On 22 October President Kennedy informed the American people that Soviet medium and intermediate range nuclear missiles capable of hitting American cities were in Cuba.
+He demanded their removal and announced a naval quarantine of the island nation.
+At the time several Soviet vessels were en route to Cuba, and as representatives of the two great powers worked through back channels to defuse the most serious crisis of the Cold War, American policy-makers closely watched the progress of those ships.
+In the 24 hours after the president's address to the nation, American listening posts recorded a sudden flurry of high-priority messages between Moscow and the vessels approaching the quarantine line.
+Directionfinding nets soon determined that the Soviet vessels had stopped in the water.
+On 24 October NSA reported the news for which Washington had been praying.
+While significant, NSA's contributions to the intelligence collection program were limited.
+Sigint provided no specific warning that Moscow was sending offensive missiles and nuclear weapons to Cuba, although the interception of plaintext messages to their families in Russia from officers known to be associated with rocketry formations was highly suspicious.
+Sigint can capture only what is transmitted or emitted and evidence of the shipment of missiles and nuclear weapons apparently did not appear on communication channels accessible to American intelligence.
+Whether Sigint provided direct insight into decision making in Moscow and Havana remains an open question.
+There is no evidence in the newly released documents that American signals intelligence was reading any Cuban or Soviet encrypted diplomatic, 'leadership', or military traffic.
+Of course, this is precisely the information the NSA, in its concern to protect sources and methods, routinely declines to reveal.
+The items released represent only a small percentage of the documents generated by NSA in its surveillance of Cuba, and a full accounting might well reveal achievements now masked by security concerns.
+Still, even the limited glimpse into Sigint operations enhances our understanding of the intelligence background to the crisis.
+Intelligence historians can only hope that this release, along with the earlier 'Venona' releases, represent the first, tentative steps by the National Security Agency toward a more open approach to its role in the Cold War.
+Secret Intelligence and the American Presidency from Washington to Bush (NY: HarperCollins 1995)290.
+It would later be determined that between 1960 and 1962 more than 60 Cuban pilots trained in Czechoslovakia.
+A former senior officer in NSA's Russian group told the author that in the 1950s NSA had 'intermittently' read the encrypted traffic of the Soviet merchant fleet.
+Elint is intelligence collected from emissions of electronic apparatus.
+A veteran of NSA's Soviet operations, Cecil Phillips observed that NSA often tracked Russian personnel by monitoring plain-language telegrams informing wives and loved ones of safe arrivals at foreign postings.
+The agency referred to these communications as 'love and kisses' messages.
+Phillips recalled that such messages revealed the presence in Cuba of Soviet officers known to be associated with the rocketry forces.
+This comment suggests that American intelligence was intercepting but not reading the traffic of the passenger ships.
+If the messages had been readable, conclusions about the ships' activities would have been more definite.
+The 'definites' were overheard conversing in Russian, while the 'probables' were speaking Spanish with Russian accents.
+DIRNSA to COMUSAFSS , 10 Oct.62, CMCC; Brugioni, Eyeball to Eyeball 462.

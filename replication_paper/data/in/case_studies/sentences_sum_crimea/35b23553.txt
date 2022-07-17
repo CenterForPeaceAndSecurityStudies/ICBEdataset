@@ -1,0 +1,44 @@
+ Pundits continue to debate whether economic shocks, public discontent at home, and isolation abroad will shake President Vladimir Putin's regime .
+ Much of the commentary on Putin’s survival strategies has focused on repression and aggressive military posturing .
+ The former treats protest as an instance of undesirable chaos . The latter characterizes it as a legitimate and even desirable expression of public sentiment .
+ Higher values indicate more use of the freedom to protest frame . Lower values reflect greater employment of the disorder frame for a given day between October 2011 and December 2013 .
+ There are major fluctuations in how the Kremlin-controlled media covered protest in Russia during this period .
+ There are four spikes in the overall quantity of news stories about protest . Each spike is indicated by a vertical dotted line labeled S1-S4 .
+ The trend line shows a shift toward the freedom to protest frame between S1, the onset of mass protests in December 2011, and S2, the May 2012 Bolotnaya Square mass anti-regime protests . The May 2012 protests triggered an unprecedented wave of repression against the political
+ S2 coincides with Putin’s inauguration for a third presidential term . S2 also coincides with the inauguration of Vladimir Putin for his third term .
+ During this period, media stories were overwhelmingly concerned with “exposing” and “preventing’s alleged plots of another mass uprising, ostensibly supported by agents of former Georgian President Mikheil Saakashvili .
+ This can be referred to as “fabricating protest,’ whereby the media deliberately planted misinformation into the public domain about the threats protests pose to public order . This can also be called ‘fabricated protest’
+ Following S3, there is a gradual upward shift in the direction of the freedom to protest frame roughly until the fourth spike in protest coverage is reached . This is S4, the October 2013 Biryulyovo anti-migrant riots in Moscow .
+ After this period, there is not a significant dip in the direction of the disorder frame. After this time, however, there's not a major dip in.
+ The Biryulyovo disturbances featured traits that would fit the disorder narrative well . This is despite the fact that the disturbances had traits that fit the narrative narrative well.
+ These include vandalism, right-wing extremist slogans, and public expressions of xenophobia and racism . The list also includes vandalism and extremist slogans .
+ Christopher Hutchings and Vera Tolz have analyzed Russian television for an earlier time period . They have analyzed nationalist discourses on Russian TV for a period of time .
+Russian state-controlled channels intensified narratives stigmatizing non-Russian migrants and ethnic and religious minority groups, authors say . They observe that beginning in 2012, the leading state- controlled channels intensified the narratives stigmatized non- Russians .
+ The Kremlin adapted nationalist rhetoric following the regime’s realization of the unlikely alliance between nationalists and political liberals during the 2011-2012 mass protests . This observation is in line with arguments that the Kremlin adapted nationalistic rhetoric after 2011- 2012 mass protests.
+ The tactic of stigmatizing anti-regime political protests is replicated in the Russian government-controlled media's coverage of Ukraine’s Euromaidan protests . The tactic is similar to that used by the government in the past .
+ The average framing of Kremlin media is represented by a red line, and the average framing is captured by the black line .
+ A significant deviation from the Kremlin’s frame from the frames employed by non-Kremlin media toward the protests-as-disorder narrative is observed only after the fall of the former President Viktor Yanukovych government and his flight from Kiev .
+ The framing of protests by state-controlled sources and independent media tended to be in line with each other until mid-February 2014 .
+ Only at that point, did framing of protests in Russia’s state-controlled media become more negative .
+ The study gained leverage on this question by performing a series of simple key-word searches to identify trends in vocabulary alluding to the plight of ethnic Russians in Ukraine .
+ Russia's state-controlled media began to employ legalistic jargon about “federalization,” “referendum,’ and the status of the Russian language and of ethnic Russians .
+ The Kremlin promptly abandons these strategies by the end of April .
+ This coincides with its disastrous failure to replicate the relatively peaceful Crimea annexation scenario in the Donbas . This is the first time Crimea has been annexed by Ukraine .
+ By many accounts, there was a significant minority of residents in Donestsk and Luhansk regions who favored joining Russia .
+Public opinion surveys revealed that the majority of Russia's territory was undivided . The majority of those surveyed were in Ukraine, but the majority were in Russia .
+ Crimea's annexation has dampen the public euphoria surrounding Crimea’s annexation . In Russia too, an influx of migrants into regions bordering Ukraine and war casualties served to dampen euphoria .
+ The Kremlin media’s abandonment of key terms may also be explained by the fact that protests also began to appear within Russia .
+ Russian political opposition's thinly veiled references to the Kremlin’s hypocrisy inherent in fomenting separatist sentiment abroad . These demands represented the political opposition’'s thinly- veiled references.
+ Kremlin-controlled media have altered coverage of public discontent at home and abroad in ways meant to undermine dissent, or cater to public sentiment . Putin regime has increased citizen support for the Putin regime .
+ Rather than being witness to a grand strategy, tactical shifts are implemented, abandoned, or altered rapidly as events unfolded .
+ Media analysis could be a useful tool for exploring shifts in Russia’s domestic and foreign policy .
+ It may help ascertain not just the sources of regime strength, but also its weaknesses and vulnerabilities . It may also help ascertain the sources and vulnerabilities of the regime .
+ Tomila Lankina is Associate Professor at The London School of Economics and Political Science . She is also an associate Professor at the University of London .
+ The information presented and arguments made are based on in-depth analysis of media data using a methodological tool developed by The London School of Economics and Political Science .
+ Kohei Watanabe, Katerina Tertytchnaya and Yulia Netesova are among those to thank for their help .
+ We obtained 28,531 news stories in total for the period between January 1, 2011, and December 31, 2013 . We obtained a total of 28,500 news stories for the time of the period .
+ Russian-language dictionary of media framing of protest . With the help of these stories, we developed a Russian- language dictionary .
+ The dictionary-generation process involved human coding of news by three native Russian-speakers to capture the tone of media coverage of rallies .
+ A computer program that we created can “learn’ from human coders what scores to assign to words found in thousands of media stories on protest . It also involved a machine analysis component .
+ For the analysis of non-Kremlin-controlled media under protests in Ukraine, we did a similar analysis of stories on protest in Russia . For the same analysis, we looked at stories on protests in Russia.
+ The total number of news stories harvested for the period November 1, 2013 to December 31, 2014 is 22,568 .

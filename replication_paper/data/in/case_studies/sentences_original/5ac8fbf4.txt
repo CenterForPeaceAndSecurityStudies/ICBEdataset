@@ -1,0 +1,306 @@
+Many scholars have suggested the two superpower’s relationship improved as a result of the crisis.
+These suggestions warranted a study of how the crisis affected Nikita Khrushchev to determine if his beliefs became more cooperative following the crisis.
+In this study, learning is defined as a statistically significant change in operational code beliefs.
+Changes in philosophical beliefs indicate diagnostic learning and changes in instrumental beliefs indicate simple learning.
+Khrushchev’s public speeches from before and after the crisis were analyzed and the Verbs in Context System was used to create numerical data in order to determine if Khrushchev’s operational code changed as a result of the crisis.
+A difference in means test was performed from the VICS numerical data to determine if the mean scores of each belief were different at a statistically significant level.
+The results indicate that the majority of Khrushchev’s beliefs before and after the crisis were not significantly different.
+The stability of Khrushchev’s beliefs following the crisis can be attributed to retrospective rationality, his personality rigidities, and the doctrinal nature of the Marxist/Bolshevik belief system.
+This event has been used to evaluate crisis management, policy process, crisis decision-making, bargaining theory, and the use of nuclear weapons in foreign policy.
+In this research one of the main questions is what lessons the leaders and policy makers learned from the event.
+The development of a more cooperative relationship between the United States and Soviet Union following the crisis prompts speculation on how the crisis affected the beliefs of one of the main participants in the event, Nikita Khrushchev.
+In order to determine if Nikita Khrushchev’s beliefs changed and if he learned as a result of the crisis, his operational code will be examined to determine if changes in his instrumental and philosophical beliefs occurred.
+The Operational Code A key to understanding political leaders’ beliefs is their operational code.
+Operational code has been used as a tool to evaluate leaders’ views of international politics.
+Nathan Leites conducted the first operational code analysis to determine how the Bolsheviks approached international conflict by analyzing their belief systems.
+Hired by the Rand Corporation, Leites sought to explain Soviet bargaining behavior, which perplexed Western policy makers.
+Leites determined that consistent patterns of behavior in foreign policy could be found by examining ideology, socialization, and leadership pressures of policymakers and he focused on the cognitive, psychoanalytic, and psychocultural aspects of Soviet behavior.
+Alexander George’s Ten Questions About Operational Code Beliefs Philosophical Beliefs Instrumental Beliefs 1.
+What are the prospects for the eventual realization of one’s fundamental political values 3.
+The ten questions are further disaggregated into five questions that consist of philosophical beliefs and five questions that pertain to instrumental beliefs.
+According to George , philosophical beliefs are defined as a leader’s view of international politics, such as the fundamental nature of politics as well as a leader’s perception of other political actors.
+George further clarified operational code by expanding the philosophical and instrumental beliefs.
+George labeled the philosophical beliefs as “diagnostic” which guide the leader’s view of the political environment and help the leader diagnose the situation and instrumental beliefs as “choice” which guide the leader’s choices regarding the tactics and strategies he employs to achieve goals.
+Following the invasion of Afghanistan, Carter’s operational code reflected conflictual beliefs toward the Soviet Union; however, his beliefs toward human rights remained cooperative.
+Researchers, however, are limited in the number of options available to measure the belief systems of leaders.
+Unlike typical psychological analysis, it is difficult to study a political leader directly.
+Most operational code analysis requires discerning political leaders’ beliefs through public and private statements, interviews, and memoirs.
+The use of the operational code as an analytical construct has primarily consisted of qualitative research with scholars combing through leaders’ statements in order to answer George’s ten operational code questions.
+Scholars such as Leites , George , and Hoagland have all studied the operational code of Khrushchev; however all of the studies have been conducted from a qualitative approach.
+The Verbs In Context System is a coding procedure that produces quantitative answers to Alexander George’s ten operational code questions by creating indices to evaluate a leader’s philosophical and instrumental beliefs.
+Transitive verbs are chosen because they convey actions that have an object; in other words, the action of the verb is transferred to the object directly.
+Coded verb constructs are created from these procedures that illustrate how the leader thinks about self and others in the political universe based upon his cooperative and conflictual verb attributions.
+Each index contains a specific formula in which the coded verb constructions are calculated in order to define the leader’s belief to each question.
+By using the results of the coded verb constructions, the data is placed into the respective indices in order to answer the operational code questions.
+Diagnostic propensities focus on the leader’s diagnosis of the political universe by examining how the leader views others and they provide quantitative answers to George’s philosophical questions.
+The indices that are defined as diagnostic include which defines the nature of the political universe, the realization of political values, which concerns the political future, which concerns the extent the leader can influence historical development, and which measures the leader’s belief in the role of chance.
+The first question among the diagnostic propensities, concerns how the leader views the political universe and his opponents.
+The scale for ranges from -1 representing a conflictual view of the political universe to +1 which represents a cooperative view of the political universe.
+The second diagnostic question, examines the leader’s prospects for realizing his political values.
+The third diagnostic question, concerns the predictability of the political future.
+If the leader views the political action of others as unpredictable, more variation will occur, while less variation in attributions indicates the leader views the political action of others as predictable.
+The scale for ranges from .00 which represents other locus of control to +1. which represents self locus of control.
+The fifth diagnostic question, concerns the role of chance in determining political outcomes.
+The scale for ranges from .00 indicating a low role of chance to 1.00 indicating a high role of chance in determining political outcomes.
+While diagnostic propensities examine others, choice propensities examine the leader’s view of self and how self acts in the political universe.
+The choice propensity indices include which indicates how cooperative or conflictual the leader believes he should act in the political universe, which identifies the tactics the leader utilizes to achieve political goals, and which identifies the utility and role of different means in which the leader exercises power.
+The first choice propensity question, , identifies the strategies the leader employs in order to accomplish political goals.
+The scale for ranges from –1 which indicates a conflictual strategy to +1 which indicates a cooperative strategy.
+Although does not indicate the political goals the leader pursues, it does determine if the leader implements a cooperative or conflictual strategy in order to obtain his political goals.
+Choice propensity refers to the utility and role of different means in exercising political power.
+Shift propensities identify the risk and timing of tactics the leader implements.
+The first shift propensity, determines how the leader approaches and handles political risk.
+If the self-attributions are concentrated in conflictual categories, the leader is acceptant to the risk of deadlock.
+In order to determine how the leader times political action , his positive and negative self-attributions are measured to determine how often shifts occur between cooperative and conflictual acts.
+The final shift propensity, measures a leader’s propensity to shift between words and deeds and represents the leader’s use of timing regarding political action.
+A low propensity to shift between words and deeds are more acceptant of risk while a higher shift represents an aversion to risk.
+Political Learning In order to determine if Khrushchev learned as a result of the Cuban missile crisis, it is important to examine the different conceptions of learning utilized by political scientists.
+Political science research regarding political learning focuses on three different aspects including who learns, what is learned, and when it is learned.
+Learning is also observed under various circumstances such as learning from direct experience, from historical events, as well as learning from international crises.
+There are also numerous definitions of political learning and methodologies for evaluating learning.
+There is much debate among political science scholars regarding who or what learns.
+Organizational theorists argue that institutions and governments are just as capable of change as individuals.
+Cognitive theorists such as Levy argue that learning can only occur at the individual level through a change in an individual’s cognitive beliefs, and governments can only learn if the individual implements these new ideas at the institutional level.
+Levy notes that an individual may learn, but if they fail to institutionalize the lessons the organization or government procedures will remain unchanged.
+One area of debate involves determining if leaders “learn” from historical events in order to prevent past mistakes or repeat past successes.
+Experience-based learning is also studied in order to determine if an individual learns as a result of political experiences.
+This research focuses on crises in order to determine if a crisis experience creates policy change or belief change among individuals.
+Scholars such as Stern argue that the experience of a crisis may create a cognitive openness that facilitates individual learning.
+The Cuban missile crisis is recognized as a classic example of a learning crisis.
+Scholars such as Blight and Welch argue that the Cuban missile crisis altered the participants understanding of the superpower relationship.
+Craig & George also argue that the crisis provided an awakening for both leaders, which led them to pursue a more cooperative relationship between the two powers.
+An examination of learning produces several different definitions of learning in political science research.
+Tetlock identifies two conceptions of learning utilized in political science research; the neorealist approach and the belief system approach.
+The neorealist approach to learning focuses on the state as the unit of analysis and defines learning as a response to events in the international system.
+In contrast, the belief system approach to learning focuses on the individual, and argues that learning creates a change in the beliefs or belief structure of a particular leader.
+An examination of each definition is conducted in order to fully understand the concept of political learning.
+In the neorealist approach, learning is regarded as a rational response to changes in the international system.
+Tetlock indicates that in the neorealist approach, the structure of the international system rather then the minds of particular individuals lead to learning.
+According to neorealists, the state is the unit of analysis and it can be treated as a rational actor that responds to changes in the international system.
+The state perceives changes in the international system and responds to those changes in order to maintain power.
+Additionally, Jarosz & Nye note that most studies regarding learning in the Cuban missile crisis have implemented the neorealist approach in order to explain the Soviet Union’s decision to remove the missiles from Cuba as a rational response by the state, classified as learning.
+Unlike neorealism, the belief system approach (also known as the cognitive psychological approach) of learning focuses on how a political leader views events in the international system.
+Observations regarding the political universe and perceptions of other actors in the system make up a leader’s belief system.
+The concept of learning in the belief system approach is not determined by the structure and laws of the international system, but rather through the beliefs of the political leader.
+Belief systems contain the leader’s perceptions of the political universe, and help guide his policy decisions.
+Scholars disagree on how to determine the conditions and forms of learning within a leader’s belief system.
+Learning within the belief system is defined in numerous ways including a change in the leader’s beliefs, a change in the cognitive structure, and the efficiency definition of learning.
+Levy defines learning as a change in beliefs or the development of new beliefs as a result of the observation and interpretation of experience.
+Unlike other definitions of learning, Levy restricts learning to belief change and he indicates that his definition does not require learning to involve policy change, an advanced understanding of the political universe, or a more complex cognitive structure.
+Learning can occur at different levels within the belief system and Levy indicates simple learning leads to a change in means and diagnostic learning indicates a change in beliefs regarding the political universe and the intentions of other political actors.
+Based upon scholars’ observations regarding the increased cooperation between the two powers following the Cuban missile crisis, this study measures Khrushchev’s instrumental and philosophical beliefs before and after the crisis to determine if they were significantly different indicating that he experienced learning at the simple and diagnostic levels respectively.
+The results of this study, however, indicate that Khrushchev only experienced a significant change in his operational code beliefs regarding his exercise of power in his use of appeals and rewards following the Cuban missile crisis.
+Khrushchev’s remaining operational code beliefs remained constant before and after the crisis.
+Background on Khrushchev Khrushchev is remembered by many for his hare-brained schemes, deStalinization, and his decision to place nuclear weapons ninety miles off the coast of the U.S., bringing the world close to nuclear destruction.
+A discussion of Khrushchev’s rise to power and his leadership of the Soviet Union provide insight into his success and failures as leader of the Soviet Union.
+Nikita Khrushchev rose from a peasant to become the leader of one of the most powerful countries in the world.
+Khrushchev started his political career in 1918 when he joined the Bolsheviks and served in the Red Army as a junior political officer during the civil war.
+Following the civil war, Khrushchev was appointed party boss of the Petrovo Manivsky district in Ukraine and by 1928 he became head of the Ukraine’s Central Committee Organization Department.
+Khrushchev was always concerned about furthering his education and in 1929 the party allowed him to attend the Stalin Industrial Academy in Moscow.
+While in Moscow, Khrushchev began a rapid rise up the party ladder, in part Khrushchev suggests, to Stalin’s wife Nadezhda Alliluyeva, who brought Khrushchev to Stalin’s attention while both attended the Academy.
+Zubok & Pleshakov indicate that during the purges Khrushchev rose to the number two position in the Moscow party organization.
+During World War II he was a political commissar and he spent a great deal of time at the battle of Stalingrad keeping Stalin and Presidium members informed of the battle’s progress.
+After Ukraine’s liberation in 1944, Khrushchev reassumed his position as first secretary of the Ukrainian party.
+In 1949 Stalin called him back to Moscow as head of the Moscow city party and he was appointed secretary of the Central Committee.
+Following Stalin’s death in March 1953, Khrushchev became leader of the party, although he had to overcome many obstacles in order to consolidate his power.
+A collective leadership was formed between Georgy Malenkov who became Prime Minister, Lavrenty Beria, who was head of the secret police, and Vyacheslav Molotov, a deputy prime minister.
+Malenkov, Molotov, and Khrushchev formed an alliance to eliminate Beria in the leadership due to his power as head of the secret police.
+Much of the blame of the Stalinist purges was attributed to Beria and he was tried and executed and a new collective was formed between Khrushchev, Molotov, and Malenkov.
+Following the elimination of Beria, Khrushchev, as leader of the party and Malenkov, as head of government became the main contenders in the succession struggle.
+Both men began suggesting and implementing programs in order to outmaneuver one another.
+Malenkov set himself apart from Stalin’s conservatism by suggesting the Soviet Union increase investment in consumer goods, which would decrease investment in the armed forces and heavy industry sectors.
+Khrushchev adopted a more conservative platform that increased investment in heavy industry, which won him the support of the powerful armed forces and heavy industry lobbies.
+Malenkov faced increasing criticism of his policies and Khrushchev took advantage of the situation by lambasting Malenkov at every opportunity.
+Khrushchev still had many enemies on the Presidium including Malenkov who remained a member in spite of his resignation as premier.
+A campaign of de-Stalinization began in which there were attempts at returning rule of law to the country and reviving the Leninist utopian ideal.
+The speech created problems in Eastern Europe where citizens began to question Stalin’s reign as well as the viability of the socialist system.
+The situation became volatile in Hungary, when Prime Minister Imre Nagy abolished one party rule essentially opening the way for multiparty elections.
+Khrushchev and other Presidium members agreed that Hungary had gone too far and responded with force to crush the revolt.
+The revolt in Hungary led many Presidium members to question Khrushchev’s de-Stalinization policies due to the reaction they created and the fact that the policies could expose members due to their complicity in the crimes.
+Khrushchev continued to provoke the Presidium by passing reforms and reorganizing the bureaucracy in order to strengthen his position within the party.
+He reformed the economic councils in order to put regional party members rather than government ministers in charge of industry.
+In order to gain popular support, Khrushchev announced without prior approval from the Presidium that the Soviet Union would surpass the United States in per capita production of meat, milk, and butter within three years.
+A majority of Presidium members were troubled by the reforms and they felt that Khrushchev and the party apparatus were becoming too powerful.
+In June 1957, an antiKhrushchev group headed by Malenkov, Molotov, and Kaganovich held a Council of Ministers meeting in which the group criticized Khrushchev’s reforms and called for Bulganin to replace him as party leader.
+Khrushchev was familiar with the rule and he demanded delay until all Central Committee members were present due to the fact that the majority of them were his supporters.
+Khrushchev succeeded in calling a Central Committee plenum with the help of the KGB and the military, led by Marshal Zhukov.
+In 1958, Khrushchev became the undisputed leader of the Soviet Union when he assumed the position of premier after Bulganin resigned.
+Fellow party members noted that after Khrushchev defeated the antiparty group his attitude changed.
+Unlike Stalin, Khrushchev never completely controlled the party even at the peak of his power.
+Tompson explains that Stalin ruled over the party through fear, however, Khrushchev essentially had to make the party his partner.
+By loosening the grip of fear that Stalin had used to control the party and his rivals, Khrushchev had a difficult time controlling critics in the party who opposed many of his reforms and his increasingly all-knowing attitude.
+Crankshaw indicates that the same people that brought Khrushchev to the peak of power were the same people responsible for his ouster in 1964.
+He continued to promote reforms that threatened party members’ positions.
+In 1962 he announced his plan to split the party apparatus into two entities, an agricultural section and an industrial section.
+Presidium members gave their approval; however, Taubman indicates that most members were appalled by his decision.
+His decision greatly angered provincial party bosses who lost a considerable amount of authority as a result of the reform.
+Khrushchev also alienated party members by proposing that agriculture management be centered in Moscow instead of at the local level, further eroding the party members’ authority.
+In October 1964, while Khrushchev was on vacation, party members met to complete plans for his removal.
+Unlike the “anti party group” in 1957, the plotters involved in 1964 took steps to ensure that Khrushchev could not retain his position.
+Leonid Brezhnev and the others secured the support of the Central Committee, whose members had been most affected by Khrushchev’s reforms.
+Unlike in 1957, the KGB also supported Khrushchev’s removal and ensured that he had no advance knowledge of the plotters’ plans.
+Leonid Brezhnev phoned Khrushchev and insisted that he come back to Moscow in order to discuss his agricultural management reforms.
+The Presidium suggested that Khrushchev “retire” due to his age and bad health.
+Khrushchev did not put up any resistance and agreed to retire per the Presidium’s request.
+The Cuban missile crisis Khrushchev also made bold moves in foreign policy, the most noteworthy being his decision to place nuclear weapons in Cuba.
+Initially, following Fidel Castro’s defeat of Batista’s regime, Khrushchev and his colleagues were unsure of Castro’s political inclinations.
+By 1959, however, Castro announced his support of Marxism and Khrushchev demonstrated the Soviet Union’s approval by sending Warsaw Pact weapons to Cuba in 1959.
+Following the botched Bay of Pigs invasion in 1961 in which the United States sent exiled Cubans to try to topple Castro’s regime, Khrushchev became more committed to protecting Cuba by increasing Soviet military aid.
+A vacation to Bulgaria led to the most stunning decision of Khrushchev’s career.
+While Khrushchev and Defense Minister Malinovsky walked along the beach, Malinovsky indicated that United States missiles based in Turkey were capable of striking Moscow and Kiev.
+This led Khrushchev to inquire into the placement of Soviet missiles off the coast of the United States and if they could be placed covertly.
+Malinovsky assured Khrushchev that the weapons could be deployed secretly and after much discussion and approval from all the Presidium members, the Soviet Union started shipping nuclear weapons to Cuba in September 1962.
+Khrushchev immediately responded by letter to Kennedy stating the actions proposed would violate international law, however Soviet ships were promptly ordered to turn back.
+The two leaders continued to correspond to one another in an effort to end the crisis.
+After three days of deadlock in which the Soviets continued to assemble the missiles on the island, Khrushchev, in response to reports that a United States attack on Cuba was imminent, wrote John F Kennedy a letter on October 26, which hinted at an offer to remove the missiles.
+After the threat of an attack subsided, he wrote another letter on October 27 that talked about a settlement which involved the removal of United States missiles from Turkey in exchange for the removal of the Cuban missiles.
+The situation remained tense when Soviet forces, without authorization, shot down a U-2 over Cuba.
+On October 28, Khrushchev agreed to withdraw the missiles after Kennedy ensured him the United States would not invade Cuba.
+The United States also agreed to remove the missiles from Turkey; however, this was to remain secret from the public, which made Khrushchev’s withdrawal look like a capitulation to many, including Castro and the Chinese.
+Much of the research on Khrushchev’s role in the crisis has centered on explaining why he made the decision to place nuclear missiles in Cuba.
+Taubman indicates that Khrushchev viewed placing missiles in Cuba as a cure-all that would alleviate his domestic troubles and prove to his colleagues that he was a worthy leader.
+The primary interest of this study is to determine if Khrushchev’s beliefs changed as a result of the Cuban missile crisis.
+Hoagland used a qualitative method to examine Khrushchev’s operational code before the Berlin Crisis and between the Berlin and Cuban crises in order to determine if his instrumental beliefs changed between the two events.
+This study measures Khrushchev’s operational code using the Verb in Context System to determine if Khrushchev’s beliefs changed following the Cuban missile crisis.
+Method This paper examines Khrushchev’s operational code to determine if his beliefs changed significantly due to the Cuban missile crisis indicating learning.
+In order to measure Khrushchev’s beliefs, fifteen speeches in two samples were collected before and after the crisis.
+Speeches were selected from 1958 onward because Khrushchev did not consolidate his leadership as party leader and premier until March of 1958 when Bulganin resigned.
+The speeches were selected from the table of contents based upon their title, in order to determine if the speech pertained to Soviet foreign policy towards the United States.
+The speeches all met the 1,000 minimum word length that the Verbs In Context System requires for coding purposes.
+The Current Digest of the Soviet Press was a news digest that was produced by an independent nonprofit organization affiliated with the American Association for the Advancement of Slavic Studies and the American Council of Learned Societies.
+The CDSP selected, translated, and abstracted articles from the press of the Soviet Union.
+The publication surveyed newspapers and periodicals that represented the most significant elements of the Soviet press.
+Coverage included ""condensed text” reports, which may be long or short; ellipses indicate where material has been omitted, and ""abstract"" reports which summarized articles in whole or part, and ""complete text"" reports that contain the full text of speeches, official announcements, and appointments.
+All of the Khrushchev’s speeches that were selected for this study were marked as “complete text” by the CDSP indicating that they were reprinted in their entirety.
+Sample Khrushchev’s public and prepared verbal material were used for the sample primarily due to their availability.
+There is argument among “at a distance” scholars regarding which type of public verbal material, prepared or spontaneous more accurately portrays a leader’s psychological characteristics.
+Schafer notes that most leaders participate in the speechwriting process by providing ideas that they want to discuss, reading over the text, and making changes to the speech in order to make it their own.
+Procedure After all the speeches were selected, they had to be transferred into the computer for analysis.
+Each speech was scanned into the computer and an optical character recognition program was used so the computer would recognize the speeches as text.
+Profiler + contains a coding dictionary for VICS that identifies transitive verbs and places them in self or other categories based upon positive and negative valences.
+Profiler + produces numbers to self and other categories for each speech.
+Each self and other category contains a range from +3 to -3 which represent the positive or negative attributes the speaker makes to self and others which are used to calculate the operational code beliefs.
+An excel spreadsheet created by Mark Schafer, one of the creators of VICS, was used to calculate each operational code belief.
+The data from Profiler + was placed into the corresponding self and other categories in the excel spreadsheet.
+The spreadsheet contains the formulas that are used in the VICS indices to create quantitative data for each philosophical and instrumental belief before and after the crisis.
+Following the calculation of Khrushchev’s beliefs, an average score for each belief was compared before and after the crisis.
+Khrushchev’s VICS scores for his philosophical beliefs before the crisis were added together and divided by his eight speeches before the crisis, and his philosophical beliefs after the crisis were added together and divided by his seven speeches after the crisis.
+His instrumental beliefs before the crisis were added together and divided by eight speeches and his instrumental beliefs after the crisis were added together and divided by seven speeches.
+Following the calculations a difference in means test was performed using SPSS software with time as the grouping variable in order to determine if learning occurred based upon statistically significant differences in his beliefs before and after the crisis.
+In order to determine if Khrushchev’s operational code indicates simple learning which refers to changes in his instrumental beliefs, the significance differences for each belief were examined before and after the crisis by a one-tailed difference in means test in order to determine if the difference was significant at the p ≤ .05 level.
+Khrushchev’s philosophical beliefs before and after the crisis were also examined before and after the crisis to determine if diagnostic learning occurred at the p ≤ .05 significance level.
+In order to test the hypothesis that Khrushchev learned as a result of the crisis, an independent sample difference of means 1 1 test 1  2   t .05 Sp  was performed to measure the difference in n1 n 2 Khrushchev’s beliefs before and after the crisis.
+In the study, a one-tailed test was implemented with thirteen degrees of freedom, making the t critical value 1.77.
+A t-score that is higher than the critical value of 1.77 for a particular belief indicates that learning occurred and is statistically significant at the p≤.05 level.
+Observing the t-scores for each belief, it is apparent that none of his philosophical beliefs differed significantly before or after the crisis.
+Khrushchev did not experience diagnostic learning because the t-scores of his philosophical beliefs before and after the crisis did not approach the critical t value of 1.77.
+The t-scores for his use of appeals and rewards exceed the t critical value of 1.77, which makes them statistically significant.
+The t-scores for his remaining instrumental beliefs indicate simple learning did not occur because they failed to reach the critical t value of 1.77.
+The only other index that approached significance was Khrushchev’s pursuit of goals I-2, with a t-score value of -1.67.
+None of his other beliefs come close to being statistically significant as a result of the difference of means test.
+An examination of his beliefs will help to determine his general operational code in which this study suggests nearly all of his philosophical and instrumental beliefs remained constant from 1958-1963.
+Operational Code Mean Scores for Khrushchev Before and After the Crisis Philosophical Indices Cuban missile crisis Before After t P1Nature of the Political Universe .16 .07 1.25 P2Realization of Political Values .03 .01 .381 P3Political Future .08 .09 -.611 P4Control over Historical Development .12 .09 1.06 P5Role of Chance .99 .99 -.441 Instrumental Indices I1Approach to Goals .25 .41 -.812 I2Pursuit of Goals .03 .30 -1.67 I3Risk Orientation .21 .27 -.418 I4Timing of Action Cooperative/Conflictual Shift .67 .49 1.24 Word/Deed Shift .45 .57 -.716 I5.
+By including speeches that Khrushchev made regarding foreign policy towards the United States, this study seeks to determine if his views toward the political universe, specifically towards the United States, changed following the Cuban missile crisis.
+Before and after the Cuban missile crisis, Khrushchev had a moderately conflictual view of the political universe represented by his scores of and respectively.
+He was moderately pessimistic about the prospects for realizing his political values with before the crisis and following the crisis.
+Khrushchev saw the political future as unpredictable and he felt that he had little control over historical development before and after the crisis.
+His view of the political future as unpredictable and his belief that he had low control over historical development influenced his belief regarding the role that chance has in affecting political events.
+Khrushchev felt that chance played a high role in the political universe with a score of before and after the crisis.
+Instrumental Beliefs Khrushchev’s instrumental belief mean scores before and after the crisis reveals his view of self in the political universe regarding his use of strategy and tactics he implemented in pursuit of his political goals.
+Khrushchev’s approach toward his political goals before and after the crisis indicates that he was moderately cooperative.
+He pursued his goals with moderately cooperative tactics of before the crisis and following the crisis.
+Although the results were not significant, his mean score was higher following the crisis, indicating that he adopted more cooperative tactics.
+Khrushchev managed risk by employing a somewhat unpredictable repertoire of tactics before and after the crisis.
+He also had a high propensity to shift between words and deeds with scores of before and after the crisis.
+The utility of means indices indicate Khrushchev’s tendency to use particular cooperative and conflictual verbs, which represent the tactics he employed to exercise power.
+The conflictual verbs are represented by threaten, punish, and oppose with threaten being the most conflictual.
+The cooperative verbs range from reward as the most cooperative to promise and appeal.
+Khrushchev preferred the use of appeals , oppose , and punish for exercising political power before the crisis.
+Following the crisis he relied upon reward , appeals , and oppose as his primary utility of means.
+Two of Khrushchev’s utility of means indices, including his use of reward and appeal exceeded the critical t value of 1.77 indicating that he experienced simple learning following the crisis regarding the tactics he employed to exercise power.
+Khrushchev’s use of rewards before the crisis shows an increase to after the crisis with a t-score of -2.01.
+His use of appeals shows a decrease with a score of before and after with a t-score of 2.09.
+Discussion According to the results of this study, Khrushchev’s operational code beliefs at the philosophical level did not change significantly, indicating that he did not experience diagnostic learning as a result of the missile crisis.
+Khrushchev experienced simple learning regarding his use of rewards and appeals ; however his remaining instrumental beliefs remained constant.
+A number of explanations exist to explain why the majority of Khrushchev’s beliefs remained stable following the crisis including the concept of retrospective rationality, personality rigidities, and the doctrinal nature of Bolshevik and Marxist belief systems.
+Following the missile crisis, one of the primary questions of interest to scholars was Khrushchev’s motivation for placing missiles in Cuba.
+In all the sources researched, it is apparent that the initial decision to place missiles in Cuba was Khrushchev’s idea.
+Many scholars of the crisis do not give credence to Khrushchev’s explanation and feel that he was trying to preserve the Soviet Union’s and his own reputation following the foreign policy defeat.
+Following the crisis, Khrushchev faced criticism for his decision from other Socialist governments, particularly the Chinese, Cubans, and fellow Soviet party colleagues who felt that the missile removal made the Soviet Union look weak.
+Many also dismissed the “promise” from the United States not to invade as farcical, considering it was a verbal agreement that had no legal significance in international law.
+Khrushchev’s beliefs regarding the success of the missile crisis mirrors a concept in psychology known as retrospective rationality which is implemented by Tetlock in his research regarding accountability.
+Individuals that are subject to high levels of accountability after a crisis will often try to defend their behavior through creative rationalizations and public defenses.
+Justifications for the decision are made and the individual essentially starts believing in his own rationalizations.
+Personality Rigidities In his research on the operational code, George observes that personality rigidities can also prevent belief change.
+It is obvious from Khrushchev’s public statements and memoirs that he never questioned or admitted any type of error regarding the decision to place missiles in Cuba.
+Moscow party boss Nikolai Yeguychev reflects an interesting aspect of Khrushchev’s personality regarding his belief that his decisions were infallible, “Even when Khrushchev made a mistake, even when he’d knew he had done so, perhaps especially then, he couldn’t bring himself to admit it.
+Taubman also notes that a pattern emerged in Khrushchev starting in 1957 following his defeat of the “anti party group” in which he got conceited and started to believe that his own judgments were infallible.
+Marxist/Bolshevik Belief System Alexander George introduces another explanation as to why Khrushchev’s beliefs remained the same following the crisis.
+In his research on reformulating Leites’s original study on the operational code of the Bolsheviks, George provides some interesting insight into the structure of the Marxist belief system.
+There is evidence to suggest that Khrushchev’s belief system was based upon Bolshevik and Marxist doctrines.
+Zubok notes that Khrushchev’s belief system still retained Bolshevik doctrines such as his belief in the aggressive nature of imperialism, and his belief in the responsibility of the Soviet Union to support wars of national liberation.
+There is evidence to support Zubok’s claim from the results of this study as well as comments made by Khrushchev following the crisis.
+In his speech on the international situation following the crisis, Khrushchev reiterated that the Soviet Union would continue to support national liberation movements in Asia, Africa, and Latin America.
+Ulam indicates that Khrushchev pursued national liberation wars in order to prove the Marxist/Bolshevik doctrine that socialism would prevail over capitalism and to ensure the ideology did not become an empty promise.
+Although Khrushchev altered his beliefs regarding the inevitability of war, George indicates that they were modifications rather then an abandonment or transformation of his Bolshevik beliefs.
+Khrushchev had to adapt the inevitability of war doctrine due to the destructive capabilities of nuclear weapons.
+Peaceful coexistence still upheld the doctrine that communism would triumph over capitalism; however, success would be measured economically, rather than militarily.
+Another aspect of Khrushchev’s rule that emphasizes his unwavering belief in Marxism/Leninism were his constant reforms to the party bureaucracy as well as his promise that a communist society would be built in the Soviet Union by 1980.
+In order to achieve this goal, Khrushchev realized that consumer goods and agricultural products needed to be more readily available.
+His efforts were not successful and he began to alienate members of the party who were increasingly threatened by his reforms.
+Khrushchev’s Operational Code Beliefs Following the Cuban missile crisis, scholars such as Blight and Welch and Hopmann and King suggested that the relationship between the two superpowers moved in a more cooperative direction.
+In order to determine if this cooperation could be attributed to learning on the part of Nikita Khrushchev, a measurement of his operational code was taken before and after the crisis.
+The results of this study indicate that Khrushchev’s view of the political universe , (representing his view of others, particularly the U.S.) would be significantly different p ≤ .05 indicating that he viewed the United States in a more cooperative light following the event.
+However, Khrushchev’s mean scores regarding his view of the political universe indicate he maintained a moderately conflictual view before and after the crisis.
+Two statements made by Khrushchev in his speech on August 1963 indicate his continued mistrust of the West.
+It appears that the Cuban missile crisis was unable to alter Khrushchev’s conflictual view of the United States.
+Khrushchev’s highest mean score involves the role that chance plays in political outcomes with before and after the crisis.
+The scores from Khrushchev’s philosophical indices indicate that overall he did not have a very cooperative view of the United States before or after the crisis.
+The results would seem to support Zubok’s claim that Khrushchev continued to mistrust the U.S. following the Cuban missile crisis.
+Although his philosophical beliefs which reflect his perceptions of the United States remained constant, he experienced a change in his instrumental belief regarding how to advance his goals.
+Following the crisis, this study indicates that Khrushchev increased his propensity to use reward as a means of exercising power.
+Khrushchev experienced simple learning regarding his use of reward as a means to exercise power, which led him to apply positive sanctions in his relationship with the United States.
+Although his use of appeals decreased following the crisis , he implemented appeals as an exercise of power more frequently than oppose , threaten , or punish , indicating that relied on positive exercises of power more often than negative exercises.
+Khrushchev’s instrumental beliefs provide a portrait of his view of self in the political universe regarding his use of strategy and the tactics he implemented in pursuit of his political goals.
+Khrushchev’s instrumental beliefs reflect the assertion made by Leites’s that he dropped Stalin’s belief in the inevitably of war in favor of peaceful coexistence.
+His approach to political goals was moderately cooperative before and after the crisis , which reflects Zubok’s observation that the crisis reinforced his belief in peaceful coexistence.
+His tactics before and after the crisis also appear to be moderately cooperative.
+Khrushchev had a high propensity to shift between cooperative and conflictual tactics , which indicates that the timing of action was important in assessing the risks of political action.
+It is apparent through Khrushchev’s foreign policy endeavors that he alternated between conflictual and cooperative tactics.
+Zubok indicates that Khrushchev was always in flux regarding his commitment to the national liberation doctrine of the Bolsheviks and his peaceful coexistence policies, which helps explain why he vacillated between conflictual and cooperative tactics.
+Khrushchev’s utility of means regarding his use of rewards and appeals provide the only significant results in this study.
+The increase in Khrushchev’s propensity to use reward indicates that following the crisis, he was more willing to use positive sanctions in exercising power.
+It does appear; however, that Khrushchev’s more cooperative exercises of power were used more frequently than his conflictual ones.
+This might help explain why he relied on cooperative exercises of power more frequently than conflictual ones.
+Steven Hoagland did a qualitative study on Khrushchev’s operational code during the post Berlin/pre Cuban period to determine if the Berlin crisis altered his instrumental beliefs, representing the actions and tactics he implemented to achieve his foreign policy goals.
+Hoagland examined Khrushchev’s written and verbal statements during his sample period and extracted the relevant responses that corresponded to the instrumental operational code questions and compared his responses to his past actions to determine if his past actions resembled his responses to the instrumental questions.
+Hoagland concluded in his research that there was no significant change in Khrushchev’s instrumental beliefs in the thirteen months that separated the Berlin and Cuban crises.
+According to the results of this study, only two of Khrushchev’s instrumental beliefs showed significant change during the sample period 1958-1963.
+The stability of Khrushchev’s operational code beliefs provides support to the theory that Khrushchev had personality rigidities and that his belief system had doctrinal qualities due to its Marxist/Bolshevik base.
+Both of these factors contributed to his inability to learn following the Cuban missile crisis.
+Conclusion In this study, Khrushchev’s operational code beliefs before and after the Cuban missile crisis were measured to determine if the event altered his perceptions of the political universe and his political tactics in a more cooperative direction.
+The results of this study indicate that the crisis did not alter the majority of Khrushchev’s beliefs.
+These suggestions warranted a study of how the crisis affected Nikita Khrushchev to determine if his beliefs became more cooperative as a result of the crisis.
+The results reveal that the crisis did not alter the beliefs of Khrushchev in a more cooperative direction; rather, Khrushchev’s beliefs remained stable.
+Khrushchev’s failure to learn can be attributed to his personality rigidities, which did not allow him to question and learn from his decisions.
+In order to protect himself and the image of the Soviet Union, Khrushchev engaged in retrospective rationality, in which he defended his decision to place missiles in Cuba as a success.
+He began to believe in his own rationalizations, which thwarted any retrospective or self-assessment that could have produced a change in his beliefs.
+Khrushchev’s belief system was also mired with Marxist and Bolshevik doctrines, so much so that even an event such as the Cuban missile crisis could not alter his basic operational code beliefs.
+The Marxist and Bolshevik doctrine strongly influenced future Soviet leaders and many scholars argue that Gorbachev was the first Soviet leader who began to reconsider many of them.
+This study provides valuable insight into a political leader’s beliefs and how crisis can affect beliefs.
+The operational code and the Verbs in Context System provide belief system theorists with vital tools to determine if political leaders’ beliefs change as the result of a crisis.
+This model can be utilized to study other political leaders in order to determine the affect that crisis has on their beliefs which in turn can provide new insights into the perceptions and character of political leaders.
+A further application of this study would involve comparing Khrushchev’s operational code to other Soviet leaders such as Stalin and Brezhnev in order to determine how Marxist and Bolshevik doctrines affected each leader’s beliefs.
+It would also be interesting to compare Khrushchev’s operational code to Gorbachev’s especially since scholars speculate on how Khrushchev laid the foundation for Gorbachev’s subsequent policies.
+Gorbachev is recognized as the first Soviet leader to abandon some of the more stringent Bolshevik doctrines and a comparison of each leader’s operational code might reveal to what extent each leader’s beliefs differed.
+Applying this model to each leader of the Soviet Union would give scholars a more accurate portrayal of how Soviet policy and Bolshevik doctrines evolved and changed over the course of each leader’s rule.
+Khrushchev’s private statements made to the Presidium and Central Committee members during and after the crisis could be analyzed and compared with his public statements to determine if his beliefs differed based on source material.
+A study by Marfleet examined President Kennedy’s public rhetoric during the crisis and his private rhetoric to the Executive Committee members and found that differences existed between his public and private verbal material.
+If the Russian government ever released private conversations between Khrushchev and Presidium members during the crisis, a similar study could be conducted to determine if Khrushchev’s rhetoric varied between source material.
+Operational code analysis is a valuable tool used to assess the psychological characteristics of political leaders.
+Through the use of the Verbs in Context System and automating coding programs such as Profiler +, operational code analysis has become easier to conduct and remains an important tool in assessing the beliefs of political leaders.
+A neglected approach to the study of political leaders and decision-making.
+The causal nexus between cognitive beliefs and decisionmaking behavior.
+The role of the Cuban missile crisis and the partial nuclear test ban treaty.
+A quantitative analysis of Anwar Sadat’s operational code before and after the October War of 1973.
+Building worldviews with Profiler+ in applications of computer content analysis.

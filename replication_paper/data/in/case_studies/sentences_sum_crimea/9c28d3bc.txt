@@ -1,0 +1,300 @@
+ Thesis Advisor: T Camber Warren Warren Second Reader: Hy S Rothstein Approved for public release .
+ The Euromaidan Revolution in Ukraine in 2014 saw a series of violent events leading to the ousting of then-President Yanukovych .
+ Opposition to the revolution spiraled into the annexation of Crimea by Russia and ongoing skirmishes in eastern and southern Ukraine .
+ Analysis of social media messages relating to Euromaidan movement in Ukraine from 2013 to 2014 can reveal evidence of nascent plots against Ukrainian state authorities .
+ We systematically examined the exonyms in native languages used by the groups for and against the Euromaidan movement . We conducted a series of statistical tests to analyze the significance of social media-derived sentiment metrics .
+ Euromaidan mobilization shows that algorithms can be used to detect and measure prevalent dissent expressed in native lexicons through social media . The application of algorithms can substantially improve geospatial forecasts of violent events .
+21 A HYPOTHESIS......................................................................................... 21 B DATA AND METHODs . 22 1.
+22 2.2. 2.3.4.5.4 . 2.5 . 4.6.6 . 5.5%. 4.5% of the world's most popular news sites are on social media .
+ Dissent Lexicon: 23 C REGRESSION ANALYSIS . 23 C ReGRESSION: 24 C RE GRAPHIC CONTENT .
+ Regression Model .........................................................................24 2.2.3.4.4 .
+25 3.25. Dependent Variable is the most significant variable in the world .
+ Independent Variable is an independent variable . It is a four-year-old, four-month period .
+48 B ADDITIONAL RESEARCH. 47 A RECOMMENDATIONS . 49 APPENDIX A List of RUSSIAN LEXICONS . 51 A PRO-EUROMAIDAN TERMS .
+ President Yanukovych is the president of Ukraine . He has been in power for more than three years .
+ The UK Parliament is the UK Parliament of the UK . It is the second largest parliament in the world .
+53.53 4.53. 53.53 . 53 . 53. 53 .
+ The UK Special Forces are part of the U.S. Special Forces.
+ Russian Media-related terms include "Russian Media-Related Terms" and "Russian media-related Terms"
+ President Putin is the president of Russia . He has been in power since 2007 .
+57.57 8.57. 57.57 . 57. 57 . 57 .
+ Crimea-related terms include the Crimea, Crimea, and Crimea .
+60 B ANTI-EUROMAIDAN TERMS: 60 1.60 1. 60 B . 60 B. A.
+ Maidan Verbs is an award-winning author of the book, "Maidan Verb"
+ Maidan Derivatives. MaidanDerivatives are a group of people who have been involved in Maidan Diversions .
+ The Ukraine-based group is based in Ukraine . The group has been in Ukraine since 2004 .
+ The Ukraine Historical-related Terms are part of a series of Ukrainian history-related terms . They include "Ukraine Historical- related Terms"
+ The Ukraine Organization-Related Terms are part of the Ukraine Organization .
+68.68 APPENDIX B List of UKRAINIAN LEXICONS . The list includes a PRO-EUROMAIDAN TERMS .
+ President Yanukovich is president of Ukraine . He has been in charge of the country since 2004 .
+ Ukraine Slogan .................................................................................................................................77 7.77.77 . The Ukrainian Slogan is one of the world's most popular names .
+778.77 8.77 7.77.77 .
+ Euromaidan Slogan: 77 B ANTI-EUROMAIDAN TERMS . 78 1.78 1.77 B.
+79 6.79 7.79 8.79 9.79 .
+ Russia Media-Related Terms: 7.80, 7.70, 8.50, 9.80 .
+ We would like to extend our gratitude to Professor T Camber Warren for his invaluable guidance and assistance throughout the course of our thesis, and to Professor Hy Rothstein for his useful comments .
+ Tanya Clark, and their supporting teams for their phenomenal effort in collating an extensive library of Russian and Ukrainian lexicons .
+ The fixation with the internet and social media has permeated across modern society . The number of users, diversity of social media platforms, and average time spent on those platforms have been surging over recent years .
+ This has inadvertently altered prior cultural and societal norms that impact how people interact with, and process, information . This has also inadvertently altered the way people interact and process with each other .
+ The advancement in information and communication technologies has provided an alternate channel for entities to exploit the utility of social media platforms to promulgate narratives, modify cognitive structures and polarize factions .
+ This phenomenon was evident during the Euromaidan Revolution in 2014 . Ukraine’s population was fractured between pro-West and pro-Russian factions .
+ The situation was exacerbated as Ukrainians broadcast their negative sentiments on social media, leading to increased aggression . Yanukovych was ousted after a series of violent events that led to the ousting of then-President Yanukovych .
+ Opposition to the revolution ignited further clashes that spiraled into Crimea annexation by Russia .
+ Civil unrest has historically been attributed to the state’s incapacity to exert its influence on the people .
+ The side that dominates the social media realm may potentially possess the corresponding power to manipulate the populace’s emotions . Conversely, the side that controls social media may possess the same power .
+ Social media's influence over the public’s interpretation of information grows exponentially . It is important that we unravel this enigma as social media's extent of influence grows exponentially. We need to unravel this.
+ The impetus for our investigation is a desire to evaluate social media's distinctive capacity to influence one’s convictions in order to instigate specific behavioral impulses . The impetus is to assess social media‘s distinctive capacity for influence one's convictions .
+ State administrations can potentially utilize a cyber trawling algorithmic tool to closely monitor the pulse of the populace’s sentiments .
+ Chapter II focuses on theories that illustrate the efficacy of “hard power” versus “soft power’ by state authorities to manipulate human behavior . New media's capacity to establish group identities that band like-minded individuals together, thus increasing the propensity toward collective violence .
+ Chapter III delves into the power struggle between the Ukrainian and Russian government . The chapter includes how both states exploited the utility of new media communication channels as part of their “soft power’s strategy to further their political objectives .
+ The authors say the propensity for violence within the corresponding region is 1-2. Evans, and Robert H Hodges Jr., “Understanding Violence through Social Media’s”
+ The thesis seeks to investigate the influence of social media in other parts of the world experiencing similar political struggles that result in violent conflicts .
+ In order to establish the legitimacy of our research, we adopted a similar quantitative approach . We adopted the same quantitative approach to our research .
+ We coded a set of predictive algorithms to consolidate online propagation of dissent against the Ukrainian government in native lexicons extracted from Twitter data . We overlaid it with a geospatial archive of violent events in Ukraine across a parallel time frame .
+ We analyzed the correlation between the volume of specific kinds of messages and the onset of civil violence in the region . The correlation was found between messages and onset of violence in various periods of state administrations .
+ Chapter IV details the research method and variables taken into account for our statistical models . Chapter IV describes the research methods and variables used to create the statistical models.
+ The data consolidated to develop our algorithm consist of three billion messages and 40 terabytes of pre-collected Twitter data . The data coincides with the duration of the Euromaidan Revolution .
+ The Defense Language Institute has a library of lexicons in both Russian and Ukrainian . We were able to trawl through the extensive Twitter data by referencing a comprehensive library of languages .
+ The study also incorporated control variables such as economic conditions, population density and ethnic composition within the region of study .
+ Chapter V examines the results of our statistical analysis and elaborates on the key findings of our thesis .
+ The Arab Spring in 2011 illustrated the influence of new media in galvanizing disparate groups to revolt against state authorities . Arab Spring inspired new media to galvanize disparate groups.
+ algorithms coded to detect and measure prevalent dissent expressed in native lexicons against the incumbent government in each specific political time frame . A strong correlation between negative sentiments propagated on Twitter and the manifestation of violent events in Ukraine .
+ Chapter VI summarizes the entire thesis and distills the lessons learned through the integration of both the conceptual and statistical analysis to understand the relationship between social media's influence on people and its capacity to incite collective violence .
+ We then propose feasible recommendations to mitigate the political struggles faced in volatile regions . Based off the insights gleaned, we suggest feasible recommendations .
+ The inadequacies of our research and other potentially uncharted areas that future academics can explore within this novel field of research are also discussed . The inadequacy of ourResearch and other potential uncharted Areas are also being discussed .
+ The rise of civil violence has historically been attributed to the failure of the state to exert its influence on a sizeable share of the populace . The state's failure to exert influence on the population has led to the rise of violence .
+ The rise of civil violence seemingly alludes to failure of state authority's ability to suppress emerging insurgency or rebellion through mechanisms of “hard power,’ such as the power to coerce, the purchase of compliance, or the power of reward .
+ Fearon and Laitin propose the use of gross domestic product per capita as a proxy for the state authority’s strength . They say such measures of economic advancement reflect state authority's capacity to impose coercive force to deter violence .
+ In reward camp, Collier and Hoeffler claim GDP per capita mirrors the economic capacity to compete directly against rebel recruitment by gaining support .
+ Nye and Raven suggest that political leaders could transpose their values, beliefs and interests through carefully scripted narratives . Originally conceptualized by Carr as ‘propaganda power’ and akin to what Lukes termed as the “third dimension’ of power,’
+ Theoretical and Empirical Implications for the Study of Civil Conflict,’s Journal of Peace Research 47, no. , 274 . Timothy C Warren, “Not by the Sword Alone: Soft Power, Mass Media, and the Production of State Sovereignty,�
+ This, in turn, could enhance the legitimacy of the authority and quash any uprising attempts at the onset . This could be a step towards quashing any uprising attempt at the start .
+ Failure, on the other hand, could require the co-opting of ‘hard power’ mechanisms to maintain control, and worst, reinvigorate the rebellion .
+ At its formative stage, the insurgents are confined by both the resources available and the accompanying operating space .
+ Resources need to be replenished to fund the insurgent’s activities so as to lay the conditions for the insurgency to grow bigger and progress toward the advanced stage over time .
+ The growing success of one group against the state authority could motivate and trigger follow-on conflicts by other aggrieved groups in the near vicinity .
+ The efficient use of this information superiority over the state authority would not only ensure the survival and growth of the insurgent group but also erode the relative material strength of the state authorities over time .
+ The earlier the authority can negate its information weakness, the lesser the cost of resource commitment to eliminate the insurgent group .
+State authority should invest resources into information and intelligence networks to foil the communication networks of potential insurgent groups, ideally during the latter's formative stage before the onset of violence .
+ Leites and Wolf observe that the corresponding control of the authority could reduce the endogenous supply of resources funding the insurgent growth .
+ The potential influence by an external actor could upset the pre-exiting balance between the authority and the insurgent group, and tilt the balance in favor of the insurgents .
+ pro-Russian separatists were able to take control of Crimea with minimal force in less than a month . The annexation of Crimea by Russia on March 18, 2014.
+Russian intervention in Transnistria in the 1990s and Abkhazia and South Ossetia in 2008 . The annexation of Crimea and the ongoing skirmishes in eastern Ukraine reflect how quickly the control authority can change with external support funding an internal uprising .
+ Cultural and societal norms shape how the populace behaves and sees the world .
+ advancement in information and communication technologies has threatened to upset the existing balance . However, the advancement in technology has threatened the current balance of the world .
+ Societal stability within a country relies on the government’s capacity to assert and maintain its legitimacy over its designated political sphere .
+ Even despotic regimes with absolute control over the country could be susceptible to possible exploitation of new media by activist groups .
+ Perceived aggression by the state authority against one or more activist “out-groups’ may elevate its importance and salience . Other like-minded distant activist groups that identify themselves as part of the larger “collective in-group identity’s”
+ The Arab Spring in 2011 led to violent confrontations within authoritarian states . The Arab world witnessed a massive surge of civil protests that led to violence .
+ Social media platforms served an essential function during the turmoil, connecting foreign patrons intimately with indigenous plight through real-time digital uploads .
+ Pierskalla and Hollenbach found a statistically substantiated relationship between the availability of mobile communication and level of organized violence .
+Mobile communication into Africa alleviated organizational complications faced by activist groups, they say . They contend that the introduction of mobile communication into the country eased organizational complications .
+ The utility of new media, through the spread and connectivity of modern mobile technology, eases the process of inciting communal conflict and exacerbating organized violence . This led them to conclude that the utility of the new media is to promulgate information, they say .
+Mobile communications can embolden activists to engage in more hostilities, or reinforce the government’s control over the population . In addition, depending on how either side exploits the utility of mobile communications, it can potentially embolden Activists to engage.
+ Pierskalla and Hollenbach argue that the increasing availability of affordable and widespread communication in an underdeveloped Africa enable people to spontaneously promulgate their sentiments, even within repressive regimes . They say that the increase in access to affordable communication in the country enables people to
+ The Power of the People is Greater than the People in Power: A Memoir, 63.
+ developing countries necessitate their political authorities to be more cognizant of social media penetration . It increases the populace's susceptibility to engage in violent activism when they are incapable of providing a uniform distribution of government services and influence throughout the entire region .
+ New media incites divisions between groups of people with differing beliefs, says John Sutter . Sutter: Whether new media incite divisions is inconsequential to the larger political agenda is debatable .
+ The Blogs and Bullets report investigates the contrasting opinions on the significance of new media in recent conflicts . The report also looks at the impact of recent conflicts in the media .
+ One faction credits new media for advocating democracy and capitalism . Another condemns new media in Kenya, Uganda, and 31 Warren, "Explosive Connections"
+ The immense accumulation of internet data and increasing capability of big data analytics present an unprecedented opportunity to analyze the available data and reveal obscured networks and unexpected relationships .
+ Warren asserts that before the fruition of organized violence can occur, the antagonistic political narratives have to first be promulgated effectively in order to garner popular support from the masses . Warren says that before organized violence occurs, the narratives must be put in place .
+ This alludes to the prospect of potential outbreaks of political violence by detecting rising trends of vindictive propaganda through social communication platforms . This allude to the possibility of potential political violence through social media .
+ The U.S. Political Science Association held its annual meeting in New York City, New York, on Monday .
+ Bourret, Wines, and Mendes geo-referenced massive amounts of Twitter data to obtain approximate locations of relevant feeds in Yemen . They compiled an archive of lexicons to measure intensity of sentiments represented by each related post .
+Bourret, Wines, Mendes and Mendes developed algorithms to quantify the level of support for the government versus that for the violent activists . The algorithms were used to develop data sets that quantify support for government .
+ New media studies focus on developing a predictive algorithm to detect prevalent dissent, in the absence of credible physical intelligence . Data analytics will provide early warning for political authority .
+Frost, Evans, and Hodges Jr. utilized native Arabic lexicons extracted from local social media platforms to anticipate violence within Iraq so as to enhance the government's situational awareness .
+ The set of identified lexicons were then systematically assigned values across a scale to quantify the strength of the sentiment it exudes .
+ The dataset was overlaid onto a geospatial archive of violent activities across a parallel time frame . It was used to ascertain its relationship with negative sentiments broadcasted on social media .
+ Previous studies have gathered great insights by analyzing a wide array of social, political, and technological variables . The study is an attempt to reveal the enigmatic influence new media has on modern society .
+ A new approach to analyze a different set of variables and determine its correlation with the manifestation of collective violence in an alternative region .
+ Ukraine and Russia share an enduring, but contentious history, resulting in a constant and fierce struggle for political power in their border territories .
+ The resentment between local ethnic groups culminated in the outbreak of the Euromaidan Revolution in 2013 and 2014 .
+In order to quantify the significance of social media in this predicament, we systematically examined the exonyms . The exonyms are conceived by an individual ethnic group in their local dialect to reference other groups explicitly .
+ We then sorted the list of search terms under either pro or anti-Euromaidan movement categories .
+ Only terms that qualify exclusively as exonyms during the duration of the Euromaidan movement were filtered out .
+ The Twitter archive was used to analyze the significance of negative tweets in rousing violence across different periods of administration in Ukraine .
+We revised the selection of control variables to incorporate the traditional components of “hard power’s” such as GDP . We also incorporated the degree of ethnic polarization to generate a more robust and significant statistical model for our thesis .
+ The Arab Spring seemed to take the world by storm in 2011 . The influence of new media in galvanizing disparate groups to revolt against state authorities .
+ General Gerasimov opines that these events represent how mainstream warfare would be contested going forward . The military has to consider the use of non-military means, including foreign intervention, to advance national interests and attain strategic goals .
+ President Putin suggested the establishment of information and cultural centers as a means to protect the interests and rights of ethnic Russians residing in the Commonwealth of Independent States and Baltic countries .
+ Russia invests all instruments of power to enhance its security and interests . Russia believes that it is constantly under siege from non-aligned opponents .
+ The Russian identity narrative and its accompanying hopes of securing Ukraine’s participation in the Eurasian Customs Union were under threat . Ukraine's involvement in the Union was under threat.
+ These two main ethnic groups often delineate themselves by differing political ideologies, leading to much contention within the country .
+ It was not surprising to observe a spike in violent events within regions with high ethnic polarity during the Euromaidan Revolution .
+ The government of Ukraine and ethnic Ukrainians living in Ukraine remain divided over this issue . The government and the ethnic Ukrainians in Ukraine are still divided over the issue .
+ The Soviet military is alleged to have researched the practice of reflexive control, a form of psychological "programming" The practice has been practiced since the 1960s .
+ Russia and pro-Russian separatists’ usage of lexicons on social media platforms as part of its information campaign to orchestrate civil unrest in Ukraine during the Euromaidan movement in 2013-2014 .
+ The development of a predictive methodology and its accompanying coded algorithms could detect and measure prevalent networks circulating dissent against state authority through data analytics of new media . In turn, it could facilitate the adoption of effective early actions by the state authority .
+ New media, such as social platforms like Twitter, present a potential communication channel that could be exploited by activist groups for both internal and external communication .
+ Twitter is not the most pervasive social media platform globally . We hypothesized that the distinctive attributes that Twitter offers enhances its propensity to solicit instantaneous, concise and true sentiments from its users .
+ The intended meaning of trending messages could be erroneously interpreted through the use of lexicons . The meaning could be distorted as it disseminates from one user to another .
+Social media platforms can be used by activists to coordinate and incite violence . This underlines the importance for the state authority to invest resources in gaining a foothold in communication channels .
+ Once the baseline predictive methodology and algorithm are developed, it could be scaled and adapted to any communication channel to measure sentiments for and against the state authority . It could also be adapted to the state and non-state actors .
+Analysis of social media data exchanges relating to Euromaidan movement in Ukraine from 2013 to 2014 . This thesis aims to reveal potential plots against the state authority .
+ New media's ability to provoke and manipulate social behavior entails a quantitative approach that sifts through vast amounts of open source data available online .
+ Such studies have been applied almost exclusively to less developed countries in Africa and the Middle East . Such studies are still in a nascent stage, but are still being applied to countries in the region .
+An extension and adaptation of earlier methodologies to measure sentiments incited from both exogenous and endogenous sources in Ukraine could reveal further evidence of the utility of social media in generating collective violence .
+ Analysis of social media data exchanges from 2013 to 2014 could reveal potential plots against Ukrainian state authority .
+ predictive algorithms are coded to detect and measure dissent against the Ukrainian government in native lexicons extracted from Twitter data and overlaid with a geospatial archive of violent events in Ukraine across a parallel time frame in to ascertain its relationship with negative sentiments broadcasted on Twitter .
+ Euromaidan movement in Ukraine from 2013 to 2014 saw the change of state administration from pro-Russian to pro-West . President Poroshenko effective May 25, 2014 till the time of this writing .
+Anti-Euromaidan sentiments incite violence under the interim government which is pro-West, while only anti- Eurom Maidan sentiments will continue to trigger conflict under President Poroshenko's administration .
+Both factions had a vested interest in jostling for political power during the interim administrative period as 21 the exodus of President Yanukovych inadvertently created a power vacuum in Ukraine .
+ The pro-Russian faction would raise the ante in an attempt to regain their influence . After President Poroshenko took office and enacted pro-West policies, it is comprehensible .
+ We intentionally omitted data analysis during President Yanukovych's regime . There were insufficient violent events during this period to generate adequate tests of our hypotheses .
+ The research was a complicated process due to various obstacles . Collecting the relevant data for our research was complicated.
+ Not only were there there regulated access to digital information on social media platforms, it was also challenging to ascertain the veracity of digital information .
+ The lack of local context may potentially distort our understanding of the lexicons used . More importantly, our limited linguistic proficiency, as well as our limited language proficiency, may also affect our understanding .
+ We made our best effort to consolidate the relevant data sets and designed appropriate analytical methods for our research .
+ In order to distill the extensive data and confine it to Ukraine and Russia, we used the geographical coordinates of each user’s self-proclaimed hometown in their public user profile .
+ Twitter users have given permission for Twitter to track and record their physical location . A more accurate calibration, employing the GPS coordinates tagged to each Tweet, was not implemented for our quantitative analysis .
+ Twitter data has increased in volume by more than a quarter of a million users .
+ Facebook has the largest user population globally and hosts innumerably higher data traffic . We chose Twitter for its more pertinent attributes, such as its data traffic.
+ Twitter’s facile and unrestricted user interface allows users to promulgate their genuine sentiments instantaneously in response to a specific stimulus . Twitter allows unacquainted users to affiliate with others who share similar opinions.
+ Twitter users' geographic metadata allows us to geospatially determine the location of the tweets and correlate them with violent events . Twitter is a unique attribute that distinguishes Twitter from other social media platforms .
+ Dissent Lexicon People often disregard formal writing conventions, favoring their own native jargons, dialect or even emoticons .
+ The crux of our research hinges on the ability to decipher these foreign linguistic variants in order to establish their true intent . It is difficult to decipher some of these variants of language .
+ These Russian lexicon terms are derived from the SME’s knowledge of the Russian language, her familiarity on the issues of social-cultural and lingual identities and language policies during Euromaidan .
+ Tanya Clark, also a SME faculty member from the DLI, provided the requisite Ukrainian lexicon terms . Clark is also a professor at the SME .
+ An unintended constraint of our analysis is that it only captures a particular social stratum within the entire population . But, an unintended constraint, is that the analysis only captures the social strum within the population .
+ The demographics of social media users consist primarily of affluent and younger city dwellers . The demographics are mostly of young and affluent people .
+ We aspire to derive a comprehensive algorithm that is capable of measuring dissent that extends indiscriminately across all ages and regions . Nevertheless, we aspire to be able to measure dissent across all age and region .
+We use a rudimentary data scraping technique to detect specific lexicons within a predefined dictionary . We have limited capacity to distinguish the varying semantics in which they are delivered . Another concern was the potential of incorporating false positives into our regression results .
+ The lexicons identified were contextually consistent across all forms of digital media propagation . The occurrence of such cases would be too rare to appreciably impact the veracity of our results .
+ In order to develop the thesis, it was imperative to trawl through relevant databases and tabulate an accurate count of violent events and Euromaidan-related tweets .
+Geospatial analysis on both variables to determine the correlation between them .
+The detailed methodology of our regression analysis is illustrated below . The detailed methodology is illustrated by the detailed methodology .
+ Regression Model A Poisson regression model was designated for the statistical analysis so as to compute the most precise assessment between August 2013 to July 2014 . The model is based on the data from August 2013.
+ The unit of analysis for the regression model was set at the Grid-Cell level, with a grid-cell width of approximately 20 kilometers, cumulating to 2041 cells .
+ Each side aligns to 0.2° of the earth's longitude and latitude, equating to an approximately 14 x 14 miles for each cell . This method of analysis divides Ukraine's entire territory into regular grid squares .
+ This level of resolution offers a balance between providing adequate fidelity in 24 delineating Ukraine’s border, while being comprehensive enough to capture sufficient observations for our regression model analysis .
+An overwhelming presence of a particular ethnic group within a region may plausibly affect how they interact with provocative propaganda on social media, thus skewing the prospect of violence .
+ A set of predictive algorithms were coded to detect and measure prevalent dissent against the Ukrainian government in native Russian lexicons extracted from Twitter data and overlaid with a geospatial archive of violent events in Ukraine across a parallel time frame .
+ The Euromaidan movement in Ukraine from 2013 to 2014 saw the change of state administration from pro-Russian to pro-West . President Poroshenko effective May 25, 2014 till the point of writing .
+ We built our regression models to examine the 2 time frames in order to evaluate social media's correlation with violent events in each different political climate .
+ The UCDP GED dataset tracks 143,617 violent events where either government forces or another organized entity, strike against another organized actor or civilians . At least one fatality at a specific time and place, and between January 1, 1989 and December 31, 2017 .
+ This enables us to identify regions of interest for our research that may impact our hypothesis testing . This allows us to find out what areas of interest may impact the hypothesis testing. This will help us identify regions that may affect our hypothesis test .
+ We observed no significant organized violence recorded in Crimea despite its annexation by Russia .
+ The majority of the deadly events occurred within the Donbass region . The rest of Ukraine largely remained peaceful during the Euromaidan Revolution .
+ The models generated do not incorporate an analysis on the escalation of violence preceding the deadly event . The datasets do not include instances of protests or confrontations without an associated report on fatal casualties .
+ Twitter feeds in both the Russian and Ukrainian languages stored within the NPS Twitter Archive . The time period of August 1, 2013 to July 31, 2014 is the independent variable for our thesis .
+ The archive holds a massive 40 terabyte collation of a 10% random sample of all tweets posted during this time frame . The archive also holds a huge 40 terabytes of a large number of tweets .
+Russian and Ukrainian lexicons were catalogued under either pro or anti-Euromaidan classifications . We trawled through the Twitter archive in the attempt to measure the level of public dissent.
+ This corroborates the analysis between the populace’s sentiments in relation to the occurrence of violent events . This corroborated the analysis of the populace.
+ Through the illustrations generated, we were able to establish that the highest concentration of tweets transmitted in Ukraine centered around Kyiv .
+This is possibly due to the large aggregation of politically savvy population situated in the capital of the country . This is possibly because of the large number of political savvy population .
+ The Donbass region is most intense near the border between Ukraine and Russia . The other focal point which accounts for a high density of Twitter feeds is the Don Bass region .
+ The lack of organized violence has led to a sporadic distribution of Twitter volume across municipalities around the country .
+ This may imply that the influence of social media is not limited by geographical proximity . It can impact the propensity for violence in a distant region by propagating grievances through tweets .
+ GDP Per Capita across all regions in Ukraine to have a better understanding of the relationship between the distribution of wealth and the people’s susceptibility to violence .
+ The assumption is that regions with high GDP Per Capita are more peaceful as people are leading better quality lives, and thus have less motivation to manifest their grievances . Areas of low GDP per Capita have insufficient resources to placate the needs of the people, thus leading to an increased desire
+ We chose GDP Per Capita as one of our experiment’s control variable in order to counteract any impact of ‘hard power’ on the people . The experiment was designed to counteract the impact of hard power on people .
+ From the diagrams generated, we can observe that the northern regions of Ukraine are more affluent than the rest of Ukraine .
+ Despite the southern and western districts being more impoverished, there is an absence of deadly events in those corresponding areas .
+ The moderately prosperous Donbass region witnessed the highest density of fatal events . On the contrary, the moderately prosperous region witnessed high density of deaths .
+ The phenomenon was not replicated in the other affluent regions . However, this phenomenon was also not replicated.
+ The inverse relationship between economic conditions and propensity for violence is seemingly ambiguous in Ukraine .
+ It accounts for 48. million people situated over 24 administrative regions and 2 special status cities . It is located in 24 regions and has 2 special cities .
+ Ukrainian, Russian, or other mother tongues. We focused on the documentation of the various nationalities and ethnic groups residing within Ukraine .
+Ukrainian census data shows population distribution of ethnic Russians and Ukrainians . Census data compiled by the Ukrainian government in 2001 .
+ The equation derived by Reynal-Querol to quantify the extent of a country's ethnic polarization . We probed further to appreciate the interaction between both ethnic groups within Ukraine .
+ A country experiences ethnic polarization when its population fragments into smaller bands that differentiate themselves based on distinct traits from other groups .
+ We applied Reynal-Querol's formula to measure the ethnic divide between the native Ukrainians, ethnic Russians and all others within each city .
+ Ethnic polarization may have a significant correlation with deadly events occurring in the Donbass region . The annexation of Crimea by Russia in 2014 seems to indicate that ethnic polarization may be a factor .
+ We chose ethnic polarization level as another control variable to offset its effect and better focus our experiment to reveal the true effect of social media .
+ Pro-Euromaidan sentiments will reduce violence under the interim government between February 21, 2014 and May 25, 2014 . Pro-West sentiments will continue to trigger conflict under the pro-West administration under President Poroshenko effective May 25.
+ Six control variables are applied for all models . Total volume of tweets, GDP, population density, percentage of ethnic Ukrainians, and degree of ethnic polarization are included .
+ The results of the models produced three noteworthy findings . Comparison of AIC Scores 39 produced three notable findings .
+First, models with Twitter-derived sentiment metrics improved the prediction of violent events across Ukraine . The lower Akaike Information Criterion scores also improved the predictions of violence .
+ The selection of exonyms in native languages as search terms on Twitter contributed significantly to the derivation of a metric reflective of the dissents against the Ukrainian government . This reinforces our belief that the selection of Exonyms innative languages in search terms contributed significantly.
+ statistical evidence suggests a significant correlation between violent events and Twitter-derived sentiment metrics against the Ukrainian government across different periods of administration . Second, there is statistical evidence to suggest that violent events are linked to Twitter- derived sentiment metrics .
+ Pro-Euromaidan tweets could reduce violence under the Westleaning interim authorities . This is consistent with our claims that anti-eurom Maidan tweets should incite violence under both the interim and pro-West authorities .
+ statistical evidence to suggest a significant correlation between violent events and degree of ethnic polarization .
+ Twitter-derived sentiment metrics improve the prediction of violent events in Ukraine from August 1, 2013 to July 31, 2014 .
+ The regression continues to return a significant correlation between violent events in Ukraine and all variables, including total number of tweets at a lower AIC score .
+With the incorporation of Twitterderived sentiments metrics, the regression model returns an even lower AIC score . The regression model uses Twitter to measure sentiment and sentiment .
+ Certain lexicons may have been misinterpreted or omitted due to our lack of local context . Some lexicons might have been missed due to lack ofLocal context .
+ negative sentiments toward the Ukrainian government may not always lead to violent events . Alternatively, negative sentiments towards the government may also lead to violence .
+ Peaceful demonstrations or protest could have been incited by negative sentiments circulated on Twitter, or crashes between groups and the state authorities may not have resulted in death .
+ Twitter-derived sentiment metrics improve the prediction of violent events in Ukraine across different periods of administration in Ukraine .
+Anti-Euromaidan tweets should incite violence under the interim and pro-West authorities, according to our hypothesis . Pro-EURomaidans tweets could reduce violence under West-leaning interim authorities, we say .
+ The choice of search terms impacts the authenticity and usefulness of the Twitter-derived sentiment metrics . Twitter's search terms are based on the content of a user's tweets .
+ We systematically examined terms used exclusively by the in-group against the out-group . We cross-examined them with publications on new media channels and historical symbols .
+ We limited the terms to be exclusively in the Russian and Ukrainian language to match the unique demographics in Ukraine . The terms were limited to be only Russian and Ukraine .
+ Twitter-derived sentiment metrics helped predict violent events in Ukraine across different periods of administration in Ukraine . We believe this contributed significantly to the usefulness of the accompanying Twitter- derived sentiment metrics .
+ The visualizations of the regression plots reflect the statistical significance of each independent variable on the dependent variable. Regression Plots 42 .
+ Through the visualization, we are able to isolate the independent variables and understand its predicted effect on the rise of violent events in Ukraine . The visualization shows the rise in violence in Ukraine.
+ The y-axis on each graph is the predicted outcome in terms of number of violent events in a grid cell . The x-axis shows the shift in each independent variable from its minimum to maximum value .
+ The respective prediction lines are black for total volume of tweets, blue for volume of pro-Euromaidan tweets, and red for anti-eurom Maidan tweets . The slope of the line demonstrates either a positive or a negative relationship of the independent variables in relation to
+ The shaded portions around the prediction lines represent the 95% confidence interval of the prediction . The prediction lines are based on the prediction.
+ There is a strong positive correlation between number of violent events in Ukraine and Twitter-derived sentiments metrics, authors say . They say the statistical significance is significant .
+Both violent events and the presence of both high percentages of ethnic Ukrainians and ethnic Russians. However, we observe that both a positive correlation between violent and high percentages.
+ The correlation between violent events in Ukraine from August 1, 2013 to July 31, 2014 remains statistically significant . The incorporation of the Reynal-Querol equation as a control reveals that the correlation is also statistically significant, with a better AIC score .
+ To substantiate our claims, we generated a regression plot to visualize the correlation between violent events in Ukraine and the degree of ethnic polarization . The plot was created to substantiate their claims .
+ The slope of line demonstrates a positive relationship of Ethnic Polarization Score in relation to Violent Events . The slope demonstrates a positive relationship of Ethnic Polarisation Score .
+ The shaded portions around the prediction line represents the 95% confidence interval of the prediction . The shading portions around a prediction line represent the 95 per cent confidence interval .
+ There is a strong positive correlation between violent events in Ukraine and ethnic polarization, says the authors .
+ Our thesis began with our curiosity about social media’s influence over social behavior . We look at regions burdened by perennial contentions within the population .
+ The study will focus on selected countries of critical political interest . The research is still in a nascent stage, and focused predominantly on selected nations .
+ We attempted to venture beyond the boundaries of earlier studies by approaching our thesis from a different perspective . We stress on the degree of ethnic polarization, as well as the interaction between groups through social media .
+ Social media data analysis could help predict the onset of civil violence, according to the study .
+ Divisive propaganda disseminated on social media platforms have increasingly become more effective in establishing new social norms and inducing organized collective action .
+ The unique challenge of our analysis was to determine a fitting method to precisely locate and measure true sentiments found on social media in both foreign Russian and Ukrainian languages .
+ The G-Econ Project used data from the All-Ukrainian Population Census to study Ukraine's GDP Per Capita level and ethnic polarization index .
+ statistical evidence suggests that Twitter-derived metrics improve the prediction of violent events against the Ukrainian government across different periods of administration .
+ statistical evidence to suggest a significant correlation between violent events and Twitter-derived sentiment metrics against the Ukrainian government across different periods of administration .
+ statistical evidence to suggest a significant correlation between violent events and degree of ethnic polarization . There is also evidence that there is negative dissent against the Ukrainian government .
+ The selection of exonyms in native languages as search terms on Twitter contributed significantly to the derivation of a metric reflective of the dissents against the Ukrainian government . The findings support our initial hypothesis, says the author .
+ The intent for our thesis is not only to illustrate social media's capacity to be exploited for inciting collective violence, but more importantly, to provide a framework that accentuates the utility of “soft power” in sound governance .
+ Ethnic polarization is a significant variable that enhances the correlation between negative social media sentiments and violence . The results of our models show that ethnic polarization can be a significant factor .
+ It may be beneficial for state authorities to track settlement patterns of major ethnic groups within the country . It may also incentivize greater assimilation and movement within the population .
+State administrations can harness the power of social media data analysis to obtain early warning, and potentially adopt preemptive actions to mitigate the consequences . State administrations that are confronted with budding social unrest in their country can harness power of data analysis .
+ governments should invest in a national cyber information and strategic communication task force that has the capacity to undertake three critical missions . Social media plays an increasing role in modern political activism, says the author .
+First, they must be able to closely monitor the pulse of the populace’s sentiments through various forms of social media channels . First, they need to be aware of the public's sentiments on social media .
+ A cyber-trawling tool to make sense of the data collated to detect early indicators of potential violent outbreaks in specific locations. Next, they must be able to design a cyber- trawling tool .
+ Future studies could delve into areas of interest that future studies could explore .
+ The UCDP database only tracks conflicts that result in one or more death between government forces and organized entities . The thesis only took into account violent events consolidated by the database .
+This data set does not include all other cases of conflict such as peaceful demonstrations or violent protests that do not result in any fatalities . This data set doesn't include all others of conflict that don't involve violence .
+ The number of observations significantly increases over the designated time frame . By incorporating these events, the number of observed events significantly increases . The data analysis has a stronger correlation between the independent and dependent variables .
+ The study found inadequate access to the wide spectrum of social media databases due to proprietary issues . Another limitation that the study faced was the lack of access to social media.
+ We relied primarily on the Twitter archive licensed by NPS to collate our independent variable . We rely primarily on Twitter archives licensed by the NPS .
+ Other open source social media platforms should conduct similar analysis when conducting similar analysis . Other theses should explore the prospect of trawling data from other open source platforms .
+ The library of lexicons was created by SME faculty members at the DLI . The library was created due to a linguistic deficiency in both Russian and Ukrainian language .
+ Some lexicons may be misinterpreted or omitted due to the lack of local context .
+ A more comprehensive and accurate library of lexicons could be built with the consultation of local activists and government officials . The library would be more accurate and more comprehensive .
+Future studies can also attempt to dissect the independent variable further by applying the library of both Russian and Ukrainian lexicons under the various sub-categories .
+ By doing so, they can better pinpoint the determinant category of lexicons that incite violence within larger classifications .
+ Social 49 demographic data can be included as control variables in order to create a more robust statistical model . Other forms of demographic data, such as education level and age group, can be used to create more robust statistics .
+With recent cyber advancement, it is increasingly challenging to discern between tweets originating from humans and bots .
+ Some political entities have invested heavily in cyber technology that can masquerade as passionate human activists fighting for, or against, social issues of the agent's predisposition . It is evident that some political entities are investing heavily.
+ We faced the challenge of discerning between true human tweets and those promulgated by computer bots . The challenge is to find out what is true and who is true .
+ Future research could design a more astute code to flag out false tweets from the data set and incorporate a social network analysis to ascertain the central actors that the tweets originate from .
+Last but not least, it is essential to see whether the results of our thesis can be replicated in other countries .
+ Future research should shift their attention onto other regions around the world that are undergoing parallel social conflicts .
+ A similar data analysis would be able to compare and contrast the results, thus revealing if our model only works on a specific region and event, or that it has a more versatile utility .
+ This term may be used by 17 Urkaina    Maidan/anti-Ukrainian movement at the present time .
+ 37 Berkutnya is the name of a term used to refer to Berkut or a place where they congregate . The term is also used to describe a poultry factory .
+ At least 66 Putya is a common nickname of Putin so it appears beneficial to include some of its forms that do not overlap with other ones . Genitive and Instrumental case forms could not be included for the same reason .
+ Poklonskaya is considered a traitor of the Ukraine . She started serving Russian authorities after she started serving them .
+ Verb formed using ""maidan"" as its root, typically meaning to protest, rebel, be unruly, etc. Verb formed by using "maidan" as a root .
+14 Izmajdanit    is best 14 Izmjdanit is understood in the specific context in which they appear 2.2 .
+ 31 Majdabajda is the name of the incident in which Maidan journalists were ""deservedly" beaten by 32 Majdafottrabakh . Maidan slogan Blending of Maidan and revolution also sounds like an 34 Majdan_revolution .
+Ukro_pitek is a derogatory word invoking cattle 46 Natio_cattle . The word "Ukrop" is also a derogatory term invoking cattle .
+ "mazepinka" is possible with this stem . Other words are possible with that stem . Mazepa is controversial Cossack leader of 17/18th century .
+Bandera is a pejorative reference to a supporter of Bandera . Other words possible: 86 Petlyura_fan,  petlyurovskij, and Judo_Bander.
+ 98 varvarska    Кат Executioner, hangman 4.4. The word "Barbaric" is used to refer to the term "Baricic"
+1 pribatsanyy. 2 povstansti. 3 ukhilniki . 4 ukhilyanti .  ухилянянти Draft dodgers . 1 pribatanyy .
+ Russia sees Ukraine as "Little Russia" A khokhol is the 16 khokhli хохі Cossack hairstyle 17 hadiv гадів Snakes 3.
+18 plebistsit    Banderivtsi, from Latin, and  Putin & Yanukovych’s deliberate misspelling, on a ""bender"" 20 Banderlohi . Reference to those who follow Stepan Bandera, nationalist figure 21
+ 23 khunta хунта Junta, interim power in Kyiv leadership, is interim power .
+ 29 Maidowni fighters, 30 Maidan supporters, 31 separatizm   separatism, and 31 separatists . "Mobilization kills,"" RU propaganda not to join the Ukrainian forces 7.7.
+ Anyone paid to protest for current govt. 8.7% of prostitushki was paid for .
+Ex-PM Azarov mispronounced krovosos 38 bimba, now part of lexicon as ""bimb"" 9. The former PM's erroneous use of ‘I’ when calling police to report a 36bimba on Kyiv.
+ Key Terms Explanation: 42 berkutushki and Berkut actor Titushka . This page includes a list of the best terms of the day .
+ Aday, Sean, Henry Farrell, Marc Lynch, John Sides, John Kelly and Ethan Zuckerman. Aday is a day for Sean and Henry Farrell . A day is Sean's birthday .
+ Mislove, Alan, Sune Lehmann, Yong-Yeol Ahn, Jukka-Pekka Onnela and J Neils Rosenquist are among the seven members of the team .
+ In Proceedings of the Fifth International AAAI Conference on Weblogs and Social Media 11, no. 11 . The conference is held in New York City, New York .
+ Molchanov, Mikhail A Political Culture and National Identity in Russian-Ukrainian Relations . Molchanova, Mikhail a Political Culture, and Mikhail A political Culture, were all named .
+ State Statistics Committee of Ukraine, All Ukraine Census 2001 Database . The Ukrainian Census Committee is based in Ukraine .
+ In Annual Meeting of the American Political Science Association, 2016, 1-41. The meeting is held in New York City .

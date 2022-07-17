@@ -1,0 +1,402 @@
+Limited Print and Electronic Distribution Rights This document and trademark contained herein are protected by law.
+This representation of RAND intellectual property is provided for noncommercial use only.
+Permission is given to duplicate this document for personal use only, as long as it is unaltered and complete.
+Permission is required from RAND to reproduce, or reuse in another form, any of its research documents for commercial use.
+For information on reprint and linking permissions, please visit www.rand.org/pubs/permissions.
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+RAND’s publications do not necessarily reflect the opinions of its research clients and sponsors.
+Support RAND Make a tax-deductible charitable contribution at www.rand.org/giving/contribute www.rand.org Preface This report documents research performed by RAND Project AIR FORCE in the spring and summer of 2015.
+The report examines the specific challenges associated with Russian hybrid warfare in the Baltics—defining the issue, understanding the threat, and conceptualizing how to respond.
+It finds that Russia will have difficulty using nonviolent or covert action to subvert the Baltics absent the use of conventional force, and hence that the main vulnerability stems from Russia’s local superiority in conventional forces.
+Addressing the Russian irregular threat remains important nevertheless, since effective defense and deterrence in the Baltics depend on adopting policies to reduce the likelihood of Russian aggression across the conflict spectrum.
+The project was sponsored by the Director, Plans, Programs, and Analyses, Headquarters United States Air Forces, Europe.
+Its goal was to help inform choices by United States Air Force leaders regarding ways—activities, posture, and capability development—in which the United States Air Force, United States Department of Defense, and the NATO alliance more broadly might respond to and anticipate challenges posed by a more assertive and bellicose Russian Federation.
+RAND Project AIRFORCE RAND Project AIR FORCE , a division of the RAND Corporation, is the United States Air Force’s federally funded research and development center for studies and analyses.
+PAF provides the Air Force with independent analyses of policy alternatives affecting the development, employment, combat readiness, and support of current and future air, space, and cyber forces.
+Force Modernization and Employment; Manpower, Personnel, and Training; Resource Management; and Strategy and Doctrine.
+The research reported here was prepared under contract number FA7014-06-C-0001.
+The draft report, issued on October 19, 2015, was reviewed by formal peer reviewers and United States Air Force subject-matter experts.
+Avoiding the Risk of Conventional Deterrence Initiatives Fomenting Irregular Provocation.
+These tactics are of particular concern in the Baltic countries of Estonia and Latvia, which have significant Russian-speaking minorities.
+Given the gains in standard of living and increasing integration of many Russian speakers in the Baltics, Russia will likely have difficulty using nonviolent tactics to destabilize these countries.
+Russian covert violent action is also unlikely to succeed on its own, given preparations by the security forces of Estonia and Latvia to “shoot” Russian “little green men”— meaning Russian forces that are covertly or unofficially deployed.
+The preparedness and relative competence of these security forces would likely compel Russia to choose between losing the conflict or escalating to conventional war with NATO members.
+The main vulnerability of the Baltics therefore lies in Russia’s local conventional superiority.
+A large-scale conventional Russian incursion into the Baltics, legitimized and supported by political subversion, would rapidly overwhelm NATO forces currently postured in the region.
+If NATO leaders are to have confidence in their ability to deter such an attack, they will likely need to deploy additional forces to the region and to improve certain capabilities within their forces.
+The United States and its NATO allies nevertheless should address the potential for all forms of Russian aggression across the conflict spectrum, in order to reduce the likelihood of miscalculation and to strengthen deterrence and defense in the region.
+To this end, the United States and NATO should avoid basing forces in Russian-dominated areas, should consider measures to increase transparency or avoid the perception that deployed forces may be used to pursue regime change, and should develop a sound public relations campaign to convince local Russian speakers that NATO is not deploying forces against them. vii Acknowledgments I would like to thank the sponsors for initiating and supporting this project.
+I would also like to thank David Ochmanek, the project leader, for his consistent and invaluable insight, advice, and encouragement.
+Further, my thanks go to Bryan Frederick for his comments, to Thomas Szayna for helping develop many of ideas contained here during our visit to the Baltics, and to James Torr and Natalie Ziegler for editing support.
+I also very much appreciate two detailed and very helpful reviews from Christopher Chivvis and Paul Stronski.
+Estonia and Latvia are NATO members, bordering Russia, with sizable Russian minorities.
+At the heart of many analysts’ and policymakers’ concern is a fear that Russian actions will appear ambiguous, which may impede a response from the EU and NATO, given the need for consensus for a decision by these organizations.
+Russia could hypothetically gain influence in the government in the Baltic countries, support a separatist region, or capture territory, thereby demonstrating the failure of the alliance’s commitment to its eastern-most allies, undermining the larger agenda of Euro-Atlantic enlargement, and damaging United States credibility more widely.
+At the same time, there are significant questions regarding how serious the threat of hybrid warfare in and of itself may be, especially compared with the threats posed by Russian conventional forces.
+Estonian and Latvian defense leaders claim that they are not especially worried about the hybrid threat and are more concerned about the prospect of a large-scale conventional attack.
+Others argue that the tenn hybrid warfare is vague and unhelpful, and in any case the concepts that the term seeks to address are not especially novel.
+These critiques raise questions such as what exactly the “hybrid” threat is, how the United States and NATO should respond, and how responding to the hybrid threat may relate to efforts to deter attacks or coercion by conventional forces.
+This report addresses these questions in the case of the Baltics, drawing on the record of Russian aggression in Ukraine, the discussion of hybrid warfare and related terms in the literature, the demographic and political context of the Baltics, and interviews with Baltic and NATO policymakers.
+Quoted in Mike Collier with Mary Sibierski, “NATO Allies Come to Grips with Russia’s ‘Hybrid Warfare’” AFP, March 18, 2015.
+I find that the Baltic countries are not especially vulnerable to nonviolent or covert violent actions by Russia.
+Given the loyalty of many Russian speakers in the Baltics to their home countries, and their greater economic well-being within the EU, Russia will have difficulty provoking large-scale protests or separatist movements.
+Covert violent Russian actions are also unlikely to succeed, given preparations in these countries to deploy security forces sufficient to either defeat Russian covert forces or compel Russia to escalate to conventional war.
+A large-scale conventional Russian incursion into the Baltics would almost inevitably be hybrid in the sense that it would include some effort at political subversion.
+Nevertheless, the danger of such an attack lies in NATO’s local conventional inferiority, not in Russian propaganda or proxy warfare, and as such NATO needs to establish a more credible conventional deterrent.
+The limited vulnerability to irregular warfare does not mean that a United States or NATO policy can focus exclusively on conventional warfare in deterring or defeating Russian aggression.
+Effective defense of the Baltics depends on reducing vulnerabilities to all forms of Russian aggression.
+The greater the perceived vulnerabilities of the Baltic countries to a particular form of aggression, the more likely that Russia is to undertake it.
+Even if the objective risk of success is limited, Russia could miscalculate or detennine that the possible benefit is great enough that risk is justified.
+Russia and NATO forces could unintentionally come into conflict, as they did when Turkish forces shot down a Russian plane in November 2015.
+Or, Russia could become involved if groups allied with the Russian state, but not controlled by them, engage in aggressive action/ The failure of Russian-backed anned groups could lead Russia to escalate to avoid defeat, a cycle which could lead to largescale conflict and even nuclear use.
+Hence, even if Russia prefers to avoid conflict, a crisis could nevertheless emerge.
+Strengthening the overall resilience of the Baltic States can reduce the risk of low-level aggression and unintentional escalation.
+I conclude this report by suggesting several implications for United States and NATO policies to limit the potential for Russian hybrid aggression.
+First, with regard to nonviolent subversion, pressure from Western allies to improve language and citizenship rights for Russians in the Baltics is probably impractical.
+Instead, the United States and NATO should pursue the development of a more sophisticated and subtle strategic communication campaign, starting with supporting local Russian-language broadcasters within the Baltic countries.
+Second, with regard to covert violent action, continued support for the Baltic countries’ security forces is clearly beneficial.
+The United States Air Force can help improve the intelligence, surveillance, and reconnaissance capabilities of the Baltic states by strengthening their technical 5 I am grateful to Paul Stronski for this point. 2 capabilities for border control and air and maritime domain awareness.
+NATO and its member states can also do more to share intelligence of Russian policies and actions and help conduct whole-of-government exercises to better prepare for covert or denied Russian aggression.
+Additional research would also be beneficial to develop and evaluate responses to a wide range of Russian covert tactics.
+Third, in developing a credible conventional deterrent in the Baltics, the United States and NATO should attempt to reduce the risk of low-intensity conflict.
+While there is no way to definitively prevent Russia or Russian speakers in the region from misperceiving NATO’s intent, the United States and NATO may be able to deploy forces in a way that would reduce the risk of Russian aggression or subversion.
+Such actions may include avoiding basing forces in areas dominated by Russian speakers, increasing transparency, limiting activities that appear intended to achieve regime change in Russia, and developing a comprehensive public relations campaign aimed at the Baltic Russian speakers.
+The term hybrid warfare has no consistent definition and is used by Western analysts and officials in different ways.
+Some use the term to refer just to irregular tactics, others use hybrid to describe a range of irregular and conventional tactics used in the same battlespace, and others use the term to describe the New Generation Warfare doctrine articulated by the senior leadership in the Russian General Staff.
+Some criticize the term as a meaningless buzzword or catchall that does little to help us understand the specific nature of the threat from Russia.
+Nevertheless, the various writings on hybrid warfare and associated activities appear to have in mind a similar set of activities that Russia has pursued in Ukraine, Georgia, and other neighboring countries and may be likely to pursue in the future.
+These activities, and hence the term hybrid warfare, are best described as covert or deniable activities, supported by conventional or nuclear forces, to influence the domestic politics of target countries.
+By emphasizing that hybrid warfare influences domestic politics, this definition highlights the role of the population in the target state in resisting or responding to Russian activities.
+Hybrid Threats,” War on the Rocks, July 28, 2014; Mark Galeotti, “The ‘Gerasimov Doctrine’ and Russian Non-Linear War,” In Moscow’s Shadow , July 6, 2014.
+This recognizes the domestic target of hybrid activities but fails to take into account how the use, and not only the deterrent value, of conventional forces may play an important role in the effectiveness of Russian activities.
+Similarly, Nadia Schadlow writes, “Hybrid warfare is a term that sought to capture the blurring and blending of previously separate categories of conflict.
+It uses a blend of military, economic, diplomatic, criminal, and informational means to achieve desired political goals” . 5 necessarily distinguish Russian activities in Ukraine or the Baltics from statecraft or warfare more generally.
+Rather, activities under hybrid warfare are distinct because they are not admitted as official policy, and they primarily seek to influence domestic politics rather than target the anned forces of a given country.
+Given these characteristics, hybrid warfare may require substantially different responses than other military threats—for example, placing a greater priority on increasing the resilience of the targeted societies to political subversion.
+Whatever term is used for Russia’s activities, it is imperative to describe the threat concretely in order to analyze its threat to the United States and its allies.
+There are a wide range of activities and tactics that could be covered under the above definition of hybrid warfare, including cyber warfare, propaganda, proxy warfare (meaning use of third-party, nonstate actors), and a conventional invasion backed by political subversion.
+In the next section, I disaggregate the “hybrid” threat in the Baltics into different categories of scenarios.
+Identifying combinations of tactics with different characteristics makes it more feasible to evaluate the vulnerabilities to Russian activities, the responses by the target country, and how the United States and NATO may respond.
+The analytic lens of the paper thus focuses on the discrete ranges of tactics under the overall category of hybrid warfare, rather than on the meaning, content, and utility of the term hybrid warfare.
+Still, it is valuable to outline competing ideas about what hybrid warfare consists of, and, drawing from Ukraine, how to understand the threat from Russia short of conventional war.
+One common understanding of the term hybrid is to describe exclusively the irregular tactics used by Russia to influence and subvert the population.
+However, Russia has not relied solely on irregular warfare in its actions in Ukraine, Georgia, or other neighboring countries to date.
+Any “hybrid” offensive against the Baltics would similarly likely depend on presence of conventional forces across the border in Russia or deployed in the Baltic states.
+Indeed, there may be a sense of conceptual drift from the original use of hybrid to refer to conflicts in which state, nonstate, and criminal actors were engaged, or to the use of state capabilities by nonstate actors, as in the 2006 war in Lebanon.
+Hoffman, for example, writes that hybrid warfare blend the lethality of state conflict with the fanatical and protracted fervor of irregular warfare . . . future adversaries exploit access to modern military capabilities including encrypted command systems, man-portable surface-to-air missiles, and other modern lethal systems, as well as promote protracted insurgencies that employ ambushes, improvised explosive devices, and assassinations.
+In Crimea, Russia initiated a large exercise on February 26 and 27, 2014, that served as the launching point and cover for unmarked Russian forces to seize strategic points in the Crimean peninsula.
+Russia initially denied the presence of its military forces, while Russian propaganda paradoxically sought to legitimize Russian military actions.
+While Russian propaganda and the use of unmarked forces created a challenge for Western countries to initially attribute responsibility, the presence of large numbers of Russian conventional forces in the region no doubt also helped to deter a strong Western response.
+Polls in early 2014 indicated little desire in eastern Ukraine for separatism.
+There is an indication that the anti-Maidan movement only adopted the goal of separatism in the spring of 2014 with the urging of individuals with ties to Russian oligarchs Aleksandr Borodai and Igor Girkin, the latter of whom is commonly kn own as Strelkov.
+International Institute for Strategic Studies, The Military Balance, 2015, 6.
+The Russian Billionaire Linking Moscow to the Rebels,” Financial Times, July 24, 2014; Maksym Bugriy, “Konstantin Malofeev: Fringe Christian Orthodox Financier of the Donbas Separatists,” The Jamestown Foundation, August 8, 2014; discussions with United States think tank analysts and Ukrainian officials, July 2015 and November 2015. 7 training, under-investment, embedded corruption, and refusal to see Russia as an enemy.
+Russia may also have intended for its large conventional presence on the Russian border to deter a Ukrainian attack.
+With the separatist movement on the verge of defeat in mid-August 2014, Russia responded with more-conventional tactics, including firing artillery from its side of the border, increasing its delivery of heavy weapons to the separatists, and sending Russian military forces over the border.
+Since August 2014, Russia has embedded advisors in separatist formations, and support from regular, albeit unmarked, Russian forces appears critical for the strength of the separatist forces in eastern Ukraine.
+In short, the use of irregular tactics on their own in eastern Ukraine was not especially successful, even with the deterrent threat of Russian forces over the border.
+Even the relatively weak post-Maidan government was able to defeat the separatists, likely in part due to its ability to deploy sizable formations that could control Ukrainian territory.
+The use of Russian conventional forces in combination with irregular warfare—including propaganda, support for 16 One Ukrainian officer observed that the troops were unprepared to even drive over a field of newly planted wheat in the spring of 2014, much less to actually fight the separatists.
+Finley, “Ukrainian President Announces Creation of National Guard, Mobilization of Armed Forces,” UPI, March 11, 2014; Anthony Faiola, “Ukraine Mobilizes Reservists but Relies on Diplomacy,” Washington Post, March 17, 2014.
+It was only at the end of May, when irregular warfare had run into too much resistance from Ukraine’s volunteer battalions and armed forces, that we began to see Russia backing into a hybridized approach.
+Here I’m referencing the introduction of high-end conventional capabilities, and the intermixing of Russian units along with individual Russian soldiers among the separatist force.
+We should keep in mind that this was Russia’s third attempt to get the Ukrainian leadership to concede to its political demands.
+Elements of some Russian reconnaissance and special operations units have operated on Ukrainian soil since 14 July , comprising teams generated by six units.
+If the concept of hybrid warfare does not include conventional warfare, the term fails to adequately describe Russian military action in eastern Ukraine, or to characterize potential, comparable Russian actions in the Baltics.
+Other analysts have described Russian hybrid warfare based on the Russian concept of New Generation Warfare.
+Indeed, analysts have identified a “Gerasimov doctrine” and begun to associate his thinking with hybrid warfare.
+While hybrid warfare, in the sense of a combination of activities to influence domestic politics, is part of New Generation Warfare, Russian authors writing on New Generation Warfare are also focused on changes in the conventional battlespace, especially the impact of the growing use of high-precision weapons.
+However, Adamsky is critical of using the Western lens of “hybrid warfare” to understand Russian thinking or behavior.
+A United States Army Special Operations Command white paper observes, citing the Gerasimov paper, Russian UW is thus the central, most game-changing component of a Hybrid Warfare effort involving conventional forces, economic intimidation of regional countries, influence operations, force-posturing all along NATO borders, and diplomatic intervention.
+Further, subversion and domestic influence also draw on the use of “political technologies”— manipulation of political outcomes through deception or manipulation—in Russia’s domestic politics.
+A range of works have criticized the use of the tenn hybrid, or its utility in understanding Russian activities.
+Some question the value of focusing on the irregular elements of hybrid warfare, drawing on the questionable performance of Russian “hybrid” warfare in Ukraine.
+These measures are intended to prevent the use of armed force against Russia, and to protect its sovereignty and territorial integrity.
+Pukhov quotes the International Institute for Strategic Studies’ definition of the use of military and non-military tools in an integrated campaign designed to achieve surprise, seize the initiative and gain psychological as well as physical advantages utilizing diplomatic means; sophisticated and rapid information, electronic and cyber operations; covert and occasionally overt military and intelligence action; and economic pressure.
+There is also an argument that Moscow has paid high costs for its operation in eastern Ukraine that may lead Russian policymakers to question repeating a similar campaign.
+Estonian and Latvian officials, as well as Western analysts, similarly observe that it is unlikely that Russia will repeat the same tactics again.
+Samuel Charap also writes “there is no evidence to suggest the emergence of a hybrid-war doctrine” and notes that the campaign in Ukraine was limited and in a relatively unique context.
+There are also questions about how directly Russia is in control of events in eastern Ukraine, given reports of assassinations of separatist leaders and competition between the Russian security services.
+Strelkov, for example, was removed from the leadership of the separatist movement, escorted back to Moscow, and subsequently became a critic of Russia’s policy by urging a more aggressive approach in Ukraine.
+The principal-agent problems between Russia and its proxies in Ukraine would likely reoccur in future operations.
+A second criticism of Russia’s use of hybrid warfare claims that Russian military officials are making observations about the United States threat, rather than describing Russian activities.
+Discussions by the Russian General Staff, including Gerasimov, at public events also emphasizes the perception that Russia is threatened by Western ability to use combinations of military and 32 John O’Loughlin and Gerard Toal, “Mistrust About Political Motives in Contested Ukraine,” Washington Post, February 13, 2015.
+Similarly, Kofman and Rojansky note Rather than a genuine strategic concept built from the ground up by the Russians themselves, “hybrid war” is merely a label attributed to Russian actions in Ukraine by the West, in an effort to make sense of cascading phases of a security crisis in which all sides but Russia seem to have been caught off balance. 11 nonmilitary tactics to influence Russia’s domestic politics.
+It may make the most sense to view statements by Gerasimov and others as identifying changes in the nature of warfare, with a focus on both identifying the threat to Russia and considering how to adapt Russia’s capabilities to meet this new threat in kind.
+While the concept of hybrid warfare is contested, it remains a useful framework to understand a potential Russian threat in the Baltics.
+Russian officials are clearly thinking about how to combine deniable or covert activities with other military tools to achieve their political objectives.
+Events in Ukraine offer a useful set of examples of how Russia may engage hybrid warfare in practice.
+For example, accounts of Ukraine show how the use of proxies and propaganda is not universally effective, coordination across the government is inconsistent , 41 and irregular forces may need to call on conventional support.
+Russian tactics in the Ukraine may differ substantially from those used in the Baltics.
+Hence, it is critical to understand concretely what forms Russian aggression may take and the vulnerability of the Baltic states to different scenarios.
+Moscow perceived the situation in Syria as the result of a United States effort, albeit one which failed to conduct HW against the incumbent regime along the lines of the Libyan scenario.
+Moscow’s demarche, although driven by the interplay of several factors, was a countermeasure to such a perceived United States effort, but was shaped along similar operational lines.
+These three categories seek to include the scenarios proposed by officials and analysts in the United States, Baltics, and other NATO countries, and to cover the range of possible Russian actions.
+Analysts outside of the Baltic countries generally agree that low-level nonviolent subversion is currently happening and could intensify in the future, although it will pose limited danger of destabilization; that covert violent action is unlikely but possible, and could divide NATO; and that conventional aggression is very unlikely, although it would be very dangerous if it were to occur.
+Baltic officials agree that nonviolent subversion is ongoing and likely but poses limited risk, generally downplay their vulnerability to Russian covert violent action, and highlight the need to take seriously a large-scale conventional attack.
+Baltic officials’ view of Russia and the potential for subversion is likely influenced both by their proximity to Russia, and hence their greater awareness of the threat it might pose, as well as their efforts to develop the independence and national identity of their own states.
+Baltic officials may tend to downplay the dissatisfaction of and risk of subversion by Russian speakers to imply that their efforts at integration are more effective, and that the states based on the identity of the titular group (i.e., Estonian, Latvian, or Lithuanian) are sustainable.
+The division of scenarios into three categories is not meant to imply that Russian activities would necessary be limited to a single category during a particular crisis or series of events.
+Russia could easily decide to escalate to covert violent action or conventional attack if its efforts at nonviolent subversion are not successful.
+Analyzing each type of Russian aggression makes it possible to better understand vulnerabilities and formulate appropriate responses.
+Together, these responses can be integrated into an overall policy for defense and deterrence.
+The majority of Russian speakers came to Estonia and Latvia during the Soviet era, thanks to policies intended to dilute the dominance of the majority ethnic group in these countries.
+Lithuania did not experience significant in-migration of Russian speakers, and thus by 2011 had only 8 percent Russian speakers (including Ukrainian, Belarussian, and other nationalities whose primary language was Russian and whose preferences tend to align with the Russian minority), 6 of which 6 percent were ethnic Russians.
+By comparison, in 2011 Estonia had 30 percent Russian speakers, of which 25 percent are ethnic Russians, 7 and Latvia had approximately 35 percent Russian speakers of which 27 percent were ethnic Russians.
+Given the larger proportion and influence of the Russian minorities in Estonia and Latvia compared with Lithuania, I focus on the threat of Russian subversion in Estonia and Latvia, although many in Lithuania are certainly concerned about Russian influence in their country.
+Harvard Kennedy School, Belfer Center for Science and International Affairs, August 2015.
+See Statistical Office of Estonia, Central Statistical Bureau of Latvia, and Statistics Lithuania, 2015, 24.
+Concentrations of Russian Speakers in Estonia and Latvia RAND RR1577-3.
+With the collapse of the Soviet Union, the newly independent Baltic States sought to establish a clear identity in line with their own language and nationality.
+Estonia and Latvia adopted a policy of legal continuity with the pre-World War II governments, which meant that individuals who could not trace their ancestry in Estonia or Latvia to before 1940 had to apply for naturalization.
+The key requirement for naturalization became a language exam, which effectively disenfranchised the Russian-speaking population who could not or would not pass an exam in the titular language.
+Nevertheless, there remains a perception of discrimination, especially in Estonia.
+One possible further step would be to recognize Russian as an official language, thereby facilitating relations between these minorities and the state.
+However, leaders in both countries fear that official recognition of the Russian language would compromise the usage of the titular language and hence the survival of Estonia and Latvia as independent countries, in addition to undennining efforts to integrate Russian speakers.
+Russian speakers in Estonia and Latvia are concentrated mainly in the major cities or in Russian-dominated regions.
+Harju, which contains Tallinn, and Ida-Viru, in the northeast of Estonia.
+May 9, 2013; “Riigikogu Simplifies Granting Estonian Citizenship to Children and Elderly,” The Baltic Course, January 22, 2015.
+Despite their significant size, these parties have not been part of governing coalitions, as Russian speakers are an underrepresented minority of overall voters, 20 and mainstream Estonian and Latvia parties are wary of considering them as potential partners given fears of Russian influence.
+There is important variation in the level of social, economic, and political integration of the Russian population across Estonia and Latvia, within different regions in each country, and among individuals.
+Russians in Latvia appear to be somewhat better integrated than those in Estonia—one-third of marriages are interethnic, and 15 percent of those serving in Latvia’s armed forces are Russian speakers.
+One Estonian thi nk ta nk study, for example, distinguishes different “clusters” among the Russian population based on their level of linguistic, political, and social integration, from the “successfully” integrated 19 Russia in general also has higher inequality.
+See Statistical Office of Estonia, 2015; Central Statistics Bureau of Latvia, 2015; Knoema, “Leningrad Region—Gross Regional Product Per Capita,” multiple years; Knoema, “Pskov Region—Gross Regional Product Per Capita,” multiple years.
+Exchange rates from Internal Revenue Service, “Yearly Average Currency Exchange Rates,” 2016.
+For inequality data, see World Bank, “GINI index (World Bank Estimate),” 2016.
+The Economist quotes a Latvia expert, noting, ‘“Harmony joining any ruling coalition would be breaking two taboos at once.
+Russia has sought to maintain a connection to and influence among the Russian speakers in the Baltics.
+Its Compatriots Policy, for example, funds pro-Russia organizations in the Baltics, supports educational exchanges, and seeks to protect the interests of Russians abroad.
+While Russia justifies the Compatriots Policy as a legitimate cultural institution, Baltic analysts see this policy as a strategy of impeding the integration of the Russian population, perhaps with the hope of using them in the future to pursue Russia’s interests.
+Russian propaganda, controlled and funded by the state, also has a tremendous influence on Russian speakers in the Baltics.
+Many observers also note that products on Russian media generally have significantly higher production values than locally produced shows, and that even if Russian speakers do understand the titular language media, Russian television in particular is easier and more enjoyable to watch.
+Russian speakers therefore exist in a “separate informational space” from the Estonian or Latvian population.
+The situation crystallises in a warehouse outside Tallinn, where a volunteer group called Dobrosvet is collecting humanitarian aid for civilians in rebel-held eastern Ukraine.
+Boxes stuffed with food and clothes lean in precarious stacks, waiting to be sent to hospitals, schools and villages throughout the Donbas.
+Yet even these activists, like Mr Ponjatovsky in Narva, call Estonia home.
+Russians in Estonia “already have a different mentality,” says Elina Esakova, Dobrosvet’s leader.
+Most of the Russian-speaking population derives its information and views on history and current events from Russian television channels that are directly subordinate to the Kremlin and can be used as a mechanism of propaganda.
+The 18 Russia has historically used proxies, propaganda, cyber attacks, and possibly other means to foment pro-Russian protests and instability in the Baltics.
+In 2007 in Estonia, riots broke out after the Estonian government announced plans to move a statue commemorating the victory over the Nazis from central Tallinn to a military cemetery.
+Protests by local Russian speakers immediately followed rumors of the movement of the statue.
+There are also reports of Russia unsuccessfully testing the potential for protest and separatism in eastern Russian-dominated areas of both countries prior to the conflict in Ukraine.
+Estonia supports Nazism; Russian-speaking people are discriminated against in Estonia en masse; Estonia is a dead-end state that only causes problems for its Western partners.
+The Latvian Security Police similarly notes, in 2013, Russia actively used information space in order to spread the information discrediting Latvia.
+For several years already, the opinion of alleged “rebirth of Fascism and its glorification” and “violation of Russian-speaking rights” in Latvia was intensively spread, at the same time denying occupation of Latvia in 1940.
+There is some evidence that Russian influence and geopolitical instability can shift the opinions, and perhaps behavior, of Russian speakers over time.
+An Estonian think tank report, for example, links the extensive variation in support for NATO among Russian-speaking Estonians from 2000 to 2014 to coverage of political events in the Russian-language media.
+An additional challenge is the presence of organized criminal networks with links to Russia.
+First, Russia may exert influence over one of the Baltic countries through a proxy, such as a predominately Russian political party with close links to Moscow or use of organized criminal networks.
+Many Latvian analysts, for example, express concern about Harmony Centre’s funding and close ties with Moscow, claiming that the Latvian population would view Harmony’s entry into a governing coalition as a security risk.
+However, given the fears of the Estonian and Latvian majority about Russian influence, as mentioned above, major parties in both countries are unlikely to go into coalition with any Russian-dominated party.
+The exact mechanism is different to specify, as such an activity would necessarily be covert, and the opportunity would depend on the particular individuals involved.
+Even if Moscow were to bribe or otherwise influence Estonian or Latvian parties to bring in a Russian party to the coalition or to adjust their policy to support Russian interests, there are real limits on the extent to which an individual or party could counter the overwhelming pro38 Ariel Cohen, “Putin Explores Legal Loopholes to Take Back the Baltic Nations,” Newsweek, July 16, 2015.
+Other sources note money-laundering operations in Latvia, and links between Russian organized crime and Lithuanian politicians.
+Russia may be far more able to achieve smaller gains on noncore interests—such as increasing the economic influence of Russian companies—than on being able to organize a fundamental shift on policy to reflect Russia’s interests on foreign and security policy.
+A second commonly raised scenario is the development of a locally organized separatist or protest movement in the Russian-dominated areas of eastern Estonia or Latvia.
+In 1993, a referendum for autonomy was organized in Narva , potentially as a prelude to secession.
+While a majority of people in Narva voted for independence, the town’s government decided to respect the opinion of an Estonian court, which ruled the vote illegal.
+Pro-Russian organizations in Estonia and Latvia have pursued greater language rights and have adopted the anti-fascist rhetoric put out by Moscow, but none appears to have pursued a separatist agenda.
+In interviews with journalists, residents of Narva and other towns in the region consistently downplay any desire to rebel against Estonia or join Russia, and these accounts often highlight how the experience of the residents traveling across the river to Ivangorod in Russia further discourages them from 44 Douglas Mastriano, “Defeating Putin’s Strategy of Ambiguity,” War on the Rocks, November 6, 2014.
+Latvia’s Security Police, the domestic intelligence agency, have struggled to trace the source of the appeals but believe they originated in Russia.
+Note also that Estonian and Latvian security services do not specifically observe groups voicing separatism.
+During my visit to Narva in July 2015, there seemed little evidence of tension that might escalate to violence.
+Of course, a strong desire for separatism was not evident in eastern Ukraine prior to 2014, so the insistence of residents is not necessarily evidence that a similar situation could not arise in the Baltics.
+Even without the use of violence, Russia could covertly infiltrate pro-Russian groups in Estonia or Latvia to influence their policies and preferences, or organize relatively few individuals into a new movement.
+But there are significant demographic and social differences between the Russian-dominated areas of the Baltic states and eastern Ukraine that would likely prevent a significant portion of the population from joining a separatist movement.
+Unlike Russian areas of Estonia and Latvia, eastern Ukraine was closely integrated into Russia politically and economically for many years.
+Russian speakers in the Baltic countries are generally relatively better off than many in Russia and are unlikely to be motivated by the same 48 Interviews with Estonian and Latvia academics and staff of think tanks, Riga and Tallinn, July 2015.
+When you cross into Ivangorod, straight away you can see the atmosphere there,” Brokk says.
+In Narva, Russian is the lingua franca, Russian media is the main source of news, and orange-and-black St.
+But the Russians of Narva . . . call the European Union and NATO their home.
+And while they may feel the emotional tug of Moscow and certainly have their grievances with the Estonian government in Tallinn, few say they want to follow the example of Crimea and join Russia.
+Now in his early 60s, he still hasn’t learned Estonian or obtained citizenship.
+He shows off his Russian passport, even though he has lived most of his life in Estonia.
+He’s monolingual and gripes that the young Estonian hostess at the coffee shop where we meet doesn’t speak Russian.
+Mr Chuikin recently moved to a new suburban home in Tallinn next door to his daughter, who married an ethnic Estonian and has bilingual children.
+His other daughter moved to Stockholm, married a Swede and is raising her own multilingual kids.
+Every few weeks, he makes the quick flight over the Baltic Sea to see them.
+His Estonian residency permit lets him travel around Europe without a visa.
+None of this implies that it would be impossible for Russia to organize a protest or separatist movement, but rather that such a movement would probably not have the local support necessary to camouflage its origins from Estonian, Latvian, or even NATO authorities.
+The absence of local support would undermine the ambiguity of Russian subversion and make it more likely that there would be a strong NATO and EU response.
+Russia clearly has an incentive to use nonviolent means to radicalize Russian speakers living in the Baltics to gain influence in the region.
+Russia may hope to encourage a separatist movement that would undermine the sovereignty of the Baltic countries and thereby guarantees of the EU and NATO, or may hope to use its influence to encourage the Baltic countries to adopt policies more friendly to Russian influence.
+While the Russian minorities in Estonia and Latvia do give Russia a variety of options and points of influence for subversion, the actual ability of Russian agents to mobilize the Russian minority in the Baltics appears quite limited, especially given the high level of integration of many in the Baltics and their relatively high standard of living relative to that of Russians on the other side of the border.
+Covert Violent Action A second general category of hybrid Russian aggression, not necessarily mutually exclusive with nonviolent subversion, is the use of covert or denied violence by Russian forces.
+Russian covert action might seek to undermine the Western agenda of Euro-Atlantic integration by indicating that the West would not or could not protect the sovereignty of the Baltic countries.
+Western analysts often highlight a scenario drawn from Russian activities in Crimea, in which significant numbers of unmarked Russia Spetsnaz seize control of a town or city dominated by Russian speakers, such as Narva in Estonia or Daugavpils in Latvia.
+Covert action might make it difficult for NATO or its member states to attribute the secession to Russian aggression, which could undermine a NATO response.
+Russian annexation might also deter NATO from responding by indicating that Russia would go to war with NATO or use nuclear weapons to defend its territory.
+Russia’s conventional forces might play a role in deterring a response by the Baltic countries or other NATO members, but would not cross over the border.
+These scenarios draw from discussions with United States and NATO officials and analysts, June and July 2015, and February 2016.
+Russian intelligence or special operations forces could co-opt and encourage local pro-Russian movements to declare a separatist agenda.
+Russia might provide arms and advice rather than significant numbers of forces.
+Rather than attempting to control territory, in this scenario Russian-backed groups could operate covertly, attacking the government forces.
+Russia would be creating instability within an EU and NATO member, thereby undermining the alliance’s credibility.
+As with the first scenario, Russia’s ability to act covertly could be essential to prevent NATO from attributing the political conflict to Russian involvement.
+A third scenario, raised by a former Latvian official, is the possibility of Russia instigating a terrorist campaign against the Baltic governments.
+Russian agents could, for example, attack Russian speakers visiting a Soviet monument, pretending that it was the work of Baltic fascists.
+Russian agents then could facilitate the development of terrorist cells to undertake attacks within the Baltic capitals.
+In each of these scenarios, especially the second and third, Russia could deny its presence and claim that any action was carried out by the local population.
+As one analyst in the Baltics explained, such forces are more likely to be appear as “men in jeans” rather than “little green men” in uniforms without insignia, making more plausible Russia’s claim that no Russian forces are involved in any violence.
+The ability of the Baltic countries to control their territory and to limit the movement and freedom of action of covert Russian forces will undermine Russian objectives in the first scenario and make insurgent/separatist activities under the second and third scenarios far more difficult.
+Like Crimea and eastern Ukraine, the eastern portions of Estonia and Latvia are proximate to Russia and do have a significant Russian-speaking population that might make them similarly vulnerable to Russian covert action.
+In general, however, the Baltic countries appear to be a less fertile ground for covert subversion than Ukraine.
+While Russia was able to seize and maintain control over Crimea, where its conventional forces maintained dominance, the success of covert actions in eastern Ukraine was ultimately less successful, as discussed above.
+The Baltic countries are better positioned than Ukraine to defend against and deter Russian covert action.
+They have greater control over their own territory, through the development of their internal security forces, as outlined below.
+Furthennore, they are members of NATO, and so benefit from 54 There are of course other scenarios for Russian covert action, although the effectiveness of each them centers around the ability of Baltic forces to identify, attribute, and stop Russian activities.
+Interview with think tank analyst, Riga, July 2015. 24 assistance from other NATO countries, including under Article 5.
+Unlike Ukraine, where NATO support to Ukraine was limited to nonlethal equipment after Russia used conventional forces to support the separatists, NATO member countries are committed to respond to an attack on any of the Baltic states as if it were an attack on themselves.
+Indeed, both Estonian and Latvian Ministry of Defence officials indicated confidence in their ability to deal with covert Russian activity because of their greater state capacity and NATO’s conventional deterrent.
+By relying on NATO to provide a conventional deterrent, the Baltic states thereby hope to deter Russian covert action.
+In practice, the Baltic countries may hesitate before attacking Russian forces operating in their territory because of fears of Russia’s willingness to escalate.
+Russia may also be able to seize territory and establish a new status quo before the Baltic states are able to respond.
+Indeed, the Baltic countries recognize the importance of rapidly alerting NATO of Russian aggression under Article 4 or 5.
+Interviews with Latvian and Estonian defense officials, Riga and Tallinn, July 2015.
+See also Andrew Stuttaford, “On Shooting ‘Little Green Men,”’ National Review, May 14, 2015.
+You can deal with it only with the cohesion of the nation, with integrity, with all society working together . . . is a functioning society,” he stressed.
+Most importantly, Gen Terras said, NATO needed to be prepared to stand behind his country and go to war in the event of his forces having to forcibly confront any Russian interference in a way that Kiev was initially unable to do.
+Hence, despite the confidence of the Baltic officials, it remains important to evaluate the readiness, capabilities, and coordination of the security forces in the Baltic countries.
+Estonia appears have a relatively well-prepared security structure, albeit small and dependent on rapid mobilization of reservists.
+Estonia has an active duty ground force of 5,500 soldiers, of whom 2,700 are conscripts, organized into two brigades.
+With the exception of one professional highreadiness mechanized battalion, these two brigades are at low readiness and mainly serve to train conscripts for eight to 11 months before they are moved into the reserves.
+There are also four teams of American-trained special operations forces, who have repeatedly deployed to Afghanistan.
+The Kaitseliit, a 15,000-strong National Guard, contains some well-trained and -equipped fighting units that would coordinate with the special operations forces in the event of an invasion.
+Based on their own estimates of Russian special forces capabilities, Estonian officials claim that a two-battalion force—their own plus a United States or NATO battalion—would be able to hold off Russian special forces, at least until a broader mobilization occurred.
+Estonian government officials are confident in their ability to monitor Russian activity within their territory, highlighting the capability of the Internal Security Service, although it is uncertain how effectively this information can be shared with other NATO members.
+A July 2015 visit to Narva revealed a modem multilayered border post that would require a not insignificant effort to circumvent.
+While Western officials were skeptical of the extent of coordination between the Ministry of Defence and internal security forces, Estonian government officials claimed that coordination was quite good and straightforward in large part due to the small size of the Estonian security establishment.
+Estonian officials attribute the kidnapping due to the investigation by the border agent of smuggling in the region by Russian government forces.
+Russia sentenced the official to 15 years in prison on espionage charges in August 2015.
+See BBC, “Russia Jails Estonia Security Official Eston Kohver,” August 19, 2015b; Corey Flintoff, “Estonia ‘Spy’ Dispute Could Be Russia Making Anti-NATO Mischief,” NPR, September 14, 2014. 26 example, involved 13,000 Estonian personnel and revealed gaps in mobilization times that the government is currently seeking to address.
+The readiness and preparation of the Latvian military is more questionable.
+Despite Latvia’s greater population , Latvian forces are smaller than Estonia’s, in large part because Latvia spends only 0.94 percent of GDP on defense, in comparison with Estonia’s 1.93 percent in 2014.
+This force is organized into a single brigade with two active duty battalions, and also includes highly trained special forces.
+As with Estonia, Latvian officials were also confident of their intelligence gathering related to Russian covert actions.
+They observed that they had dealt with the Russian covert threat for many years.
+Although Latvian defense officials noted good interagency information sharing, contingency planning, and coordination, 68 Western-trained observers noted serious interagency coordination problems, including the absence of regular exercises to practice crisis coordination between the Ministry of Defence and internal security forces.
+Latvian and foreign observers have also questioned the effectiveness of the Latvian border guard relative to those of Estonia and the Nordic countries.
+Additional research is necessary to fully evaluate the tactical ability of the Baltic forces to respond to Russian covert action.
+Lurther investigation of Russian tactics in Ukraine and other contingencies and of Russian capabilities for engaging in covert activities even in the presence of opposing security forces would be useful.
+A more detailed investigation of the Baltic countries’ forces could also help illuminate gaps in areas such as training, equipment, and doctrine.
+Nevertheless, the Baltic countries are high-functioning European states that have control throughout their territory.
+Officials in Estonia and, to a lesser extent, Latvia have practiced their response to Russian action, and there is good reason to believe that they would be able to deploy sufficient forces to respond to the presence of limited numbers of Russian covert forces.
+Ben Farmer and David Blair, “Estonia Stages Biggest Military Exercise in Country’s History Amid Fears of Russian ‘Aggression,’” The Telegraph, May 12, 2015.
+The Regional Agenda and the Global Role,” The Atlantic Council, September 2011, 3.
+Such an attack could seek to capture territory, replace the government of the Baltic countries, or shift the military balance in an ongoing internal conflict, as in eastern Ukraine.
+Even if the value to Russia of occupying the Baltic countries is low, Russia could seek to demonstrate that NATO’s security guarantees are not credible and the United States is unable to defend its allies.
+They might seek to drive ground forces across the Baltic countries to their capitals, and attempt to seize the countries before a significant Western response.
+Russian forces might limit their offensive to a small “bite” of the Baltic countries, capturing a Russian-dominated city near the border, such as Narva, or an area of strategic importance, such as a land bridge between Belarus and Kaliningrad.
+Russia may bargain that NATO is unwilling to risk war to recapture an area of strategic importance to Russia, or a Russian-dominated territory where there is some ambiguity about whether there is support for Russian action by the local population.
+Russia would likely use its anti-access and area-denial capabilities to inhibit NATO deployments in the region and give it more time to consolidate its gains.
+Russia has discussed the possibility of deploying tactical nuclear weapons to Crimea and nuclear-capable ballistic Iskander missiles to Kaliningrad, and emphasized that it would use such weapons to defend its territory.
+RAND has recently undertaken a series of tabletop exercises to better understand the prospects for a Russian conventional attack in the Baltics.
+Based on open source estimates, Russia could muster approximately 27 maneuver battalion tactical groups to attack the Baltic countries in a short-warning attack, supported by significant long-range fires.
+NATO forces, however, would be light, outgunned, and outmaneuvered by Russian heavier units, and fixed in place or destroyed while Russian forces maneuvered toward the capitals.
+Furthennore, while NATO could deploy significant air forces, without heavy NATO ground forces present, Russia would have significant freedom to deploy its forces to limit its vulnerability to air power.
+Across multiple iterations of the scenario, Russian forces were on the outskirts of Riga and Tallinn between 36 and 60 hours after the start of the war.
+It would likely take at least several weeks until armored reinforcements from the United States could arrive in numbers that would be capable of ejecting Russian forces.
+The success of Russia’s actions in the “small bite” scenario may vary depending on the degree of surprise, but the chances for Russia’s conventional success in the short term appear high, given the substantial numerical superiority of Russian conventional forces in the region.
+While Russia could theoretically only use conventional forces and eschew political subversion or covert action, these unconventional tactics have the potential to reduce the likelihood of a NATO response.
+Russia could provoke a conflict between Russian speakers and the Baltic governments, which may create the perception that local Russian speakers support Russian military action.
+Because the North Atlantic Council makes decisions based on consensus, any disagreement about Russian intent could delay or vitiate a NATO-backed response to Russian provocations.
+Russian leaders made an extensive effort to rationalize and justify their actions in Crimea, and it seems likely that Russian aggression in the future would be accompanied by similar activities to justify their actions.
+Russian covert action could also be used to delay or undermine the Baltic countries’ ability to deploy their security forces to respond to Russian forces.
+In summary, the greatest danger posed by Russia in the Baltics appears to be its local conventional superiority.
+Without the threat or actual use of a conventional attack to inhibit a decisive response to Russian subversion, the efficacy of nonviolent or covert efforts would be limited against competent states such as the Baltics.
+Offsetting Russia’s geographic advantages with a strengthened NATO defense posture may therefore be the essential precondition for maintaining political stability in this region.
+The nature of such a deterrent is the focus on other research and beyond the scope of this report.
+It suffices to note that such a deterrent will likely involve a significant deployment of NATO forces to the region.
+The Baltic countries, for example, have requested that the United States pennanently deploy a United States Anny battalion in each country.
+Policy Implications This report concludes that the major vulnerability to hybrid warfare in the Baltics lies in Russian conventional forces that may “back up” or accompany nonviolent or covert Russian aggression.
+This does not mean that the United States and NATO can focus solely on providing an effective conventional deterrent and ignore other threats.
+Rather, it will be important that NATO strengthen its defense and deterrence at all levels of conflict, ranging from propaganda and cyber warfare, to covert action, to conventional warfare.
+By reducing the vulnerabilities of the Baltics, and reducing Russian perceptions that it can exploit the vulnerabilities of the Baltic states, the potential for conflict and escalation is diminished.
+Actions to address these vulnerabilities may also be beneficial for other reasons.
+For example, better integration of Russian speakers may help to build more-cohesive societies in the Baltics.
+It is also important to consider the risk that NATO’s efforts to strengthen deterrence of a conventional attack may increase the vulnerability to nonviolent or covert Russian action.
+Prodded by Russian propaganda and absent effective NATO messaging, Russian speakers in the Baltics may interpret NATO’s actions as intended to encircle or threaten Russia, or to exercise control over the Baltic countries, and may thereby become more likely to engage in opposition.
+Integration of Russians The first set of possible policy responses concern how to advance the integration of Russian speakers within each of the Baltic countries.
+The first is to increase political and civic rights for Russian speakers, especially with regard to citizenship, education, and official recognition of the Russian language.
+Greater recognition of the Russian language, increased funding for Russian-language education, and citizenship for Soviet-era migrants would diminish Moscow’s influence by undermining the idea that the Baltic states do not welcome Russian speakers.
+The EU did put significant pressure on Estonia and Latvia to grant greater rights to the Russian minority during and following accession negotiations, and there are reports of ongoing discussions about increasing rights for the Russian minority.
+The problem, however, is that granting greater rights to Russian speakers is to some extent in conflict with the nationalist narratives surrounding the creation of Estonia and Latvia.
+The Baltic countries have made significant progress in integrating the Russian-speaking population and recognizing the legitimate role of Russian speakers who learn the titular language and are loyal to their country.
+Nevertheless, there remains a widespread view that further compromise to the Russian-speaking population, who represent a legacy of occupation, would 1 Julia Ioffe, “Ethnic Russians in the Baltics Are Actually Persecuted.
+While the European Union, or EU member states such as Germany, do have a great deal of influence among the Baltic states, the practical influence of these countries over the domestic policy of the Baltic countries is limited—citizenship, education, and related issues are clearly the prerogative of the Baltic countries themselves.
+The importance and sensitivity of the position of the Russianspeaking population in Estonia and Latvia means that even private pressure from Western countries is liable to be a waste of effort or even counterproductive.
+A second area where Western attention could have a greater impact is in the field of strategic communications.
+There has been much discussion of efforts to counter Russian propaganda.
+The EU considered creating a pan-European Russian-language station but has instead settled on developing content for local media stations in Eastern Neighborhood countries such as Georgia and Ukraine.
+Estonia has established the Russian-language television station ETV+, which will broadcast in Russian, while Latvia’s parallel effort to establish a Russian-language TV station confronted political and economic difficulties.
+Continued funding for Russian-language broadcasts by Deutsch Welle, Radio Free Europe/Radio Liberty, or other Western governmentfunded networks could help around the margins, but content directly funded by Western countries is unlikely to be credible.
+Steve Tatham, for example, criticizes Western official information campaigns and urges greater social science research to understand the Baltic populations and thereby better direct NATO’s strategic communications efforts.
+NATO and the EU are not but nor do they need to be so; the answer to propaganda is not more propaganda.
+The answer is to properly understand its effect and put in the place the necessary mitigation—which may not be communication—to extinguish its flames.
+In the short tenn, additional funding for the Estonian and Latvian government-supported Russian-language television stations may be the best available option.
+The relatively small audience makes it difficult to develop a functioning station with reasonable production values.
+A modicum of Western funding and support could help create stations that provide a relevant, objective, and competitive alternative to the Moscow-controlled stations.
+Better intelligence gathering and coordination and a clearer understanding of the signs of Russian covert aggression can help bolster defenses against active subversion.
+United States Air Force assets, such as unmanned aerial vehicles and ground-based radars, could be beneficial at filling gaps in these countries’ existing intelligence, surveillance, and reconnaissance capabilities, both for covert action and conventional warfare.
+Although NATO has made progress in developing institutions for intelligence sharing, NATO’s structures and processes for intelligence sharing remain cumbersome and dependent on often-reluctant nations to share.
+Given NATO’s slow progress in this area, further developing bilateral intelligence sharing between the Baltic countries and the United States or other NATO countries could be valuable.
+Additional research could also contribute by identifying the signs and mechanisms of past instances of large-scale Russian covert activities in Georgia, Crimea, and eastern Ukraine.
+So far, there is little open source information about how to differentiate between “everyday” Russian exercises and influence operations and the start of a large-scale campaign mirroring the operation in Crimea.
+Emerging Opportunities for Engagement, Santa Monica, Calif.: RAND Corporation, RR-1467AF, forthcoming. g Brian R Foster, Enhancing the Efficiency of NATO Intelligence Under an ASG-I, Carlisle Barracks, Pa.: United States Army War College, Strategy Research Project, 2013; “US Commander Says NATO Will Bolster IntelligenceSharing Among Military Alliance’s Members,” Associated Press, April 30, 2015. 33 clearly identifying the modus operandi of Russian agents would help to separate out the cases that justify a NATO deployment and those that might not.
+The capacity of the Baltic countries to counter covert action can certainly be improved.
+United States special operations forces have conducted extensive engagement with their Baltic counterparts, to the point that there is a sense of saturation, especially given the small size of the Baltic special operations forces.
+Additional research may be beneficial to help identify gaps in the Baltic countries’ capacity, including within civilian agencies, and to conduct targeted missions that could offer more focused benefits.
+Support for the Baltic states to counter covert action may also strengthen their ability to resist Russia in the event of an invasion.
+The United States Air Force may be able to directly assist with the development of technical capabilities for border control, air and maritime domain awareness, and intelligence gathering, including assistance with acquiring unmanned aerial vehicles, radars, and other sensors.
+Another specific area where the United States may be able to offer assistance is in planning exercises and war games to improve contingency planning and coordination, especially in Latvia.
+Finally, the United States, NATO, and the Baltic countries can do more to think practically through how a response to Russian covert action would proceed.
+However, it remains uncertain how these new, more responsive forces would be employed if there was warning of a significant Russian covert military action in the Baltics.
+While the development of the VJTF and implementation of the Readiness Action Plan is complex and will take time, it is highly beneficial for the United States and other NATO allies to think through on a practical level how a high-readiness forces would deploy and be employed in the Baltics, and how they would coordinate its actions with the Baltic security forces.
+Avoiding the Risk of Conventional Deterrence Initiatives Fomenting Irregular Provocation Russian propaganda harps on the theme of NATO’s aggressive intentions, and any buildup of NATO forces will inevitably feed into Russia depictions of NATO as seeking to encircle and isolate Russia.
+The Swiss Approach, Santa Monica, Calif.: RAND Corporation, PE-179-RC, 2016.
+There is a reasonable concern that the presence of significant United States or NATO forces could further shift the opinions of Russian speakers toward Moscow and make the population more susceptible to Russian influence.
+While the deployment of NATO conventional forces to the region may make conventional war less likely, it may paradoxically increase the risk of Russian subversion and lower-intensity conflict, with the associated potential for escalation.
+Based on the findings above, nonviolent subversion and covert action will likely remain difficult, but the risk of Russian action, miscalculation, and/or escalation could increase.
+Although United States Anny deployments in the Baltics may be larger in numbers of personnel, the same challenges of avoiding provoking opposition from local Russian speakers apply to United States Air Force deployments, such as the recent deployment of A10s.
+This is not to argue that the deployment of United States or NATO forces is ill-advised, but rather that it is important to manage perceptions of these initiatives, in part by considering carefully where, how, and which forces are deployed.
+There is no way to prevent Russian propaganda from misrepresenting United States or NATO activities in the Baltics, or from claiming that United States or NATO actions are provocative.
+The United States and NATO can, however, take pains to reduce the risk that a deployment will increase the vulnerability to irregular Russian aggression, or that Russia will take preventative action because it misperceives a United States or NATO deployment as threatening its security.
+First, NATO should avoid basing forces in heavily Russian-speaking areas.
+Whatever the reality, NATO forces could be perceived as occupying forces, and any accidents or confrontations between Russian-speaking civilians and NATO personnel have the potential to escalate.
+To some extent, this limitation poses a challenge for a response to a covert or limited conventional Russian action against a Russian-dominated border area.
+NATO forces far away from the border might have difficulty reacting quickly, and Russia may be able to seize a small amount of territory as a fait accompli.
+Nevertheless, the need to avoid possible provocation might justify the added risk.
+To date, NATO forces do not appear to have been based in Russiandominated areas.
+Thus far in Estonia, for example, rotational forces are mainly based at Tapa and the Amari airfield.
+Second, while Russia will inevitably exaggerate the intention of NATO to use its position in the Baltics to undermine the regime, the Russian leadership is clearly concerned about the potential for NATO forces in the region being used to support a color revolution or other action to depose the regime.
+Even if such claims are not justified, Russian leaders may be motivated 12 Juhan Kivirahk, “Public Opinion and National Defence,” Estonian Ministry of Defence, April 2015, 50.
+The United States and NATO cannot prevent misperception, but they can take action to improve transparency or limit activities or forces that might be perceived to be intended for regime change, such as operations in support of the Russian opposition or weapon systems that could be used to disable Russia’s command and control networks.
+Finally, the development of a sound public relations campaign associated with United States forces in the Baltics is critical.
+The provision of services by United States or NATO civil affairs teams is highly beneficial, especially in predominately Russian-speaking areas.
+For example, there are reports of United States soldiers helping to rebuild an orphanage and pursuing other humanitarian missions.
+While such activities may appear heavy-handed, if managed carefully and if coordinated with the local government, they can help convince local Russians that NATO is not deploying forces against them.
+The Current Russian Art of Strategy,” Institut Francais des Relations Internationales, November 2015.
+Balmforth, Tom, “Russians of Narva Not Seeking ‘Liberation’ by Moscow,” Radio Free Europe/Radio Liberty, April 4, 2014.
+BBC, “Russia Jails Estonia Security Official Eston Kohver,” August 19, 2015b.
+Bodner, Matthew, “Kremlin Threatens Response to United States Nuclear Bomb Deployment in Germany,” The Moscow Times, September 23, 2015.
+Fringe Christian Orthodox Financier of the Donbas Separatists,” The Jamestown Foundation.
+Emerging Opportunities for Engagement, Santa Monica, Calif.: RAND Corporation, RR-1467-AF, forthcoming.
+Farmer, Ben, and David Blair, “Estonia Stages Biggest Military Exercise in Country’s History Amid Fears of Russian ‘Aggression,’” The Telegraph, May 12, 2015.
+Galeotti, Mark, “The ‘Gerasimov Doctrine’ and Russian Non-Linear War,” In Moscow’s Shadow , July 6, 2014.
+Hille, Kathrin, “Russia Censors Discussion of Involvement in Ukraine,” Financial Times, May 28,2015.
+Jozwiak, Rikard, “EU Plans to Step Up Fight Against Russian Propaganda,” Radio Free Europe/Radio Liberty, June 24, 2015.
+Keck, Zachery, “Russia Threatens to Deploy Nuclear Weapons in Crimea,” National Interest, June 1, 2015.
+Kravchenko, Stepan, “The Rebel Leader Who Makes Putin Look Cautious,” Bloomberg, February 4, 2015.
+Latvijas Republikas Saeima, “Saeima Adopts Provisions on Recognition of Dual Citizenship,” May 9, 2013.
+Luxmoore, Matthew, “Latvia Struggles with Restive Russian Minority Amid Regional Tensions ,” Al Jazeera America, June 13, 2015.
+Sources and Implications , Santa Monica, Calif.: RAND Corporation, MG-768-AF, 2009.
+Pifer, Steven, and Hannah Thoburn, “Nuanced Views in Eastern Ukraine,” Brookings, April 28, 2014.
+Russian Federation, “On the Russian Federation’s National Security Strategy,” December 31, 2015, copy with author.
+Schadlow, Nadia, “The Problem with Hybrid Warfare,” War on the Rocks, April 2, 2015.
+Wargaming the Defense of the Baltics, Santa Monica, Calif.: RAND Corporation, Santa Monica, Calif., RR-1253-A, 2015.
+Legal Considerations,” Tallinn, Estonia: Cooperative Cyber Defence Centre of Excellence (CCD COE), 2010.
+Van Puyvelde, Damien, “Hybrid War, Does It Even Exist,” NATO Review, 2015.
+Russian Soft Power and Non-Military Influence in the Baltic States, Sweden Defense Research Agency , December 2014.
+The author finds that, given the growing integration of Russian speakers and high capacity of the Baltic states, Russia will have difficulty using nonviolent or covert action to subvert the Baltics absent the use of conventional force, and hence the Baltics' main vulnerability stems from Russia's local superiority in conventional forces.
+While improving the conventional deterrent in the region is important, the United States and its NATO allies should also address the potential for all forms of Russian aggression across the conflict spectrum.
+To this end, the author recommends an improved strategic communications campaign aimed at Russian speakers, measures to strengthen the Baltic states' security forces, and ensuring that any NATO deployment in the region does not unintentionally increase the potential for Russian subversion or miscalculation.

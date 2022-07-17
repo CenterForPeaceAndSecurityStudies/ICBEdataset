@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docbase="E:\Bandeiras\Angola"
+   sodipodi:docname="FNLA-P.svg"
+   inkscape:version="0.40+cvs"
+   sodipodi:version="0.32"
+   version="1.0"
+   x="0.00000000"
+   y="0.00000000"
+   width="900.00000"
+   height="600.00000"
+   id="svg2">
+  <metadata
+     id="metadata1298">
+    <rdf:RDF
+       id="RDF1300">
+      <cc:Work
+         id="Work1302"
+         rdf:about="">
+        <dc:format
+           id="format1304">image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+           id="type1306" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg2"
+     inkscape:window-y="87"
+     inkscape:window-x="66"
+     inkscape:cy="300.00000"
+     inkscape:cx="450.00000"
+     inkscape:zoom="0.60333333"
+     inkscape:window-height="540"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <defs
+     id="defs3" />
+  <g
+     id="layer1">
+    <path
+       d="M 0.00000000,600.00000 L 650.00000,0.00000000 L 900.00000,0.00000000 L 250.00000,600.00000 L 0.00000000,600.00000 z "
+       style="fill:#e00000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+       id="path1291" />
+    <path
+       d="M 250.00000,600.00000 L 900.00000,0.00000000 L 900.00000,600.00000 L 250.00000,600.00000 z "
+       style="fill:#f8d516;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+       id="path2052" />
+    <path
+       d="M 497.02282,364.72136 L 450.39883,330.55468 L 402.97718,364.72136 L 421.06402,309.82122 L 373.91548,275.27864 L 431.71775,275.51517 L 450.00000,220.00000 L 467.63693,275.04632 L 526.08452,275.27864 L 479.18247,309.06261 L 497.02282,364.72136 z "
+       style="fill:#ffffff;fill-opacity:1.0000000;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4.0000000;stroke-dashoffset:0.00000000;stroke-opacity:1.0000000"
+       id="path3587" />
+  </g>
+  <path
+     id="path1310"
+     d="M 0.00000000,0.00000000 L 650.00000,0.00000000 L 0.00000000,600.00000 L 0.00000000,0.00000000 z "
+     style="fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000" />
+</svg>

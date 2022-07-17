@@ -1,0 +1,785 @@
+---
+title: "Synthetic Narrative Crimea-Donbas"
+output: html_document
+date: '2022-04-26'
+---
+
+#Create a Crimea  Corpus
+
+```{python, eval=F}
+
+fromscratch=True
+if fromscratch:
+  from internetarchive import download
+  #help(download)
+  destdir="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/internetarchive/"
+  from internetarchive import search_items
+  search_results=search_items(query="Crimea Russia Ukraine 2014 ", full_text_search=True) #AND date:[2022-12-30 TO 2022-12-31]
+  search_results=[q for q in search_results]
+  import random
+  random.shuffle(search_results)
+  len(search_results)
+  for q in search_results:
+    try:
+      download(identifier=q['fields']['identifier'][0] ,destdir=destdir , verbose=True, ignore_existing=True, glob_pattern="*.txt") #if you don't remove pdfs, it'll crash later because there's a 1.7gb pdf in there lol
+    except:
+      pass
+
+```
+
+```{r}
+
+#Be sure to run to delete exactly dupe files just to save you time
+#rdfind -deleteduplicates true *
+
+library(reticulate)
+
+#pip install -U pip setuptools wheel
+#pip install -U spacy
+#python -m spacy download en_core_web_sm
+library(tidyverse)
+library(rvest)
+
+screen_rex <- function(x){
+  return( x %>%
+                    filter(text %>% str_detect("Crimea|crimea")) %>%
+                    filter(text %>% str_detect("Russia|russia")) %>%
+                    filter(text %>% str_detect("Ukraine|ukraine")) %>%
+                    filter(text %>% str_detect("2014")) %>%
+                    filter(text %>% str_detect("Donbas|donbas")) %>%
+                    filter(text %>% str_detect("Putin")) %>%
+                    filter(text %>% str_detect("Yanukovych|Poroshenko|Turchynov")) #Needs to have either leader  
+  )
+}
+#delete duplicate files from the directory just to be sure
+#rdfind -deleteduplicates true  
+
+library(googlesheets4) #Do this high up so you get the prompt early
+crimea_doc <- read_sheet("https://docs.google.com/spreadsheets/d/1lnFqrnCwjWWd_rdWLVHGkxSEcFpw-5XrV7MiQ6rA7KY/edit?usp=sharing", 
+                                sheet="CrimeaDonbass") %>% janitor::clean_names()
+dim(crimea_doc) #126
+
+#Factiva are rtf
+#It was so slow that it was easier for me to just open them and save as txt
+files <- list.files("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/factiva/", full.names = T, recursive = T,pattern="*.txt")
+factiva_list <- list()
+for(file in files){
+  file_df <- file %>% read_lines() %>% as.data.frame()%>% setNames("text") %>% mutate(url=ifelse(text %>% str_detect("^Document "), text, NA )) %>% 
+          tidyr::fill(url, .direction="up") %>% filter(!is.na(text) & text!='') %>% 
+          group_by(url) %>%
+          mutate(text=text %>% paste("\n")) %>%
+          screen_rex()
+  factiva_list[[file]] <- file_df
+}
+crimea_factiva <- bind_rows(factiva_list)
+dim(crimea_factiva) #2 #233
+
+
+#C4
+#You have to do it like this otherwise you have to track the URLs of downloaded files too which is a headache and not all of them are still live
+#https://c4-search.apps.allenai.org/?q=%2BCrimea+%2BRussia+%2BUkraine+%2B2014
+files <- list.files("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/c4/",   , full.names = T, recursive = T,pattern="*.html")
+c4_list <- list()
+for(file in files){
+  df <- data.frame(text=file %>% read_html %>% html_text )  %>% 
+        mutate(text = strsplit(as.character(text), "\n")) %>% 
+        unnest(text) %>%
+        mutate(text=text %>% trimws()) %>%
+        filter(text!='') %>%
+        mutate(url=ifelse(text %>% str_detect('http'), text, NA )) %>%
+        tidyr::fill(url) %>%
+        filter(text!=url) %>% filter(!is.na(url)) %>% 
+        group_by(url) %>%
+        summarise(text=paste(text, collapse="\n")) %>%
+        screen_rex() %>%
+        mutate_all(as.character)
+  c4_list[[file]] <- df
+}
+crimea_c4 <- bind_rows(c4_list)   %>% screen_rex()
+dim(crimea_c4) #717 #425 #7492
+
+#library(spacyr)
+#spacy_install()
+#spacy_download_langmodel("en")
+#spacy_initialize()
+#cuban_missile_clean_sentences <- spacy_parse(cuban_missile_clean$text, full_parse=F)
+#dim(cuban_missile_clean_sentences)
+
+#install.packages("pdftools")
+#sudo add-apt-repository -y ppa:cran/poppler
+#sudo apt-get update
+#sudo apt-get install -y libpoppler-cpp-dev
+
+
+files <- list.files(path = "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/",
+                     pattern = "*.pdf$", all.files = FALSE,
+            full.names = T, recursive = T,
+            ignore.case = FALSE, include.dirs = FALSE, no.. = FALSE)
+library(pdftools)
+pdf_text_list <- list()
+for(file in files){
+   outfile <- glue::glue("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/text/{file %>% basename()}.txt")
+   #print(file)
+   if(!file.exists(outfile)){
+      print(file)
+      try({ suppressMessages(pdftools::pdf_text(file)) %>% unlist() %>% paste(collapse="\n ") %>% writeLines(con=outfile)   } )
+   }
+}
+
+
+
+# 
+#IA
+#install.packages('readtext')
+#https://cran.r-project.org/web/packages/readtext/vignettes/readtext_vignette.html#introduction
+#The IA texts tend to be very large with lots of irrelevant so we the textreadr package for speed
+#There are 70k texts, most are irrelevant. Screen them once here, and then screen some more and then save them compressed
+#library(readtext)
+#install.packages('textreadr')
+  
+command1 <- "cd '/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/internetarchive/' ; grep -l -r Crimea"
+check1 <- system(command1, intern = T)
+length(check1)
+command2 <- "cd '/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/internetarchive/' ; grep -l -r Yanukovych"
+check2 <- system(command2, intern = T)
+length(check2)
+command3 <- "cd '/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/internetarchive/' ; grep -l -r 2014"
+check3 <- system(command3, intern = T)
+length(check3)
+command4 <- "cd '/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/internetarchive/' ; grep -l -r Russia"
+check4 <- system(command4, intern = T)
+length(check4)
+
+checks <- intersect(intersect(intersect(check1, check2), check3), check4)
+length(checks)
+files_ia = "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/internetarchive/" %>% paste0(checks) 
+
+
+files <- list.files("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/loose_html", full.names = T, recursive = T,pattern="*.htm|*.html")
+length(files)
+loose_list <- list()
+for(file in files){
+   outfile <- glue::glue("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/text/{file %>% basename()}.txt")
+   #print(file)
+   if(!file.exists(outfile)){
+      print(file)
+       try({
+        file %>% read_html %>% html_text %>% writeLines(con=outfile) #it produces a lot of nontext garbage fyi
+        })
+   }
+}
+
+
+files <- list.files("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/crimea/text", full.names = T, recursive = T,pattern="*.txt$")
+files <- c(files, files_ia)
+length(files)
+loose_list_text <- list()
+for(file in files){
+  try({
+    df <- data.frame(text=file %>% readLines() %>% paste(collapse="\n"))  %>%
+          mutate(url=file) %>%
+          screen_rex()
+    loose_list_text[[file]] <- df
+  })
+}
+crimea_loose_list_text <- bind_rows(loose_list_text) %>%
+  group_by(url) %>%
+  summarise(text=paste(text, collapse="\n"))  %>% screen_rex()
+dim(crimea_loose_list_text) #635 #6816
+
+# "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/cuban//zotero/7LU24CRX/filename.pdf" %>% str_replace(".*/(.*?.pdf)","\\1")
+crimea <- bind_rows(
+  #cuban_missile_pdfs %>%
+  #mutate(url=url %>% str_replace(".*/(.*?.pdf)","\\1")) %>% 
+  #         filter(!duplicated(url %>% tolower())) %>% filter(!duplicated(text %>% tolower() %>% trimws())),
+  crimea_doc,
+  crimea_factiva,
+  crimea_c4,
+  crimea_loose, #loose html
+  crimea_loose_list_text #includes pdf and IA now
+)   %>% screen_rex() 
+dim(crimea) #1656 #1075 #14647 #14646 #7813 #4481 #321
+
+"Second, the case is relatively well documented:in additionto the famous ExComm tapes (May and Zelikow 1997), declassification of the written recordhas been extensive." %>% str_replace_all("\\(.*?\\)","")
+
+"asdfasdf (sdfasdf) asdadsasd" %>% str_replace_all("\\(.*?\\)","")
+"asdfasdf [1-10] asdadsasd" %>% str_replace_all("\\[.*?\\]","")
+"John F. Kennedy" %>% str_replace_all("( [A-Z])\\.","\\1")
+"Cuban armed assistance to subversion in other parts of the Western Hemisphere. f." %>% str_replace_all(" [a-z]\\.","")
+"Cuban armed assistance to subversion in other parts of the Western Hemisphere.1" %>% str_replace_all("([a-z]\\.) *[0-9]{1,2}","\\1")
+"U.S. president Dwight D. Eisenhower (1890–1969; served 1953–61) halted U.S. importation of Cuban sugar" %>%
+                                    str_replace_all("( [A-Z])\\. ","\\1 ")
+
+"U.S. president Dwight D. Eisenhower (1890–1969; served 1953–61) halted U.S. importation of Cuban sugar" %>%
+                                    str_replace_all("U\\.S\\. | US "," United States ") 
+
+"sasadfasdffds.1 asdfasdf" %>% str_replace_all("\\.[0-9] ","\\. ")
+library(cld3); #install.packages('cld3')
+crimea_clean <- crimea %>% ungroup() %>%
+                       janitor::clean_names() %>%
+                        mutate(text_nchar= text %>% nchar() ) %>% #there should never be an exact character count
+                        filter(text_nchar>1000 & text_nchar<500000) %>%  #for some reason the length is much shorter, median 383
+                        ungroup() %>% filter(!duplicated(text_nchar)) %>%
+                        mutate(n_crimea = text %>% stringr::str_count(pattern = fixed("Crimea")) ) %>% #surprisingly it's not a lot of one offs, most seem to be about it
+                        mutate(n_russia = text %>% stringr::str_count(pattern = fixed("Russia")) ) %>%
+                       mutate(text= text %>% 
+                                    str_replace_all("\\(.*?\\)","") %>% #parentheticals
+                                    str_replace_all("\\[.*?\\]","") %>% #brackets citations
+                                    str_replace_all("U\\.S\\. | US "," United States ") %>%
+                                    str_replace_all("U\\.N\\. "," United Nations ") %>%
+                                    str_replace_all("( [A-Z])\\. ","\\1 ") %>% #middle names
+                                    str_replace_all(" [a-z]\\.","") %>% 
+                                    str_replace_all("([a-z]\\.) *[0-9]{1,2}","\\1")  %>% 
+                                    str_replace_all("Mr\\.","Mr ")  %>% 
+                                    str_replace_all(" {3,}","\n")  %>%  
+                                    str_replace_all("\\.[0-9] ","\\. ")  %>% 
+                                    str_replace_all("  "," ") 
+                        ) %>%
+                        mutate(langauge=cld3::detect_language(text)) %>% 
+                        filter(langauge=='en') 
+table(crimea_clean$langauge) %>% sort()
+hist(crimea_clean$text_nchar %>% log(), breaks=50)
+table(crimea_clean$text_nchar) %>% sort()
+dim(crimea_clean) #781 #8451 #8452 #10214 #1,636
+
+#https://github.com/dselivanov/LSHR
+library(devtools)
+#install_github("dselivanov/LSHR")
+library(LSHR) #install.packages('LSHR')
+#devtools::install_github('dselivanov/text2vec')
+library(text2vec)
+it <- itoken(crimea_clean$text, preprocess_function = tolower, tokenizer = word_tokenizer)
+dtm <- create_dtm(it, hash_vectorizer())
+dtm = as(dtm, "RsparseMatrix")
+hashfun_number = 120
+s_curve <- get_s_curve(hashfun_number, n_bands_min = 5, n_rows_per_band_min = 5)
+s_curve %>% ggplot(aes(x=similarity, y=probability_become_candidate, color=paste(n_bands,n_rows_per_band))) + geom_line()
+seed = 1
+pairs = get_similar_pairs(dtm, bands_number = 6, rows_per_band = 20, distance = 'cosine', seed = seed)
+pairs[order(-N)]
+temp <- pairs %>% filter(N==5) %>%
+  mutate(id1_new =  ifelse(id1<id2, id1, id2) ) %>%
+  mutate(id2_new =  ifelse(id1<id2, id2, id1) )
+dim(temp) #now only 18 dupes
+temp$a <- substr( crimea_clean$text[temp$id1_new],  1, 200)
+temp$b <- substr( crimea_clean$text[temp$id2_new],  1, 200)
+
+
+
+"https://doi.org/10.2307/2009577"
+"Document: President Kennedy's statement on Soviet military" %>% str_replace_all("^.*?: ","")
+"The discussion of the crisis by ExComm members shows awareness of and sensitivity to domestic political considerationsin the selection of the initial United States response to the Soviet missiles." %>% str_detect("[a-z0-9]\\.$")
+'It can use them and it must not be treated lightly"; Khrushchev, cited in Abel, 191-92.' %>% str_detect(" [0-9]{3}(\\–|\\-)")
+"On the Turkish issue, he faults Kennedy's refusal of the quid pro quo, since Kennedy had known for some time that our missiles in Turkey were obsolete; Stone, 21-22.
+" %>% str_detect(" [0-9]{2,3}(\\–|\\-)[0-9]{2,3}")
+"On April 12, 1961, the Soviets again led the way with the launch of Yuri Gagarin, a Russian cosmo¬ naut, into space to become the first human to leave Earth." %>% str_replace_all("- |¬ ","")
+#install.packages('tidytext')
+library(tidytext)
+index <- setdiff(1:nrow(crimea_clean), temp$id2_new %>% unique())
+crimea_clean_sentences <- crimea_clean[index,] %>% 
+                                 ungroup() %>%
+                                 mutate(text= text %>% str_replace_all("\n","  ") ) %>% #because pdfs are often parsed line by line
+                                 mutate(text= text %>% str_replace_all(" {1,}"," ") ) %>%
+                                 unnest_tokens(sentence, text, token="sentences", drop=T, to_lower=F) %>%
+                                 mutate(sentence= sentence %>% str_replace_all("^.*?: ","") ) %>%
+                                 mutate(sentence= sentence %>% str_replace_all("- |¬ ","") ) %>% #words broken across pages
+                                 mutate(sentence= sentence %>% str_replace_all(" {1,}"," ") %>% trimws() ) %>%
+                                 mutate(sentence_nchar=sentence %>% nchar()) %>%
+                                 mutate(sentence= sentence %>% trimws()) %>%
+                                 filter(sentence_nchar>70 & sentence_nchar<600) %>%
+                                 filter(!str_detect(sentence, "downloaded|Downloaded|Table|Figure|University|pp\\.|New York| file | [0-9]{3} | [0-9]{3}(\\–|\\-)|Box |IEEE|Memorandum|Transcript|Telegram|Kew Gardens| [0-9]{2,3}(\\–|\\-)[0-9]{2,3}|CHAPTER| cited|=|Cuban Missile Crisis|Book|Copyright|FRUS|http|JSTOR|researchers|archival|scholarship|recordings|File|Foreign Relations of the United States|Printing Office|Document|Minutes of|Summary|Record|vol\\.|No\\.|Issue|Paper|à| et | est |United States Government|American Foreign Policy|FO |PREM| box|Part| et | est |Acknowledgements|website|cookies|Privacy|©")) %>%
+                                 mutate(sentence= sentence %>% str_replace_all(" {1,}"," ") %>% trimws() ) %>%
+                                 filter(sentence %>% str_detect("^[A-Z]")) %>% #has at least one capital letter
+                                 filter(sentence %>% str_detect("[a-z0-9]\\.$")) %>% #ends in a letter/number and a period no questions
+                                 #add_count(sentence) %>%
+                                 ungroup() %>%
+                                 mutate(dupe= sentence %>% tolower() %>% str_replace_all("[^a-z]","") %>% duplicated() ) %>%
+                                 filter(!dupe) %>% #restrict to unique sentences
+                                 group_by(url) %>%  
+                                   mutate(sentence_n = n() ) %>% 
+                                   mutate(sentence_number= row_number() ) %>%
+                                   mutate(position= row_number()/n()) %>%
+                                 ungroup() %>%
+                                 filter(sentence_n<=20000 ) %>%
+                                 filter(sentence_n>=10 ) #require at least 10 unique sentences per source
+
+crimea_clean_sentences$sentence %>% tolower() %>% duplicated() %>% table()
+dim(crimea_clean_sentences) #177,303 #153,580 #7882
+
+
+#Less than 600 and greater than 50
+hist(crimea_clean_sentences$sentence_nchar[crimea_clean_sentences$sentence_nchar], 60)
+summary(crimea_clean_sentences$sentence_nchar) #Interquartile is 111 to 200
+
+crimea_clean_sentences  %>% write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/crimea_clean_sentences.tsv")
+dim(crimea_clean_sentences) #177148 #1,566,467 #197,981 #115,146 #10074
+
+```
+
+```{r}
+
+library(tidyverse)
+crimea_clean_sentences <- read_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/crimea_clean_sentences.tsv")
+
+crimea_clean_sentences$url %>% unique() %>% length() #1,218 #993 #1568 #881 #999 #464 #558 unique sources #646 sources so far
+crimea_clean_sentences$url %>% table() %>% as.vector() %>% summary() #median of 37 sentences per
+
+crimea_clean_sentences_unique <- crimea_clean_sentences$sentence %>% unique()
+length(crimea_clean_sentences_unique) #10075
+
+#   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+#    71     102     136     154     185     599     338 
+summary(crimea_clean_sentences$sentence_nchar %>% as.numeric())
+nchar("The Soviet commander in Cuba was authorised to use tactical nuclear weapons against United States forces should they invade, and as Soviet missiles were already installed, any attack on Cuba could have led to the outbreak of nuclear war.")
+nchar("Soviet commander in Cuba authorised to use tactical nuclear weapons against U.S. forces if they invaded.") #104
+nchar("Any attack on Cuba could have led to the outbreak of nuclear war.")
+
+#Write out a folder of sentences to iterate over and summaries
+
+#We save seperate files by url so we can parallize
+dim(crimea_clean_sentences) #1,566,847 #this is so big now it's becoming slow to write out files
+library(digest)
+library(data.table)
+crimea_clean_sentences_dt <- as.data.table(crimea_clean_sentences)
+for(q in crimea_clean_sentences$url %>% unique() ) {
+  
+  outfile <- glue::glue("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/sentences_original_crimea/{digest(q,'crc32')}.txt")
+                        
+  if(!file.exists(outfile) ){
+    print(outfile)
+    writeLines( text=crimea_clean_sentences_dt[url==q,,]$sentence , con=outfile)
+  }
+  
+}
+
+```
+
+Create additional simplified sentences
+
+This takes the 3090 Ti more than all night to run alone
+
+```{python}
+
+import torch
+use_cuda = torch.cuda.is_available()
+if use_cuda:
+    print('__CUDNN VERSION:', torch.backends.cudnn.version())
+    print('__Number CUDA Devices:', torch.cuda.device_count())
+    print('__CUDA Device Name:',torch.cuda.get_device_name(0))
+    print('__CUDA Device Total Memory [GB]:',torch.cuda.get_device_properties(0).total_memory/1e9)
+    print('__CUDA Device Name:',torch.cuda.get_device_name(1))
+    print('__CUDA Device Total Memory [GB]:',torch.cuda.get_device_properties(1).total_memory/1e9)    
+
+import random
+import os
+from tqdm.auto import tqdm
+import pandas as pd
+from transformers import pipeline
+from transformers.pipelines.pt_utils import KeyDataset
+#I'm going to switch to a smaller model which is faster
+#https://huggingface.co/sshleifer/distilbart-cnn-12-6
+summarizer_distilbart = pipeline("summarization", device=0, model="sshleifer/distilbart-cnn-6-6") #1 for small gpu 0 for big distilbart-cnn-12-6 #
+from datasets import load_dataset
+#What if we did it by url? Then we don't need to keep track of which sentences worked and didn't and if it fails we just lose one doc
+directory="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/sentences_original_crimea/"
+out_directory="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/sentences_sum_crimea/"
+from os.path import exists
+from datasets import Dataset
+files=os.listdir(directory)
+random.shuffle(files) #it's in place
+for filename in files: #we use this hack here to keep from having to keep a lock file. Chances of both picking the same file very small unless towards the last few
+    f_in = os.path.join(directory, filename)
+    f_out=os.path.join(out_directory, filename)
+    if not exists(f_out): #I'm eventually going to have to write a try for the one that fails on us
+        my_file = open(f_in, "r")
+        df = pd.DataFrame({"text": my_file.readlines() })
+        dataset = Dataset.from_pandas(df ) #.head(1)
+        results=[out for out in summarizer_distilbart(KeyDataset(dataset, "text"), num_beams=4, min_length=10, max_length=60, length_penalty=100.0, batch_size=32)] #32 was fastest
+        #dataset = load_dataset('text', data_files={'train': [f_in]}, split="train") #same speed either way
+        with open(f_out, 'w') as f:
+          _ = f.write('\n'.join([q[0]['summary_text'] for q in results]))
+
+
+
+```
+
+Load the simplified sentences and add them to the pile
+
+```{r}
+
+#330,140 ok so not only have I only done half, I've also somehow not even done a third of all sentences
+
+files <- list.files("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/in/case_studies/sentences_sum_crimea/", full.names = T)
+length(files)
+sentences_sum_list <- list()
+for(file in files){
+  try({
+    filename = basename(file)
+    df=data.frame(sentence=readLines(file))
+    df$url_hash <- filename %>% str_replace(".txt",'')
+    sentences_sum_list[[file]] <- df
+  })
+}
+
+library(digest)
+url_hash_df <- crimea_clean_sentences %>% dplyr::select(url) %>% distinct() %>% rowwise() %>% mutate(url_hash=digest(url,'crc32')) %>% ungroup()
+
+library(tidytext)
+sentences_sum_df <- bind_rows(sentences_sum_list) %>%
+                    left_join(url_hash_df) %>%
+                     mutate(sentence=sentence %>% str_replace_all(" {1,}\\.",".") ) %>% #after summarizing it puts a space before the final punctuation
+                     ungroup() %>%
+                     mutate(sentence= sentence %>% str_replace_all("\n","  ") ) %>% #because pdfs are often parsed line by line
+                     mutate(sentence= sentence %>% str_replace_all(" {1,}"," ") ) %>% 
+                     unnest_tokens(sentence, sentence, token="sentences", drop=T, to_lower=F) %>%
+                     mutate(sentence= sentence %>% str_replace_all("^.*?: ","") ) %>%
+                     mutate(sentence= sentence %>% str_replace_all("- |¬ ","") ) %>% #words broken across pages
+                     mutate(sentence= sentence %>% str_replace_all(" {1,}"," ") %>% trimws() ) %>%
+                     mutate(sentence_nchar=sentence %>% nchar()) %>%
+                     mutate(sentence= sentence %>% trimws()) %>%
+                     filter(sentence_nchar>70 & sentence_nchar<600) %>%
+                     filter(!str_detect(sentence, "downloaded|Downloaded|Table|Figure|University|pp\\.|New York| file | [0-9]{3} | [0-9]{3}(\\–|\\-)|Box |IEEE|Memorandum|Transcript|Telegram|Kew Gardens| [0-9]{2,3}(\\–|\\-)[0-9]{2,3}|CHAPTER| cited|=|Cuban Missile Crisis|Book|Copyright|FRUS|http|JSTOR|researchers|archival|scholarship|recordings|File|Foreign Relations of the United States|Printing Office|Document|Minutes of|Summary|Record|vol\\.|No\\.|Issue|Paper|à| et | est |United States Government|American Foreign Policy|FO |PREM| box|Part| et | est |Acknowledgements|website|cookies|Privacy")) %>%
+                     mutate(sentence= sentence %>% str_replace_all(" {1,}"," ") %>% trimws() ) %>%
+                     filter(sentence %>% str_detect("^[A-Z]")) %>% #has at least one capital letter
+                     filter(sentence %>% str_detect("[a-z0-9]\\.$")) %>% #ends in a letter/number and a period no questions
+                     #add_count(sentence) %>%
+                     ungroup() %>%
+                     mutate(dupe= sentence %>% tolower() %>% str_replace_all("[^a-z]","") %>% duplicated() ) %>%
+                     filter(!dupe)
+dim(sentences_sum_df) #796,090
+
+crimea_clean_sentences_withsum <- 
+  bind_rows(crimea_clean_sentences %>% dplyr::select(url, sentence),
+            sentences_sum_df %>% dplyr::select(url, sentence) ) %>%
+       mutate(dupe= sentence %>% tolower() %>% str_replace_all("[^a-z]","") %>% duplicated() ) %>%
+       filter(!dupe)
+dim(crimea_clean_sentences_withsum) #3,080,369 #21437
+
+#
+crimea_clean_sentences_withsum %>% write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/crimea_clean_sentences_withsum.tsv")
+
+
+```
+
+```{r}
+
+crimea_clean_sentences <- read_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/crimea_clean_sentences.tsv")
+
+crimea_clean_sentences_withsum <- read_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/crimea_clean_sentences_withsum.tsv") %>%
+  rowwise() %>%
+    mutate(url_hash= digest(url, 'crc32') ) %>%
+  ungroup() %>%
+  mutate(url_int=url %>% as.factor() %>% as.integer())
+
+
+```
+
+```{python}
+
+#Can't get this and spacy to work in the same run. Once reticulate loads once it sticks with the environment that came first and I can't figure out how to switch it.
+#pip install -U sentence-transformers
+import pickle
+import numpy as np
+from sentence_transformers import SentenceTransformer
+fromscratch=True
+if fromscratch:
+  sentences=np.array(r.crimea_clean_sentences_withsum.sentence) #sentences_unique_sanitized
+  url_ints = np.array(r.crimea_clean_sentences_withsum.url_int.values)
+  sentence_chars = np.array([len(q) for q in sentences])
+  #sentences=sentences[sentence_chars<1000] #cull anything with too many characters
+  len(sentences) #3,080,369
+  n=len(sentences)
+  chunk_length=200
+  n_chunks = int(np.ceil(n/chunk_length)) #can only 
+  sentences_chunks=[sentences[i:i + chunk_length] for i in range(0, n, chunk_length)]
+  len(sentences_chunks)
+  len(sentences_chunks[0])  
+  #model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2') 
+  #model = SentenceTransformer('sentence-transformers/gtr-t5-xxl')
+  #model = SentenceTransformer('sentence-transformers/gtr-t5-xl')
+  model = SentenceTransformer('paraphrase-mpnet-base-v2')
+  #model = SentenceTransformer('sentence-transformers/paraphrase-MiniLM-L6-v2')
+  #
+  #https://www.sbert.net/examples/applications/paraphrase-mining/README.html
+  from sentence_transformers import SentenceTransformer, util
+  #I don't know why but I had to set the query chunk size to smaller for it to work. I think it was silently failing.
+  #sentences.shape 79,851  sentences, so 6,376,182,201 possible comparisons
+  #We want a greedy matching across documents, pick a sentence, find its top pair in the next document, and so on
+  #
+  sentences_embeddings = np.vstack([model.encode(q) for q in sentences_chunks]).astype('float32')  #This is what takes a whle #[0:100] #cpu is possible just painfully slow #, device='0'
+  sentences_embeddings.shape #1,267,675 #124,808 #78225
+  d=sentences_embeddings.shape[1]
+  import faiss
+  faiss.omp_set_num_threads(64)
+  faiss.normalize_L2(sentences_embeddings) #If you normalize then you do get the right
+  # build a flat (CPU) index
+  index_flat = faiss.IndexFlatIP(d) #make sure you use IP so you get cosine distance https://github.com/facebookresearch/faiss/issues/95
+  # make it into a gpu index
+  #https://github.com/facebookresearch/faiss/wiki/Running-on-GPUs
+  res = faiss.StandardGpuResources()  # use a single GPU
+  gpu_index_flat = faiss.index_cpu_to_gpu(res, 0, index_flat)  
+  gpu_index_flat.add(sentences_embeddings)
+  k = 30   #it runs out of memory with 600k times 50. 30 works. #You can do 25 and miss almost no pairs over 0.9
+  D, I = gpu_index_flat.search(sentences_embeddings, k)  #With a million this is no longer instant but it is going hard
+  np.quantile( D[:,0], [0.01,0.05,0.1,0.5,0.9,0.95,0.99] ) #should be all 1s ish
+  #1568 articles. If they were all identical that would mean for each sentence there would be 1568 other matches and no others so 1568*number of sentences on average (37) 58,016
+  #58016/124808 #0.46% is then the upper bound, it's actually much smaller. There are so many pairings it's like 0.0000037 of pairs would be matches if it was just the same doc over and over
+  np.quantile( D[:,1], [0.01,0.05,0.1,0.5,0.9,0.95,0.99] ) #We have to decide something here about what our prior is on how many paraphrased sentences there should be in a corpus. 0.95 would mean 1 in 20
+  condition=D[:,1:]>=0.87 #0.87 
+  np.sum(condition) #56,447 #28,189 #7809 or 3904.5 pairs  #1460 #6,240,376 #2,496,146 #1,248,071 #624,036
+  A=np.where(condition)[0]
+  A_id=url_ints[A]
+  B=I[:,1:][condition]
+  B_id=url_ints[B]
+  condition2 = A_id != B_id #add a second condition where we require both nodes to live in different url_hash which should be an integer
+  sum(condition2) #170,404
+  edges=np.transpose(np.vstack([A,B]))[condition2,:]
+  weights=D[:,1:][condition][condition2]
+  vertices=np.unique(np.hstack([edges[:,0],edges[:,1]]))
+  #
+  #ids_strongly = np.unique(np.hstack([paraphrases_strongly[:,1],paraphrases_strongly[:,2]] ) ).astype("int")
+  #ids_strongly = np.setxor1d(ids_strongly,list(dead)).astype("int")
+  #sentences_strongly = sentences[ids_strongly]
+  #sentences_embeddings_strongly = sentences_embeddings[ids_strongly,:]
+  #sentences_embeddings_strongly.shape #78,225 #78,474
+  #paraphrases_strongly = util.paraphrase_mining(model, sentences_strongly, show_progress_bar=True, top_k=300, batch_size=128, query_chunk_size=1000, max_pairs=30000000) 
+  #paraphrases_strongly_array=   np.vstack(paraphrases_strongly)
+  #paraphrases_strongly_array = paraphrases_strongly_array[paraphrases_strongly_array[:,0]>0.70, :] #require a certain proximity
+  #paraphrases_strongly_array.shape
+  #subset=np.sort( np.unique( np.hstack([paraphrases_strongly_array[:,1],paraphrases_strongly_array[:,2]]) ) ).astype('int')
+  #sentences_strongly=sentences_strongly[subset,]
+  #sentences_embeddings_strongly=sentences_embeddings_strongly[subset,]
+  #sentences_embeddings_strongly.shape
+  #
+  import igraph
+  import pandas as pd
+  edges_df=pd.DataFrame(edges.astype('int')) #
+  edges_df['weights']=weights
+  edges_df['from']=edges_df[0]
+  edges_df['to']=edges_df[1]
+  condition=edges_df[0]<edges_df[1]
+  edges_df['from'][condition]=edges_df[1][condition]
+  edges_df['to'][condition]=edges_df[0][condition]
+  edges_df=edges_df[['from','to','weights']].drop_duplicates()
+  #
+  #  
+  g = igraph.Graph.DataFrame(edges_df, directed=False) #.simplify()
+  g.es.attribute_names()
+  len(g.es) #92,800
+  len(g.vs)  #55,831 #47,846 #32,258 #32,916 #47363 #32916 nodes
+  clustered=igraph.Graph.community_fastgreedy(g, weights=edges_df.weights.values ) # #wow did pretty well #weights=paraphrases_strongly[:,0]
+  clustered.optimal_count
+  clustered_cuts=clustered.as_clustering()
+  len(clustered_cuts.membership) #32916 #ok so it cut 2824 sentences into 1269 clusters
+  import scipy
+  tabs=scipy.stats.contingency.crosstab(clustered_cuts.membership)
+  #with np.printoptions(threshold=np.inf):
+  #  print(np.sort(tabs[1])) #ok so there are a few big ones but mostly very small
+  #
+  import numpy as np
+  import pandas as pd
+  import matplotlib.pyplot as plt
+  import genieclust
+  import sklearn
+  import umap
+  x_train= sklearn.preprocessing.scale(sentences_embeddings[vertices,:]) #[0:10000,] #I think we have to scale it so euclidian distance is the same as cosine #_strongly
+  x_train.shape
+  x_train_umap = umap.UMAP().fit_transform(x_train) #
+  #
+  import fastcluster
+  #clusters_ward = fastcluster.ward(x_train)
+  from scipy.cluster.hierarchy import dendrogram
+  #linkage = fastcluster.linkage_vector(x_train, method='ward', metric='euclidean')
+  #labels = hierarchy.fcluster(linkage._Z, t=0.02, criterion='distance') - 1
+  #dendrogram = hierarchy.dendrogram(linkage, no_plot=True, color_threshold=-np.inf)
+  #                      
+  #X=x_train                 
+  #import scipy.cluster.hierarchy
+  #g = genieclust.Genie(compute_full_tree=True)
+  #g.fit(X)
+  #linkage_matrix = np.column_stack([g.children_, g.distances_, g.counts_])
+  #scipy.cluster.hierarchy.dendrogram(linkage_matrix,
+  #    show_leaf_counts=False, no_labels=True)
+  #plt.show()
+  #g = genieclust.Genie(n_clusters=500, exact = True, compute_full_tree=False, affinity='cosinesimil', verbose=True) #, M=3
+  #labels_genie = g.fit_predict(x_train) #it assigns non clusters to 0
+  #np.max(labels_genie)
+  #
+  from plotnine import ggplot, geom_point, aes, stat_smooth, facet_wrap
+  import pandas as pd
+  x_train_umap_df=pd.DataFrame(x_train_umap, columns=['X','Y'])
+  #x_train_umap_df['labels_genie']=labels_genie
+  x_train_umap_df['labels_community_fastgreedy']=clustered_cuts.membership
+  #x_train_umap_df['labels_genie_pos']=labels_genie>0
+  #x_train_umap_df['labels_genie_noise']=labels_genie<0
+  x_train_umap_df['sentence']=sentences[vertices]
+  x_train_umap_df['labels']=x_train_umap_df['labels_community_fastgreedy']
+  (ggplot(x_train_umap_df, aes('X', 'Y', color='factor(labels_community_fastgreedy)' )  ) + geom_point(size=0.1, show_legend=False)   ) #it just runs out of colors
+  #
+  #genieclust.plots.plot_scatter(x_train_umap, labels=labels_genie, alpha=0.5)
+  #plt.title("(n=%d, true n_clusters=%d)" % (X.shape[0], n_clusters))
+  #plt.axis("equal")
+  #plt.show()
+  #
+  #(ggplot(x_train_umap_df, aes('X', 'Y', color='factor(labels_genie_noise)' )  ) + geom_point(size=0.1, show_legend=False)   )
+  #
+  #paraphrases_array.shape
+  #sentences
+  #sentences_test=['That is a happy person','That is a happy dog','That is a not happy person','That person is happy','This person is happy']
+  #temp = model.encode(sentences_chunks[0])
+  #clusters = util.community_detection(sentences_embeddings, min_community_size=25, threshold=0.75) #if this is working, it's too slow to tell
+  #
+  #with open("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/temp/x_train_umap_df.pickle", "wb") as outfile:
+  # 	# "wb" argument opens the file in binary mode
+  #pickle.dump(x_train_umap_df, outfile)
+#
+#
+
+
+```
+
+```{r}
+
+#x_train= py$x_train
+#library('fastcluster')
+#hc <- hclust.vector(x_train, method="ward", members=NULL, metric='euclidean', p=NULL)
+#g = genieclust.Genie(compute_full_tree=True)
+
+#install.packages('genieclust')
+#library(genieclust)
+#?gclust
+
+#install.packages('gputools')
+library(reticulate)
+library(tidyverse)
+crimea_clean_sentences_withsum_clustered <- crimea_clean_sentences_withsum %>% left_join(py$x_train_umap_df)
+dim(crimea_clean_sentences_withsum_clustered) #1,267,675 #648493
+crimea_clean_sentences_withsum_clustered %>% pull(url) %>% unique()  %>% length() #1995 #1,998
+
+crimea_clean_sentences_withsum_clustered %>% filter(!is.na(labels) & labels>=0) %>% pull(labels) %>% table()  %>% table()
+
+crimea_clean_sentences_withsum_clustered %>% filter(!is.na(labels) & labels>=0) %>% pull(labels) %>% table() %>%  sort() %>% tail(10)
+
+crimea_clean_sentences_withsum_clustered %>% filter(!is.na(labels) & labels>0) %>% pull(labels) %>% table() %>% as.vector() %>% summary()
+
+crimea_clean_sentences_withsum_clustered %>% filter(!is.na(labels) & labels>0) %>% pull(labels) %>% table() %>% as.vector() %>% table() 
+
+crimea_case_study_events <- crimea_clean_sentences_withsum_clustered  %>%
+                            filter(!is.na(labels) & labels>=0) %>% #-1 are the noise ones
+                            group_by(labels) %>%
+                            summarise(
+                              n_sources=url %>% unique() %>% length(),
+                              sentence= sentence %>% paste(collapse="\n")#,
+                              #position=median(position) %>% round(2) #we lost position but I was coding date by hand anyway now so
+                              ) %>%
+                            #arrange(n_sources %>% desc() ) %>%
+                            arrange(n_sources) %>%
+                            filter(n_sources>=5)
+dim(crimea_case_study_events) #410
+
+table(crimea_case_study_events$n_sources)
+
+crimea_case_study_events$sentence %>% str_detect("defcon|DEFCON") %>% table()
+
+table(crimea_case_study_events$n_sources)
+
+crimea_case_study_events  %>% write_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/crimea_case_study_events.csv") #summarization failed but otherwise good to go
+
+
+```
+
+```{python}
+
+import pandas as pd
+from transformers import pipeline
+#summarizer = pipeline("summarization", device=0, model="facebook/bart-large-cnn")
+#summarizer = pipeline("summarization", device=0, model="sshleifer/distilbart-xsum-12-6") #noooooo
+txt="All major United States mi]itary commands were placed on DEFCON-3 on 22 October, with SAC moving to DEFCON-2 on 24 October. It now appears that the commander of United States Air Forces Europe, General Truman Landon, ordered numerous operational activities commensurate with DEFCON-3 alert status, including increasing the number of nuclear- armed aircraft on Quick Reaction Alert .73 Additionally, the alert status  of the IRBMs in Britain and Italy was at fifteen minutes readiness and the British V-bomber force was brought to a high state of ground alert. In times of peace the United States armed forces are usually on DefCon5. Following this meeting Harkness presented Diefenbaker with a report showing that the United States military had moved to DEFCON 2, meaning the Americans were making immediate preparations for war. United States forces went from \"peace alert to Defcon 3 (war alert), and strategic air command Defcon 2\" , five divisions of armed strategic reserves were placed on alert. Tactical strike aircraft in Florida maintained high levels of alert, anywhere from pilots in their cockpits ready to launch to as long as a thirty- minute alert. TAC forces in Florida assumed a one-hour alert and prepared to go to a fifteen-minute alert, which involved pilots waiting in aircraft for launch orders. On October 22 United States armed forces moved to DEFCON-3, a height-  ened state of alert, upgraded to DEFCON-2, only one level short of war,  on October 25. On October 26, he learned that the Pentagon had moved United States forces from DEFCON 5, peacetime status, to DEFCON 2, just one away from war, and that United States hospitals had been ordered to prepare to receive casualties. Military forces of both nations were placed on maximum alert and United States nuclear bombers were ordered into the air. For the first and only time in its existence, the Strategic Air Command had been ordered to Defcom 2 status, one step short of all-out war. Harkness returned to his office and learned that parts of the United States military had raised their alert status to DEFCON 2, meaning that an imminent attack was now expected. Squadrons of B-52 nuclear bombers lifted off from their bases to join the Strategic Air Command's airborne alert as a precaution against surprise attack. On 24 October the United States' Strategic Air Command was placed on DEFCON- 2, a state of alert denoting readiness for combat. A high alert was immediately announced for air forces to bomb the exile troop's ships. Until  20 November, the United States Strategic Air Command remained on alert at  Defence Condition 2 , other  forces were held at DefCon 3, and the naval quarantine was maintained in  place. DEFCON ranged from DEFCON 5, which was simple preparedness, to DEFCON 1, which was the most serious alert of all, the DEFCON for war. A massive airborne alert was begun by U.S.- based B-52 bombers which were loaded with nuclear weapons and by KC-135 tankers. Bombers, especially the new B-52s, provided a much more reliable way of delivering nuclear weapons against Soviet targets than ICBMs, but they are slow and—if detected as they approached Soviet air space—would allow the Soviets to launch air defense aircraft as well as launch or disperse their nuclear forces. On the morning of October 24, the United States quarantine went into place, and the United States military went to DEFCON 2, the last level before nuclear war. U.S. military forces worldwide, with the exception of the United States Air Forces in Europe , are placed on DEFCON 3. ICBM missile crews are alerted and Polaris nuclear submarines in port are dispatched to preassigned stations at sea. DEFCON 3 means an increase in readiness above normal levels, specifically that air forces are ready to deploy in 15 minutes. The United States Strategic Air Command placed all its B-52 intercontinental bombers on 15-minute takeoff alert on October 20; on October 22, it placed them on a revolving airborne alert, with a percentage of bombers airborne at all times, ready to head over the North Pole toward the Soviet Union. ICBM crews were also placed on highest alert, ready to launch, and nuclear-armed Polaris submarines moved to their pre-assigned war stations at sea. United States ground and air forces were put on full alert, with B-52s of the Strategic Air Command ready to attack on a moment's notice. THE QUARANTINE On October 22, in anticipation of a Cuban and/or Soviet reaction to the quarantine, the joint chiefs of staff placed United States military forces worldwide on DEFCON 3 alert. The Joint Chiefs of Staff announced a military readiness status of DEFCON 3 as United States naval forces began implementation of the quarantine and plans accelerated for a military strike on Cuba. With no apparent end to the crisis in sight, United States forces were placed at DEFCON 2—meaning war involving the Strategic Air Command was imminent. ICBMs were prepared for launch, Polaris submarines were dispatched, and B-52 bombers were placed on alert. US Forces Go to DEFCON 2 In light of the latest U-2 photos, and with no peaceful end to the crisis in sight, the Joint Chiefs of Staff placed United States forces at readiness level DEFCON 2; an indication that war involving the Strategic Air Command was imminent. B52 nuclear bombers were deployed, so that one-eighth of them were airborne all the time. United States nuclear-armed bombers were placed on airborne alert, and some of the Soviet missiles and bombers in Cuba were not under the direct control of senior leadership in Moscow and thus could have been launched by less cautious military officers. Hundreds of nuclear bombers were in the air, and intercontinental ballistic missiles were put on a short fuse."
+#len(txt)
+
+txt= "All major United States mi]itary commands were placed on DEFCON-3 on 22 October, with SAC moving to DEFCON-2 on 24 October."
+txt= "The Soviet commander in Cuba was authorised to use tactical nuclear weapons against United States forces should they invade, and as Soviet missiles were already installed, any attack on Cuba could have led to the outbreak of nuclear war."
+summarizer_distilbart = pipeline("summarization", device=0, model="sshleifer/distilbart-cnn-12-6") #This is actually better than bart someone
+txt_summarized_distilbart = summarizer_distilbart(txt, min_length=10, max_length=40,length_penalty=3.0, truncation=False) #embarassingly slow #max_length=50, #, length_penalty=1500.0
+txt_summarized_distilbart
+
+
+#summarizer_distilbart = pipeline("summarization", device=0, model="sshleifer/distilbart-cnn-12-6") #This is actually better than bart someone
+#txt_summarized_distilbart = summarizer_distilbart(txt, min_length=10, max_length=20, length_penalty=200) #embarassingly slow #max_length=50, #, length_penalty=1500.0
+#txt_summarized_distilbart
+
+#summarizer_bart = pipeline("summarization", device=0, model="facebook/bart-large-cnn")
+#txt_summarized_bart = summarizer_bart(txt, min_length=10, max_length=25, length_penalty=2.0) #embarassingly slow #max_length=50, #, length_penalty=1500.0
+#txt_summarized_bart
+
+#Ok this is great. It splits long confusing sentences into individual ones. Perfect.
+#summarizer_bart = pipeline("summarization", device=0, model="facebook/bart-large-cnn")
+#txt_summarized_bart = summarizer_bart(txt, num_beams=4, min_length=10, max_length=40, length_penalty=20.0) #Maybe it breaks it into individual sentences which we can use
+#txt_summarized_bart
+#df= pd.DataFrame.from_dict(txt_summarized)
+
+
+#summarizer_mt5 = pipeline("summarization", device=0, model="csebuetnlp/mT5_multilingual_XLSum") #lol just continues to hallucinate
+#txt_summarized_mt5 = summarizer_mt5(txt, min_length=50, max_length=100) #embarassingly slow #max_length=50, #, length_penalty=1500.0
+#txt_summarized_mt5
+
+#T5 just absolutely hallucinates things.
+#summarizer = pipeline("summarization", device=0, model="csebuetnlp/mT5_multilingual_XLSum")
+#txt_summarized_mT5_multilingual_XLSum = summarizer(txt, min_length=50, max_length=100) #embarassingly slow #max_length=50, #, length_penalty=1500.0
+#df_mT5_multilingual_XLSum= pd.DataFrame.from_dict(txt_summarized_mT5_multilingual_XLSum)
+
+
+txt=[q[0:2000] for q in r.crimea_case_study_events['sentence'].values]  #first 2k characters
+#Summarize with distilbart
+summarizer = pipeline("summarization", device=0, model="sshleifer/distilbart-cnn-12-6") #This is actually better than bart someone
+txt_summarized = summarizer(txt, min_length=50, max_length=100) #embarassingly slow #max_length=50, #, length_penalty=1500.0
+len(txt_summarized[0]['summary_text'])
+#txt_summarized[0]['summary_text']
+df= pd.DataFrame.from_dict(txt_summarized)
+
+#Summarize with bart-large-cnn
+summarizer = pipeline("summarization", device=0, model="facebook/bart-large-cnn")
+txt_summarized_bart = summarizer(txt, min_length=50, max_length=100) #embarassingly slow #max_length=50, #, length_penalty=1500.0
+df_bart= pd.DataFrame.from_dict(txt_summarized_bart)
+
+
+
+#summarizer = pipeline("summarization", device=0, model="google/pegasus-xsum") #requires a short 512 tokens
+#txt_summarized_pegasus_xsum = summarizer(txt, min_length=50, max_length=100) #embarassingly slow #max_length=50, #, length_penalty=1500.0
+#df_pegasus_xsum= pd.DataFrame.from_dict(txt_summarized_pegasus_xsum)
+
+#summarizer = pipeline("summarization", device=0, model="google/pegasus-multi_news")
+#txt_summarized_pegasus_multi_news = summarizer(txt, min_length=50, max_length=100) #embarassingly slow #max_length=50, #, length_penalty=1500.0
+#df_pegasus_multi_news = pd.DataFrame.from_dict(txt_summarized_pegasus_multi_news)
+
+#summarizer = pipeline("summarization", device=0, model="google/pegasus-cnn_dailymail")
+#txt_summarized_pegasus_cnn_dailymail = summarizer(txt, min_length=50, max_length=100) #embarassingly slow #max_length=50, #, length_penalty=1500.0
+#df_pegasus_cnn_dailymail = pd.DataFrame.from_dict(txt_summarized_pegasus_cnn_dailymail)
+
+
+
+
+#Put on GPU
+#https://github.com/huggingface/transformers/issues/2704
+
+#txt=r.temp['sentence'].values[200]
+#summarizer(txt[0:2], min_length=10, max_length=100) #crashes if I pass more than 1
+
+#Token indices sequence length is longer than the specified maximum sequence length for this model (1313 > 1024). Running this sequence through the model will result in indexing errors
+#txt=[q[0:2000] for q in r.temp['sentence'].values] #limit to first 4k
+#summaries = [summarizer(q, min_length=10, max_length=100)  for q in txt] #
+
+```
+
+```{r}
+
+crimea_case_study_events$summary_text_distilbart_cnn_12_6 = py$df$summary_text
+crimea_case_study_events$summary_text_bart_large = py$df_bart$summary_text
+#cuban_case_study_events$summary_text_mT5_multilingual_XLSum = py$df_mT5_multilingual_XLSum$summary_text
+#
+crimea_case_study_events  %>% write_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/crimea_case_study_events_summarized.csv") #summarization failed but otherwise good to go
+dim(crimea_case_study_events) #486   4
+crimea_case_study_events$n_sources %>% summary()
+
+```
+

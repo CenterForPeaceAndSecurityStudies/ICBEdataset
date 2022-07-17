@@ -1,0 +1,76 @@
+---
+title: "Untitled"
+output: html_document
+date: '2022-05-31'
+---
+
+```{r setup, include=FALSE}
+
+ICBe_crises_markdown <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_crises_markdown.Rds")) 
+
+```
+
+```{r}
+
+
+
+crisis_text_counts_ft <- ICBe_crises_markdown %>% ungroup() %>%
+      #filter(crisno %in% c(1:100) ) %>%
+      dplyr::select(crisno, crisis_text,  yrtrig , yrterm,  n_sentence_number_int_aligned, n_events,  coders_expert, coders_novice, actors, units_domains, forces_fatalities) %>%
+      #act leaving off for the paper, may include in the website if room
+      mutate(crisno = crisno %>% as.character() ) %>%
+      mutate(yrtrig = yrtrig %>% as.character() ) %>%
+      mutate(yrterm = yrterm %>% as.character() ) %>%
+      #group_by(crisno, sentence_number_int_aligned) %>%
+      #  filter(!duplicated(value_markdown %>% trimws() )) %>% #note there are dupe markdowns for some reason
+      #ungroup() %>%
+      #mutate(crisno= ifelse(!is.na(lag(sentence_span_text)) & sentence_span_text==lag(sentence_span_text), "", crisno)) %>%
+      #mutate(sentence_number_int_aligned= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_number_int_aligned)) %>%
+      #mutate(sentence_span_text= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_span_text)) %>%
+      #dplyr::select(C=crisno, S=sentence_number_int_aligned, ICB=sentence_span_text, ICBe=value_markdown) %>%
+      #head(100) %>%
+      flextable::as_flextable() %>%
+      flextable::set_header_labels(values = 
+          list(crisno = "#",
+                crisis_text = "Title",
+                yrtrig = "Start",
+                yrterm = "End",
+                n_sentence_number_int_aligned = "#S",
+                n_events = "#E",
+                coders_expert = "#Exp",
+                coders_novice = "#Nov"#,
+                #value_markdown = "Abstract"
+               ) ) %>%
+      flextable::add_header(values = 
+          list(crisno = "Crisis",
+                crisis_text = "Crisis",
+                yrtrig = "Years",
+                yrterm = "Years",
+                n_sentence_number_int_aligned = "Counts",
+                n_events = "Counts",
+                coders_expert = "Coders",
+                coders_novice = "Coders"#,
+                #value_markdown = "Abstract"
+               ) ) %>%
+      flextable::merge_h(part = "header" ) %>%
+      flextable::width( j = 1, width=0.1)  %>% 
+      flextable::width( j = 2, width=0.5)  %>% 
+      flextable::width( j = 3, width=0.1)  %>% 
+      flextable::width( j = 4, width=0.1)  %>% 
+      flextable::width( j = 5, width=0.1)  %>% 
+      flextable::width( j = 6, width=0.1)  %>% 
+      flextable::width( j = 7, width=0.1)  %>% 
+      flextable::width( j = 8, width=0.1)  %>% 
+      flextable::width( j = 9, width=2.0)  %>% 
+      flextable::width( j = 10, width=1.0)  %>%
+      flextable::width( j = 11, width=1.0)  %>%
+      #flextable::width( j = 12, width=3.0)  %>% 
+  
+      flextable::fontsize(size = 9, part = "all") %>%
+      #flextable::merge_v(j=1:8) %>%
+      ftExtra::colformat_md(j = 9:11, part="body")
+crisis_text_counts_ft
+
+crisis_text_counts_ft  %>% saveRDS(paste0(here::here(), "/replication_paper/tables/ft_crisis_text_counts.Rds"))
+
+```

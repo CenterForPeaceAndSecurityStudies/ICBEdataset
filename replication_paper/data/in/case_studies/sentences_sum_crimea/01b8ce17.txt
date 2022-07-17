@@ -1,0 +1,130 @@
+ On December 23, 2015, control centers of three Ukrainian electricity distribution companies were remotely accessed .
+ malicious actors opened breakers at some 30 distribution substations in Kiev and Ivano-Frankivsk region . More than 200,000 consumers lost power in the region .
+ A single transmission substation in northern Kiev lost power on December 17, 2016 . Nearly a year later, the same substation lost power .
+ These instances of sabotage took place on the tail of a political revolution in Kiev, the annexation of Crimea, and amid military clashes in eastern Donetsk and Luhansk regions .
+ Governments and cybersecurity companies have attributed the hacks to Russian groups with suspected, although unclear, associations with the Russian government .
+ Russian hackers have a long history of participating in political and military conflicts in Eastern Europe . They regularly carry out espionage operations around the world in support of Russian interests .
+ These attacks represent a growing category of hacks intended to sabotage critical infrastructure . These attacks are aimed at sabotaging critical infrastructure, say experts .
+ International norms and laws to address nation-state sponsored hacking are in their infancy . Investigators are rarely able to trace hacks back to individuals .
+ Investigators point to faceless hacking collectives and nations they live in . Instead, investigators point tofaceless hacking.
+ It is difficult to connect hackers to governments, despite evidence indicating such connections . It is also difficult to link hackers to government officials .
+ attribution difficulties give victim countries pause before they name an attacker or retaliate, and create plausible deniability .
+ The Ukrainian grid hacks have served Russian interests in at least two ways . However, in spite of the challenges attribution poses, the hacks have been good for Russian interests .
+ Ukraine is part of a destabilization campaign aimed at Ukraine as it reduces its dependence on Russia . Ukraine leans west toward the European Union and NATO economically, politically, and militarily .
+ Second, the attacks were meant to demonstrate the offensive capabilities of Russian hackers . Russian hackers were also meant to prove their effectiveness on a country that cannot retaliate .
+ Ukrainian and U.S. government officials have attributed grid hacks to Russia and cybersecurity firms have linked the malware present in the effected systems to Russian cyber criminals .
+ In March 2016, Ukrainian investigators stated the attackers were Russian speaking . One claimed that the Russian group known as APT28 may have been involved .
+ APT28 is thought to have ties to the Russian government . It has a history of high profile hacks with targets that include the Pakistani military, Ukrainian Election Commission and the U.S. Democratic National Committee .
+ A major component of attribution has been the presence of a malware trojan named ‘BlackEnergy3’ It has helped confirm the Sandworm Team as responsible for the outages .
+ Ukrainian officials made their attribution, blaming Russian security services and the group behind the BlackEnergy malware .
+Sandworm Team has a growing profile of sophisticated and high impact operations that will likely keep growing . Sandworm Team is a growing team of high-impact operations that have a sophisticated profile .
+ The group’s long life, technical skills, and politically oriented operations suggest some affiliation to the Russian government . The group's long life and technical skills suggest some connection to the government .
+ Espionage and sabotage operations cannot be monetized on black markets in the same way as credit card or bank account numbers can be, making them harder to track and attribute .
+ In the case of espionage and sabotage, the primary beneficiaries are governments . The primary beneficiary is governments, according to experts .
+ The Sandworm Team’s targets are organizations in which the Russian government has a strategic interest . From NATO to Ukrainian energy companies, they are targets .
+ The Sandworm Team and the tools they use have a long developmental record . The Sand worm team has a long development record .
+ The original BlackEnergy malware was used as far back as 2007 for Distributed Denial of Service attacks . The second version was tailored to target the human-machine-interfaces that control industrial processes .
+BlackEnergy3 is more general and modular because of its diverse plugins . However, BlackEnergy3 has more general, modular and modular features .
+ Delivered in attachments to spearphishing emails, it creates a backdoor in systems giving the Sandworm Team an entry point to steal information and work through further reaches of a network .
+BlackEnergy3 was also used to deliver Killdisk malware that wipes files and makes computers unable to reboot . BlackEnergy3 also delivered Kill disk malware that wiped files and made computers impossible to reboot.
+ Both have been found in the networks of other companies that use industrial processes, including a Ukrainian mining company and state owned railway operator .
+Sandworm Team’s first hacking campaign began as early as May 2014 with phishing emails and reconnaissance . Sandworm Team's first hack campaign began in May 2014.
+ BlackEnergy3 was likely installed on utility company systems six months before hackers caused the blackouts on December 23, 2015 . In this case, Black energy3 was most likely installed six months earlier .
+ Phishing emails with infected attachments were sent to the companies’ offices . The emails had infected attachments .
+ When attachments were opened, macros enabled hackers to gain remote access . When the attachments were open, macros allowed hackers to get remote access.
+After they gained access they began harvesting credentials for the virtual private networks used by grid operators to access the control centers remotely . After they gain access they begin harvesting credentials.
+ Using the VPNs, they explored control center networks and connected devices . They explored control centers and control centers using VPNs .
+ The Sandworm Team explored methods to extend the blackouts . In addition to opening breakers at substations, the team explored ways to extend blackouts.
+ The call center was flooded with fake calls to stop company personnel from identifying the blackout area . They carried out a denial of service attack against one company's call center .
+ At other control centers, supporting equipment was tampered with to slow recovery operations . At other Control centers, support equipment was tampering with to speed recovery .
+ These appear to be exploratory elements of a campaign that was as much about learning as causing a single blackout . The campaign was more about learning than causing a blackout .
+Sandworm Team developed new malware before taking down transmission substation on December 17, 2016 . Sandworm Team took down the substation in December 2016 .
+ Industroyer is significantly more advanced than BlackEnergy3 . It is tailor made for manipulating industrial control systems .
+ Industroyer can directly control remote equipment without having to rely on the software grid operators use . With built-in knowledge of communication protocols used in electric grid equipment, the company can control the equipment without relying on software .
+Russian hacker groups continue to be successful in espionage and sabotage operations around the world . As the Ukrainian case illustrates, Russian hacker groups are still successful .
+Post-Soviet countries serve as a testing ground for new kinds of cyber operations . In particular, post-Soviet nations serve as testing ground.
+ Cyberwarfare is only one aspect of a broader hybrid warfare strategy that Russia is using in Ukraine and other Eastern European countries . Russia is also using cyberwarfare in Ukraine, other Eastern Europe countries .
+ Russia has used cyber operations alongside traditional military force and political and economic pressure to exert control over, and destabilize countries along its western border . For more than a decade, Russia has been using cyber operations with traditional military and political force .
+ Ukrainian grid hacks are the first of their kind, they are typical of Russia’s engagement with former Soviet countries .
+ The Russian government has accused the Russian government of having organized cyberattacks . In response, the targeted states have accused the government of a useless effort .
+ Russia has attempted to combine conventional and cyber tactics to achieve its national goals . Since the late 2010s, Russia has tried to combine traditional and cyber techniques to achieve national strategic goals .
+ Russia has combined cyber warfare tactics with traditional strategy to create a new type of hybrid warfare . Russia relies on proxies and surrogates to prevent attribution and intent .
+Sophisticated campaigns combine low-level conventional and special operations with offensive cyber and space actions . Social and traditional media are used to influence popular perception and international opinion .
+ The purpose is to alter, alter, falsify or delete date, or cause the disruption of or damage to a computer or network, or the objects a computer system controls, such as SCADA-system . The unauthorized conducting of a penetration by, on behalf of,
+ The official Russian government stance is that it does not engage in offensive cyber activities . The official Russia government stance was that it doesn't engage inoffensive cyber activities.
+ At the end of 2011, the Russian government released its first official statement on the role of the Russian military in cyberspace .
+ This document is entirely defensive in tone, focusing on force protection and prevention of information warfare . The document is written in tone and focuses on the prevention of Information warfare .
+ The document seems intended to suggest that Russia does not pursue offensive cyber activities . The document does not discuss any hybrid warfare activities .
+ Russian military has tried in recent years to conduct hybrid warfare, consisting of conventional and cyber operations, to maintain political leverage on post-Soviet areas near its western border .
+ The concept of Russian hybrid warfare is not new one, but an upgraded version of classic military strategy . It is strengthened by cyber capability, which is stronger by cyber capabilities .
+ In general, advancement in military science and technology has been recognized as an important condition for countries or armed groups to win wars – especially against comparatively weak opponents .
+ In response, weaker actors adapt – creating new strategies that maximize their advantages, such as guerilla warfare . However, in response, weak actors adapt, creating new strategy that maximize advantages, like guerillas .
+ Such strategies allow actors to overcome weaknesses that would lead to defeat in an all-out war . Such strategies can be used to overcome the weaknesses of actors .
+Spanish militia groups formed guerilla units during the Napoleon War . The use of “irregular tactics by weaker actors has been prominent since the Napoleon war .
+ In the Chinese Civil War, Mao Zedong defeated the United States supported Kuomintang by applying an upgraded asymmetric guerilla warfare strategy to his forces .
+ North Korea also has developed a mixed tactics strategy that focuses on combining regular strategy with innovative cyber tactics . The strategy is based on the classic concept of hybrid warfare . North Korea has also developed a hybrid strategy to achieve strategic goals against its comparatively strong enemies .
+ Russian hybrid strategy could be recognized as another version of strategy innovation . It includes both guerrilla strategy and cutting-edge information technologies to achieve political and economic goals .
+ Russia has pursued its aims against Ukraine with several irregular strategic methods, including sending its own soldiers to Crimea without Russian insignia, spreading misinformation, and encouraging pro-government hackers to threaten Ukrainian critical networks .
+ These tactics are being used everywhere – ranging from Ukrainian eastern border to the center of Ukraine . The tactics are also being used in Ukraine .
+ In April 2007, the newly-elected Estonian government moved a memorial statue honoring Soviet World War II dead out of the heart of the nation's capital .
+ The Russian government’s initial response was to pressure the Estonian government to put the statues back . The state-owned Russian Railway announced it would cancel certain passenger trains .
+ Some experts and Estonian officials believe Moscow was involved in drumming up patriotic hackers .
+ Russian government used cyber operations against Estonia to maintain its leverage on Estonia . Estonia is heavily wired by the heavily wired nature of the country .
+ In Georgia, cyber operations were well coordinated with Russian conventional military movements . The Georgian government was not able to respond to Russian physical maneuvers .
+ Georgia was the first manifestation of a hybrid war strategy that drew on cyber warfare tactics . Georgia was first place in the world to use cyber warfare techniques .
+ The Russian government has attempted to dominate neighbors and bring them back into its sphere of influence using cyber warfare .
+ Russian hybrid warfare strategy has been an optimal means to achieve this desire . Russia has also received relatively low pushback from the international community .
+ Moscow enjoyed the plausible deniability for its actions that often originates from hybrid warfare cyber operations . The strategy represented in cyberattacks on Estonia in 2007 and Georgia in 2008 .
+ Since 2014, Russia has been conducting cyber warfare and kinetic operations against Ukraine . Russia is trying to halt Ukraine's turn to Europe, prevent Ukraine from joining NATO, and promote Russia’s economic and geopolitical goals .
+ Russia is concerned about Ukraine turning to the West, it is also concerned with Ukraine’s moves to end its dependence on Russian energy .
+ Ukraine has discovered natural gas sources in its own territory . Russia has faced the loss of a major policy lever in Ukraine .
+ The central reason for Russia’s military intervention in Ukraine in 2014 hinges on Ukrainians’ desire to turn to the West . The move is incompatible with Russia's national interests, according to the Kremlin .
+ The successful anti-governmental revolutions in Ukraine demonstrated collective resistance against Russian-leaning policies, and rampant corruption in the public sector of Ukraine .
+Pro-Western moods in Ukraine are alarming to the Kremlin because they undermine Russia’s hegemony in the region . The Kremlin wants to be the counterbalancing influential power to the United States on the global arena .
+ The anti-governmental protests in Ukraine presented a direct threat to Putin’s regime in Russia in the context of “color revolutions’ in the region at the time .
+ Ukraine’s uprisings were viewed as contagious, according to a report . Ukraine and Ukraine share a close cultural and historical connection .
+ Russia aims at slowing down Ukraine’s development, and the realization of benefits from “Westernization” there . Russia aims to slow down Ukraine's development and realize benefits from Westernization .
+ Ukraine's desire to end its dependence on Russia’s gas also threatens Moscow . It means Russia loses a powerful policy lever in Ukraine.
+ Russia used its monopoly on Ukraine’s gas supply as a coercive policy tool . The Orange Revolution began with the 2004 Ukrainian Orange Revolution .
+ In 2006 and 2009 Russia cut the gas supply to Ukraine in response to Ukraine’s president Victor Yushchenko .
+ During the presidency of pro-Russian Victor Yanukovych, the gas supply to Ukraine flowed freely . During the president's distancing from Europe, Ukraine's gas supply flowed freely.
+ The new ‘Revolution of Dignity’ in 2013-2014 that ousted pro-Russian Victor Yanukovych brought about yet more gas cuts from Moscow . In 2013- 2014, Victor Yanukovych was ousted from the Kremlin .
+ Ukraine has begun searching for ways to gain energy independence from Russia . Unwilling to have Russia control its politics through gas supply, Ukraine is seeking energy independence .
+Vast deposits of shale oil and gas were discovered in the Black Sea basin off the Crimean shelf . Prior to the annexation of Crimea, vast deposits were found in the Eastern Ukraine's Yuzivska shale block .
+ Ukraine’s shale gas deposits were third largest in Europe, according to U.S. Energy Information Administration .
+ Ukraine’s prospects for becoming the energy center in Europe are feasible, according to the government . Ukraine's prospects for being a energy center are feasible .
+ Russia sells 75% of its natural gas resources to Europe and satisfies 30% of Europe’s gas demand . Currently, Russia sells over 75 per cent of its gas resources.
+ Ukraine's gas exports would undermine Moscow's economic interests in Europe, but also the political influence Russia’s gas monopoly grants the Kremlin there .
+ Ukraine signed a production contract with Royal Dutch Shell for an investment in tapping the shale gas resources in Yuzivska in 2013 . Some estimates could produce up to 20 billion cubic meters of gas annually by 2030 .
+ That amount alone would satisfy over half of what Ukrainians consumed in 2015 . That would satisfy more than half of that amount alone .
+ The U.S. energy giant also signed an agreement to develop shale gas deposits in the Western Ukraine’s Olesska shale block the same year .
+ Shell and Chevron froze their shale-developing activities when Ukraine plunged into military conflict with Russia . The conflict was undermining the security of their investments, they said .
+ The annexation of Crimean Peninsula in 2014 was not just a decision to keep Russia’s Black Sea Naval fleet stationed in Sevastopol . It was a demonstration of Russian power in the region overall .
+ Heavily dependent on the export of its energy resources, Russia preserved its influence and income by taking Ukraine’s gas prospects out of equation .
+ Moscow put heavy focus on pipeline building, ensuring its uninterrupted gas supply to Europe . Moscow put focus on building pipeline building to ensure uninterrupted supply of gas supply directly to Europe.
+ The discovery of shale deposits has prompted Russian attempts to stall their developments and sabotage business deals for Ukraine’s foreign capital economy .
+ Russia’s military operation on the ground solved the prospects of Ukrainian energy competition problem for Russia, albeit partially . Russia's military operation solved the prospect of Ukraine's energy competition problems .
+ The warzone in the Eastern Ukraine covers the Donetsk region part of the Yuzivska shale bloc, and thus, closed it to development . The war zone in the eastern Ukraine is also part of a shale bloc .
+ The Kharkiv region has been subject to destabilizing activities . In addition, the Kharkov region is subject to instability and destabilizing activity .
+ Ukraine’s defense minister Poltorak says explosions at an arms warehouse in Balaklia, in the Kharkiv region, were staged by Russia .
+ At the beginning of the unrest in the Eastern Ukraine, there were numerous attempts to create Russia-backed third separatist enclave in Kharkiv region .
+ Moscow has employed various methods to destabilize the region, including attacks on the electrical grid . To prevent the development of energy sources in Ukraine’s west, Moscow has used various methods, such as attacks on electricity grid .
+ Russian-led cyberattack on Prykarpattyaoblenergo distribution center created enough uncertainty to hurt the prospects of setting up industrial fracking operations in that region . On December 23, 2015, the cyberattack was carried out on December 23.
+ Prykarpattyaoblenergo is responsible for supplying electricity to the Ivano-Frankivsk region that hosts part of Olesska’s shale block .
+ The map below illustrates the locations of the major attacks on the electrical grid . The map also illustrates the location of the attacks on electrical grids .
+ The methods Russia uses to manipulate Ukraine’s vulnerable developing economy have proven to be very effective . Russia has been very effective in manipulating Ukraine's vulnerable developing economies .
+ Cyberattacks on Ukraine’s critical infrastructure impose damages and economic loses to the country . Ukraine's entire territory is submerged into a state of hybrid warfare and social instability .
+ Ukraine appears to have become a test ground for new cyber-offensive technology Russia can use elsewhere . Ukraine has become a testing ground for cyber weapons by world powers .
+ Ukraine's crisis is ultimately a part of a larger system of events in the East-European region . Ukraine’s crisis is part of the larger system in the region.
+ Russia is conducting its foreign policy in the region chiefly based on its perception of the ongoing events there and their impact on Russia’s foreign and domestic interests . Russia's foreign policy is based on perception of ongoing events and its impact on the region .
+ Russia is using various methods to influence the course of development that its neighbors choose to pursue . To achieve its goals, Russia is trying to influence its neighbors' development .
+ The methods now appear to include the combination of covert military operations on the ground and in cyberspace . The methods include the spread of pro-Russian and anti-Western disinformation domestically and internationally .
+ The Kremlin seems to retaliate in increasingly aggressive ways in cyberspace and on the ground against Ukraine . The West’s economic sanctions against Russia are working .
+ Russia may intensify its hybrid warfare operations in the region, especially if Russia's internal affairs follows current unstable trajectory . Russia's presidential elections are around the corner .
+ The pattern in Ukraine could be a foreshadowing of the future for all states . The pattern could be the same in Ukraine and other states .
+ The number of cyberattacks is on the rise and the most sophisticated among them have been attributed to nation-state actors . The most sophisticated attacks are attributed to the nation-states .
+ Nation-states have the resources and the intelligence available to conduct multilayered and well-orchestrated attacks over long periods of time .
+ The evolving security threats from cyberattacks led by nation-states range from espionage to cyberattacks on critical infrastructure .
+ The motivation to use cyberspace as a fifth domain of conflict is driven by relatively low costs, the covert nature of cyber operations, and the strategic advantage they present, as opposed to conventional warfare .
+ Through cyberattacks nation-states strive to achieve geopolitical and economic goals that otherwise might seem unattainable to them .
+ The Russian attacks on Ukrainian electricity distribution companies perfectly captures the nature of this new landscape and how embedded it is in existing geopolitical relations .

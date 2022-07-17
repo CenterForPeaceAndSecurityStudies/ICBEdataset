@@ -35,3 +35,10 @@ vignettes/*.pdf
 /*figure-latex*/
 /*.log
 ICBEdataset_paper_rex.log
+/temp/
+/temp/*
+data/temp/
+data/temp/*.*
+
+
+

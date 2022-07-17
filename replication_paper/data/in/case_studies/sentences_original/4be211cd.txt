@@ -1,0 +1,107 @@
+The analysis uses data derived from primary source materials that have become available only in the last 2 years, in addition to well-known public statements by the president.
+The Verbs in Context System was used to generate insights into how Kennedy’s operational code differed across sources and changed during the period of the crisis.
+The results provide evidence of Kennedy’s initial private belligerence and provisional support for the “Gettysburg thesis” while calling into question some other potential interpretations of the effects of the crisis on the president’s beliefs.
+John F Kennedy, Cuban missile crisis, operational code, content analysis, ExCom transcripts The Cuban missile crisis is generally thought to have brought the world closer to nuclear destruction than any event before or since.
+As a result, it occupies a unique place in the history of American foreign policy and superpower relations in the Cold War era.
+Scholars from three generations and virtually all social science disciplines have examined the crisis from innumerable angles.
+As the temporal restrictions on document classification have expired and as the archives of the former Soviet Union are opened and explored, the emergence of new information from domestic and foreign sources has continued to fuel academic interest in the events of the autumn of 1962.
+In this study I examine the manner in which those events affected the belief system of the most prominent figure in the crisis from the American perspective— President John F Kennedy.
+I use the Verbs in Context System to generate insights into how Kennedy’s operational code (see Schafer’s introductory essay in this symposium for a discussion of VICS; see also Walker, Schafer, & Young, 1998) differed across sources and changed during the period of the crisis.
+I note four patterns that recur in the qualitative historical literature and, after defining them in terms of belief change, conduct an analysis aimed at exploring the veracity of the observations.
+A third pattern concerns the belief change that Kennedy may have exhibited as the crisis unfolded.
+Sorensen and White both noted that throughout the earliest stages of the crisis, Kennedy was angered by the Soviet actions.
+However, Schlesinger indicated that, although Kennedy was initially furious at Soviet Premier Khrushchev and Ambassador Dobrynin, his demeanor changed almost immediately to that of a sober and calculating tactician.
+This raises the question of when Kennedy’s initial belligerence abated.
+A fourth pattern is one that has only recently been identified by comparison with these others.
+It is the disparity between the public and private aspects of Kennedy’s handling of the crisis.
+Although the Cuban missile crisis has long been understood as consisting of an American ultimatum and a Soviet withdrawal , this newer perspective raises questions concerning the difference between the public and private conduct of crisis management and, potentially, the attendant beliefs involved.
+The United States, it was understood, held a preponderance of conventional forces in the area of dispute.
+The Soviets were presented with an ultimatum of either withdrawing their missiles or preparing to fight a nuclear war.
+Robert Kennedy’s secret meeting with Dobrynin to discuss this arrangement has also come to be part of the historical record.
+These newer qualitative analyses predict a disparity between Kennedy’s public utterances and private rhetoric.
+In the case of the missile crisis, it would appear from the historical accounts that the nature of the U.S.-Soviet relationship was much more cooperative than one would expect from an examination of the public record.
+A second pattern suggested by some analysts stands in partial contrast to the simpler public-private dichotomy outlined above.
+This pattern should manifest itself most clearly in a shift in Kennedy’s operational code over time.
+That is, his view of the political universe should be initially hostile , his initial optimism should be low , and we should also expect his strategic and tactical propensities to be initially conflictual.
+According to Schlesinger , Kennedy’s shift away from an angry response toward a reasoned strategy occurred rapidly.
+The “overconfidence thesis” stands in contrast to the Gettysburg thesis.
+Certainly there was great relief among the United States decision-makers as the crisis was resolved.
+They perceived that the escalation of pressure on adversaries worked in this instance and that, eventually, when met with the appropriate degree of threat or force, any adversary would back down—even a superpower.
+If Kennedy did become overconfident, we would expect hypotheses 17, 18, and 19 to be reversed.
+The predictability index should be higher at the end than at the outset of the crisis, as should the locus-of-control indicator, whereas the role-of-chance indicator should be lower.
+Sampling To test these hypotheses, I first divided the period of the crisis into phases based on the important turning points in Kennedy’s state of mind according to the secondary literature.
+It began in late August when evidence of Soviet conventional force buildups and rumors of missiles focused Kennedy’s attention on Cuba and his suspicions on the Soviets.
+During this phase, up to the point of decision, it is my contention that Kennedy’s beliefs would be in a state of flux because of some uncertainty regarding Soviet actions and motives.
+By the evening of 18 October, the process of problem recognition was virtually complete.
+The blockade would not actually be announced until 22 October and implemented the morning of 24 October.
+However, after this series of early meetings, the focus of the ExCom discussion shifted.
+Vice President Lyndon Johnson, Secretary of State Dean Rusk, Under Secretary of State George Ball, Latin American Assistant Secretary Edwin Martin, Deputy Under Secretary Alexis Johnson, Former Soviet Ambassador Llewellyn Thompson, Secretary of Defense Robert McNamara, Deputy Secretary Roswell Gilpatric, Assistant Secretary Paul Nitze and Chairman of the Joint Chiefs of Staff General Maxwell Taylor, CIA Director John McCone, Attorney General Robert Kennedy, Treasury Secretary Douglas Dillion, White House aides McGeorge Bundy and Theodore Sorenson.
+These authors, using the same data, focused on the role of stress in patterns of cognition and therefore placed emphasis on the discovery of missiles as a stress-inducing development.
+Earlier attempts to conduct content analyses of either the McBundy transcripts or meeting memoranda, by Purkitt and Anderson , have also focused on temporal changes in ExCom meeting dynamics but have been severely limited by data availability.
+By focusing on 2 days of meetings at the beginning and end of the crisis , Purkitt adopted an earlyversus late-crisis approach.
+Anderson’s study, the earliest of these attempts, used memoranda generated by 3 days of meetings late in the crisis and contained no early samples—a limitation that Anderson correctly predicted would be overcome in time.
+In particular, contingent military preparations, diplomatic maneuvers in the Organization of American States, and likely Soviet responses occupied Kennedy and the discussants.
+As we have been told on numerous occasions, on this day the superpowers came closer to nuclear war than at any other time.
+As Soviet freighters steamed toward Cuba, joined by a contingent of submarines, and American naval vessels moved to intercept them, the ExCom waited for news.
+Robert Kennedy observed, “These few minutes were the time of gravest concern for the President.
+As news arrived concerning the actions of the Soviet ships, tensions eased.
+In this “post-decision” phase, Kennedy and Khrushchev corresponded frequently and the basis for a settlement began to emerge.
+Khrushchev’s statement on 28 October, indicating that the missiles would be withdrawn, marks the onset of phase 4, the “resolution” phase.
+This phase ended on 20 November, when Kennedy’s press conference remarks indicated that Khrushchev had kept his promise.
+The record of Kennedy’s public statements and the transcripts of the private ExCom meetings were examined for each of these periods to determine which utterances satisfied the 1,500-word minimum length required by the VICS sampling criteria.
+Each of the transcripts of the ExCom meetings was examined to generate an estimate of the quantity of the discussion that Kennedy alone generated.
+Virtually all of the transcribed meetings satisfied the 1,500-word minimum for Kennedy content.
+Those meetings where Kennedy’s participation amounted to less than 1,500 words, and the private recording that he made in the Oval Office on 18 October, were excluded from the sampling frame.
+In the private sphere, more than one utterance satisfied the length criteria in three of the four periods.
+In the public sphere, only the first period offered more than one utterance that could be coded.
+In the interest of maximizing comparability across phases and limiting the introduction of confounding factors into the analysis, the private recording was excluded.
+The efforts of the authors in getting these transcripts made—including hiring transcription services, audio specialists, and court recorders and bringing in outside experts, including historians and former staff members, to clarify details—far exceeds any comparable efforts to date.
+The May and Zelikow transcriptions must be considered the most complete data set available of Kennedy’s private utterances during the crisis.
+For the ExCom meetings, a decision was made to sample by day in order to control for the possibility that the day’s earlier meetings were devoted to intelligence assessment and dissemination, whereas the later meetings were more focused on assessments and discussion.
+After a day was randomly selected, all of that day’s meetings were selected and treated as separate measures.
+I coded all of the utterances, and a 20% sample of each of the utterances was randomly selected and coded by a second coder with equivalent training and experience with the method.
+Although two White House statements were issued during this time, no statements were actually communicated by Kennedy.
+As a result, no public or private utterances were coded for that period, leaving only three periods for comparison.
+These analyses included the phase, the source of rhetoric (public or private), and the interaction of phase and source of rhetoric as sources of variance.
+Although the ANOVA results indicate the presence of significant differences between Kennedy’s public and private rhetoric and differences across phases, the F scores alone do not indicate the nature of this difference.
+The scores for strategy and tactics are consistently more negative in Kennedy’s private rhetoric throughout the crisis.
+The political universe and optimism indices, although roughly equivalent at the outset of the crisis, become substantially more positive in Kennedy’s public rhetoric as the crisis progresses.
+Moreover, because none of the interaction effects are significant, we can state with some confidence that the pattern of private and public difference that is indicated by these indices holds across phases.
+Contrary to hypotheses 1 to 4, Kennedy was on the whole more negative in his private rhetoric in all phases.
+Kennedy and his advisors were often involved in crafting contingency plans for worst-case scenarios.
+Their lossprevention perspective often led to the consideration of some extreme options, such as invasion, nuclear retaliation, and even all-out war.
+There was little discussion regarding more positive, goal-oriented approaches to negotiated settlement.
+Kennedy could comfortably express the full range of his views in private.
+This included voicing his anger at Khrushchev and his uncertainty about Soviet motives.
+He could not articulate these beliefs in public, where he might be held accountable for them.
+The second set of hypotheses relates to allegations of Kennedy’s initial hostility and anger over Khrushchev’s actions and the time at which this hostility abated.
+The results of the analysis indicate that Kennedy did appear belligerent during the earliest phase of the crisis.
+This is consistent with the expectations generated from the qualitative literature and expressed in hypotheses 5 to 8.
+Virtually all of the observed changes in Kennedy’s beliefs appear to have occurred after the crisis had entered the resolution phase.
+Kennedy indeed appeared initially belligerent, but this belligerence was only minimally diminished until the crisis was all but resolved.
+This observation, which contradicts hypotheses 9 to 12 but confirms hypotheses 13 to 16, leads naturally toward the examination of lessons drawn from the crisis and the final hypotheses that relate to the nature and trajectory of Kennedy’s beliefs at the close of events.
+The generally cooperative trend in Kennedy’s main philosophical and instrumental beliefs 4 Separate one-way ANOVA analyses comparing phases 1 and 2, first for private utterances only and then for all utterances combined, revealed no significant differences between the VICS scores.
+Approach to Goals .8 .4 .6 .2 .4 0.0 .2 Estimated Marginal Means Estimated Marginal Means .0 -.2 -.2 -.4 -.4 SOURCE -.6 SOURCE -.6 Public -.8 Public -.8 -1.0 Private -1.0 Private 1 2 4 1 2 4 PHASE PHASE P-2.
+Estimated marginal means, by phase and source of VICS indices, for Kennedy’s main philosophical and instrumental beliefs.
+However, the indices for predictability of the political universe , locus of control , and role of chance were designated as the ones that would most clearly indicate which of these lessons Kennedy might have taken to heart.
+The predictability of the political universe declines as the crisis ends, as does the locus-of-control variable , indicating that Kennedy felt less in control of the U.S.-Soviet relationship after the crisis.
+These results are consistent with hypotheses 17, 18, and 19, respectively.
+Although none of these differences across phases is statistically significant, I believe—given the coincident direction of the trends—that we can exclude the possibility that Kennedy was overconfident and interpret the results as provisional confirmation of the Gettysburg thesis.
+Conclusions The results from the VICS analysis of the nature of Kennedy’s belief change during the Cuban missile crisis and at its conclusion confirm Kennedy’s private hostility at the outset of the crisis.
+They also suggest, contrary to some accounts, that there was not a great change in Kennedy’s approach to the crisis in the early stages.
+Little difference was detected between the pre-decision and decision phases in Kennedy’s private rhetoric.
+Although he may have chosen the blockade path, Kennedy appeared willing to continue to consider other more confrontational options well into the crisis.
+This provides provisional support for the Gettysburg thesis and some disconfirming evidence regarding the overconfidence thesis.
+The study also provides some insights into the public/private rhetoric debate.
+The absence of significant interaction terms in the ANOVA analysis and the patterns of parallel lines that appear in the graphical plots, particularly the instrumental measures , suggest that although there may be differences between the actual values of the indices generated using the different types of 5 This echoes Anderson’s findings that the ExCom was still engaged in “decision”-oriented behaviors well into the post-decision phase and was not solely focused on the consequences of past actions.
+Role of Chance 1.0 Universe .6 .9 .5 Estimated Marginal Means Estimated Marginal Means .4 .8 .3 .2 SOURCE SOURCE .7 .1 Public Public 0.0 Private .6 Private 1 2 4 1 2 4 PHASE PHASE P-4.
+Estimated marginal means, by phase and source of VICS indices, for predictability, control, and role of chance in Kennedy’s beliefs.
+This suggests that changes in the VICS scores, rather than the values of the scores themselves, should be the focus of future analyses.
+It also suggests that even though private and public statements both can serve as the basis for an examination of belief change using the VICS method, the context-sensitive nature of the indices means that special attention must be paid to the nature of the rhetoric and its source when comparing across individuals or over time.
+Although no utterances were coded in this phase because of the lack of public statements, the histories of the crisis suggest that this phase was the most volatile in terms of tactical changes, interaction with the opponents, and possible learning.
+Kennedy had decided on the utility of a diplomatic approach around 24 October, but it was not until later that a trade of missiles was approved.
+The intervening series of letters exchanged between Kennedy and Khrushchev may provide an alternative basis for comparison between types of rhetoric.
+Another area that merits further investigation is the role that the president’s interaction with his advisors played in shaping his beliefs.
+A considerable portion of the secondary literature on the crisis concerns itself with the nature of group deliberations and the crisis outcome.
+As May and Zelikow noted, this set of transcripts constitutes the most complete data set available on how an elite group of policymakers arrived at a set of important decisions.
+The integrative complexity of American decision makers in the Cuban missile crisis.

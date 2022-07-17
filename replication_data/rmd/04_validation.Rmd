@@ -1,0 +1,409 @@
+---
+title: "04_validation"
+output:
+  html_document:
+    df_print: paged
+  toc: yes
+editor_options:
+  chunk_output_type: inline
+---
+
+## R Markdown
+
+```{r, eval=F }
+
+ICBe_events_agreed <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.Rds")) 
+dim(ICBe_events_agreed)
+
+icb_events_long <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.Rds")) 
+dim(icb_events_long)
+
+country_flags <- "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/countries.csv" %>% read_csv(col_names=F)
+library(WikidataR)# install.packages("WikidataR","WikidataQueryServiceR")
+#https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Nations.svg
+UN <- get_item("Q1065")[[1]]$claims$P41
+
+
+library(countrycode)
+flag_codes1 <- 
+  bind_rows(
+    icb_events_long %>%
+    filter(varname_normalized %>% str_detect("actor")) %>%
+    dplyr::select(value_normalized, value_qcode) %>%
+    distinct() ,
+    
+    actor_translator %>% mutate(value_normalized=coalesce(QCode_name,ICEWS_Actor.Name , ICEWS_Country, COWname , UCDPname )) %>% dplyr::select(value_normalized, value_qcode=QCode) %>% distinct()
+  ) %>% 
+  filter(!duplicated(value_qcode)) %>%
+  rowwise() %>%
+  mutate(qcode_n= (value_qcode %>% str_split(';'))[[1]] %>% length()) %>%
+  filter(qcode_n==1) %>%
+  left_join(country_flags %>% dplyr::select(value_normalized=X1, country_code2digit1=X3) ) %>% 
+  left_join(country_flags %>% dplyr::select(value_normalized=X2, country_code2digit2=X3) ) %>% 
+  mutate(country_code2digit3=value_normalized %>% countrycode::countrycode( origin = 'country.name', destination = 'iso2c')) %>%
+  mutate(country_code_iso3c=value_normalized %>% countrycode::countrycode( origin = 'country.name', destination = 'iso3c')) %>%
+  mutate(unicode_symbol=value_normalized %>% countrycode::countrycode( origin = 'country.name', destination = 'unicode.symbol')) %>%
+  mutate(country_code2digit = coalesce(country_code2digit1,country_code2digit2, country_code2digit3)) 
+
+flag_codes1$wikidata_flag <- NA
+flag_codes1$wikidata_iso3c <- NA
+
+for(i in 1:nrow(flag_codes1)){
+  if(!is.na(flag_codes1$wikidata_flag[i])){next}
+  flag <- NULL
+  iso3c <- NULL
+  qcode <- str_split(flag_codes1$value_qcode[i] , ";")[[1]] %>% trimws()
+  if(length(qcode)>1){next} #multi qcode rows are bad
+  print(qcode)
+  try({
+    item <- get_item(qcode)[[1]]
+    try({
+      flag <- item$claims$P41$mainsnak$datavalue$value[1]
+      if(class(flag)=="character"){
+        flag_codes1$wikidata_flag[i]<-flag
+      }
+    })
+    try({
+      iso3c <- item$claims$P984$mainsnak$datavalue$value[1]
+      if(class(iso3c)=="character"){
+        flag_codes1$wikidata_iso3c[i]<-iso3c
+      }
+    })
+  })
+}
+
+library(rvest)
+library(jsonlite)
+flag_codes1$wikidata_flag_url <- "https://commons.wikimedia.org/wiki/File:" %>% paste0(flag_codes1$wikidata_flag)
+flag_codes1$wikidata_flag_url[is.na(flag_codes1$wikidata_flag)]<- NA
+flag_codes1$wikidata_flag_url_file <- NA
+
+#which(flag_codes1$value_qcode=="Q347")
+for(i in 1:nrow(flag_codes1)){
+  print(i)
+  if(is.na(flag_codes1$wikidata_flag_url[i])){ next }
+  destfile_svg <- glue::glue("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags/{flag_codes1$value_qcode[i]}.svg")
+  destfile_png <- glue::glue("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags/{flag_codes1$value_qcode[i]}.png")
+  
+  if(!file.exists(destfile_svg) & !file.exists(destfile_png)){
+    try({
+      html <- flag_codes1$wikidata_flag_url[i] %>% str_replace_all(" ","_") %>% read_html()
+      links <- html   %>% html_nodes("a") %>% html_attr("href") 
+      df = data.frame(link=links) %>% distinct()
+      image_url <- df %>% filter(link %>% str_detect("^http.*?svg$")) %>% filter(row_number()==1) %>% pull(link)
+      if(length(image_url)!=0){
+              flag_codes1$wikidata_flag_url_file[i] <- image_url
+              download.file(url=image_url, destfile=destfile_svg)
+      } else {
+              image_url <- df %>% filter(link %>% str_detect("^http.*?png$")) %>% filter(row_number()==1) %>% pull(link)
+              flag_codes1$wikidata_flag_url_file[i] <- image_url
+              download.file(url=image_url, destfile=destfile_png)
+      }
+    })
+  } else {
+    print("Already exists")
+  }
+}
+
+flag_folder <- "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags/"
+flag_files <- list.files(path = flag_folder, pattern = NULL, all.files = FALSE, full.names = FALSE, recursive = FALSE, ignore.case = FALSE, include.dirs = FALSE, no.. = FALSE)
+
+flag_files_short <- flag_files %>% str_replace("\\..*$","")
+flag_codes1$file_exists <- flag_codes1$value_qcode %in% flag_files_short
+
+
+```
+
+## Resave Small Flags
+
+```{r}
+
+library(tidyverse)
+library(magick) #switching to magick which handles transparency correctly
+library(imager); #install.packages("imager")
+flag_folder <- "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags/"
+flag_folder_small <- "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small/"
+#20x16 pixels
+file="Q15180"
+
+flag_files <- list.files(path = flag_folder, pattern = NULL, all.files = FALSE, full.names = FALSE, recursive = FALSE, ignore.case = FALSE, include.dirs = FALSE, no.. = FALSE)
+for( file in flag_files){
+  
+  file_short <- NULL
+  file_short <- file %>% str_replace("\\..*$","")
+  outfile <- NULL
+  outfile <- paste0(flag_folder_small, file_short, ".png")
+  if(!file.exists(outfile)){
+    print(file)
+    im <- NULL
+    infile <- NULL
+    infile <- paste0(flag_folder, file)
+    try({ #nevermind apparently if you convert too many files in a row image magick runs out of some internal memory "session: cache resources exhausted "
+      im <- image_read(infile) #load.image(infile)
+      im_small <- NULL
+      im_small <- im %>% image_scale("20x16") #resize(im, 20, 16)
+      im_small %>% image_write(path=outfile, format = "png") #save.image(outfile)
+      next
+    })
+    try({
+      im <- load.image(infile)
+      im_small <- NULL
+      im_small <- resize(im, 20, 16)
+      im_small %>% save.image(outfile)
+    })
+  }
+}
+
+```
+
+## Including Plots
+
+
+```{r pressure, echo=FALSE}
+
+ICBe_events_agreed <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.Rds")) 
+dim(ICBe_events_agreed)
+
+icb_events_long <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.Rds")) 
+dim(icb_events_long)
+
+ICBe_events_agreed$interact_forces %>% unique()
+ICBe_events_agreed$interact_fatalities %>% unique()
+
+ICBe_events_agreed$interact_domains %>% unique()
+ICBe_events_agreed$interact_territory %>% unique()
+ICBe_events_agreed$interact_geoscope  %>% unique()
+
+#![](/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/cub.png) 
+
+paste_vars <- c("think_actor_a","thinkkind",
+"say_actor_a", "sayintkind", "say_actor_b",
+"condition",
+"do_actor_a" ,               
+#"do_kind", "do_interact_kind" , #leaving this out because it rarely helps
+"interact_increasecoop" , "interact_decreasecoop" ,  "interact_escalate"  , "interact_deescalate" , "act_cooperative","act_deescalate","act_escalate","act_uncooperative"   ,           
+"do_actor_b",
+"interact_units",
+"interact_domains",
+"interact_geoscope",
+"interact_territory",
+"interact_forces",
+"interact_fatalities",
+"consequence",
+"condition_do_actor_a" ,               
+#"condition_do_kind", "condition_do_interact_kind" , 
+"condition_interact_increasecoop" , "condition_interact_decreasecoop" ,  "condition_interact_escalate"  , "condition_interact_deescalate" , "condition_act_cooperative","condition_act_deescalate","condition_act_escalate","condition_act_uncooperative"   ,           
+"condition_do_actor_b",
+"condition_interact_units",
+"condition_interact_domains",
+"condition_interact_geoscope",
+"condition_interact_territory",
+"condition_interact_forces",
+"condition_interact_fatalities"
+)
+
+
+
+#We are going to exclude from descriptions common and not particularly informative values "country" "no clear change"
+values_exclude <- c('country','no clear change',"none")
+flag_files_small_short <- list.files(path = flag_folder, pattern = NULL, all.files = FALSE, full.names = FALSE, recursive = FALSE, ignore.case = FALSE, include.dirs = FALSE, no.. = FALSE) %>% str_replace("\\..*$","")
+
+
+#"individuals", "hundreds","thousands","tens of thousands", "hundreds of thousands"
+
+icb_events_long_markdown <- icb_events_long %>%
+                              filter(varname_normalized %in% paste_vars) %>%
+                              mutate(varname_normalized = varname_normalized %>% factor(levels=paste_vars)) %>%
+                              arrange(crisno, sentence_number_int_aligned, actor_set, varname_normalized, value_normalized, value_qcode) %>%
+                              filter(!value_normalized %in% values_exclude) %>%
+                              rowwise() %>%
+                                mutate( value_markdown =  glue::glue("![]({flag_folder_small}/{value_qcode}.png)") )  %>% 
+                                mutate( value_markdown = ifelse(is.na(value_qcode) | !value_qcode %in%  flag_files_small_short ,value_normalized, value_markdown ) ) %>% #if the q code is missing or the image is missing fall back to text
+                                mutate(value_markdown= ifelse(value_normalized=="individuals",value_markdown %>% paste0("1s") ,value_markdown )) %>%
+                                mutate(value_markdown= ifelse(value_normalized=="tens",value_markdown %>% paste0("10s"),value_markdown)) %>%
+                                mutate(value_markdown= ifelse(value_normalized=="hundreds",value_markdown %>% paste0("100s"),value_markdown)) %>%
+                                mutate(value_markdown= ifelse(value_normalized=="thousands",value_markdown %>% paste0("1ks"),value_markdown)) %>%
+                                mutate(value_markdown= ifelse(value_normalized=="tens of thousands",value_markdown %>% paste0("10ks"),value_markdown)) %>%
+                                mutate(value_markdown= ifelse(value_normalized=="hundreds of thousands",value_markdown %>% paste0("100ks"),value_markdown)) %>%
+                              ungroup()
+
+#Make a sentence level markdown summary                                      
+icb_events_long_narratives_sentences <- icb_events_long_markdown %>%
+                              group_by(crisno, sentence_number_int_aligned, sentence_span_text, actor_set, varname_normalized) %>%
+                                summarise( 
+                                    value_markdown = paste0(value_markdown , collapse=";")
+                                  )  %>%
+                              mutate(value_markdown = ifelse(varname_normalized=="think_actor_a", paste0("- ", value_markdown), value_markdown ) ) %>%
+                              mutate(value_markdown = ifelse(varname_normalized=="say_actor_a", paste0(" - ", value_markdown), value_markdown ) ) %>%
+                              mutate(value_markdown = ifelse(varname_normalized=="do_actor_a", paste0(" - ", value_markdown), value_markdown ) ) %>%
+                              mutate(value_markdown = ifelse(varname_normalized=="consequence", paste0(" -C- ", value_markdown), value_markdown ) ) %>%
+                              group_by(crisno, sentence_number_int_aligned,sentence_span_text,  actor_set) %>%
+                                filter(is.na(lag(value_markdown)) | (value_markdown!=lag(value_markdown))) %>% #with the dashes added above it should allow us to remove dupes in the middle
+                                summarise( 
+                                    value_markdown = paste0(value_markdown, collapse=" ")
+                                  ) %>% ungroup()
+
+ICBe_events_agreed_markdown <- ICBe_events_agreed %>% left_join(icb_events_long_narratives_sentences)
+
+ft <- ICBe_events_agreed_markdown %>%
+      filter(crisno==196) %>%
+      group_by(crisno, sentence_number_int_aligned) %>%
+        filter(!duplicated(value_markdown %>% trimws() )) %>% #note there are dupe markdowns for some reason
+      ungroup() %>%
+      mutate(crisno= ifelse(!is.na(lag(sentence_span_text)) & sentence_span_text==lag(sentence_span_text), "", crisno)) %>%
+      mutate(sentence_number_int_aligned= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_number_int_aligned)) %>%
+      mutate(sentence_span_text= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_span_text)) %>%
+      dplyr::select(C=crisno, S=sentence_number_int_aligned, ICB=sentence_span_text, ICBe=value_markdown) %>%
+      #head(100) %>%
+      flextable::as_flextable() %>%
+      flextable::width( j = 1, width=0.25)  %>% 
+      flextable::width( j = 2, width=0.25)  %>% 
+      flextable::width( j = 3, width=5.0)  %>% 
+      flextable::width( j = 4, width=5.0)  %>% 
+      flextable::fontsize(size = 9, part = "all") %>%
+      ftExtra::colformat_md(j = 4, part="body")
+ft
+
+#Make a narrative level markdown summary
+icb_events_long_narratives <- icb_events_long_markdown %>%
+                              #filter(crisno==196) %>%
+                              group_by(crisno, varname_normalized) %>%
+                                summarise( 
+                                    value_markdown = paste0(value_markdown %>% sort() %>% unique() %>% trimws(), collapse=";") %>% trimws()
+                                  )  %>%
+                              #mutate(value_markdown = ifelse(varname_normalized=="think_actor_a", paste0("", value_markdown), value_markdown ) ) %>%
+                              #mutate(value_markdown = ifelse(varname_normalized=="say_actor_a", paste0("BREAK", value_markdown), value_markdown ) ) %>%
+                              #mutate(value_markdown = ifelse(varname_normalized=="do_actor_a", paste0("BREAK", value_markdown), value_markdown ) ) %>%
+                              #mutate(value_markdown = ifelse(varname_normalized=="interact_units", paste0("BREAK", value_markdown), value_markdown ) ) %>%
+                              #mutate(value_markdown = ifelse(varname_normalized=="consequence", paste0("BREAK -C- ", value_markdown), value_markdown ) ) %>%
+                              group_by(crisno) %>%
+                              summarise( 
+                                  value_markdown = paste0(value_markdown %>% trimws(), collapse=" ") %>% trimws()
+                              ) %>% ungroup() #%>% 
+                              #mutate(value_markdown = strsplit(as.character(value_markdown), "BREAK")) %>% 
+                              #unnest(value_markdown)
+
+
+
+
+
+
+icb_events_long_narratives_brokenup <- icb_events_long_markdown %>%
+                                        mutate(var_group=NA) %>%
+                                        mutate(var_group = ifelse(varname_normalized %>% str_detect("actor"),"actors",var_group)) %>%
+                                        mutate(var_group = ifelse(varname_normalized %>% str_detect("coop|escalate"),"act",var_group)) %>%
+                                        mutate(var_group = ifelse(varname_normalized %>% str_detect("actor"),"actors",var_group)) %>%
+                                        mutate(var_group = ifelse(varname_normalized %>% str_detect("units|domains"),"units_domains",var_group)) %>%
+                                        mutate(var_group = ifelse(varname_normalized %>% str_detect("forces|fatalities"),"forces_fatalities",var_group)) %>%
+                                        #filter(crisno==196) %>%
+                                        group_by(crisno, var_group) %>%
+                                          summarise( 
+                                              value_markdown = paste0(value_markdown %>% sort() %>% unique() %>% trimws(), collapse=";") %>% trimws()
+                                            )  %>%
+                                        #mutate(value_markdown = ifelse(varname_normalized=="think_actor_a", paste0("", value_markdown), value_markdown ) ) %>%
+                                        #mutate(value_markdown = ifelse(varname_normalized=="say_actor_a", paste0("BREAK", value_markdown), value_markdown ) ) %>%
+                                        #mutate(value_markdown = ifelse(varname_normalized=="do_actor_a", paste0("BREAK", value_markdown), value_markdown ) ) %>%
+                                        #mutate(value_markdown = ifelse(varname_normalized=="interact_units", paste0("BREAK", value_markdown), value_markdown ) ) %>%
+                                        #mutate(value_markdown = ifelse(varname_normalized=="consequence", paste0("BREAK -C- ", value_markdown), value_markdown ) ) %>%
+                                        group_by(crisno, var_group) %>%
+                                        summarise( 
+                                            value_markdown = paste0(value_markdown %>% trimws(), collapse=" ") %>% trimws()
+                                        ) %>% ungroup()
+
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1.1_long_clean.Rds")) %>%
+                  filter(!varname %in% c("lastviewed","crisis",'sentencenumber','crisno', 'icb_survey_version',  'section' )) %>%
+                  select(-sentence, -sentence_clean, -varname, -value, -status) %>% 
+                  distinct()
+
+ICBe_long_agreement <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_agreement.Rds")) 
+
+icb_crises <- read_csv(file=paste0(here::here(), "/replication_paper/data/in/icb1v14.csv")) %>% janitor::clean_names() #somehow break of all things is a broken name
+
+
+ICBe_crises_markdown <- ICBe_events_agreed %>%
+  #filter(crisno==196) %>%
+  group_by(crisno, crisis_text) %>%
+  summarise(
+    n_sentence_number_int_aligned  = sentence_number_int_aligned %>% unique() %>% length(),
+    n_events = sum(!is.na(do_actor_a) | !is.na(say_actor_a) | !is.na(think_actor_a))
+  )  %>% distinct() %>% 
+  left_join(icb_crises %>% dplyr::select(crisno, yrtrig,yrterm) %>% distinct() ) %>%
+  left_join( ICBe_long_agreement %>% dplyr::select(crisno,, coders_expert, coders_novice,) %>% distinct() ) %>% 
+  left_join(icb_events_long_narratives_brokenup %>%
+              filter(!is.na(var_group)) %>%
+              pivot_wider(id_cols=crisno, names_from=var_group, values_from=value_markdown)
+              ) %>%
+  ungroup()
+
+
+ft <- ICBe_crises_markdown %>% ungroup() %>%
+      #filter(crisno %in% c(1:100) ) %>%
+      dplyr::select(crisno, crisis_text,  yrtrig , yrterm,  n_sentence_number_int_aligned, n_events,  coders_expert, coders_novice, actors, units_domains, forces_fatalities, act) %>%
+      mutate(crisno = crisno %>% as.character() ) %>%
+      mutate(yrtrig = yrtrig %>% as.character() ) %>%
+      mutate(yrterm = yrterm %>% as.character() ) %>%
+      #group_by(crisno, sentence_number_int_aligned) %>%
+      #  filter(!duplicated(value_markdown %>% trimws() )) %>% #note there are dupe markdowns for some reason
+      #ungroup() %>%
+      #mutate(crisno= ifelse(!is.na(lag(sentence_span_text)) & sentence_span_text==lag(sentence_span_text), "", crisno)) %>%
+      #mutate(sentence_number_int_aligned= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_number_int_aligned)) %>%
+      #mutate(sentence_span_text= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_span_text)) %>%
+      #dplyr::select(C=crisno, S=sentence_number_int_aligned, ICB=sentence_span_text, ICBe=value_markdown) %>%
+      #head(100) %>%
+      flextable::as_flextable() %>%
+      flextable::set_header_labels(values = 
+          list(crisno = "#",
+                crisis_text = "Title",
+                yrtrig = "Start",
+                yrterm = "End",
+                n_sentence_number_int_aligned = "#S",
+                n_events = "#E",
+                coders_expert = "#Exp",
+                coders_novice = "#Nov"#,
+                #value_markdown = "Abstract"
+               ) ) %>%
+      flextable::add_header(values = 
+          list(crisno = "Crisis",
+                crisis_text = "Crisis",
+                yrtrig = "Years",
+                yrterm = "Years",
+                n_sentence_number_int_aligned = "Counts",
+                n_events = "Counts",
+                coders_expert = "Coders",
+                coders_novice = "Coders"#,
+                #value_markdown = "Abstract"
+               ) ) %>%
+      flextable::merge_h(part = "header" ) %>%
+      flextable::width( j = 1, width=0.1)  %>% 
+      flextable::width( j = 2, width=0.5)  %>% 
+      flextable::width( j = 3, width=0.1)  %>% 
+      flextable::width( j = 4, width=0.1)  %>% 
+      flextable::width( j = 5, width=0.1)  %>% 
+      flextable::width( j = 6, width=0.1)  %>% 
+      flextable::width( j = 7, width=0.1)  %>% 
+      flextable::width( j = 8, width=0.1)  %>% 
+      flextable::width( j = 9, width=2.0)  %>% 
+      flextable::width( j = 10, width=1.0)  %>%
+      flextable::width( j = 11, width=1.0)  %>%
+      flextable::width( j = 12, width=3.0)  %>% 
+  
+      flextable::fontsize(size = 9, part = "all") %>%
+      #flextable::merge_v(j=1:8) %>%
+      ftExtra::colformat_md(j = 9:12, part="body")
+ft
+
+
+```
+
+```{r, eval=T}
+
+saveRDS(ICBe_events_agreed_markdown, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.Rds")) 
+readr::write_tsv(ICBe_events_agreed_markdown, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.tsv")) 
+
+saveRDS(ICBe_crises_markdown, paste0(here::here(), "/replication_data/out/ICBe_V1.1_crises_markdown.Rds")) 
+readr::write_tsv(ICBe_crises_markdown, paste0(here::here(), "/replication_data/out/ICBe_V1.1_crises_markdown.tsv")) 
+
+```
+
+
+

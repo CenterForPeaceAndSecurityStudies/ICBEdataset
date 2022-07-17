@@ -1,0 +1,47 @@
+Albert ""Bud"" Wheelon played an important but often overlooked, behind-the-scenes role in helping to mitigate the crisis.
+AIP Emilio Segre Visual Archives, Physics Today Collection Wheelon was a whiz-kid physicist from California who finished his PhD from MIT in 1952 at the young age of 23.
+After graduating, he briefly took a job at the Douglas Aircraft Company before starting a nine year stint at a technology firm in Los Angeles called Ramo-Wooldridge which had just started collaborating with the Air Force to develop a workable ballistic missile.
+The company would ultimately produce designs that would become Atlas, Titan and Thor rockets, some of which are still used for spaceflight today.In 1957, the CIA came calling.
+Wheelon traveled to Washington to train CIA analysts at the National Photographic Interpretation Center how to look for missiles in spy plane photographs.
+Through the end of the 50s and into the 60s, he kept his day job at Ramo-Wooldridge helping to develop the Minuteman missile's guidance system while also helping the CIA analyze photos and decipher intercepted Soviet radar signals.
+In early 1962, Wheelon had worked his way up to being the director of TRW's radio physics lab when the CIA asked him to join their Office of Scientific Intelligence, full time.
+At the same time, trouble was brewing 90 miles off the coast of Florida.
+Cuba's new socialist government led by Fidel Castro worked out a deal with the Soviet Union to install nuclear missiles on the island pointed at the United States.
+When United States U-2 spy planes first spotted the launch sites on October 15, it set in motion a diplomatic showdown between the United States and the Soviet Union that could easily have ended in a nuclear war.A U-2 spy plane flys over California.
+The United States Air Force In the weeks leading up to the crisis, even before any U-2s photographed a single missile, Wheelon had already grown convinced that the Soviets were installing nuclear missiles in Cuba.
+He had read a number of intelligence reports from sources all over Cuba describing mysterious long, thin shipping containers driven through small rural towns in the dark of night.
+He raised the possibility with the intelligence committee he was chair of, the Guided Missile and Astronautics Intelligence Group, but no one else bought his argument.
+Ultimately just days before missiles were discovered in Cuba, the committee published a report saying it wouldn't happen.
+Wheelon found out later that the director of the CIA himself, John McCone, also thought the Soviets were putting missiles in Cuba before the U-2s found them, and was impressed with Wheelon's interpretation of the intelligence.
+Once the missiles were discovered, Wheelon's Guided Missile and Astronautics Intelligence Group took center stage at the CIA during the crisis.
+They teamed up with the National Photographic Interpretation Center, to supply the president with updated statuses of the missiles every morning.
+His years of working on missile designs and interpreting Soviet missile capabilities for the CIA had made him the ideal person to chair the committee.
+Every morning a new ""Joint Evaluation on the Soviet Missile Threat in Cuba"" made its way into the Oval Office with grim news about which missile were operational and what they could do.U-2 photographs of Cuba showing missile sites in 1962.
+The CIA After nearly two weeks of tense diplomatic action, the Soviets agreed to remove their missiles, ending the crisis.
+Not too long after, in June of 1963, the Deputy Director for Research resigned, and Wheelon was McCone's first pick to head the agency's fledgling science and technology division.
+At the time, the division was small, but over the next three years Wheelon expanded its reach and capabilities.
+The first thing that Wheelon had to deal with was an ongoing fight between the Defense Department and the CIA over who would be in charge of satellite reconnaissance.
+Since 1960, the CIA had been running its successful CORONA program, a spy satellite that would fly over the Soviet Union and photograph huge swaths of previously hidden territory.
+Secretary of Defense Robert McNamara had been trying to bring all satellite reconnaissance programs under control of the National Reconnaissance Office, which was essentially run by the Air Force.A diagram of the CORONA spy satellite.
+The NRO It was fight that had been going on since the NRO's inception in 1961, one that McCone had let fester for a long while.
+He had come under a lot of pressure to bring all CORNOA operations under the NRO and had started to turn over control.
+Wheelon thought it was important for the CIA to stay involved in the nation's spy satellite program and put his foot down.
+He convinced McCone that the country needed two agencies developing spy satellites in order to encourage competition against each other and strive to be the best.
+It's what the Atomic Energy Commission did in 1952 when it established Lawrence Livermore National Laboratory to compete with the struggling Los Alamos, an action that McCone had signed off on as head of the AEC at the time.
+McCone decided to fight the DoD and the NRO and keep the CIA in the satellite development game.
+The technological limits of the early 1960s made spy satellite systems slow and unwieldily.
+They still needed to take photos on physical film and return that exposed film back to Earth for processing and analysis.
+The technology had such a slow turnaround, there were no useful satellite photos from Cuba during the crisis.In order to see the photos snapped by CORONA, a plane would have to snag each photo bucket in mid air as it fell to Earth.
+The NRO By keeping the development of new satellite technology in the CIA, Wheelon was able to guide the direction of the technology.
+The image tubes that TV cameras of the day used were too fragile and low resolution to use in orbit, but he found a promising new technology in AT&T's Bell Labs.
+Charge-coupled devices, or CCDs showed immense potential as electronic image sensors, but at the time the technology was still in its infancy.
+To keep the research alive, Wheelon started directing agency funds to support the lab's work on CCDs.
+Wheelon left the CIA for the Hughes Aircraft Company in 1966, but his legacy continued as the CIA continued to support Bell Labs's CCD cameras.
+In 1976 the KH-11 KENNEN spy satellite was launched carrying the first electronic eye into orbit.
+It revolutionized the way we looked at Earth which revolutionized how we look at the rest of the universe.
+Which is where the Hubble Space Telescope comes in because it's almost certainly a modified version of the basic KH-11 design.
+Though no official photos of the KH-11 satellites have been released, it's widely believed to bear more than a passing resemblance to the Hubble, with a long tube and a big curved mirror at its base to focus incoming light onto a CCD camera.
+When NASA was first designing the space telescope, they had originally planned on a mirror three meters across, but opted instead for one that 2. meters across to take advantage of mirror building machines built for spy satellites.Polishing the Hubble Space Telescope's mirror.
+NASA In 2012, the NRO donated the optics assemblies of two unused spy satellite to NASA, thought to be the guts of old KH-11 satellites that never flew.
+Our science teacher claims that the pain comes from a small electrical shock, but we believe that this is due to the absorption of light.
+St0rmz via Flickr Over at Physics@Home there's an easy recipe for homemade ice cream.

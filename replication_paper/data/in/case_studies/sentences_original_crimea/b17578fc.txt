@@ -1,0 +1,618 @@
+The NPS Institutional Archive □Space Repository Theses and Dissertations 1.
+Calhoun DUDLEY KNOX LIBRARY Caflwuo is the Naval Postgraduate School's public access digital repository for research mate rials and institutiional publicatkios created by the NPS community.
+Calhoun is named for Professor of Mathematics Guy K Caftiouo, NPS's first appointed — and published — schoteily author.
+TITLE AND SUBTITLE ANALYZING THE RATIONALES BEHIND RUSSIA’S INTERVENTION IN UKRAINE _ 6.
+ABSTRACT This thesis examines the rationales behind Russian President Vladimir Putin’s decision to intervene in Ukraine through the lenses of neoclassical realism and prospect theory.
+The risk-acceptant decision to employ hybrid warfare in Crimea was fundamentally due to Putin’s loss aversion.
+Since Putin frames his political decision-making reference point in the realm of losses, his decision sought to prevent the imminent losses of Ukraine’s Russian-oriented government, Russia’s influence in Ukraine, and Putin’s own political power at home.
+It also sought to somewhat recover from the “catastrophic” loss of the Soviet Union’s territorial possessions, population, and status.
+Putin exploited Western leaders’ naivete and vulnerabilities to prepare a geopolitical landscape wherein Russia could act without incurring excessive costs.
+Emboldened by Russia’s large financial reserves and backed by Russia’s seemingly irrational threats of cutting off essential European gas supplies and launching nuclear attacks, Putin correctly anticipated a limited economic sanctions response and a negligible military response from the West.
+Putin’s decision furthered Russia’s interests by acquiring Crimea, the strategically indispensable port of Sevastopol, and vast Black Sea region resources.
+Such action also thwarted the expansion of Western institutions in Ukraine and incited fervent Russian ethno-nationalism, boosting Putin’s domestic approval ratings to an unprecedented level.
+Black Sea Eleet, oil and gas resources, Putin, Russian nationalism, domestic politics, color revolutions, Gazprom, gas wars, European gas dependence, nuclear messaging, foreign reserves, economic sanctions 17.
+SECURITY CLASSIEICATION OE CLASSIEICATION OE THIS CLASSIEICATION REPORT PAGE OE ABSTRACT Unclassified Unclassified Unclassified 12b.
+DISTRIBUTION / AVAILABILITY STATEMENT Approved for public release; distribution is unlimited 7.
+Chair, Department of National Seeurity Affairs THIS PAGE INTENTIONALLY LEET BLANK IV ABSTRACT This thesis examines the rationales behind Russian President Vladimir Putin’s decision to intervene in Ukraine through the lenses of neoclassical realism and prospect theory.
+Russia’s Preferred Man Elected and Russian Black Sea Fleet Lease Extended.
+Value of the Ruble and Putin’s Approval Rating During His Time in Power.
+Gas Price Disparities between Belarus, Ukraine, and the Rest of Europe.
+EU Member State Energy Security and Vulnerability to Russian Natural Gas.
+THIS PAGE INTENTIONALLY LEET BLANK LIST OF ACRONYMS AND ABBREVIATIONS ABM CEO EEU EU ESB KGB ENG NATO OSCE UN anti-ballistic missile chief executive officer Eurasian Economic Union European Union Federalni Sluzhba Bezaposnosti Komitet Gosudarstvennoi Bezaposnosti (Committee for State Security) liquefied natural gas North Atlantic Treaty Organization Organization for Security and Cooperation in Europe United Nations xiii THIS PAGE INTENTIONALLY LEET BLANK XIV ACKNOWLEDGMENTS The credit for the completion of the following work cannot be solely attributed to me.
+Without the invaluable contributions of many, this thesis would not have been possible.
+First and foremost, I gratefully acknowledge the abundant blessings and tender mercies of Him, the Creator who reigns supreme over all things.
+Additionally, I am appreciative of the United States Air Force, which has afforded me with several amazing opportunities that many dream of receiving but few actually do.
+The chance to study fulltime at a top-notch school while living in one of the most beautiful places on earth has truly been without parallel.
+Additionally, I express my gratitude to the distinguished faculty members of the Department of National Security Affairs at the Naval Postgraduate School for their dedication to and enthusiasm for student learning.
+Their invaluable instruction of security-related concepts and promotion of critical thought laid the foundation for this work.
+I am thankful for the excellent instructional contributions of the following; Dr.
+More particularly, I express my heartfelt gratitude and appreciation to Dr.
+David Yost, whose intriguing insight, exceptional attentiveness, invaluable feedback, and genuine personal concern were prolific during the advising of this thesis.
+The conveyance of his expert knowledge on NATO and Western European government and security was tremendously advantageous.
+Mikhail Tsypkin, whose grasp of tsarist, Soviet, and post-Soviet Russian history and politics, supplemented by accounts of his own Soviet experience, greatly enhanced my contextual understanding of issues relevant to this thesis.
+Zachary Shore’s inspirational instmction in strategic empathy was extremely beneficial on the academic level and unforgettable on the personal level.
+The insight of Colonel Peter Frank of the German Army concerning XV international relations internal and external to the European Union was very engaging and valuable.
+I would be quite negligent if I did not aeknowledge the efforts of those who mean the most to me—my family.
+First, I am thankful for my father, Timothy Thomas, for his lifelong guidanee, mentorship, and inspiring example of dedieation and hard work.
+Additionally, I fondly acknowledge the crucial efforts of my mother, the late Karen Thomas, who cultivated my love for learning from an early age.
+My five children—April, Landon, Brigham, Hyrum, and Halle—were quite patient with my many studies and little free time, and they made the effort of this thesis worth it.
+Finally, and most importantly, I extend my deepest and sincerest gratitude to my wife, Christina, for enabling me to complete this thesis.
+She has truly been tireless in her support, love, encouragement, understanding, and patience.
+Not only did she readily bear the load of caring for our five children and keeping our home in tip-top shape, but she also cheerfully bore our fifth child, Halle, during thesis crunch time.
+The exemplary sacrifice of her time and energy has been immense, and I am truly indebted to her.
+I am extremely fortunate and grateful for her willingness to pursue challenging but rewarding opportunities by my side.
+INTRODUCTION Russia’s 2014 military intervention in Ukraine and annexation of Crimea eonstituted a watershed in the post-Cold War European seeurity order.
+In 1994, Russia gave Ukraine seeurity assuranees in return for Ukraine’s transfer of its Soviet-made nuelear weapons to Russia, providing for Ukraine’s aeeession to the Treaty on the Non-Proliferation of Nuelear Weapons as a non-nuelear-weapon state.
+Russia eompletely disregarded these assuranees in its annexation of Crimea and eontinuing intervention in Ukraine.
+As a result of its aetions, Russia has faeed signifieant international eeonomie and diplomatie blowbaek.
+Understanding the Russian government’s motives and deeision making is important for United States, European Union , and NATO poliey makers as they deal with Moseow eoneerning the ongoing Ukraine erisis and potential further erises in the post-Soviet spaee.
+Central and Eastern European NATO member eountries are justifiably eoneerned about Russia’s aetions in Ukraine, partly beeause some of them host sizable ethnie Russian minority populations.
+The Allies have reeognized the threat posed by an aggressive and emboldened revisionist Russia.
+Additionally, it surveys the relevant international relations theory literature.
+The thesis foeuses on explanations for Russia’s decision to intervene at different levels of analysis but concentrates on the actor responsible for the decision.
+It also assesses the extent of the actor’s rationality—a major assumption of rational choice theory.
+Finally, it weighs the applicability of rational choice theory and an alternative psychological model known as prospect theory.
+UKRAINIAN EUROMAID AN AND RUSSIAN INTERVENTION Prior to the crisis, two economic and political centers of gravity, the EU and Russia, attempted to pull Ukraine from its precarious balancing perch into their own orbits.
+Trapped in the middle, Ukraine continued to rely on both for its foreign trade.
+In 2012, the EU and Russia received 25% and 26%, respectively, of Ukraine’s $68 billion exports and provided 31% and 32%, respectively, of Ukraine’s $84. billion imports.
+After Moscow employed heavy-handed economic pressure, Ukrainian president Viktor Yanukovych reversed a decision to sign an association agreement with the EU, effectively moving Ukraine closer to Russia and away from the EU and the West.
+His decision led several hundred pro-EU protesters to gather at downtown Kiev’s Maidan Nezalezhnosti, or Independence Square.
+Yanukovych was initially unconcerned about the demonstration, but when it failed to fizzle out, he employed repressive tactics by dispatching riot police to clear the square.
+Such action only fueled the fire of the opposition, causing it to grow rapidly.
+Additionally, Moscow employed elements of information warfare—including cyber attacks and propaganda—and economic coercion.
+On March 16, 2014, pro-Russian advocates in Crimea hastily organized a referendum for Crimea to secede from Ukraine and to join Russia.
+The referendum passed with a reported overwhelming Russianoriented majority.
+On March 18, 2014, 24 days after Yanukovych’s flight, Russia formalized Crimea’s annexation into the Russian Federation.
+Russia has also clandestinely supported separatists in the Donbas region of eastern Ukraine in their efforts to follow suit.
+Unlike their Crimean neighbors, however, they have not succeeded and the conflict in the Donbas continues to the present.
+For the classical realist, understanding human nature and the world of competing interests, or rivalries over power, is essential in attempting to answer such a question.
+Centuries earlier, Thucydides ^ Thucydides, “The Melian Dialogue,” in Conflict After the Cold War, ed.
+By fear we mean, not an unreasoning emotion, but a rational apprehension of future evil, and this is the prime motive of international politics.
+For all powers at all times are concerned primarily with their security, and most powers at most times find their security threatened.
+Neorealism and Neoclassical Realism Unlike classical realism, which seeks to explain international outcomes as a result of the “forces inherent in human nature,” neorealism seeks to explain the same outcomes by focusing on the anarchic structure of state relations and how states seek to survive in such a system.
+A major critique of neorealism is that it cannot predict the behavior of individual states because its main unit of analysis is the system itself.
+Offensive Realism and the Expansion of War Aims,” Security Studies 6, no. : 4, doi: 10.1080/09636419708429321.
+Defensive Realism Defensive realism holds that states seek survival and maximize their security by maintaining the status quo.
+The anarchic international system provides little incentive for states to expand except when such actions address specific threats that undermine the status quo.
+Robert Jervis describes how security dilemmas often develop when one state’s increase in security leads to a decrease in the security of others .21 Taliaferro explains that “pairs of states may pursue security-seeking strategies but inadvertently generate spirals of mutual hostility or conflict.
+Balance of Interests Theory A criticism of neorealism is that defensive and offensive realists alike have difficulty in explaining why some states tend to maintain the status quo while others tend to maximize relative power.
+Randall Schweller’s balance of interests theory attempts to do just that by bridging the theoretical divide between offensive and defensive realists and traversing the continuum between neorealism and neoclassical realism.
+The theory attributes revisionist and status quo interests to unit-level variables.
+Schweller explains that status quo states seek to maximize their security and preserve the resources they control; revisionist states, on the other hand, “seek to undermine the established order for the purpose of increasing their power and prestige in the system; that is, they seek to increase, not just to maintain, their resources.
+Tripolarity and Hitler’s Strategy of World Conquest , 24. 6 the types of behavior states exhibit based on their eapability and interests, whieh range from unlimited aims for revision to strongly supporting the status quo.
+Wolves, foxes, and jaekals represent states with varying degrees of revisionist aims while lions, owls, and hawks strongly support the status quo.
+States which feel humiliated, hampered, and oppressed by the status quo seek as naturally to modify it.
+They demand “security,” for they are content with the equilibrium which peace and security will perpetuate.
+Unsatiated states demand changes, rectifications of frontiers, a revision of treaties, a redistribution of territory and power.
+In so far as the fulfillment of these demands is resisted by status quo states, in so far as this resistance makes possible their realization only through coercion and conflict, such states appear to be “aggressive” and lacking in enthusiasm for peace.
+Contemporary Realist Arguments A survey of the contemporary neorealist thought pertaining to the Ukraine crisis provides answers to such questions.
+Defensive realist Stephen Walt argues that “major powers care a lot about security and are often ruthless in defending vital interests.
+As evidence of Washington’s agenda during the Euromaidan protests, he refers to the December 2013 incident when Victoria Nuland, the United States Assistant Secretary of State for European and Eurasian Affairs, handed out pastries to anti-government protesters in Kiev.
+The Euromaidan visit by United States Senators John McCain and Chris Murphy that same month, wherein McCain told an antigovernment crowd that he was there to support their “just cause” and that Ukraine’s “destiny lies with Europe,” provides further credence to the claim of Western interference.
+Putin himself emphasized that the Russian intervention was intended to increase Russia’s security.
+He said that the possibility of Ukraine joining NATO “meant that NATO’s navy would be right there in this city of Russia’s military glory, and this would create not an illusory but a perfectly real threat to the whole of southern Russia.”3i However illusory the conjured threat may have been before, it is practically inconceivable in the wake of Russia’s intervention.
+Like Walt, fellow neorealist—albeit of the offensive variety—John Mearsheimer argues that NATO enlargement, EU expansion, and the West’s support for the prodemocracy Euromaidan movement were critical elements for provoking Russian aggression against Ukraine.
+Obama Gambled that United States Power Would Trump Russia’s Interest in Ukraine.
+Understanding United States values and psychology are not his strong suits.
+Nor has understanding Russian history and psychology been a strong point of United States policymakers.
+Spheres of Interest Throughout its tsarist and Soviet history, Russia has been no stranger to spheres of influence.
+For most of the nineteenth century, the Russian empire engaged in a competition for influence known as the Great Game against its rival, the British Empire, in the Caucasus, Persia, and Central Asia.
+In the 1860s, the Russian empire expanded into Turkestan, encroaching upon the British Empire’s crown jewel colony of India.
+Palmer, Joel Colton, and Lloyd Kramer, A History of the Modern World, 9th ed.
+As Dmitri Trenin argues, Russia’s “eurrent ambition is to beeome a full-fledged world power, one of a handful of more or less equal key players in the twenty-first century global system.
+According to Trenin, the Russian concept includes specific economic, politico-military, and cultural domains within the states of its near neighborhood.^o b.
+Critiques of Realist Arguments Reeognizing Russia’s insistenee on maintaining its interests from both stmetural and state perspectives does not completely explain its expansionist motivation.
+Indeed, a key critique of realism is that it fails to address the inner workings of states.
+As Aaron Friedberg explains, “Stmetural considerations provide a useful point from which to begin the analysis of international politics rather than a place at which to end it.
+But the Ukraine crisis has revealed a different style of decision-making.
+Putin made impulsive decisions that subordinated Russia’s national interest to his own political motives.
+Simon and Schuster, 1996), 37. 11 more violent than that of Czechoslovakia but far less bloody than that of Yugoslavia.
+THE DECISION TO INTERVENE As the preceding arguments demonstrate, many scholars assume Putin to be the sole decision-maker for the Russian state, but some contend that such a view represents an inaccurate impression of how Russia is truly govemed.
+Throughout its history, Russia has often been led by authoritarian leaders who have exercised patrimonialism, wherein government positions are filled not according to the objective Weberian legal-rational bureaucratic criterion of what one knows but according to the subjective patrimonial criterion of who one kn ows.Much as it did in the tsarist and Soviet bureaucracies, patrimonialism has dominated the postSoviet Russian bureaucracy as Putin’s regime has become increasingly authoritarian.
+Petersburg in 1996 to appointment as Federal Security Service Director, Prime Minister, and then acting President by the resigning President Boris Yeltsin in 1999 illustrates the capacity of the Russian government’s patronage system to accommodate the rapid advancement of the wellconnected.
+Some compare the struggles for influence between the Kremlin’s factions to the “bulldog fight under the ^9 Huntington, “Clash of Civilizations,” 37.
+Derived from the word for Russia’s foree struetures, or silovye struktury, the siloviki include the intelligence, military, and security organs of the state.
+The term is somewhat misleading, however, as it can represent either the cohort of uniformed force structure officials or the clan of top officials in the Kremlin—the faetion that clearly wields the most influence within the president’s cirele.
+Petersburg and the intelligence apparatus, a significant number of his politieal appointees are acquaintances and contacts from his two backgrounds, including many of the siloviki.
+Their shared interests and policy preferences include establishing a highly eentralized state propped up by the force structures, developing a strong state that plays a decisive role in the eeonomy and nationalized strategic sectors, exploiting the wealth of the eountry’s natural resourees, and endorsing the nationalistie views of Russian Orthodoxy.
+Additionally, the siloviki seek to restore Russia’s international greatness by regaining the respeet that the Soviet Union previously commanded, reintegrating economically and politically with the other former Soviet states as mueh as possible, and guarding Russia against the perceived United States and NATO threat that allegedly seeks to undermine Russia’s sovereignty and foree its eollapse.
+Although the siloviki are intent on maintaining their influenee and proaetive in pursuing their collective interests, Russia’s lack of conventional power-projection capability limits the range of the Russian leadership’s foreign poliey and security options, leading security scholar Pavel Baev to suggest opportunism and pragmatism as key 53 Winston Churchill, quoted in Bremmer and Charap, “The Siloviki in Putin’s Russia,” 91.
+Rational Rationale A major assumption of realist thought is that state decision-makers act rationally.
+In other words, when presented with a number of alternative courses to pursue, actors seek to achieve the outcome that yields the greatest expected benefits according to their preferences.
+The literature concerning the rationality of Putin’s decision-making is varied.
+Walt observes that “in security studies, formal rational choice theory usually means the use of game theory.
+United States and Western leaders would love to know what Putin’s ‘endgame’ is.
+The term comes from chess, where the goal is to trap one’s opponent into checkmate after a long series of moves requiring strategic vision.
+A judoka walks into a room, sizes up the opponent, probes for their weaknesses, and tips the other off-balance in a flash—causing the opponent to fall from their own weight.
+The victor in a judo match doesn’t have to be bigger or stronger than the opponent, just quicker and shrewder.’^o Another competing argument is that Putin’s decision to intervene in Ukraine was neither an act of strategic calculation or pragmatic opportunism but one of dilemmatic desperation.
+Satisfieing is assoeiated with the eoneept of bounded rationality, whieh highlights the diffieulty of determining all possible deeision outeomes and their eorresponding probabilities, leading to the diffieulty of obtaining optimality.
+Russia, Crimea, and the Minimal Aetion SyiaceQ European Security 24, no. : 153, doi: 10.1080/09662839.2014.993974.
+If you compress the spring all the way to its limit, it will snap back hard.
+Avoiding losses—and loss of face—appeared to have been more important than making gains.The impetus to avoid losses rather than make gains resembles a psychological decision-making model that serves as an alternative to rational choice theory known as prospect theory.
+Prospect Theory Psychologists Daniel Kahneman and Amos Tversky developed prospect theory in 1979 to account for deviations in empirical research wherein 60% of subjects did not behave according to the expected-utility theory’s assumptions and predictions of rationality.Prospect theory posits that individuals maintain reference points from which they evaluate gains and losses.
+An individual’s reference point usually reflects the status quo, but sometimes it can represent a non-status quo expectation.
+Ill l/j.67-9221.2004.00368.x/abstract ; Jack S Levy, “Loss Aversion, Framing Effects, and International Conflict,” 'm Handbook of War Studies 11, ed.
+Putin and his siloviki seemed more risk-acceptant as they faeed pereeived losses in terms of their geopolitieal and eeonomie interests in Ukraine as well as prospeetive losses in their domestie politieal support.
+Russians viewed Crimea from the referenee point that it still rightly belonged to Russia, as evideneed by Putin’s statement at the time of Russia’s annexation of Crimea that “in people’s hearts and minds, Crimea has always been an inseparable part of Russia.”^o Additionally, Putin and other Russian leaders often lament the loss of Russia’s prestige and status as a global superpower.
+POTENTIAL EXPLANATIONS AND HYPOTHESIS This thesis focuses on the Russian government’s decision to intervene in Ukraine.
+Using contemporary and historical journal articles, speeches, interviews, and books, the research examines the anticipated and actual benefits and costs through the lenses of neoclassical realism, rational choice theory, and prospect theory.
+Based on the literature review, the main potential explanation is that Russian motivations consisted of a combination of gaining economic and strategic advantages, fulfilling national identity goals, and preventing the loss of the regime’s hold on power.
+Economic and strategic advantages for Russia include protecting its post-Soviet sphere of interests in Ukraine, bolstering its Eurasian Economic Union while preventing the expansion of the European Union, diminishing the likelihood of NATO enlargement, acquiring oil and natural gas reserves in the Black Sea, and obtaining exclusive rights to the Black Sea Elect port of Sevastopol.
+The means of preventing the loss of the regime’s hold on power include advocating the Russian version of authoritarian “democracy,” providing a distraction from domestic discontent with the government’s failure to fulfill the social contract due to decreasing oil prices, and inciting fervent nationalism to bolster Taliaferro, “Power Polities,”187.
+Putin, “Address by President,” March 18, 2014. 18 public support and prevent a pro-demoeraey “eolor revolution” from enveloping Russia.
+Russia’s buildup of foreign eurreney reserves faeilitated Russian leaders’ projeetion that it eould withstand presumable repereussive eeonomic sanctions.
+Russian leaders also antieipated that the seemingly irrational threat of risking an eoonomieally destructive gas war with Europe would dampen the severity of sueh sanctions.
+They also reekoned that another seemingly irrational threat—Russia’s willingness to engage in nuelear war to protect its gains in Ukraine—would inhibit a Western military response.
+Pro-democracy movements in some former Soviet states culminated in the transfer of political power.
+With Georgia’s Rose Revolution in 2003, Ukraine’s Orange Revolution in 2004, and Kyrgyzstan’s Tulip Revolution in 2005, these movements came to be known as color revolutions.
+Sevastopol—the eity of Russian glory— Is . . . outside Russian territory.
+Concomitant with the loss of the idea of the Soviet Union was the loss of strategic possessions, including lands previously controlled by the tsarist Russian empire.
+Many Russian leaders have maintained that these lost possessions, including Crimea and its access to the Black Sea, rightfully belong to Russia.
+Putin demonstrated such thinking during his triumphant speech proclaiming Russia’s formal annexation of Crimea.
+As Putin sorrowfully recounted, “Unfortunately, what seemed impossible became a reality.
+Attempts to preserve the Soviet military by creating the Commonwealth of Independent States Armed Forces gave way to the newly independent former Soviet republics’ insistence on having their own independent militaries.Much as a failed marital union presents unique issues of determining child custody and dividing property, the failed Soviet political union presented issues of determining the custody of the strategic and tactical nuclear forces and facilities found in Belarus, Kazakhstan, Russia, and Ukraine and dividing the naval assets of the Black Sea Fleet.
+Unlike a divorce settlement in a court mediated by a judge, however, the former Soviet states had no mediating authority to mete out equitable divisions of assets in the anarchical international system.
+Instead, they relied on negotiation, mutual assurances, and good faith.
+In the new post-Soviet era, Ukraine found itself the possessor of the world’s third largest arsenal of nuclear arms, after Russia and the United States.
+The Friendship Treaty assuaged Ukrainian fears of Russia’s revanchist claims over Crimea by stipulating that both states “shall build their mutual relations on the basis of the principles of mutual respect for their sovereign equality, territorial integrity, inviolability of borders, peaceful resolution of disputes, non-use of force, including economic and other means of pressure.
+POST-SOVIET UKRAINE IN CONTEXT According to the Black Sea Fleet Accords, the two states would divide the fleet’s assets 50/50 but allow for Russia to buy back some of Ukraine’s apportionment, which eventually resulted in an 82/18 fleet asset ratio advantage for Russia.
+In the Ukrainian view, the lease would allow Russia time to build up its own naval port facilities on the Black Sea at Novorossiysk and eventually remove its naval assets completely out of Ukraine’s territory.
+Yushchenko, who was from the western and predominantly Ukrainian-speaking part of the country, offered liberal ideas of European integration among other political and economic reforms.
+Yanukovych, in contrast, was from the eastern and predominantly Russian-speaking part of the country, which favored closer ties with Russia.
+Although many in both the West and Russia tend to overestimate the significance that international politics had on Ukraine’s 2004 election, most Ukrainians voted based on their preferences for domestic policy issues rather than foreign policy.
+Russia, for its part, threw its support behind Yanukovych and sought to achieve his election by applying the same strategies that had worked in achieving desired electoral outcomes in Russia.
+Moscow thus provided the Yanukovych campaign with political advisers, funding, and Russian media support that conveyed a pro-Yanukovych message.
+Imagine that an imperial-minded president resolved to intervene aggressively in a strategic country with a fragile democracy to ensure the election of a favored client.
+Viktor Yanukovych, prime minister and presidential candidate in Ukraine, has humbly welcomed all this and more from Russian president Vladimir Putin—and Western governments have responded with a studied silence.
+Exit polls from the second round revealed an eight percent lead for Yushchenko, but preliminary results released by the Central Election Commission indicated a Yanukovych victory.
+The official results of the second round of voting, as reported by the Central Election Commission on November 24, 2004, listed Yanukovych and Yushchenko as receiving 49.46% and 46.61% of the vote, respectively.
+It was absurd and a moekery of the constitution.”i06 At the time, many Ukrainians did not regard the inauguration of Yushehenko’s presideney in the wake of the Orange Revolution as absurd, but as a new dawn for their country.
+Yushchenko even went so far as to threaten that the Russian ships might not be allowed to return to their Sevastopol port, although such a statement was a hollow threat given Ukraine’s military weakness and international treaty obligations.Yushchenko’s posturing may have appealed to the Ukrainian nationalists in western Ukraine, but it also galvanized his opposition in the predominantly ethnic Russian and Russian-speaking regions.
+His time in office was racked from the onset by economic crises and gas disputes with Russia, wherein Moscow frequently raised prices and cut off supplies to penalize the West-leaning government.
+He also had a political falling-out with his prime minister, Yulia Timoshenko, who played a role in the Orange Revolution.
+She later tempered her anti-Russian rhetoric and adopted a more Russian-friendly approach, forging a pragmatic relationship with Cooley and Dubovyk, “Will Sevastopol Survive?, 6.
+Russia’s Preferred Man Elected and Russian Black Sea Fleet Lease Extended Yanukovych went on to win the second round on February 7, 2010.
+Instead of expiring in 2017, the renewed lease would provide Russia’s Black Sea Fleet with a home in Crimea until 2042.
+Journalist Luke Harding in April 2010 described the lease extension as “the most concrete sign yet that Ukraine is now back under Russia’s influence following Yanukovych’s victory in February’s presidential elections.
+GAINING UNFETTERED ACCESS TO SEVASTOPOL BLACK SEA FLEET PORT When Russia invaded and annexed Crimea in early 2014, the status of the Black Sea Fleet in Sevastopol for the next three decades was never really in jeopardy, tha nk s to Yanukovych’s lease extension.
+Nonetheless, the transfer of Ukrainian power from proRussian Yanukovych to a then unknown but certain-to-be pro-Western type of government represented a stinging loss for Putin, who had personally gone to great lengths to install and maintain a Ukrainian leader compliant with Russian interests.
+In such a context, Putin perceived the end of Yanukovych’s pro-Russian regime in Kiev in zero-sum terms, and his overvaluing of this loss contributed to the risk-acceptant decision to intervene in Crimea.
+Russia’s annexation of Crimea secured several significant strategic military benefits for Russia.
+First and foremost, it put the uncertainty about the future status of Russia’s Black Sea Fleet in Sevastopol to rest, indefinitely.
+The action also relieved Russia of the obligation of having to pay rent, either in monetary or gas-discount form, to Ukraine for the use of the base for the length of the lease—a savings of over $39 billion to say nothing of rent beyond the term of the lease.
+Before annexation, the type and number of Russian ships in Sevastopol were subject to Ukrainian consent, thus hampering Russia’s plans to moderni z e its Black Sea Fleet.
+Subject to such limitations, Russia planned to upgrade the port infrastructure at its other major Black Sea Fleet naval base in Novorossiysk, which included adding 15 piers to accommodate 30 ships at a cost of $1 billion.
+Unlike the port in Sevastopol, the naval port in Novorossiysk’s Tsemes Bay is prone to 70 to 90 mile-per-hour bora, or northeasterly, winds that occur 30 to 40 days a year, mostly during the cold season from September to March.
+During encounters with the bora winds, which are capable of inflicting catastrophic damage to ships and buildings, ships are forced to sail away from the harbor to prevent damage and avoid accidents.
+Such inhospitable natural conditions necessitated complex and costly Russian engineering plans to construct hightech barriers as part of building up Novorossiysk’s naval infrastructure.
+By annexing Crimea, Russia became free to not only upgrade its aging Sevastopol fleet with newer ships but also to add ships in accordance with its Black Sea Fleet modernization plans, thereby reducing the necessity of following through with its costly plans to build up the naval base in Novorossiysk.
+Offensive realists might keenly point out that Russia, by annexing Crimea, obtained freedom of action in the peninsula.
+Subsequently, the Russian navy, as it modernizes and adds to its fleet based in Sevastopol, can freely increase its power projection capability beyond the Black Sea into the Mediterranean Sea and the Indian Ocean.
+By acquiring a third front in the south, in addition to its northeastern and southeastern fronts, Russia poses a greater threat to Ukraine with future conventional seapower, airpower, landpower, and hybrid warfare. i ^9 Defensive realists might note that Russia’s newfound freedom of action in Crimea allows for the deployment of nuclear arms to the peninsula and for the enhancement of its air defense capabilities.Russia’s annexation of Crimea also precludes the possibility of NATO sailors in Sevastopol.
+Such a visit now by a United States ship to Sevastopol truly is unimaginable in the wake of Russia’s invasion and annexation of Crimea.
+ACQUIRING BLACK SEA OIL AND GAS ASSETS The incorporation of Sevastopol and the Crimean peninsula into the Russian Federation has garnered much attention in the aftermath of the Russian intervention.
+Much less attention has been given to one of the major economic inducements bene fitting Russia—a major portion of the Black Sea itself and its trove of undeveloped natural resources.
+Of the approximately 36,000 square miles of Crimean territorial waters in the Black Sea acquired by Russia , the Ukrainian government estimates there are 2. million tons of oil reserves worth $300 billion buried beneath the seabed, whereas other estimates put the potential value in the trillions.
+John Biersack and Shannon O’Lear, “The Geopolitics of Russia’s Annexation of Crimea: Narratives, Identity, Silences, and Energy,” Eurasian Geography and Economics 55, no. : 258. doi:10.1080/15387216.2014.991340.
+Eurasian security studies expert Carol Saivetz emphasizes the significance of Russia’s Crimean annexation, stating that it “deprives Ukraine the possibility of developing these resources and gives them to Russia” and “makes Ukraine more vulnerable to Russian pressure.Instead of the Black Sea energy resources being a game-changer for Ukraine, Russia’s seizure of them severely tightened the vice on Ukraine’s dependence on energy imported from Russia and augmented Russia’s own economic interests.
+Much as Thucydides described the relations between the strong and the weak, in terms of energy security, Russia certainly did what it could while Ukraine suffered what it must in the zero-sum but high-stakes game for state economic lifeblood—oil and gas.
+MINIMIZING THE PROSPECT OF UKRAINE JOINING NATO Beyond the strategic military and economic benefits gained by Putin’s decision to “return Crimea,” the action also furthered Moscow’s interest in reducing any prospect of NATO membership extension to Ukraine.
+See Thueydides, “The Melian Dialogue,” in Conflict After the Cold War, ed.
+Several allies were reluetant to take on and provide collective defense for a prospective member state with significant unresolved security issues.
+Russia’s freezing of the South Ossetian and Abkhazian conflicts in Georgia has perpetuated the security uncertainty and state of political limbo not just for those regions, but for Georgia as a whole.
+On June 5, 2014 American scholar and former diplomat Steven Pifer told the United States Senate Foreign Relations Committee that “not pursuing a deeper relationship with NATO now seems an appropriate policy for Ukraine; deepening relations with NATO would antagonize Moscow, and there is no appetite in the Alliance to accept Ukraine as a member or offer a membership action plan.”i42 Unlike its freezing of conflicts in Abkhazia and South Ossetia, however, Russia does not seem intent on freezing the conflict in eastern Ukraine.
+While the situation in the Donbas is still unfolding, it seems that the Russian objectives in the area have changed since the onset of the confiiet.
+Russia’s initial covert support for the Russian separatists in eastern Ukraine, mainly in the Donetsk and Luhansk regions, aimed to establish a widespread movement against Kiev’s new trajeetory toward the West.
+Although much in the world has changed since the final scene of the grand 74year Soviet experiment in 1991, several things within the minds of the Russian leadership elite have not.
+Among these is their reference point consensus that Crimea, Sevastopol, and a major portion of the Black Sea and its resources rightfully belong to Russia.
+This reference point, frozen in place as it has been since the end of the Cold War, also holds that Ukraine is an extension of Russia proper, to be influenced and controlled by Russia’s leaders.
+In their view, Ukraine can never be allowed to be party to a military alliance or other organization perceived as hostile to Russian interests.
+United States AND RUSSIAN RELATIONS The coming years will be decisive ... for the entire world as it enters a period of transition and possibly even shocks, —Vladimir Putin When “little green men” invaded Crimea in February 2014 and took over its key government and military facilities, the action shocked many in the West.
+The leaders of EU and NATO member states, including United States president Barack Obama, until then had wholeheartedly subscribed to the notion of an enduring peace and security order in Europe.
+With the end of the Cold War, they viewed Europe as finally free from the incessant power politics and wars that had ravaged the continent for centuries.
+Many in Europe saw the end of the Cold War as the ushering in of a widespread peace and prosperity rooted in democratic-, rule-of-law-, and market economy-based liberal values.
+Shocking to this liberal mindset were Russia’s brazen annexation of a sovereign European state’s territory and the rearranging of borders in Europe on March 18, 2014.
+Eed by President Vladimir Putin, Russia was partly motivated to invade Crimea by a desire to assert itself as an independent actor on the world stage while securing its national interests.
+The Russians asserted that they were acting much like the United States had done around the world.
+This chapter explores, to begin with, the political context of Obama’s and Putin’s understanding of each other from their first meeting in the wake of the 2008 Russo-Georgian war.
+Finally, this chapter discusses how this context contributed to Putin’s decision to intervene in Ukraine and annex Crimea.
+Russia’s actions also revealed the extent to which Obama had misunderstood Putin.
+A mere 17 months earlier, Obama found himself as the presidential incumbent competing for reelection against the Republican nominee, former Massachusetts Governor Mitt Romney.
+In the midst of the campaigning, on March 26, 2012, Obama met with Russian president Dmitri Medvedev at a conference in South Korea.
+I’m not going to wear rose-colored glasses when it comes to Russia, or Mr Putin.”i54 1.
+Three days later, Obama made a statement calling on Russia to cease its aggression and for the United States “to continue to push for a United Nations Security Council Resolution calling for an immediate end to the violence,” disregarding Russia’s status as a permanent member of the council with veto power.
+At the time of Russia’s invasion of Georgia in August 2008, Dmitry Medvedev was the president of Russia, having entered ofliee only a few months earlier in May.
+Putin, who had already served two presidential terms, was forbidden by the Russian constitution from serving an additional consecutive term and was instead serving as Russia’s prime minister.
+This political arrangement came to be known as the tandem of Russian power sharing, although many—ineluding Obama—eorrectly aeeredited the real mantle of power and authority of action to Prime Minister Putin.
+In April 2009, Obama met with Medvedev in London, and in July he met with Putin for the first time while in Moscow.
+Pressing the Overburden Button If anything, the “reset” in relations got off to a shaky start.
+In March 2009, Obama had dispatched his seeretary of state, Hillary Clinton, to literally press the reset button on relations with Russia.
+The red button—instead of being labelled perezagruzka, the Russian word for reset—had the Russian word peregruzka, which means overcharge, overload, or overburden.
+Never one to be outdone, Putin responded to Obama’s criticism; “We are standing firmly on both feet and always look to the future.
+Matters regarding Syria, Iran, ballistie missile defense, nuelear arms treaties, and Edward Snowden would impede Obama’s hoped-for reset, and the Ukraine crisis would culminate its failure, 3.
+First Meetings, Impressions, and Assessments With baek and forth statements between the relatively inexperieneed Ameriean president and the seasoned Russian prime minister the week before their first encounter, the political atmosphere was quite eharged when Obama later met with Putin for a twohour breakfast.
+At the start of the meeting, Putin expressed hope for positive relations after reealling the history between the two states with its “very many different oceasions and events of different, shall we say, eolor.
+There were periods when our relations flourished quite a bit and there were periods of, shall we say, grayish mood between our two countries and of stagnation.”i65 Both leaders used the opportunity to explain their views and assess the other in person.
+After the meeting, Obama offered his appraisement of Putin; “I found him to be tough, smart, shrewd, very unsentimental, very pragmatie.
+In June 2001, President George W Bush first met Putin in Slovenia during discussions on the Anti-Ballistie Missile Treaty.
+In prospect theory, domain describes the realm in which decisions are made and whether that realm is perceived by an actor as characterized by gains or losses, Ever since coming to power in December 1999, Putin has perceived his domain as a realm of losses—Russia’s loss of empire, prestige, lands, power, possessions, status, identity, and even citizens.
+Vice President Biden highlighted Russia’s difficulty in dealing with the loss of its empire, its shrinking population, and its withering economy.
+I found him to be very straightforward and trustworthy and we had a very good dialogue.
+A False Image Although many points of his assessment of Russia’s eonditions were aecurate, Biden’s—and by extension, Obama’s—overarehing eonclusion that Moseow would be more inelined to eooperate with Washington beeause the Russians pereeived the interests of both as eonverging, or, in other words, that the reset would work, proved to be way off the mark.
+Until “little green men”—Russian military personnel without insignia— appeared in Crimea, Obama and his administration had been caught in the cognitive trap of mirror imaging, or as Zachary Shore describes, assuming “consciously or unconsciously, that the other side will think and act like us.
+As Shore suggests, “It takes a good deal of empathy to break the mirror of mirror imaging and sense what others are thinking and feeling.
+And it takes an imaginative leap to envision how a stranger’s circumstances might affect his actions.jt takes an inordinate amount of empathy and a colossal imaginative leap for an American politician to understand the thinking of a former KGB operative like Putin.
+THE IMPACT OF PUTIN’S BACKGROUND Much like Cheney, the Brookings Institution’s Fiona Hill and Clifford Gaddy view Putin’s background working for the KGB as pivotal in guiding his decisions and actions as the leader of Russia.
+Operative in the Kremlin, however, they go further in ascribing Putin’s modus operandi to the sum of his distinct life experiences.
+He trained for the KGB and served as a KGB operative in Dresden, East Germany, while secluded from the wholesale societal changes of Gorbachev’s reforms.
+Finally, he went to Moscow in 1996 at the beginning of his meteoric rise that would make him Russia’s acting president on the last day of 1999.
+The identities that he formed from each experience shaped Putin into the actor he is today.
+Operative in the Kremlin, (Washington, D.C.: The Brookings Institution, 2013), 14.
+Of the six, Putin’s identity as a case officer, or an operative, is perhaps the most important in understanding Putin the President.
+Conversations with Vladimir Putin, which was based largely on personal interviews with Putin and his close associates, sought to provide the Russian public with a sense of who their new president was.
+In one of the book’s interviews, Sergei Roldugin, a close and long-time friend of Putin, offered some intriguing insight into how Putin sees himself Roldugin recounted how Putin had years earlier told him that he worked for the KGB but did not give any details about what he did.
+Hill and Gaddy describe the Russian phrase that Putin used— spetsialist po obshcheniyu s lyu’dmi, which means a specialist in communicating or working with people—as an essential skill for a KGB operative.
+For the case officer, this is also a necessary step in recruiting and running an individual agent.
+It means studying the minds of the targets, finding their vulnerabilities, and figuring out how to use them.
+In contrast with Obama’s openness in sharing his assessment of Putin, Putin has refrained from providing details about how he views Obama.
+As Putin indicated during a press conference after the appearance of uniformed but unidentified troops in Crimea, he understands the importance of reticence and disguising one’s thoughts when occasion requires.
+In so doing, he posed his own question to the reporter, whose response prompted a glimpse into Putin’s often-concealed inner thinking.
+He allowed—even aetively eneouraged—people to underestimate him as he maneuvered himself into influential positions and quietly accumulated power.”i*^ As the Russian leader, Putin operates in the same fashion with other state leaders.
+A RED LINE IN SYRIA The turbulent Syrian political landscape in the midst of the Arab spring and Obama’s reactions to it granted Putin an opportunity to capitalize on Obama’s perceived weakness to score political points as an international arbiter.
+After Syria’s president, Bashar al-Assad, responded to anti-government protests with draconian measures in April 2011, the United States and many other Western nations condemned Assad’s regime.
+In the following months, Washington and the EU applied several rounds of sanctions.
+Similar efforts at the United Nations were not unanimous, however, as Russia and China both vetoed a United Nations Security Council resolution that would have imposed sanctions on Syria.
+In August 2011 Obama called for Assad’s resignation, and in February 2012, due to the deterioration of stability within the country, Washington withdrew its ambassador to Syria and closed its embassy in Damascus.
+A debate developed among Obama’s national security team concerning how to further respond to the situation.
+Earlier in 2011, the United States and some NATO allies and partners used military force to remove another Middle Eastern dictator, Muammar alQaddafi, in Libya.
+They did so by supporting Libyan rebels with an extended aerial bombardment campaign against Qaddafi’s forces.
+Leon Panetta and Jim Newton, Worthy Fights , 448. 50 include providing training for moderate Syrian rebels.
+One of the faetors that partieularly concerned Obama was the eache of chemical weapons in Syria.
+That would change my calculations significantly.Obama thus drew a red line for Assad.
+One year and one day after Obama’s warning against Assad’s use of chemical weapons, Assad’s regime used chemical weapons against its own people.
+For his ostensible display of weakness, Obama took a lot of criticism not only from his political opponents but also from within his own administration.
+When the president as commander in ehief draws a red line, it is eritieal that he aet if the line is crossed.
+The power of the United States rests on its word, and clear signals are important both to deter adventurism and to reassure allies that we ean be eounted on.
+Assad’s aetion elearly defied President Obama’s warning; by failing to respond, it sent the wrong message to the world.
+A receptive Putin understood that under Obama’s leadership, the United States would not always act to deter or punish adventurism.
+Putin’s role as a staunch patron of Assad developed from the special relationship between Moscow and Damascus that dates back decades to the Cold War era.
+In addition to maintaining a naval base at Tartus in Syria and serving as the Syrian government’s top arms supplier, Russia had propped up Assad’s regime since the beginning of Syria’s civil war—one of several obstacles that stood in the way of a true reset in relations between Russia and the United States.
+In this context, Putin’s political rescue of Obama, wherein he offered a plan to transfer possession of Syria’s chemical weapons to the international community, came as a surprise.
+Guardian journalist Simon Tisdall described how “the White House, not Assad, was disarmed—it simply did not see it coming,” and yet Obama seemed to accept Putin’s plan “with almost embarrassing eagerness.Throughout his post-KGB career, Putin did many favors, both big and small, for acquaintances and even strangers.
+DO AS I SAY, NOT AS I DO In the ultimate game of international one-upmanship, Putin bested his Ameriean eounterpart with regard to Obama’s red line on Syria’s use of ehemieal weapons by preventing the use of force and opting instead for a peaceful means of resolution.
+For his efforts, Putin was later nominated for the Nobel Peace prize—the same prize that Obama won in 2009 after assuming the presidency.
+Barack Obama has the title of Nobel Prize winner—the man who initiated and approved such aggressive actions on the part of the United States of America as in Iraq, Afghanistan, some others, and now is preparing for invasion of Syria.
+I think our president, who is trying to stop the bloodshed, who is trying to help resolve this conflict situation through a political dialogue, through diplomatic language, deserves this title more.
+Although Putin has not won the prize to date, the view Kobzon expressed touched on a larger theme of perceived American hypocrisy and arrogance that evokes passion from many Russians, including Putin himself.
+The Russian president has often asserted that the American exceptionalism that has prompted United States interventions in sovereign states has resulted in a destabilized world.
+The March 18, 2014, Crimean annexation speech afforded Putin yet another opportunity to denounce what he perceives as American hypocrisy.
+He speeifieally referred to the nonUnited Nations sanetioned NATO bombing of Serbia in 1999 and the overstep of the 2011 United Nations Seeurity Couneil resolution that approved proteetion of eivilians in Libya but was subsequently expanded without authorization to inelude bombings that supported regime ehange .202 Putin assuredly regretted Russia’s abstention from the Seeurity Couneil vote on the resolution that authorized the NATO-led intervention in Libya.
+ARROGANCE AND HUMILIATION Aside from the pereeived Ameriean exeeptionalism and hypoerisy, Putin resents Ameriean arroganee and has aeeused Washington of trying to keep Russia down by not respeeting its sovereignty and interests.
+As mueh of his thinking is earned over from that of Soviet leaders during the Cold War, eomments made by former Soviet president Mikhail Gorbaehev provide understanding of Putin’s viewpoint.
+In August and September 1995, NATO allies bombed Bosnian Serb targets as part of Operation Deliberate Foree.
+NATO allies informed Russian president Boris Yeltsin about their intentions only after the deeision to eonduet the bombings had already been made and the first bombings were imminent. in September 1995, former Soviet president Gorbaehev eommented in an interview that Russia’s weakness following the eollapse of the Soviet Union had been exploited by the West.
+Almost twenty years later, Putin echoed Gorbachev’s sentiments during his Crimean annexation speech; They are constantly trying to sweep us into a corner because we have an independent position, because we maintain it and because we call things like they are and do not engage in hypocrisy.
+And with Ukraine, our western partners have crossed the line, playing the bear and acting irresponsibly and unprofessionally.
+Putin framed the issue in Ukraine as one where an untrammeled Russia was acting to secure its national interests, much like the United States had acted on multiple occasions in the years leading up to the Russian invasion of Crimea.
+Attempts by the United States to condemn Russian actions were promptly met with accusations of hypocrisy.
+Putin’s risk-acceptant decision to “start work on returning Crimea to Russia” may have been due in great part to opportunism, but his view of Western leaders, Obama in particular, and their perception of him must have figured into his calculations.^o^ The hybrid means of Russia’s military action flew beneath the radar of the United States’ and NATO’s set reaction patterns.
+Putin’s assessment on how far Russia could go without triggering a major United States and Western military response was correct—the invasion of Crimea did not turn the post-Soviet “cold peace,” as described by Boris Yeltsin, into a hot war.
+DIFFICULT QUESTIONS In the time since Crimea’s formal annexation, hard questions for both state leaders have remained.
+For President Obama, the difficult question, as Angela Stent points out, is “how far the United States should allow its policies to be shaped by an acknowledgement of Russia’s post-Soviet preoccupations and continuing suspicion of American intentions.”2io Stent reprises the words of German General Klaus Naumann, asking if the United States suffers from ‘“empathy deficit disorder’ when it comes to dealing with Russia.”2ii Obama’s vice president, Joe Biden, provided initial promise in answering this question by offering some enlightened wisdom in his 2009 interview.
+It just is not smart.”2i2 According to Putin, however, putting Russia in a comer with regard to Ukraine was exactly what the United States did when it interfered in Kiev’s internal politics.i3 Obama’s statements and actions—including his first meetings and assessments of Putin, the attempted reset in relations, the red line in Syria, and being caught unaware in the Ukraine crisis—^provide a strong case that Washington does lack empathy when dealing with Russia.
+BOOSTING DOMESTIC SUPPORT AND FORGING A NATIONAL IDENTITY Ukraine is my Homeland.
+Pushkin, not Putin. —Faeebook post of an ethnie Russian in Ukraine Stretehed aeross the Kievan sky on a bluff that overlooks the Dniepr River, a glistening titanium arch frames a massive bronze statue of two Soviet workers beneath its span.
+The two nations share many historical and cultural ties to their ancestral state of Kievan Rus.
+The monument stands as an anachronistic relic of a bygone era, however.
+Time, with the assistance of Vladimir Putin, has withered the former Soviet friendship to its present post-Soviet adversarial relationship.
+At the root of such a deterioration in relations lies the complex and ever-present issue of both Ukrainian and Russian national identity.
+For many who comprise the older Russian generations, the collapse of the Soviet Union was a traumatic life event.
+The Soviet Union, the world military and technological superpower that boasted the grand achievements of defeating Nazi Germany in the Great Patriotic War and reaching the cosmos first, disintegrated into oblivion.
+The entire Soviet system of principles and norms—the only system people had known their entire lives— vanished in an instant.
+Along with the loss of their Soviet identity disappeared their stateplanned economy and communist government.
+Chaos reigned during the years following the USSR’s collapse as the new Russian state’s leadership struggled to fill the immense void.
+Before its demise, the Soviet Union was a highly industrialized state, and many of its productive sectors were localized among its fifteen republics.
+Private property, market priees, and ha nk s in the Western sense were all novel eoneepts to the former Soviet eitizenry.
+At the time of Russia’s eeonomie transition, Russia’s fledgling government struggled to establish its footing, battling its own weaknesses and seeking to enaet demoeratic reforms while fending off resurgent communist attempts to return to power.
+In the ensuing turmoil, people witnessed unrestrained fluetuations of eurreney value and saw their entire life savings obliterated by hyperinflation.
+Lawlessness prevailed as rampant violence, aleoholism, drug abuse, theft, and eorruption cast their dark shadows over society.
+Pensioners reeeived no pension payments, and wage earners reeeived no wages.
+For most Russians, the deeade following the eollapse of the Soviet Union, whieh saw a 40% deeline in the eountry’s eeonomy and a eomplete finaneial eollapse in 1998, was an emotional, distressful period never to be forgotten.
+With the dawn of the millennium eame a new Russian leader who promised to strengthen the state and forge a new Russian identity while preventing a slide baek to the turbulent times of the 1990s.
+In the process, he would take measures to accumulate great power at the expense of those who eleeted him through ostensibly demoeratic means.
+The extent of the power and control he aequired was so vast that he would go to great lengths to preserve it.
+As Vladimir Putin’s domestie support waned due to inereasing levels of politieal diseontent and opposition, he opportunistieally used the politieal uneertainty in Ukraine following the eollapse of Viktor Yanukovyeh’s government to shore up his popularity.
+This ehapter explains how, by eommitting the Russian military to its hybrid intervention in Ukraine, Putin’s decision boosted his domestie support while simultaneously reinforcing the concept of a Russian ethnie identity.
+It reviews the baekground behind Putin’s social contract of providing stability in exchange for political indifference, and elarifies how Putin reinforeed Russia’s hybrid demoeraey by eonsolidating executive power in the Russian government, media, and eeonomy.
+A STRONG LEADER AND STABILITY Many Russians consider Putin a strong leader who saved Russia from the chaos of the 1990s and brought stability—a point he himself often stresses.
+In his first address to the Federal Assembly in 2000, Putin declared, “Decades of difficult and unstable life are a long enough time to demand real changes for the better. ... 1 am certain that we have enough sense and will.
+Russia will have success and prosperity.”2i7 Vowing to never again allow such chaos to return, Putin pledged to stabilize and improve living standards through a stronger economy.
+Less than a year later, Putin aheady began claiming credit for the return to order; “The Russian economy experienced growth rates unseen in almost 30 years in 2000 . . . and people are finally being paid their wages and pensions on time for the first time in years.
+Some argue that based on rising commodity prices, Russia would have still seen rapid economic progress no matter who the leader of Russia was at the time .220 Putin would never admit this assessment, however, as doing so would undermine his main claim to why he should continue leading Russia—his continuing fulfillment of an unspoken social contract with the Russian people.
+Social Contract and Hybrid Democracy As part of his social contract, Putin promised stability, predictability, and increased standards of living in return for Russian citizens’ continued apathy towards and non-participation in politics .221 Russian history and culture explain much as to why Russians have agreed to such a contract for stability, which, in turn, has prevented the full-fledged establishment of liberal democracy in Russia.
+As Yale Richmond observes, Russians are “likely to be defenders of the status quo.
+Their cruel climate, harsh history, and skeptical outlook on life have caused Russians to value stability, security, social order, and predictability, and to avoid risk.
+The tried and tested is preferred over the new and unknown, and with good reason.”222 xhis concept, aided by Russia’s tumultuous tsarist and communist history, has habituated the Russian people to authoritarian rule.
+Richmond concludes that “the result has been a usually submissive citizenry, accustomed to—indeed expecting—direction from above, being told what to do and what to think.
+Forms of government and the habits of governments tend over the long run to reflect the understandings and expectations of their peoples.
+The Russian people, like a number of other peoples of the Soviet Union, have never known democracy as we understand it.
+They have experienced next to nothing of the centuries-long development of the discipline of selfgovernment out of which our own political culture has evolved.
+Understanding the Russians (Yamiouth, ME: Intercultural Press, 1992), 39.
+Maintaining a hybrid regime that portrays a democracy is useful to Russia’s leadership.
+The pseudo-democratic system allows the ruling elite to pursue the regime’s interests while professing to serve society’s interests .228 while many attribute the rise of the Russian hybrid regime to President Vladimir Putin, its foundations were actually laid by Russia’s first democratically elected president, Boris Yeltsin.
+The first major event resulted in the somewhat weak presidential powers being greatly expanded.
+Having struggled for power with the Russian parliament since assuming the presidency, Yeltsin dissolved the parliament on September 21, 1993.
+Following an intense 10-day standoff and eonfrontation, Yeltsin emerged vietorious on October 4, 1993.
+In the months following the crisis, the Russian Constituent Assembly passed a new eonstitution, thereby creating a new legislature with two houses, the Federation Council and the State Duma.
+Additionally, it dissolved the regional legislatures and dramatically shifted political power to the exeeutive braneh.
+After the vote to pass the constitution, Yeltsin eommented, “Russia needs strong power.
+The second major event was the 1996 presidential election, which served as a people’s referendum that pitted support for Yeltsin’s reform policies against the desire to move back towards communism.
+Faced with such a monumental people’s decision, Yeltsin turned to the oligarchs and their television channels to flood the airwaves with pro-Yeltsin messages.
+Undemocratic Succession Yeltsin used the guise of democracy to transfer power to his chosen successor, Vladimir Putin.
+Petersburg mayor Anatoly Sobchak and hoping to be afforded the same after leaving office, Yeltsin completed Putin’s meteoric rise from obscurity to preeminence.
+First appointing him as head of the Federal Security Service and then as Prime Minister, Yeltsin resigned his presidency in 1999, causing Putin to become the acting president.
+On his first day in office, Putin pardoned Yeltsin for any infractions he may have committed and granted him immunity from any future prosecution.
+Consolidation of Executive Power Obtaining the presidency through elections that conveniently legitimized his office, Putin set to work molding the hybrid regime where Yeltsin left off To consolidate power at the executive level, he created seven federal administrative districts to “realize the constitutional authority of the President of the Russian Federation.
+Some Remarks on the Course of the Russian Transformation,” Social Sciences 34, no. : 25.
+Putin also instituted a party system wherein one party would dominate all others in elections and subjugate both the Federation Council and the State Duma.
+The Unity political party had been the key to almost every winning coalition in the Duma during Putin’s first few years in office.
+Putin’s parliamentary managers engineered Unity’s conglomeration with the Fatherland/All Russia party to establish the new dominant party, United Russia.
+Controlling the United Russia party enabled Putin to control the Duma, as party parliament members relied on the Kremlin to remain on the party list and maintain their seats.
+As for the Federation Council, in 2000, Putin succeeded in overhauling the process whereby Council members are chosen; instead of the regional chief executives and legislative officials filling the seats, the chief executives and the legislatures of the federal territories choose the Council members.
+Harnessing the Energy Champions Putin also moved to consolidate control over the large energy companies.
+He also seized the opportunity to rid himself of oligarchs and political foes who threatened the totality of his power.
+In November 2000, after being threatened with imprisonment, Boris Berezovsky sold his shares of his company, Sibneft, at a fraction of their worth to fellow oligarch Roman Abramovich and fled to England; Abramovich, in turn, sold the shares to the Russian state. in October 2003, state authorities arrested Mikhail Khodorkovsky, Russia’s richest man, for tax evasion and fraud and sentenced him to ten years in prison while his oil company, Yukos, was completely dismantled.
+State-owned Gazprom acquired Berezovsky’s Sibneft while state-owned Rosneft acquired Khodorkovsky’s Yukos assets.
+In addition to the energy giants, Putin also moved swiftly to claim the privatelyowned media assets through state-owned company takeovers.
+After much pressure, oligarch Vladimir Gusinsky sold his NTV television channel—the first privately-owned network—to Gazprom in 2001.
+Controlling the Media and the Legal System Although Russia’s three main television networks and multiple other forms of mass media are controlled by the state, a few independent media sources have been allowed to operate.
+Instead of snuffing them out, Putin’s regime has used them to lessen the perception that freedom of expression is restricted.
+Despite the important issues that the free and independent news outlets bring up, the benefits of independent journalism are marginalized by the lack of political competition and the bending of the judicial system towards the Kremlin.
+Additionally, the state’s manipulation of the media markets results in most of the population getting their information from the statecontrolled media.
+In 2008, 88% of Russian citizens reported watching the news on stateowned Channel 1, whereas only 22% watched news on independently owned RENTV.256 Consequently, most Russians are fed with Kremlin-sponsored propaganda that tells them how the state is actively providing stability, strong leadership, economic growth, and international prestige.
+Putin’s hybrid regime also uses the Russian legal system as an instrument to pursue its political will.
+Some describe the judicial process in Putin’s era as a dictatorship of law.
+In other words, Russia’s rulers today use the law to control society rather than use it as a mechanism for the state and society to mutually limit each other’s behavior.
+It also passed a 2005 Non-Govemmental Organization law that made NGO registration requirements vague, thereby creating an effective way to dispense with the NGOs disagreeable to the govemment.
+Laws on embezzlement, fraud, tax evasion, and money laundering are also convenient tools for the ruling elite to usurp the power and wealth of unfavorable oligarchs and political enemies.
+Mikhail Khodorkovsky is perhaps the best-known example of Putin’s use of the legal system to rule by law rather than adhere to the rule of law.
+Crony Capitalism and Corruption Of all Putin’s reforms since assuming the presidency, his overarching success has been the centralization of executive power.
+The Russian mass media has portrayed Putin as a strong leader responsible for the stability of society and has attributed much of Russia’s success to his personality.
+His power structure at the highest echelon, though, actually consists of the group of elite loyalists comprised of crony oligarchs, political technocrats, some market liberals, and the siloviki.
+A Stagnant Economy Propped up by Petroleum Much as Soviet president Mikhail Gorbachev discovered during the last few years of the Soviet Union, a social pact with the populace can only be maintained as long as the economy is producing the desired results.
+Putin’s over-reliance on Russia’s petroleum resources, however, has obscured the necessity of real—not illusory—economic reform.
+The result has been a stagnating economy with little genuine effort by the state at diversification.
+In the long term, Russia’s economic vitality is dependent upon high global petroleum demand and prices.
+In the short term, however, Russia has been able to weather periods of low petroleum prices and other economic downturns due to the impressive foreign capital financial reserves it amassed during the high oil and gas prices windfall of the 2000s.
+Russia’s stockpiling strategy, which boosted its financial reserves to a maximum of $537 billion in December 2012, has come at a cost, though.
+Recent years of declining oil prices have caused Russia to burn through its reserves quickly.
+In December 2015, the country’s reserves were down to $368 billion—a net reduction of $169 billion in a mere three years.
+A REGIME PRONE TO FISSURE Even with short-term economic complacency, which is made possible by large but decreasing coffers of financial reserves and constant political propaganda broadcast by the state-controlled media, Russia’s sociopolitical structure is prone to fissure.
+An Exit-Minded Russian Middle-Class For most of Putin’s first two terms as president and term as prime minister, he maintained high levels of approval despite clamping down on democratic freedoms while imposing increasing control over the Russian political system, legal system, media, and economy.
+Those Russians who had been interested enough to follow and assess political developments were mainly middle-class Russians well-off enough that they did not need to buy into Putin’s social contract.
+Krastev refers to economist Albert Hirschman’s general observation that people, when presented with the deterioration of goods or services, have two main options by which they can respond—exit or voice.
+Citing a Russian economist’s figure that over two million Russian democrats exited the country during the 2000s, Krastev asserts that “Russia’s demographic situation—its aging and shrinking populace—and Russia’s weak national identity have made exit a very natural option for those who are disappointed with the regime.
+For them, leaving the country in which they live is easier than reforming it.
+The major reason why Russians are reluctant to protest is not fear; it is because the people who care most have already left the country or have resolved to do so in the near future.
+A Significant Change in Willingness to Voice Discontent Notwithstanding the noteworthy number of Russian citizens who have exited or would rather exit the country than voice their dissatisfaction with it, a sizable opposition contingent has managed to exist, as was evident in the massive protests staged in Moscow from December 2011 to March 2012.
+Tens of thousands of people opposed to the reportedly manipulated 2011 Duma elections and the prearranged position switching in 2012 by Putin and Medvedev gathered in Moscow on multiple occasions, calling for free elections and a Russia without Putin.
+Opposition leader and blogger Aleksei Navalny, who was regarded by the Kremlin as largely responsible for planning and coordinating the protests, must have stmck a nerve with his political dissonance.
+Navalny was subsequently jailed on a spurious charge for a 15-day period that spanned the protest on December 10, 2011.278 Freed in time for the December 24, 2011, protest, however, he told the gathered crowd that he saw that there were enough people there to take over the Kremlin; “We are a peaceful force and will not do it now.
+Putin’s Fear of Losing Power through a Color Revolution in Russia The color revolutions of neighboring former Soviet republics—the 2003 Rose Revolution in Georgia, the 2004 Orange Revolution in Ukraine, the 2005 Tulip and 2010 Revolutions in Kyrgyzstan—serve as vivid reminders to Putin of what may happen to governments when public discontent reaches a boiling point.
+All of his efforts to eentralize his personal executive power and fortify his authoritarian system have eaused Putin to view his hybrid system as forming the rightful epitome of Russian presidential power.
+In line with the principles of prospect theory, Putin’s perceived loss of the status quo would be more painful than any pleasure he eould derive from any gain, espeeially considering his vast aecumulation of personal wealth.
+Only he ean maintain the balance in eontemporary Russian politics because he, personally, created the hooks and levers that eompromise the central players and keep them in plaee.
+Putin did not solve the unresolved issues of the Russian and Soviet past that surfaced in the 1980s and 1990s.
+He merely suppressed them and papered them over with a pastiehe of recycled Russian ideas.
+Instead of following Gorbaehev’s advice to step away from power, Putin ramped up his efforts to retain it as he pressed forward with his 2012 reeleetion.
+Further deprecating the protests, Putin propagated the rehashed narrative that the West, led by the United States, was responsible for inciting the political opposition.
+A Third-Term President In the months leading up to the March 2012 presidential election, the Kremlin employed a hand in choosing Putin’s opponents while barring any candidate that had a moderate chance of success.
+The March 4, 2012, election result was a Putin victory in the first round with 63% of the vote, although independent sources claim that he actually garnered only 46%.288 On the eve and day of Putin’s re-inauguration as president on May 7, 2012, more protests against his return to the presidency took place.
+The legislation was merely a cosmetic remedy designed to assuage the growing political discord, however, for it had no mitigating effect on the hybrid government’s power.
+PUTIN’S NEED FOR A DOMESTIC DIVERSION The mass demonstrations in Moscow as he endeavored to reassume the presidential helm showed Putin how fragile his domestic political support was.
+The ongoing competition between Russian and EU economic initiatives in Ukraine set the scene.
+The Euromaidan movement and Yanukovych’s subsequent flight from office comprised the moment.
+The new Ukrainian government with its American and European backers, in Putin’s narrative, played the role of enemy.
+By making the decision to intervene in Ukraine, Putin not only extended his grip on his personalized political power but renewed his efforts to forge a new Russian identity by awakening nationalistic sentiment.
+A New Russian Identity For most of the 20th century , the Russian identity was inextricably linked with the Soviet identity.
+Burdened by a flailing economy and a dysfunctional government, Boris Yeltsin struggled to find an identity for Russia to replace its Soviet predecessor. a major difficulty lay in the fact that the Russian Federation does not constitute an ethnically homogenous nation-state.
+Oil, Gas, and National Identity in Russia,” Post-Soviet Affairs 31, no.
+One need only recall the Russian experience with the Islamic Chechen republic to see the fracturable threat to Russia’s federal integrity that ethnic nationalism can produce.
+With the multiethnic nature of the Russian Federation in mind, Yeltsin promoted the Russian civic identity as embodied by the adjective Rossiysskiy, which connotes the Russian state, as opposed to a Russkiy national identity based on Russian ethnicity.
+When Putin took over after Yeltsin, the national question remained unanswered.
+In an address known as the millennium message that he made shortly before assuming the presidency in 1999, Putin rejected the idea of a state ideology but presented his form of the Russian idea that would produce unity.
+He defined the pillars of his idea as economic and social stability, traditional Russian values, a belief in the greatness of Russia, the renewal of a powerful Russia, and a strong state.
+Describing traditional values as patriotism, he said that it was comprised of “feeling pride in one’s country, its history and accomplishments” and that it was the source of courage and strength when “free from the tints of nationalist conceit and imperial ambitions.’’^^o During his first few years in office, Putin remained notoriously ambiguous in terms of defining Russia’s identity.
+Yuri Teper describes how Putin “inconsistently combined diverse civic, ethnic and even some imperial components of Russian identity, without fully committing to any of them.”30i As part of his statist vision for Russia as a great power, he relied heavily on nostalgic elements from tsarist and Soviet history, such as tsarist-era Kremlin guard uniforms and revamping the Soviet anthem with updated lyrics to serve as the Russian national anthem.
+Preparing for his reelection campaign in January 2012, Putin addressed the diametric civic and ethnic national issue.
+The participation of Russian nationalists in the 2011-2012 protests against the government catalyzed Putin to abandon his ambiguous stanee on Russian national identity.
+As noted previously, the political instability in Ukraine in late 2013 granted Putin the opportunity to move forward with building a new Russian identity with a partieular emphasis on Russian ethnonationalism.
+Previously, the Kremlin promoted the greatness of the state as the focus of an all-Russian identity.
+After years of sitting on the fence, the Kremlin has reinvented itself as an active and initiating player in the nationalism field.
+The narratives have also celebrated the success of the Russian military in reclaiming Crimea and Sevastopol—the city of Russian military glory—^while extolling a rebuilt Russian military capable of conducting warfare from the hybrid to the nuclear level.
+Additionally, the narratives have promoted the restoration of Russian greatness and the triumph of Russian values over their decadent Western counterparts.
+The Crimea Effect The domestic reception of Russia’s actions in Ukraine was significant.
+By advancing the narrative that Russia’s intervention in and annexation of Crimea was to ostensibly protect ethnic Russians and Russian-speakers against a hostile enemy, Russia experienced a tidal wave of nationalism that boosted Putin’s popularity to unprecedented levels.
+Overvaluing these two loss-averse prospects, Putin made the risk-laden decision to intervene in Ukraine even though such action would likely burden the Russian state and its populace with significant international political and economic costs.
+Yes, we sometimes had fierce debates on economic matters, but we did work together. —Vladimir Putin In February 2014, the world channeled its attention to the Winter Olympics being held in the Black Sea resort town of Sochi, Russia.
+Only a few months earlier, the UN General Assembly adopted a resolution that described the purpose of the games as an effort to build “a peaceful and better world through sport and the Olympic ideal.in this respect, Sochi’s selection as the host city designed to foster international peace was paradoxical.
+Less than twenty miles from Sochi stretches the border between Russia and Abkhazia—the Russian-backed separatist region locked in frozen conflict with Georgia.
+While at the Sochi games that were intended to promote peace, Russian president Vladimir Putin made the decision to employ hybrid warfare to invade and annex Crimea.
+Several factors emboldened Putin to undertake such a risk-laden action, the first of which was the high level of Russia’s foreign currency reserves—assets that would help Moscow withstand predictable Western economic sanctions.
+This chapter explores the contextual background of Russia’s international relations during the 2014 Winter Olympics, its energy and economic relations with its European neighbors, and its strategic nuclear messaging during the crisis in Ukraine.
+They poured 51 billion United States dollars into Olympic construction projects—the largest sum ever spent on a set of games.
+The exorbitant construction expenses were not without critics, however.
+Russian opposition leaders Boris Nemtsov and Leonid Martynyuk lambasted the corruption in the Russian government’s preparation efforts.
+He believed that the Olympic Games will be his triumph and . . . a recognition of his indisputable leadership, both in Russia and in the world,” they wrote.
+Rather than receive triumphal recognition of his leadership, Putin instead received the cold shoulder from several of the world’s heads of state and government.
+Absent from the opening ceremony of the games on February 7, 2014 were French president Francois Hollande, German chancellor Angela Merkel, U.K. prime minister David Cameron, and United States president Barack Obama.
+Although they refrained from providing specific reasons for skipping the ceremony, political disagreements over an array of Moscow’s policies were undoubtedly the cause.
+Notwithstanding the absence of the British, French, German, and United States leaders, many other leaders managed to attend.
+Chinese president Xi Jinping, Japanese prime minister Shinzo Abe, Kazakh president Nursultan Nazarbayev, Turkish prime minister Recep Tayyip Erdogan, Belarusian president Alexander Lukashenko, and even Ukrainian president Viktor Yanukovych, who was embroiled at home with the Euromaidan protests at the time, were present.
+Although Putin surely resented the snubbing he received from key Western leaders, he played up the event as an opportunity to engage in a constructive dialogue with those leaders present.
+Afghanistan, Syria, Ukraine, lots of them.”320 xhe presence of UN secretary-general Ban Ki-moon added to the air of international cooperation and furthered the impression of Russia’s arrival with prestige on the world’s stage.
+CUSHION OF FOREIGN CURRENCY RESERVES While the world focused its attention on Sochi during the Olympics, Putin focused his attention on Ukraine and Crimea.
+Meeting with his advisors in Sochi, Putin made an economic inquiry that would shape the fateful decision he would soon make regarding Ukraine.
+A short time later, on February 22, 2014, Vladimir Putin convened a secret meeting with his Security Council in Sochi that continued until seven the next morning— the day of the Olympics’ closing ceremony—to discuss Yanukovych’s flight from power and the situation in Ukraine.
+The group scrutinized possible Russian recourses, weighing the prospective costs and benefits of the available options.
+As former British ambassador to Russia Tony Brenton contends, the level of Russia’s financial reserves has served “as a proxy for Russian strength” that has factored into Moscow’s formulation of foreign policy.
+West Texas Intermediate,” Federal Reserve Economic Data, Federal Reserve Bank of St.
+RUSSIA’S GEOPOLITICAL INFLUENCE Another factor that mitigated the possible costs and risks in deciding to intervene in Ukraine was the Russian leadership’s assessment of the extent of the influence Russia wields among many European states because of its role as a major energy exporter.
+In 2009, Prime Minister Putin commented that “Russia enjoys vast energy and mineral resources which serve as a base to develop its economy; as an instrument to implement domestic and foreign policy.
+The role of the country on international energy markets determines, in many ways, its geopolitical influence.
+In 2013, Russia grossed $356 billion in oil and natural gas revenue, which constituted 68% of its total export revenues.
+Customs duties on oil and gas exports, combined with taxes on mineral extraction, produced 50.2% of Russia’s 13 trillion ruble (approximately $406 billion) federal budget revenue in 2013.330 The same year, crude oil accounted for $174 billion, or 33%, of Russia’s total export revenue.i Petroleum products provided $109 billion, or 21% of gross export sales, while natural gas exports produced $73 billion, or 14% of total export revenue.
+Because most of its federal budget (and the commercial revenue of companies with close ties to the Kremlin) comes from the sale of crude oil and other petroleum products, Russia has displayed a vested interest in sustained high oil prices.
+Some have even suggested that Russia’s support for and export of arms to Iran, Iraq, Libya, Sudan, and Syria over the past decade has been part of an effort to keep oil prices high by maintaining a destabilized Middle East.
+Gazprom—Russia’s Ultimate Geopolitical Tool Europe has been the main importer of Russia’s energy resources.
+In 2013, Russia provided 29% of the EU’s oil imports and 22% of the EU’s total oil consumption. xhe same year, Russia raked in $283 billion of crude oil sales—70% of which went to Europe—and other petroleum products abroad.
+Even though Russia’s export of natural gas abroad—90% of which went to Europe—provided only $73 billion in export revenue, natural gas has been the ultimate hydrocarbon tool that Russia employs to implement its foreign policy.
+Unlike oil, whose abundance of global suppliers has contributed to the overall decline of oil prices and provided Europe with more flexibility in choosing its energy trade partners, natural gas for much of Europe is provided by only one supplier— Russia.
+The Gazprom behemoth maintains 72% of Russia’s and 17% of the world’s natural gas reserves and produces 72% of Russia’s and 12% of the world’s gas output.
+In 2003, as Putin celebrated Gazprom’s 10th anniversary at a reception, he dismissed speculation about breaking up the energy giant, talk of which had been circulating at the time.
+While oil ean be moved via pipeline, ship, train, or tmek, natural gas must either be pumped through a pipeline or shipped in liquefied form at an approximate temperature of -160 degrees Celsius.
+The latter is a teehnologieally ehallenging method that requires extensive port infrastrueture to aeeommodate ENG ships and results in gas that is roughly twiee as expensive as that sent via a pipeline.
+States such as Georgia, the Ukraine and the Baltic States have been punished with supply interruptions and higher prices after their governments turned toward the West.
+Abkhazia . . . and Transdniestria—have been granted ample oil and gas at subsidized prices.
+The Nord Stream pipeline through the Baltic Sea and the Blue Stream pipeline through the Black Sea carry Russian gas directly to Germany and Turkey, respectively.
+In contrast, the Yamal pipeline traverses Belarus and Poland while the Soyuz , Bratstvo , and Trans-Balkan pipelines traverse Ukraine.
+Although Russia has used its ironically named gas pipelines as levers to influence its former Soviet brother states of Belarus and Ukraine, the latter states have some influence of their own.
+Given that the pipelines he exposed across the transit states’ land, the Russian gas that flows through them is susceptible to their physical control.
+The result has been a double-edged sword for Gazprom and the Kremlin—cutting off gas supplies to a transit state entails the risk that the transit state will retaliate by cutting off or siphoning from the flow of gas to customers downstream.
+Such was the case during multiple wintry occasions referred to as the “gas wars” of 2006 and 2009.
+Russia’s Energy Resourees as a Foreign Poliey Tool” Journal of Eurasian Studies 2 : 134, doi:10.1016/j.euras.11.03.004.
+On January 1, 2006, Gazprom used the petro-stick by cutting off the supply of gas to Ukraine after it raised the price of gas from $50 per 1,000 cubic meters to $230—a price increase that Ukraine refused to 91 pay.
+Ukraine, which was experiencing a record level of gas consumption due to an unusually severe winter with temperatures below 30 degrees Celsius, responded by diverting some of the gas being pumped downstream to other European states for its own use to cope with the extreme cold.
+Austria, France, Hungary, Italy, Slovakia, and Romania each experienced decreases of 25^0% in their Russian gas supplies until Gazprom restored the flow to Ukraine two days later.
+Russia and Ukraine resolved the price dispute by agreeing on a price of $95 per 1,000 cubic meters of gas for the next several months.
+While the second gas war, whose effects were more severe than the first, would damage both Russia and Ukraine economically, the rest of Europe would haplessly suffer collateral damage.
+Simon Parini, “Russo-Ukrainian Gas Wars and the Call on Transit Governance,” in Dynamics of Energy Governance in Europe and Russia, ed.
+On January 1, 2009—exactly three years after the first gas war, Gazprom again cut Ukraine’s supply share of gas in response to another row over gas prices and Ukrainian gas debt.
+Ukraine paid $1.52 billion in gas arrears to Russia—all of its debt according to Ukraine, but only part of its $2 billion debt and fines according to Russia.
+On January 6, 2009, at the behest of Russian prime minister Putin, Gazprom reduced the gas pressure intended for the rest of Europe by a compensatory amount commensurate with how much it alleged Ukraine had stolen. a day later, Gazprom shut off the gas flow completely.
+To provide for its own needs, Ukraine’s state-owned gas company, Naftogaz Ukrainy, operated the pipeline in reverse, closing off its pipelines between Ukraine and Russia, to supply its major population centers in eastern and southern Ukraine from its gas reserves in western Ukraine.
+As the standoff continued, the urgency for the EU to help resolve the crisis, which adversely affected the inhabitants and economies of 18 European states, grew dramatically.
+Some of the most severely affected countries in Europe—Bulgaria, Slovakia, and non-EU member Moldova—sent their own delegations to Moscow, as journalist Ian Traynor commented, “to plead with their former imperial overlord for mercy and for fuel to power the radiators for millions of households.
+Notwithstanding the accord, and much to the European Union’s consternation, the flow of gas to Europe was not restored.
+Caroline Kuzemko, Andrei V Belyi, Andreas Goldthau, and Miehael F Keating , 179.
+The European Commission was unable to verily the validity of either party’s allegations because the EU observers had not been granted access to gas supply control centers in either country.
+The president of the European Commission, Jose Manuel Barroso, expressed his frustration with both countries’ prime ministers in separate phone conversations.
+After a “robust” discussion with Putin, Barroso commented that the situation was “getting close to a breaking point.
+The EU had its opportunity at an emergency international gas meeting in Moscow called for by Russian president Dmitry Medvedev.
+Although Russia originally intended the meeting to be a summit for the EU state leaders, those leaders declined to attend due to a Czech EU presidency request.
+The Czech Republic, which held the rotating presidency of the Council of the European Union, desired the EU to speak with one voice by sending only the EU’s selected delegation.
+Despite the EU’s best efforts, no definitive outcome was reached during the talks on January 17, 2009.
+Meanwhile, Ukraine would continue to charge Russia the same transit price for gas destined for Europe as it had in 2008.
+With these terms set, Russia and Ukraine fully restored the flow of gas to Europe on January 21, 2009—two weeks after the flow to Europe had been cut off and 20 days after the gas war began.
+European Energy Vulnerability The 2009 gas crisis had grave implications for Ukraine and the rest of Europe.
+Some experts estimated that the episode cost Gazprom between $1. and $2 billion— roughly $100 million per day—in lost revenue, whereas the cost to Ukraine was at least $100 million in lost transit fee revenue.
+Although Ukraine lost much less than Russia in absolute financial terms, the relative economic and political costs to Ukraine were much higher.
+Timoshe nk o’s acceptance of the deal on Putin’s terms infuriated Yushchenko, who criticized the terms as a defeat wherein the price Ukraine agreed to pay for gas was too high and the price agreed to charge Russia for gas transit was too low.
+The gas deal drove the wedge in the two former Orange Revolution allies’ relationship even deeper.
+The increased gas prices would prove to be unsustainable for Ukraine’s flailing economy in recession.
+Poor economic performance and political discord contributed to a decline in support for the Orange government and a victory for the Russian-leaning Viktor Yanukovych in the Eebruary 2010 Ukrainian presidential election.
+In the wake of the incident, European Commission president Barroso enumerated the EU’s lessons learned; the importance of solidarity and the cognizance that action must be taken to avoid similar occurrences in the future.
+The motives behind building and operating the Nord Stream pipeline, which carries gas directly from Vyborg, Russia to Greifswald, Germany under the Baltic Sea, have been questioned.
+During the lengthy process to get the project approved, Gazprom’s CEO Alexei Miller claimed that the “new export route . . . will increase Europe’s energy security.
+Evoking condemnation from the EU, the judge sentenced Timoshenko to seven years in prison and demanded that she pay the $186 million that Naftogaz Ukrainy claimed it lost because of the deal.
+One of the EU’s stipulations for signing the association agreement with Ukraine was the release of Timoshenko and other political prisoners.
+Timoshenko asked the EU to forego demanding her release if it meant the association agreement would be signed.
+The post-Euromaidan Verkhovna Rad voted on February 22, 2014—the same day as Yanukovych’s flight and Putin’s decisive meeting—to release her from prison.
+She ran for president and lost to Peter Poroshenko (12.8% to 54.7%) during the first round of voting in the May 2014 presidential election.
+When the pipeline commenced operating in September 2011, Russia became more flexible in its capacity to use its petro-sticks against its former Soviet neighbors—^Ukraine, above all—without having to worry about interruptions in supply to other clients downstream.
+Germany, for its part, also wished to reduce its dependence on the gas transit states and prevent future disruptions in supply.
+In so doing, however, Germany increased its dependence on Russia as the gas supplier.
+Faced with the dilemma between upholding its liberal political values, which would entail holding Russia accountable for its energy blackmail tactics, and promoting its geo-economic interests by forging ahead with the Nord Stream pipeline, Germany chose the latter.
+Upon doing so, Berlin disregarded Moscow’s reputation as an unreliable partner—the label it was given during the 2009 gas crisis—and its manipulative behavior toward Ukraine and the rest of Europe.
+Regardless of general public reservations vis-a-vis Russian investments, the German energy conglomerates involved in the Nord Stream consortium are—not surprisingly—motivated primarily by the economic aspects of the pipeline and have complete disregard for the political consequences of the project.
+Nevertheless, the active role of the German government in securing financing for the Gazprom joint venture, combined with the engagement of the former German Chancellor Gerhard Schroeder (who made his preferences to Russia clear) as a Gazprom representative on the Nord Stream Board of Directors, accentuated the political rather than the purely commercial dimensions of the project.
+The display underscored how Germany’s foreign policy and economic decisions tend to favor amiable relations with Russia.
+On the outward appearance, Germany’s approach to Russia seems voluntary, but a closer inspection reveals how necessity is actually the driving force.
+In 2013, Russian gas imports comprised 45.8% of Germany’s total gas consumption.
+In an angry and often sarcastic speech to the top German industry chiefs at a business forum in Berlin, Mr Putin lambasted the European Union, insisting that Brussels should consult Moscow over planned energy legislation.
+At one stage, he mocked the Europeans, saying if they did not want gas or nuclear energy, then they would have to rely on Russian firewood.
+THE SEEMINGLY IRRATIONAL THREAT OF A GAS WAR WAGED AGAINST EUROPE Many Germans dismiss the idea that Russia would engage Germany and the EU in a gas war.
+Citing how Russia’s economy is just as dependent on energy export revenues as are the European economies on Russia’s energy imports, they reason that Moscow taking such action would be tantamount to Russia’s economic self-destruction.
+Germany’s energy security vis-a-vis Russia is moderately vulnerable compared to other European states.
+Although it receives a large portion of the gas it consumes from Russia, Germany also has a modest gas storage capability that would allow it to survive a disruption of Russian gas for several months.
+Austria, France, Greece, Italy, Luxembourg, the Netherlands, Slovenia, and Romania.
+Most West European states—Belgium, Croatia, Denmark, Ireland, Portugal, Spain, Sweden, and the United Kingdom—import little to no gas from Russia and are, thus, much more energy secure.
+Two states—Estonia and Finland—receive all of their gas from Russia and do not have any gas storage capability.
+Until recently, Lithuania had a similar complete gas dependency on Russia, but the country has taken steps to diversify its import sources.
+Having constructed and opened an ENG terminal at the end of 2014, Lithuania now imports 20% of its gas from Norway and plans to import gas from the United States.
+Other Eastern European countries—Bulgaria, the Czech Republic, Hungary, Latvia, Poland, and Slovakia—have some gas storage capacity, but still import between 85% and 100% of the gas they consume from Russia.
+Russia’s leaders understand the various levels of energy security among EU member states.
+They have also sought to exploit these differences, striving to develop Russia’s bilateral energy relationships to undermine the cohesiveness and strength of EU energy policy and the European Union as a whole.
+Despite claims that a scenario wherein Russia cuts its supply of gas to Europe is unlikely, the EU, nevertheless, conducted a hypothetical stress test in October 2014 to gauge how prepared it was in the event such a worst-case scenario came to fruition.
+In the event that Russia cut off its gas supply, Germany would likely prioritize the needs of its protected customers—households—over industry.
+Industry would lose much of its electricity as power plants that aren’t deemed indispensable would have to shut down.
+With this move, self-destructive as it might be, Russia could lay waste to Germany’s industrial power, at least for a while, and it would wreak havoc that would then ricochet around the world as German export orders would remain unfulfilled, and as imports would grind to a halt.
+The use of harmful threats and actions to attain the foreign policy goals of Russia’s leaders was clearly demonstrated in the gas wars, but the tactic of intimidating and exploiting fears extends to the personal interactions of Russia’s leaders with their foreign counterparts.
+In 2007, German chancellor Angela Merkel met with Putin at his residence in Sochi to discuss energy trade matters.
+Much like Merkel’s uneasiness over Putin’s dog, Europe has also been uneasy over the uncertainty of Putin’s level of restraint and the rationality of his actions.
+Not only did the 2009 gas crisis demonstrate how important Putin’s political objectives in Ukraine were to him, but it also revealed to the rest of Europe and the world just how irrational he could be.
+Russia showed that it was willing to bear the cost of ruining its reputation as a reliable trade partner and lose billions of dollars in gas revenue over a seemingly insignificant matter—a price dispute with Ukraine.
+The threat that Russia could and would be willing to do so again was even articulated by Putin himself in Eebruary 2015.
+Speaking about how gas supplies to Ukraine could be suspended if it failed to prepay for its contracted gas, Putin warned that “This may create a threat to transit to Europe, to our European partners.
+One of the advantages of an explicit theory of “rational” strategic decision in situations of mixed conflict and common interest is that, by showing the strategic basis of certain paradoxical tactics, it can display how sound and rational some of the tactics are that are practiced by the untutored and the infirm.
+ANOTHER SEEMINGLY IRRATIONAL THREAT— NUCLEAR WAR The messaging of Putin’s irrationality—his clear willingness to sustain selfdamaging economic costs when threatening Europe’s energy security—has served as a useful deterrent against the West pursuing some of its more severe economic response options in the wake of Russia’s invasion and annexation of Crimea.
+Putin was aware of this, and it factored into his decision making regarding intervention in Ukraine.
+In a like manner, another irrational threat intended to deter the West’s military response options during Russia’s Crimean intervention, also factored into Putin’s calculations.
+The threat, which would overshadow the entire crisis in Ukraine, has been Russia’s possession of and willingness to use its arsenal of nuclear weapons to defend its hybrid military actions and gains.
+During the October 2014 Valdai conference, which was held in Sochi but eight months after the Winter Olympics, Putin commented that “We are sliding into the times when, instead of the balance of interests and mutual guarantees, it is fear and the balance of mutual destruction that prevent nations from engaging in direct conflict.
+President Putin’s admission that he considered putting Russia’s nuclear forces on alert while Russia was annexing Crimea is but one example.
+Russia has also significantly increased the scale, number and range of provocative flights by nuclear-capable bombers across much of the globe.
+Russian officials announced plans to base modem nuclear-capable missile systems in Kaliningrad.
+And they claim that Russia has the right to deploy nuclear forces to Crimea.
+We learned during the Cold War that when it comes to nuclear weapons, caution, predictability and transparency are vital.
+Russia’s nuclear sabre-rattling is unjustified, destabilizing and dangerous.
+THE WEST’S RESPONSE Unwilling to risk the escalation of a military response, the EU and the United States responded to Russia’s actions in Crimea with varying levels of diplomatic and economic sanctions.
+Diplomatic measures included cancelling the EU-Russia summit and isolating Russia from the G8 summit that was scheduled to have been held in Sochi in June 2014 but was held instead as a G7 meeting in Bmssels.
+Other sanctions ranged from travel bans and freezing the assets of targeted individuals, who were deemed responsible for violating Ukraine’s territorial integrity, to trade embargos against specific sectors like finance, energy (extraction technology to target Russia’s untapped oil reserves in the Arctic), and defense.
+Franee had planned to sell two amphibious assault ships to Russia for $1. billion in what would have been the first major arms import deal for Russia since the end of the Cold War.
+The ships, named Vladivostok and Sevastopol, were designed to deliver soldiers, armored vehicles, and tanks from littoral waters to shore using the four landing barges and 16 helicopters that each can carry.
+The former Commander-in-Chief of the Russian Navy, Admiral Vladimir Vysotsky, commented once that the Russo-Georgian war would have been over in “40 minutes instead of 26 hours” had the Russian navy possessed one of the Mistral ships in 2008.3^3 French president Flollande suspended delivery of the ships in September 2014 over the crisis in Ukraine, and France later refunded Russia’s money and sold them to Egypt.
+In a twist of irony, Putin’s decision to engage in operations that “reacquired” the port city of Sevastopol came at the cost of never acquiring the Mistral ship Sevastopol and its sister.
+Since June 2014, Russia’s economy has floundered as the ruble has greatly depreciated against the dollar.
+The effect that EU and United States sanctions—measures designed to alter Russia’s policies and behavior in Crimea and eastern Ukraine—have had on Russia’s economy is subject to debate.
+While a 2015 study found that “the impact of the conflict on Russia may be amplified by the sanctions imposed by Western countries,” its main conclusion was that “the bulk of the depreciation is caused by the decline of oil prices” .384 Whatever the effect that Western sanctions may have had on Russia’s economy, Putin has remained defiant over Russia’s actions concerning Crimea and the rest of Ukraine.
+In an interview with a Serbian newspaper in October 2014, he even doubled down on them.
+Billions of Dollars and No Sense At the all-night meeting with his security council in Sochi on February 22, 2014, the eve of the Winter Olympics closing ceremony, Putin postulated that the twin threats of economic and nuclear destruction issued respectively against the EU and NATO would have the desired effect.
+The EEl’s collective energy security vulnerability due to its dependence on Russian gas would temper the severity of sanctions leveled against Russia, and Russia would be able to withstand the lesser sanctions with its billions of dollars in foreign capital reserves.
+The risk-laden decision that Putin made was a gamble that he was willing to take because of his aversion to the loss of a pro-Russian government in Kiev, among other reasons.
+The gamble in Elkraine to achieve his goals seems to have paid off in the short term, but the long-term sagacity of such a gamble remains to be seen.
+CONCLUSION The foregoing analysis explored the rationales behind the deeision by Russia’s political leaders to breach the territorial integrity of a sovereign state and acquire a major portion of it.
+Additionally, Russia’s actions elicited strong condemnation from Western governments, resulting in Russia’s isolation from the West and economic sanctions designed to penalize Russia’s government.
+When the decision to invade Crimea was made, these costs that Russia’s leaders were willing to bear were determined to have been outweighed by the benefits Russia stood to gain through its actions.
+A military invasion and annexation of part of a modern European state seemed unfathomable to many Western leaders before Russia engaged in its shocking hybrid warfare in Crimea.
+Russia’s actions resurrected the idea of international political realism in the West, which many deemed to have been dormant since the dismantling of the Berlin wall in 1989 and the fall of the Soviet Union in 1991.
+Meanwhile, Ukraine remained fixed between the two competing strains of Western liberalism and Russian despotism.
+The jockeying between the West and Russia in fostering a favorably oriented Ukrainian government, as well as the attempts by both to include Ukraine in their respective institutional spheres—the EU and NATO or the Eurasian Economic Union— placed Ukraine in a precarious geopolitical position.
+Given such a geopolitical landscape and Ukraine’s post-Euromaidan reorientation, the application of neoclassical realism, with its emphasis on both systemand domestic-level variables and its assumption of rationality based on expected utility maximization, is useful in explaining Russia’s reasoning for its Ukrainian intervention.
+A more plausible and durable exposition of the rationales influencing Russia’s leaders, however, can be obtained by combining the lens of neoclassical realism with that of prospect theory.
+His inability to make psychological peace with its end has caused him to perceive Russia’s current domain as one of losses.
+This speech revealed not only how closely the neoclassical realist paradigm aligns with his foreign policy but also the extent to which he is consumed by get-evenitis.
+Those who are less fixated on the world that is—and prone to give more weight to counterfactual worlds that could or should have been—are predisposed to be more sympathetic to redistributive claims on behalf of have-nots.
+Rather than viewing such claims as illegitimate, greedy, and self-serving bids for gain, they see them as just attempts to undo losses imposed by exploitative . . . nations.
+At the same time, it afforded Putin a way to recover, at least to some extent, from the loss of the Soviet Union and to reconcile, to a certain degree, the discrepancy between the world that is and the world that, in his mind, should have been—and should be.
+Putin’s frame of reference and loss aversion caused him to be more risk-acceptant in undertaking military action in Crimea.
+Backed by Russia’s seemingly irrational threats to cut essential gas supplies to Europe and to launch nuclear attacks, Putin correctly anticipated a limited economic sanctions response and a negligible military response from the West.
+Emboldened by Russia’s large sum of financial reserves, he reckoned that Russia would be able to withstand whatever limited sanctions would result.
+By annexing Crimea, Putin furthered Russia’s interests in acquiring not only this peninsula, but also the strategically indispensable Russian Black Sea Elect port in Sevastopol and the vast natural resources in the Black Sea region.
+Such action also prevented the expansion of Western institutions and influence in Ukraine.
+The resulting level of Putin’s domestic approval was unprecedented—a perplexing development given the massive political protests that were held against him in Moscow and other cities but two years earlier in 2011-2012.
+BEYOND UKRAINE After the West isolated Russia and applied sanctions in response to its military actions in Ukraine, Putin would not wait long before thrusting Russia into another military exploit abroad—the complicated and dynamic conflict in Syria.
+While a full understanding of Russia’s rationales to intervene in Syria requires further analysis, the likely explanations are related to Russia’s rationales for intervening in Ukraine, as argued in this thesis.
+Possible explanations include exploiting the opportunity to divert negative global attention from the ongoing conflict in eastern Ukraine, extracting Russia from its isolation by forcing the West to cooperate in deconfiicting military efforts in Syria and seeking a peace settlement, and preventing the loss of a client by propping up a severely weakened Assad regime.
+Domestic considerations were also likely to have faetored into Putin’s ealculus.
+Russia’s aetions in Syria allowed Putin to appear tough on terrorism, provided a new enemy for Russian nationalism to be kindled against, and maintained Putin’s high approval ratings.
+This thesis has demonstrated the explanatory power that neoelassieal realism, supplemented by prospeet theory, has in analyzing Russia’s rationales for intervening in Ukraine.
+The eombined analytieal framework is also apposite for interpreting Russia’s aetions in Syria.
+For Western policy makers, the applieation of such a framework ean assist in antieipating Russia’s likely rationales for aetions that seek to weaken the West, as long as Putin remains in power, by undermining its strength, solidarity, and eredibility.
+Sueh probable opportunistie aetion is not limited to the terrestrial domains of Ukraine, Syria, and other eountries and areas replete with Russian interests—the Baltie states, Belarus, Moldova, the Caucasus, Central Asia, and the Aretie.
+It also ineludes the dynamic political, economic, maritime, eelestial, and cyber domains of the former Soviet Union and the West.
+Dreger, Christian, Konstantin A Kholodilin, Dirk Ulbricht, Jarko Fidrmuc.
+Huntington, Samuel P The Clash of Civilizations and the Remaking of World Order.
+Past Imperfect, Euture Uncertain, 5th ed., edited by Stephen K Wegren, 125145.
+An Astonishingly Frank Self-portrait By Russia’s President Vladimir Putin.
+Rational Choice and Security Studies,” International Security 23, no. , 5-48.

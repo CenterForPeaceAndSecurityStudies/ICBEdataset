@@ -1,0 +1,81 @@
+---
+title: 'Plot Confidence'
+site: bookdown::bookdown_site
+bibliography: ../ICBintro.bib
+output: 
+  rticles::arxiv_article:
+    keep_tex: true
+header-includes:
+  - \usepackage[utf8]{inputenc}
+  - \usepackage{pifont}
+  - \usepackage{newunicodechar}
+  - \newunicodechar{✓}{\ding{51}}
+  - \newunicodechar{✗}{\ding{55}}
+  - \usepackage{array}
+  - \usepackage{ctable} # added for demo
+  - \usepackage{natbib} #added for latex citation within huxtable
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{multirow}
+  - \usepackage{wrapfig}
+  - \usepackage{colortbl}
+  - \usepackage{pdflscape}
+  - \usepackage{tabu}
+  - \usepackage{threeparttable}
+  - \usepackage{threeparttablex}
+  - \usepackage[normalem]{ulem}
+  - \usepackage{makecell}
+  - \usepackage{titlesec}
+  - \usepackage[parfill]{parskip}
+  - \usepackage{makecell}
+  - \usepackage{graphicx}
+  - \usepackage{caption}
+  - \usepackage[capposition=top]{floatrow}
+  - \titleformat{\subsubsection}{\normalfont\normalsize\itshape}{\thesubsubsection}{1em}{}
+  - \titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{0ex plus .2ex}
+  - \DeclareUnicodeCharacter{00A0}{ }
+  - \usepackage{setspace}
+  - \usepackage{cellspace}
+  - \setlength\cellspacetoplimit{0.8ex}
+  - \renewcommand{\arraystretch}{0.8}
+  - \AtBeginEnvironment{tabular}{\singlespacing}
+  - \AtBeginEnvironment{lltable}{\singlespacing}
+---
+
+
+# Intro
+
+## Library Loads
+
+
+```{r}
+library(flextable)
+library(tidyverse)
+
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1.1_long_clean.Rds")) 
+
+```
+
+
+Self Reported Confidence and Percent Agreement
+
+```{r, eval=F}
+
+confidence_totals <- bind_rows(
+  icb_long_clean %>% filter(email_id %>% str_detect('expert') & varname_normalized=='raterconfidence' ) %>% count(value_normalized) %>% mutate(coder="expert") %>% mutate(n= (n/sum(n)*100) %>% round(1) %>% paste0("%") ),
+  icb_long_clean %>% filter(email_id %>% str_detect('undergrad') & varname_normalized=='raterconfidence' ) %>% count(value_normalized)  %>% mutate(coder="undergrad") %>% mutate(n=(n/sum(n)*100) %>% round(1) %>% paste0("%"))
+) %>%
+  mutate(confidence=value_normalized %>% factor(levels=c('none','low','high','complete')) %>% as.numeric() ) %>%
+  mutate(x=0.05)
+
+confidence_totals %>% dplyr::select(coder, value_normalized, n) %>% pivot_wider(id_cols=coder, names_from=value_normalized, values_from=n) %>% 
+  dplyr::select(coder  , none,  low,  high,  complete      )
+
+
+```
+
+
+
+
+

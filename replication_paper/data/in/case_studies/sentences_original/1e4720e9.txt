@@ -1,0 +1,466 @@
+As we stated in our introduction, we see them as the beginning of a more extended conversation between scholars, intelligence professionals, and policy makers, rather than as the final word on any topic in particular.
+Hence in this essay we make so bold as to offer an interpretation of the collective import of the preceding pages, knowing full well that some of it must later stand to be corrected.
+We would like to try to grapple with deep and abstract questions having to do with the evaluation of intelligence performance, and the theory and practice of intelligence assessment — though we shall evince some skepticism about the possibility of a 'theory' of intelligence assessment per se.
+While not everything we will have to say on this score will be entirely novel, we hope that the perspective in which we will attempt to put it will be unfamiliar and fresh.
+However, we believe it would be fruitful to ease our way into these topics by first having a closer look at some of the nuts and bolts of intelligence assessment in the missile crisis, both to provide some real-world purchase on more abstract issues, and to flag items that require further exploration.
+We begin with unresolved or puzzling empirical questions that arise from the preceding essays questions first about what actually happened, and then about why certain things happened and others did not and then proceed to examine and evaluate certain important perceptions, judgments, and inferences.
+This will help us frame and anchor the more abstract discussion to follow.
+This is not to say that the American intelligence story is an open book far from it merely that there are relatively few aspects of the American story that remain utterly mysterious to outsiders.
+Whether the United States had broken Soviet and Cuban codes and if so, what of importance, if anything, they learned from eavesdropping on Soviets and Cubans are some of the important pieces of information not yet on the public record.
+Neither do we have details of Soviet or Cuban Sigint, of course but it is at least ironic that in the Soviet and Cuban cases, we have clear testimony to the effect that their capabilities were limited and not very useful.
+We do not even have a general characterization of this sort with respect to American Sigint.
+This would confirm the sense students of the missile crisis without security clearances have had that the United States probably did benefit from signals intelligence, but that our understanding of the event would not change radically if the Sigint story could be told in full.
+Although Aleksandr Fursenko and Timothy Naftali have done a remarkable job of painting what was until very recently an almost entirely blank canvas, the Soviet intelligence picture is less complete.
+Three question in particular arise as a result of apparent inconsistencies between the accounts of Fursenko and Naftali on the one hand, and Domingo Amuchastegui on the other; a fourth question arises out of inconsistencies between the documentary and testimonial records.
+They suggest that the KGB hedged its reports, even at the price of blatant inconsistency, so as to be able to defend itself in the face of any contingency.
+Nevertheless, the KGB was unable to reach a firm determination of American intentions toward Cuba, and never issued a clear warning that an invasion was imminent.
+Aleksandr Feklisov, the KGB rezident in Washington, judged quite perceptively that Kennedy would have to be provoked into invading Cuba and would not willingly attack otherwise.
+Fursenko and Naftali even imply that in judging an American attack unlikely, the KGB relied in part upon Cuban assessments.
+Amuchastegui, however, reports that in 1961 Soviet intelligence began furnishing Cuba with 'constant, unambiguous, dire threat assessments ... for which there was no good-quality evidence'.7 As Amuchastegui readily acknowledges, the lack of Cuban documents represents a major obstacle for scholars who wish to get to the bottom of issues such as this.
+It is entirely possible, however, that Fursenko and Naftali on the one hand, and Amuchastegui on the other, are both correct.
+The KGB may have deliberately skewed its reports to Cuba for some ulterior purpose.
+Indeed, this is what Amuchastegui reports Cuban intelligence eventually decided.
+The conclusion Cuban intelligence retrospectively drew from this that Khrushchev must have conceived the nuclear deployment in 1961, and that he made use of falsified KGB threat assessments to prime Castro to accept it is logically consistent with, though not logically entailed by, such dissimulation.
+Khrushchev may have had other goals in mind in pursuit of which it would have been useful to persuade Castro that the Cuban Revolution was in imminent danger from the United States.
+He might simply have sought to draw Cuba closer to the Soviet Union, for instance.
+Fursenko and Naftali claim that Aleksandr Alekseev was the only KGB field officer who was briefed on the Cuban initiative.
+By all accounts, however, neither Georgi Bolshakov the GRU's man in Washington — nor Aleksandr Feklisov knew of the deployment before President Kennedy announced it to the world on 22 October.
+This implies that certain KGB units charged with transport and custody of nuclear munitions must also have been aware of the decision at some point.
+But without knowing precisely who in the Soviet intelligence community knew of the deployment, when they knew it, and why they were informed, it is difficult to come to a refined assessment of the relevance and performance of Soviet intelligence in the episode.
+If the KGB was unaware of the missile deployment, then it could not have attempted to mask it by leaking accurate information about it.
+But if Fursenko and Naftali are correct that Alekseev was the only KGB field officer briefed on the deployment, then unless Alekseev personally directed it and he has never claimed that he did Amuchastegui must be mistaken.
+Here, again, we must await further documentation for a definitive resolution.
+But it is entirely plausible to imagine that the KGB and Cuban intelligence did cooperate on such a campaign.
+One possibility is that the KGB in Cuba did, in fact, know about the nuclear deployment.
+But it is difficult to imagine why the local KGB would not have been informed.
+They would have been the most useful cadre imaginable for protecting the secrecy of the deployment.
+It is easy to imagine that Fursenko and Naftali err to imply that only Alekseev knew.
+It is equally easy to imagine, however, that Amuchastegui errs in recalling or perhaps in assuming that the KGB could only have conceived and carried out such a plan if they knew that the deployment actually included strategic nuclear missiles.
+The KGB officers involved in designing the campaign could have believed that the Soviet Union was only deploying conventional military forces to the island, and yet still would have appreciated the value of tales about nuclear missiles.
+Their task was to capitalize on the CIA's low estimate of Cuban credibility.
+This particular question is shaping up to become one of the enduring mysteries of the Cuban missile crisis.
+Fursenko and Naftali do an excellent job of summarizing what we know, and sketch out plausible scenarios.
+We fully concur with their judgments, and have nothing to add to their discussion.
+Two additional 'what' questions arise from Domingo Amuchastegui's essay, one of which has important implications for the accuracy of the historical record, and one of which does not.
+The minor issue is whether Cuba accepted Soviet offers of intelligence assistance, as Fursenko and Naftali state, or whether Cuba requested it, as Amuchastegui implies.
+Nothing of real importance would seem to turn on the answer, though the divergent representations may be evidence of the turbulent undercurrent of national pride that undoubtedly complicated the Soviet-Cuban intelligence relationship, just as it profoundly complicated the Soviet-Cuban political relationship.
+The important question is whether Che Guevara traveled to Moscow in April 1962.
+Amuchastegui provides a detailed account of the mission, and characterizes it as a crucial turning point in Soviet-Cuban relations.
+According to Amuchastegui, the purpose of the trip was not only to request increased levels of military aid, but also military aid of a 'qualitatively different' character.
+Amuchastegui claims that Che 'left it up to IChrushchev himself to make a concrete proposal', and that 't no point did Che suggest a deployment of Soviet nuclear missiles, nor did Khrushchev offer them at that time'.19 Nevertheless, if Khrushchev understood Che to be probing for an offer of nuclear assistance, this could certainly help explain why the idea took root in Khrushchev's own mind almost immediately thereafter.
+The difficulty is that we have been unable to confirm Amuchastegui's claim that any such trip took place.
+We cannot locate any reference to such a mission in any of the published literature, and the knowledgeable Cubanologists whom we have consulted on the matter have no recollection of it.
+Neither Alekseev nor Oleg Daroussenkov Che's special assistant in 1961 and 1962, a former staff member and interpreter in the Soviet embassy in Havana, and thereafter the leading Cuba specialist at the Central Committee can remember such a visit.
+It is not out of the question that Che undertook such a mission, but it is highly curious that this particular trip would be shrouded in such secrecy when other trips to the Soviet Union by high-ranking Cubans dealing with equally sensitive topics have been matters of public record for some time.
+This would suggest that if Che did travel to Moscow in April, something far more sensitive than Amuchastegui suggestions must have transpired something of the order of an explicit request for nuclear assistance.
+By all accounts, however, Castro evinced surprise when Biryuzov suggested a nuclear deployment during his trip to Cuba at the end of May.
+Che and Castro certainly had their share of disagreements, but they were very close, and it is difficult to imagine that Che would make such a request without at least vetting it with Fidel.
+In any case, since the Soviets would not have known the purpose of Che's visit in advance, there would have been no reason why Alekseev or Daroussenkov would have been unaware at least of the fact that Che intended to go to Moscow.
+Nor would there have been any reason for the visit to pass entirely without mention in Soviet documents.
+If the trip indeed took place, then we must wonder very seriously about the recollections of former Soviet officials, the accuracy and completeness of the Russian archives that have been opened to scholars, or both.
+We find it difficult to imagine what personal, professional, or national interest would be served by fabricating such a story.
+Nothing in it smacks of personal or professional accomplishment, let alone triumph.
+The story does not tend to cast Cuba, Cuban intelligence, Che Guevara, or Khrushchev in either a favorable or an unfavorable light.
+It provides no basis for explaining away an embarrassment, or escaping some blame.
+Che did travel to Moscow in late 1960 for the purpose of requesting increasing levels of military aid, and there are at least some indications that, while in Moscow, he did float a trial balloon about a Soviet nuclear deployment in Cuba.
+However, Amuchastegui distinctly connects Che's trip and the Escalante affair , which means that if he were thinking of Che's 1960 trip, he would have to be confusing two significant events separated by almost a year and a half.
+A second possibility is that Amuchastegui is thinking instead of the trip to Moscow by Ramiro Valdes in March 1962.
+The timing is much better; but on first glance the context would appear to be wrong.
+Available records indicate that Valdes dealt primarily with KGB officials in Moscow, and that the chief purpose of his visit was to coordinate strategy for promoting revolution in Latin America (a task in which he failed utterly, much to his disgust).24 However, Valdes was certainly a member of Castro's inner circle, and it is entirely possible that he could have been charged with the task of requesting increased military assistance.
+He could easily have approached Khrushchev secretly on this, and it would not be surprising that no mention of it appears in the available accounts.
+It may also be significant that when Rashidov and Biryuzov traveled to Cuba in late May to propose a nuclear deployment, Valdes was one of the five Cuban leaders (along with Fidel Castro, Raul Castro, Che Guevara, and Osvaldo Dorticos) who met to decide whether to accept the demarche.
+Additionally, of the two facts that must be adjusted, one the date of the trip requires a trivially minor adjustment.
+This is not a question that concerns intelligence specifically, but it is one that certainly bears on the genesis of the crisis.
+If Amuchastegui's story is correct, Castro may have deliberately sowed the seed that germinated in Khrushchev's mind.
+For now, though, we wish to put them aside and ask why certain things happened, and why others did not.
+All five of the preceding essays do this throughout, of course, in somewhat different ways, and space prohibits a comprehensive review.
+Nevertheless, we would like to flag and explore some of the more interesting and more important puzzles before we move on to consider deeper issues, such as what constitutes a 'good answer' to questions of this kind.
+For the moment we are still concerned with fairly nitty-gritty matters of historical detail that emerge from the three empirical essays.
+To help answer these larger 'why' questions, it would be helpful to know the answers to two related nitty-gritty questions.
+Samuel Halpern has testified that Task Force W concluded in September 1962 that there were 45,000-50,000 Soviet military personnel in Cuba.
+The official American estimate in early October was 4,000-4,500 an order of magnitude lower.
+Halpern is certain that CIA analysts received the Task Force W estimate in September, but does not know what happened to it.
+The only defensible reason would be that they had some contrary evidence to suggest that the estimate must have been off by about an order of magnitude.
+The CIA did not believe at that time that the Soviets intended to deploy to Cuba a substantial nuclear deterrent and a full battle-capable conventional force to defend the island from American attack.
+A training mission would have required no more than a few thousand Soviet troops, but many times more would be needed to mount a proper deterrent and defense.
+We cannot say for certain which of these explains the error, singly or in combination, although our sense, from discussions with scholars and former intelligence professionals as well as from a close reading between the lines of the available documents — is that the cognitive explanation is most plausible, the bureaucratic explanation somewhat less no, and the motivational explanation unlikely.
+Most reports were of no value, or perhaps negative value; there were literally thousands of reports of missiles in Cuba in the period before any missiles were actually brought there.
+Only in late September and early October were a few reports from Opa-Locka received in Washington that, in retrospect, probably were valid sightings of the medium-range missiles — but that could not be determined at the time.
+The existence of hundreds of other reports that were found to be not valid, and many hundreds of others of undetermined validity, made it ever more difficult to credit the few that were later found to be true.
+It is one thing to question the accuracy and usefulness of a report because it is vague, confused, insufficiently detailed, self-contradictory, or inconsistent with other reliable information; it is entirely a different thing to question the accuracy and usefulness of a report because one suspects the motives, competence, or intelligence of the class of persons to which the reporter belongs.
+The poor quality or suspiciousness of one Cuban refugee report provides no valid logical ground for discounting another, high182 INTELLIGENCE AND THE CUBAN MISSILE CRISIS quality, Cuban refugee report; nor do 50 low-quality or suspicious reports provide twice the reason for discounting the 51st report as do 25 for discounting the 26th.
+We do know that a few reports from Cuban sources were gems very precise and very detailed descriptions of what, in retrospect, almost certainly were Soviet MRBMs.
+We also know that some of these reports reached Washington well before the photographic discovery of missiles on 15 October.
+It is fair to assume that if Khrushchev truly believed that the United States, in response to a covert nuclear deployment, would take measures dramatically increasing the danger of both outcomes, he would not have undertaken it.
+Khrushchev could not reasonably consider himself an expert on American politics, or on President Kennedy; so it would be natural if he were reasonable for him to ask those better qualified than himself to prepare a sober assessment.
+Among those better qualified was his personal aide on foreign policy matters, Oleg Troyanovsky, who, as the son of the first Soviet ambassador to the United States, had grown up in Washington, attended Swarthmore College, and knew the American political scene extremely well.
+I recall perfectly well the day when another adviser ... told me that we were contemplating the idea of deploying nuclear missiles in Cuba if the Cuban leadership agreed.
+I was definitely taken aback with this information, because being someone knowledgeable of United States affairs, and realizing the importance of such a step, I knew this would entail serious consequences.
+I was then faced with the dilemma of discussing this with Khrushchev or not, although my colleagues in the Secretariat told me that there was no sense in discussing this because the decision had been made and a change in the decision would be impossible.
+However, I was doing this just to calm my own conscience, and when I found the appropriate time I talked to Khrushchev.
+He even said that the Americans appealed to the Monroe Doctrine every so often, but that the Monroe Doctrine did not just call for the non-intervention of European states in United States affairs, but also the non-intervention of the United States in European affairs.
+What is interesting here is Khrushchev's academic, legalistic, and deductive approach to the problem.
+In effect, Khrushchev thought that if the Americans were reasonable, they would tolerate the Soviet deployment.
+The Americans were reasonable; ergo, they would tolerate the deployment.
+Even if Khrushchev's minor premise were correct, the major premise evinced an astonishing naivete about American sensibilities.
+As Fursenko and Naftali themselves note, the KGB was tasked to provide an assessment of United States intentions toward Cuba several times for example, immediately after Aleksei Adzhubei's meeting with President Kennedy in January 1962"" and in some of these assessments, the KGB attempted to identify hypothetical conditions under which the United States might attack.
+While it may well have been unusual for Soviet leaders to pose direct 'what i f questions to the KGB, it was not unusual for the KGB to consider them.
+He was the kind of man headstrong and brimming with self-confidence — who did not feel the need to ask the experts.
+Troyanovsky's testimony highlights Khrushchev's deductive approach to forecasting; but there was intelligence available that could have buttressed Khrushchev's confidence.
+A 'highly regarded source' indicated to Feklisov in March 1962 that Kennedy would not risk military action against Cuba before the mid-term congressional elections in November.
+Of course, as Fursenko and Naftali note, the KGB provided the Kremlin with ample material that could just as reasonably be construed to indicate American hostilities were likely at any time.
+Therefore, if Khrushchev had been paying attention to Soviet intelligence when attempting to gauge the likely American response, he was clearly paying attention selectively.
+Quite distinct from the question of whether the United States would tolerate Soviet nuclear missiles in Cuba was the question of whether the Soviets stood a decent chance of transporting them, building facilities for them, and making them operational before the United States could discover them.
+Khrushchev seems to have believed quite strongly that it was necessary to deploy covertly and to confront the United States with a fait accompli.
+Despite his academic and legalistic turn of mind, he energetically resisted when, in late September, Che Guevara and Emilio Aragones pleaded with him to go public with the deployment, stressing the sovereign right of the Soviet Union to supply, and of Cuba to accept, any armaments whatsoever that they deemed necessary for Cuba's defense.
+They proposed this so as to deprive the United States of a pretext for action.
+Presumably, Khrushchev thought Americans were reasonable with guns pointed at their heads, but not otherwise.
+Soviet military intelligence would have been the most competent body to assess the feasibility of a secret deployment.
+There is no indication, however, that the GRU was asked to conduct a study and make a report.
+It would appear that Khrushchev was satisfied to allow Biryuzov to make that determination himself while in Cuba in late May and early June.
+Biryuzov appears to have concluded that MRBMs could easily be hidden in Cuba, in caves and mountains, or disguised as palm trees.
+It is unclear what, if anything, Biryuzov thought about the feasibility of hiding the roads, buildings, and launch pads associated with the sites, or of preventing the United States from noticing the removal of already-deployed weapons from the Ukraine and their shipment 8,000 miles into the United States' backyard.
+The problem of maskirovka was simply left to the planners of Operation 'Anadyr' and treated as an operational detail.
+As with the first Soviet puzzle, the best explanation for the failure to task the GRU with a more intensive study may be Khrushchev's over-confidence and commitment.
+It would certainly appear that the Soviet leadership did not appreciate the difficulties of a secret deployment, which may reflect ignorance of logistical technicalities and/or American capabilities.
+It would be interesting to know in any case what the GRU would have concluded about the prospects for covert deployment if it had been given the opportunity to study the problem closely.
+Fursenko and Naftali give an account of Soviet intelligence during the Cuban missile crisis that is astonishing given the KGB's reputation for competence.
+Students of intelligence will know that laymen and outsiders consistently overrate the capabilities of intelligence services; but even when measured against a more realistic standard, the KGB appears to have performed extremely poorly in this episode.
+Fursenko and Naftali describe an organization obsessed with espionage, unable to integrate secret and open sources, either unwilling or unable to synthesize and interpret, ill-informed about Soviet policy, lacking well-placed informants, reduced to the ignominy of hanging around a parking lot at the crack of dawn to keep a journalist under observation, and if one of the more plausible versions of the Scali-Fomin story is correct undisciplined to boot.
+While we can certainly blame Khrushchev personally for certain demand-side intelligence failures, clearly he cannot be responsible for supply-side failures.
+We are inclined to credit Fursenko and Naftali's organizational culture explanation here.
+This goes quite a long way toward explaining why the KGB fared so poorly.
+But in addition to this, it is worth noting that the KGB suffered from technical shortcomings that made its performance seem all the worse.
+The KGB's inability to fathom the mind of John F Kennedy did not reflect institutional incapacity per se, since a different ethos, and a different set of procedures, could not have compensated for a lack of quality sources at or close to the White House.
+But unlike the CIA which was equally unable to fathom the mind of Nikita Khrushchev, and which appears likewise to have had no good sources close to the Kremlin the KGB could not fall back on impressive technical collection of intelligence on the adversary's capabilities in order to contribute to policy making, and to appear busy and productive to national leaders.
+First, Amuchastegui emphasizes the stark disagreement between Soviet intelligence and the Direction General de Inteligencia on the likelihood of an American attack on Cuba.
+Amuchastegui's discussion of the various possible explanations for that disagreement is both fascinating and instructive.
+For the moment, however, it is worth recalling Amuchastegui's claim that Cuban military intelligence the Direction de Inteligencia Militar consistently echoed the Soviets' dire threat assessments.
+Both organizations had high-level Soviet advisers, so it seems unlikely that the difference can be accounted for simply by a closer professional relationship between Soviet and Cuban personnel in one case than in the other.
+DIM fell under the Ministry of the Revolutionary Armed Forces led by Raul Castro, however, and it is conceivable that Raul's pro-Soviet sympathies may have had some influence on DIM's willingness to accept Soviet assessments.
+Another possibility is that DIM's professional focus on military threat assessment led it to rely heavily on American military capabilities as an indicator of political intent.
+A second puzzle is Fidel Castro's failure to inform his own intelligence services of the true nature of the Soviet deployment.
+It is not clear why Castro would wish to keep his own intelligence service in the dark, although one obvious possibility is that he wished to limit dissemination of this information to reduce the danger of leakage.
+Given the state of unrest in Cuba and the intense activity of counterrevolutionary groups, it would have been reasonable for Castro to fear that the CIA had informants within his intelligence services.
+Yet Cuban intelligence could not properly fulfill its primary mandate warning of an American attack without knowing what the Soviets in Cuba were up to that might provoke one.
+Amuchastegui explains this in terms of Pineiro's 'reluctance to submit to the Cuban leadership assessments that would challenge or even contradict Fidel Castro's own thinking'.49 It is certainly possible that Pineiro worried Castro might shoot the messenger.
+Surely Castro himself must have been concerned that the Soviet deployment could precipitate an American attack.
+It is far from clear that on this score the judgment of Cuban intelligence would challenge or contradict Castro's thinking.
+Pineiro may have known that, of course, in which case he would have been wise not to pass on a report containing nothing Castro did not already know or believe.
+This would only irritate Castro, and in Cuban politics, that would be a mistake.
+Amuchastegui insists DGI did not provide Castro with any information to that effect.
+Certainly it is unusual for political leaders to warn intelligence analysts of an impending assault.
+Amuchastegui is probably correct to infer that the information did not come from Soviet intelligence, since Castro issued precisely the same warning to Khrushchev.
+As far as we know, Castro himself has never identified a particular source for his judgment.
+The Stennis Committee and the President's Foreign Intelligence Advisory Board both probably would have given the CIA a grade of B-; 53 DCI McCone, in his response to the PFIAB report, a B+.54 We know of no official Soviet intelligence post mortems, so we cannot determine how the Soviets assessed their own intelligence performance.
+Amuchastegui notes that there were major changes to Cuban intelligence after the crisis, indicating some dissatisfaction, but that many of these changes simply sought to reduce Cuba's reliance on Soviet and East European intelligence.
+It is natural to try to judge the performance of intelligence communities, yet it is very difficult to know what standards or benchmarks to employ.
+Even an intelligence service operating at peak efficiency and unhampered by resource constraints will make mistakes and fail to anticipate important events every once in a while.
+In her essay, Beth Fischer argues that perfectly normal human psychology imposes a 'performance limit' on intelligence.
+Two decades ago Richard Betts eloquently and perceptively identified a number of other insurmountable obstacles to perfection, psychological and otherwise.
+We cannot design meaningful tests of real-world performance, as we can for student drivers.
+Certainly it would have been an intriguing idea for American officials to ask Nikita Khrushchev to deploy nuclear missiles in Cuba, so that they could test the CIA's forecasting skills; but there would have been no way to secure Khrushchev's compliance, and in any case, this would have been perverse.
+Second, since we cannot predict the future, we cannot know the 'right answers' before we administer a test.
+Occasionally it is possible to know in real time when an intelligence service misses something.
+From time to time crucial information of the kind it is the intelligence community's job to acquire reaches national leaders through entirely different channels.
+This does not, however, provide a basis for determining whether intelligence communities are performing well or poorly in general.
+An intelligence community that is performing extremely well in general will, unavoidably, miss certain things.
+Three Temptations Most judgments about the performance of intelligence arise from retrospective evaluations, such as official post mortems and academic studies.
+Retrospective evaluation has the crucial advantage of a fixed historical record against which to assess analysts' perceptions, beliefs, and inferences.
+There is always some irreducible element of uncertainty about what actually happened, of course, but this degree of uncertainty cannot compare with our uncertainty about what is happening now and what will happen in the future.
+We submit that the answer is 'not very', largely for straightforward epistemological reasons.
+However, we would like to suggest that retrospective evaluation though imperfect can be useful if we have a particular understanding in mind of how we can benefit from it.
+It is almost irresistible to focus on particular dramatic failures when assessing intelligence performance retrospectively.
+It may be doubted whether studies of intelligence successes could compete for our attention, because one of the chief things that makes a failure spectacular is that it has a dramatic consequence.
+A properly-exploited intelligence success may lead to the prevention of something spectacular.
+Moreover, a success does not provide the occasion for public angst about intelligence capabilities, and would not normally spawn public review or discussion.
+In principle, we could avoid this temptation by making an effort to study a representative sample of intelligence episodes selecting not on the outcome, but randomly, or by period of time.
+Successes leave less of a documentary trail than failures, and mundane episodes attract less attention than dramatic ones.
+There may simply not be enough information available to conduct a truly balanced study.
+The combination of inherent allure and available information means that spectacular intelligence failures have an almost irresistible gravitational pull.
+Hindsight tends to color our judgments of how intelligence analysts should have interpreted information.
+But to intelligence analysts attempting to anticipate events, those same signals may be barely perceptible, and quite understandably so.
+After the Japanese attacked Pearl Harbor, it was easy to see that there was plenty of information available on the basis of which United States intelligence might have anticipated the attack.
+Hindsight provides such a powerful prism that the intellectually frail often cannot resist the conclusion that US intelligence must have known about Pearl Harbor in advance.
+It is in the nature of Monday-morning quarterbacking to argue that if intelligence had done X rather than Y, they would have plucked the signals from the noise and correctly anticipated events.
+And it may well be true that if United States intelligence had concentrated on certain targets rather than others, relied more heavily on certain methods of collection than others, handled information differently, made use of different working assumptions, etc., etc., they would have reached the conclusion that the Japanese were about to attack Pearl Harbor in time to do something about it.
+The problem is that we cannot know this, even with the benefit of hindsight.
+All choices have trade-offs and opportunity costs that are difficult to estimate.
+Moreover, to go the extra step to conclude that intelligence should have done X rather than Y begs additional questions.
+In an enlightening and deservedly well-regarded essay written shortly after the Cuban missile crisis, Klaus Knorr attempted to understand why American intelligence failed to anticipate the Soviet deployment, and to put that failure in a context that would permit a meaningful evaluation of intelligence performance.
+In a nowfamous passage, however, he stated that 'the practical problem is to improve the ""batting average"" say, from .275 to .301 rather than to do away altogether with surprise'.59 We believe this to be misguided.
+It is a natural temptation to think of 'good' intelligence performance in terms of a high rate of success, and 'poor' intelligence performance in terms of a low one.
+Just as we can be confident that a baseball player batting .350 must be doing things right and a player batting .125 needs serious work, an intelligence agency that fails rarely must be doing well, and one that fails often must be doing badly.
+It is also natural to think that retrospective evaluation, despite its various pitfalls and difficulties, at the very least permits us to gauge the relative frequency of correct and incorrect judgments.
+The moment we begin to think about operationalizing these assessments, however, we quickly discover that the metaphor is both meaningless and unworkable.
+The USSR could derive considerable military advantage from the establishment of Soviet medium and intermediate range ballistic missiles in Cuba, or from the establishment of a Soviet submarine base there.
+As between these two, the establishment of a submarine base would be more likely.
+Either development, however, would be incompatible with Soviet practice to date and with Soviet policy as we presently estimate it.
+It would indicate a far greater willingness to increase the level of risk in US-Soviet relations than the USSR has displayed thus far, and consequently would have important policy implications with respect to other areas and other problems.
+In effect, it said that a nuclear deployment was unlikely, but not impossible.
+It did not assign probabilities, but, for the sake of argument, we can imagine that SNIE 85-3-62 meant to communicate that there was a 0. probability that the USSR would deploy MRBMs to Cuba, and a 0. probability that it would not.
+Suppose that Khrushchev had consulted with his American specialists earlier in the game, got cold feet, and decided to subtract the nuclear component from the Soviet deployment.
+And yet, in this scenario, there is nothing whatsoever that the CIA would have done differently.
+The DGI predicted that the United States would not tolerate the presence of Soviet nuclear missiles in Cuba.
+Now, the DGI was correct to predict that the United States would not tolerate the missiles, but it did not anticipate the blockade.
+Our decision will certainly have dramatic implications for DGI's batting average.
+It is clear that there is no non-arbitrary, rigorous way to gauge the relative frequency of successful and unsuccessful judgments, even in retrospect.
+Even if there were, we could not be certain that this would be a valid indicator of the competence of an intelligence community.
+Sloppy estimates are sometimes right, and careful estimates sometimes wrong, for reasons over which the estimators have no control.
+Indeed, it is possible to argue that a batting average is an imperfect indicator of skill even in baseball.
+Batters who play more games on artificial turf, against weaker pitchers, and against weaker defensive teams will have higher batting averages than better batters who play on grass against stronger pitchers and better defensive teams.
+Over a long season, a batting average can be a fairly reliable indicator of skill for players who play in a league with a balanced schedule, because these circumstances approximate the ceteris paribus condition.
+But even then a batting average is only a relative measure of skill, and the valid comparison group is limited to other players in the league.
+Intelligence analysis takes place under comparatively few parametric constraints.
+Different intelligence communities may face radically different challenges as James Wirtz discusses in his essay and one intelligence community may face consistently more difficult tasks than another.
+Finally, in intelligence assessment there is no 'standard equipment', and corked bats, far from being forbidden, are actively encouraged.
+Intelligence 'batting averages', therefore, would be meaningless measures of relative performance even if it were possible to calculate them in a rigorous, non-arbitrary way.
+Knorr might reply that he did not intend for us to take him so literally.
+Perhaps he simply meant his metaphor to imply that the practical problem is to minimize the number of errors.
+It may not be the number of errors that best measures intelligence performance, but the kind of errors.
+Because of the richness of the available record, the United States 'failure' to predict the Soviet deployment will serve well.
+The Stennis Report concluded that the 'predisposition of the intelligence community to the philosophical conviction that it would be incompatible with Soviet policy to introduce strategic missiles into Cuba' was the primary cause of its failure to predict the deployment.
+This preconception, according to the report, prevented the intelligence community from giving 'proper weight' to 'indications to the contrary'.66 The implication is that United States intelligence should not have been so firmly wedded to its preconceptions, and if it had not been, it might not have made this important error.
+The Stennis Report's conclusions provide an interesting example of Monday-morning quarterbacking.
+Neither President Kennedy, nor senior members of the intelligence community DCI McCone included, we suspect, since he was so concerned about stepping up photographic coverage of the island would have been willing to conclude that the Soviets were deploying missiles to Cuba without photographs of Soviet missiles in Cuba.
+The Stennis Report did not state, but seemed to imply, that the answer was no, concluding that a contributing cause of the failure was the CIA's tendency 'to discredit and downgrade the reports of Cuban refugees and exiles'.69 As we have already suggested, if the CIA discounted reports simply on the ground that they came from Cuban sources, this would at least have been a logical error, and might also have been a pathological prejudice.
+If the CIA could not see that a deployment was underway, it would have to try to read Soviet minds.
+The CIA had no sources in the Kremlin, and hence no good information on whether Khrushchev and his colleagues were contemplating a nuclear deployment.
+First, the CIA was attempting to ascertain the likelihood of something that had never happened before, and to do so relied upon a principle whose strict application will always result in failure to anticipate the unprecedented.
+Second, the CIA made the logical mistake of inferring intentions from behavior.
+It is fallacious to infer present intentions from present behavior, let alone to infer present intentions from past behavior.
+An act, a practice, or a policy may be consistent with a variety of incompatible purposes (the deployment itself was logically consistent with both offensive and defensive motives, for example).72 Third, even if past behavior could predict present intentions and future behavior, the inference would be arbitrary unless we could determine which of several possible ways of setting up the induction applied in a given case.
+It is certainly correct, as the CIA noted and emphasized, that the Soviet Union had never before deployed nuclear missiles beyond its borders.
+But neither had the Soviet Union ever failed to extend its nuclear umbrella over a friendly Marxist-Leninist state.
+Finally, 'past Soviet behavior' was a composite of the behavior of several Soviet leaders, only one of whom was Khrushchev, and he had not yet had much of an opportunity to leave his imprint.
+As Beth Fischer notes, the CIA might have attempted to base the estimate specifically on an assessment of Khrushchev's intentions and Khrushchev's risk-taking propensities, instead of on some generic 'Soviet' characterization.
+There was no guarantee that Khrushchev would do what Lenin or Stalin would have done had they been in his shoes instead.
+Most United States officials were shocked by the discovery of the deployment because it seemed to them to be so out of character.
+Some of these retrospective assessments cut the Gordian knot simply by assigning blame to Khrushchev for failing to appreciate the nature and intensity of American concerns about Soviet forces in Cuba, or for overestimating the likelihood that a covert deployment might succeed.
+The current record shows that Khrushchev erred, but it is interesting to note that these retrospective assessments while in this respect quite accurate themselves made various indefensible logical leaps.
+Knorr, for example, making use of a constructive distinction between technical and behavioral surprise (that is, surprise that results because someone succeeds in fooling us, and surprise that succeeds because it is, or seems to be, inconsistent with our set of expectations),74 concludes that there was nothing wrong with the set of expectations about Soviet behavior prevalent in the United States intelligence community in 1962, and that the Stennis Report erred in finding fault with it.
+Instead, Knorr considers the failure to anticipate the deployment a case of 'apparent behavioral surprise', where the USSR seemed to have adopted a course of behavior that was inconsistent with United States expectations, but, in fact, was not.
+In support of this conclusion, Knorr reasons that the lengthy period of planning and preparation that must have been involved in the deployment was 'not conducive to a strong component of emotional or irrational decision-making', and that Moscow's underestimation of the risk of the deployment can most probably be attributed to Soviet intelligence failure.
+Knorr is undoubtedly correct to suppose that there were Soviet intelligence failures; but we now know that the Soviet mistake was over-determined, and that emotional or 'irrational' factors most certainly played a role.
+Other retrospective assessments downplayed Soviet errors and quite creatively constructed a set of beliefs on the basis of which Khrushchev 'must' have been operating that would have made the covert deployment appear to be a rational gamble.
+These explanations typically relied heavily on the claim that Khrushchev had a low estimate of Kennedy's resolve because of his youth, his 'liberalism', his failure to follow up the Bay of Pigs disaster with full-scale American intervention, his overly-intellectual performance at the 1961 Vienna summit, and so on and/or the claim that Khrushchev thought that his stranglehold on Berlin gave him the leverage he needed to force Kennedy to accept a nuclear missile deployment in Cuba.
+Even nuanced retrospective analyses that made some allowance for Soviet miscalculations tended to make indefensible assumptions and inferences that we now know, on the basis of a much richer record, to have been in error.
+Most strikingly, as Garthoff discusses at length, United States post mortems consistently neglected or downplayed the extent to which Khrushchev's behavior was consistent with defensive or deterrent purposes.
+It is interesting to note that every time US analysts raised the possibility in real time or in retrospect that Khrushchev might be operating on the basis of defensive motivations, they let this possible explanation wither on the vine.
+The conclusion we must draw, then, is that there was no logically valid way for the CIA to infer Khrushchev's intentions from the information available.
+The information was consistent with any number of possible explanations and predictions.
+The best the CIA could do, as a matter of logic, was to say that Khrushchev might deploy nuclear missiles to Cuba, but that he might not.
+The difficulty is that it tells us a great deal about the CIA, but very little about Khrushchev.
+And yet it is difficult to specify exactly what the CIA should have done differently, given existing constraints on information.
+When the President of the United States asked whether the Soviet Union was likely to station nuclear missiles in Cuba, the CIA had a duty to try to answer.
+To predict the deployment correctly, the CIA would have had to assume a number of cockamamie things for example, that Khrushchev would not ask any of his experts about how the United States would react to a nuclear deployment in Cuba, and that Khrushchev could believe that the Soviet military could send 45,000 men and dozens of ballistic missiles 8,000 miles into the Caribbean without the United States catching on.
+It is easy to imagine how the President of the United States would have reacted to an estimate that stated these two assumptions explicitly.
+Even if the CIA had fully factored Khrushchev's risk-acceptance and his defensive or deterrent motivations into its estimates, it is not at all clear that the CIA would have concluded that such a deployment was, on balance, probable.
+We are inclined to agree with Garthoff that, even taking into account what was not then known, the estimate might have concluded that Soviet leaders probably would not place nuclear missiles in Cuba, even while giving 'more weight and attention to the possibility that they would do so'.79 But it is unlikely that this would have made any practical difference to a President already keenly intent on monitoring the Soviet buildup in Cuba.
+It is ironic that the United States intelligence community made such an intense effort to look for something that they did not expect to see.
+It certainly failed to make a clear prediction that the Soviet Union would attempt to deploy nuclear missiles to Cuba.
+But it did not fail American policy makers who deeply dreaded the prospect.
+The CIA was vigilant, and told the President all that he really needed to know.
+We can call these failures if we like; but we are not certain that we see the point of doing so.
+Only the last was something the CIA could have been, able to divine given its existing capabilities, and given the information at its disposal.
+The others are very difficult tasks, and the CIA could only have known these had it been lucky in data collection.
+As Garthoff notes, the White House, the Pentagon, and the CIA all assumed in prudence that the Soviet missiles were operational and that warheads were present, and given the nature of United States contingency plans for military operations against Cuba, it is unlikely that the underestimate of the number of Soviet soldiers there would have materially affected the outcome of an invasion.
+The only significant lacuna that we can identify concerns the presence of tactical nuclear weapons.
+American officials did not presume that Soviet forces in Cuba would be equipped with tactical nuclear weapons, and had Kennedy sent American forces into Cuba, they would not have been equipped with similar weapons themselves.
+Since he did not choose to invade Cuba, the CIA's failure to establish the presence of tactical nuclear weapons did not have negative consequences.
+It may be an unusual circumstance when intelligence serves policy better by knowing less rather than more; but this is a useful reminder nonetheless that the task of intelligence is not to know everything, but to serve policy, and that intelligence can serve policy well even when it does not know everything, and sometimes even when it makes mistakes.
+What we see on the American side of the Cuban missile crisis, at least, is a constructive intelligence-policy dynamic.
+Communications between the White House and the CIA were far from perfect, and there was a great deal of uncertainty in the air.
+But while the CIA did not predict a Soviet nuclear deployment, and did not fully appreciate the size, purpose, and battlefield capability of the Soviet expeditionary force even after identifying MRBMs in Cuba, it managed to avoid communicating any overconfidence in what it did know that would have either encouraged recklessness, or undercut the President's respect for, and appreciation of, the intelligence process.
+Taking in the broad sweep of the CIA's assessments before, during, and after the acute phase of the crisis, we believe that it did quite an impressive job of serving United States policy, in the light of its technical capabilities and the inherent limits of intelligence assessment.
+We can try to learn from its failure to predict the Soviet nuclear deployment, but it should not bear more than marginally on our evaluation of its performance over the course of the crisis as a whole.
+There is a sense in which Soviet intelligence was never really given a chance to fail, at least prior to the acute phase.
+Intelligence cannot serve policy when policy makers do not take it into their confidence and ask it policy-relevant questions.
+Once the crisis broke, it would appear that Soviet intelligence strove to give the Kremlin information useful for managing the crisis, but came up with very little.
+Certainly the KGB and GRU cannot be faulted for not having technical capabilities to rival CIA's or NSA's.
+But given the Soviet investment in Humint, one might have expected a better performance than Fursenko and Naftali describe.
+We will never know, of course, what contribution to policy Soviet intelligence might have made had it better integrated and synthesized sources, and had it not engaged in self-censorship.
+But we do know that these shortcomings deprived it of any real possibility.
+Nevertheless, even when measured against a lower standard of reasonable expectations, Soviet intelligence hardly acquitted itself well.
+We may say in its defense, however, that while it had great difficulty being relevant, at least it cannot be held responsible for disastrous policy.
+We cannot hold Cuban intelligence up to a standard of performance appropriate either to American or Soviet intelligence.
+It was a nascent community operating under severe technical and resource constraints.
+Moreover, the Cuban leadership was clearly selective in what questions it asked its intelligence community, how it listened, and how it used intelligence.
+Amuchastegui's account suggests that most of the pathologies evident in the Cuban intelligence-policy relationship lay on the policy side.
+Nevertheless, as Amuchastegui makes clear, Cuban intelligence did make mistakes.
+They were not, however, mistakes of the kind that would encourage faulty policy, and Amuchastegui's tale indicates to us that Cuban intelligence had a remarkably mature demeanor throughout the episode in question.
+It was circumspect, relatively open-minded, and acutely aware of the structural and domestic political challenges it faced.
+Evaluating the performance of an intelligence community in this way rather than focusing intently on specific spectacular judgments (usually misjudgments), second-guessing analysts with the benefit of hindsight, or attempting to gauge a rate of success has, we believe, at least four merits.
+First, it forces us to factor into our evaluations some baseline expectation of performance.
+Clearly intelligence communities differ from each other in raw capability and the challenges they face.
+Simply counting successes and failures even if we could do it meaningfully could tell us nothing about how well they are doing relative to each other.
+But at least we can determine roughly how well an intelligence community is doing relative to its own performance in the past when we begin by trying to establish a reasonable expectation.
+Second, while judgments of this kind can never be scientific, and while judgments of what is a 'reasonable' expectation are bound to be somewhat impressionistic, this style of evaluation has the virtue of highlighting the notion of a performance limit.
+Third, by forcing us to think about performance over an extended period of time, rather than with respect to a specific judgment, it makes it easier to bear in mind that at the end of the day the crucial judgment we wish to make is how well intelligence serves policy, not how well intelligence performs in purely intellectual exercises such as forecasting.
+No clear practical implication follows from the conclusion that the CIA failed to predict the Soviet nuclear deployment.
+Clear practical implications follow from the conclusion that Cuban intelligence depended too heavily on Soviet and East European technical services, that the KGB relied too heavily on espionage, and that the CIA was excellent at technical monitoring but weaker at political analysis.
+Monday-morning quarterbacking and attempting to improve the batting average, then, are misguided approaches to evaluating intelligence performance.
+We offer instead a third sporting metaphor drawn from the only game harder than life itselfgolf.
+As a metaphor, it has a few obvious weaknesses, but we believe that it also has much to commend it.
+There is a sense, then, in which their scores are directly comparable to one another.
+Excellent golfers will consistently beat par, but no golfer can even in principle score lower than 18 in one round of golf, and certainly no golfer playing a standard par-72 course with regulation equipment could ever hope to score 36.
+A 'good' round of golf is one in which one scores lower than usual; a 'poor' round is one in which one scores higher than usual.
+Indeed, a round without a single poor shot is almost unheard of, even for professionals.
+The best golfers are those who make relatively few poor shots, and recover from them well.
+Players with beautiful swings who consistently choose the wrong clubs or make poor decisions about where to aim players, for example, who refuse to acknowledge the existence of tall trees and water hazards may score worse than players whose swings are technically inferior, but who play a smarter game.
+Some are better off the tee; others are better around the green; still others are better on the green.
+Some have no difficulty with sand traps and do not take pains to avoid them; others have great difficulty and try to avoid them at all costs.
+They enjoy the challenge of playing new courses, though they understand that, given two courses of approximately equal difficulty, they cannot expect to score as well on the course that they have never played before.
+When they score poorly, they reflect solemnly upon their poor shots though they may not choose to do so publicly.
+Golfers try to cultivate practices that work well, and to eliminate bad habits.
+Betts suggested that '[njegative or descriptive theory the empirical understanding of how intelligence systems make mistakes is well developed,' but that positive theory and normative theory were not.
+Certainly if by 'positive theory' we mean a robust and heuristic set of propositions relating causes and effects -g., condition x predicts y with probability p it is impossible to identify anything in the open literature that would count as a 'theory' of intelligence assessment.
+And we may justly wonder whether any such thing is possible in principle.
+The very difficulty of operationalizing the notion of 'success' and 'failure' would seem an insurmountable obstacle.
+Intelligence analysts are not in the business of drawing logically-necessary conclusions about behavior on the basis of evidence generally knowable to be sufficient for that task.
+Leaders of states do not make decisions under constraints sufficiently numerous and sufficiently knowable to make talk of the 'probabilities' of their choosing alternative courses of action objectively meaningful.
+Such language conveys information not about the target, but about the analyst.
+When McCone and his subordinates at the Office of National Estimates debated whether Khrushchev was 'likely' or 'unlikely' to deploy MRBMs to Cuba, they articulated differences in their own fears and beliefs, and their own judgments of the implications of what American intelligence saw on the high seas and in Cuba.
+There was no objectively knowable 'likelihood' that he would do anything in particular.
+McCone was right for bad reasons, and his analysts were wrong for less-bad reasons, but Khrushchev was Khrushchev a complicated man with a mind of his own, not some automaton preprogrammed according to a 'Soviet' behavioral algorithm.
+Betts is clearly correct that 'egative or descriptive theory the empirical understanding of how intelligence systems make mistakes is well developed', if by this he means that there are many different bodies of theory upon which to draw in order to try to explain errors.
+The style of argument whereby one assesses the 'goodness of fit' of a body of propositions well-established in one domain with the empirical details of a particular case in another does not, however, lead to the kind of cumulation or generalization to which positive science aspires.
+It is often possible to say that a body of theory can help us make sense of an otherwise puzzling event, because it supplies us with concepts and cause-effect propositions in terms of which to understand it.
+Without a positive theory of intelligence assessment, it is difficult to know how to go about constructing normative theory.
+This is why it may be unfortunate that 'official post mortems of intelligence blunders inevitably produce recommendations for reorganization and changes in operating norms'.92 Not only can we not be certain that we would have avoided one mistake had the organization and process of intelligence been different in the particular case at hand, but our tinkering may well induce other, possibly more serious mistakes in the future.
+Recognizing that there is a performance limit to intelligence, and that intelligence assessment is an art rather than a science, should certainly induce caution against lofty expectations.
+But there is one general phenomenon characteristic of human judgment and perception the greater appreciation of which can cultivate a useful circumspection in intelligence assessment.
+Before closing, we will touch upon it and reflect upon how it might bear on practice.
+When Meno asked Socrates, 'How will you look for it ... when you do not know at all what it is?', he did not make the mere 'debater's argument' for which Socrates chided him.
+Once we allow some prior familiarity, we court infinite regress and the disturbing conclusion that knowledge is not possible at all.
+In any case, the metaphysical presuppositions of Socrates's answer seem in no less want of justification than the answer itself.
+The paradox remains unresolved, though its contours and implications are now clearer, thanks to the efforts .of Gadamer, Quine, Chomsky, and others.
+There are many vocabularies to use when describing and exploring the phenomenon and many angles from which to look at it.
+Fischer describes it in the language of cognitive psychology, but we could just as well do so in the language of structural sociology, semiotics, cultural anthropology, or hermeneutics.
+This does not necessarily mean that analysts will have an easy time trying to achieve some 'perspective on perspective', however.
+Today, I believe it is clear that there was a failure of estimative empathy, of viewing the situation as the Soviet leaders did as they made their decision to place missiles in Cuba.
+In particular, even if Soviet considerations of redressing the unfavorable strategic global balance for defensive and offensive purposes was paramount, as I continue to believe it was, it is now evident that deterrence of a US attack on Cuba was also a consideration of major if not equal importance.
+Yet the failure to see the situation through Soviet (to say nothing of Cuban) eyes blinded the United States intelligence community as a whole to that significant factor.
+American intelligence estimators should have recognized a Soviet incentive to defend Cuba against a plausible American threat well before the Soviet decision to deploy missiles was made.
+As Garthoff supposes, this might have given the President additional reasons to try to forestall it by means of earlier and stronger warnings.
+If Garthoff means to suggest that this was an avoidable mistake, however, we are not so sure.
+There were many reasons why United States intelligence did not and could not easily empathize with Khrushchev.
+It took the shock of the Cuban missile crisis to demonstrate to American officials that they badly misunderstood him, and even then they did not appreciate exactly how they had misunderstood him.
+It is difficult enough to empathize with an adversary in retrospect; it is asking a great deal of analysts to empathize in prospect.0 The paradox of knowledge must incline us to disagree with Fischer that there is a useful distinction to make between theory-driven and data-driven thinking.
+We can only make sense of the world on the basis of some prior understanding.
+Yet at the same time, understanding must always, to some extent, be frustrated by them.
+All intelligence communities would like to minimize the frustration, and to tip the balance between knowledge of self and knowledge of other in the direction of the latter.
+Betts is certainly correct that intelligence failures are inevitable, and he rather pessimistically concludes that the inherent limits of intelligence assessment suggest that we are unlikely to realize more than marginal benefits from procedural innovation.
+Fatalism may be entirely appropriate if we insist upon thinking of 'better' intelligence as an improvement in some rate of success, or as a purely intellectual measure of the accuracy of an intelligence community's judgments of an adversary.
+But we may be able to improve the effectiveness of intelligence quite dramatically simply by keying on possible sources of intellectual error.
+Because intelligence assessment is so heavily dependent upon assumptions and specific modes of inference, it stands to reason that if policy makers were more fully aware of them, they would be better able to read, understand, and make use of intelligence.
+National leaders are often sophisticated analysts in their own right, who operate on the basis of certain assumptions about the world, and who draw their own conclusions on the basis of their own beliefs.
+There is ample evidence of this on all sides in the Cuban missile crisis, certainly, although of the three leaders Khrushchev appears to have relied upon his own analysis most heavily, and Kennedy least.
+But all leaders are, to some extent, their own analysts, and are therefore confronted with the task of having to make sense of intelligence assessments which may or may not reinforce their own expectations.
+Most, perhaps, are too busy to do this even should they wish to do so, and must be content to receive the intelligence community's distilled wisdom.
+But relatively few, we suspect, think hard about their own assumptions, beliefs, and modes of inference, let alone those of their intelligence analysts, and accordingly most have but a dim appreciation of the underlying points of, and reasons for, similarity or disagreement.
+A political leader with strong beliefs and a high degree of selfconfidence may simply dismiss as flawed an intelligence report dissonant with his or her own judgments.
+Over time, given enough points of disagreement, this would quite naturally lead to an intelligence-policy rift.
+If intelligence analysts took pains, however, to flag the assumptions and inference patterns undergirding their estimates, this would not only tend to improve the rigor and consistency of estimates, but it would enable policy makers to see more easily why they agreed or disagreed.
+In some cases this might even lead to a productive dialogue between policy makers and analysts on crucial assumptions.
+This was precisely the rationale for an intriguing innovation instituted by the former Chairman of the National Intelligence Council, Joseph S Nye Jr, who required intelligence estimates to identify and flag the crucial assumptions upon which they were based.
+The intelligence community initially resisted the requirement, but came to regard it as salutary for helping structure and clarify their own assessments.
+For policy makers, it provided several points at which to engage an otherwise terse and remote summary document.
+As policy makers bear the ultimate burden of responsibility, anything that helps them to better understand both intelligence and the presuppositions of policy represents a potentially important contribution.
+These practices would help prime policy makers to appreciate the performance limits of intelligence, and to integrate estimates more fully and more easily with their own judgments.
+At the same time, they would preserve intelligence estimates intact for those policy makers who are only interested in the distilled wisdom of the intelligence community and who have neither the time nor the inclination to peruse appendices.
+The main attractiveness of the practice lies in its potential for engaging decision makers in the intelligence-policy process.
+At a minimum this would have given Kennedy and the ExComm a head start on trying to fathom Khrushchev's mistake after 15 October.7 But no adjustment to the presentation and content of estimates stands even a remote chance of improving intelligence performance when political leaders ignore, manipulate, lead, or censor their intelligence services.
+Both Amuchastegui and Fursenko and Naftali provide ample evidence of pathological intelligence-policy relationships caused by meddling or overconfident leaders.
+This serves to underscore the importance of recalling that effective policy requires a certain disposition on the part of political leaders, as well as a certain competence on the part of professional intelligence analysts.
+The wide variation evident in the three intelligencepolicy relationships examined in this volume strikes us as utterly typical of intelligence-policy relationships in general.
+If so, this may be the only sense in which the Cuban missile crisis was run-of-the-mill.
+Certain events may reflect the significant dimensions of all your life, mirroring your entire history in a passing moment.
+Throughout we will cite the essays in this volume by author, without title.
+Two years later, he still believed this, despite the change in administration and the experience of the Bay of Pigs.
+Noonday 1990); James G Blight, Bruce J Allyn, and David A Welch, Cuba on the Brink: Castro, The Missile Crisis, and the Soviet Collapse passim.
+The weight of evidence and testimony available today would strongly suggest that Khrushchev did not seriously begin to consider a nuclear deployment to Cuba until April or May 1962, and that planning for the operation did not begin until shortly thereafter.
+The second reason which apparently led Cuban intelligence to conclude that Khrushchev must have conceived the deployment much earlier was the judgment that the Soviet Union a notoriously sluggish and bureaucratic state could not have planned and carried out such an ambitious redeployment in a mere 90 days.
+It is important to note, however, that Cuban intelligence apparently believed that the deployment was substantially complete by mid-September, and did not appreciate that the first Soviet MRBMs in Cuba only became operational in late October four and a half months after planning could have begun in earnest following a late-May decision to proceed and that the IRBMs never arrived.
+While this would still be a significant accomplishment for a notoriously sluggish and bureaucratic state, it could not be considered downright unbelievably rapid.
+The second task of the delegation was to assess the prospect that strategic nuclear missiles could be deployed in Cuba without the United States discovering them.
+Fursenko and Naftali are correct to state that Alekseev 'was consulted on the project' if by this they mean that he was not brought in on the deliberations before Khrushchev had made up his mind to propose the deployment to Castro.
+However, as Alekseev recounts the tale, once Khrushchev had decided to make the offer, he did ask Alekseev how he thought Castro would react.
+But even if it were incorrect, it would be natural, because the Cubans like the Americans understood the Soviet Union as a coherent rational actor.
+Che's next documented voyage to the Soviet Union took place in late August 1962.
+The chief purpose of that trip was to propose making the deployment public.
+It seems unlikely that Amuchastegui is thinking of this particular trip, as increasing levels of military aid were not on the agenda.
+Certainly there is ample evidence that the KGB played at best a minor role throughout.
+It would appear from the somewhat thinner testimonial and documentary record on Soviet military intelligence that the GRU was marginalized as well.
+In his annual message to Congress on 2 Dec.23, President James Monroe warned European states against any future attempts to colonize the Americas, declared that the United States would consider any attempt by the nations of Europe to extend their system into the hemisphere 'dangerous to our peace and safety', and disavowed American participation in European wars.
+While Khrushchev may have believed that American participation in World Wars I and II represented a renunciation of the Monroe Doctrine, Troyanovsky would have known that no one in the United States so considered it.
+The KGB, despite a lack of highly-placed sources, seems to have had a fairly good understanding of President Kennedy, his attitude toward Cuba, and the constraints under which he operated domestically.
+It is interesting to note that senior members of the Kennedy administration unanimously agree that had Khrushchev attempted to deploy the missiles openly, the United States would have been in a much more difficult position.
+The secrecy and deception surrounding the deployment enabled the United States to characterize it as sinister and aggressive, and to deflect attention from the undeniable fact that what the Soviet Union and Cuba were doing was entirely legal.
+Graham Allison has suggested that organizational routines may explain the failure of the Soviet military to camouflage the missile sites effectively; Essence of Decision, , 111.
+An explanation more consistent with the available evidence is incompetence.
+Castro has spoken in general terms about his conviction that the United States, once ready, would pounce, and would seek to do so without warning.
+Evidently he was determined not to make the mistake Stalin had made in 1941 of failing to prepare to meet an assault that could be launched at any time.
+Fischer discusses in her essay, although his study predates much of the research upon which Fischer draws.
+Betts also draws our attention to the fact that intelligence communities are often engaged in a zero-sum strategic interaction, whereby success for one logically implies failure for the other.
+See also Michael Handel, 'Intelligence and the Problem of Strategic Surprise', Journal of Strategic Studies 7/3 230.
+In particular, it was observed that several Soviet merchant ships with large hatches en route to Cuba were riding high in the water, indicating bulky but relatively light cargo, such as missiles.
+Some of these ships were seen unloading normal cargoes, but others were reported to be unloaded at night, again a possible indicator of a cargo of special sensitivity.
+US intelligence did notice all of this at the time, but it may be doubted whether the CIA had compelling reasons in 1962 to regard it all as more significant than they did.
+Monday-morning quarterbacking is much easier for football fans than for critics of intelligence, because in football it is possible to play the percentages.
+Critics of intelligence do not ordinarily have good-quality base rate information with which to second-guess intelligence professionals.
+One possible rebuttal is that the CIA should have known that Khrushchev would not consult his American specialists, and that they should have factored this into their estimate.
+This reply, however, begs all of the difficult questions to which we allude under the previous head.
+Echoing the point of the previous paragraph, it is worth noting that had President Kennedy not chosen to deliberate for a week before choosing his response to the Soviet deployment, he might very well have done as Cuban intelligence anticipated.
+On 16 Oct., the mood in the White House cabinet room was decidedly belligerent.
+Although the timing of the American response was not something Cuban intelligence controlled, it might well have had a significant effect on our retrospective assessment of their performance.
+Since this was an open-ended prediction, we are technically still not in a position to determine whether that estimate was correct.
+Note that Garthoff does not make this statement specifically in reply to the Stennis Report.
+Clearly the large number of false reports of missile sightings by Cuban agents and refugees had led CIA analysts to believe that Cuban sources were unreliable, and that their reports had ulterior purposes.
+It might be replied here that certain kinds of behavior unambiguously telegraph intentions.
+For example, we can infer reliably that a leader who masses troops on the border in a full battle-ready posture intends to attack.
+This behavior, however, is fully consistent with other intentions:g., to provoke an attack, to intimidate, to signal acute concern, and so forth.
+Similarly, United States analysts and policy makers had insufficient evidence on the basis of which to draw reliable conclusions about what Soviet leaders might be willing to consider by way of retaliation for American military action against Cuba.
+N.B. that Garthoff argues, on the basis of present knowledge, that this is what the estimate should have concluded, 80.
+We would choose some word other than 'compel', in view of the fact that the United States agreed secretly to withdraw its Jupiter missiles from Turkey as a quid pro quo.
+We should qualify this last statement by noting that we do not know whether United States signals intelligence had collected anything that would have clarified any of these matters.
+Defining 'an event' spatio-temporally is, to some extent, arbitrary, and is perhaps usefully understood as a function of socio-cultural propensities.
+We have remarked before upon the different understandings of the crisis in the United States, the Soviet Union , and Cuba, and the significance of the different names by which it is known in each country.
+We have also argued that culturally-rooted differences in problemrepresentation help account for its genesis and greatly complicated its resolution.
+Thus by contrasting US intelligence performance with respect to Cuba over the period 1958-61 and 1961-62 — with the Bay of Pigs and the Cuban missile crisis as foci we can meaningfully conclude that the CIA performed poorly in one period and well in another, and we can learn something of practical consequence from the contrast.
+Military shipments from the USSR, after a buildup in 1961, were lower in the first half of 1962.
+The purge itself was consistent with diametrically opposite motivations, and United States intelligence simply leapt to the conclusion that it implied one in particular.
+Garthoff considers the United States judgment 'intuitive', but this, of course, is merely another way of saying that it was more consistent with suppressed assumptions.
+This is a complicated claim whose full exegesis would take us very far afield.
+The gist, however, is that leaders of states make decisions on the basis of idiosyncratic beliefs and judgments about the lessons of history and how the world works, and do so consciously in reaction to the historical record, often precisely so as to surprise.
+Important choices are often unprecedented, or have important unique features, such that the historical record provides no basis for estimating a probability distribution.
+Among political scientists there is a widespread impression that 'expected utility theory' can serve as the basis for intelligence assessment.
+Bruce Bueno de Mesquita claims a successful point-prediction rate of over 90 per cent across a variety of political decisionmaking domains for a particular expected-utility model based upon Black's median voter theorem.
+Bueno de Mesquita's model is not, however, an 'expected utility' theory at all, merely a computational device for aggregating subjective judgments of actors' weighted preferences on a given issue.
+To simplify a bit, Lakatos argued that we should prefer theory x to theory y when x explains everything y explains, plus additional facts.
+It would certainly appear that what might be thought of as 'intellectual culture' has a profound effect on political judgments of all kinds, including intelligence assessments.
+In the Western world, at least five stock assumptions about how international politics works, and about how leaders make decisions — roughly congruent with the 'Realist' understanding of international politics tend to dominate.
+Among the most important of these assumptions are that all states always seek 'power'; that leaders are 'rational'; that all leaders understand, and respond to, threats and incentives; that the adversary's behavior is always intentional; and that the adversary's actions are always coordinated and meaningful.
+Typically, when leaders and analysts attempt to make sense of an adversary's behavior, they infer evil intent from actions they dislike, and dismiss as disingenuous and instrumental arguments adversaries make that appeal to notions such as justice or fairness.
+These assumptions exert a powerful spin on ambiguous data, and can lead to tragic misjudgments.
+As we suggest in our introductory essay, these may not have been effective in the absence of credible offers to alleviate Khrushchev's anxieties, and it is difficult to imagine what those offers might have been, given the political realities of the day.
+Kennedy did not need the impetus of an intelligence assessment to communicate more clearly with Khrushchev.
+Yet, conceivably, had the CIA raised the alarm earlier, it might have been able to serve policy even better than it did.
+But as Garthoff also notes extensively, even after the shock of the missile crisis, retrospective evaluations consistently underestimated Khrushchev's deterrent and defensive motivations.
+It seems to us undeniable that the self-awareness of the United States government perhaps of the entire country was so deficient, and so discrepant with Cuban perceptions of the United States, as to be laughable were not the stakes too high for laughter.
+From the American perspective, Cuba was simply absent from the Cuban missile crisis.
+While it is possible to imagine that some American official or commentator might have posed these questions and answered them affirmatively in 1962, it is difficult to imagine this having had much effect on America's Cuba policy, given the grip that the rational deterrence/Cold War perspective had on the American imagination at the time.
+Notwithstanding their judgment that the United States would eventually try to destroy the Cuban Revolution, Cuban intelligence concluded that an American attack was not imminent after the Bay of Pigs because the pattern of activity conducted under the rubric of Operation 'Mongoose' seemed ill-designed to prepare the ground for an American invasion; and Cuban intelligence believed that the United States would not invade Cuba without adequate diplomatic 'cover' and the sanction of other Latin American states.
+Clearly DGI drew heavily upon assumptions about American behavior when attempting to predict American behavior.
+Since American behavior was consistent with different interpretations, data-driven thinking, even if it were possible, would have led to no particular conclusion at all.
+Instead, we would suggest that Khrushchev would have reached the same conclusion as Cuban intelligence if he had relied upon a different set of assumptions with which to interpret ambiguous American behavior.
+Cuban intelligence, on the other hand, inferred Soviet motives from the available data — specifically, the discrepancy between the dire Soviet assessments of the American threat and Cuban assessments that such a threat was receding.
+We understand Cuban judgments here as no less theory-driven than American judgments.
+According to Amuchastegui's account, Cubans had been somewhat suspicious of Soviet intentions all along, and therefore, among the available set of working assumptions about Soviet behavior, was the hypothesis that Soviet policy with respect to Cuba was driven by narrow self-interest rather than altruism.
+Cuban intelligence was never wedded to the altruism assumption and had no difficulty assimilating the available evidence to an alternative assumption.
+Note also that Soviet dissimulation did not logically imply that the Soviet motive in deploying nuclear missiles to Cuba was to gain a strategic advantage over the United States.
+We are not clear on the chief reason for the resistance, though it is possible to imagine that estimators feared it would be onerous, distracting, or superfluous.
+One of the striking features both of United States intelligence assessment and White House decisionmaking during the Cuban missile crisis was the partial success achieved in relaxing certain common assumptions and articulating the implications specifically, the assumptions that the adversary is a 'unitary' and 'rational' actor.
+US policy makers, similarly, 'prudently allowed for the possibility that even if Moscow instructions prohibited initiative of Soviet forces in Cuba to fire the nuclear missiles there, in case of an American air strike or invasion any surviving Soviet missiles might be fired either with or without authorization from Moscow.
+In our view, United States policy makers were encouraged to relax these assumptions about Soviet behavior in part because of their own experience during the crisis and particularly at its climax of American command-and-control problems.
+Note also that it would have helped minimize the dangers of post-hoc rationalization characteristic of several prominent retrospective studies that attempted to make sense of Khrushchev's calculations.

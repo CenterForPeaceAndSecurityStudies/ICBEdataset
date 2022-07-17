@@ -1,0 +1,1094 @@
+The first is in political science, where exciting new research has been published about such important subjects as the causes of nuclear weapons proliferation, the linkages between the growth of civilian nuclear power and the spread of nuclear weapons, deterrence and compellence theory and practice, and the consequences of new states acquiring atomic arsenals.
+A second renaissance is occurring in history, as new archives have opened up and scholars are studying such important subjects as Cold War crises, the evolution of international institutions such as the Treaty on the Non-Proliferation of Nuclear Weapons and the International Atomic Energy Agency , and the history of medium powers and smaller states that decided to pursue or decided to stop pursing nuclear weapons.
+Over the past decade, two intellectual renaissances have emerged in the field of nuclear security studies.
+These two scholarly renaissances, however, have largely developed in completely separate spheres, or on parallel tracks at best, with little interchange between historians and political scientists.
+This is deeply unfortunate, for creative multidisciplinary research can significantly improve our understanding of complex technical, historical, and political phenomena such as the causes and consequences nuclear weapons proliferation.
+During the golden age of nuclear strategy in the 1950s and 1960s, for example, when many of our theories about nuclear weapons were first developed, the breadth and diversity of scholars engaged in the field was stunning.
+Both political scientists and historians too often publish only in their own disciplinary journals, attend only their own professional conferences, care only about policy implications of their narrow findings, and only engage in debates with members of their own academic tribes.
+Robert Jervis, James McAllister, and Francis Gavin are therefore to be thanked for putting together this H-Diplo forum and for encouraging dialogue across the disciplinary divide.
+Second, I will briefly outline the major points made by the contributors to this lively forum.
+Third, I will discuss how historians and political scientists can interact and contribute to, rather than simply critique, each other’s work more effectively.
+In the decades after the end of the Cold War, many political science students and scholars turned their attention to studying civil wars, insurgency, and terrorism, with far less research conducted on nuclear issues.
+Over the past decade, however – sparked in part by real-world policy concerns about North Korea, Iran, nuclear terrorism, and global disarmament – much new research has been published on nuclear weapons issues.
+This H-Diplo Forum focuses mostly on new nuclear security literature using large-N statistical methods, but the renaissance in political science work on nuclear issues is much broader in focus and more diverse in terms of methodology than this admittedly important emerging strand of the literature.
+New nuclear weapons research in political science includes important case-study work examining the domestic political and psychological determinants of proliferation, normative and constructivist analyses of states’ and individuals’ nuclear identity and ethical taboos, new game theoretic models of proliferation and preventive war decisions, and the use of public opinion survey experiments.
+Some nuclear scholars – Vipin Narang and Matthew Kroenig, for example – use multiple methods, combining detailed case studies with quantitative tests to determine both broad correlations between variables and the importance of causal mechanisms.
+The renaissance in nuclear security studies among historians also displays considerable diversity regarding methods and approach.
+Important books by Marc Trachtenberg and Francis Gavin, for example, primarily use American archives to illuminate the evolution of United States nuclear strategy and high-level international diplomacy during the Cold War.
+Other scholars have focused on social factors and domestic politics to examine nuclear decision making in different countries, such as Matthew Jones’ book about race and nuclear weapons threats in Asia, Sasha Polakow-Suransky’s work on Israeli-South African nuclear cooperation, and Tsuyoshi Hasegawa and his collaborators’ work on the influence of national perceptions and misperceptions on Cold War crises.
+Some scholars – Timothy Naftali and Aleksandr Fursenko are a prominent example – formed effective partnerships to conduct joint research in Soviet and American archives.
+In a related development, historians, anthropologists, and sociologists using approaches developed in science, technology, and society studies have produced stunningly innovative work on missile accuracy, the Indian nuclear power and weapons programs, the fire and blast effects of nuclear weapons use, and the links between nuclear technology and development in Africa.
+These are exciting developments in political science and history, but it is surprising to see how rarely work in one discipline influences work in the other.
+This H-Diplo forum is therefore an important and pioneering effort of cross-fertilization.
+Historian Francis Gavin provides a detailed and critical assessment of some of the recent large-N statistical studies on deterrence and compellence.
+He argues that misunderstandings about specific historical cases, especially the 1961 Berlin Crisis, have created deep flaws in the specific articles he reviews here, and are also illustrative of fundamental weaknesses in the large-N social science approach to nuclear studies more generally.
+The political scientists who are the targets of Gavin’s critical review – specifically Matthew Fuhrmann, Matthew Kroenig, and Todd S Sechser – respond to Gavin’s critiques and defend their use of statistical methods both individually and in a joint ‘united front’ essay.
+Brands importantly calls for diplomatic and international historians to become more “theory-literate” and to be more willing to do comparative work in order to make accurate generalizations and to contribute more effectively to policy debates.
+I will leave it to the readers to decide for themselves who ‘wins’ the various debates presented in this forum about what kinds of methods and evidence are best utilized to improve our understanding of nuclear politics.
+This forum should, however, be considered merely the start of a dialogue across disciplines.
+One way to gain the benefits of multidisciplinary research is to form joint research collaborations.
+Works produced by historians and political scientists working as co-authors on nuclear-related projects include, for example, my article with Jeremi Suri about Richard Nixon’s Madman nuclear alert in 1969 and Hal Brands and David Palkki’s co-authored work on Saddam Hussein’s nuclear ambitions.
+Having been the recipient of one of Francis Gavin’s critical reviews in the past, I know how valuable it can be for political scientists and historians to debate carefully the accuracy of interpretations, the facts of individual cases, and the influence of hidden assumptions on our findings.
+Yet I also see an unfortunate tendency, as exemplified by Gavin’s approach in this forum, for historians to focus their criticism on interpretations of the specific cases that they know well and accuse political scientists of getting crucial facts wrong and thus miscoding particular cases.
+This is a useful and fair criticism, of course, but it too easily enables political scientists to wiggle away from broader criticisms by claiming that even if one accepted that a single case was wrong, there are so many other cases represented in their data that one small change in coding does not hurt the robustness of their general findings.
+The nature of this kind of intellectual critique and the resulting defense is unfortunate, however, for historians can and should play even more important roles in helping to improve the research and findings of political science scholars.
+First, they can assess whether the theory or theories developed are logically consistent.
+Second, they can examine the accuracy of the empirical evidence to determine whether the correlations presented by authors are valid.
+Third, they can dig into the details of cases – using what Alexander George calls “process tracing” – to determine whether the factors and causal mechanisms posited as being influential in the theory are actually performing that function in the historical record.
+It is perhaps understandable that historians like Gavin mostly challenge interpretations of individual historical cases, in this instance the 1961 Berlin Crisis, in their critiques of political science.
+But because Gavin does not make an effort to demonstrate that Berlin is, as he claims, “the most important and most representative case” of the effects of the nuclear balance between adversaries on crisis outcomes, political scientists can easily claim, as they do repeatedly in this forum, that their findings are robust.
+This means that even if one accepts Gavin’s critique about this one case, the generalizations or findings based on a much larger set of cases in the database remain valid.
+It is important that historians be much more than mere ‘fact checkers’ for political scientists, for they can usefully perform critical roles in contributing to all three of the kinds of critiques outlined above.
+Kroenig theorizes that states with a larger number of nuclear warheads in their arsenal are more likely to win – that is, to achieve their central objectives – in crises with other nuclear weapons states.
+He clearly explains his argument – that leaders of superior states will have more resolve because they would suffer less in a nuclear exchange – and provides a formal model demonstrating the logical consistency of the argument.
+But a historical sensibility would encourage a theorist to think differently about the logic in two ways.
+First, one would want to know if there is any reason to believe that statesmen in many of the cases knew whether their nuclear arsenal was larger or smaller than their competitors’ nuclear arsenals during crises.
+But I see no reason to believe that Indian or Pakistani leaders knew the size of their adversary’s nuclear arsenal when they tested nuclear weapons in 1998, during the 1999 Kargil war, or during the 2001 crisis after the terrorist attack on the Indian parliament.
+Second, one would want to examine the whether the variable being measured is logically connected to the factor that the theory claims is of causal importance.
+Kroenig operationalizes nuclear superiority in a binary manner, coding the state that has the overall larger number of warheads as the superior state regardless of whether the difference in arsenal size is massively large or minutely small and regardless of whether the weapons are strategic or tactical battlefield weapons.
+Kroenig, for example, notes that the Soviet Union “won” the 1979 “Invasion of Afghanistan” crisis with the United States, and claims that this case supports his theory that the Soviet leadership had more resolve than United States leadership because the USSR had nuclear superiority.
+In 1979, however, the database he uses shows that the Soviet arsenal had 27,935 nuclear warheads while the United States arsenal had “only” 24,107 warheads.
+I leave it to the reader to determine whether there is a logical reason to think that Soviet leaders with such a “superior” nuclear arsenal in 1979 would find such an “advantage” in overall nuclear warhead numbers to be an important source of resolve in the Afghanistan crisis.
+Another avenue for critiquing political science is to ask if the evidence is accurate, or in the case of large-N work, if the coding of the variables is done in a manner that is consistent with the known facts.
+Here, for example, rather than criticizing the coding of one or two cases, a stronger historical critique would examine whether there are systematic biases in the data that produce not one error, but a pattern of errors that push in one direction and would therefore can make the findings less robust.
+This requires that scholars jump into the details of the data, studying it the way a good historian studies the materials in an archive.
+Gavin nicely questions the coding used in political science databases that claims that the Soviet Union “won” the 1961 Berlin crisis.
+A much larger and systematic bias in the widely-used coding contained in political science databases has been suggested by Yevgeniy Kirpichevsky and Phillip Lipscy in their research on regime type and crisis outcomes.
+They theorize that democratic leaders are less willing than autocratic leaders to accept secret deals that mask hidden compromises as public defeats.
+If Kirpichevsky and Lipscy’s hypothesis is correct, our confidence in the traditional coding of crisis outcomes will be reduced and many findings about crisis management, democratic advantages, and coercive diplomacy will need to be reexamined due to systematic biases in data sets.
+A third way to critique political science findings – conducting detailed case studies to assess whether the causal mechanisms deemed to be important are actually producing the outcomes – is what historians excel at.
+Predictably, Gavin’s commentary on Berlin and other crises is at its strongest in this dimension.
+But I hope that political scientists do not leave the crucial task of ‘process tracing’ to the historians, for social scientists should always, in my view, be concerned about causation, not just correlations.
+Here I share Gavin’s skepticism about whether Kroenig, Fuhrmann, and Sechser have “proven” their cases, for until they have studied the details of at least carefully selected cases, many of their “statistically robust” findings could still be utterly spurious.
+In addition, historians, with their emphasis on explaining both continuity and change, should be even better than political scientists at identifying discontinuities that can influence the ability to make accurate generalizations across space and time.
+The degree to which the development of nuclear weapons in 1945 changed the dynamics of international politics, of course, is one common subject of scholarly debate in this regard.
+But there are other potential nuclear discontinuities that need to be studied with the historian’s sensitivity for seeing change and the political scientist’s penchant for discerning patterns.
+In a similar way, every new nuclear state is born into a different nuclear system, which might alter both the complexity of balancing behavior in deterrent relationships and possible patterns of cooperation.
+These kinds of questions will best be addressed in the future through a mixture of political science and historical methodologies.
+Indeed, there is enough heat generated in this exchange of opinions that one can confidently predict that the forum will spark further debates.
+Certainly, the field of nuclear security studies has sufficient complexity and importance to deserve a big tent.
+A Review Essay”by Francis J Gavin, Frank Stanton Chair in Nuclear Security Policy Studies, MIT “Susan, we need to talk.
+We can say we love each other all we want, but I just can’t trust it without the data.
+And after performing an in-depth cost-benefit analysis of our relationship, I just don’t think this is working out.
+I just made a series of quantitative calculations, culled from available OECD data on comparable families and conservative estimates of future likelihoods.
+I then assigned weights to various “feelings” based on importance, as judged by the relevant scholarly literature.
+From this, it was easy to determine that given all of the options available, the winning decision on both cost-effectiveness and comparative-effectiveness grounds was to see other people.
+Josh Freedman, “It’s Not You, It’s Quantitative Cost-Benefit Analysis,” Timothy McSweeney’s In his memoirs, President Harry S Truman claimed he issued an ultimatum — the first of the atomic age — that forced Stalin to remove Russian troops from Iran in 1946.
+Years later, however, former United States State Department official George V Allen told political scientist Alexander George that neither he nor other high-level officials from that period – including Averell Harriman, the United States Ambassador to the Soviet Union, and James Byrnes, United States Secretary of State – knew of any explicit threat issued by the President to the Soviets during the crisis.
+While Allen acknowledged that sending an aircraft carrier would have sent a powerful message – “it might well have carried an atomic bomb” – he worried how scholars would portray the incident.
+The 1946 Azerbaijan crisis — coming less than seven months after the United States became the first and only country to ever drop nuclear weapons on another country — has both fascinated and confounded scholars.
+This would not be the last time these questions would confound and perplex observers.
+Strategists suggested that these powerful, horrific weapons might serve to prevent other states from attacking those who possessed them.
+These are questions of fundamental importance that have been fiercely contested for years, and despite scores of articles and books, no consensus has been achieved.
+Consider the current discussion over Iran’s purported nuclear ambitions.
+It is hard to formulate a consistent, logical position about contemporary challenges without wrestling with deeper theoretical and empirical questions surrounding nuclear dynamics.
+Three bright young scholars believe they have a way to answer these questions.
+The goal is to identify and cumulate the “universe” of like cases where important issues such as nuclear blackmail and superiority were engaged, identify and “code” the key variables, and undertake statistical analysis and draw causal inferences about what mattered and what led to certain outcomes.
+Sechser and Furhmann want to know whether nuclear weapons give states a greater ability to “compel” their adversaries to change their behavior, as opposed to merely deterring them.
+They contend that unlike previous studies, theirs explores nonnuclear as well as nuclear coercion, in order to generate “variation” to identify the real impact of nuclear weapons.
+Furthermore, they separate out crisis victories that are caused by compellence and those achieved by “brute force,” pointing out that the latter are in fact compellence failures.
+The paper concludes that compellence is only likely to be effective when a challenger credibly seeks to seize an adversary’s territory and can enact a threat with few costs to itself.
+Sechser and Furhmann’s statistical analysis suggests that whatever deterrent benefits nuclear weapons may confer, they are poor tools to bring about changes in international relations.
+To do so, he also constructs his own dataset, made up of what he has identified as fifty-two nuclear crisis dyads, in order to see what factors determined the outcome.
+Kroenig concludes that nuclear superiority does matter, allowing the state in possession of larger numbers to ‘win’ more often.
+Kroenig also finds evidence that the side with greater political stakes is more likely to prevail.
+Building on the work of Thomas Schelling, Kroenig argues that nuclear crises are “competitions in risk taking,” or tests of nerve.
+Possessing greater numbers of nuclear weapons allows a state to run greater risks and ultimately force the weaker adversary to back down.
+Furhman, Sechser, and Kroenig are part of an exciting scholarly renaissance in nuclear studies.
+In a field where younger scholars are increasingly incentivized to play ‘small ball,’ all three deserve high praise for wresting with issues of fundamental importance – both here and elsewhere, they have taken on big questions.
+Furthermore, both papers build upon but also criticize an earlier generation of what political scientists call qualitative and case-study work on these issues.
+The murkiness, the contingency, and the contention that mark many of the historical debates over specific crises are missing here, which suggests that by quantifying and analyzing these issues ‘scientifically,’ certainty can be established.
+Yet while both articles apply statistical analysis to many of the same issues and historical events, they arrive at different, almost opposite conclusions about nuclear dynamics and world politics.
+Sechser and Furhman contend that nuclear weapons, while good for deterrence, are not useful to compel.
+Kroenig claims nuclear superiority helps states prevail during standoffs, whether their goal is to deter or compel, in part because it allows them to demonstrate more resolve.
+These differences have sparked a spirited online debate amongst the authors, and captured the attention of many younger scholars in the field.
+Perhaps most importantly, both pieces draw concrete policy lessons from the authors’ research for contemporary decision-makers.
+Because nuclear weapons are not useful to compel, the United States should not be unduly worried if other states get the bomb, and certainly shouldn’t use military force to prevent countries like Iran from developing the bomb.
+As a historian interested in these questions, my way of assessing Sechser, Furhmann, and Kroenig’s arguments is straight-forward.
+I would identify the most important example where these issues are engaged, look at the primary documents, see how the authors ‘coded crucial variables and determine how good a job their analysis does in helping us understand both the specific crisis itself and the larger issues driving nuclear dynamics.
+In a speech on November 10th, 1958, Soviet Premier Nikita Khrushchev demanded the Western powers – the United States, Great Britain, and France – remove their military forces from West Berlin within six months.
+Given the stakes and the risks, it is not unreasonable to ask that any theory of nuclear dynamics help us better understand the 1958 to 1962 thermonuclear standoff.
+Most importantly, I would want to be convinced that the causal mechanisms identified by the authors did in fact drive the origins, development, and outcome of this crisis.
+Perusing these documents, the limitations of the coding in both the Sechser/Furhmann and Kroenig papers – or any effort at coding this complex crisis — becomes clear right away.
+When Ambassador Thompson told Khrushchev that, “ United States prestige everywhere in the world was at stake it its commitments to Berliners,” Khrushchev scoffed.
+At first glance, the answer seems obvious – the Soviets initiated the crisis and wanted to change the status of Berlin, going so far as to install medium-range nuclear missiles in Cuba to achieve their ends.
+Yet the Americans had long recognized that Berlin’s odd occupational status was temporary and needed to be fixed.
+Furthermore, there are compelling reasons to believe that Khrushchev’s primary goal in the period was to prevent, or deter, the Federal Republic of Germany from gaining access to nuclear weapons.
+The Eisenhower administration’s seeming support for a nuclearlized Bundeswehr would have to be coded as profoundly revisionist and deeply inimical to core Soviet interests.
+In secret documents and public signaling, both portrayed their own ‘stakes’ in the crisis in the highest terms.
+Both Presidents Eisenhower and Kennedy, and Premier Khrushchev, were clearly willing to accept a not insubstantial risk of nuclear war to maintain their position.
+Khrushchev explicitly pursued a brinkmanship strategy, fully aware that America had nuclear superiority but believing it did not matter, while the United States pressed on despite what would seem to be greater stakes for the Soviets.
+Sechser and Furhmann see military mobilization as an important way of signalling intent.
+In other words, calling up reserves or sending additional divisions to Europe made it seem like the West was less likely to use nuclear weapons, undermining the adversary’s perception of their resolve.
+Bundy and others believed that the Soviets would only be deterred if they believed any conflict would escalate almost immediately to general nuclear war, a condition which would not be affected by the call-up of reserves.
+In other words, it is the crisis behavior that reveals resolve, not the other way around.
+These questions lie at the heart of Kroenig’s arguments, and there are three flaws to the way he deals with this issue.
+While there was no consensus on the question, there is no doubt that key decision-makers in both the Eisenhower and Kennedy administrations saw the issue of ‘acceptable damage’ as the most important factor when considering the nuclear balance.
+In fact, the Kennedy administration worked on a sub-SIOP program after the failed Vienna summit that some within the administration believed could knock out the Soviet Union’s ability to respond.
+The plan was debated and discussed throughout the fall of 1961, in language that made it clear that the key issue was not a simplistic measure of superiority but whether a strike could incapacitate the Soviet Union’s ability to retaliate.
+Furthermore, many in the administration – including the President himself – were aware that this potential first-strike capability was a rapidly wasting asset, even if the United States maintained a massive numerical superiority, a fact that must have driven crisis calculations.
+The President asked whether, even if we attack the USSR first, the loss to the United States would be unacceptable to political leaders.
+The President asked whether then in fact we are in a period of nuclear stalemate.
+Referring to a statement of the Air Force Association which appeared in this morning’s Washington Post, the President asked how we could obtain nuclear superiority as recommended by the Air Force Association.
+He acknowledged that there is no way, no matter what we do, to avoid unacceptable damage in the United States if nuclear war breaks out.
+He later acknowledged that it would be impossible for us to achieve nuclear superiority.
+Obviously, there is a profound difference between numerical superiority, no matter how large, and a nuclear balance that allows a country to launch a first-strike that allows it to absorb an acceptable level of retaliatory damage.
+Kroenig is correct that some countries – the United States and the Soviet Union – may have wanted more strategic weapons because such an advantage “limits the expected damage that a country would incur in the event of a nuclear exchange,” even in the absence of a first-strike capability.
+It is important to note, however, that the ability to increase ‘damage limitation’ capabilities has been driven as much if not more by qualitative improvements than the increase in raw numbers.
+SALT I and SALT II kept the strategic balance between the Soviet Union and the United States relatively stable in terms of numbers of strategic weapons, and even in terms of the mix among missiles, submarines launched, and bombers delivered.
+Yet beginning in the early 1970s under Secretary of Defense James Schlesinger and accelerating during the Ford, Carter, and Reagan administrations, the United States spent hundreds of billions of dollars on technological changes in the nuclear area that may have had a profound effect on how each side viewed the strategic balance.
+A wide range of initiatives to improve damage limitation capabilities, including stealth technologies, cruise missiles, increased accuracy, better targeting, improved command, control, communications, and intelligence, missile defense, target hardening, submarine silencing, and anti-submarine warfare were pursued.
+When new platforms, such as the B-1 bomber, MX missile, and Trident D-5, replaced old ones, the overall numbers of strategic weapons did not increase – in fact, megatonnage decreased — but the damage limitation capabilities were much improved.
+Numerical parity in 1972 was not the same thing as numerical parity in 1985, a fact that influenced behavior on both sides.
+The bottom line is that numerical superiority does not always convey the dynamics of damage limitation.
+This was not done by United States policymakers out of the goodness of their hearts – they knew that without the assurances provided by a robust nuclear umbrella, countries such as Germany, Japan, South Korea, and a host of others might deploy their own nuclear weapons, a development that would be inimical to America’s strategic interest, for reasons Kroenig understands all too well.
+This underlying and powerful geopolitical logic — that dampening nuclear proliferation amongst friends required security assurances which were much more credible when the United States pursued damage limitation – does not appear to be captured in either model.
+Yet the complex story of extended deterrence and nuclear nonproliferation was one of the key drivers of United States nuclear strategy throughout the postwar period.
+While most historians believe you can only understand what drove both the origins and outcomes of the crisis by seeing the 1958 to 1962 period as continuous, these data sets break them down into three separate, distinct crises.
+The International Crisis Behavior project codes the 1961 construction of the Berlin Wall as a Soviet victory.
+But many within the Kennedy administration recognized that by walling off the eastern part of the city to stem the flow of refugees, the Soviets were more likely to allow the status quo in the western part to remain, which would make this an American victory.
+Of course, that does not mean it was a ‘loss’ for the United States, as the Soviets removed the missiles from Cuba, the status quo in Berlin was maintained, and perhaps more importantly, the Americans had come to recognize that perhaps German nuclearization was not in their interests either.
+Arguably, both the United States and the Soviet Union got what they wanted, highlighting how the zero-sum ‘win-lose’ approach of large-N studies is ill-suited to this case and international politics more broadly.
+All of this highlights how limited any effort to code complex historical events will be.
+Under Sechser and Furhmann’s own coding, compellence did work in 1962, and under Kroenig’s, a vastly outgunned Soviet Union pursued nuclear brinkmanship over a long period of time – what Khrushchev called the “meniscus strategy” — and may have gotten everything it really wanted.
+The ‘crisis’ emerged because the Soviets were worried that a NATO war game may have been a preparation for an attack on the Soviet Union.
+Unfortunately, these kinds of crucial subtleties are inevitably lost in the efforts to code and quantify complex events.
+The problems in this approach, however, go well beyond the difficulty of coding.
+To make meaningful insights from statistical analysis, we need a certain number of like and comparable observations.
+A common-sense approach quickly tells you that for most of the cases in both datasets there was no danger that nuclear weapons would be used.
+While the focus in both papers is on outcomes, there really should be a fuller discussion of how we even know something is a nuclear crisis before we start compiling and comparing them.
+Consider the distinction – crucial to both sets of arguments – between deterrence and compellence, a difference made famous by Thomas Schelling.
+First, deterrence is supposed to be easier and compellence harder, a proposition that has rarely been tested in either the qualitative or quantitative literature.
+This implies that it should have been relatively straight-forward to prevent the Soviets from taking over West Berlin but much harder to compel them to leave.
+More fundamentally, as the 1958-1962 period makes clear, defining the status quo – and coding who is the ‘compeller’ and who is the deterrer – is often in the eye of the beholder.
+James Fearon and others have pointed out that countries select into crises like the ones studied here, meaning their pre-existing beliefs about the balance of military power and resolve have already come into play in their decision to initiate and respond to a crisis.
+To truly understand how important military balances or resolve are, you would not just analyze crisis outcomes; you would also need to include the crises that never happened, because a state calculated that either it was outgunned or didn’t possess the requisite resolve to prevail.
+In other words, the question of resolve and the military balance has already come into play before a crisis is even initiated, so studying nuclear crises does not reveal the full story of whether and how military power plays affect world politics.
+It is hard to imagine how you can effectively “control” for such a thing — who knows how many nuclear crises never happened because one side or the other was deterred from either initiating or responding to a provocation.
+It may very well have been the Soviet Union’s sense of military inferiority or lack of resolve that caused it to stand by as the United States re-armed West Germany between 1952-1954, for example, a policy that was deeply threatening to Soviet Russia.
+It is very hard to undertake statistical analysis on events that have never happened, and perhaps the best we can to do is attempt to reconstruct the decision-making on both sides.
+The authors might respond that they are interested in the far more narrow explanation of crisis that outcomes have already been selected into.
+If so, then their causal explanations behind their theory must work; in other words, they cannot explain just the outcome, but must also explain why the outcome happened the way it did.
+In the end, the 1958 to 1962 crisis was resolved through a political settlement that emerged by 1963 and that reflected the core interests of both superpowers.
+There is little doubt that nuclear weapons have transformed world politics, and that military factors played a crucial role in the 1963 settlement.
+But it is a state’s political goals and preferences that shape its military strategies, and not the other way around.
+To better understand this point, think about a nuclear crisis that many expected but never happened — the years leading up to the 1971 agreement on Berlin.
+The documents from the late 1960s make it clear that the Nixon administration feared a renewal of the Berlin crisis when it took office.
+None of the explicit, public issues Khrushchev demanded in 1958 had been resolved – United States British, and French troops were still in West Berlin – but the one thing that had changed was the military situation.
+The nuclear balance shifted from overwhelming United States superiority to near parity with the Soviets.
+Richard Nixon and National Security Advisor Henry Kissinger expected the Russians to exploit their improved military status, but to their great surprise, the Soviets were far more reasonable than anyone had anticipated and no crisis occurred.
+In the end, the Soviets offered a settlement which West German Chancellor Willy Brandt pointed out was more favorable than what “was discussed in Geneva in 1959” or which Dean Acheson’s Berlin report to President Kennedy hoped to achieve in 1961, periods when the United States possessed nuclear superiority.
+One would have to look through both the Soviet and American documents to come up with a definitive answer, but a decent guess is that the fundamental geopolitical issue that drove the crisis in the first place – West Germany’s nuclear status – had been resolved in ways pleasing to Soviet Russia’s leadership.
+In other words, neither the nuclear balance nor the actual territory was the key variables in determining whether there was a superpower crisis or not.
+Focusing exclusively on military factors can obscure the issues that really matter, the forces that drove the origins and outcomes of these clashes.
+We know this intuitively – we don’t analyze the United States first strike advantages over Canada or Brazil, because they are not enemies.
+But these types models tell us very little about why this is so, or why Russia was an enemy and is one no longer, or why China was an enemy, then a friend, and now something in between, or why we worry more about an Iran with the bomb than a nuclear Sweden.
+It turns that this whole set of issues surrounding both nuclear dynamics and methodology is a sequel of sorts; we’ve seen this movie before.
+In 1984, Paul Huth and Bruce Russet compiled a comprehensive list of what they called extended-immediate military deterrence situations between 1900 and 1980 to assess when deterrence worked, when it failed, and why.
+Using a statistical analysis, they determined this type of deterrence only worked in 31 cases , and that the keys to success were factors like close economic and political-military ties between the defender and its protégé, higher stakes by the defender in the protégé, and “local” military capabilities.
+Surprisingly, nuclear possession was shown to be of only marginal importance.
+Huth and Russett updated their data set in 1988, dropping some cases and adding others, and increasing the time frame to 1885 to 1984.
+These articles inspired a sharp critique from Richard Ned Lebow and Janice Gross Stein.
+Lebow and Stein questioned much of Huth and Russett’s coding, arguing that in many cases they got the aggressor and the defender wrong, made mistakes about what was a success and what was a failure, and confused deterrence with compellence.
+They contended that the overwhelmingly majority of Huth and Russett’s cases should not have even been in the data set, identifying only nine cases that met the appropriate criteria, a number too small to generate significant findings from statistical analysis.
+The authors went back and forth, questioning definitions, research design, scope conditions, and coding decisions.
+Others eventually weighed in, including James Fearon, who focused less on the research design and empirical dispute and instead highlighted what he saw as “the inadequacy of rational deterrence theory,” especially what he saw as the false/unhelpful distinction between general and immediate deterrence.
+This helped popularize Fearon’s important insights about selection effects.
+The substantive and methodological problems that surfaced in this early debate are remarkably similar to the problems in Sechser, Furhmann, and Kroenig papers.
+Both papers make claims to ‘control’ for a variety of factors, such as the interdependence of cases and the survivability of strategic forces.
+These types of issues are precisely why studies of this type are so vexing to historians and policymakers.
+It may be that the only way to get real insight, to develop causal inferences about these kinds of critical issues, is to reconstruct the thoughts, decisions, interactions between, and reconsiderations of top decision-makers as they wrestled with these extraordinarily important questions when trying to make policy.
+There is, however, another important argument in favor this kind of historical work – opportunity costs.
+Today, we are in the midst of a declassified document revolution, with archives around the world and organizations like the National Security Archive, the Cold War International History Project, and the Nuclear Proliferation International History Project providing access to millions of pages of previously unavailable material.
+The dirty secret is that with much of this material being made available online and in published volumes, an international relations scholar needn’t leave her living room to see reams of extraordinary evidence that bear on the questions engaged in these articles, at far less effort and expense than anyone could have dreamed of when I started my Ph.D. in the early 1990s.
+Let’s say you wanted to really understand how nuclear dynamics worked in the critical 1958 to 1962 period, to explore the role that deterrence, compellence, brinksmanship and nuclear superiority played in the origins and outcomes of the standoff.
+On the United States side, there are literally tens of thousands of pages of declassified documents available online about the Berlin and Cuban Missile Crises.
+You could gain great insight on the thinking of America’s closest ally, Great Britain, by examining Prime Minister Harold McMillan’s papers.
+Of course, there are powerful disciplinary incentives that shape the research strategies of younger scholars and prevent them from making this choice.
+I am part of a discipline that has largely abandoned studying important issues such as international security and nuclear weapons and is in the midst of a four-decade, slow motion act of collective suicide.
+There simply is not, nor will there be anytime soon, a critical mass of diplomatic and military historians available to research these important questions or make use of these amazing materials.
+This is a national tragedy for which the field of history and our institutions of higher education should be ashamed and for which I fear that the United States will pay a price.
+The field of political science deserves great praise for taking up some of the slack; it is one of the few places within higher education where there is serious, sustained, collective interest and debate over crucial issues of national and international security.
+From what I gather, brave – and from a career perspective, sadly, unwise — is the Ph.D. student in international relations who undertakes a dissertation that does not include formal models, data sets, and multiple regressions.
+Employing quantitative tools, especially statistics, is highly rewarded within political science and often seen as being more ‘rigorous’ and scientific.
+Whether this is a good or a bad thing for political science more broadly is not really for me to say.
+Turning complex historical processes into quantifiable variables risks losing both information and even accuracy, which should affect our confidence in the findings.
+This is especially true in the area of nuclear statecraft, where statistical analysis does not strike me as the best method for understanding complex, interactive political decision-making about issues of life and death where the most important ‘N’s’ are 9, 2, and 0.
+There are bound to be legitimate disputes about coding, just as there are arguments about historical interpretations.
+The authors could understandably disagree with my coding of 1958-1962, or argue that this case was exceptional and that other cases in the sample were more indicative of the underlying causal mechanisms that may operate in future cases.
+Their models could be refined to better deal with selection effects, more accurately handle the issue of resolve, or more effectively measure nuclear superiority.
+There is no shortage of problematic research designs among qualitative and formal scholars.
+Perhaps most importantly, the authors could point out that for all the availability of new primary materials, pursuing a ‘historical’ strategy appears no more likely to produce certain results than their quantitative efforts.
+In theory, access to more primary materials should provide a more accurate picture of events, but we know that policymakers can misrepresent the past, mislead, or even provide contradictory views of the same meeting in written documents.
+Even if a deep immersion in documents produces historical accuracy, it often comes at the cost of the generalizations and policy insights about nuclear dynamics we all crave.
+Everywhere you look in the historical record there are puzzles, riddles and anomalies that seem to elude our best theories.
+He also regularly engaged in what he believed was nuclear brinkmanship; as he told Kissinger, “we’ve got to play it recklessly.
+Yet it is not clear the Soviets ever picked up, understood, or reacted to any of his nuclear threats.
+Perhaps the real issue is not what methodology we use to explore these issues, but rather, our comfort with uncertainty, our natural reluctance to embrace epistemological modesty on questions of such great importance.
+For a long time, we believed that the answer surrounding nuclear dynamics was relatively simple – once the superpowers achieved secure, second-strike capabilities, the possibility of thermonuclear war dissipated, and deterrence would prevail.
+Some even suggested that the stabilizing features of nuclear weapons were a positive feature, and that proliferation should not be seen as the end of the world.
+While the reckless attitudes like Nixon’s may have been anomalous, as more and more documents become available we began to fully recognize how dangerous and often unstable the nuclear age has been.
+General Johnson agreed, adding that nuclear war is impossible if rational men control governments.
+Secretary Rusk said he agreed, but he did not get much comfort from this fact because, if both sides believed that neither side would use nuclear weapons, one side or the other would be tempted to act in a way which would push the other side beyond its tolerance level.
+He added that a response to pressure might be suicidal, being prompted by a desire to get it over with.
+Sechser, Furhmann, and Kroenig deserve credit for wrestling with these fundamental issues in a serious way.
+But getting beyond the obvious is difficult, and in the end, both papers overstate their theoretical claims and their policy relevance, and leave this historian no more confident on these questions than he was before.
+At times both of these propositions were, at one and the same time, true.
+For those that would complain that such indeterminacy undermines the idea of a political “science,” I would respond, guilty as charged.
+These two articles, it should be pointed out, are not the first occurrence of rival quantitative studies coming to starkly different conclusions about the dynamics of nuclear statecraft.
+In the end, despite great fears, expectations, and apocalyptic predictions, we have never had a thermonuclear war, nor does it look like we will have one anytime soon.
+The problem is that, notwithstanding the confident claims of countless theorists, including those reviewed here, we don’t really know why nuclear bombs have not been dropped since 1945, or at the very least, cannot prove our theories and instincts.
+We have a difficult enough time making sense of things that have actually occurred.
+Despite the labors of countless scholars from around the world, assessing millions of pages of documents, there is still no consensus on the causes of the First World War.
+The methodological challenge of trying to understand something that never happened, even something as important as thermonuclear war, is far, far more difficult.
+As is often said about the inadvisability of testing nuclear deterrence failures, we’ve never run the experiment, and hopefully never will.
+This is why the questions that both papers engage are so important, even if the papers’ theories are unconvincing, their methods problematic, and the policy implications unclear.
+We are understandably eager to have an explanation for the most important non-event in human history, if only to see if there are lessons that can be applied today to keep the streak going as long as possible.
+It is a daunting task, far more challenging that we like to acknowledge, and many of the research questions that we do focus on are merely proxies for this larger concern.
+Despite the limitations of these and other studies, despite the methodological difficulties and the near impossibility of being certain about our claims, it is hard to imagine a more important question, one that is worthy of the most vigorous research, discussion, and debate.
+The scope of Gavin’s critique extends well beyond our articles, however, encompassing the broader scholarly literature employing quantitative analysis to understand questions of nuclear security.
+Gavin’s critique arrives at a pivotal time for the field of nuclear security.
+Scholars are increasingly turning to quantitative methods to answer questions about the political dynamics of nuclear weapons.
+Given the importance of the subject matter, it is crucial that nuclear security scholars carefully scrutinize their research methods.
+If Gavin is correct, much intellectual firepower is being wasted – with potentially serious consequences.
+The issues Gavin raises are not unique to the field of nuclear security.
+The value of statistical analysis has been a topic of heated discussion for years in political science, sociology, anthropology, and other disciplines traditionally dominated by qualitative approaches.
+Beyond academia, quantitative analysis is being used today for corporate employee evaluation, the targeting of digital advertisements, political campaign management, online product recommendations, and many other areas of our lives.
+Gavin’s criticisms of these methods therefore have far-reaching implications, and deserve to be taken seriously.
+We appreciate Gavin’s engagement with our work, and it is a privilege for us to participate in this important roundtable.
+As regular readers of this roundtable series already know, Gavin’s work on nuclear proliferation has helped reshape our understanding of the ways in which nuclear weapons shape world politics.
+In this essay, we defend quantitative analysis as an important tool for illuminating the complex effects of nuclear weapons.
+Contrary to Gavin’s claims, statistical analysis has several useful attributes for studying nuclear security.
+Instead of revealing the flaws of quantitative analysis, Gavin’s critiques suggest a misunderstanding of the nature and purpose of quantitative research, particularly as applied to nuclear security studies.
+Moreover, the alternative Gavin proposes would not solve the problems he highlights, and in some cases would exacerbate them.
+While the authors of this essay disagree among ourselves about many important substantive issues, we are united in the belief that statistical analysis has an important role to play in the field of nuclear security studies.
+First, we briefly describe our approach to studying nuclear issues, and contrast it with Gavin’s method.
+Second, we explain the unique advantages offered by statistical analysis.
+Next, we discuss the limitations of this approach and the complementary strengths of alternative methods.
+Indeed, there are few issues of greater policy significance than the causes and effects of nuclear proliferation.
+All of the participants in this roundtable, therefore, want to better understand how nuclear weapons influence deterrence and coercion, and whether nuclear superiority provides countries with advantages in crisis bargaining.
+Yet we approach these issues from fundamentally different methodological perspectives.
+In other words, Gavin argues that the best way to understand the political effects of nuclear weapons is to probe a single case deeply.
+Specifically, he points to the 1958–1962 superpower standoff over Berlin and Cuba as the “most important and representative case” for studying nuclear crisis behavior, and returns to this episode repeatedly throughout the essay to support his arguments about nuclear deterrence and compellence.
+Our respective articles in International Organization adopt a considerably different approach.
+For each study, we devise quantitative indicators for several key concepts – including nuclear capabilities, crisis actions, and several other factors.
+We then estimate statistical models to determine whether nuclear capabilities are reliably correlated with crisis outcomes, while controlling for other variables that could influence both a state’s nuclear status and whether it prevails in a crisis.
+While smoking and nuclear crises are vastly different phenomena, they share important similarities from a research standpoint.
+Both cigarettes and nuclear weapons have potentially significant effects on large numbers of people, but the ways in which they operate are not always visible to the naked eye.
+Further, conducting direct experiments to assess their effects is infeasible, whether due to ethical or practical reasons.
+Both questions therefore require us to think carefully about how to distill causal effects from imperfect data.
+Using the “most important example” approach discussed by Gavin, the first step would be to locate the most important individual example of smoking and evaluate this person’s life.
+As we will discuss below, identifying the most important nuclear crisis is likewise fraught with difficulty.
+Assuming we could identify this “most important” case, we might then ask, for example, how much this person smoked each day, what diseases or health problems he acquired, his opinion about how smoking affected his life and health, and at what age he died.
+We would also scour medical records and the results of medical tests for information about this person’s behavior and health over his lifetime.
+With this trove of information, we could then formulate an understanding about smoking and cancer based on the written and verbal record of this person’s health.
+By contrast, our approach would begin by collecting data on a large number of individuals, including smokers and nonsmokers as well as people with and without cancer.
+If we found that smoking was statistically associated with a higher incidence of cancer – after controlling for other factors that affect whether one smokes and whether they contract cancer, such as family history, occupation, and other behaviors – we would then conclude that smoking is correlated with, and may therefore be a cause of, cancer.
+Gavin’s method is not without merit, but it suffers from major drawbacks that impede one from making reliable inferences about how nuclear weapons affect world politics.
+Our approach has important limitations as well, but we believe that it is a more powerful tool for providing answers to the questions we raise in our International Organization articles.
+Specifically, both of our studies in International Organization endeavor toward causal inference, aiming to learn about the causal effects of nuclear weapons in crisis situations.
+Below we describe four key advantages of employing a quantitative approach to evaluating the political effects of nuclear weapons.
+First, quantitative approaches allow us to compare large numbers of observations.
+Undoubtedly, Gavin’s approach to studying nuclear weapons is the better method for learning about the events of the 1958–1962 period.
+Our International Organization articles ask broader questions about how nuclear weapons have impacted world politics in the half-century before and after this period – and how they might do so in the future.
+Claiming that the Berlin/Cuba episode is sufficient for answering these questions presumes that the decades before and since the Cuban missile crisis have little to teach about the consequences of nuclear weapons – a claim we find specious at best.
+The main limitation of Gavin’s approach to assessing the effects of nuclear weapons is that it provides us with few, if any, generalizable inferences – the central aim of social science.
+In other words, his approach tells us much about the Cuba and Berlin crises, and rather little about nuclear weapons more broadly.
+Gavin’s approach offers no answer because it unduly limits its scope to a single historical episode, rather than examining how that episode fits into broader trends.
+The questions we ask in our articles require a more comprehensive approach to data collection.
+By collecting information about dozens of cases rather than just one or two, we can gain insights into whether the patterns we observe in any individual case are representative of broader trends.
+Of course, it is impossible to answer this counterfactual with certainty since history happens only once, and we cannot repeat the ‘experiment’ in a laboratory.
+But that does not mean we should shrug our shoulders and abandon the enterprise.
+Instead, we can gain insight by looking at cases in which conditions were, in fact, different.
+Studying a single smoker in depth might give us an accurate and textured understanding of the role of smoking in this person’s life, but it would be a poor way to learn about the broader health effects of smoking, because we could not make an informed guess about what would have happened had he not smoked.
+Our approach described earlier, in contrast, allows us to generalize about the effects of smoking on health.
+To be sure, some of the data in our hypothetical study would surely be inaccurate, and we would know comparatively little about the lives of each individual subject.
+But the loss in individual case knowledge would be more than compensated by the increase in information about the variables we hope to study.
+To understand how nuclear weapons impact international crises, we must examine crises in which nuclear ‘conditions’ were different.
+For Kroenig, this means comparing the fortunes of crisis participants that enjoyed nuclear superiority to those that did not.
+For Sechser and Fuhrmann, it means comparing the effectiveness of coercive threats made by nuclear states to those made by nonnuclear states.
+By making these comparisons, we can begin to engage in informed and evidence-based speculation about how nuclear weapons change crisis dynamics.
+Indeed, the statistical models we employ require this comparison – they will return no results if all of our cases look the same.
+Gavin argues that the Berlin/Cuba episode is sufficient for understanding the dynamics of nuclear weapons because it is the “most important and representative” case of nuclear deterrence and coercion.
+With respect to the first claim, Gavin offers no criteria for evaluating what an “important” case might be.
+Gavin may view the 1958–1962 case as critical for understanding nuclear dynamics, but it is by no means clear that policymakers today look to this example for guidance about dealing with Iran or North Korea.
+This is not to say that we disagree with Gavin’s assessment – undoubtedly the 1958–1962 episode is important in many respects.
+Without first examining other cases, Gavin simply has no grounds on which to base this claim.
+In the broader universe of crises, this episode actually may be quite anomalous.
+If so, then studying it to the exclusion of other cases would yield misleading conclusions about the role of nuclear weapons in world politics.
+Likewise, statistical models provide ways to identify – and exclude – anomalous cases that deviate markedly from dominant trends.
+Indeed, a quantitative analysis can be a useful precursor to the selection of individual cases for in-depth analysis, precisely because it allows us to locate cases that either represent or deviate from the overall pattern.
+These selections, however, are based on careful comparisons with other cases, not opaque judgments.
+A second advantage is that quantitative analyses provide greater transparence about methods, judgments, and conclusions.
+One of Gavin’s central critiques is that various cases in our quantitative analyses have been miscoded.
+This criticism – irrespective of its validity – is possible only because our coding decisions are unambiguous and easily ascertained from our datasets.
+Moreover, each of our studies sets forth clear rules for how each variable in our datasets was coded.
+This does not mean that our coding decisions are all correct and beyond dispute, but it does mean that they are clearly stated for outside scholars to evaluate.
+This degree of transparency is a key strength of quantitative research.
+Because each case in a quantitative analysis necessarily must be clearly coded, there is no ambiguity about how the researcher has classified each case.
+By extension, quantitative research designs permit scholars to easily evaluate how much a study’s findings depend on individual coding decisions.
+Simply noting a few coding errors or differences of interpretation in a large quantitative dataset is of little consequence unless one can demonstrate that those differences are responsible for generating incorrect inferences.
+In a quantitative study, this typically amounts to recoding disputed cases and repeating the core statistical models to determine whether the results change substantially.
+Not only are the original coding decisions laid bare, but it is also straightforward to determine whether the study’s inferences depend on them.
+This high level of transparency – and the external quality-control it enables – is one of the most attractive features of quantitative research designs.
+Transparency is useful not because it produces scholarly consensus, but because it allows opposing sides to identify the precise nature and implications of their disagreements.
+Consider, for example, the 1990 exchange in World Politics between Paul Huth and Bruce Russett on one hand, and Richard Ned Lebow and Janice Gross Stein on the other.
+Gavin highlights the similarities between this debate and the present exchange, separated by almost twenty-five years, as evidence that quantitative analysis has made little progress in understanding nuclear issues.
+Similarly, as we report in our articles, our central findings do not change even if we accept Gavin’s arguments.
+While Gavin is correct to argue that coding cases is a tricky exercise, quantitative approaches allow us to evaluate the substantive importance of questionable coding decisions.
+Qualitative research, by contrast, is not always so amenable to external oversight.
+Whereas quantitative models demand clear coding decisions, qualitative research designs can be much more forgiving of ambiguous classifications.
+He raises questions about our coding decisions, but then declines to answer them.
+Uncertainty, of course, is inherent to any scientific enterprise, and quantification is sometimes criticized for presenting a false illusion of certainty.
+To be clear, quantitative research cannot create certainty where the evidence is ambiguous.
+Just because a case is coded a certain way does not mean that the broader scholarly community has reached a consensus about that case.
+But by compelling scholars to take a clear initial position on coding cases, the process of quantification allows scholars to debate each decision and evaluate whether potentially questionable choices are decisive in generating a study’s core results.
+This transparency is central to peer evaluation and, ultimately, scientific advancement.
+A third advantage of statistical analysis is that it is designed to cope with probabilistic events.
+So long as conditions are kept constant, this result will obtain again and again, no matter how many times the experiment is repeated.
+In the social world, however, we are not blessed with such ironclad reliability.
+No two individual people are exactly identical, and even in carefully controlled environments it is rare to find a “force” that begets exactly the same effect on all people with perfect regularity.
+The causal relationships we observe are not deterministic – they are probabilistic, occurring with imperfect regularity.
+The ‘force’ of interest to us in our articles is, broadly, the possession of nuclear weapons.
+Likewise, Sechser and Fuhrmann seek to discover the likelihood that a coercive demand made by a nuclear-armed state will be met.
+We cannot examine a crisis and directly observe the probability of one side capitulating; we can only observe whether it actually capitulated.
+Quantitative research is designed for precisely this sort of situation.
+If we cannot directly observe whether we are holding a loaded six-sided die, for example, we can throw it many times, observe the result, and infer the underlying probability from the results.
+Throwing the die just one time would tell us little, since all six numbers are theoretically possible even if the die were loaded.
+Only after observing the pattern of results across many events can we determine the underlying probabilities of each number turning up.
+The single-case approach Gavin proposes cannot cope with probabilistic events as effectively.
+Knowing that one smoker happened to die of cancer does not tell us much about the broader health effects of tobacco.
+The true relationship between smoking and cancer emerges only after looking at a large number of cases.
+Similarly, even if we determine that nuclear weapons appeared to “matter” from 1958-1962, we cannot safely infer from this observation that nuclear weapons influence crisis outcomes in general.
+Any relationships observed during this particular period could have been due to any number of chance events that might be unlikely to recur.
+Studying just one episode allows us to say much about that episode but little about the underlying relationships.
+Gavin’s approach, in contrast, requires finding primary source documents and learning what participants themselves believed to be the relevant causal factors at play.
+His essay conveys an exceptionally narrow conception of how one should gather knowledge about the effect of nuclear weapons on international politics.
+While we agree that studying primary documents has great value, we believe that there are many other ways to generate useful knowledge, and that a narrow focus on primary documents can often lead a scholar astray.
+First, the historical record is often incomplete, but the absence of evidence is not evidence of absence.
+In any historical nuclear crisis, a leader might have made an important statement to his advisers about how nuclear weapons fundamentally affected a crucial decision, but the statement might have never been recorded or could have been lost in the sands of time.
+Without that crucial piece of information, one might conclude, incorrectly, that nuclear weapons were not part of the calculation.
+Second, and related, something might not appear in the historical record because it was taken for granted.
+Researchers might then conclude that this factor was not salient, when in fact it might have been so important that it was well understood by everyone in the room and did not need to be mentioned.
+For example, nuclear weapons may have been so irrelevant to a particular crisis that leaders didn’t even see the need to raise the issue.
+Leaders may make inaccurate or incomplete statements – even in private – in order to influence the outcome of an internal debate, to improve domestic political fortunes, to shape how they will be viewed by posterity, or a variety of other reasons.
+Fourth, something might not appear in historical documents because participants themselves were unaware of how important it was.
+A case study of a smoker in the 1920s might not turn up any evidence from the smoker’s medical records that smoking was damaging to his health.
+Similarly, nuclear weapons may have had an influence on crisis dynamics even if leaders themselves didn’t fully appreciate it.
+Statistical analysis, on the other hand, does not depend on the participants themselves to understand and record accurately the causal forces at work.
+Rather, the researcher can independently identify and measure the variables of interest and search for correlations in large samples of data.
+In short, factors may matter regardless of whether the participants record them, record them accurately, or even understand their existence.
+Statistical analysis can help us understand world politics, but it is not without limitations.
+Like any method, large-N analysis has some potential pitfalls with which scholars must grapple.
+In this section we review some of the key limitations of this approach and describe how we cope with them in our studies.
+Our goal as social scientists is to understand causal relationships between variables of interest.
+However, it is difficult to determine causality in studies that use observational data, like ours.
+When we find a strong correlation between variables A and B in our observations of the real world, this does not necessarily mean that A “causes” B If a researcher found, for example, a positive and statistically significant correlation between ice cream consumption and drowning, this would not necessarily imply that eating ice cream causes people to be more susceptible to drowning.
+Rather, it is more likely that a third variable – temperature – was responsible, since in warm weather people are more likely both to go swimming – which increases the risk of drowning – and eat ice cream.
+There is a similar risk of drawing spurious relationships when studying the political effects of nuclear weapons.
+Imagine that one discovered a positive correlation between nuclear weapons and military conflict.
+This would not necessarily imply that nuclear weapons cause states to behave more belligerently.
+The factors causing states to build the bomb – rather than the weapons themselves – might account for the observed relationship between bomb possession and conflict.
+In particular, states in threatening security environments may be more likely to seek atomic bombs to protect themselves.
+In this case, the dangerous security environment is causing the state to both build nuclear weapons and become embroiled in a large number of disputes.
+The best way to deal with it, from the perspective of causal inference, would be to create an experimental world in which no state possessed nuclear weapons, artificially manufacture dozens of crises, and then randomly assign nuclear weapons to some states.
+If they were, we could reasonably conclude that nuclear weapons caused countries to become more belligerent, since a state’s nuclear status emerged by chance – not as a result of a strategic process.
+We therefore must rely on other solutions to address barriers to inference that arise in observational studies.
+The most straightforward way to reduce the risk that an observed relationship is spurious is to control for the factors that might be correlated with both the independent and dependent variable.
+Our studies account for several covariates – including conventional military power – that could affect crisis bargaining and the nuclear status of the crisis participants.
+However, in some cases, the relevant factors for which one needs to control may not be observable or measurable.
+Political scientists are increasingly turning to ‘high-tech’ tactics for addressing concerns about causality.
+If an analyst has a logically consistent argument that can plausibly explain an observed correlation, she might have more liberty to make causal claims about that relationship.
+This would be especially true if she could use theory to rule out alternative explanations that could account for the observed pattern.
+In addition, supplementing statistical findings with case studies that unpack causal mechanisms can be an especially fruitful strategy.
+It is important to note that challenges related to causal inference are hardly unique to our methodological approach.
+Establishing causation in the social sciences is notoriously difficult, and it is a problem that plagues not just statistics, but many research methods.
+Gavin’s preferred method is particularly ill equipped for assessing causality.
+It is exceedingly difficult to know whether nuclear superiority caused the United States to win crises from 1958 to 1962 by following his approach.
+What we really want to know, if our goal is to make causal claims, is whether the outcomes of the crises during that period would have been different had the Soviets possessed strategic superiority instead.
+Of course, there is no way to rerun history, as we noted earlier in this essay.
+Yet one could get at this indirectly by comparing the 1958–1962 period to later crises in which the United States had nuclear inferiority but which were similar to the Berlin/Cuba cases in other respects.
+Readers might respond that Gavin’s approach is not designed to make causal claims, and that one’s ability to make such inferences using any method is exceedingly limited.
+At least one statement in Gavin’s essay implies that he accepts this view.
+This is a perspective that we do not share, and neither do the vast majority of political scientists – including many who rely exclusively on qualitative methods.
+Prestige, for example, is widely believed to be important in world politics.
+Indeed, according to the prevailing wisdom, one reason states seek nuclear weapons is to increase their standing in the international system.
+We can devise variables to proxy for this concept – for instance, one recent study codes status seeking behavior based on performance at the Olympics – but we cannot measure it directly.
+It is therefore difficult to test theories about prestige using statistical analysis.
+He argues that seemingly straightforward phenomena, like who won a crisis, can be difficult to code.
+Kroenig codes this case as a crisis victory for the United States and a defeat for the Soviet Union.
+Sechser and Fuhrmann similarly code the United States demand to withdraw the missiles as successful.
+Although the Soviets withdrew the nuclear weapons from Cuba in response to United States pressure, he suggests that both sides ultimately got what they wanted.
+The Soviets “won” because they preserved the Castro regime and forced the United States to remove Jupiter missiles from Turkey.
+Yet this nuance is lost in our quantitative analysis, according to Gavin.
+We agree with Gavin that measurement issues can create challenges for scholars employing quantitative analysis.
+Reliance on qualitative methods does not free an analyst from dealing with potentially thorny measurement issues.
+It is impossible to conduct a proper test of the argument in the absence of this information.
+Any social scientific inquiry requires analysts to measure their key variables, whether they employ qualitative or quantitative analysis.
+The measurement problems that Gavin identifies undoubtedly exist to some degree in our studies, but they are by no means unique to our studies or to statistical analysis more generally.
+Gavin also overstates the magnitude of these problems for our research when he implies that they impede our ability to glean any meaningful insights.
+But in many instances, which state was victorious is clearer than Gavin suggests.
+In 1979, for example, a crisis erupted after supporters of the Iranian revolution took 52 hostages at the American embassy in Tehran.
+The Iranian government refused to return the hostages even after the United States threatened it with military force, making this case an unambiguous failure for United States coercive diplomacy.
+We would not conclude that the Denver Broncos “won” Super Bowl XLVIII – a game they lost badly to the Seattle Seahawks – because their appearance in the game increased Broncos merchandise sales.
+The Broncos undoubtedly benefited in many ways from their Super Bowl appearance, but this hardly means that they won the game.
+Similarly, even if the Soviets got something out of the Cuban missile crisis, they failed to obtain their main objective – namely, keeping the missiles in Cuba.
+Our respective codings of this case reflect the most direct interpretation of the crisis’ outcome.
+In some cases scholars who employ statistical analysis can cope with the measurement issues that Gavin identifies.
+If, for example, there is disagreement about the way a certain case is coded, scholars can simply recode it and see if the results change.
+To the extent that the findings are consistent regardless of how certain cases are coded, one can have greater confidence in the robustness of the results.
+As we explain above and below, our findings in these studies are robust to such changes.
+A third potential concern is that statistical findings may be sensitive, especially when studying rare events.
+This is particularly true in the area of nuclear proliferation, given that only 10 countries have built nuclear weapons.
+The rarity of nuclear proliferation does not mean that statistical analysis is useless for understanding how nuclear weapons affect world politics, as Gavin implies.
+It does mean, however, that scholars should exercise appropriate caution when using this tool.
+When dealing with rare events, there is always the possibility that statistical findings are driven by a small number of cases.
+It is worth noting that the phenomena of interest in our studies – crises involving nuclear states – are not particularly rare.
+Crisis participants achieved their basic goals in 35 percent of Kroenig’s cases, and in 30 percent of the cases evaluated by Sechser and Fuhrmann.
+Half of all crisis participants, by Kroenig’s definition, enjoyed nuclear superiority, while nuclear-armed challengers issued 20 percent of the coercive threats in Sechser and Fuhrmann’s study.
+In neither of our studies were the critical numbers “9, 2, and 0,” as Gavin suggests.
+In short, the rare-events problem is far less pernicious in our articles than Gavin implies.
+Still, given that our samples are relatively small, the patterns we identified may be sensitive to minor changes in the statistical models.
+One way to deal with to this issue is to conduct additional tests that are designed to evaluate the strength of a given finding, a solution similar to the one proposed above for addressing measurement problems.
+We employ this strategy in our articles – we rerun our models after recoding the dependent variables, modifying how we measure nuclear weapons and nuclear superiority, dropping potentially influential cases, and excluding particular control variables that could potentially bias our results.
+As we report in our respective studies, our main results survive these further tests.
+This does not guarantee that our findings are bulletproof, but it should inspire greater confidence that the patterns we identified are reasonably robust.
+A fourth limitation is that statistical analysis is not designed to explain outliers.
+Statistical analysis can tell us, on average, how an independent variable relates to a dependent variable.
+This is useful because it helps scholars to determine whether their theories are generalizable to a broad set of cases.
+Most statistical models in political science produce outliers – cases that are not explained by the theory being tested.
+The 1999 Kargil War, for instance, is an outlier for the democratic peace theory.
+Although democracies are in general unlikely to fight militarized conflicts with one another, India and Pakistan nevertheless fought this particular war when they were both democratic states.
+But because most international relations theories are based on probabilistic logic , the presence of a few outliers does not necessarily disprove them.
+It is often helpful to explicitly identify outliers, something that Kroenig and Sechser and Fuhrmann do in their articles.
+Scholars can then study these cases to refine their theories or, at the very least, identify the conditions under which their arguments hold.
+This type of ‘nested analysis’ – selecting cases for study based on results from a statistical model – is increasingly employed in international relations research to improve the explanatory power of theories.
+If we understand when nuclear powers were able to make successful threats in the past, for example, we can better understand whether Iran’s ability to blackmail its adversaries might change if it builds the bomb.
+The implication seems to be that certain things, like love and nuclear security, are simply too mysterious to understand using numbers.
+Yet, in recent years, psychologists and sociologists interested in patterns of human courtship and mating have made major advances in their understanding of love and relationships through the employment of statistical analysis.
+Newly-available data from online dating sites have allowed scholars to test and refine their theories, and to develop new ones, in ways never before possible.
+And this line of research has uncovered startling new findings, such as that white Americans, despite stated beliefs in racial equality, are especially unlikely to marry outside of their race.
+Like the study of human courtship, nuclear security has undergone a renaissance in recent years, which has only been made possible by newly available datasets and a new generation of scholars applying statistical tools to address age-old questions.
+As we argue, these methods are advantageous for their ability to compare large numbers of observations, transparently reveal the researcher’s methods and judgments, deal with probabilistic phenomena, and uncover relationships about which participants themselves might not be cognizant.
+Nevertheless, while we believe statistical analysis has important strengths, it cannot be the only instrument in our toolkit.
+Even with statistics, it is difficult to ascertain causation, key concepts may defy easy measurement, available data may be limited, and outliers will demand explanation.
+Yet, these drawbacks do not mean that statistical analysis should be abandoned altogether.
+Qualitative methods suffer from some of the same problems, and many others as well.
+For decades, scholars have been employing the methods proposed by Gavin to study the role of nuclear weapons in international politics.
+Scholars have written dozens, if not hundreds, of studies assessing the consequences of nuclear weapons for deterrence and coercion.
+Indeed, Gavin’s own research yields no conclusive answers about the coercive effects of nuclear weapons, and little useful policy advice, boiling down to the underwhelming finding that “ United States nuclear superiority mattered.
+Faced with this situation, it would be unwise to respond by continuing to tackle questions of nuclear security in exactly the same way as before, hoping that the next trove of documents will settle the debate once and for all.
+Rather, we should consider the possibility that an incomplete methodological toolkit has been obscuring our view.
+His work has been published or conditionally accepted in peer reviewed journals such as American Journal of Political Science, British Journal of Political Science, International Organization, International Security, Journal of Conflict Resolution, Journal of Peace Research, and Journal of Politics.
+From May 2010 to May 2011, he served as a Special Advisor in the Office of the Secretary of Defense on a Council on Foreign Relations International Affairs Fellowship, where he worked on defense policy and strategy for Iran.
+His research interests include coercive diplomacy, reputations in international relations, the strategic effects of nuclear weapons, and the sources and consequences of military doctrine.
+His work has been published in peer-reviewed journals such as the American Journal of Political Science, International Organization, International Studies Quarterly, and the Journal of Conflict Resolution, and his commentary on international affairs has appeared in the Wall Street Journal, Christian Science Monitor, Boston Globe, and other outlets.
+Gavin’s essay offers several thoughtful criticisms of our study, and of the use of quantitative methods in nuclear security studies more broadly.
+In our joint response with Matthew Kroenig , we explained why Gavin’s critiques of our methodological approach are well off the mark.
+Here we turn to his specific criticisms of our article and its findings.
+Gavin’s arguments are interesting and worthy of serious consideration, but they fail to undermine our paper’s central conclusions.
+Our article explores how nuclear weapons influence international crisis bargaining.
+It would make little sense, for example, for China to wrest the Senkaku Islands from Japan by launching a nuclear attack against the disputed territory.
+Alternatively , China might attempt to gain control over the islands by threatening to destroy Tokyo.
+Carrying out a coercive nuclear threat would be exceedingly costly for the challenger.
+It would result in international blowback and establish a dangerous precedent, among other costs.
+Challengers might pay these costs if their vital interests were on the line.
+But our review of the historical record indicates that coercive threats rarely involve stakes that are high enough for the challenger to justify paying such a stiff price.
+Coercive nuclear threats therefore will usually be dismissed as incredible.
+The costs of implementing nuclear deterrent threats would be comparatively low, because such threats are carried out only after an attack against a country or its ally.
+And the stakes are typically higher – indeed, the defender’s national survival may be at stake.
+Many observers found it believable, for instance, that the United States would have used nuclear weapons in the event of a Soviet invasion of Western Europe during the Cold War.
+By contrast, it would have been far more difficult to have persuaded anyone that the United States was willing to launch a nuclear attack for the central purpose of forcing the Soviets out of East Berlin in the 1950s.
+Our argument stands in stark contrast to the emerging view that nuclear weapons are useful for military blackmail.
+Nuclear weapons allow states to bully and intimidate their adversaries, according to this line of thinking, because they are so destructive.
+A key tenet of this view is that nuclear weapons loom in the background, even when their use is not explicitly threatened.
+In this view, nuclear powers need not play dangerous games of brinkmanship to get their way in world politics; simply possessing the bomb is often sufficient to do the trick.
+Our central objective was to compare whether nuclear challengers enjoy a higher rate of coercive success than their nonnuclear counterparts.
+We found that there was very little difference in the success rates of nuclear and nonnuclear challengers.
+Nuclear weapons, in other words, appear to provide states with little coercive leverage.
+Indeed, he provides no evidence suggesting that our argument or evidence is incorrect.
+However, he offers several critiques of the scope and assumptions of our study.
+We consider each of these points in turn, and explain why none of them pose a major challenge to the findings we presented in our paper.
+Gavin’s main complaint about our article is that it does not help him better understand the superpower standoff from 1958 to 1962.
+This is a puzzling criticism, since this was not the purpose of our article.
+Our objective was to investigate whether nuclear weapons help states make more effective coercive threats.
+The crises that occurred from 1958 to 1962 are undoubtedly relevant for understanding this question, but they are by no means the only cases that offer insights into it.
+Gavin does not challenge us on those cases, nor does he explain why the 1958-1962 episode is a more important lens through which to view our question.
+In short, he offers no reason to doubt our argument about the coercive limitations of nuclear weapons.
+Gavin’s criticism is equally puzzling because he offers no reason to believe that our theory cannot account for the 1958-1962 period.
+Khrushchev was unable to use the threat of nuclear war to force American troops out of West Berlin, despite repeated efforts to do so.
+Contrary to Gavin’s suggestions, the 1958-1962 episode actually squares quite well with our argument.
+Gavin’s second criticism of our article is that we examine the wrong cases.
+In his view, it is uninformative to study episodes in which nuclear war was not an obvious danger.
+But Gavin is wrong to assume that these episodes have nothing to teach about whether nuclear weapons convey coercive leverage.
+Indeed, expanding our scope beyond nuclear standoffs is crucial to understanding the coercive effects of nuclear weapons.
+We cannot know whether nuclear states achieve better coercive outcomes than their nonnuclear counterparts unless we study both groups.
+Imagine, for example, that we wish to find out whether a particular sports drink improves athletic performance.
+We would also need to know how people fare without the sports drink so that we can compare the two groups.
+Evaluating crises in which there was seemingly little danger of nuclear war is central to this task.
+Second, studying lower-profile crises helps avoid stacking the deck in favor of our argument.
+High-profile nuclear confrontations like the Berlin crisis tend to be considered historically important precisely because they nearly led to war.
+Studying only high-risk cases therefore might overlook the most successful coercive threats, and bias the evidence in our favor.
+Third, nuclear weapons may carry coercive leverage without ever being invoked.
+Indeed, some scholars have argued that nuclear weapons cast a shadow even in crises that we might consider nonnuclear.
+Although we disagree with this claim, we cannot fairly evaluate it without looking at a broad spectrum of crises in order to determine whether nuclear-armed states achieve systematically higher rates of success.
+If our theoretical argument is wrong and nuclear weapons are, in fact, useful for coercion, examining only dangerous nuclear standoffs might not give us a complete picture of their utility.
+Our main claim in “Crisis Bargaining and Nuclear Blackmail” is that nuclear weapons may be useful for deterrence, but they are poor instruments of compellence.
+Gavin, however, questions the distinction between these two concepts, arguing that in the 1958-1962 standoff between the United States and the Soviet Union, both sides saw themselves as protecting the status quo, while casting the other as the aggressor.
+But it does not follow that we cannot objectively identify the status quo in historical cases.
+Our study employs a database of compellent threats that defines the status quo as objectively as possible.
+In other words, our operational definition of “compellence” does not require that the two sides agree on who was the aggressor and who was the defender; the question is whether the challenger’s demand required the target to modify the material status quo in some way – even if that status quo was only recently established.
+If so, then the case is included in the dataset; if not, it is excluded.
+This is faithful to Thomas C Schelling’s original conceptualization of compellence, which held that compellent threats are unique because they require the target to act – to “do something” – in order to comply.
+Gavin may disagree with using a material baseline to identify compellent attempts, but if so, he does not explain why.
+Khrushchev failed in his first objective, and succeeded in the second, just as our theory expects.
+Deterrence and compellence are logical opposites, but they are not necessarily mutually exclusive.
+Coding issues aside, one might nevertheless argue that the distinction between deterrence and compellence is unhelpful for understanding how nuclear weapons affect crisis bargaining.
+It might be preferable, according to this line of thinking, to analyze all crises together, regardless of whether a state is trying to preserve the status quo or change it.
+Moreover, drawing the distinction between deterrence and compellence is useful for policy purposes.
+Scholars may not believe that it is important to distinguish between attempts to wrest away territory and attempts to defend it, but policymakers certainly do.
+If a nuclear arsenal allows states to grab territory with greater ease, reverse unfavorable policies, or extract other concessions, the prospect of nuclear proliferation is quite threatening.
+In that case, aggressive nonproliferation policies – including, potentially, the use of military force – might be justified.
+However, if nuclear weapons serve primarily defensive functions, the consequences of proliferation would be less severe.
+To be sure, allowing another state to build the bomb might still be undesirable.
+Yet the argument for aggressive nonproliferation policies weakens considerably if nuclear weapons deter but don’t compel.
+Gavin’s final criticism is that our study provides only partial insight into the dynamics of nuclear coercion.
+In other words, one also would need to study “the crises that never happened” in order to glean a complete picture of how nuclear weapons shape the dynamics of coercion.
+Studying only coercive threats, as we do in “Crisis Bargaining and Nuclear Blackmail,” tells only part of the story.
+Those decisions, however, could skew our conclusions by concealing important pieces of the puzzle.
+In the sports drink example above, assessing the drink’s effect on athletic performance could be complicated by the possibility that individuals who choose to consume the drink probably are more likely to exercise, and thus be in better athletic condition.
+If we simply compared the performance of people who regularly purchase the drink against those who do not, we would likely find a sizable difference – but not necessarily because the drink itself has had any effect.
+He does not, however, offer any reason to believe that selection effects are responsible for the findings we report in our article.
+One must also explain why that selection effect has produced an incorrect inference.
+In fact, our article explicitly considers the possibility that self-selection dynamics might be driving the results.
+Specifically, we evaluate whether nuclear states might be achieving coercive “victories” without ever having to issue threats.
+Using several methods of varying technical complexity, we find little evidence to suggest that this is the case.
+Selection effects undoubtedly exist in the cases we examine, but they do not appear to explain the patterns that we have uncovered.
+Nuclear weapons, according to this perspective, help countries compel changes to the status quo in ways that serve their political interests.
+We argue that nuclear weapons are poor tools of blackmail, in part, because it is difficult to make coercive nuclear threats credible.
+Gavin’s essay, in our view, does not undermine our central conclusions.
+Although we find his criticisms unpersuasive, it is important to note that there is much about which we agree.
+Most importantly, we share the view that questions relating to the causes and effects of nuclear proliferation are tremendously important, and worthy of dedicated study.
+We also share his view that historical analysis is an indispensable tool for understanding the political effects of nuclear weapons, especially when combined with statistical analysis.
+Our statistical tests were meant to be our first word on this subject, not our last.
+Since the publication of our article, we have been researching the role of nuclear weapons in dozens of Cold War and post-Cold War crises for precisely the reasons that Gavin identifies.
+A thorough analysis of these cases, we believe, only strengthens support for our argument that nuclear weapons are poor tools of coercion and intimidation, despite their destructive power.
+We thank Gavin again for his engagement with our work, and we hope that this exchange encourages further thinking and research about the role of nuclear weapons in world politics, and about the broader methodological issues raised in these essays.
+Matthew Fuhrmann, Todd Sechser, and I address many of Gavin’s broader methodological and disciplinary criticisms in our joint response.
+In this essay, I briefly address the specific concerns raised about my article.
+First, he claims that there are problems with my attempt to theorize and measure my key explanatory variable, nuclear superiority.
+Second, Gavin argues that I don’t effectively account for selection into nuclear crises.
+Third, he makes other smaller criticisms of my analysis, which lead him to question my results.
+Gavin is one of the country’s leading scholars on nuclear issues and I am grateful for his deep engagement with my work.
+In this particular instance, however, I believe that all three of his criticisms lack merit.
+First, Gavin argues that there are problems with my conception of nuclear superiority.
+He claims that I measure which state has a nuclear advantage, but do not account for whether the superior state has a “splendid” first strike capability or whether the inferior state has a secure, second-strike capability.
+First, as I clearly explain in the article, I do account for second-strike capabilities.
+By reverting back to the hoary notion that nuclear superiority only matters if one state has a splendid first strike capability, Gavin repeats an outdated and overly simplistic notion of nuclear deterrence theory that has caused far too much confusion in the past.
+My article explains why nuclear superiority matters even when both states possess secure-second strike capabilities.
+Gavin focuses his attention on my article’s evidence, but I believe its biggest contribution is theoretical.
+Turning back to the empirics, Gavin criticizes my measurement of nuclear superiority for focusing on quantitative, to the exclusion of qualitative, indicators.
+I clearly explain my reasons for doing so in the published article and I stand behind them.
+It would be difficult, if not impossible, to code and measure the qualitative nuclear balance between every pair of states in the international system for every year from 1945 to the present.
+Moreover, there is good reason to believe that quantitative and qualitative superiority are tightly correlated and that my quantitative measure accurately gauges the concept I am trying to measure.
+Furthermore, for the sake of argument, even if there is measurement error present , Gavin does not specify the nature of that error, how the error results in bias, or why the bias would cause me to overestimate, rather than underestimate, the strength of the true relationship between superiority and crisis outcomes.
+Also on the issue of measuring superiority, Gavin asserts that the United States and the Soviet Union have pursued superiority and damage limitation more aggressively than other states, and that the United States has done this in part out of a desire to extend nuclear deterrence to its allies.
+He seems to imply that this somehow poses a problem for my analysis, but he does not clearly explain this point.
+I disagree with the premise of this criticism and whatever Gavin’s intended criticisms might be , they are fully addressed in the published article and again below.
+But, as I clearly explain in the article and the online appendix, I do control for such a thing.
+I perform three different tests to account for selection into crises and in each test I find that the nuclear balance of power remains correlated with nuclear crisis outcomes even after accounting for selection into crises.
+Moreover, as I also explain in the article, if there is a selection effect it should bias against, not in favor, of my hypothesis.
+If leaders take the nuclear balance of power into account before initiating crises, then this would mean that nuclear superiority is an important factor in international politics, but that we should not expect to see its largest effects in the outcomes of the crises that actually occur.
+Selection is a bigger problem, therefore, for those who wish to argue that nuclear weapons do not affect crisis bargaining.
+The fact that I find a strong relationship between superiority and crisis outcomes in actual crises even in the face of possible selection effects, therefore, provides especially strong support for my hypothesis.
+Third, and finally, Gavin makes a number of other minor criticisms of the piece.
+He inveighs against the widely-used International Crisis Behavior dataset for coding the Berlin Wall crisis as a victory for the Soviet Union, but if one wanted to argue that this was a victory for the nuclear superior United States , then this would only strengthen my reported relationship between superiority and victory.
+Gavin claims that in some crises both states achieve their goals, “highlighting how the zero-sum ‘win-lose’ approach of large-N studies is ill-suited to this case and international politics more broadly,” but, as I explain in my article, large-N studies do not require a zero-sum win-lose approach.
+Indeed, in my study, some crises are coded as producing multiple winners and others as producing multiple losers.
+Gavin questions whether some of the observations in my dataset belong in a study of nuclear crises, but, as I explain in my article, the findings are robust to the removal of each individual crisis and to each individual country, rendering such criticisms moot.
+He argues that a study of nuclear crisis outcomes must clearly define what counts as a nuclear crisis and that this definition should include some threshold for the level of danger and whether nuclear weapons were front and center in the crisis.
+In my article, I provide a clear definition of nuclear crises and explain why, for theoretical and methodological reasons, it would be a mistake to focus only on cases that escalate to a certain level of danger, or in which nuclear weapons were front and center.
+Next, in a footnote, Gavin raises the possibility that the findings of this article might be in tension with my policy recommendations for addressing the Iranian nuclear challenge, but, in actuality, they strongly support them.
+A nuclear-armed Iran would be able to hold United States assets at risk with the threat of nuclear war, , increasing Washington’s expected costs in a conflict with Iran, and reducing its willingness to run risks in crises against Tehran.
+Moreover, in addition to reduced crisis bargaining power, there are many other more dangerous threats posed by a nuclear-armed Iran.
+I agree that this distinction is often fuzzy and that it does pose potential problems for studies that attempt to focus on one or the other, but this distinction is not at all crucial to my analysis.
+Rather, I focus on the outcomes of all serious showdowns between nuclear-armed states regardless of whether the initiator is attempting to deter or compel the target.
+In closing, I would like to thank Gavin again for bringing attention to the subject of nuclear superiority and nuclear crisis outcomes.
+The most important requirement is that we be present in Iraq and Syria and will have planned ahead that the enemy, the air force, that the enemy will come and attack and destroy, etc.
+We should bear it and keep going—and go put pressure on our Soviet friends and make them understand our need for one weapon—we only want one weapon.
+We want, when the Israeli enemy attacks our civilian establishments, to have weapons to attack the Israeli civilian establishments.
+We are willing to sit and refrain from using it, except when the enemy attacks civilian establishments in Iraq or Syria, so that we can guarantee the long war that is destructive to our enemy, and take at our leisure each meter of land and drown the enemy with rivers of blood.
+In Saddam’s view, having a nuclear deterrent would foreclose the possibility of Israeli nuclear escalation, thereby allowing the Arabs to wage a “patient war” that would last “for twelve continuous months,” result in tens of thousands of casualties, and gradually allow Iraq and its allies to liberate the territories conquered by Israel in previous wars.
+Saddam’s comments can be found in the transcript of a Revolutionary Command Council meeting, one of several hundred Iraqi documents first made available to scholars on an unclassified basis in 2010.
+We also argue that Saddam’s nuclear calculus has important implications for theoretical debates about nuclear proliferation and its geopolitical consequences.
+Accordingly, I think that this passage serves as an appropriate point of departure for a paper about the role of new sources and new approaches in the study of nuclear politics.
+The overall goal of the paper is not to serve as anything approximating a formal or comprehensive literature review, but simply to provoke discussion about potential avenues for improving and building on the exciting work now being done in the field of nuclear politics.
+Since the Cold War—and more recently in some cases—reams of documentation on nuclear statecraft have become available through declassification and other processes.
+These documents shed light on a wide range of subjects pertaining to the international politics of nuclear weapons, and they have the potential—and in some instances, they have already begun—to reshape the ways that scholars think about important aspects of the nuclear age.
+Here too there is lots of material to work with, even though declassification procedures are much more idiosyncratic.
+And as I’ll discuss in greater detail below, an upshot of the United States invasion of Iraq in 2003 has been to make available to scholars a number of key Iraqi documents dealing with Saddam Hussein’s approach to nuclear issues during his time in power.
+At the risk of belaboring the obvious, all of these records are very valuable to students of the nuclear age.
+In some cases, they shed light on little-known aspects of nuclear statecraft; in others, they illuminate to an unprecedented degree the ideas, motives, and perceptions that fed into nuclear politics.
+They can correct longstanding misunderstandings and push us toward the resolution of certain debates, while also opening others.
+These are just some of the questions that the documents can help us begin to answer.
+Yet what makes these records so valuable is not simply that they enhance historians’ understanding of things that happened decades ago.
+Rather, these records have real significance for some key theoretical debates surrounding nuclear weapons and international relations.
+These and related questions are at the center of scholars’ efforts to understand the nuclear age.
+II As a brief illustration of the above points, think just about the Iraqi records.
+From my perspective, the most important information in the Iraqi records has to do with the question of why Saddam wanted the bomb in the first place—an issue that is of interest not just to scholars of Iraq, but to anyone interested in studying the broader theoretical issue underlying that question.
+Saddam, it now seems clear, wanted nuclear weapons as a means of enabling conventional attacks on Israel.
+If Iraq lacked atomic weapons, on the other hand, then it would remain vulnerable to nuclear blackmail even as its armies advanced.
+If we were to have the atom, we would make the conventional armies fight without using the atom.
+If the international conditions were not prepared and they said, “We will hit you with the atom,” we would say, “We will hit you with the atom too.
+Saddam often came back to the same theme in the late 1970s and early 1980s, and even a decade later, in the late 1980s, as well.
+For Saddam, nuclear weapons were meant not simply for purposes of deterrence and prestige, but also to enable conventional war.
+If one accepts this conclusion, then there are some interesting theoretical implications that follow.
+The Iraqi records provide numerous illustrations of a statesman invoking the logic of the stability/instability paradox.
+They show that Saddam believed that nuclear weapons could have great strategic and military utility even if they were never used—and that he believed that even a very small and primitive arsenal would be enough to deter a much larger Israeli arsenal.
+On the one hand, the Iraqi documents are actually somewhat reassuring, in that there is no evidence that Saddam wanted nuclear weapons so that he could launch an unprovoked attack on Israel or any other country.
+On the other hand, the documents are troubling because they indicate that had Saddam obtained nuclear weapons, he might have used them for purposes that still would have been bloody and highly destabilizing.
+Finally, in an echo of other recent work on nuclear issues, the documents help flesh out just how amateurish and idiosyncratic Saddam’s views on nuclear strategy could be.
+As Palkki and I have noted in our article on this subject, Saddam’s nuclear calculus seems to have been sincerely held, but it was flawed on numerous grounds—not least his belief that Iraq could defeat Israel in a conventional war once deterrence was established at the nuclear level.
+Looking beyond the question of why Saddam wanted nuclear weapons and what he planned to do with them, there are other intriguing insights to emerge from the Iraqi records.
+In a recent chapter for an edited volume, Palkki and Shane Smith have examined the way that international sanctions and inspections impacted Saddam’s perceptions of the utility of his nuclear program in the 1990s, and the reasons why the regime ultimately parted with much of that program while still seeking to retain basic facilities and know-how.
+To be sure, the Iraqi records now available do not give a complete portrayal of Iraqi nuclear politics under Saddam.
+The existing records provide a fragmentary picture of Iraqi statecraft, and they raise obvious questions about how literally one should take Saddam’s statements about nuclear weapons and other important issues.
+But all in all, I would argue that these records do provide greater insight than any other sources into the strategic motivations underlying Saddam’s nuclear decision-making, and that they have the potential to constructively influence theoretical debates as well as empirical ones.
+III In many ways, it would seem superfluous to suggest ways that scholars should utilize these new materials, or to offer comments on potential directions for the field of nuclear studies more broadly.
+Both History and Political Science already have strong cohorts of scholars doing innovative and exciting work on nuclear issues, ranging from proliferation and its consequences, to arms control and reasons for nuclear abstention, to the ways that the nuclear balance affects the outcome of international crises.
+In the spirit of generating discussion, however, here are a couple of brief observations about archives and nuclear studies.
+First, for political scientists particularly, I think that the new materials offer an opportunity to strengthen and perhaps reinvigorate the qualitative research agenda.
+As an outsider looking in, I am struck by the degree of which political scientists seem to be moving away from the sort of deep, archives-based, case-study analysis that would appear to be the most rewarding way of exploiting the emerging material.
+Political scientists have long asked the biggest, most ambitious, most interesting, most policy relevant questions about nuclear issues.
+And based on an admittedly impressionistic survey of the field, it seems as though they are now increasingly answering those questions through quantitative analysis.
+And just from looking at the nuclear-related articles run by leading journals like International Organization, Journal of Conflict Resolution, the American Political Science Review, and others, it would seem as though the subfield as a whole is trending in this direction.
+Quantitative work certainly has its benefits, which I do not aim to dispute here.
+But when dealing with nuclear issues, it should also be noted that quantitative work has limits.
+There are, of course, the small-n problems that come with studying a number of nuclear issues.
+More broadly, relying on statistical analysis makes it difficult to capture the complexity that is often at work in studying nuclear politics.
+As Francis Gavin has recently pointed out, for instance, the very attempt to code the outcomes of crises involving nuclear powers—to answer, in a straightforward and accurate fashion, the question of who won and who lost—is fraught with nasty complications.
+If you want to know how the strategic balance affected a crisis, for instance, you need to understand, as accurately as possible, how that balance was perceived by the officials in question.
+If you want to understand how acquiring nuclear weapons affects the behavior of a given state, you have to look at the complicated and often conflicting ways in which those weapons altered the strategic calculus of leaders in power.
+If you want to know how many bombs it takes to constitute an effective deterrent, you need to find out when leaders of the country in question—as well as the leaders of the opposing country—believed that this threshold had been passed.
+In other words, so much of nuclear history revolves around perception as much as reality.
+And at the very least, the possibilities for doing such work at tolerable costs in time and effort are greater now than ever before.
+As for historians, there are already a number of scholars who are doing terrific work with these materials on a wide range of subjects.
+Rather than suggesting new topics for them to consider, I would simply suggest that as historians continue to do their work, they should think about new ways of wringing maximum value out of the records they use and the insights they generate.
+Broadly speaking—and this is probably somewhat ironic in light of the foregoing—historians need to be more ‘political sciency’ when they address nuclear issues.
+They need to be more attuned to the theoretical implications of their work and more willing to explicitly engage the relevant political science and strategic studies literature; they need to be willing to try their hand at comparative history; and they need to work—as political and other social scientists often do—on more collaborative projects.
+With respect to the first of these tasks, historians need to be far more theory-conscious in dealing with nuclear issues.
+There is a vast body of theoretical literature, produced by the political science and strategic studies communities, on these subjects, but historians too often write their books and articles as though this theoretical work did not exist.
+This silence may be because historians simply aren’t conversant in the relevant theoretical literature, or because there isn’t much professional payoff to engaging that literature if you want to make a living working in a traditional history department.
+But the lack of theory-literate historians imposes real limitations on the work we do.
+On top of all this, they are giving political scientists little incentive to engage historical work, further impoverishing the dialogue between the disciplines.
+But historians have overcome these obstacles in other aspects of diplomatic/international history, and there are good reasons to try it in nuclear history as well.
+It can give scholars more analytical leverage than they would gain by simply looking at a single case, allowing them to explore similarities and differences across cases, to see which dynamics are common and which seem to be more idiosyncratic, and to see how much issues like politics, ideology, and culture influence the way that states approach nuclear weapons.
+Comparative history can thereby be a powerful tool for illuminating the nuances, patterns, and anomalies of the nuclear era.
+Finally—and related to the first two points—historians need to do more collaborative work.
+Historians have generally been reluctant to do such work, for some reasons that make sense and some that do not.
+But here as elsewhere, there is much to be gained from trying new approaches.
+Collaborative work represents a natural way of bringing together the various expertise and language skills that are often necessary to do good comparative history.
+Indeed, some very interesting work on nuclear issues has been done by teams that have brought together just these sorts of skill sets.
+America’s Search for Purpose in the Post-Cold War World , as well as numerous articles on grand strategy, arms control and nuclear issues, and other subjects.
+This is an approach that has gradually swept through the sciences, engineering and is now increasingly practiced in the social sciences and humanities.
+There are other ways of gaining knowledge, including deduction , expert judgment, and qualitative assessment.
+Quantification is not a substitute for qualitative evaluation or theoretical reasoning.
+That said, it poses important potential advantages that have proven fruitful in an enormous and enormously diverse set of intellectual disciplines.
+For more than sixty years, it was widely assumed that the study of nuclear security was not amenable to quantitative analysis.
+There were few countries with nuclear capabilities and nuclear weapons had existed for only a short time.
+The last decade has witnessed a flowering of quantitative empirical studies of correlates of the nuclear age.
+These studies have explored the reasons that nations proliferate and why they do not.
+Research has assessed the impact of nuclear capabilities on alliance ties and extended deterrence.
+Studies have begun to assess the relationship between nuclear status and crisis escalation brinkmanship, (and nuclear arsenal size and conflict.
+In this very preliminary effort, I seek not to criticize the critics, but rather to make the case that quantitative analysis of nuclear security is a useful addition to the tools available with which to make sense of extremely important questions, indeed ones that may decide the fate of humanity.
+Pointing to the flaws in any approach is useful if it leads to refinements that improve the products of inquiry.
+It will be less constructive if the effort is designed to squash what is seen as competition in its infancy or to dismiss a new perspective out of an instinctive desire to preserve established approaches or hierarchies.
+II A strong critique of the quantitative approach is simply that it is not possible or is perhaps pointless to measure nuclear capabilities.
+To the degree that such claims are true, one should find at best a tenuous relationship between nuclear status or capabilities and consequences, such as the exercise of influence or the advent of conventional war and peace.
+Longstanding controversies about the effects of nuclear arsenals serve to emphasize the ambiguity surrounding such weapons.
+Two of the leading scholars of international relations have spent at least fifteen years in a public and active controversy over whether nuclear weapons deter or inflame.
+This embodiment of the adversarial system has led to a number of insights, but no firm resolution of the basic controversy.
+Answers may prove elusive because the kind of information needed to arrive at answers does not exist.
+Opposing counsel in a criminal trial can speak to facts that are at least potentially available.
+A murder happened or it did not; the defendant owned a pump-action shotgun, or she did not.
+However, information of this type may not be forthcoming in international relations and particularly not in studying nuclear security, with no cases of usage, few countries that have nuclear weapons, and relationships that are tendencies with contrasting tendencies, or just plain noise.
+The dialectic is not particularly effective at providing scale; perhaps both tendencies exist, though neither is large, at least in small samples.
+It would not be particularly surprising if early attempts to unravel ambiguity and surrounding controversy of this type through quantitative methods were subject to some controversy of their own, especially since three generations of qualitative research have been unable to resolve these issues.
+The issues that remain at this point are those over which qualitative debates have proven less than definitive, such as the Kenneth Waltz-Scott Sagan debate about nuclear stability.
+There may be many flaws that need to be ironed out in quantitative research, just as there have been with qualitative accounts of complex, multi-causal relationships.
+Indeed, some of these difficulties remain and it may be in these areas that quantitative research proves valuable.
+Depending on where one looks, Swiss cheese is either cheese, or it is not.
+There are big holes in the fromage that, depending on where one is looking, can make the cheese, not cheese.
+Controversies about relationships in which behavior or effects are heterogeneous can prove difficult to evaluate qualitatively because evidence will exist for contrasting claims.
+There is most definitely cheese in some places and decidedly no cheese elsewhere.
+Imagine the debate between two observers, one who received a sample of the cheesy part and the other whose sample is the center of a hole.
+The Waltz-Sagan debate again can be used to illustrate the problem, precisely because it takes on this character, but also because of the deficiencies in the adversarial system already mentioned.
+Whether effects reflect important contrasting tendencies of lots of not-so-much, the temptation is to exaggerate the pervasiveness of one’s preferred evidence.
+Whatever differences exist are hard to scale, even while debate pushes participants toward rhetorical hyperbole.
+One version of the Swiss cheese problem arose during work on the 2009 special issue in the Journal of Conflict Resolution.
+Alexander Montgomery and Scott Sagan pointed out that different scholars were using different definitions of nuclear status and that this belied some confusion about what, precisely, was being measured.
+The critique was a valid one on its merits; countries like Israel and India have not been entirely frank about their nuclear status at various times.
+Researchers for their part hold discrepant opinions about when North Korea, for example, crossed the nuclear threshold.
+There has been intense debate among experts about which date is correct.
+The old adage that an intellectual is someone who cares more and more about less and less seems applicable in this instance.
+Choosing dates arbitrarily primised an intellectual train wreck, since the intensity and diversity of expert opinion seemed to invite some disapproval of whatever dates were chosen.
+As it turned out, a surprising and useful thing happened that was only possible because of the application of statistical methods.
+What could have degenerated into a lengthy and ultimately unresolvable debate about when, really, highly secret nuclear programs achieved certain milestones quickly established a very simple fact.
+Whatever plausible dates one wished to champion, they did not matter in terms of the results of any of the analyses conducted by the studies involved in the project.
+Academics can disagree about anything and there is no shortage of things about which to disagree.
+There is certainly an interesting debate to be had about numerous details of the development of nuclear weapons in each of the nuclear powers.
+However, it would be a disservice to a critical set of questions to let the search for better answers become mired in details, especially when it is possible to determine whether the answers to these questions hinge on particular values in any given controversy.
+If in addition it turns out that individual judgment or opinion is not critical in a given area, then this is an extremely liberating discovery for all involved.
+We can then leave such debates to be conducted at leisure by the appropriate scholarly community.
+Rather than submitting to the untenable position that every detail must be hammered out and agreed upon before moving forward, or imposing arbitrary winners and losers in such debates, we can use statistics to tell us where values are or are not critical to the types of conclusions that may or may not be supportable.
+This leads me to a basic difficulty in all forms of analysis, not just those posed by the use of numbers.
+Researchers make an enormous number of assumptions to move forward with a particular line of inquiry.
+Francis Gavin’s laudable and carefully reasoned critique of two recent quantitative studies of nuclear brinkmanship is, like all works of non-fiction, packed with assertions, overt and otherwise.
+However, as he himself points out, the documents merely chronicle what participants thought, or worse yet said, not what actually happened.
+It is necessary to interpret history, to emphasize some things while discounting others.
+All of this is done through a screen of beliefs about what history is really about.
+This is why, in part, different historians can read the same case differently.
+The more we rely on the precision of a case, the more we rely on the objectivity of the scholar, which in the end is not clearly demonstrable but is an article of faith.
+This may be easy to do with a researcher of Gavin’s caliber, but it is something that is not scalable, replicable, or readily assailable.
+One way to assist in relying less on the genius of the researcher is to use techniques that facilitate replication.
+On occasion, it is discovered that replication is not possible, or that changes to the analysis alter published results.
+This can cause a minor scandal and is not infrequently used as evidence of the deficiencies of quantitative analysis.
+The actual consequence is just the opposite; rather than a flaw in the method, it is a virtue of quantitative work that it assists critics and advocates in conducting an evidence-based debate.
+I am happy to see such controversies because of what often follows and because they focus attention on the right sorts of issues and questions.
+We can have fairly high confidence that, where there is interest, conclusions will be drawn and a consensus will form from it.
+Gavin, in his detailed and thoughtful dissection of the controversy between Matthew Kroenig and Todd Sechser and Matthew Fuhrmann, makes an astute connection to an earlier controversy between Paul K Huth and Bruce Russett and Ned Lebow and Janice Stein.
+One thing that Gavin does not mention in his review is the disposition of this earlier debate.
+In a response to their critics, Huth and Russett simply dropped all of the cases that Lebow and Stein objected to as being miscoded.
+Whatever one thought about the coding of individual cases — a qualitative issue that ultimately may not be resolvable — the authors’ observations about tendencies in this debate did not depend on their preferred coding of the cases in dispute.
+Even while quantitative analysis is better equipped to address certain kinds of controversy, it is a more permissive environment within which to ignore other issues involved in making inferences.
+Qualitative and quantitative research differs, importantly, in how each reacts to error.
+It goes against these instincts when a researcher sees what he or she deems to be an error in describing a case, for example.
+Not only is a sloppy or otherwise mistaken case wrong and very likely to lead to incorrect conclusions, but errors are unlikely to allow the researcher to infer even the direction of the mistake.
+A less-than-perfect bit of qualitative inference confounds conclusions in an indeterminant manner.
+This is an excellent reason for lavishing enormous care on details of a case, and why debates evolve over when, precisely, India became a nuclear nation, for example.
+It does not follow, however, that the effort to avoid error is invariably, or even often, successful, or that the result is satisfactory in any given case.
+In short, there exists in qualitative research no metric or even rule-of-thumb by which to evaluate what constitutes adequate precision and no method is available by which to conduct quality control, other than the adversarial system mentioned above.
+A statistical study can even be based on data that is mostly in error and still provide the ‘true’ relationship, as long as the errors are constructed in such a way that they are not intentionally, or systematically, biasing of results.
+Statistical estimation treats ‘random’ errors as noise, removing their impact on inference.
+Since there is so much noise in social scientific data anyway, and since in most circumstances we would rather not commit the error of believing the noise, whether by coding or generated by the environment that we are studying, separating out the signal and the noise is extremely useful.
+This leads to the paradoxical point that attempts to ‘fix’ or correct errant data, by interested parties, can actually lead to errors in inference.
+Even Gavin’s criticisms of coding, many of which appear to me to be correct, are not without unintended consequence.
+Few among us will be equally attentive to cases that support both sides in an argument.
+The tendency is to identify errors in cases that, once repaired, are more likely to support one’s own preferred conclusions.
+Thus, even if the error is genuine and the proposed correction correct, one could well end up degrading the quality of the inference by converting random errors in the coding of data into nonrandom errors, something that is much more difficult for any method of inference to address.
+If this objective is lost in the pursuit of what might ungenerously be described as the ‘little truths’ of particular cases, then surely this is a high price to pay.
+As I will emphasize throughout this essay, my claim is not that certain approaches should be replaced, but that a big tent is a better one when it comes to the study of the important questions of national and international security.
+A pragmatic standard may be the best one to apply in applied social scientific research; let us use whatever works best in a given situation, and perhaps there are some places where quantitative analysis possesses considerable potential.
+III By far the most common, and arguably the strongest critique of existing quantitative studies is that particular authors have mis-specified relationships , or that scholars have failed to code cases correctly.
+It may be useful to note that this is really not a criticism of method, but rather one of application.
+Noting that someone is ‘doing it wrong’ is a refutation of how one is doing something, not of what one is attempting to do.
+A bicycle poorly mounted is a problem of the cyclist rather than of bicycles.
+Interestingly, rather that critiquing method, these criticisms serve to highlight virtues of the quantitative enterprise.
+The purpose of empirical research is not to demonstrate truth — though some would have readers believe this — it is to eliminate mistruth.
+Hypothesis testing literally does not affirm but fails to reject, an outcome that reflects the tenuous nature of inference.
+All that one can say is that a relationship exists or does not exist under a given set of assumptions.
+A critic who rejects any of an author’s assumptions has no reason to sustain the author’s conclusions.
+There is value in achieving even this limited form of clarity, however.
+The purpose of statistical techniques is to solidify the process of hypothesis testing, not to ensure that particular applications are free of fault or even objection.
+The naive notion of science as truth is precisely wrong; science is a method of removing mistruth.
+It is also a considerable fallacy to confuse the method by which errors are detected more effectively with the origin of error.
+First, quantitative techniques are intended and often appear in practice to facilitate the process of developing objections to research.
+The ease with which a critic can identify sources of concern is a strength of the method, not a weakness.
+This is not an excuse for errors, even as the presence of errors is not an excuse for rejecting a method that makes it easier to identify errors.
+Second, quantitative methods make it less difficult to address concerns about coding or specification.
+If you don’t like what someone did, change it and see if the changes make a difference for the findings.
+Just as it is a mistake for a quantitative researcher to assert truth from a given set of results, so too it is a mistake to assert the faultiness of a conclusion from cases where errors can be shown to exist.
+One cannot know whether the results of particular cases obtain elsewhere.
+Third, quantification provides a common basis on which to adjudicate debates.
+Such a standard, like several applied informally in methodological discussions like this one, allude to a nonexistent reference point in which an approach, because it is not without fault, is deemed faulty.
+The appropriate standard is to inquire as to what alternative methods of adjudication are available and whether, in fact, one or another approach poses advantages.
+The deterrence debate alluded to by Gavin was resolved to the satisfaction of many scholars in international relations, though certainly not all.
+This was, and remains, a distinctive feature in a literature that seldom manages to find much more than its own intellectual tail.
+Many, though not all, objections can be raised, quantified and evaluated to determine which among existing alternative accounts is most nearly correct.
+Uncertainty itself is an important argument for the utility of quantitative methods, not because quantification provides sufficiency, but because it may be necessary.
+Recent thinking emphasizes the problematic nature of inferences about the causes of war and peace when the causes of war involve uncertainty about whether war will take place.
+For war to occur, participants themselves must not to know whether war will occur, or at least one side must be mistaken in their beliefs about the onset, length or intensity of the looming contest.
+To the degree that uncertainty is a cause of war, there exist important limitations on a researcher’s ability to rely on, dissect, and interpret the historical record.
+The fact that key actors in history must have incorrectly evaluated key variables or processes for war to occur means that their descriptions must be treated with some caution.
+A series of difficulties are perhaps best illustrated by referencing Gavin’s own method in critiquing the studies previously mentioned.
+Clearly, at minimum, to be important, an event must be an event, a happening that actually occurs.
+Given what we think we know about war, however, it is very likely that many of the most important cases never occur at all and thus are unavailable for evaluation, precisely because the issues at stake were recognized to be potent enough that discretion was chosen by participants over a challenge.
+The problem of non-events is a crucial issue in studying deterrence and is presumably no less vexing for historians studying the nuclear age.
+The fact that an event, crisis or whatever happened suggests that at least one side in a conflict did not think the issues at stake were important, or at least that they underestimated how an opponent would react.
+Gavin’s is a ‘best case’ version of a case study; I am inclined to believe his interpretation of events.
+However, it is not impossible that his take on things is shaded in a particular direction.
+My faith in the validity of his inferences rests heavily on my confidence in his judgment.
+Historians will note that the facts are there in the historical record, but the question is which facts are chosen and how are they weighted.
+Every analysis is an assessment of what matters and what does not, and what matters more than other things that also matter.
+The emphasis given particular elements of a historical case is art, not science, not because it is not true, but because it depends on judgment that cannot be replicated by others using the same facts, unless they just happen to share the same prejudices and biases.
+It may be useful to consider the situation in terms of Jervis’s discussion of misperception.
+Knowing that others misperceive is not in itself a problem, provided that one makes allowance for the errors and provided perhaps that others recognize that they have this problem.
+The danger lies in those who do not know, who believe incorrectly that their own judgments are neutral and objective, or conversely in those who believe that they or others are biased, when they are not.
+Politics is never just about facts, about the record, but about how facts are interpreted.
+While statistical estimation can be quite crude in the treatment of these issues, it has the important advantage of being overt and replicable.
+It forces the researcher to make his or her weighting explicit, even as it removes some of the burden of guessing by estimating these effects mechanically.
+Evaluating the impact of different factors is made considerably more difficult when the subject matter requires that the participants misperceive, or at least err, such as in war causation.
+The challenge is not just to infer intent and action, but to correctly identify misperception, error, excess, or insufficiency.
+However, the presence of errors as a necessary causal condition says that the historical record itself must be suspect.
+Indeed, theory strongly suggests that those in power must have made errors for war to occur, errors that participants may wish to discount or obscure in contemporary or future description.
+I do not mean to be harping on semantics; there is more than just a rhetorical critique in such a challenge.
+The president of the United States is an important person, but for this very reason he is likely to be different in critical ways from the average citizen.
+The Great War was important, but precisely because of this it does not represent other wars or their causes.
+Indeed, it was atypical in many ways, not least because it was extremely large.
+The intensity of a contest can be affected by an enormous number of factors that have nothing to do with the reasons for war onset.
+Then too, the temptation is to give more weight to sources that turned out to be correct, something that contemporaries clearly did not do.
+The evening news does not tell one much about how the world works precisely because it focuses on events that are at odds with the normal functioning of institutions, populations and politics in general.
+We want to know why World War I happened, but may miss the causes of war generally — and may even miss indicators of the next big war — if we rely on evidence that is itself idiosyncratic or which relies on an association between events that coincide with, but did not cause, warfare or its expansion, duration, etc.
+Finally, I do not believe that political science would characterize Gavin’s core criticism, though important and deserving of attention, as constituting a strong or critical test.
+The nature of such a test is the belief that, if a claim works anywhere, it must work in this instance.
+There is again a common tendency to conflate the notable with the indicative or typical.
+Outliers are a bad test of theory, unless they are placed in the context of the larger sample.
+At the same time, the stochastic nature of causal claims in the social sciences in general, and for theories of war in particular, mean that, with certain exceptions, no case is likely to serve this function.
+Stated in a stronger way, the need for uncertainty as a condition for war must mean both that war can occur and that it can fail to occur for precisely the same set of observable conditions.
+It is inconsistent with the theory of war to claim that war must result in some instances and not in others, unless war is in fact the product of these discrete conditions and not due to uncertainty about the status of these conditions, as is increasingly believed.
+Both Snyder and Borghard and Trachtenberg raise doubts about the empirical validity of audience cost theory in international relations.
+Audience cost theory, originally proposed in a somewhat off-hand manner by James D Fearon, and later clarified by Alastair Smith, Schultz and others, argues that leaders constrained by domestic public opinion are more likely to be able to credibly signal resolve, less likely to bluff, and therefore better able to avoid the bargaining failures that lead to war.
+Both Trachtenberg and Snyder and Borghard take audience cost theory to task for the lack of evidence, which is indeed a valid problem for the theory.
+However, the method of criticism — involving attempts to look at instances where audience costs ‘should’ have been present — has received considerable pushback, even among those skeptical about audience cost theory.
+Once these factors are considered, it is by no means clear that a straight-forward approach to assessing arguments is destined to yield straight-forward conclusions.
+Indeed, much of the justification for convoluted theory and assessment in the social sciences is based on the fact that a straight-forward approach, though appealing on many grounds, does not work.
+To repeat, this is not a criticism of the substance of Gavin’s objections, or indeed of those of others.
+The scholars whose work has been criticized should respond, justifying their coding decisions and making clear whether changes in these decisions alter their results.
+Still, under many, possibly most, circumstances in international security, counter examples, even ones involving extremely important cases, will be both ubiquitous and far from definitive disconfirmation of a theory.
+The stochastic, multi-causal and indeed indeterminant nature of conflict processes suggests perhaps that causation will be clearly supported in no individual case, even when causal mechanisms are actually operating as predicted.
+IV There can be no question but that considerable room remains to conduct research on all fronts in studying something that may well, eventually, cause the end of humanity as we know it.
+Asserting a role for quantitative nuclear security research says very little about the value of other approaches.
+It simply suggests that there is room for the ‘big tent’ that many of us believe in fact can prove most fruitful.
+Criticism often takes the form of identifying where some alternative falls short, while ignoring similar or comparable deficiencies in alternative methods.
+There is a basic tension in criticizing attempts to code attributes of crisis bargaining such as which state was the initiator, had more to lose/gain, or was more resolved because the participants themselves did not know these things, while at the same time asserting that such an effort at coding can legitimately form the basis for criticism of an approach.
+Acknowledging that motives are complex or indistinct does not clearly lead to the conclusion that one should abandon a method that is permissive of ambiguity in favor of one that is much less flexible in its need for precision.
+First, the tradeoffs between these alternatives are perhaps minimized if we attempt both approaches, determining the effectiveness of either approach by what we are able to find in doing so.
+Second, to the degree that one alternative must be chosen, there is reason to believe that quantitative imperfection may trump qualitative precision.
+Precisely because coding is likely to be fraught with error, a method that handles error relatively well is to be preferred.
+As in so many things, the enemy of the good may be the search for the best.
+The attempt at refutation of inference from a sample by identifying flaws in the coding of an example, while intuitive, makes no more sense than rejecting quantitative analysis because of one or a few studies that are said to fall short.
+The external validity of claims is only as good as the generalizability of one’s cases, which itself depends on an intimate understanding of the properties of the larger sample.
+In sharing the intellectual domain, quantitativists have a great deal to learn from their qualitative colleagues who, after all, have been toiling away for decades if not centuries.
+Rather than asking what quantitative analysis has done for the subject lately, let us ask where we stood a decade or more ago.
+It is not as if scholars using traditional methods were prevented from figuring out how nuclear security worked.
+Still, much remained to be resolved, either because the evidentiary record was unclear or because it could be interpreted in more than one way.
+Quantitative analysis is very good at finding relationships in areas where trends are not obvious, where cross-cutting effects are present or where multiple factors intercede.
+There is also a false consciousness of qualitative opposition to quantitative methods.
+There will be little progress in any field of inquiry without this interaction, just as there will not be progress without the melding of deductive and inductive approaches.
+It has been roughly two and one half millennia since Thucydides revolutionized the study of international relations and security policy with qualitative analysis fortified by rational causal reasoning.
+In the interim, students of world affairs have used qualitative analysis to resolve numerous riddles.
+The passage of 2500 years and the fruits of many scholarly lifetimes suggest two things.
+First, that Thucydidian qualitative analysis, by itself, is at best not a blindingly rapid solution to endemic global problems.
+Second, that it may be a bit soon to judge the potential of alternatives or complements, particularly those introduced in the last generation or so.
+Indeed, to the extent that qualitative approaches have been successful, they are bound to have consumed some of the territory in which their advantages are most distinct.
+What remains is not a virgin forest but one in which the easiest pickings have already been exploited.
+What remains disproportionately are questions that have proven difficult for qualitative analysis alone to resolve.
+Qualitative research is inspired at least in part by the conviction that the precise representation of one or a few cases can elicit relationships of interest.
+Quantitative analysis relies on numbers and approximation to accomplish the same objective.
+Rather than viewing one another with suspicion, it may be best to move forward in the mutual acknowledgment that each approach is imperfect and that the best opportunity for real insight depends on a more virtuous and reaffirming interaction than has taken place to date.
+Gartzke’s primary area of study involves the impact of information and institutions on war and peace.
+Development, Democracy, and Difference as Determinants of the Systemic Liberal Peace,” with Alex Weisiger, International Studies Quarterly, 58; “The Myth of Cyberwar: Bringing War on the Internet Back Down to Earth,” International Security, 38:41—73; “Permanent Friends?: Dynamic Difference and the Democratic Peace,” with Alex Weisiger, International Studies Quarterly, 57:171-185; “Trading on Preconceptions: Why World War I Was Not a Failure of Economic Interdependence,” with Yonatan Lupu, International Security, 36:115-150.
+Improvements in these two methodological areas carry with them the promise of more systematically isolating correlates or, in the latter case, the promise of the holy grail of identifying causal variables of either nuclear proliferation or deterrence.
+In general, as with any method, it is important for scholars to be transparent about the promise, and especially the limitations, of their choices.
+In order to get published in the pages of Journal of Conflict Resolution , American Political Science Review , or International Organization , scholars have to sell their results to reviewers and editors.
+But often, that comes at the expense of transparency in terms of limitations, and there has been a disturbing trend in nuclear studies of quantitative work to sometimes ‘oversell’ the robustness and magnitude of results to an unnecessary degree.
+This perceived overselling of results has had the perverse effect of potentially undermining and discrediting the larger enterprise because the results are simply unbelievable to most specialists, including not only other political scientists and methodologists but also historians and international relations theorists.
+This is unfortunate because this trend has overshadowed the positive effects that the large-n enterprise has had on the study of nuclear proliferation and deterrence.
+This essay briefly outlines the promise and limits of the large-n enterprise in nuclear studies as I see it, as well as examining how the growing ‘causal inference revolution’ affects nuclear studies in political science.
+The Large-n Enterprise in Nuclear Studies The incorporation of large-n methods in the study of nuclear proliferation and deterrence has been motivated by some very good reasons that are worth enumerating.
+One of the biggest limitations of case-study work in the study of nuclear proliferation and deterrence was the tendency to select on the dependent variable, or those cases where we only observed, as with the case of successful proliferation.
+This has the potential to bias our understanding of the causes of proliferation because no-variation designs can erroneously identify factors that are believed to be important but which, in fact, are not because they are also present in the negative cases.
+By sampling the full universe of actual proliferation as well as nonproliferation, the large-n enterprise is in principle able to more systematically isolate correlates of proliferation than single or limited case study methods.
+The large-n enterprise allows scholars to analyze the relative importance of many variables at once.
+This is particularly important in outcomes like nuclear proliferation or deterrence/compellence that are often not monocausal or monocorrelated.
+As these methods and approaches have improved, conditional and interaction hypotheses can also be tested in ways that would be difficult in single or small case study method analysis.
+By being forced to quantify independent and dependent variables and subject the analysis to econometric techniques and standards, the large-n enterprise carries with it the promise of providing more precise estimates of which independent variables are significantly correlated with an outcome of interest and how much they matter.
+This effort toward precision and measurement allows scholars to directly and more precisely engage theory, empirics, and each other on the same terms.
+One of the biggest advantages of the large-n enterprise is the ability for peers to know exactly how to replicate the reported results if provided the original dataset and procedures for the analysis.
+This allows the codings and assumptions in the analysis and models to be laid bare for other scholars to see, and is very much in the normal science tradition.
+This transparency has led to debates—whether productive or not—about whether reported results are particularly robust or fragile and, in the process, represents some degree of progress in our understanding of the correlates associated with a particular nuclear outcome of interest.
+Though subjectivity is still injected in the original coding of covariates in many cases, there is less subjectivity in the reporting of results, and other scholars have the ability in theory to reproduce and thereby probe them from the same playing field.
+Most of our theories in international relations, but particularly nuclear security, are probabilistic.
+But modeling probabilistic processes in qualitative work is very difficult since the case study method necessarily truncates the sample size.
+As a result, the large-n enterprise carries with it the ability to explicitly and systematically model probabilistic processes and estimate these probabilities more rigorously than the case study method.
+These are non-trivial methodological advantages that medium and large-n methods can offer to scholars of nuclear security.
+But they must be balanced against a variety of pitfalls that accompany large-n analyses, particularly in the area of nuclear proliferation and deterrence/compellence.
+We must be transparent about the following limitations and what they mean for how we report and interpret results.
+Large-n data in international relations often employs very poor measures.
+Too often, the measures deployed in quantitative IR studies, but especially nuclear studies, are total garbage.
+Some of the variables used to measure critical concepts such as ‘power’ score, of which I am also guilty) may be the best out there given the herculean task of coding these variables for every country in every year, but no one really believes it measures what we want it to.
+We can make arguments for why they are good proxies, but they are a tough sell.
+We treat some measures as if they can be consistently operationalized over two centuries and are temporally stable, but no one really believes that that is the case.
+In nuclear studies, we have often collapsed nuclear weapons states into a binary condition even though clearly some nuclear states are different than others in important and measurable ways.
+Recent efforts to analyze concepts such as ‘nuclear superiority’ which move beyond the simple binary condition of nuclear/nonnuclear are important, but post hoc measures of aggregate numbers of warheads fail to measure what theorists and practitioners really meant by superiority, a concept which includes variables such as relative geography and number of targets to hit and a psychological component which is simply very difficult to quantify.
+One has to be exceptionally careful with analysis of rare dependent variables.
+Although, for example, rare events logit techniques exist to correct for the low incidence of some of these dependent variables, these approaches are usually not implemented or deployed correctly.
+Furthermore, if a dependent variable is relatively rare, it is almost certainly the case that reported results are quite sensitive to coding decisions and/or noise or miscodings.
+When the dependent variable is as rare as it tends to be in nuclear studies, the results tend to break early and often.
+We need to be better about reporting the point at which they break and allow readers to judge whether that point constitutes a robust breaking point.
+Large-n data structures and analysis must better account for time dependencies, and dependencies in general.
+There are virtually no available techniques that model time, or uncorrelate temporal dependencies, accurately enough to really convince readers that ‘country-year’ datasets as they are often deployed in quantitative nuclear studies really represent independent observations year-to-year.
+This means that we are not modeling history and repeated interactions accurately in the large-n enterprise.
+Conflicts and proliferation behavior have a history and operate through feedback loops that are not being captured by these modeling approaches, meaning that the estimated relationships and findings between the independent variables and dependent variable of interest are almost certainly erroneous.
+In addition to temporal dependencies, the problem of other dependencies creates a ‘degrees of freedom’ problem if our millions of supposedly independent observations are actually only tens of independent observations.
+Furthermore, we have to be very careful about how we code time-series dependent variables.
+If the theory and outcome of interest is the onset of a particular nuclear phenomenon, then the dependent variable needs to be coded 1 for the first instance of the outcome and then the observations should be dropped from the dataset; coding them as 1 for every country-year after onset results in an estimate for duration, not onset, since these are all temporally correlated.
+Finally, the temporal dependence of most of our time-series cross-sectional data makes the problem of reverse causality much more complicated than lagging the IVs by a year.
+Regression analyses have strong assumptions about functional form/linearity.
+Almost all econometric models thus far deployed to analyze large-n datasets in nuclear security studies have very strong assumptions about the distribution of independent and dependent variables, the distribution of error terms, and assumptions of linearity.
+Almost all of these assumptions are egregiously violated by the nature of our data.
+Frankly, many of the processes of interest are in fact decidedly not linear but either cumulative or follow completely unpredictable or unknown distributional forms since they are inherently strategic.
+So, many analysts simply accept this but continue on, arguing that linearity is as good an assumption as any.
+There is still no good way to deal with selection effects or strategic behavior.
+While we often claim to have the ‘full universe’ of observations in large-n analyses, they are usually actually not the full universe.
+The first stage exclusion criteria is extremely difficult to find and almost everything deployed in the extant literature is clearly correlated with the final outcome variable.
+Finding instruments is hard, so this is not a surprise, but we should not brush the difficulty of the selection effects problem in even large-n analysis under the rug.
+The large-n enterprise can solve the truncated observation problem, but it cannot solve the selection effects problem if all the observations are themselves subject to a selection criteria.
+Scholars in the quantitative enterprise must be better about performing and reporting sensitivity analyses.
+As noted above, all analyses break at some point, but the large-n enterprise could be much more transparent about when results break and allow the reader to judge whether the results are sufficiently robust at that breaking point.
+For example, it is very different for results to be sensitive to whether, for instance, the 1912-1913 Balkan Wars are coded as a single or multiple wars versus whether France would have to not exist.
+Or, in nuclear studies, whether coding the 1999 Kargil War as a war or not breaks the results.
+Nuclear Studies and the ‘Causal Inference Revolution’ A growing proportion of methodologists in political science have increasingly shifted from the analysis of big observational data to focusing on methods of causal inference.
+Because the analysis of observational data, as noted above, often only reveals correlations, not causation, and because of the numerous threats to causal inference in observational data , there has been a shift in the past several years to focusing on identifying causation, rather than identifying simply correlates.
+The gold standard of causal inference is randomized experiments with a single treatment randomly assigned to a treatment group and with a placebo assigned to a control group.
+There is also a class of quasi-experimental studies that rely on observational data to try to ‘match’ treatment and control observations to extrapolate causal relationships, but one of the very hefty assumptions is that treatment and control observations are randomly different.
+We cannot randomly assign nuclear weapons to some states and not others in order to identify their causal effect on deterrence success.
+We cannot randomly assign security threats or domestic political incentives in order to discern the causal variables for proliferation.
+Endogeneity and complicated multicausality—which present a problem for identification strategies that often require a single identifiable and manipulable ‘treatment’ since the research designs required for multiple treatments are complicated—are facts of life both in the study of nuclear weapons and most strategic decisions and interactions in international relations.
+It is very difficult to identify exogenous variables or shocks that are uncorrelated with the causes or consequences of proliferation that might enable so-called natural experiments either.
+These methods, particularly survey experiments, can be quite powerful in identifying individual level preferences, such as mass opinion related to nuclear weapons.
+They can be incredibly useful in identifying microfoundations at the individual level, since sample sizes can be large, and the ‘treatment’ can be manipulated.
+But this is a limited class of questions and problems for which these methods might be useful.
+On the bigger questions of the causes and consequences of proliferation, there are few plausible identification strategies because of the strategic and macro nature of the phenomena and the multiple, complex pathways through which they work.
+Thinking about the developing trends in political science and how nuclear security studies fits into them is important if we aim to remain an integral part of political science and be able to engage with other subfields.
+This is one trend in which nuclear security studies future place is highly uncertain.
+Ironically, the causal inference revolution in quantitative methods may lead to a resurrection in the discipline’s valuation of qualitative methods in nuclear security, since qualitative methods in this particular area are much better suited to identifying and teasing out causal mechanisms and processes than the big-data enterprise.
+In nuclear studies, qualitative methods probably do a better job of illuminating the ‘selection into treatment’ than quantitative methods.
+They may not be able to estimate the average treatment effect of our treatments of interest , but neither can quantitative methods in nuclear security issues.
+However, with careful case selection and research design, qualitative methods can at least allow us to convince ourselves—and others—that in nuclear security studies, there are non-zero treatment effects.
+Indeed the conclusion for nuclear security studies with the causal inference revolution should be that research design trumps methods.
+More than the divide between qualitative and quantitative methods, this trend should be a wakeup call that as scholars and students of nuclear proliferation, we should pay much better attention to general research design than we presently do.
+What it does mean is that we simply need to be more transparent and honest about the limitations of the enterprise, which will more credibly allow us to argue what insights it does provide.
+It is difficult for an enterprise to survive if it continues to take fire from multiple fronts simultaneously.
+The quantitative enterprise offers some very real advantages over single or small case study methods, and these advantages are important.
+But because of the inherent limitations of the multitude of quantitative approaches to nuclear studies, they cannot be devoid of theory, lack an internal logic, or be ahistorical.
+The advantages of quantitative approaches can and should be supplemented by theory and qualitative empirics, suggesting that for nuclear studies the best pathway forward may be—instead of arguing about methods—accepting that a mixed-methods approach that deploys and exploits the advantages of both quantitative and qualitative methods would be more fruitful.
+For the quantitative enterprise side, good hard theoretical and qualitative work that teases out causal mechanisms and corroborating convincing evidence is critical to avoiding the charge that our results are nothing more than bad data mining.
+Power Shifts, Uncertainty, and War,” International Organization 68, 1 : 1-31.
+Forecasts, Future Scenarios, and the Politics of Armageddon,” The American Historical Review 117, 5 : 1431-1460.
+Moreover, the Soviet advantage in nuclear weapons numbers was due to its expansion of tactical nuclear weapons in this period.
+If one looks at deployed strategic nuclear warheads , which seems to me to be a more appropriate way of operationalizing the concept of nuclear superiority, using the same database that Kroenig uses , one finds that in 1979 the USSR had 7,035 strategic nuclear weapons and the United States had 15,156.
+With this measure of nuclear superiority, therefore, the superior state did not win the 1979 crisis.
+Toward a New Consensus,” in Forecasting Nuclear Proliferation in the 2st Century: The Role of Theory, eds.
+I would like to thank Mark Bell, Alexandre Debs, Rex Douglas, James Fearon, Rebecca Friedman, Celeste Gventer, Michael Horowitz, Robert Jervis, Colin Kahl, Austin Long, Jessica Mahoney, Mira Rapp-Hooper, Joshua Rovner, Steve Van Evera, Jane Vaynman, Rachel Whitlark, Phil Zelikow and especially Marc Trachtenberg for their helpful thoughts and comments.
+Kroenig’s monograph smartly recognizes that superpowers don’t like proliferation because it deters them.
+Kroenig’s policy recommendations on Iran have generated strong critiques.
+Basing his recommendation on the article reviewed here, Kroenig recently criticized President Obama’s recent proposal to further reduce Russian and American strategic nuclear weapons.
+The idea that there is such a thing as a ‘crucial case’ is not without controversy among political scientists; some believe that while such a standard might be applicable to deterministic phenomena , it is not appropriate to apply to non-deterministic interactions in international relations.
+For a thoughtful critique of the notion of a “hard or “critical” test, see James Fearon and David Laitin, “Integrating Qualitative and Quantitative Research Methods,” in Janet M Box-Steffensmeier, Henry E Brady, and David Collier, eds., The Oxford Handbook of Political Methodology.
+While there are some disagreements over the causes and course of the standoff, most historians see the 1958 to 1962 period as a singular crisis.
+It is important to note that similar conversations occurred secretly among officials in both governments, as they tried to assess both the strategic importance of Berlin to both sides.
+The fact that not only in public but also in private, each side though its stakes were higher than those of the other reveals that the public statements were not simply made for bargaining purposes.
+The Americans, for their part, understood they had to demonstrate resolve, but were also keenly aware that they had what they believed to be a meaningful nuclear superiority which would only last a few more years.
+On the other hand, American leaders took Khrushchev’s threats, made from an inferior military position, very seriously, and it is quite easy to imagine much different outcomes at various points in the crisis.
+It is not only quantitative models that have difficulty recognizing these subtleties.
+Coalitions, Cooperation, and Crisis Bargaining,” American Journal of Political Science, , doi: 10.1111/ajps.049, especially 9.
+For a discussion, based on primary documents and interviews, of the first-strike plan and the ensuing debate, see Fred Kaplan, “JFK’s First Strike Plan,” The Atlantic, October 2001.
+Although Robert Jervis makes the fascinating point that the United States willingness to protect an exposed Western Europe may have created mutual vulnerability far earlier than expected.
+The basic logic is that the American threat was credible to the extent that the Soviets believed that the United States would believe that an attack on Europe was a prelude to an attack on it or that the Americans saw the Europeans as so much like themselves that they would respond to an attack on the former as though it were directed against the United States homeland.
+The latter argument was the one that was repeated most often-and the repetition was partly intended to make it a self-fulfilling prophesy.
+But neither observers nor policy-makers paid much attention to the opposite side of this coin.
+If the Americans really valued the Europeans to this extent, then the Soviets’ ability to destroy West Europe gave them great leverage over the U.S., and they gained the equivalent of a second-strike capability long before they could retaliate against the American homeland.
+Two years earlier, Kennedy had asked military officials for explicit answers to questions surrounding the mechanics and consequences of a United States first strike on the Soviets.
+This idea that the United States faced a closing “window of opportunity” where it could launch a first-strike was not a new idea.
+Secretary of State John Foster Dulles, recognizing how poor Soviet retaliatory capabilities were, lamented in 1958 that the United States had a first-strike capability that would not last forever.
+It is important to note that Kroenig mischaracterizes Trachtenberg’s argument.
+It is very clear that Trachtenberg is not focusing on simplistic numerical calculations of nuclear superiority but the more meaningful notion of whether a state can go first in a crisis and suffer acceptable damage in a response.
+Kroenig argues that the United States was not in such a position in this period, but as we see, it is not clear that he is correct.
+The September 12, 1963 briefing makes it clear that for President Kennedy, meaningful superiority meant an advantage that could be translated into better political outcomes, meant a first-strike capability, a capacity he may have possessed earlier but no longer had.
+When the Soviets could respond after being hit with enough force to make any United States nuclear attack nonsensical, the calculations changed dramatically.
+For a good summary of this situation, see Austin Long, H-Diplo Roundtable Review, Francis J Gavin.
+As a high-level Soviet military official said, the United States superiority in qualitative factors like command, control, communications and intelligence meant that, “Soviet superiority in the number of launchers did not give them any real advantage.
+Kroenig does have a variable for “second strike” forces, but it seems clear that these forces only make sense if used first, a fact the Soviets fully understood.
+According to Kalashnikov, the Soviet Union’s “Achilles heel” was its inability to “create a sophisticated, survivable, integrated command, control and communication system” on par with the United States, which meant after an “all-out nuclear strike” the Soviets would only be able to launch 2% of their missiles.
+Kroenig implies that changing the coding on any one case will not challenge the robustness of his findings.
+I leave it to others to decide whether my analysis of how these models explain 1958 to 1962 affects their confidence in his overall findings, theories, and policy recommendations.
+Did Soviet Leaders Really Fear an Imminent Nuclear Attack in 1983?”, unpublished paper.
+In addition to the 1958 to 1962 period, the winter of 1950-51 – after the People’s Republic of China intervened in the Korean War and nearly threw the Americans off the peninsula – was extraordinarily dangerous.
+The United States had lost the atomic monopoly, had not yet implemented the defense build-up called for in NSC-68, and Western Europe and Japan were still economically feeble, militarily impotent, and largely unprotected.
+American policymakers not only worried about a war, but felt that if one came they might lose it.
+These two superpower standoffs strike one as being in categories of their own, significantly more dangerous than any other listed in either data set.
+Petersen’s study suggests that compellence is not harder than immediate deterrence.
+The reason is that in choosing initially whether to threaten or to resist a threat, rational leaders will take into account observable indices of relative power and interest in a way that tends to neutralize their impact if a crisis ensues.
+For example, a militarily weak state will choose to resist the demands of a stronger one only if it happens to be quite resolved on the issues in dispute and so is relatively willing to escalate despite its military inferiority.
+A second striking result from the equilibrium analysis is that observable measures of the balance of capabilities and balance of interests should be unrelated to the relative likelihood that one state or the other backs down in crises where both sides choose to escalate.
+Less formally, the result suggests that rational states will “select themselves” into crises on the basis of observable measures of relative capabilities and interests and will do so in a way that neutralizes any subsequent impact of these measures.
+Possessing military strength or a manifestly strong foreign policy interest does deter challenges, in the model.
+I am grateful to Marc Trachtenberg for identifying and explaining the meaning and importance of Fearon’s arguments to understanding these issues.
+Eugene Gholz and Daryl Press make this recommendation to deal with selection effects in their paper, “Untangling Selection Effects in Studies of Coercion,” unpublished working paper, 2006.
+Alexander Fursenko and Timothy Naftali, Khrushchev’s Cold War: The Inside Story of an American Adversary ; Hope Harrison, Driving the Soviets up the Wall: Soviet-East German Relations, 1953-1961.
+Like my critique of the articles reviewed here, Achen fears many statistical models do not think hard enough about what is being compared in the analysis, or correctly identifying the universe of “like” events, and worries that the absence of any logical theory of how the variables interact prevents the correct econometric tools from being chosen, as opposed to canned models with lots of commonly used control variables.
+Furthermore, if I am right about the state of the field of history , it is hard to see how political scientists can accurately code these events if there is not a good historical literature to rely upon.
+Meeting Between President Nixon and Committee on Arms Control and Disarmament, March 21, 1972.
+Ibid., Conversation between President Nixon and his Assistant for National Security , April 4, 1972, 258.
+In the context of selection effects, it would be interesting to know how and whether the military balance affects peaceful, if coerced, bargaining.
+Nixon was aware of and spoke about how the nuclear balance had changed dramatically and put him in a much worse situation than Kennedy.
+As Jacques Hymans notes, statistical efforts by Dong-Joon Jo and Erik Gartze to understand nuclear proliferation dynamics came produced different answers than the quantitative model of Sonali Singh and Christopher Way.
+Second, independent variables overlook important factors such as prestige and bureaucratic power and often use poor proxies for concepts such as the nonproliferation regime.
+Third, methodologies and data sets should be tightly coupled to empirical questions but are instead often chosen for convenience.
+Fourth, some findings provide insights already known or believed to be true.
+Probabilistic models may good for getting a sense of the possible trends over the next fifty or one-hundred cases, but are of far less use to the decision makers trying to craft policies for the specific, highly consequential and likely complex issues in the n+1 case, especially if is unclear whether the theory/causal mechanism is correct or applicable to the case at hand.
+The authors’ names are listed alphabetically; equal authorship is implied.
+The authors would like to thank Jason Gusdorf for helpful research assistance.
+This case is also a central subject of Gavin’s recent book, Nuclear Statecraft.
+We do not know for certain how Gavin would approach this question, of course, since he does not address the relationship between smoking and cancer in his essay.
+Our goal here is simply to discuss how his approach to studying nuclear security would apply in another context.
+King, Keohane, and Verba distinguish between descriptive inference, which uses observable information to learn about unobserved facts , and causal inference, in which the goal is to ascertain causal effects.
+See Gavin, “What We Talk About When We Talk About Nuclear Weapons,” 21.
+This is also a central pillar of Sagan’s critique of the quantitative turn in nuclear security studies.
+In our individual responses to Gavin’s essay, we address the particulars of these coding disagreements.
+In the quantitative models we use, cases are dropped from the statistical analysis if even one variable is not coded.
+These two possible worlds, they note, are indistinguishable to our eyes – in other words, probabilistic theories are equally useful for describing phenomena in either one.
+Yet there is no reason to believe that participants, operating in the heat of the moment and with limited information, would have any better access to underlying probabilities than a disinterested analyst conducting an assessment after the fact.
+Scholars may, however, conduct experiments in which they manipulate the treatment.
+For example, Daryl Press, Scott Sagan, and Benjamin Valentino recently conducted a survey experiment to assess why people oppose the first use of nuclear weapons.
+A natural drawback of this method, of course, is limited external validity; insights from the laboratory do not always translate to the real world.
+For example, matching analysis is increasingly used in international relations research.
+Through this analysis, scholars construct samples in which the ‘treatment’ and ‘control’ groups are as similar as possible before estimating their statistical models.
+Gavin approvingly quotes this passage in his essay, leading us to wonder why he asks whether our work “resolve the decades-long debate over these long-contested issues in nuclear dynamics” when he does not appear to hold his own to the same standard.
+Instead, Gavin’s most forceful critiques address our methodological approach, which we discuss in our joint response with Kroenig.
+Gavin also notes in his essay that the outcome of the Cuban missile crisis could also be described as a Soviet victory.
+If so, then the crisis is even more consistent with our theory, since it would constitute a lesser coercive success for nuclear states than it might initially seem.
+For reasons explained in our article , this is exceedingly difficult to do.
+By contrast, the United States merely had to convey that it would retaliate if it were attacked first.
+Khrushchev therefore faced an inherent bargaining disadvantage, irrespective of the nuclear balance.
+In the end, many officials in Washington dismissed Khrushchev’s threats as bluster.
+One might surmise that Khrushchev failed because he was up against a nuclear-superior United States.
+See Gavin, “What We Talk About When We Talk About Nuclear Weapons,” 22, note 74.
+The theory and evidence we presented in our article support the less alarmist view of nuclear proliferation.
+Our analysis of these cases will be included in our book with the working title Nuclear Weapons and Coercive Diplomacy.
+By the early and mid-1980s, scholars had access to the ExCom minutes, but much other relevant documentation remained classified.
+Paul Lettow’s book, Ronald Reagan and His Quest to Abolish Nuclear Weapons , is one excellent example.
+Power and Purpose in American Statecraft from Harry S Truman to George W Bush , chap.
+Obviously, one can learn much more about Soviet policies if one does travel to Moscow and read Russian.
+Indeed, as noted below, because there are small-n problems involved in studying why states develop nuclear weapons, extensive qualitative work is all the more important—and rewarding—in addressing this question.
+At times, Saddam spoke of the need to eliminate Israel altogether, but in general he focused on achieving more limited gains.
+In Saddam’s case, these idiosyncratic tendencies were not limited to his views of nuclear weapons.
+Iraq and Libya,” in Etel Soligen, Sanctions, Statecraft, and Nuclear Proliferation ; Palkki, “Deterring Saddam Hussein’s Iraq: Credibility Assessments in Theory and Practice,” unpublished manuscript, 2013.
+On these aspects of the crisis, see, for instance, John Lewis Gaddis, We Now Know , chapter 8.
+There are exceptions, of course, most notably Mark Trachtenberg, Francis Gavin, and John Gaddis.
+But at least two of these are exceptions that prove the rule—Trachtenberg and Gavin are historians who work in political science departments.
+I should also note that I include some of my own earlier work on non-proliferation in this indictment.
+The first article represents a collaboration between a political scientist and a diplomatic historian; the second is a cooperative effort involving one scholar from the United States and one from China.
+Hand Tying and Sunk Costs in Extended Nuclear Deterrence,” 2012 Typescript.
+Press, Sagan and Valentino conducted a survey experiment in which United States respondents seem to exhibit no particular inhibition against advocating the use of nuclear weapons, apparently contradicting the nuclear taboo.
+I will not claim that Thucydides had nuclear issues pegged 2500 years ago, as some claim about international security generally.
+Schelling argues that nothing interesting has been produced in deterrence since roughly 1968.
+A similar phenomenon occurred in the effort to develop quantitative measures of democracy and democratization.
+Intense debate over the details of index construction that had sustained diverse efforts in the 1980s and early 1990s subsided as few actual empirical differences could be identified in the resulting applied research.
+I do not need to go into details here, but the problem is perhaps reliance on authority rather than verification.
+The subtitle of the Lebow and Stein article is one of the most witty and evocative in international relations.
+The differences between error and bias are a somewhat technical subject that I hasten to avoid in this setting.
+I once pressed Jack Snyder that surely his view of politics meant that scholars, too, must make biased decisions.
+The distribution of wars by intensity follows a power law, a common feature of natural processes.
+I thank Mark Bell, Christopher Clary, Erik Gartzke, Frank Gavin, Robert Jervis, Nick Miller, and Scott Sagan for their comments and feedback on earlier drafts.

@@ -1,0 +1,819 @@
+CORPO RATION LessonsfromRussia’s Operations in Crimea and Eastern Ukraine Michael Kofman, Katya Migacheva, Brian Nichiporuk, Andrew Radin, Olesya Tkacheva, Jenny Oberholtzer For more information on this publication, visit www.rand.org/t/RR1498 Library of Congress Cataloging-in-Publication Data is available for this publication.
+Support RAND Make a tax-deductible charitable contribution at www.rand.org/giving/contribute www.rand.org Preface This report is the third in a series about the impact and implications of the Ukraine crisis on European security.
+This report examines covert and conventional operations in Crimea in February and March 2014, as well as the origins of the conflict in Eastern Ukraine, its phases of escalation, and the series of events that led to the outbreak of limited conventional war between Russia and Ukraine in summer 2014.
+These operations offerimportant insights into Russian approaches and objectives in the conflict.
+This report should be of interest to those concerned with Russia’s annexation of Crimea and the ongoing conflict in Eastern Ukraine.
+This research was sponsored by the Army Quadrennial Defense Review Office in the Office of the Deputy Chief of Staff, G-8, Headquarters, Department of the Army, and was conducted within RAND Arroyo Center’s Strategy, Doctrine, and Resources Program.
+Mapof Ukraine .......................................................................3 2.1.
+This report examines the two overlapping operations to understand the Russian campaign in Ukraine in early 2014.
+Events unfolded rapidly after the February 22, 2014, ouster of Yanukovych, as Russia executed a covert operation using both its naval infantry forces already in place and special forces lifted to Crimea.
+Russia disguised troop movements with a snap exercise, which also deployed a distraction force near Ukrainian borders.
+Leveraging mobility, speed of action, surprise, and the capability to command forces securely at the small-unit level, Russian troops quickly seized control of the peninsula.
+The circumstances of the Crimean annexation presented Russia with substantial advantages, which have only partial analogues elsewhere in former Soviet republics.
+These factors included the confined geography of the peninsula, its proximity to Russia, and its existence as a separate political unit within Ukraine.
+Russia not only had forces in place at its Black Sea Fleet, but legitimate transit arrangements that could be leveraged for a covert operation and the introduction of key military capabilities.
+The invading force benefited from such practical advantages, as well as from the historical legitimacy of Russian military presence in the peninsula and a commonality of language and culture, along with other social ties.
+The Russian information campaign accompanying its military movements was no more than a minor contributor to what proved to xi xiv Lessons from Russia’s Operations in Crimea and Eastern Ukraine be a conventional takeover.
+This effort was principally a by-product of the general information campaign to convince the Russian domestic audience that Ukraine’s interim government was the result of an illegitimate coup.
+Moscow capitalized on several political errors of the Ukrainian government.
+In particular, it leveraged the Ukrainian Parliament vote repealing the official status of the Russian language to argue that the ethnic Russian population in Crimea and Eastern Ukraine was in imminent danger.
+The combination of Ukrainian government errors and facilitating circumstances enabled a rapid and well-coordinated deployment of Russian forces.
+Moscow deployed elite and special components of its force that are not representative of overall capabilities.
+Additionally, Ukraine’s overall superior forces on the peninsula offered no resistance.
+It is also difficult to gauge the effectiveness, if any,of the information campaign.
+Russia appeared unprepared to manage the political dimensions of the annexation, and its information campaign in the aftermath of the seizure of the peninsula consisted of a series of loosely connected messages rather than a carefully considered narrative.
+This suggests that the decision to annex Crimea was not made well in advance.
+However, operations in Crimea did involve a preplanned covert action, which enabled a conventional invasion.
+The effort owed its success as much to the operating environment and structural factors—including the politically unstable situation in Ukraine—as to the Russian military’s execution.
+Russia’s operations in Eastern Ukraine were based on a decidedly different approach and not intended to replicate the seizure of Crimea.
+Immediately following Yanukovych’s ouster, Russia fostered an antigovernment movementin the eastern regions of Donetsk and Luhansk, along with several major cities in other regions.
+Rather than introducing special operations forces to enable a conventional invasion, Moscow launched a political-warfare campaign to subvert the authority of the interim government.
+The objective was to first destabilize the situation and, if possible, convince the new Ukrainian authorities to accept a federalization scheme that would reduce their power nationwide and allow Russia to have substantial influence over individual regions.
+Moscow sought to foster this movement in Ukraine through oligarchic connections and intertwined circles of powerful regional business interests, combined with local criminal elements.
+The tactics appeared to be improvised, employing a diversity of individuals with little in common other than their opposition to Ukraine’s new government.
+Russia fostered this subversionwith a supporting cast of intelligence operatives, its own citizens, an informal network offightersfrom thepost-Soviet space, and localsecurity forces who turned against Ukraine’s government.
+When Ukrainian authorities responded by arresting the protest movement leaders, the effort switched to direct action, spawning an externally supported separatist insurgency.
+The conflict quickly escalated, arguably beyond Moscow’s ability to control events, in April 2014,as ideologically minded Russian paramilitaries switched to using force in pursuit of a separatist agenda.
+Within a few months, the confrontation went from a protest movement to irregular warfare and the steady introduction of conventional capabilities by Russia as part of a steady vertical escalation of the war.
+Oligarchs and other nonstate actors helped shape the course of conflict, both facilitating and defending against the Russian effort to destabilize Ukraine.
+Ultimately,Russia was unable to gain the leverage necessary to force Ukraine’s leaders into major political concessions without resorting to a conventional invasion with regular units, which took place in late August 2014.
+Russia’s efforts in Eastern Ukraine proved to be a series of improvisations inresponsetoresistanceandfrictionwhentheinitialpoliticalwarfare effort foundered.
+A mix of actors with their own agendas and sponsors reduced the operational cost and political consequences for Moscow but at the price of control, coherency, and effectiveness.
+The lessons of Eastern Ukraine are rather mixed, demonstrating the limits of low-cost asymmetrical approaches even against a relatively weak and vulnerable state.
+In the end, Russian leaders are likely to consider Crimea an operation that could not be easily repeated elsewhere and Eastern Ukraine to be a strategic success but an unsuccessful operaxiv Lessons from Russia’s Operations in Crimea and Eastern Ukraine tion.
+Russia achieved its primary objectives but at a much higher cost than desired and through a fitful cycle of adaptation.
+Acknowledgments The authors would like to thank Timothy Muchmore for initiating and supporting this project.
+We also thank Bryan Frederick, Nikolas K Gvosdev, and Stephen Watts for their helpful comments.
+A number ofother peoplealsohelped makethisstudypossible, including Olga Oliker, James Dobbins, and Stephanie Pezard.
+Our thanks go to Andriy Bega, Scott Boston, Roger McDermott, and Gerard Toal, whose insights and comments were greatly helpful, and to Clifford Grammich, Thomas Browne, Stephanie Lonsinger, Linda Theung, and Natalie Ziegler for providing editorial support.
+Eventually this protest movement, and the government response, turned violent, resulting in the ousting of then–Ukrainian President Viktor Yanukovych.
+A pro-Western coalition of political forces took control in the capital, organizing an interim government, while many of the ruling elites fled the country to Russia.
+The consequence was a sudden loss of influence for Russia in one of its most important neighbors, one that its leadership likely viewed as a major geopolitical defeat for Moscow.
+Rather than wait for the political situation in Ukraine to stabilize, Russian leaders sought to re-exert Moscow’s influence over Ukraine and retain the ability to control the country’s strategic orientation.
+The Russian response took shape in the form of two separate and concurrent military operations.
+First, Moscow chose to invade and annex Crimea in late February through early March 2014.
+At the same time, Russia fomentedapoliticalprotest movementthatquickly transformed into a violent insurgency in Eastern Ukraine between February and May of that year.
+This report seeks to address these questions by assessing the two campaigns waged by Russia in Ukraine , including its covert and conventional operations.
+Chapter Two examines the balance of Ukrainian and Russian forces before the conflict, the sequence of events during the invasion and annexation of Crimea, along with the successes and shortcomings of the operation.
+In Chapter Three, the report charts the course of conflict in Eastern Ukraine and its phases of escalation from political warfare to a hybrid approach and the eventual outbreak of a conventional war between Russia and Ukraine by summer 2014.
+These critical months are not only less understood than later periods of the war but offer important insights into Russian approaches and possible objectives in the conflict.
+Chapter Four presents our conclusions and derived implications from this analysis.
+We use the term political warfare to describe the employment of political, economic, diplomatic, and information instruments of power in both overt and covert ways to influence another country.
+Political-warfare tactics range from psychological warfare, propaganda, and incitement of the populace to the support of friendly elements inside the state.
+See George F Kennan, “George F Kennan on Organizing Political Warfare,” April 30, 1948, History and Public Policy Program Digital Archive, obtained and contributed to the Cold War International History Project at the Woodrow Wilson Center for Scholars by A Ross Johnson, reproduced in the Wilson Center Digital Archive, undated.
+The chapter provides a concise chronology of the events that took place during the Russian invasion and then delves into analysis of the Russian successes and failures during the operation.
+What follows is an exploration and an effort to discern what broader takeaways can be made from the Ukrainian experience for other countries.
+We discuss the important factors that enabled—or hindered—Russia’s invasion of the peninsula.
+At the end of this chapter,we address whether the annexation of Crimea should be considered as a potential model for Russian military action elsewhere and what it might tell us about the military capabilities of Russia’s armed forces.
+The Balance of Forces According to a credible source, at the onset of its conflict with Russia, Ukraine kept a force of roughly 18,800 personnel stationed in Crimea, most of which were in its navy.
+However, in February, Ukraine’s interimdefenseministerassessedthisnumberascloserto15,000troops.
+This reference is the Russianlanguage version of Ukraine’s declassified National Security Council meeting on February 28, 2014, to discuss the response to Russian military activity in Crimea.
+The navy’s coastal defense troops included a missile artillery brigade, two independent marine battalions, and a coastal defense brigade.
+Of the 45 MiG-29 fighters at Belbek airbase near Sevastopol in southwest Crimea, only four to six were operational.
+Ukrainian air defenses included Buk-M1 and S-300 surface-to-air missile systems, which were at questionable readiness levels but could still be potent deterrents.
+A contingent of 2,500 Ministry of the Interior troops was also present, although they perhaps had little defense value.
+During national leadership meetings in February, Ukraine’s minister of defense considered approximately 1,500–2,000 troops as dependable and willing to follow if ordered to fight the Russian military.
+Russia had roughly 12,000 military personnel in the Black Sea Fleet at the time, the only infantry unit of which was the 810th Independent Naval Infantry Brigade.
+The Russian Naval Infantry was staffed by contract troops, who are better trained, paid, and equipped than typical conscript units.
+In terms of numbers and available firepower, these forces were inferior to Ukraine’s units in Crimea, lacking infantry fighting vehicles, armor, or artillery.
+However, the terms of Russia’s basing agreement with Ukraine offered substantial leeway to transfer in units from the mainland if needed, offering a large upload capacity.
+A Chronology of Events Ukrainian and Russian units went on alert on February 20, 2014, as Maidanprotests inKyivescalated intoviolentclashes withgovernment security forces.
+Military Aspects of the Crisis in Ukraine, Minneapolis, Minn.: Eastview Press, 2014.
+The Annexation of Crimea 7 February 22 and 23, as battalions of Spetsnaz units and Vozdushno-Desantnye Voyska left their bases, while others were airlifted close to the strait separating Russia from Crimea.
+On February 24, the city council in Sevastopol installed a Russian citizen as mayor, and several units from the 810th Naval Infantry arrived in the city square in armored personnel carriers , in violation of the rules governing basing arrangements in Crimea.
+This was the first tangible sign that Russia had decided to intervene militarily to change the political order on the peninsula.
+Sevastopol Installs Pro-Russian Mayor as Separatism Fears Grow,” Guardian, February 25, 2014.
+In addition to bringing specialoperations forces units that would subsequently be used in the covert takeover of Crimea, it also may have later evacuated Yanukovych.
+On February 26, Russian President Vladimir Putin ordered a snap inspection involving 150,000 troops from parts of the Western and Central Military District.
+The new minister of defense, Sergei Shoigu, had been frequently ordering large snap readiness checks and simultaneous drills since 2013.
+This exercise, however, was used specifically as a diversion and cover for troop movements.
+Ostensibly, the exercise was not focused on Ukraine’s borders but to move VDV and Spetsnaz troops northward in Russia.
+Roughly 40 Ilyushin Il-76 military transports left Ulyanovsk airbase in Russia, with a large portion of these moving units to Anapa, a staging area just east of Crimea.
+On February 27, 50 special-forces operators from the KSO unit pretending to be a local “self-defense militia” seized the Crimean Parliament and raised a Russian flag over the building.
+Another large landingshipwith300 Russiansoldiersarrived following properborder procedures to enter Ukraine but without advance notice to Ukrainian authorities as stipulated in agreements.
+This is a small unit modeled closer to Delta Force in the United States, designed to operate independently and abroad.
+By contrast, the Spetsnaz are military reconnaissance and saboteur units intended to operate alongside conventional formations and more representative of elite infantry.
+Russian Special Forces Seize Parliament Building in Crimea Ukraine,” August 16, 2014.
+The Annexation of Crimea 9 diers without markings surrounded Belbek Air Base.
+On the morning of February 28, a convoy of three Mi-8 transport helicopters and eight Mi-35M attack helicopters crossed into Ukraine without permission, giving Russia the ability to neutralize Ukrainian armor and operate at night.
+Ukraine scrambled fighters, deterring further helicopter units from transferring, but the Mi-35s already were operating openly over Crimea and supporting Russian forces on the ground.
+On February 28, Russian forces also seized Simferopol airport, canceled all flights, and began airlifting VDV units into Crimea.
+Still at a distinct numerical disadvantage, on March 1–2, Russia brought reinforcements by heavy landing ships.
+These units spread across the peninsula without much resistance, quickly encircling or taking over bases and military facilities.
+Armed with light utility vehicles and APCs, the Russian units had little firepower but high mobility.
+Ukrainesaw its docked fleetblockaded by Russianships;thecommander of its navy, Denis Berezovsky, defected to Russia.
+Instead, Russian forces made ad hoc arrangements with trapped Ukrainian troops at bases across the peninsula to maintain the siege without violence.
+Russian troops applied heavy psychological pressure, propaganda, and promises to Ukrainian commanders to get them to defect, with little success until after the annexation in March.
+From March 6 on, Russia began a conventional troop buildup over the Kerch ferry crossing in eastern Crimea, bringing in units from 10 Howard and Pukhov, 2014.
+Ukraine’s only major surface combatant, a Krivak-class frigate, was away at the time and not in the Black Sea.
+These included some highprofile commanders and unit members who managed to escape Crimea with their equipment but subsequently returned.
+The Russian military also began to mass units on Ukraine’s eastern border as a threat and diversion.
+Russian forces sealed Crimea off from mainland Ukraine at its northern crossing points.
+They severed landline communications between the Ukrainian mainland and bases on Crimea; supposedly, in some areas, cellphone signals were jammed, possibly from ship-based equipment.
+Russian soldiers also cut electricity to some bases to apply pressure on the besieged Ukrainian troops within.
+In brief, Ukraine had lost effective command and control over its units on the peninsula roughly one week into the operation.
+Russian intelligence also used this time to organize self-defense units consisting of local militia,14 Cossacks (a distinct cultural group of East Slavic people common to the region), and former special police called Berkut.
+Russian airborne troops also donned police uniforms to help keep order among the population under the pretense of being local security forces.
+Crimea’s local leadership likely did not coordinate with the Kremlin, and the lack of integration was evident in the scheduling of a plebiscite on Crimea’s fate.
+The Crimean Parliament initially declared a referendum on independence for May 25, then moved it to March 30, before finally deciding on March 6 to hold the vote on March 16.
+As the likelihood of its operation’s success increased, without any apparent resistance or evidence of counterattack by Ukrainian forces, Moscow sought an earlier referendum date, moving up the timetables for annexation.
+Igor “Strelkov” Girkin, who would help lead the insurgency in Eastern Ukraine, later recounted that local officials were not 13 Shane Harris, “Hack Attack,” Foreign Policy, March 3, 2014.
+Russia’s Use of Military Power in Ukraine, Fort Leavenworth, Kan.: Foreign Military Studies Office, 2015.
+They were responsible for much of the fighting on the Maidan and, allegedly, for deaths among civilians.
+The interim government disbanded Berkut; many former “Berkuts” then came to Crimea and the Donbas to join the separatist cause.
+The Annexation of Crimea 11 enthusiastic participants in the events but had to be rounded up by paramilitaries to hold the official vote on accession to Russia.
+The political process to hold a referendum appeared to be hastily organized and improvised.
+Russia may have considered turning Crimea into a frozen conflict (i.e., bringingaboutacessation ofactiveconflictwithoutachangeinpolitical status) before the Crimean Parliament voted to secede from Ukraine.
+The March 16 referendum would become the political instrument to annex the peninsula, a process that concluded on March 18.
+There were perhaps six associated deaths, including from interactions among opposing groups, such as when, on March 19, a vigilante shot a Ukrainian warrant officer and a Russian Cossack during negotiations outside a base.
+From March 19to March 25,Russian forces seized Ukrainian bases in Crimea, most of which offered no resistance.
+Moscow promised to honor the rank of and provide better pay and benefits to any Crimea-based Ukrainian soldiers who defected and accepted Russian citizenship.
+Most did so, in large part because they were stationed near families and homes on the peninsula.
+Ukraine’s defense minister was subsequently forced to resign, announcing that, out of 18,000 soldiers and families, only 6,500 chose to leave for Ukraine proper.
+More than likely, any officer that left Crimea could expect to have housing difficulty, since Ukraine lacked the apartments and funds to address the displaced.
+Russia’s Information Campaign An information campaign preceded, accompanied, and followed Russian military operations in Crimea.
+Its primary audience was the Russian public at home, with Crimean residents as a secondary consideration.
+The Russian media always maintained some coverage on events in Crimea for its own domestic public, but this intensified as the clashes between the pro-government forces and the protesters in Kyiv grew more violent.
+Its campaign included subsuming or pushing to the margins the few remaining domestic independent media outlets, thereby gaining further control and power to shape views in Russia of the events in Ukraine.
+Existing government outlets, such as RIA Novosti and Voice of Russia, were consolidated into Russia Today, now known as RT.23 At the time, most of Eastern Ukraine and Crimea watched Russian television and, typical of the former Soviet space, the overwhelming majority of the population received their news from televised 20 bmpd , “The Defection Of Ukrainian Navy Troops Into the Russian Armed Forces After Leaving Crimea [Переход военнослужащих ВМС Украины в Вооруженные Силы России после оставления Крыма],” Livejournal blog, March 5, 2016.
+However, Russia did return a large portion of Ukraine’s aviation and naval assets because most of it was not serviceable.
+Russia did keep a handful of operational ships, adding them to its Black Sea Fleet.
+A Reassessment, Santa Monica, Calif.: RAND Corporation, PE-144-A, September2015.
+Ukraine had largely ceded Russian-language information to Russian-based outlets since its independence from the Soviet Union in 1991, particularly in Crimea.
+While Moscow did not officially promote Russian media in Ukraine, Russian media markets were so muchlarger than Russian-language markets in Ukraine that their information and entertainment channels were dominant among Russian-speaking Ukrainians.
+Russian forces turned off nine Ukrainian television channels on March 9, leaving access to Russian channels only.
+When the Yanukovych government collapsed in early 2014, Russian rhetoric on the events in Ukraine became more severe.
+On February 26, Russia began aggressively promoting its message that regime change in Ukraine was illegitimate.
+That day was one day prior to the Russian military takeover of government buildings in Crimea.
+This message was advanced by several Russian figures and elites; for example, Sergei Mironov, leader of Russian political party Spravedlivaya Rossiya, on the Russia 24 news channel,25 and Ramzan Kadyrov, head of the Chechen Republic, on the LifeNews channel26 contended that Russians were under threat in Crimea and required protection and that Russia needed to act to secure their safety.
+Russia Will Not Give Ukraine into the Hands of the Bandits [Рамзан Кадыров: Россия не позволит отдать Украину в руки бандитам],” LifeNews, February, 26, 2014.
+North Atlantic Treaty lations in Crimea were • Ukraine’s president Organization under imminent ultrawas overthrown in and containing nationalist threat. an illegitimate coup Russia.
+West. pressuring Europe • The March 16 referen• The pro-European to impose sanctions dum on independence population of against Russia and is was legitimate, demonUkraine are ideologithe driving force of a strating the will of the cal descendants of policy of containment people of Crimea.
+Based on RAND research into the Russian information campaign led by one of the authors in 2015.
+Such claims were part of the official campaign of public denial; this, after all, intended to be a covert takeover.
+Russia Must Protect Russians in Crimea,” 2014; and “Ramzan Kadyrov: Russia Will Not Give Ukraine into the Hands of the Bandits [Рамзан Кадыров: Россия не позволит отдать Украину в руки бандитам],” 2014.
+The Annexation of Crimea 15 critical and if Crimea were to return to Russia, it would not violate any norms or create new precedents.
+Putin further claimed that Russia was not planning to invade Ukraine, but the country might be forced to intervene if the situation of Russians in Ukraine worsened.
+This was a veiled threat, given the large amount of Russian forces arrayed near Ukrainian borders.
+He also claimed that the snap military exercises on Ukraine’s border were planned long ago and had nothing to do with the ongoing events.
+In addition to traditional media, a seemingly grassroots mobilization campaign in Crimea to counter the Maidan movement also played a role in Russia’s strategic communications.
+This campaign originated from the Russian-speaking population of Crimea, although some alleged the Russian government was behind it.
+The messages used by the anti-Maidan activists in Crimea resonated with Russian-media statements depicting Maidan protests as foreign organized and Maidan participants as fascist extremists.
+The movementalso used direct calls 28 “Anti-Constitutional Coup and Seizure of Power—President Gave an Assessment of What Happened in Kiev [Антиконституционный переворот и захват власти— Президент РФ дал оценку тому, что произошло в Киеве],” Channel One [Смотрите оригинал материала на], March 4, 2014.
+Your neighbor, Aleksandra Dvoretskaya—the traitor of Crimea, supports criminal Maidan.
+Characteristics of the Crimean Operation Russian operations in Crimea represented, by all accounts, an efficient seizure of territory from another state executed with speed and competency.
+However, the lack of resistance on the Ukrainian side presents important caveats to that assessment.
+The next section discusses noteworthy structural conditions, decisions, and variables that enabled Russian success or became a hindrance.
+We consider such aspects as history, geography, language, and social factors, along with existing military agreements, forces in place, and decisions made by Ukrainian authorities during the crisis.
+Russian-Crimean History Invasion and annexation are significantly easier if the invading force is perceived to be friendly and legitimate.
+Russia’s Black Sea Fleet was historically based in Crimea; therefore, much of the population viewed its personnel as a friendly force.
+Crimea was distinct in that militaries belonging to two different states were based there.
+Both were viewed as legitimate bythe population, their presence historically valid.
+Nikita Khrushchev and the Supreme Council of the Soviet Union transferred Crimea from under the government of the Russian Soviet Federative Socialist Republic to the government of the Ukrainian Soviet Socialist Republic in 1954.
+As both republics were a part of the Soviet Union, the move was largely symbolic and of little practical consequence.
+Because of its large Russian population, Crimea’s links with Russia have remained very important,31 and Russia’s military on the peninsula represented a bond to Russians on the mainland and was perceived to be an important part of the economy.
+A Gift to Ukraine Becomes a Political Flash Point,” NPR, February 27, 2014.
+The Annexation of Crimea 17 ries, and pensions were substantially higher in Russia than in Ukraine.
+According to the World Bank, the gross domestic product per capita in Ukraine in 2014 was $3,082.50, compared with $12,735.90 in Russia.
+The history, identity, and economic links of Crimea to Russia were structural factors, reducing the likelihood of popular resistance and contributing to the ease of Russia’s operation.
+Cultural Proximity Between Russia and Crimea Russian troops and intelligence operatives shared the language, culture, and ethnicity of most Crimeans, giving them advantages as an invading force.
+Russian agents were able to blend readily among Crimeans to organize or coordinate self-defense units.
+Paratroopers could pretend to be police or interior troops and conduct riot control against protesters.
+In short, the common language and culture allowed Russian forces to rapidly insert themselves into the operating environment and take control of the peninsula.
+Furthermore, the Russian military could readily communicate with sympathetic elements of the population to facilitate the takeover.
+Geography Given its geography as a peninsula, Crimea was easy to seal from the mainland.
+A rather low number of nodes was required for control, and it was relatively simple to defend from counterattack.
+Russia was also easily able to sever communications between Crimea and the mainland.
+Crimea was a well-defined administrative entity, with its own polity and history, including some degree of political autonomy, allowing it to be neatly separated from Ukraine as an annexed territory.
+Crimea was closest to Russia’s Southern Military District, which had the highest state of readiness among Russian forces, manned at 90 percent, according to some estimates.
+Circumstances conspired against Ukraine because the Southern Military District was already on high readiness given that Russia was hosting the Olympic Games in Sochi in February and March 2014.
+The proximity of Crimea to a well-staffed and high-readiness concentration of Russian forces allowed for a rapid military buildup once the airborne, naval infantry, and special forces took initial control.
+Ukraine effectively lost all prospects for a counterattack when regular ground units began pouring into the peninsula.
+Finally, Crimea’s small size relative to Ukraine made the Russian annexation much more feasible.
+Russia’s Force Posture and Transit Arrangements with Ukraine Russia’s 810th Naval Infantry Brigade was a leading and supporting asset for the operation, with antiair and antinaval capabilities.
+The naval base at Sevastopol allowed Russian military units to deploy early in operations and provided the logistics for inserting special forces and reinforcements.
+Russia also maintains several bases in Syria, the most prominent of which are the Tartus naval facility and Hmeymim Air Base near Latakia, with a contingent of roughly 4,000– 5,000 personnel at both bases.
+Russia had transit agreements with Ukraine that allowed it to deploy personnel and materiel to Crimea before and during the military operation.
+There was a sizeable troop limit in the basing agreement, which gave Russia capacity to increase its military presence while still being within the terms of its deal with Ukraine.
+Early in the crisis, 34 We must consider that Russia took control of roughly 2 million people with just a few thousand troops.
+Retaining control of 3. million in Eastern Ukraine would prove far more difficult.
+The Annexation of Crimea 19 Ukraine’s interim government was surprised to discover its relative helplessness at preventing Russian reinforcements from arriving, given the logistics and agreements in place.
+This permitted Russia to insert special forces without initially drawing alarm and introducing the necessary capabilities to conduct the operation.
+Similarly, Russia has agreements for military forces to transit to its exclave in Kaliningrad through Lithuania.
+It also had a transit agreement through Ukraine for its forces in Transnistria , although Kyiv unilaterally canceled this deal on May 21, 2015.
+Target of Opportunity Ukraine’s government was in transition following the ouster of Yanukovych.
+Russia’s task was made relatively easy by the confusion and chaos that generally follows an uprising, such as what happened in Kyiv.
+Moscow capitalized on the tensions and uncertainty in Crimea, as well as on the inexperience of Ukraine’s provisional government.
+Meeting notes of the discussion among Ukrainian leadership reveal a great deal of anxiety, uncertainty, and unwillingness to take action for fear of escalation.
+It is unclear if any action would have been successful, as Ukraine’s head of intelligence services (Sluzhba Bezpeky Ukrayiny ) reported during a decisive meeting that the military and security forces were demoralized and not receptive to the interim government.
+Not only was Kyiv doubtful of their loyalty, but the situation was assessed to be particularly dire among the navy stationed in Crimea, which central authorities believed could defect.
+However, there is a host of former Soviet republics surrounding Russia today with aging autocratic leaders.
+Each of these is set for an uncertain transition in the near to medium term, while others, such as Tajikistan and Kyrgyzstan, have experienced political instability and crisis in their recent past.
+Ukrainian Actions Contributing to Russian Success Ukraine’s political leadership made several important errors following the victory of the Maidan revolution in Kyiv, all of which played decisively to Russia’s favor.These errors also provide lessons for understanding where Russia will be able to capitalize in its operations.
+The first error occurred when the Ukrainian Parliament, the Rada, pursued nationalist projects following the ouster of Yanukovych.
+On February 23, the Rada repealed legislation that had given the Russian language official status and protection.
+The Russian-speaking public saw it as the hallmark of an antiRussian agenda.
+It would come as no surprise later when minister of the interior Arseny Avakov assessed in closed-door discussions that the majority of Crimeans were taking the Russian side against Ukraine’s national government.
+Language Controversy One of Fundamental Conflicts in Ukraine,” International Business Times, March 3, 2014.
+The Annexation of Crimea 21 The second error occurred on February 24, when Igor Mosiichuk, a leader of Right Sector, a far-right political party and paramilitary group in Ukraine, publicly threatened to bring paramilitary fighters to Crimea.
+Russian-language media used Mosiichuk’s statements to convey a sense of imminent danger for those living in Crimea.
+Crimean Berkut riot-police officers, reinforced with Kuban Cossacks, who reside in parts of Russia near the Black Sea, set up checkpoints under the guise of responding to a potential right-wing threat.
+Clashes between Crimean Tatars and Russian nationalists, protests for secession from Ukraine, and counterprotests for unity ensued, leading to a general state of chaos and disorganization and facilitating Russia’stake over.
+While Right Sector did not, per se, speak for the government, the inability of the government to control postrevolutionary forces played into Russia’s narrative that locals were in imminent danger.
+In effect, this validated the need for Russian help in Crimea and the legitimacy of Russia’s intervention to its domestic audience.
+The third error occurred on February 25, when Ukraine’s minister of interior disbanded the Crimean Berkut riot police returning to Sevastopol after suppressing protests in Kyiv.
+Specifically, the central government first sent the unit back to Crimea and then disbanded it.
+Thiswas a humiliation forthe security forces,which believed theywere carrying out their duties as ordered, and forced them to search for new employment.
+Upon their return to Sevastopol, these units were greeted as heroes by the people and issued Russian passports by Moscow.
+They defected to the Russian side and provided auxiliary units in early operations, when Russia was short on manpower.
+Some participated in further operations in paramilitary units, which left Crimea for the Donbas region of Eastern Ukraine to fight on behalf of the Russian government.
+The decision to fire the Russian-speaking Berkut continues to haunt Ukraine’s government, as many continue to fight with the separatists.
+The first two of these errors sowed fear and discord among 43 Alec Luhn, “Pro-Russian Occupiers of Ukrainian Security Service Building Voice Defiance,” Guardian, April 9, 2014a.
+Factors Enabling Russia’s Operational Successes Force Composition Russia chose to use only elements of professional contract troops with high levels of training.
+It began by leveraging its naval infantry in place and special forces, followed by Spetsnaz, airborne, and, eventually, regular infantry.
+Most of its reinforcements were VDV contract soldiers, who went on to fight extensively in Eastern Ukraine.
+The operation succeeded because Moscow deployed its best-trained, best-paid, and most professional forces.
+It was thus able to surround a numerically superior force equipped with heavy firepower at a speed that surpassed the decisionmaking capability of its adversary.
+Russia was able to retain control over its forces and encountered no unexpected crises or incidents that could have turned the population against it.
+On the contrary, Russian troops got the moniker the “polite people”—a euphemism forthe heavily armed and unidentified soldiers thattookoverCrimea.
+This depiction was a stark contrast from previous military operations, which showed a lack of discipline within the force, such as the war between Russia and Georgia or the Second Chechen War.
+Recently, Russia has declared the complete reorganization of the MVD and other internal security components into the National Guard, which will be roughly 400,000 strong.
+He reported on how the Ukrainian airport security chief had “politely asked” his staff to leave.
+The Annexation of Crimea 23 Mobility Russia’s military demonstrated it could put national leadership decisions into effect almost immediately, implementing operational planning quickly and without major errors.
+It was able to move the necessary forces thanks to numerous snap exercises that tested readiness of personnel and equipment.
+Air and sea transportation—essential logistics for seizing a foreign peninsula—proved reliable and responsive.
+This suggests that, in a conflict near its borders, Russia’s forces are likely to be on the ground relatively quick in a contingency, allowing Moscow to seize the initiative against any adversary slowerto respond.
+Russia’s armed forces proved more nimble than in previous conflicts, prizing mobility over conventional firepower and speed of action over numerical superiority.
+Use of Deception at the Tactical and Strategic Levels The Crimean operation does not represent a case of hybrid warfare,48 but rather a fairly traditional covert operation to shape the battlefield for a conventional invasion.
+In launching its operations, Russia practiced tactical, operational, and strategic deception, deceiving the local population, the Ukrainian leadership, and the West.
+Called maskirovka in Russian, this is an ancient operational art of concealment and camouflage in the conduct of conventional operations.
+At the tactical level, Russian soldiers were successful in making the local population believe they were either native self-defense forces or indigenous police units.
+Perhaps most importantly, they convinced the locals that they were not a hostile force.
+At the operational level, they confused Ukraine’s leadership as to Russia’s true intentions and thereby delayed a Ukrainian response.
+The Ukrainian government understood that there were Russian forces in Crimea but could not discern their ultimate intent and therefore chose restraint for fear of escalation.
+During a decisive meeting of the National Security and Defense Council of Ukraine, prominent figures feared any action would be used by Russia as the premise to legitimize an invasion, as was the case of the 2008 war between Russia and Geor48 Hoffman, 2009.
+As a result, almost none of the cabinet ministers and party leaders who gathered to discuss the situation was willing to commit to a military response in Crimea.
+At the strategic level, the West mistook Russian tactics aimed to create plausible deniability as signs of an effort to negotiate a political settlement and then de-escalate, rather than annex the peninsula.
+Western officials urged caution and sought to freeze conflict, thinking that Moscow might be seeking an off-ramp to the crisis.
+The deception also afforded Russia multiple points for disengagement and plausible deniability should the operation have gone awry.
+Because Ukraine and the West responded slowly and cautiously during the critical first week when Russian forces seized Crimea, Moscow is likely to use this tactic in the future.
+Use of Conventional Exercises as Cover A covert invasion requires “cover,” in other words, a plausible reason for unusual redeployments or noticeable troop movements.
+Moscow effectively used a pattern of unannounced readiness checks and snap exercises to move forces around, eventually deploying them to Ukraine’s borders to divert attention.
+While much of the force was indeed conducting readiness checks and drilling, a small element was being mobilized for the invasion of Crimea.
+Later into the annexation, Russia began a mass deployment of forces near the Ukrainian border to threaten escalation and stymie Ukraine’s response.
+Russia’s sequence of movements was to launch a diversion to cover troop movements, then deploy a large force near Ukraine’s borders.
+Eventually, Russia built up more than 40,000 troops on the border by April 2014 as part of the same exercise and snap-readiness check initially employed to shift select units toward Crimea.
+Likely both were planned maneuvers, one to distract and the other to intimidate Ukraine’s leadership and impinge upon national-level decisionmaking.
+The Annexation of Crimea 25 Privileging Speed, Agility, and Communications over Firepower Russian forces relied on BTR-80/82 APCs, troop trucks, and Tigr light-utility vehicles to isolate Ukraine’s units and sever the peninsula.
+Russia supplemented these forces with air-attack and air-lift capabilities, proceeding with the operation without waiting for tanks and mechanized infantry.
+Since the covert operation would effectively decide matters prior to an occupation by conventional forces, Moscow risked that its forces would be heavily outgunned.
+Without secure communications at the small-unit level, Russia could not have deployed such a force, relied on it to conduct a sensitive operation, and counted on its responsiveness to decisions in Moscow.
+Russia denied communications to the opposition while demonstrating that it had the ability to command a light, mobile, and responsive force, composed of battalions and companies rather than brigades and divisions.
+Preparing for Counterattack Russian forces were prepared for Ukrainian resistance and a counterattack.
+The 50 special-forces personnel who seized the Crimean Parliament were equipped with body armor and night-vision devices and armed with sniper rifles, machine guns, and heavy rocket-propelled grenades.
+These units were capable of repelling an initial Ukrainian response and were supported by additional naval infantry units on the peninsula.
+When Russia seized the Kerch Strait ferry crossing, its units moved to defend Crimea from the Ukrainian mainland.
+Additionally, Moscow quickly committed its long-range anti-access and area-denial capabilities.
+Artillery was deployed to the north to guard against any approaches from the mainland.
+These included failure to induce Ukrainian forces to defect, lack of planning for nonviolent resistance, incoherent political management of local elites, and information operations of little influence.
+Turning Local Forces It is unknown whether the Russian military expected a significant number of Ukrainian units to prove disloyal to the government—especially in a time of crisis—and to defect.
+Ukraine’s SBU intelligence service appears to have held such expectations.
+The Berkut and local police turned almost immediately to Russia, but efforts to encourage defections throughout the Ukrainian garrison on the peninsula were largely unsuccessful.
+Despite an initial success with turning the commander of the navy, who may have been on the Russian payroll prior to the events of March 2014, the rest of the Ukrainian navy did not follow him.
+Even this important defection was in part serendipitous, since it was the interim Ukrainian leadership in Kyiv that chose to promote him to this position in the first place.
+In effect, this was another unforced error on the part of Kyiv authorities that contributed to the overall Russian success.
+High-level defections did occur after Crimea’s annexation, including the commander of the Ukraine’s flagship, the Hetman Sahaydachniy, and a number of the ship’s crew.
+Psychological Operations Russia’s efforts to get Ukrainian forces to surrender their bases willingly met with mixed results.
+Despite heavy psychological pressure to coerce them, many chose to remain at least to maintain the appearance 52 eagle_rost , “About Those Who Left the Ukrainian Navy and About Captain Roman Pyatnitsky” ,” March 6, 2016.
+Russian troops were unable to achieve surrender either through conciliatory overtures or punitive measures, such as electricity cutoff.
+They were not able to bribe or cajole many of the units they had initially isolated.
+One in particular, the Naval Aviation regiment, successfully evacuated its functioning aircraft and helicopters rather than surrender them.
+While Russia expected corruptibility and low morale to be a vulnerability of Ukrainian forces, it failed to capitalize on these in a substantive way during the annexation.
+Planning for Nonviolent Resistance To maintain the semblance of a friendly force and avoid critical media coverage, an invading force must manage nonviolent resistance.
+The Russian troops who fired into the air and called back for orders were surprised by the Ukrainian commanders’ initiative and visibly not in controlof the situation.
+Unitswere given rules of engagement but likely were untrained for managing nonviolent resistance or handling media coverage.
+Political Management of Local Elites Moscow also appeared unprepared for interaction with local Crimean politicians on what should happen once it seized the peninsula.
+Russia’sback and forth with the Crimean Parliament suggests Moscow did not fully plan out the sequence of political events that would follow the invasion to effect an annexation.
+The movement of the referendum date forward and back suggests the plan had changed several times as part of an iterative process.
+It is unclear if annexation was Russia’s original goal or became so only after Moscow saw it had seized Crimea without fighting, achieving its initial aim of separating the peninsula from Ukraine.
+Perhaps the most important factor was the popularity of the invasion at home.
+It is possible Russian leaders first waited for the domestic and international response to the invasion of Crimea prior to deciding whether to proceed with annexation or another political rearrangement.
+One analysis of Russia’s information operations in the Ukrainian conflict found five elements of its propaganda campaign.
+Putin used Russian media to great effect in presenting the historical and emotional arguments about why Crimea belongs to Russia in a March 18, 2014, speech.
+One analyst suggests that Russians place greater emphasis on “justice” than on the legal system, which is seen as transient and serving the elites; as a result, Russians overwhelmingly supported Putin’s attempt to unite Crimea and Russia, which they perceived as a just cause despite it breaking international law.
+The Crimean Operation, A Case Study,” Warsaw, Poland: Centre for Eastern Studies, Point of View Number 42, May 2014, 25.
+Nikolai Zlobin Discusses Russian National Idea at Kennan Institute,” interview at Center on Global Interests, Washington, D.C., July 25, 2015.
+The Annexation of Crimea 29 consideration in the question of whether Putin was justified in seizing or occupying Crimea.
+Unfortunately, it is difficult to discern any tangible operational advantages Russia gained from its information campaign during the Crimean annexation.
+Surveys conducted by United States experts found that, unlike many Ukrainians, 85 percent of Crimeans did not perceive themselves tobe European.Opinionpollsindicate moregenerallythat Crimeans were perhaps a more distinct polity than many other Ukrainians.
+On the ground, Russian agents and their auxiliaries, rather than the information campaign, were the organizing force behind mobilization.
+Although the information campaign undoubtedly had a polarizing effect on the population, its key turning points resulted from Ukrainian mistakes rather than Russian successes.
+Moscow used these errors to achieve greater mobilization and internal discord, but the information war was a sideshow to the operation itself.
+Russian television programming focused more on its domestic audience than on influencing Ukrainian public opinion within or outside Crimea.
+Russia did not create special agencies, tools, or media to engage Ukrainians in Crimea.
+Information operations aimed at Ukrainiancitizenswereessentially aby-productofRussia’sinformation campaign to manage its own domestic opinion.
+During the annexation, Russian forces sought to shut down access to Ukrainian media, forcing the local population to rely on news sources controlled by Moscow.
+However, surveys suggest that most Crimeans received their information from Russian television to begin with—and still do today.
+Given Crimea’s proximity to Russia, this approach was sufficient and effective and could be reproduced elsewhere along Russia’s borders.
+Implications and Effects There are indicators that the invasion of Crimea was a contingency Russia had been preparing for since Ukraine’s Orange Revolution in 2004 and updated following the beginning of the Maidan protests in 2013.59 This point continues to be debated and contested today.
+The initial actions were conducted with special-forces units that were only formed in 2012, implying that the plans were probably finalized at a much later date, perhaps between the time when the Maidan began in November 2013 and the actual launch of the operation in late February 2014.60 Russia’s military was able to quickly and effectively put plans into action in response to a decision made by the national leadership.
+Ukraine did not resist militarily, and therefore this operation cannot be analyzed for lessons on how Russia intends to fight war or as a model for any Russian doctrine.
+Yes, but it is hard to judge whether or not they were of substantive value relative to conventional forces.
+Crimea stands as a singular operation against a particular target and at a distinct time of opportunity when Ukraine was vulnerable.
+It provides evidence of the restoration of competence, professionalism, and effectiveness to a very select component within the Russian armed forces.
+We can infer a good deal about mobility, logistics, and the speed with which national decisionmaking results in use of force, but 59 Yekaterina Kravtsova, “Observers Say Russia Had Crimea Plan for Years,” Moscow Times, March 27, 2014.
+The Annexation of Crimea 31 this operation tells us little about the warfighting ability of Russia’s armed forces against a conventional opponent.
+Current Russian operations in Syria offer precisely such lessons, which are sorely missing from the case of Crimea.
+It is difficult to determine what conclusions Russia made from the Crimean annexation for its campaign in Eastern Ukraine, which began almost simultaneously.
+Not only were these concurrent rather than sequential efforts, but they also differed starkly in execution.
+That said, events in Crimea may have strengthened long-held Russian views about the weakness and incompetence of the Ukrainian state.
+Ukrainian leaders made substantial errors during the early days following the Maidan and at the outset of the Russian invasion.
+Kyiv’s national decisionmaking certainly did not discourage Russian military activity.
+The Crimean experience likely made military escalation in Eastern Ukraine an enticing proposition, although Moscow’s preferred approach there was to attempt classical political warfare and subversion, as we discuss in the next section of this report.
+As noted in Chapter Two, the Rada voted to repeal the official status of the Russian language on February 23, stoking fear and anger in the east, where most citizens spoke Russian.
+This measure, coupled with Russia’s operation in Crimea, encouraged the mobilization of both leftist and right-wing organizations in Eastern Ukraine.
+The opening events of political turmoil in Eastern Ukraine closely followed the popular appointment of a Russian citizen as mayor in Sevastopol, Crimea, on February 24.
+The protesters portrayed their actions as spontaneous and selfinitiated, driven by public anxiety about the future after the victory of the Maidan movement in the capital.
+The Ukrainian government dismissed the outbreak of protests as provocations organized by proRussian agitators and intelligence operators.
+Russian intelligence may have played a role in fomenting discontent, but the public agitation and outcry appeared genuine and not disconnected from the country’s political divisions.
+They were dismayed by his overthrow and uncertain about Ukraine’s political direction.
+An initial surge of activity took place in early March with a series of large demonstrations by mostly unarmed pro-Russian protesters.
+On March 1, while the Crimean operation was already unfolding, protesters seized the regional administration buildings in Kharkiv and Donetsk.
+On March 9, protesters took over the regional administration building in Luhansk and demanded a referendum be held on annexing the Luhansk Oblast to Russia.
+For a short while, one group of protesting men—cleareyed and sober, but projecting toughness—deliberately defended the police.
+When there was a briefly chaotic rush for the building’s side door, and a much smaller police contingent blocking it, these men, seeming to take instructions by cellphone, intervened.
+They ordered the crowd back to 36 Lessons from Russia’s Operations in Crimea and Eastern Ukraine protesters to temporarily take over government buildings, recognizing that the protesters would soon depart.
+The protesters’ official causes included a referendum on federalization, recognition of Russian as the second official state language, and a Customs Union with Russia.
+The call for a referendum was apparently a bid to pressure the Ukrainian government for devolution of more autonomy to the regions.
+Pavel Gubarev, a member of the neofascist organization Russian National Unity, did the same in Donetsk.
+In Kharkiv, Vladimir Varshavskiy, a car mechanic and a blogger, was proclaimed popular mayor at a public rally.
+In Slovyansk, an owner of a small business, Vacheslav Ponamorev, emerged as popular mayor, with unknown backers.
+These individuals could be described as pro-Russian and certainly anti-Maidan oriented, but they were also obscure figures of little-to-no political significance in the country or the region.
+A riot shield that protesters wrested from one police officer was returned with an apology.
+A woman among the protesters came forward and wiped tears from another police officer’s face; he allowed her to reach up under his plexiglass face shield.
+As a few dozen protesters, including one young man recording on his iPad, stormed the government buildings, police offered little resistance, apparently intent on avoiding clashes so as not to give Russia a pretext to invade.
+Lugansk Guard,” cxid.info, undated; the interview with PSPU’s leader, Nataliya Vetrenko (Lyudmila Klushina , “Natalia Vitrenko: Neo-Nazis Intimidate People [Наталия Витренко: Людей запугивают неонацисты],” Vecherniy Peterburg, December 10, 2015; and Aleksey Sochnev, “The International Community Must Help Us to Free Ourselves from the Neo-Nazis [Mirovoye Soobshchestvo Doljno Pomoch Nam Osvoboditsya ot Neonatsisma],” Russkaya Planeta, March 12, 2014.
+Separatism and Aggression in Eastern Ukraine 37 erly characterized as local and regional political outsiders, adherents of extreme movements who exist on the margins of the political landscape.
+What little is known of their biographies reveals local criminals, small businessmen, and ideological extremists colored by Russian nationalism.
+Denis Pushilin, who was the first leader of the Donetsk People’s Republic , spent his time selling shares in a Russian pyramid scheme.
+Vyacheslav Ponomarev, the aforementioned mayor of Slovyansk, had supposedly moved from one business venture to anotherbeforetakingownership ofasmallsoap company.Theirmeteoric rises seem improbable without external backing.
+Given these figures’ backgrounds, the proposition that they were the pillars of a longplanned Russian intelligence operation is equally dubious.
+If so, these individuals appeared, and subsequently proved to be, poorly adapted to the task.
+The period of political mobilization to demand for federalization and greater regional autonomy was short-lived.
+Regional law enforcement cracked down on these people’s governors and, by removing them, inadvertently paved the way for a different set of leadership to take over the movements.
+Valeriy Bolotov replaced Kharitonov as the new people’s governor of Luhansk after Kharitonov’s arrest.
+Bolotov was a retired paratrooper, a veteran of several conflicts, and the head of the Paratroopers Veteran Union.
+He had been a representative of Oleksandr Yefremov, a former governor, businessman, and prominent member of Yanukovych’s party.
+Yanukovych and many of his associates fled to Russia, making it likely that Moscow could tap their patronage connections and business networks.
+As a result, some of the political agitators who were arrested were replaced with or backed by the enforcers from the business circles of local elites.
+Griff Witte, “Pro-Russian Separatists in Eastern Ukraine Were ‘Nobodies’—Until Now,” Washington Post, April 30, 2014.
+Kharkov Headed Smith and Lohansk Paratrooper [Kto Oni, ‘Narodniye Gubernatory’: Kharkov Vozglavil Avtoslesar, a Luhansk Desantnik],” Komsomolskaya Pravda, April 23, 2014.
+In Kharkiv, interior minister Avakov stated that 70 separatists were arrested in the clearing of the state administration building.
+Street clashes between proand anti-Maidan protesters continued for several days in major cities.
+Meanwhile, the interim Ukrainian government appointed oligarchs as new governors, assuming they would use their patronage networks to retain control and defend their own economic interests.
+One of the more important decisions by Kyiv early in March was to appoint Ihor Kolomoisky as governor of Dnipropetrovsk, where he already had substantial economic influence and vested interests.
+Ukrainian authorities removed the local political figureheads of the protest movement but, as a consequence, they were replaced by individuals with ties to Russian security services, military experience, and associations with business interests in Russia.
+Many were either local to the Donbas region or came from Crimea, likely at the behest of Russian intelligence in early March.
+The new leaders were more interested in mounting direct action and had the military experience to command a paramilitary force.
+In Donetsk, Aleskandr Boroday, a Russian citizen and editor of the conservative newspaper Zavtra, replaced Gubarev as people’s governor after Gubarev’s arrest.
+In Slovyansk, Boroday’s close associate, Strelkov, sacked Ponamorev and proclaimed himself as the people’s mayor of Slovyansk.
+Strelkov, a veteran of conflicts in Transnistria, Serbia, and the Chechen wars and allegedly an operative for Russia’s military intelligence , would become an important figure in this conflict.
+This change in leadership marks the true beginning of 8 “Ukraine Authorities Clear Kharkiv Building, Arrest Scores of Separatists,” Radio Free Europe/Radio Liberty, October 27, 2015.
+Rather than wait to hold a referendum on the status of the regions, commanders, such as Strelkov and his comrade Igor Bezler (whose nom de guerre is Bes ),12 stormed the buildings of the local administration and proclaimed the territories under their control as republics.
+It is unknown if he operated under Russian command or independently, but his actions prevented a restoration of order by Ukrainian authorities as occurred in Odessa and Kharkiv, where crackdowns ended protests and the local elites chose to side with the national government.
+When Strelkov declared the Donetsk Republic, he shifted the cause from federalization to outright secession from Ukraine, which was always his personal intention.
+From April 6 to 23, the separatists employed groups of armed men to capture and hold the administration buildings that were lost by the pro-Russian civilian demonstrators in early March.
+It is unclear whether these assaults were coordinated with Russian authorities.
+Separatists seized the main administrative building in Donetsk on April 6, overran an Interior Ministry rapid-response force at the Luhansk Донбасса],” Moskovskiy Komsomolets, May 28, 2014.
+His name is most prominently associated with an audio recording when Malaysia Airlines flight 17 was shot down in July 2014,confirming the plane was civilian.
+Julia Ioffe, “I Met Igor Bezler, the Russian Rebel Who Said ‘We Have Just Shot Down a Plane,’” New Republic, July 18, 2014.
+Protests in Odessa resulted in 42 deaths of pro-Russian activists on May 2, and the tragedy led to disengagement among the warring protesters.
+At this stage of the movement, the demands vacillated between autonomy within a federalized Ukraine and secession in order to join Russia.
+The proclamation by Strelkov of the DNR on April 7 marked a more concerted attempt to unify effort and command among the separatists behind a political structure.
+Pro-Russian separatists would declare a Luhansk People’s Republic a few weeks later.
+Eventually Strelkov took overall command and control of a large conglomeration of fighters called the South-East Army, becoming the leading political figure of the separatist movement.
+Although he was able to attract members of some pro-Russian organizations, including the East Front and Donbas People’s Movement, Strelkov was unable to monopolize the use of force in the area.
+Local elites, who formed their own battalions, preferred to maintain their autonomy.
+Such units as Vostok Battalion in Donetsk, headed by a former commander of Ukrainian Alfa special forces in the region, and Zarya in Luhansk, primarily comprising local residents, acted independently of Strelkov’s South-East Army.
+From April 15 to 23, Ukrainian army and Interior Ministry forces mounted efforts to respond to the separatists.
+Most of the deployed units in the east were halted outside the captured cities by a handful of crude checkpoints and several pro-Russian civilian mobs.
+First, at the time, the Ukrainian army existed largely on paper, with perhaps only 6,000 15 Ukraine’s ministry stated the objective of this attack was the firearms.
+This would become emblematic of the separatist attacks on security buildings and police stations in order to seize arms and equip a paramilitary force.
+Separatism and Aggression in Eastern Ukraine 41 combat-capable troops available.Second, Ukrainian army commanders spoke Russian and were disinclined to fight against fellow Russian speakers or order troops into civilian areas.
+As a whole, the Ukrainian military was completely unprepared for the launch of combat operations.
+The local police in Donetsk, Luhansk, Slovyansk, and Kramatorsk were either intimidated by the separatists or defected to them.
+By August 2015, Ukraine’s chief military prosecutor would report that some 5,000 police and 3,000 servicemen had defected to the separatist cause.
+Ukrainian soldiers and their commanders were confused by the situation on the ground and did not know how to deal with the separatist forces that were accompanied by supportive civilian mobs.
+In one embarrassing instance, six Ukrainian airborne vehicles from the 25th Airborne Brigade were captured by separatists and local civilians without a fight.
+One of the armored columns stopped when a crowd of men drinking beer and women yelling taunts and insults gathered on the road before them, and later in the day its commander agreed to hand over the soldiers’ assault rifles to the very separatists they were sent to fight.
+Another column from the same ostensibly elite unit, the 25th Dnipropetrovsk paratrooper brigade, surrendered not only its weapons but also the tracked and armored vehicles it had arrived in, letting militants park them as trophies, under a Russian flag, in a central square here.
+From late April to late May, the Ukrainian army mounted a more deliberate campaign to contain the pro-Russian rebellion by securing key terrain around Donbas cities held by the separatists.
+The objective of this strategy was to position the military for a decisive offensive against the rebel enclave once Ukraine’s national mobilization, including the May 1 reintroduction of mass conscription for men, had been completed.
+After taking outlying cities, Ukraine’s army planned to isolate and besiege Donetsk and Luhansk.
+Meanwhile, the separatists obtained short-range air-defense weaponry, presumably from Russia or possibly from stocks in Ukraine.
+In late April and May, several Ukrainian military helicopters and fixedwing transport aircraft were shot down in the Donbas region.
+Russia apparently supplied the rebels with shoulder-fired and self-propelled Strela-10M short-range systems.
+Russian forces massing on Ukraine’s borders grew beyond 40,000, diverting Ukraine’s deployments to its borders, defending cities such as Kharkiv, rather than to the conflict zone, because of the threat of large-scale invasion.
+In the last week of April, the Ukrainian army made probing attacks against the outskirts of Slovyansk.
+On May 2, a Ukrainian offensive made gains, seizing part of the city, with casualties on both 21 “Ukraine Says Forces Retake Two More Rebel Cities,” BBC World News, July 7, 2014.
+It is worth noting, however, that merely operating and sustaining some of these systems, let alone successfully employing them, requires a degree of expertise beyond that present in typical armed groups.
+It is also worth noting that while Ukrainian aircraft were shot down with some frequency throughout this period, the first shoot-down of a fixed-wing aircraft at medium altitude took place on July 15.
+See “Shooting Down of Ukrainian Military Aircraft at Cruising Altitude Reflects Ongoing Escalation Risk and Possible Russian Support,” Jane’s Online Country Risk Daily Report, July 15, 2014.
+Separatism and Aggression in Eastern Ukraine 43 sides and at the cost of losing two helicopters.
+In the subsequent weeks, fighting spread to other towns in Donetsk, with seesaw battles between government forces and separatists in Kramatorsk, Slovyansk, and Mariupol.
+Separatist leaders organized a referendum on May 11, without any discernible legal basis, in which 89 percent of participants supposedly voted in favor of self-rule.
+Violence continued until the May 25 presidential election, with several attacks by separatist forces possibly aiming to disrupt the election.
+Shortly after the elections, the First Battle of Donetsk Airport broke out, with more than 50 separatists reported killed, marking a transition point in the conflict.
+This attack was the first featuring a large group of volunteers from Russia who arrived to reinforce the separatists, but it proved a military disaster for the separatist fighters.
+Scores were killed at the airport and on the way back to the city by friendly fire from the Vostok Battalion, which confused them for Ukrainian units, perhaps emblematic of the lack of communication among the disparate separatist forces.
+It is difficult to identify the point at which significant numbers of Russian soldiers become involved in this conflict under the guise of volunteers.
+Russian citizens took command of the separatist movement in midApril, and they had Russian volunteers with them.
+However, the May 25 David Cenciotti, “Two Ukrainian Gunship Helicopters Shot Down by Maenads in Eastern Ukraine,” The Aviationist, May 2, 2014.
+This episode was considered one of the single worst losses for the separatists throughout the history of the conflict.
+See El_Murid, “Three Weeks Ago, I Spoke with People Who Were Directly Involved in One of the Most Unsuccessful Operations of Donetsk Militia—An Attempt to Capture the Airport In Donetsk.
+The battle for Donetsk airport and Ukraine’s subsequent offensive operations escalated the conflict vertically for Russia, resulting in the steady transition to conventional warfare.
+From June until the end of August, Russia trickled in mechanized equipment, armor, and advanced munitions to the separatist forces, as well as medium air defenses operated by its own units.
+By mid-August, Ukraine had lost so much tactical and transport aviation that its air force was unable to participate in the conflict because of the presence of strong air defense.
+The AntiTerrorist Operation (the Ukrainian government’s official name for its campaign against the separatists) was essentially a siege-warfare campaign, leveraging Ukraine’s vastly superior numbers, artillery, and air power to steadily encircle and push out the separatists from fortified terrain.
+Togetherwithvolunteerbattalions,Ukraine’s military ateaway at separatist territory, a fitful campaign replete with setbacks, minor defeats, and costly mistakes for Russia.
+In August 2014, the situation became critical for the separatists, as the territory under their control shrank and Ukraine edged closer to regaining control of the border and encircling them completely.
+A wedge was being driven between Donetsk and Luhansk, threatening to separate the two putative breakaway republics.
+On August 24, Russia abandoned an effort to mix in conventional weaponry, such as tanks and air defense, in support of the separatist forces.
+Instead, it switched to conventional operations, invading with perhaps 4,000 regular troops and defeating Ukraine’s military at the Battle of Ilovaisk.
+With the Minsk I ceasefire signed in early September, Russia began a more robust train-and-equip mission designed to turn the separatists into a more capable conventional force.
+Although artillery skirmishes continued, both sides took a break 28 This is the weapon system widely believed responsible for the downing of Malaysian Airlines MH17 in July 2014.
+Separatism and Aggression in Eastern Ukraine 45 to rearm, train, and consolidate between September 5, 2014, and January 13, 2015, when Russia launched a second offensive.
+Following a second encirclement and defeat at Debaltseve, Ukraine signed the Minsk II ceasefire on February 12, 2015, with terms highly favorable for Moscow.
+The terms of the Minsk II deal obliged Ukraine to grant the separatist regions special status, amend its constitution for greater decentralization, and reintegrate them.
+While sporadic fighting has continued, by mid-July 2015, Ukraine began taking the political steps necessary to implement its obligations under that agreement, albeit at a glacial pace.
+The deal may give Moscow its permanent frozen conflict in Ukraine, making the separatist republics of Donetsk and Luhansk technically Ukrainian territory,butproviding Moscow a strategic hook in the country.
+If the agreements are not implemented, Russia still has a useful means for destabilization and, at the very least, may have denied Ukraine a path to NATO or EU membership.
+Today the separatist force continues to undergo consolidation and conversion into a conventional army, equipped by Russia and supported by a capable contingent of Russian troops who serve as a quick reaction force.
+The conflict intensity is cyclical, largely quiet in fall 2015 with a ceasefire, then experiencing a strong uptick in artillery skirmishes and fighting in winter and spring 2016.
+Russia has achieved some of its political objectives in Ukraine and will lock in further gains if Ukrainian leaders implement the political concessions they accepted under the Minsk II accord.
+However, Ukraine’s government experienced a political crisis in winter 2015–2016,with a spate of infighting among ruling elites and corruption scandals that delayed any prospects for constitutional reform or reintegration of the Donbas.
+At the time of the writing of this report, the conflict remains unsettled and unfrozen.
+It did so by employ46 Lessons from Russia’s Operations in Crimea and Eastern Ukraine ing political warfare and subversion, which spiraled out into a fullblown insurgency in Eastern Ukraine, eventually leading to a conventional war.
+Moscow could have secured a strategic victory if it could bend the interim government in Kyiv to accept federalization (a process that would devolve power) and neutralize its ability to strategically reorient Ukraine in a Western direction.
+Thus, we argue that Russia orchestrated a secession movement in the eastern regions as leverage to force Ukraine into accepting federalization.
+These are important assumptions in the analysis of the Russian objectives throughout the evolution of this conflict.
+First, as the chronology indicates, Russia had ample military opportunity to invade Ukraine, defeat its forces, and conquer any eastern region if it so chose.
+In fact, even after considerable time to organize, arm, and prepare, Ukraine was still soundly defeated in August 2014 and February 2015at the battles of Illovaisk and Debaltseve.
+Second, the report assumes that the initial demands for devolution of power, federalization, and the protection of the Russian language made by upstart people’sgovernors, agitators, and separatist leaders were representative of Moscow’s objectives.
+That is, this was the core purpose of the political-warfare campaign and the followon separatist movement.
+The origins and evolution of the protests were discussed earlier in the chronology of events provided in this chapter.
+Finally, numerous official Russian statements throughout this conflict, from the Russian president to cabinet ministers, support that this was Moscow’s official policy and desired plan for Ukraine.
+Separatism and Aggression in Eastern Ukraine 47 view to start constitutional reform, which would be comprehensive and include each and every political power and regions with an equal voting right.
+They should start agreeing on a federation, within the framework of which each region has broad authority in the area of economics, finance, culture, language, education, foreign economy and cultural ties with neighboring countries or regions and where rights of all minorities are ensured.
+Representatives of the Ukrainian foreign ministry reply to us that Russian propositions are a provocation and interference into domestic affairs because they propose ideas which are incompatible with the foundations of the Ukrainian national identity.
+I do not know why they are incompatible with foundations of Ukrainian national identity.
+Sergei Lavrov’s statement would become an oft-repeated Russian position regarding the need for Ukrainian constitutional reform.
+Such provisions are eventually included in the Minsk II agreement, requiring Ukraine to vote in amendments to the constitution.
+A year later, following several battlefield setbacks, many of these demands would be integrated into the Minsk II ceasefire agreement, which today is the governing document for cessation of hostilities in Ukraine.
+Even its early provisions are yet to be implemented, but the document is the only agreed-upon roadmap for ending the conflict.
+The Ukrainian Context To understand how Russia fostered an insurgency in Eastern Ukraine, we must account for the powerful nonstate actors in Ukraine, an analytical lens often neglected in this conflict.
+Although authority was centralized in Kyiv, the national leadership typically used its powers for corruption and redistribution of resources among patronage networks.
+Ukraine was, and arguably remains, an oligarchy, run by powerful and wealthy individuals who control slices of the economy, own national media channels and major state enterprises, and have politicians on retainer across the country.
+In effect, a small number of individuals own and control large parts of the Ukrainian economy and political system.
+Through much of Ukraine’s history as an independent country, Ukrainian leaders represented whichever oligarchic faction was on top, perhaps with the exception of Yanukovych, who enriched his own family clan at the expense of all others.
+In early 2014, the state was an outer shell under which the structure consisted of oligarchs and their political patronage networks.
+Oligarchs profited immensely from ownership of state enterprises and converted that wealth into political influence.
+Political parties served as instruments to secure the interests of oligarchs, while corruption was considered the norm in all aspects of life.
+Oligarchs still remain a pow34 “Russian President Putin Says Ukraine Needs Federalization to Settle Conflict,” TASS , November 17, 2014.
+Risks for Ukrainian Democracy After the EuroMaidan,” Carnegie Endowment for International Peace, February 4, 2016.
+Separatism and Aggression in Eastern Ukraine 49 erful force in Ukrainian politics today—reformist-minded ministers struggle against vested interests and corruption schemes.
+Since independence, groups of oligarchs have competed for power in the capital while fighting each other for control of key industries.
+Before 2014, Ukraine was a country with political and economic divisions borne of its history and Soviet inheritance.
+An April 2013 survey found 42 percent of Ukrainians favored closer relations with the EU, while 31 percent preferred the Russian-led Customs Union.
+More importantly, 76 percent of those in Western Ukraine thought EU association would be good for the economy, but 53 percent in Eastern Ukraine saw the Russian Customs Union as more beneficial.
+At the time, exports to Russia and the EU were roughly equal in value, but Eastern Ukraine was heavily integrated into the Russian economy, while Western Ukraine had strong ties with the rest of Europe.
+The Donetsk and Luhansk regions that hosted the separatist movement were an industrial zone with a population of roughly 6.5 million, most being Russian speaking.
+Their economy was based on mining and manufacturing and exporting ores, metals, and chemicals; it was heavily integrated with the Russian economy.
+The people and local business elites there felt they had the most to lose from a turn toward the EU because of their strong links with Russia.
+A population that viewed Russia favorablyand an assortment of local elites with 36 Julia Mostovaya , “Behind the Screen ,” zn.ua, February 5, 2016.
+Card 10 of “Everything You Need to Know About the Ukraine Crisis,” Vox, September 3, 2014.
+The Information Campaign Several information campaigns were waged over Eastern Ukraine, along with sporadic cyberattacks.
+Even before Yanukovych’s ouster, Euro-Maidan in Kharkiv, which helped organize the first pan-Ukrainian Forum of Euro-Maidans, suffered a major distributed denial of service attack.
+The initial attacks were not very disruptive, but hackers in October 2014 were able to disable the electronic system for compiling Rada election results, forcing manual tallying of ballots and delaying reporting of results.
+Because the two most popular social-media platforms in Ukraine, VKontakte and Odnoklassniki,43 were hosted on Russian servers, Russian authorities were able to block pro-Maidan pages and force service providers to share personal information about those who “liked” them.
+Pavel Durov, the founder of VKontatke, sold his remaining 40 “The Site of the Kharkov Euromaidan Movement Experiences Powerful Hacker Attack, ,” Gordonua.com, January 9, 2014.
+Who and How Carries Out the ‘Offensive’ on Sites ,” Korrespondent.net, October 17,2014; “Large-Scale Cyberwar Conducted Against Ukraine” [Против Украины ведется масштабная кибервойна],” obkom.net.ua, April 14, 2014.
+One significant element of the Russian information campaign was the rekindling of the term Novorossiya.
+Putin mentioned this concept in a speech on April 17, 2014, recalling that Eastern and Southern Ukraine—or the third of the country from Donbas to Odessa, including the regions that are predominantly Russian speaking—were historically parts of the Russian Empire.
+Putin’s rendition of history of Novorossiya was self-serving, as the term existed only on the margins of Russian body politic since 1990, although some state officials imagined it as a potential lever against Ukraine should it turn sharply West.
+The use of this term raised concerns in the Westin that it implied that Russia intended todismemberUkraine inpursuitof alargerirredentist the Organizers of Euromaidan Social Media Groups [Дуров отказался выдать ФСБ личные данные организаторов групп Евромайдана],” uainfo.org, April 17, 2014.
+Ukraine Rebels Find a Gathering Place on VKontakte,” Globe and Mail, July 18, 2014; Mark Snowiss and Danila Galperovich, “Russian Social Media Fortify Rebellion in Ukraine,” Voice of America, June 30, 2014; “How Social Media Transformed Pro-Russian Nostalgia into Violence in Ukraine,” The Conversation.com, October 16, 2014; Mumin Shakirov, “I Was a Separatist Fighter in Ukraine,” Atlantic, July 14, 2014; “The ‘Titushki’ Got Their Own Meme.
+This was formed into a province in the 18th century, comprising lands from the Hetmanate and those gained from the Ottoman Empire.
+The region has its own distinct history and changed hands several times in the early 20th century during the Russian Revolution and the anti-Bolshevik White Movement.
+A Fraternal Rivalry, Washington, D.C.: United States Institute for Peace, 1999.
+The term, with its historical overtones, helped Moscow appeal to imperialist nationalists, rekindling memories of when large swaths of Ukraine belonged to Russia.
+It helped Russian leaders foster the cause among leaders in Eastern Ukraine, and gave a grand concept and idea to the separatist movement and a reason for Russian volunteers to join it.
+In May 2014, the self-proclaimed Luhansk and Donetsk republics formed the confederation of Novorossiya and the United Armed Forces of Novorossiya.
+In short order, it became apparent that separatism had rather shallow roots, leading Russian officials to quickly drop the term Novorossiya; nevertheless, it continues to be a rallying cry for the separatists and a unifying term for various groups in the breakaway republics.
+Putin may have only mentioned it a few times, but the frame was used to glue together the political ideology behind the separatist military effort and construct an imagined historical foundation.
+However, by the time of the September 2014 Minsk accords, the project had effectively been abandoned by the Kremlin because it was incompatible with schemes to reintegrate the Donbas with Ukraine.
+Although the United Armed Forces of Novorossiya technically lives on in separatist imaginings, for Russia, this was an information mechanism that lost utility by the beginning of summer 2014.
+One study concluded that this project “was abandoned in Moscow either due to 49 Adrian A Basora and Aleskandr Fisher, “Putin’s ‘Greater Novorossiya’—The Dismemberment of Ukraine,” Foreign Policy Research Institute, May 2014.
+Examining Support for a Separatist Geopolitical Imaginary in Southeast Ukraine,” Post-Soviet Affairs, 2016.
+List based on research conducted by Roger McDermott of the Jamestown Foundation and Michael Kofman of the CNA Corporation in addition to known data about the various separatist groups that participated in the conflict.
+Great Host of Don Cossacks, Independent LPR forces, and Prizrak “Ghost” Brigade are not part of the same group; they are different groups fighting for the same cause.
+Although ultimately unsuccessful, the Russian leadership’s attempt to advance Novorossiya as a political and information project was ambitious.
+Russia sought to conjure an imaginary country to trade it for political concessions from the Ukrainian government.
+Russia’s information campaign was more successful at agitating the West than at delivering tangible results in Ukraine.
+Studies using survey data and technical analysis of the penetration of Russian broadcasting signals found that the impact of the campaign was grossly overestimated.
+The message proved polarizing rather than mobilizing, even where Russian television signals had the most coverage and viewership.
+While the campaign increased hostility toward and distrust of the Ukrainian national government, it did little to mobilize public support of separatism.
+Ultimately, Ukraine banned Russian broadcasts to the extent it could in the rest of the country, while national viewership of Russian news and other media drastically declined.
+In the Donbas, support for the national government and the separatist cause was equally tepid.
+Russian-backed separatists had to resort toforce because the information campaign failed to rally an indigenous uprising that could sweep Eastern Ukraine.
+Far from being an integral element, the information campaign remained a sideshow throughout the conflict.
+In characterizing the importance of the information campaign, it is often assumed that activity translated into achievement and because Russia invested in the effort, it must have had an impact.
+Separatism and Aggression in Eastern Ukraine 55 The “Separatists” Despite the ineffectiveness of the central government, Ukraine never had a power vacuum.
+Indeed, like the central government, even the protest-movement leaders were likely backed by some of the oligarchs and local power brokers.
+The separatists and the vested interests behind them were intertwined in a complex game.
+Oligarchs in the east had plenty to lose in the aftermath of the Maidan movement, since their patronage party was politically decimated, and much to gain from backing protests as part of a bargaining game with those newly arrived in power.Pro-Russian opportunists and ideologues hoped that they could ride the wave of public outrage into power, while Russian imperialists expected that Moscow would intervene militarily in Eastern Ukraine as it did in Crimea.
+These individuals were not interested in devolution of power or preservation of the Russian language but outright fragmentation of Ukraine, and they hoped military action would spur a Russian intervention.
+At the point of inception, the separatist movement seized on the mobilization of the ‘anti-Maidan’ sentiments emanating foremost from Crimea.
+The separatist movement was an evolution of the earlier effort to support political agitation in Eastern Ukraine, with an eye to force national-level concessions from the central government.
+If Kyiv lost control of eastern regions to separatists, the instability would let Russia press for the federalization of Ukraine.
+In the most optimistic scenario for Russia, Southern Ukraine would join these separatist movements as well.
+The separatist movement underwent a significant transition in March 2014, when the initial protest leaders were arrested, making space for figures such as Strelkov to take charge.
+He was also a well-known ideologue and Russian nationalist who participated in the annexation of Crimea as a paramilitary fighter and subsequently decamped for Eastern Ukraine—most likely with Russian assistance and a handful of fighters .57 His adventure in Ukraine may have been sanctioned by the Russian authorities, but a variety of sources have reported that he was acting in the interests of Konstantin V Malofeev, a wealthy Russian oligarch with deeply religious and nationalist views that closely aligned with Strelkov’s own.
+Strelkov was joined by Alexander Borodai, another right-wing nationalist, who became prime minister of the DNR in May 2014.
+With extensive media experience, Borodai was quite likely the political strategist brought to help glue together the concept of the separatist republics.
+Borodai knew Girkin from the Transnistrian conflict in the early 1990s,59 had been a member of various nationalist causes, and worked for the ultranationalist newspaper Zavtra.
+Like Girkin, Borodai is alleged to have links to Malofeev and was also involved in the annexation of Crimea as a political consultant for Sergei Aksyonov, who has been the political leader of Crimea since annexation.
+By August, it was clear the separatists were on the precipice of failure, and a negotiated settlement with Ukraine would prove difficult 57 Alexander Mercouris, “Insight and Limitations of Russia’s Most Popular Military Hero ,” Russia Insider, February 7,2015.
+The Russian Billionaire Linking Moscow to the Rebels,” Financial Times, July 24, 2014;“Konstantin Malofeev: Fringe Christian Orthodox Financier of the Donbas Separatists,” Jamestown Foundation, August 8, 2014.
+Since then, Transnistria remains a largely unrecognized country which sought to break away from Moldova, and a frozen conflict, with Russian forces still stationed in the region.
+Several of the prominent separatist leaders, like Borodai and Girkin, allegedly participated in pro-Russian protests during this conflict.
+Harriet Salem, “ Who’s Who in the Donetsk People’s Republic,’ July 1,2014.
+In effect, the facade of a locally inspired rebellion became pointless.
+The two separatist leaders were compelled to give up leadership in mid-August 2014,61with Borodai replaced as head of the DNR by Alexander Zaharchenko.
+Since returning to Russia, Strelkov has been banned from appearing in the media despite being considered the hero of the insurgency by many Russians, and he only gives interviews to fringe media outlets.
+Employment of an informal network of fighters in post-Soviet republics as well as of individuals such as Strelkov with shady business and intelligence connections indicates that Moscow sought entry into Ukraine through existing informal networks and linkages among elites.
+The use of nationalist-minded fighters suggests that rather than a professional covert operation, Russia was engaged in an ad hoc effort using available auxiliaries and ideologues with extensive military experience.
+Separatist commanders in Eastern Ukraine shared common traits and history, some having fought in Transnitria, the Chechen Wars, and a series of post-Soviet conflicts.
+Individuals such as Strelkov engaged in historical reenactments between conflicts, dreamed of restoring the Russian Empire, and craved an opportunity to fight in any war on Russia’s periphery.
+At the heart of this approach were flexibility, opportunism, and an economy of resources, which came at the price of cohesion, control, and eventually would result in problems for Moscow.
+Strelkov’s fighters, who may have been funded by Malofeev, were one of the major elements in the overall separatist force, a mishmash grouping whose 61 Carol J Williams, “Two More Top Separatist Leaders Abandon Eastern Ukraine Battle,” Los Angeles Times, August 14, 2014.
+The Man Who Started the War in Ukraine,” Spiegel Online International, March 18, 2015.
+Early volunteers from Russia constituted the backbone of these small units, supported by local Ukrainian Berkut and Alfa units.
+There is an abundance of information in Russian sources about international fighters traveling to fight with the separatists and the recruitment of volunteers in Russia to fight in Ukraine.
+Strelkov’s so-called South-East Army would encompass a ragtag group of volunteers, criminals, and misfits.
+Hence, other military units, such as the Vostok battalion, represented the real firepower and military experience for the movement.
+Vostok, formed in 1999, was originally a Chechen battalion during the Second Chechen War.
+The unit in Ukraine was probably formed around a core of veteran fighters from the original Chechen unit along with experienced fighters from the Caucasus, including Dagestanis, Abkhazians, and South Ossetians.
+The chain of control probably consisted of Chechen fighters who were presentwith the permission of 65 “These Are Our People ,” vz.ru, April 12, 2014.
+ToCrush the Ukrainian Army, It Is Necessary to Fight [Игорь Стрелков: «Чтобы разгромить украинскую армию, надо воевать],” December 1, 2014.
+Separatism and Aggression in Eastern Ukraine 59 Chechen president Ramzan Kadyrov,69 who is fiercely loyal to Putin.
+The Ukrainian unit was being armed and funded by Russian elites to maintain plausible deniability.
+Vostok was led by Alexander Khodakovsky, the commander of an Ukrainian Alfa unit who defected before taking Vostok’s lead.
+Vostokwaspossiblytheenforcingunitwithintheseparatistmovement, deployed to impose Moscow’s control over some of the disparate elements involved in this conflict.
+In May 2014, it raided the headquarters of the Donetsk Republic as part of an effort to clean up the criminality and institute discipline among the separatists.
+There were numerous personality conflicts, with commanders such as Khodakovsky openly criticizing the political leadership of the separatist republics.
+Different elements of the Russian government may have been responsible for the political and military aspects of this operation.
+While the political process of annexing Crimea did not go smoothly, Eastern Ukraine seems to have posed a far greater military and political coordination challenge forMoscow.
+Another prominent battalion, Oplot, was also under his partial 72 control.
+This unit formed as a more militant anti-Maidan movement in Kharkiv and would later become the armored spearhead of the separatists, who fought alongside Vostok.
+The overall force represented a diffuse Russian effort, with nationalists leading a group of motivated volunteers and a professional mercenary unit ensuring that the Kremlin could retain some semblance of a guiding hand.
+It appears Russia allowed Strelkov to figurehead the overall effort because he proved 69 Alice Speri, “Yes, There Are Chechen Fighters in Ukraine, and Nobody Knows Who Sent Them There,” VICE News, May 28, 2014.
+The Vostok Battalion Looms Large in War with Kiev,” Guardian, June 6, 2014b.
+The Powerful Nonstate Actors Behind Each Camp Oligarchs were as important as Russian or Ukrainian decisionmakers in the early phases of the conflict.
+A complete analysis requires considering the roleofsurrogates and powerfulnonstate actorsin theconflict.
+Konstantin Malofeev, a Russian billionaire vested in Orthodox Christian causes, was readily able to fund Strelkov’s campaign and the entire movement.
+Strelkov and Borodai, both early leaders of the separatist movement, were his former employees, as was Sergey Aksyonov, who organized the Crimean referendum.
+In Crimea, Strelkov had complained that he had no official status or support from local authorities and was only able to operate on the basis of his personal relationship with Aksyonov.
+It is not known if Malofeev acted as a conduit for Moscow’s interests or if he acted independently and later received sanction for his initiative.
+It made sense for Russia to use private networks of individuals, such as Malofeev, and their connections in Ukraine to achieve its objectives while maintaining deniability.
+Elements within the separatist movement likely received support from Ukrainian elites, former Yanukovych associates in exile, and other Russian oligarchs, hence, they did not start with a single agenda or unified command.
+Kolomoisky, who was made governor of Dnipropetrovsk, sent squads to round up and dispose of any pro-Russian agitators.
+He funded and equipped volunteer battalions, namely Dnipro-1, along with others, and sent them to Mariupol in Eastern Ukraine.
+This force was improvised, but it stopped the separatist advance in the city and was the major source of resistance that Strelkov’s forces encountered in the early phases.
+Separatism and Aggression in Eastern Ukraine 61 elites in Ukraine had strong nationalist sentiments and were willing to defend the country.
+He was the largest employer in the Donbas, with more than 280,000 workers, and the de facto ruler of Mariupol.
+He is still the richest man in Ukraine, valued at $12. billion, several times more than other oligarchs.
+When fighting broke out in Mariupol between separatists and volunteer militias in April 2014, Akhmetov sent thousands of steelworkers from his companies Metinvest and DTEK to take control of the streets and establish order.This was a self-interested action, but it halted fighting in the city, hindering the separatist ambitions and allowing more time for a Ukrainian response.
+Akhmetov may have played a critical yet subtle role in the conflict; he had the potential to be the most powerful Ukrainian powerbroker.
+During the early period of popular protests, Akhmetov saw Russia’sattempt to push forfederalization as a welcomeopportunity,as he hoped this would leave him in charge of Donetsk but with a much stronger hand relative to the national government.
+Those ambitions quickly evaporated, and Akhmetov was sidelined by Russian separatist leaders, forced to enter into a sort of cooperation with them.
+He controlled the industrial enterprises responsible for much of the economy, while separatists were politically and militarily in charge of the region; neither side could live without the other.
+Russia’s Possible Lessons Learned In this section, we explore the Russian experience in Ukraine and the lessons Moscow may draw on as a result of this operation.
+These include proportionality of investments versus desired benefits, knowing the target, working with nonstate entities, attracting fighters, and the timing of operations.
+Small Investments Yield Small Benefits In contrast to Crimea, where Russia executed a quick and successful operation, the separatist movement in Eastern Ukraine seemed to be an improvised effort.
+Unlike Crimea, Russian efforts in Eastern Ukraine met resistance from the outset and resulted in a sequence of adaptations.
+These led to a vertical escalation of the conflict, which, by all appearances, Russia wished to avoid, as it would result in a conventional warand necessitate its direct participation.
+Eventhe early phases did not involve the concentrated use of Russia’s intelligence and military assets.
+Russia sought to use an economy of force effort, leveraging private networks, businessinterests, anduseful operatives.
+While this had the advantage of low cost and deniability, its drawbacks were in effectiveness and predictability.
+Russia succeeded in destabilizing Ukraine, but the process was fitful and challenging to control.
+First, starting an insurgency in a politically and militarily weak neighboring state is not difficult, and, second,suchan insurgency doesnotnecessarily translate intonationallevel concessions.
+The outcome Russia sought—the federalization of 78 “The Owner of Donbass, Businessman Rinat Akhmetov Survived the War and Is Preparing to Return to Politics [Хозяин Донбасса Бизнесмен Ринат Ахметов пережил войну и готовится вернуться в политику],” 2016.
+Separatism and Aggression in Eastern Ukraine 63 Ukraine—was well beyond the scope of the resources it devoted to the insurgency.
+The strategy behind Russia’s evolving approach focused on minimizing political and geopolitical costs.
+Russia could have started with conventional war, a quick invasion, and victory over Ukraine’s military, but that would have been exercising force far in excess to that required for its objective of destabilizing Ukraine.
+A military invasion of the Donbas would have profound ramifications for Russia’s relationship with the West and an unpredictable domestic reception among Russians.
+However, Russia precisely mounted a conventional invasion after trying lower-cost options.
+Russia wanted the Donbas as leverage to gain control over Ukraine’s strategic orientation, not to sever it, and sought to pay the lowest price possible to accomplish this.
+Political Warfare Requires Knowing Your Target Russia’s effort at political warfare was based on poor assumptions about Ukraine.
+While Moscow leveraged the help of some oligarchs for its cause, other nonstate actors blocked Russian efforts.
+Kyiv eventually proved willing to fight, first at the civil society and eventually at the national leadership level.
+Russia seized upon a large degree of internal instability, however, at a time of strong nationalist sentiment in Ukraine following the victory of a popular movement.
+Russia found Ukrainian support for a national identity stronger than expected and the prevalence of pro-Russian or separatist sentiments to be much weaker.
+In Ukraine, this approach lent itself to sowing instability but proved incapable of forcing major concessions from the national leadership without escalating to conventional warfare.
+Perhaps in another former Soviet Republic, with a different set of structural and operational conditions, political warfare would have greater impact.
+For several months, Russia was able to deny Ukraine control of the eastern regions, but this campaign was not able to deliver national-level concessions.
+Moscow did not get the deal it wanted until several conventional battles were won, with the last in February 2015.
+Moscow may eschew an indirect approach in favor of a conventional operation, which, in the case of Syria, has yielded demonstrable results.
+The conventional operation, however, lacks some of the advantages of political warfare, which is comparably cheaper, less risky, and deniable.
+Irregular Forces Are Difficult to Control Russia had too few of its own operatives in Ukraine at the onset of the conflict, especially given the size of the geography.
+It was not able to control the leaders and irregulars that it had sponsored—powerful personalities with their own ideology and interpersonal conflicts.
+In the future, Russia may avoid this approach in favor of covert action, backedbyconventional forces,whichworkedinCrimea.Byemploying paramilitaries, mercenaries, and ideologues, Russia invested in a mess instead of a constructive means to achieve political objectives.
+Despite several prominent assassinations and dismissals, the conglomeration of personalities and agendas continues to plague the present-day separatist republics.
+Nonstate Actors Matter Oligarchies are based on the rule of a few elites, which means that the most powerful actors may not be government officials.
+Thus, in oligarchies, taking on the state is not enough to achieve a political change within it.
+Oligarchs are independent actors who need to be co-opted or neutralized forpoliticalwarfare to besuccessful.
+Russia incorrectly focused on the central government in Ukraine, which was weak, and failed Separatism and Aggression in Eastern Ukraine 65 to account for the actions Ukrainian oligarchs might take.
+The oligarchs helped Ukraine take action against the insurgency and formed a bulwark against rapid expansion of separatist control, albeit for their own rather than the state’s interests.
+Russia’s periphery is replete with countries with weak national governments and without functioning institutions butwith strong networks ofundemocratic eliteswho could offer surprising resistance.
+Former Soviet Republics Have an Ample Poolof Available Fighters Frozen conflicts in the former Soviet Union provide pools of fighters from which Russia may draw.
+Russia can hire combat groupings from these regions, where each conflict generates more fighters.
+The annexation of Crimea helped create volunteers to fight in the Donbas; with thousands of enlisted locals, armed Russian volunteers, and other trained fighters, it has offered a large resource pool for future wars.
+Russia may not have as many fighters available in the Middle East or Central Asia, but it now has a growing manpower resource for use in future wars.
+Conventional Forces Are Only a Temporary Deterrent Russia deployed a large number of military personnel on Ukraine’s borders, but this conventional threat lost effectiveness as a deterrent over time.
+A Royal United Services Institute report in April 2014 estimated that 48,500 troops in maneuver units alone were positioned near the Ukrainian border, with perhaps 94,000 if counting support units.
+This was a consideration that would weigh heavily on Ukrainian decisionmakers and affect advice provided by the Westto politicians in 66 Lessons from Russia’s Operations in Crimea and Eastern Ukraine Kyiv.
+However, by May, it was increasingly doubtful that Russia had the intention to conduct a large-scale conventional invasion; by end of June, the Russian Parliament revoked the authorization to use force.
+That decision ended the utility of conventional forces for intimidation.
+The initial impact of Russia’s large military deployment was a diffusion of Ukrainian defense efforts but in summer 2014, this effort failed to discourage the launch of the Anti-Terrorist Operation to retake separatist-held cities.
+In early March and April 2014, Ukraine hastily shifted units from the west to the east, but not necessarily to the combat zone.
+Still fearing Russian invasion, Ukraine has built miles of trench lines along its border to the north, far from the Donbas orany place of fighting.
+Overall, the threat of an invasion worked for Russia in Crimea, but not in Eastern Ukraine.
+Moscow likely walked away with an understanding that the window of time for using its conventional force to distract and deter a military response is quite narrow.
+It has potent coercive power, but the effect dissipates quickly if the force is not used.
+Political Timing Is Important AgovernmentturnoverinKyivresultedinpublicoutrage,anxiety,and protests in the east.
+Russia sought to act before the Ukrainian state could politically consolidate itself after the Maidan demonstrations.
+In retrospect, it may have been prudent for Russian leaders to wait and see, taking time to plan their actions, but Moscow saw Ukraine as vulnerable and likely did not wish to allow political cohesionto take place.
+This unusual situation may recur in any of Russia’sautocratic neighbors should there be a poorly managed political transition or internal crisis.
+Donbas Defense Construction Set for April,” International Business Times, March 27, 2015.
+Separatism and Aggression in Eastern Ukraine 67 toeffectchangeincountriesthatotherwise would havebeenstable.The Ukrainian experience suggests that while Moscow seized the advantage during a time of national vulnerability for Ukraine, it may have also behooved Russian leaders to wait and construct a morethoughtful, less improvised plan for handling their neighbor.
+Russia’s Operational Shortcomings While Russia achieved its overarching goal of destabilizing Ukraine and imposing a peace settlement that is favorable to Moscow’s position in this conflict, the campaign in Eastern Ukraine illustrated numerous operational shortcomings for Russia.
+It failed to achieve the leverage necessary without resorting to conventional war and outright invasion, while its strategic impact remains inconclusive, as the conflict is still unsettled.
+In the next section, we review some of the operational mistakes that hindered the campaign’s success.
+Russia Struggled to Control Political Warfare The events from protests in March to direct action in April indicate that Russia’s intelligence apparatus struggled to manage the various moving pieces within its political-warfare campaign.
+Russia thought it could maintain control over the disparate elements but struggled to manage the groups, their leaders, and competing agendas.
+In some instances, Moscow appeared to be sponsoring more than controlling the movement; its grip was challenged by the existence of other actors.
+Strelkov, for example, expected that, once his fighters seized Slovyansk in mid-April, Russia would intervene militarily as it did in Crimea.
+The expectation of a Crimea scenario is a common thread that runs through expectations on both sides of the conflict.
+Moscow clearly had other plans and sought to avoid an overt military invasion.
+Russia would later make major changes to reassert control over the separatists in late May and again in July by removing Strelkov and Borodai.
+From Plan ‘A’to Plan ‘B’ [Крым и Кремль: от плана ‘А’к плану ‘Б’],” Radio Liberty, October 27, 2015.
+Rinat Akhmetov, for example, clearly sought to play both sides, was sidelined, and has reemerged as still the strongest nonseparatist powerbroker in the region.
+Moscow is, no doubt, capable of launching a gray-zone or ambiguous conflict, but Ukraine indicates that it may be unable to control the course of such a war, particularly in the short term.
+It is impossible to say if Russian leaders will conclude that the attempts at political warfare and irregular warfare in Ukraine were ill-conceived or poorly executed—possibly both.
+If the purpose was to avoid escalation to a conventional war, then the operation failed.
+Moscow may conclude that repeating such an operation is too fraught with risk and unpredictability.
+However, Russia more likely will use the lessons from Ukraine to refine how it goes about political warfare, particularly where use of conventional force is prohibitive.
+Russia Was Ineffective at Inspiring Separatism Unlike calls for federalization and autonomy,the separatist movement, bannered as Novorossiya, did not gain traction with the population.
+Despite efforts to brand it and to infuse the movement with historical legitimacy, the Ukrainian public remained unenthusiastic.
+Instead, the information campaign was most effective on the Russian population, popularizing the mission of the separatists and endowing them with a purpose.
+As the separatist movement encountered resistance, Russia found itself without good options other than steady escalation.
+Naturally, Russia found it easier to enlist those among its population who were ideologically inclined for nationalist or religious reasons to fight in Ukraine, rather than convince Ukrainian citizens to embark on what would effectively be a civil war.
+Poor Assumptions Guided Moscow’s Strategy Moscow’s approach appeared to be based on several false assumptions founded in historical views of Ukraine and in the remarkable success Separatism and Aggression in Eastern Ukraine 69 of operations in Crimea.
+The annexation of Crimea was an easy operation for Russia but also, as noted, likely an experience that could be difficult to repeat.
+By contrast, Russia’s campaign in Eastern Ukraine was one of adaptation and perpetual adjustments.
+Hybrid War Was a Brief Adaptation in This Conflict Some Western analysts characterized the campaign in Eastern Ukraine as a hybrid war; this perspective is incorrect.
+There are no indicators that Russia intended to conduct a hybrid war, despite arguments in some circles that such a doctrine and approach exists within the thinking of the General Staff of the Armed Forces of the Russian Federation.
+Little about the early days of the conflict in Ukraine is indicative of the supervision and involvement of the General Staff.
+Russia’s selection of tactics was not doctrinally driven but, rather, it was a series of improvised responses to Ukrainian resistance.
+Although the conflict cannot be neatly separated, there was a brief but important period from May 26 (First Battle of Donetsk Airport) to August 24 in 2014, during which Russia employed a hybrid approach.
+The integration of irregular fighters, conventional capabilities, and regular Russian units in summer 2014 seems to have been an effort to bridge the desire for vertical escalation with low costs and deniability.
+By late August 2014, these attempts visibly had failed, resulting in a conventional inva70 Lessons from Russia’s Operations in Crimea and Eastern Ukraine sion by regular Russian units.
+Subsequently, Russia chose to turn the separatist forces into a conventional army mirrored on Russia’s own force, which can be read as Moscow’s verdict on the utility of hybrid approaches in Ukraine.
+Hybrid approaches did not disappear from the battlefield, just as information warfare did not cease to be employed, butthey became relatively inconsequential to the large presence of conventional forces engaged inwhatbecame classical positionand maneuver warfare.
+Ukraine is a case study not in pioneering new nonlinear approaches but in the failure of hybrid warfare to deliver the desired political ends for Russia.
+Implications and Effects Russian leaders sought to pay the lowest price possible for destabilizing Ukraine and gaining major political concessions from the interim government during a time of crisis.
+The cycle of escalation reflects an attempt to bid low in an effort to insert instability, and then press for a federalization scheme.
+Russia seems to have acted on ill-formed assumptions and in doing so, underestimated the costs and instigated a chaotic campaign of warfare with the intention of staying below the conventional threshold.
+The policy imperatives in Ukraine were such that Russian leaders proved eventually willing to pay a high political, economic, and military price.
+Russia remains unable to freeze the conflict on the terms it achieved in Minsk II, but in many respects, this effort proved effective in establishing a point of influence over Ukraine’s domestic and international affairs.
+It is difficult to deny the importance of this unsettled conflict in Eastern Ukraine.
+Some would argue that, as a consequence of the conflict, Russia has galvanized Ukrainian public opinion and political discourse in a decidedly Western direction.
+This assertion could be correct, but the geopolitical implications of a Western shift are uncertain.
+Ukraine was Separatism and Aggression in Eastern Ukraine 71 allegedly on such a path following the Orange Revolution in 2004, which failed to deliver.
+Indeed, the Orange Revolution eventually resulted in the election of Yanukovych, the same president who was forced to flee after the Maidan protests of 2013–2014.
+These political forces and even the same individuals who participated in that movement’s collapse ten years ago are still very much involved in Ukrainian politics today.
+Hence, the future of Russian influence depends on how, and if, the Minsk agreements are implemented, along with whether or not Ukraine’s political leadership is able to reform the country and break with its oligarchic past.
+As part of the research into these events, we looked at tactics, intentions, and important factors that contributed or detracted from Russian operations.
+We also investigated the relevance of information warfare and the important social, historical, and political contexts in which it evolved.
+This report attempted to draw lessons and conclusions about what Russian military and political leaders may have learned from the successes and failures of operations in Crimea and Eastern Ukraine.
+At the same time, because a variety of nonsystemic factors contributed to Russian decisionmaking on Crimea and Eastern Ukraine, we have refrained from drawing wider conclusions about a Russian model or doctrine of warfighting.
+Russia’s operation to annex Crimea represented decisive and competent use of military force in pursuit of political ends.
+Although the political steps toward annexation appeared clumsily managed, Russia was able to seize the territory of a neighboring state with speed and mobility, deploying a nimble and professional force, while using its conventional superiority as an operational distraction.
+The political maneuvering on the peninsula during the invasion suggests that it may have been launched without a predetermined political outcome in mind.
+Russia likely sought to seize Crimea, and then evaluated its political options depending in part on how the intervention was received at home and abroad.
+Information operations and their influence on Russian-speaking Crimeans were a by-product of the domestic campaign being waged inside Russia to manage public opinion and ensure approval.
+In Crimea, both the information war and the operation as a whole benefited greatly from several missteps by Ukrainian leadership and the pervasive sense of public anxiety after the ouster of Yanukovych.
+Russia took advantage of these sentiments in a predatory manner, fueling public fears of rightwing violence.
+Russia’s operations in Crimea also benefited from a series of highly favorable circumstances—political, historical, geographical, and military—that limit this case from serving as a model for similar operations in the future.
+Many unknowns remain about Russia’s military capabilities after the reforms and modernization program launched in 2009.
+Given Ukraine did not resist and only a small, distinctly capable slice of the Russian force was used, it is impossible to make broader assumptions about the state of the Russian army based on this episode.
+Moscow did demonstrate effectiveness in using deception and surprise, but its greatest success was capitalizing on Ukrainian weakness, missteps, and slow or ineffectual decisionmaking.
+There is little basis for generalization from Crimean operations about Russia’s doctrine or preferred method of waging war.
+Despite limitations in analysis, we can infer a good deal about the performance of elite or special forces, along with mobility, lift, and communications.
+The integration of national decisionmaking with the deployment of the military and the speed of that command chain is noteworthy.
+Some of the political and societal conditions and economic factors that were present during the events in Ukraine may be found elsewhere in the former Soviet Union, but certainly not all.
+It is difficult to envision the same combination of political, military, and geographical circumstances intersecting to create another similar situation.
+The unanswered question is whether or not all such conditions are required for Russia to pursue a similar outcome elsewhere.
+The experience in Conclusion 75 Eastern Ukraine lends credence to the notion that, when offered resistance and when less suitable conditions prevail, operations become more iterative, escalatory, and far less surgical.
+In Crimea, Russia achieved quick success through direct application of military power, while in Eastern Ukraine, its leadership took an entirely different approach.
+There, Russia sought to negate the strategic impact of the victory of a pro-Western uprising in the capital and retain influence in Ukrainian regions by engaging in political warfare.
+Moscow hoped a grassroots anti-Maidan movement—comprising local elites, opportunists, and a network of provocateurs—could force the new government in Kyiv to devolve power to the regions and federalize the country.
+Oligarchs and vested interests provided networks for access to Ukraine and served as enablers for such an approach.
+Ultimately, Russia sought Ukraine’s destabilization and hoped to force a federalization scheme on the country.
+Moscow leveraged private networks, some with their own agents, in the hopes of accomplishing this goal at low cost and with plausibledeniability.
+As sponsored political upheavals met resistance, Russia undertook more direct action in hopes of inspiring a broader insurgency in Ukraine and accomplishing the same objectives by leveraging limited use of force.
+These events began concurrently with the annexation of Crimea but followed an entirely different scheme.
+As operatives seized Ukrainian security forces’ infrastructure, Russia could have pursued a conventional invasion, but instead Russian leadership did not appear to seek the annexation of the Donbas.
+This surprised the separatist leaders, who assumed that Russia intended to replicate the Crimean annexation on a larger scale and had hoped for such an outcome.
+There was to be no replication of the Crimean approach to Eastern Ukraine.
+Moscow attempted to spread the insurgency but keptits objectives limited to instability and undermining the interim Ukrainian government.
+It did not seek to annex the Donbas because the region was useful to Russia primarily if it remained an unstable part of Ukraine that Russia controlled.
+If Russia annexed it, then it would assume all the financial responsibility for it and sacrifice the region’s strategic value to influence Ukraine.
+While Donbas may de facto be fully under Russian control today, for Russia, bearing responsibility for Donbas is 76 Lessons from Russia’s Operations in Crimea and Eastern Ukraine undesirable.
+According to the Minsk II agreement, which remains the only framework for settling the conflict, the Donbas and its associated costs will be returned to Ukraine.
+Attempts to seize control were ultimately a tactic in a strategic bargaining game.
+The entire Russian effort in Eastern Ukraine could be characterized as an ineffectually implemented—and perhaps ill conceived—campaign to gain leverage over the central government and the country’s long-term strategic orientation.
+Russia’s information war in Eastern Ukraine polarized the population, but ultimately Ukraine proved infertile ground for separatism.
+Moscow’s information campaign achieved partial success in conjuring a historical and justifiable cause for the separatist movement(Novorossiya) that would attract Russian volunteers at home.
+However, this too was a failure, since it did not scare Ukraine’s leaders and was promptly abandoned by Moscow.
+Russia’s efforts in Eastern Ukraine may have failed in part because of false notions about Ukrainian society, along with poor planning for dealing with nonstate actors.
+Russia was not able to effectively control the disparate elements involved in its efforts.
+Moscow devoted an increasing amount of resources to the conflict, ultimately escalating it to a conventional war with its own regular units in the lead.
+It is difficult to say what the Russian leaders and national security establishment took away from the Ukrainian experience.
+Russian leaders likely walked away from Crimea seeing it as a highly effective operation, but one that could not be easily repeated elsewhere.
+Meanwhile, Eastern Ukraine achieved some strategic objectives but was marred with operational failures, and it is highly doubtful Moscow would want to reproduce the situation elsewhere.
+Russia still stands to achieve its primary objectives, but at a much higher cost than desired and through a painful cycle of adaptation.
+If Russia seeks to spread instability to other neighboring states, then it may seek to use an adapted version of its approach in Ukraine.
+Conclusion 77 Valery Gerasimov, the current head of the General Staff, wrote in his famous 2013 article that each conflict requires the formulation of its own logic.
+That frame of mind is likely to persist in the Russian military establishment.
+Gerasimov’s article commented on the modern nature of warfare, rather than outlining a particular doctrine or institutional approach.
+There is nothing here to suggest that the Russian military sees the utility of a Crimeaor Eastern Ukraine–type approach against a NATO member.
+There is undoubtedly some broader applicability to other former Soviet Republics with Russian-speaking populations.
+In these regions, such as Belarus or Kazakhstan, Moscow may feel it has a larger stake.
+Russian interests in its near abroad may compel a similar or modified intervention in the event of a political crisis or overturn of friendly leadership, and enabling factors that were found in Ukraine are at least partially present elsewhere in the former Soviet Union.
+However, Russia’sseizure of Crimea and invasion of Eastern Ukraine may have instigated preparations among its neighbors that would render such operations more complex to conduct in the future.
+If Russia draws lessons from its experience in Ukraine, so will other countries on its periphery, and they will become more wary and implement reforms to reduce their chances of suffering a similar fate.
+APPENDIX A Information Campaign This appendix provides an outline of Russian messaging during both campaigns.
+It offers further details about the content of Russian messages, tools or mechanisms used for propagation, and other notable aspects of the information warfare component to these operations.
+Weakening Ukraine as a State • Ukraine is an economically failed state.
+Vilifying Ukraine as a State • The Ukrainian government acts in the interests of the United States and other foreign powers.
+Glorifying Russia • Russian history and tradition necessitate its own Russian Path—a unique approach to human rights and development trajectory.
+Information Campaign 81 • The fall of the Soviet Union was a disaster of global proportions.
+Weakening the West • The morality of the Western world fundamentally differs from the morality of the Russian people.
+Vilifying the West • Western countries, and especially the United States, are the core orchestrators of the events in Ukraine.
+Speakers • Vladmir Putin, Sergei Lavrov, and other Russian politicians and experts • Ukrainian politicians and experts • Pro-Russian organizations and political parties in Ukraine • Western politicians and experts from Europe and the United States • Local protest leaders • Regular citizens and “professional” protest participants • Celebrities and intelligentsia.
+General Tone and Methods • Undermining legitimacy of Ukraine’s government • Creating sense of threat and emergency • Manipulating historical facts and memory • Strong emotional emphasis, combined with fact manipulation, misinformation, and half-truths • Oversimplifying the reality—“one big dividing line in Ukraine” • Creating ambiguity.
+Oppressing Alternative Views • Almost absolute media control in Russia • Harassment of journalists during events in Ukraine • “Trolling” of alternative media or opinions.
+The agreement stipulates that early presidential elections will take place in December 2014, a national unity government will be created by early March 2015, and Ukraine will return to its 2004 constitution. – Protesters contest the agreement and demand immediate snap presidential elections and immediate return to 2004 constitution. – Yanukovych and a large number of his party members flee to Russia through Eastern Ukraine.
+Thousands of pro-Russian protestors rally in Sevastopol in favor of greater autonomy from Ukraine and closer ties to Russia; Pro-Russian businessman Alexei Chaliy is “appointed” as mayor.
+Aksenov in his place. – Russian forces occupy strategic facilities in Crimea and carry out the blockade of the Ukrainian army and fleet, roads, and airports to prevent interference from Ukrainian authorities.
+As a result, Ukraine’s General Prosecutor Office immediately stated that the decisions of the new Crimean government were unconstitutional and illegal.
+Acting Ukraine President Turchynov vetoes Parliament repeal of 2012 law on the principles of the state language policy; Russian language retains its status as regional language.
+Because Ukrainian authorities refuse to share voters list, the “referendum” uses an ad-hoc voters list.
+Timeline 89 – Ukrainian Ministry of Defense authorizes the use of deadly force by the Ukrainian military in cases of self-defense.
+Ukrainian military personnel leave the base while Ukrainian Rear Admiral Gaiduk is detained as hostage and released later that day after Ukraine’s Acting President’s ultimatum.
+The EU expands its sanctions against Russian officials and United States President Barack Obama announces additional sanctions.
+Gazprom announces that it will end the 2010 gas discount agreement with Ukraine, resulting in a price increase to $485. per 1,000 cubic meters.
+Ukraine’s interim Prime Minister Yatsenyuk rejects Russia’s gas price hike and blames Moscow for “economic aggression,” resulting in a new “gas war” between Ukraine and Russia.
+Timeline 91 • April 6 – In Donetsk, pro-Russian activists storm the regional government building and demand that the Donetsk Oblast vote to authorize a referendum on allowing the “Donetsk Republic” to join Russia. – In Luhansk, separatists surround the regional SBU, break into an armory room, and seize guns.
+Pro-Russian activists in Donetsk proclaim the region’s independence from Ukraine, the creation of the DNR, and set May 11 for a “referendum” that would allow the region to become part of the Russian Federation.
+Ukrainian forces conduct an “antiterrorist” operation by in the eastern city of Kharkiv after pro-Russian protestors seized a local government building.
+They retake the seat of the regional administration, and arrest approximately 70 separatists, seizing their weapons.
+Pro-Russian forces take control of security facilities and weapons in Slovyansk, Kramatorsk, and Druzhivka, while an additional attack is turned back in Krasnyi Lyman; unrest in Donetsk continues.
+Pro-Russian protesters seize the police headquarters in the Eastern Ukrainian city of Horlivka and raise the Russian flag.
+The Ukrainian military and special police forces begin “antiterrorist operations” in Eastern Ukraine to oust pro-Russian forces that are occupying government buildings and security facilities.
+Kyiv authorities suspend “antiterrorist operations” during the Easter holiday.
+The United States announces a $50 million assistance package for Ukraine.
+The bodies of two men, including one local politician supportive of Kyiv, showing signs of torture are found outside of Slovyansk, prompting interim Ukrainian President Turchynov to call for the resumption of antiterrorist operations by Ukrainian forces.
+Pro-Russian forces in Slovyansk seize a group of seven international observers tied to the Organization for Security and Cooperation in Europe as well as five Ukrainian army personnel and their driver.
+In Luhansk, pro-Russian separatists open fire on a police station, take the headquarters of the Luhansk regional government, and gain control of the regional prosecutor’s office and television headquarters.
+In the ensuing battle, pro-Russian separatists retreat to the Trade Unions house, which is lit on fire, resulting in 42 deaths.
+Eastern rebel-held regions held a referendum to vote on whether or not these provinces should be given more autonomy.
+In Antratsyt, separatists hold meeting against Ukrainian presidential elections.
+References “8 Thousand Ukrainian Officers Have Defected to the Separatists,” meduza.io, August 14, 2015.
+Gessen, Masha, “Most Russians Believe the Crimea Is Theirs—Putin Has Acted on His Belief,” Guardian, March 1, 2014.
+To Crush the Ukrainian Army, It Is Necessary to Fight [Игорь Стрелков: «Чтобы разгромить украинскую армию, надо воевать],” RIA Novosti, December 1, 2014.
+Litovkin, Dmitry, “Defense Ministry to Revive Russia’s Special Operation Forces,” Russia Beyond the Headlines, June 20, 2013.
+Mercouris, Alexander, “Insight and Limitations of Russia’s Most Popular Military Hero ,” Russia Insider, February 7, 2015.
+Kharkov Headed Smith and Lohansk Paratrooper [Кто они, ‘народные губернаторы’: Харьков возглавил автослесарь, а Луганск—десантник],” Komsomolskaya Pravda, April 23, 2014.
+Sochnev, Aleksey, “The International Community Must Help Us to Free Ourselvesfrom the Neo-Nazis[Мировое сообщество должно помочь нам освободиться от неонацизма],” Russkaya Planeta, March 12, 2014.
+It examines Russia’s approach, draws inferences from Moscow’s intentions, and evaluates the likelihood of such methods being used again elsewhere.
+These two distinct campaigns overlap somewhat but offer different lessons for participants and observers.
+The report ﬁ nds that Russia’s operation to annex Crimea represented a decisive and competent use of military force in pursuit of political ends.
+Russia’s operations in Crimea beneﬁ ted from highly favorable circumstances—political, historical, geographical, and military—that limit their generalizability.
+Analysis of the operation underscores that there are many remaining unknowns about Russia’s military capabilities, especially in the aftermath of its military reforms and modernization program.
+The report also ﬁ nds that the campaign in Eastern Ukraine was an ineffectually implemented—and perhaps ill-conceived—effort to achieve political fragmentation of Ukraine via federalization and retain Russian inﬂ uence.
+Russia achieved its primary objectives but at a much higher cost than desired and through a ﬁ tful cycle of adaptation.
+This study thus questions the desirability for Moscow to replicate a course of events similar to the campaign in Eastern Ukraine.
+Conversely, the operation to annex Crimea was a highly successful employment of select elements within Russia’s armed forces, making it an attractive use of military power, but the structural and operation factors contributing to its success raise doubts whether it can be repeated elsewhere.

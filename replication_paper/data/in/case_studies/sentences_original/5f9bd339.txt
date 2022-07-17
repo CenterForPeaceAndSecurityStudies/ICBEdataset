@@ -1,0 +1,939 @@
+ECOLLOQUIAL 2019 ANNUAL JOURNAL OF DEPARTMENT OF ECONOMICS LADY SHRI RAM COLLEGE FOR WOMEN NEW DELHI Editorial Board 2018-19 Faculty-in-Charge Ms Neha Grover Editor-in-Chief Dhwani Kachru Sub Editor Shipra Karan Editors NavyaPoonia Noor Kumar PremanshSahni PriyaBareja ECOLLOQUIAL 2019 Note from the Faculty-in-Charge The Academic Journal Ecolloquial 2019 seeks to provide a platform for students to delve into important economic issues.
+The aim is to encourage them to read, analyze and present a clear perspective.
+Neha Grover Note from Editorial Board It is with great honour, humility and pleasure that the Editorial Board presents to you the Annual Journal of the Department of Economics 2019.
+The Ecolloquial 2019 aims to expand horizons and kindle interest in the varied and dynamic fields of economics.
+This year we are proud to announce that we conducted an opinion article writing competition called Redefining Contours across all years and departments of Lady Shri Ram College to encourage students to vocalize their opinions about the intricacies of the world we live in.
+We have introduced a new section called Redefining Contours which aims to include these opinion pieces shedding light on the brimming and disruptive ideas of today.
+The Editorial board is delighted that it received an overwhelming response of submissions from the student body.
+We hope that this journal serves as an inspiration for future research and ignites discussions of contemporary and pertinent issues.
+The Annual Journal of the Department of Economics 2019, is a culmination of months of hard work on the part of the authors and the editorial team.
+The Editorial Board is excited to present this year’s journal and hopes that the reader enjoys and gains from it as much as we did.
+The Cuban Missile crisis has been a subject of extensive discussion, debate and research in the domain of game theory.
+Numerous developments have taken place in this regard and a long distance has been traversed from the initial usage of the Chicken game to model the crisis to the evolution of Bram’s theory of moves, the theory of metagames and others.
+This paper critically evaluates the appropriateness of different theories and games in modelling the crisis.
+At the same time, an attempt has been made to reason out the outcome of the conflict by using multiple game theoretic approaches.
+The US and USSR engaged in a tense, thirteen day political and military standoff in October 1962 over the installation of nuclear-armed Soviet missiles in Cuba, only 90 miles from United States shores.
+The missiles were a secret that American U2 spy planes brought to President Kennedy’s notice and then began the weighing of varied American responses to this new threatening finding amidst an already very cold, Cold War.
+An aggressive risk-taking foreign policy in which “one of both parties force the interaction between them to the threshold of confrontation in order to gain an advantageous negotiation position over the other,” that is reckless and often well understood by the famous cartoons of 1962 that show both Khrushchev’s and Kennedy’s fingers a hair-strand away from the trigger buttons to nuclear war and mutually assured destruction of at least the Northern Hemisphere.
+In this essay, attempts are made to evaluate and link the existing game theoretic lenses to view the Crisis while breaking down different decisions during the thirteen days through games modelled for specific days in the timeline.
+This paper starts with the most commonly discussed game of Chicken which is used to model various conflicts in International Relations where the players are on a collision course.
+We discuss why this model fails to explain the Crisis and how an alternative approach referring to Brahm’s theory of moves which models two of US’s strategies, to Blockade or to Strike against USSR’s to Withdraw or to Maintain, is an improvement to the Chicken.
+Moreover, we discuss a new game which models the negotiation between United States and USSR on the removal of United States missiles in Turkey for Soviet missiles in Cuba.
+Finally, in our concluding remarks we highlight the assumptions and limitations of the games and our model.
+The Chicken and the Alternative The Cuban missile crisis, like any other conflict where the players are on a route to collision, can be modelled as a Chicken game.
+This results in United States victory and thwarting of the Soviet Union.
+This results in a compromise as as both sides decide to cooperate or back down.
+This results in nuclear war or an escalation of conflict as neither side backs down.
+As is the case in a classic chicken game, both players maximise their payoffs in the case of their victory where the other player defects or back down.
+The second most preferred outcome is that of compromise and the worst outcome is of conflict.
+A Nash equilibrium is the accepted measure of rational behavior 5 ECOLLOQUIAL 2019 in normal-form games with complete information.But the two Nash equilibria are neither equivalent—that is, they are associated with different payoffs to the players—nor interchangeable in the sense that the strategies associated with them may not have identical consequences.
+Moreover, neither of the two predicted outcomes actually translated into reality which was a situation of compromise which is also the mutual next best outcome for the two players.
+The chicken game’s inability to predict compromise as an outcome of a conflict situation leads us to discard this model.
+The question that we are faced with is that in the event of naval blockade by US, why does USSR decide to withdraw and not maintain the missiles in Cuba even though maintenance would result in a higher payoff for them.
+Even if we were to look at this crisis as a sequential game, we still fail to understand the choice of USSR’s move given that United States is the first mover and the move chosen by them is blockade.
+To solve this puzzle, we refer to Brahm’s Theory of moves and the alternative game of sequential bargaining.
+Brams assumes that once a game begins either player can move from whatever outcome is the initial state and, if it does, the other can respond, the first can counter-respond, and so on.
+Any outcome from which 6 ECOLLOQUIAL 2019 neither player, looking ahead indefinitely, has an incentive to move to another state of the world, including the initial state, is said to be a non myopic equilibrium.
+Compromise is not the Nash equilibrium but it is the nonmyopic equilibrium.
+The theory of moves makes use of intuitive logic to reach the nonmyopic equilibrium.
+It is followed by a blockade by the United States navy wherein Soviet ships on their way to Cuba are intercepted.
+The blockade move opted by the United States carries with it implicit threat of escalation of conflict in case United States decides to up its game by engaging in air strikes.
+Cuba and Turkey in the Cold War The Kennedy administration having finally deciding on the naval blockade, a Compromise sent a letter to the Kremlin that very day on the 22nd of October; the first in a series of direct and indirect communication between the White House and the Kremlin.
+After a series of exchanges and a stalemate later, on 27th of October, Khrushchev sent a message indicating that any proposed deal for a resolution must include the removal of United States Jupiter missiles from Turkey.
+This dilemma again can be modelled by a Chicken game similar to the one discussed above wherein USSR’s two possible moves remain to withdraw or to maintain the installation of missiles.
+Like the classic Chicken game, again we see that there exist two Nash equilibrium, one where USA wins as USSR withdraws missiles but the Jupiters remain and the other where USSR wins and USA withdraws Jupiters but the Cuban missiles remain.
+The middle ground lies in Compromise once again where USA pursues Remove and USSR pursues Withdraw.
+Lastly, if neither budge then the two enter into a Mexican Standoff and no party achieves victories and strategic tension is maintained with a still unresolved crisis.
+In reality, Kennedy ignored the second message and made a bold move by instead sending Khrushchev a message listing the proposed steps for the removal of Soviet missiles from Cuba under supervision of the United States.
+However, later it was revealed that the United States was planning to remove the Jupiter missiles from Turkey anyway and it would do so soon.
+In the end, on 28th of October 1962, Khrushchev issued a public statement that the missiles in Cuba would be dismantled and finally in November the naval blockade was lifted as well.
+Thus, in our game, this time it was not a Compromise but rather a United States victory as even 7 ECOLLOQUIAL 2019 though the Jupiters were removed they were not removed as an immediate response to Kremlin’s demands but rather as a secret, delayed chain of actions in April 1963 when the Jupiters were dismantled.
+However, in reality United States was able to prevail over USSR in the sense that it was successful in getting USSR to remove its missiles from Cuba without conceding to the Soviet demand that the United States remove its missiles from Turkey.
+In this paper, we rely on the intuition behind Nigel Howard’s Theory of Metagames to explain the same.
+Without delving into the details of metagames, we can successfully use the logic behind them which is that players send signals to one another before the game begins.
+The reason USA gets an upper hand in this scenario is because they make the first move and demand the removal of Soviet missiles from Cuba by conducting a blockade while there is a delayed response from Soviet Union in demanding the removal of United States missiles in Turkey.
+This delay acts a signal of Soviet weakness and lack of seriousness and urgency with respect to their demands in this game.
+This is exploited by the United States to turn the tables in its favour.
+To begin with, these games don’t fully capture the dynamic nature of the crisis They don’t take into account any secret channels of information that may have existed with the players that may have allowed them to not only preempt the moves and strategies of their enemy or make conjectures about them but to definitively know these moves which would then allow them to rig the game.
+Also, one of the starkest deficiencies of these games is their inability to incorporate the different perceptions with which the two sides view the same game.
+Game Theory and Beyond, Peter G Bennet, Wiley on behalf of The International Studies Association, 1995.
+Simran Sinha sinhasimran25@gmail.com Vaishali Jain vaishalij271097@gmail.com Abstract India was the first country in the world to have launched the National Program for Family Planning in 1952.
+With time, this program has transformed in terms of its policies and implementation.
+Currently, the goal is to stabilize population growth, promotion of reproductive health and reduction of maternal, infant and child mortality and morbidity.
+To stabilize population growth, use of contraceptives is one of the key factors.
+There are a number of factors that can affect its usage, ranging from number of years of education to poverty.
+The 29 states and 7 Union territories of India vary significantly in these factors and these differences are also expected to be reflected in the states’ contraceptive use.
+This paper aims to study the effect these factors have on the use of modern methods of contraception and the efficiency of government family planning schemes.
+Two econometric models have been constructed to understand these socio-economic factors and efficiency of the services.
+In Model 1 our dependent variable is Use of Modern methods of Contraception in each state and union territory and the explanatory variables are Poverty Rate, Total Fertility Rate, Health worker ever talked to the female non-users of family planning (which accounts for the awareness of the public and effectiveness of health workers), the Female Median age at first marriage and Proportion of women with ten or more years of schooling.
+National Program for Family Planning, Contraceptive Usage, Population, Reproductive Health, Modern Methods, Traditional Methods.
+Introduction In the early 1950s, India was the first country in the world to launch the National Program for Family Planning, with the main objective to slow down population growth.
+Mass media campaign, with the objective of relevant communication, provision of available database and quality broadcast, has played an important role in promotion and acceptability of contraception.
+After the Emergency period , the National Family Planning Program was renamed as National Family Welfare Program.
+A number of spacing methods are used, including IUCD, Injectable contraceptive MPA, combined oral contraceptive, Centchroman pill, ProgesteroneOnly Pill, Condoms, Emergency Contraceptive pills, conventional vasectomy, minilap and so on.
+The newly launched methods of Injectable contraceptive MPA and a non-hormonal weekly Centchroman pill, Chhaya, are said to be easy to use and can be discontinued when a woman wants to conceive.
+Contraceptive use is a vital element of quality of care and provision of family planning services in India.
+The program also tries to cover the socio-economic aspects of family planning, which includes, improving the quality of life, health and family planning.
+The history of the National Family Welfare Program teaches us that we can do a lot by trying and creating the conditions for demographic transition, say with the policies and schemes, but most of the demographic variables are majorly matters of economic, social and cultural changes.
+The factors such as total fertility rate, women talking to a health worker regarding the family planning methods (indicating the level of awareness), and women with at least 10 years of schooling, poverty rate and so on, reflect these economic, social and cultural changes, with a dimension of women’s reproductive rights.
+Family Planning 2020 is a global partnership committed to empower women and girls by investing in rights-based family planning.
+India, being one of the prime protagonists in this global platform, has extended its efforts to achieve the set goals.
+The focus has been on reducing the unmet needs by improved voluntary family planning services, supplies and information, expanding the basket of choices, increasing the access to contraceptives through community health workers, addressing equity in access to quality services for the poorest and most vulnerable and fostering partnerships with non-government sectors for improved service delivery.
+One of the main objectives of the family planning and welfare program is to spread the knowledge of different planning methods, increase awareness, and to develop among the people an attitude in the favor of the use of contraceptives.
+Since the inception of the program, several knowledge, attitude and practice of family planning studies have been conducted.
+In the late 1960s, scales were developed and utilized in KAP surveys, sample size increased and studies were done concerning the correlation of knowledge, attitude and practice of family planning.
+Knowledge and practice of family planning are strongly related to higher level of education, to labor force participation, to fertility.
+The traditional methods of family planning like rhythm and withdrawal may have health repercussions on both partners.
+The contraceptive prevalence rates in many states are low because of their dependence on government facilities, which are insufficient to meet the needs of the people.
+The private sector can be one of the partners in strengthening the status of contraceptive use in the Indian states.
+The TMA has been implemented in Nicaragua, Vietnam, Eastern Europe and Central Asia to create a sustainable model to make contraceptives available to even the poorest citizens.
+This approach directs people who can pay for the service to the private sector, freeing up public resources for those most in need and increasing family planning access to consistently underserved populations.
+Contraceptive use helps couples and individuals realize their basic right to decide freely and responsibly if, when and how many children to have.
+More recent global partnerships that include efforts to expand contraceptive information, counseling and services include Family Planning 2020, which focuses on 69 of the world’s poorest countries, and Every Woman Every Child, which has a broader strategy of accelerating improvements in the health of all women, children and adolescents by 2030.
+The new development agenda includes two targets relevant for family planning under broader goals on health, gender equality and the empowerment of women and girls.
+Methodology and Data The data used for the model is secondary data, for each Indian State and Union Territory, collected from the National Family Health Survey for 2015-16.
+MODEL 1: Model 1 shows the socio-economic factors affecting the use of modern methods of contraception.
+Using any modern method of Contraception : Our dependent variable is the percentage use of modern methods of contraception in all the states and union territories of India.
+Different methods like female and male sterilization, injectables, condoms, implants, contraceptive pills, IUDs, emergency contraception and so on, are included in the same.
+The average number of children a woman would have by the end of childbearing years if she bore children at the current age-specific fertility rates.
+Age specific fertility rates are calculated for three years before the survey, based on detailed birth histories provided by women.
+Model 2 shows the effectiveness of government family planning services in promoting the use of modern methods of contraception.
+Different methods like female and male sterilization, 13 ECOLLOQUIAL 2019 injectables, condoms, implants, contraceptive pills, IUDs, emergency contraception and so on, are included in the same.
+Proportion of women who are not pregnant and not postpartum amenorrhea, are considered fecund, and want to postpone their next birth for 2 or more years or stop childbearing altogether, but are not using a contraceptive method, or have a mistimed or unwanted current pregnancy, or are postpartum amenorrhea and their last birth in the last two years was mistimed or unwanted.
+The B2 coefficient was -3.61, inferring that for every one unit increase in the median age of marriage, there is a corresponding 3.61 percentage point decrease in the use of modern method of contraception.
+The B3 coefficient for Poverty Rate was -0.54 that is for every one percentage point increase in poverty, the contraceptive use decreases by 0.54 percentage points.
+The B4 coefficient was -0.21, indicating that for every one percentage point increase in Women with 10 or more years of schooling, there is 0.21 percentage point decrease in the use of modern method of contraception.
+The B5 coefficient for Awareness was 0.77 that is for every one percentage point increase in awareness, the contraceptive use increases by 0.77 percentage points.
+The B6 coefficient for Total Fertility Rate was -10.10, that is for every one percentage point increase in TFR, the contraceptive use decreases by 10.10 percentage points.
+The respective t-values for the variables are -1.857, -2.372, -1.219, 2.850 and -2.795 all of which are significant at 95% level of significance except for the “YearsofSchooling” variable.
+The B2 coefficient was -0.022, inferring that for every one percentage point increase in the informed choices, there is a corresponding 0.022 percentage point decrease in the use of modern method of contraception.
+The B3 coefficient for Total Unmet Need was -0.82 that is for every percentage point increase in total unmet needs, the contraceptive use decreases by 0.82 percentage points.
+The B4 coefficient was 0.58, for every percentage point increase in any method of contraception use; there is a 0.58 percentage point increase in the use of modern method of contraception.
+The respective t-values for the variables are -0.3730, -2.447 and 4.468 all of which are significant at 95% level of significance except for the “InformedChoices” variable.
+In this model, we regressed use of modern methods of contraception on female median age of first marriage, poverty rate, percentage of women with 10 or more years of schooling, total fertility rate and percentage of health workers who have talked to female non-users of family planning.
+This model aims to show the effect of economic and sociological factors on this use.
+The median age of first marriage has a negative coefficient and is significant in its effect on the usage of modern methods of contraception.
+This shows the higher the Age by which half of the female respondents have been married at their first marriage; the less likely they are to use any modern methods of contraception.
+This suggests that the lower the poverty rate, the higher will the use of modern methods.
+The factor that shows the percentage of health workers who have ever talked to the female non-users of family planning can also reflect the level of awareness among the users and the efficiency of health workers.
+The coefficient of this variable is positive, with high significance, showing that the higher the proportion of health workers 16 ECOLLOQUIAL 2019 talking to female non-users, the higher is the use of modern methods, which probably means that, the more aware the non-users are and the more efficient the health workers are, more women start using the said methods.
+Total fertility rate, calculating the average number of children a woman would have by the end of childbearing years if she bore children at the current age-specific fertility rates, has a negative coefficient and is highly significant, that is, the lower the rate the higher is the use of modern methods of contraception.
+However, proportion of women with ten or more years of schooling is an insignificant variable with a negative coefficient, probably because the quality of education matters more.
+From this model, we can conclude that economic factors like poverty and hence income level and social factors like total fertility rate, awareness and women’s age at first marriage are very important in determining the use of contraceptives, especially the modern methods.
+In this model, we regressed use of modern methods of contraception on informed choices by women, total unmet needs and use of any method of family planning, including both modern and traditional ways.
+This model aims to show the efficiency of government family planning services on the use of modern methods of contraception.
+The variable, total proportion of women with unmet needs is highly significant in our result, with a negative coefficient, showing that the lower the percentage of women’s unmet needs, the higher the use of modern methods of contraception.
+A positive sign of the coefficient and high statistical significance of the variable reflects that the higher the level of use of any method, the higher will be use of modern methods of contraception.
+However, percentage of women making informed choices is an insignificant variable with a negative coefficient, and this can be taken up for further research.
+From this model, we can conclude, that the factors like use of any method, that is both traditional and modern methods and the total unmet needs of women are very important in influencing the use of modern methods of contraception.
+These reflect the efficacy of government services, because usually most people depend on public sources of contraceptives, and probably there is a need for the government to tie-up with private sources for increasing the supply of contraceptives, as successfully done by some other countries.
+Perhaps, the health workers working in this field, need to be more efficient in making women more aware of different methods, their side effects and what is the solution if they face any, as it will help women make more informed and aware choices.
+One of the main problems we faced while working on this paper was the lack of availability of data for each state.
+Some of the factors such as the median birth interval and exposure to family planning messages couldn’t be included in the model because the detailed information for each state and union territory was not available in the government survey report.
+Some of the other factors that could have been incorporated are the needs and demands for family planning, men’s contraception-related perception and knowledge, and so on.
+Stakeholder perceptions of a total market approach to family planning in Nicaragua.
+Drake JK, Thanh LHT, Suraratdecha C, Thu HPT, Vail JG Stakeholder perceptions of a total market approach to family planning in Viet Nam.
+A Comparative Analysis PriyaBareja priyabareja98@gmail.com Tanya Singh tanyasingh090199@gmail.com Abstract The paper focuses on women who leave their country of origin in search of economic opportunities and work.
+Many migrant women are invisible players in the global economy and often suffer pervasive violations of their human and labor rights.
+Women contributed $300. billion dollars in 2016, which equals half of the world's remittances.
+This indicates that women move as much money as their male counterparts, however at a greater percentage of their income, because they usually earn lower wages than men.
+The feminization of migration is a dynamic and multidimensional phenomenon.
+A major objective of our study is to expose the unprotected status and vulnerability of migrant women.
+Irrespective of the sector or job they are employed in, migrants face much more unfavorable conditions, for long hours and for lower amounts of payment.
+Also, they have no channels to claim their rights in cases of non-payment of wages.
+A migrant woman also faces the additional risks of sexual harassment and, in the case of working in the commercial sex industry, sexual violence and sexually transmitted diseases.
+In the United States of America, victims of trafficking are almost exclusively immigrants, and the majority of them women.
+This paper looks at the effect of migration on the demand and supply mechanism of feminised jobs with the help of a comparative analysis.
+Feminisation, Migration, Personal Remittances paid JEL Classification: J61 1.
+Many analysts talk about the internationalization of households, whereby this domestic labor trade creates transnational networks between different households and families around the world.
+The global care chain is therefore started by a woman in a rich, developed country who is unable to fulfil her ""domestic duties"" after entering the labor force.
+This other woman usually comes from a poorer household and is an international migrant.
+Most of the time, this other woman also has dependent children in her home destination and therefore requests the help of another woman from an even poorer background to replace her in her home work.
+The chain continues 19 ECOLLOQUIAL 2019 gradually and, as we go down, the value attributed to the work decreases and at the end of the chain often becomes unpaid.
+The global care chain is a feature of an increasingly globalized world in which the demand for migrant workers in developed countries continues as well as the supply of migrants from less developed countries, continues to grow.
+The underlying causes of this phenomenon include the entry of women into the workforce in the developed world, which leads to a reduced ability to care for children and the elderly, the lack of family-friendly policies and childcare facilities in the workplace increases the demand for caregivers at home, changes in the structure of the family, the ""care deficit""e., lack of public care in developed countries, increasing longevity and size of the elderly population in developed countries and lastly, increasing prosperity in richer countries.
+The global care chain analysis has opened theoretical perspectives and discursive spaces for the sophisticated understanding of the processes of globalization.
+Based on the methodology of the global network and knowledge of the grounded, textured and embodied nature of trans nationalization of care, the global care chain analysis has contributed significantly to a better understanding of the socio-spatial dimensions of various forms of care worldwide and the identification of transnational policy and policy responses.
+It becomes important, therefore, to place international domestic labor trade in the context of an overall increase in international migration and, in particular, the feminisation of international migration.
+Review of Literature The Global Care Chain approach is primarily concerned with the transfer of care workers and resources from poor to rich countries through the employment of women from poor countries as caregivers in their middle-class homes.
+Critical accounts of global capitalism, including analysis of the global care chain, tend to be based on the distinction between economic and moral, market and society.
+Dependence is scorned for the neoliberal subject and lack of self-care is a mark of social inferiority.
+However, the research of the social dynamics of gender migration is still too narrowly focused on the relationship between South and North and a specific selection of countries.
+They argue for increased interest as care importers in southern and middle-income countries.
+The social care structures in these countries often differ significantly from those in the global North, and the global care chains that emerge in these contexts are therefore also very different.
+However, it is clear that when women and men emigrate to work on a massive scale, leaving their families behind, gender-based social structures in source countries are changed in complex ways.
+In fact, it is now widely acknowledged that the restructuring of care involves processes in which the global outsourcing of care work not only reproduces gendered social orders, but also interacts with other forms of inequality.
+Methodology Research presented in the paper relies heavily on the empirical-statistical methodology, and data used for observation has been drawn from publications of governmental and international organisations.
+According to the author, the research required using macroeconomic data which is essentially secondary in nature.
+The authors have taken five major centres that attract immigrants due to their economic size.
+These centres are the United States, Russia, India, Germany and Saudi Arabia.
+We observed the trends of two variables Personal Remittances Paid, in million USD and Female Migrants, as a share of Total Migration for the time period mentioned above.
+Though the variables do not produce a precise image of the situation due to lack of information on important parameters such as remittances sent by women, however, the general pattern that emerges is instructive and informative.
+Results The results indicate that as more number of women migrate as a share of total migration, the remittances paid to the country of origin show a decline in the growth rate.
+This trend hints towards the phenomenon that women tend to get concentrated in low paying jobs mainly domestic work.
+However, this model doesn’t explain the trends noticed in the case of India and Saudi Arabia.
+The authors argue that due to the fact that female labor force participation rate is low in both India and Saudi Arabia, there is less demand for domestic workers, and thus less inflow of women migrants for low-paying jobs into the country.
+The other three nations, however, show high rates of female labor force participation, and thus women who have a job require another woman to take care of her children, creating demand for domestic work.
+The United States of America The data exhibits a trend of a decrease in remittances growth along with increased migration of women.
+The red line indicates the percentage of women, as a proportion of total migration that enter the USA annually.
+Female Migration and Remittances Growth for the USA Source: UN DESA Germany The data exhibits a trend of a decrease in remittances growth along with increased migration of women.
+The red line indicates the percentage of women, as a proportion of total migration that enter Germany annually.
+The red line indicates the percentage of women, as a proportion of total migration that enter India annually.
+Female Migration and Remittances Growth for Saudi Arabia Source: UN DESA The data doesn't exhibit any particular pattern that could explain the relationship between the two variables.
+The red line indicates the percentage of women, as a proportion of total migration that enter Saudi Arabia annually.
+Russia The data exhibits a trend of a decrease in remittances growth along with increased migration of women.
+The red line indicates the percentage of women, as a proportion of total migration that enter Russia annually.
+Female Migration and Remittances Growth for the Russian Federation Source: UN DESA 24 ECOLLOQUIAL 2019 5.
+Limitations Since the country-level data on remittances, as part of the balance of payments, are not broken down by gender, it is difficult to estimate the impact of the increasing feminisation of international migration on the amount of remittances received by developing countries.
+Also, the gender of migrants influences the underlying motives for migration and remittance and the frequency and quantity of remittances.
+The impact of remittances on economic development can also be significantly affected by the gender of migrants.
+Research, however, is limited in terms of gender and remittance development outcomes.
+It is therefore difficult to predict the possible influence on remittances of the feminization of international migration flows and their correlation with economic growth and poverty reduction.
+Inferences Today, women represent approximately half of the world's total migrant population.
+As independent workers, they move more and more to more developed countries in search of a better life for themselves and their families.
+They tend to find work in traditionally femaledominated occupations such as domestic work, reproducing patterns of gender inequality.
+The connections between domestic work and the international migration of women are well established.
+The growing demand for domestic services by households is considered to be one of the main triggers for the feminization of labor migration in recent decades.
+Migrant domestic workers provide essential services to the countries in which they travel, contributing to the richness of ageing societies and the sustainability of the welfare and employment systems of these countries.
+However, as with other migrant workers, domestic migrant workers can face additional vulnerabilities, leading to human and labor rights violations.
+Their vulnerabilities are often linked to precarious recruitment processes, social and cultural isolation due to language and cultural differences, lack of advance information and accurate information on employment conditions, lack of coverage and enforcement of labor law.
+Domestic workers often work too long hours, with little pay and almost no access to social protection.
+Migrant domestic workers hidden in private households are vulnerable to a number of human rights violations.
+Many are vulnerable to sexual and gender-based violence and cannot freely meet or practice their religion with friends and associates.
+Migrant domestic workers are disproportionately exposed to abuse compared to nationals in the same sector and face specific disadvantages because they are non-nationals, including dependence on recruitment agencies, lack of reliable information on migration procedures, limited freedom to change employers, substitution of contracts, retention of travel and identity documents and insufficient housing.
+When they are in an irregular migration status, their vulnerability is exacerbated.
+Conclusion Gender mainly affects remittances due to the conditions in which migrants find themselves in host labor markets and the strength of their family relationships.
+Although studies on the feminisation of migrants and remittances are inconclusive and depend on the examined corridor , women's migration at global level appears to be positively correlated with the remittances received by developing countries.
+The remittances of women migrants are more resilient and reliable than the remittances of men.
+The phenomenon of the global care chain also has a potential destabilising effect on the family.
+Having one parent, or in many cases both, living abroad can have a detrimental effect on the well-being of children left behind, although it has been highlighted that remittance gains have helped improve the education of children left behind.
+Potential positive effects of remittances from women migrants on poverty reduction in home countries pose challenges to policymakers.
+More relevant and detailed gender-based information would help them develop policies to reduce the employment, wage and remittance costs of women migrants.
+Improved working conditions for migrant women (longterm contracts, better-paid jobs, better matching jobs) and lower bank charges would allow them to remit more money.
+Emotions, gender, and intergenerational relations in Filipino transnational families.
+Men in a woman’s job, male domestic workers, international migration and the globalization of care.
+A South Asian Perspective Shipra Karan shiprakaran555@gmail.com Nitika Gupta guptanitika100@gmail.com Abstract This paper explores the interlinkages between two different international laws and then examines their implication on sustainable growth in South Asia, with special emphasis on India.
+The first law is the Paris Agreement on Climate Change which requires signatories to incorporate into their national agenda and policies the goal of abatement of carbon emissions.
+The paper seeks to examine the effect that reduction in carbon emission has on economic growth.
+The second international issue that we are dealing with is that of climate migrants.
+Climate migrants haven’t been granted the status of refugee due to certain ambiguities regarding the nature of this form of migration.
+Yet, climate migrants continue to cross international borders to seek protection against climate disasters.
+There is a great chance that the Refugee Convention may be modified in the coming years to grant refugee status to climate migrants as the doom is impending.
+An attempt has been made to discuss the implications of climate migration on host countries in South Asia.
+This paper envisages a scenario in which the interactions between these two international commitments can trap a country within a trilemma between economic growth, sustainable growth through environment protection and inclusive growth through human rights protection.
+Growth Trilemma, Climate migrants, Carbon emission JEL Classifications: C32, K33, O33, Q01 1.
+Currently, 20 million people are migrating from Bangladesh to India annually owing to flooding of low lying regions due to global warming.
+If climate migrants are granted refugee status then India will be legally responsible for the integration of these migrants into India.These refugees will expand India’s population.
+In the last 40 years, Bangladeshi refugees have expanded India’s population by 12 to 17 million.
+In the past, refugees were welcome in most countries because output was limited by labour.
+But the situation is different now as output is being limited by land and capital in developing countries.
+According to the Solow Model, the aggregate output grows at a rate equal to the rate of population growth, in the absence of technological progress.
+CO2 emissions have been found to granger cause GDP, so an increase in aggregate output due to increase in population will raise the level of carbon emission, thus posing an impediment in the path to fulfilling the commitment towards Paris agreement and environment protection.
+It has been found that the relationship between population size and total carbon dioxide emissions has remained very stable through time, and this holds for developed countries and less-developed countries.
+Simply, population size is a major contributor to total carbon dioxide emissions.
+Also the role of energy efficiency in reducing net carbon emissions is called into question because carbon intensity or energy efficiency is only one of the contributors to net carbon emission.
+Population and GDP can put a limit to the amount of restraint you can put on CO2 emission by energy efficiency.
+This brings us back to where we started that the increase in population due to inflow of climate refugees can put a break on the reduction of carbon emission.
+We have observed that these international commitments can come in the way of each other and can have a conflicting nature.
+Countries will have to tread carefully when trying to balance these goals lest they find themselves in this trilemma.
+The paper also suggests ways out of the trilemma which involve taking gradual steps towards reducing carbon emission in ways that do not hamper the growth of the developing world while also allowing for better management of the refugee crisis.
+The first section deals with climate migration in South Asia and the implication of increase in population of India in particular.
+The second section discusses the CO2 emission abatement and its implication on economic growth.
+The third section brings together the findings from the first two sections and elucidates on the trilemma.
+The final section gives policy recommendations and suggests ways out of the trilemma.
+Literature Review There is no literature available on global growth trilemma, however separate aspects of the trilemma have been researched and conclusions have been drawn.
+To begin with, UC Jha and Architesh Panda point out the rise in soil degradation and deforestation leading to environmental refugees from villages of Bangladesh to resource scarce cities of India.
+This coupled with ongoing debate on the law of climate refugees by United Nations have widespread implications on economic growth as well as environmental protection in India.
+The rise in unskilled population due to migration from Bangladesh to India would have adverse impact on the economic growth in India as noted by implications of rising population on GDP growth in Harrod-Domar model, Solow model and the new growth theory of conditional divergence.
+Robert Chambers points out the distributional effects and rise in social marginal cost of refugee influx on the host countries.
+Jorgenson, Andrew K., and Brett Clark conclude that the relationship between population size and total carbon dioxide emissions has remained very stable through time, and this holds for developed countries and less-developed countries.
+While they found no evidence of decoupling or intensification of this population/environment relationship, they emphasise that population size continues to have a large effect on the scale of anthropogenic carbon dioxide emissions and thus climate change.
+Simply, population size is a major contributor to total 29 ECOLLOQUIAL 2019 carbon dioxide emissions, and according to their results it has been consistently so for close to 50 years.
+The Paris Agreement recognizes the rise in Carbon emissions of the world and mandates its participants to maintain a prescribed low level of emissions every year.
+Kochher point towards the perspective of the developed countries on carbon emission reduction in developing countries.
+The OECD and some other developed countries want the developing countries to reduce their carbon emissions to ensure carbon equity in the long run.
+On the other hand, they state that the energy demand of India will rise with increasing industrialisation to meet the demands of growing population.
+Any GHG abatement in India would come at a high cost of fall in economic growth, as it requires a shift from cheap fossil fuels to costlier non-carbon energy.
+Tiwari, Aviral Kumar show that that environmental degradation granger-causes economic growth in the long run.
+Mark R Greer shows that the excise tax on fossil fuels aimed at environmental protection would result in fall in economic growth.
+Mark R Greer and Brock, William A and M Scott Taylor provide ways out of the trilemma.
+They use technological progress as a means of ensuring high GDP growth along with environment protection.
+Mark in addition emphasises on the need to gradually phase out fossil fuels and create a demand for environmental friendly technology.
+This demand induced technological progress would help to develop a comparative advantage in that technology and result in better terms of trade; thus spurring higher economic growth.
+Since the time series data for several variables overlaps only over few years, carbon dioxide emissions are forecasted for four years by fitting a linear trend.
+The theories have been proven using the following methodsExisting research Correlation among variables of interest Econometric analysis using linear regression models Granger Causality test among variables of interest Throughout the paper, it has been assumed that the CLRM (Classical Linear Regression Models) are satisfied.
+While proving relation between two variables, all other economic factors are held constant.
+But over the years new challenges have presented themselves in front of the global community and the most germane one to this discussion has been climate change and global warming.
+Global warming is a gradual rise in the average temperature across the globe.
+This rise in temperature can primarily be attributed to the excessive emission of greenhouse gases, especially CO2 and the depletion of the ozone layer due to CFCs.
+Global warming is causing ice caps to melt resulting in a rise in sea level.
+Although, this process is taking place at a glacial pace, scientists and environmentalists over the world have confirmed that the threat is imminent.
+The rise in sea level will cause islands to submerge and flooding of low lying areas and coastal regions.
+Islands like Maldives, Kiribati and Tuvalu are expected to submerge fully in the next 30 to 50 years.
+Moreover, global warming is resulting in erratic monsoon leading to crop failure and a loss of arable land.
+This threat to life and livelihood posed by climate change is leading to migration.
+People are moving to areas that they find safer and areas where they can find decent work.
+What needs to be noted, however, is that this kind of migration is not a one of kind case but this may be something bigger and may have a pattern.
+In such a case, it becomes important that the global community recognises migration driven by climate change as a form of persecution.
+Although the climate migrants haven’t been granted a refugee status yet, there is a high chance that this might change owing to the amount of attention that this issue has attracted in the last decade and world leaders have begun to deliberate on the question of whether or not climate migrants should be granted refugee status.
+In the event, that this happens and the Refugee convention is modified, countries will become obliged to grant asylum to climate migrants and integrate them into their population.
+Even in the absence of this provision large scale migration continues to happen.
+Displacement in South Asia As mentioned earlier, India enjoys a dominant position in the geopolitically in South Asia.
+Even when it comes to climate change driven relocation and displacement, India’s position continues to be important.
+Bangladesh has been experienced coastal flooding in the past few decades owing to climate change.
+Furthermore, the amount of arable land in Bangladesh has shrunk from 73% of total land in 1988 to around 59% in 2015.
+The use of the linear trend model to forecast the amount of arable land shows that by 2050 the amount of arable land in Bangladesh will be 44.15% of total land.
+When the amount of arable land in Bangladesh is regressed on time’t’ and CO2 emissions from 1972 to 2015, the slope coefficients have a negative sign which is in accordance with our a priori expectation.
+As CO2 emission increases by 1 unit, the amount of arable land decreases by 0.000138 percentage points.
+Every year the amount of arable land decreases by 0.12 1 To forecast the percentage of arable land, carbon dioxide emissions have been forecasted by fitting a linear trend model to the available data.
+The loss of arable land coupled with flooding has and will continue to drive Bangladeshis into India in search of safety and livelihood.
+It has been estimated that currently 20 million people are migrating from Bangladesh to India annually.
+One of the studies by Homer Dixon has concluded that Bangladeshi migrants have expanded India’s population by 12 to 17 million in the past 40 years due to environmental reasons.
+Implications As the size of population grows, both the number of consumers and labour rises.
+It postulates that total output grows at a rate that is equal to the population growth rate.
+At the same time, a higher population growth rate will tend to lower per capita output as the existing capital stock will be spread more thinly over a larger population.
+A look at these models helps to understand the basic nature of population growth rate.
+With increase in the number of climate migrants moving to India from across the border, the size of population will rise as well as the population growth rate will witness an upward trend.
+Let us delve a little deeper into how this form of population growth will impact economic growth in India.
+India is already burdened with a large population and the prodigious size of its population has proved to be a major bottleneck in its path to development.
+In earlier times, labour was the limiting factor in growth of output but in the 21st century, land is the limiting factor.
+An increase in the amount of labour beyond a point will add very little to agricultural production.
+Looking at the profile of these migrants, one can conclude that this cohort will largely consist of unskilled labour or farm labour.
+With agricultural production close to saturation, the unskilled labour will be looking at the informal services sector for employment.
+Industrial expansion has been slow in India and may not be able to keep pace with the rising population.
+One may argue that the low physical capital relative to unskilled labour may increase the rate of return to physical capital thus increasing the pace of output growth, making India grow faster than before.
+But the presence of unskilled labour lowers the ratio of human capital to unskilled labour which brings down the rate of return to physical capital.
+On running Granger causality tests, we find that for a time series data of India, population granger causes GDP as well as CO2.
+This result is quite insightful as it brings to light another dimension of population growth rate:its effect on carbon emissions and the environment.
+If population granger causes CO2, then past values of population must contain some information that helps predict values of CO2.
+If population is expected to rise, then CO2 32 ECOLLOQUIAL 2019 emissions will also rise.
+The cross sectional correlation between population and carbon emission for the year 2014 is 0. which shows that larger values of population can be associated with larger values of carbon emission.
+The time series correlation between population and carbon emission for India is 0.9.
+These results help to confirm the hypothesis that an increase in population due to migration can lead to an increase in CO2 emission.
+A more welcome effect of increasing population is its effect on rate of technical progress.
+A large population can drive innovation and technical advancement as it has a larger number of innovators and inventors.
+If the total population is P and the proportion of the population engaged in the production of ideas in the economy, then uP is the number of people working in the knowledge and research sector.
+The production of ideas is an increasing faction of uP, then as uP rises, the stock of ideas and the the production of knowledge will also rise.
+However, this rosy picture needs to be viewed with a lens of skepticism and a caveat needs to be established.
+If the level of human capital in the economy is low, then technical progress may not be so easily achieved.
+South Asian countrietries don’t have excellent human capital indicators.
+Carbon emissions and the Paris Climate Agreement The Paris Agreement is an agreement within the United Nations Framework Convention on Climate Change , dealing with greenhouse-gas-emissions mitigation, adaptation, and finance, starting in the year 2020.
+Implications GDP growth and sustainable growth at times appear to be at loggerheads with each other.
+The unwillingness on part of nations to become party to agreements that require them to cut down their carbon emission stems from the fear that this will dampen their rate of economic growth.
+Most nations place a higher value on current consumption over the perils of environmental degradation that seem distant.
+CO2 emissions granger cause GDP and GDP granger causes CO2 33 ECOLLOQUIAL 2019 emissions.
+Moreover, the time series correlation between CO2 emission and GDP for India is 0.9.
+To make the analysis more pertinent to the 21st century, we look at the time series correlation between CO2 emission and ease of doing business rank for India from 2008 onwards.
+There is a negative correlation between them indicating that a reduction in CO2 emission brought about by compliance to stringent environmental regulations on the part of businesses negatively impacts the ease of doing business rank,e, it is associated with with a lower rank on the ease of doing business index.
+The rate of investment in a country is affected by its rank on the ease of doing business index.
+Investment is a function of the expected future profitability of the investment or marginal efficiency of investment.
+The Solow model postulates that the rate of growth of per capita income is equal to the rate of technical progress in production which can be labelled as labour augmenting technical progress as it enhances the efficiency of labour.
+The Green Solow model, on the other hand talks about growth in per capita income accompanied by rising environmental quality.
+Here, exogenous technical progress is of two types, labour augmenting and pollution abating.
+Technological progress in goods production is necessary to generate per capita income growth.
+Hence, if countries have to continue to grow while simultaneously meeting their CO2 abatement commitments, then technical progress in pollution abatement needs to take place.
+This brings us to the conclusion that if a part of current investment is diverted towards research in pollution abatement, then the future profitability of current investment will rise due to the economy following a balanced growth path.
+This diversion of investment will require a certain push from the state.
+State funded projects may be required as well if private investment falls short.
+However, if such technical progress does not take place, then the only way in which countries can meet the requirements of the Paris Agreement will be by cutting back on production resulting in lower GDP growth rate in the future.
+This will lead to a fall in the current rate of investment which will further dampen growth rate.
+Not to mention that even in the case of technical progress in pollution abatement, there is a limit to the amount of reduction in net CO2 emissions that can be brought about by energy efficiency alone.
+It is an aggregate figure that includes different parameters, which define the ease of doing business in a country.
+A high ease of doing business ranking means the regulatory environment is more conducive to the starting and operation of a local firm.
+This implies that output increases at a decreasing rate if a<1 whereas output increases at an increasing rate when a>1. “a” is the marginal efficiency of energy.
+In the former case , energy is being used inefficiently in the production of output or in other words, each additional unit of energy is contributing lesser and lesser to output generation whereas in the latter case, each additional unit is contributing more and more output generation.
+Now suppose A is an exogenous variable rather than a constant and increases at a constant rate linearly over the time.
+Let us assume that A takes values 1,2 and so on so that the rate of increase is constante. overtime.
+In particular, we are referring to carbon abating technological progress which ensures that the same amount of energy produces a higher level of output.
+These results are in tandem with the conclusions of the Green Solow Model as mentioned earlier.
+Hence, such technological progress will enable countries to honour their Paris Agreement commitments without putting a damper on their growth prospects.
+The Growth Trilemma Now we shall put together all the pieces and relationships discussed in the earlier sections to see how the interlinkages and interactions between all these factors result in a situation where different SDGs can come in the way of each other, resulting in a three way dilemma, or a trilemma between economic growth, inclusive growth and sustainable growth.
+Acceptance of climate refugees on humanitarian grounds will increase the population of the country which will results in increased carbon emission as proved earlier in section 4.2.
+As shown in , population also acts as limiting factor to the amount of restraint you can put on CO2 emission by energy efficiency.
+So inclusive growth along with fast pace of economic growth can come in the way of eco friendly growth.
+The slowdown of output growth will put the country behind on other development indicators as well as in terms of the demographic cycle resulting in a slump.
+GDP growth and eco friendly growth will require us to put a cap on population growth rate and will come in the way of extending help to climate migrants.
+Thus, it becomes difficult to simultaneously achieve all three goals in the absence of some external stimulus or policy intervention.
+Policy Recommendations and Conclusion To prevent the economy from spiralling into a slum due to carbon emission restrictions, it becomes imperative to phase out fossil fuels from the production process slowly and steadily starting with replacement of thermal power to cleaner sources of power and energy.
+An analogous case would be the phasing out of old vehicles from the roads of Delhi to reduce air pollution.Instead of banning these vehicles from roads right away, these vehicles were taken off the roads in several cycles.
+This process of phasing out of fossil fuels needs to be 37 ECOLLOQUIAL 2019 accompanied by gradual invention and innovation in the clean energy sector.
+In South Asia, one does not see this kind of investment emerging primarily from the private sector.
+The second is to make the usage of clean energy profitable for the private sector by way of subsidies, tax exemptions, etc or to attract foreign direct investment in this sector.
+All three options seem to put a strain on the government expenditure and the fiscal deficit.
+However, the second option comes with an added benefit of home grown technical progress and faster technical progress due to competition in the private sector.
+An important point to be noted is that if the economy is able to maintain its growth momentum and is able to avoid any set back while trying to achieve multiple sustainable development goals, then as the the output will continue to grow, the emission to output ratio will decline as is postulated by the Environmental Kuznets Ratio.
+The EKC holds for US data.Hence, over time CO2 abatement will become easier.
+On the question of climate migrants, it might help to grant them the refugee status.
+Legal and illegal cross border migration continues to take place in status quo.
+Granting refugee status to these migrants will ensure that the responsibility of their rehabilitation is shared collectively by the whole world and not just by the neighbouring countries.
+This will fix the problem of disproportionate burden sharing and also keep in check the multiple problems that this kind of population explosion poses for the neighbouring countries.
+Additionally, this will help the global community to provide better aid to these migrants and work towards their welfare.
+Investment in human capital will also combat some of the problems mentioned earlier.
+It postulates that as income rises, CO2 emission at first rises and then reaches a peak post which it Â falls.
+Environmental laws integrated with social and economic issues are the minimum requirements of sustainable development goals which may act as a norm to make judiciary decisions.
+In the past, as the evidence suggests the international judiciary system has made their decisions keeping in mind the sustainability issues.
+The paper further discusses how to integrate the goals to regional and local contexts by learning from the practices of our neighboring country.
+Introduction International laws are the treaties, agreements and a set of rules between countries that govern how nations interact with other nations, citizens of other nations and businesses of other nations.
+The lawsaddress issues like human rights, treatment of refugees, prosecution of international crimes, arms agreements and control, how states can claim new territories, regulating common spaces like water and outer space, trade between states, preventing war, preserving the environment etc.
+Sustainable Growth refers to economic growth which satisfies the needs of present generation as well as the future generation.
+There are various elements of growth; these include natural 40 ECOLLOQUIAL 2019 resources, physical infrastructure, population, human resource, technology and laws.
+The Millennium Development goals 2015 and Sustainable Development Goals have shown concern for sustainable development of the nations.
+Sustainable growth has received a lot of attention in international treaties and conventions.
+Instances of such goals can be found in various non-binding legal agreements.
+Environmental laws integrated with social and economic issues are the minimum requirement of sustainable goals which might act as a norm to make judiciary decisions.
+Globally the more successful alignment to development has been through economic integration efforts in various economies.
+Currently the European Union stands one best example on how development efforts can be aligned through integration of various frameworks and treaties that govern the operational mechanism of member countries.
+If we want to see it closer to the region, the South Asian Association for Regional Cooperation in South Asia, BIMSTEC, and ASEAN would be good examples.
+These formal economically integrated units have helped bolster trade, development and cooperation between countries – the forums like SAARC have explicitly highlighted the cooperation and agreement around achievement of Sustainable Development Goals.
+This has worked out well despite absence of any forms of international law governing these agreements.
+There have also been international summits and declaration on global platforms that have explicitly outlined various points that mandates the compliance of sustainable development goals.
+One such treaty that has been universally accepted is the Rio Summit/Declaration.
+Nations should share knowledge and technologies to achieve the goal of sustainability.
+Sustainable development goals are the 17 global goals set by the United Nations General assembly in the year 2015.
+The SDG’s include social as well as economic development issues like poverty, hunger, education, global warming, water, sanitation, environment and social justice.
+Given the definition above, we can conclude that SDGs are not necessarily governed by International law but is rather a guiding document to track development goals that have been globally agreed to and facilitated by the United Nations.
+There are no legal repercussions for not complying or achieving the SDG targets within the time-frame.
+Since there is correlation of development agenda of one country to the other, it is hard to justify international laws governing the achievement and compliance of the same.
+In fact, more practical approach to govern the progress of sustainable development goals is through international treaties and agreements.
+This can be binding upon each country but to achieve this, international law may not be the way out.
+Achievements and Learning Millennium Development Goals can give us insights on how goals set at international level can be an impetus for the countries growth and development.
+The goals were inter-dependent and emphasized the improvement in health.
+The goals were to eradicate poverty, hunger, diseases, illiteracy, women discrimination and environmental degradation to be achieved till 2015 using 1990 as the benchmark.
+Achievements Different countries had different approach towards the goals.
+The progress of these goals also varied across different nations and regions.
+Eradicate extreme poverty and hunger In 2015, 14 percent of the population living in developing world lived on less than $1.25 a day.
+The primary school net enrolment rate in the developing regions had reached 91 per cent in 2015, up from 83 per cent in 2000.
+However, it was behind in meeting the global net secondary enrollment rate which stood at 59% against the global rate 64% in 2014.
+Promote gender equality and empower women Girls had more inclusion in education in 2015 than in 1990.
+There has been a decline in number of deaths per children under five from 12. million in 1990 to almost 6 million in 2015 globally.
+Nepal, however, achieved all the targets of the MDGs which included reducing infant mortality rate, under five mortality rate and increasing immunization against measles.
+Improve Maternal Health Maternity Mortality ratio declined by 45 percent from 1990 to 2015 and Southern Asia witnessed the drop in this ratio by 64 percent.
+Combat HIV/AIDS, malaria, and other diseases New HIV infections fell from 3. million cases to 2. million globally between 2000 and 2013.
+The people living with HIV who received antiretroviral therapy increased significantly from 80,000 people to 13. million people as measured in June 2014.
+There was 37 percent fall in global malaria incidence rate and 58 percent in the mortality rate.
+Similarly, the tuberculosis mortality rate fell by 45 percent between the years 1990 to 2013.
+The official development assistance from developed countries amounted to $135.2 billion, an increase of 66 percent between 2000 and 2014. 95 percent of the world’s population was covered by a mobile-cellular signal.
+The reach of internet increase from 6 percent of world’s population in 2000 to 43 percent in 2014.
+Important Learning from Millennium Development Goals South Asian countries were able to meet many targets of the MDGs.
+But they failed to realize the need to start the implementation at local level.
+Still a lot of people were deprived of good schools, hospitals, electricity, safe drinking water and health care.
+Among the differently abled people, only 30% of them have their income enough for self-support.
+Some natural resources are limited but the regional consumption has been of more than half of the natural resources which leads to scarcity.
+If natural resources are not managed it might give rise to environmental damage and directly impact the economies of the region.
+According to sources of UN, after 2005 about 60 percent of global death, 80 percent of people are affected and 40 percent of the economics damage due to natural disaster.
+There should be a way to reduce the damage done by the disaster because one major natural calamity will hamper the whole economy of a region.
+Firstly, talking about the framework the countries in South Asia have adopted to implement the SDGs learning from the mistakes earlier.
+The Ministry of Planning, Development and Reforms in Pakistan sets goals and plans.
+In India, National Institution for Transforming India took over the Planning Commission in 2015.
+Sri Lanka has set up the Ministry of Sustainable Development and Wildlife.
+Secondly, there is a need to implement certain changes and bring reforms in policies and institutional framework.
+To enable faster sustainable growth, there is a need to bring changes in institutions and policies.
+There is a need to have local level organizations and more degree of decentralization.
+All stakeholders need to be included in all phases of SDGs implementation, monitoring and review.
+This may call for the participation of civil authorities as well as the private sector.
+While we look at the goal -Decent work and Economic Growth in South Asian Countries, India and Bangladesh has been growing at faster rates.
+Nepal growth was stagnant in the years 1980 to 2015 while Pakistan had a declining rate.
+Despite the fact that South Asia has emerged from the global financial crisis as the fastest growing region in Asia, the empirical studies show that the current growth is not enough to accelerate the speed of poverty and hunger reduction by 2030.
+Dismissively, south Asian countries have failed to create decent jobs for the people as four out of top five countries in the world with very high proportion of informal employment are from south Asia.
+Moreover, the service sector with 57% share in GDP in 2013 has not created enough jobs to absorb the surplus workforce from the agricultural sector.
+Industrial sector needs a boost as it has the potential to create jobs.
+The goal 9 with the target to enhance the share of industry in employment and GDP needs to be addressed timely.
+UNESCAP calculation 2016 Efforts are being taken to enhance the manufacturing sector.
+In India, the Make in India Campaign seeks to improve the manufacturing sector.
+Moreover, there is need to foster trade and improve transportation to enhance the regional value chains b) Universal Access to education and health As mentioned earlier the expenditure in health and education sector was low in the south Asian countries.
+India has skill India Program and established the Ministry of Skill Development and Entrepreneurship.
+Conditional Cash Transfers with criteria to enroll in education has helped Afghanistan, Pakistan and Bangladesh to promote schooling.
+The SDG 3 and SDG 4 concern with good health and well-being, and quality education respectively.
+Investing in these sectors can provide opportunity to use the potential of 51 ECOLLOQUIAL 2019 youth population.
+The total consumption could increase by nearly $30 trillion by 2050 in South Asia if youth are provided with opportunities for human resource development . c) Financial Inclusion The south Asian nations have understood the need of providing social security to the people to eradicate poverty.
+Social protection would mean ensuring basic need and social inclusion to the households.
+Use of bank-accounts to transfer payments increase financial inclusion, transparency and efficiency.
+National Financial Inclusion Strategy in Pakistan and Pradhan Mantri Jan-DhanYojana in India were launched to foster financial inclusion. d) Energy, sustainable communities, sustainable consumption and production SDG 7 relates to affordable and clean energy.
+It becomes necessary for nations to increase the use of renewable sources of energy.
+This has helped Bhutan to meet not only its domestic demand but also export clean energy to neighboring nations.
+These developments can help South Asian countries self-reliant for energy.
+There is need to increase the use of public transport, energy saving equipments and waste management.
+Many industries in south Asia has started using cost cutting techniques by recycling waste and enhanced energy efficiency which saves the cost of raw materials and energy.
+Institutional Framework for implementation of GNH a) Central Policy and Planning Support Institutions Bhutan’s Planning Commission was established in 1971 and was reconstituted as the GNH Commission in January 2008.
+It ensures that the GNH concept is fully considered in the policymaking, planning and implementation processes.
+The Centre for Bhutan Studies established in 1999, is engaged in GNH surveys and development of GNH index and tools to screen policies and projects against the GNH concept. b) Sectoral Development Agencies Policy, plans and programs for the development of the sector are developed and implemented by government ministries and their different agencies.
+It includes agencies such as the Ministry of Agriculture and Forestry, Foreign Affairs, Finance, Information and Communication, etc. c) Development Policy-making and Planning Framework ● The Royal Government subjects all national and sectoral policies to the GNH policy, which currently covers 23 determinants in nine GNH areas, including living standards, education, health, time consumption, good governance, ecological diversity and resilience, psychological well-being, community vitality and cultural diversity and resilience.
+They have progressively implanted sustainable development concepts and approaches.
+Green economy fits very well within the framework of the GNH development philosophy which invades into all 53 ECOLLOQUIAL 2019 development policies and plans at various levels.
+It also provides an alternative social mobilization mechanism to pursue sustainable development on the ground.
+The private sector has the immense potential to tackle sustainable development challenges through innovation and the collaboration of ideas and resources.
+Therefore, various ways of public-private partnership are being explored and sustainable development is being pursued.
+Sustainable income means the amount of income that can be consumed in a year by an economy without compromising the consumption need in the next period.
+Moreover, it subtracts the cost like crime, pollution, loss of leisure, debt and environmental damage.
+GPI can provide the much needed information to the nations to assess the activities they carry out in terms of associated costs involved and know where they stand in terms of sustainable growth Conclusion International Laws, Treaties and Conventions have taken into consideration the importance of sustainable growth as well as development of the countries.
+Sustainable growth would mean the use of the existing outputs to increase the real output.
+The elements of the growth include technology, capital, and human resource, natural resources as well as law.
+The issue of sustainability has been raised a lot of times in the past but it was first formally addressed in Rio Summit.
+Millennium development goals set by United Nations show us how targets set at international level can help individual nations to move towards sustainability.
+South Asia was able to achieve the targets of eradicating extreme poverty and universal primary education.
+These two have significance in growth of nations in terms of job creation, skill development and human resource development.
+However, the countries were not able to achieve all targets due to limitation of resources and good institutional and policy framework.
+For the future growth it is necessary for the countries to regionally cooperate and understand the need to save natural resources and preserve climate to ensure sustainable growth.
+Sustainable Development Goals very well accommodate the issues of economic growth, job creation, sustainable production and consumption, industrialization and justice.
+The South Asian 55 ECOLLOQUIAL 2019 countries have brought changes in its institutions with greater degree of decentralization and review and monitoring system.
+All the south Asian countries can learn from the Bhutanese model of growth and development.
+Learning from the Bhutanese model can help in enhancing the overall welfare of the economies by meeting the needs of current generation without sacrificing the needs of future generation.
+Gross Happiness Index used by Bhutan is perfectly aligned with the sustainable development goals.
+Moreover, Bhutan has a good network of policy implementation and it has very well decentralized the authority to the local bodies.
+Along with GNH, Genuine Progress Indicator can help to access the sustainability of economies.
+Finally, international laws, agendas and treaties, though not binding in nature, have effects on the growth of the nations.
+Nations have adopted international policies targeted for sustainable growth of the nations by carefully altering them to suit their needs and existing resources.
+Millennium Development Goals Final Country report; Social Statistics Division, Central Statistics Office Ministry of Statistics and Programme Implementation, Government of India 5.
+Nepal and Millennium Development Goals final status report; National Planning Commission 2016, Government of Nepal 6.
+Pakistan Millennium Development Goals Report 2013; Planning Commission, Government of Pakistan 9.
+Bangladesh MDGS progress Report 2015; General Economics Division, Bangladesh Planning Commission, Government of the People’s Republic of Bangladesh 10.
+Achieving the Sustainable Development Goals in South Asia, Key Policy Priorities and Implementation Challenges 2018 11.
+Limitations of the Millennium Development Goals: A Literature Review 14.
+Sustainable Development Goals, Regional Road Map for implementing the 2030 Agenda for sustainable development in Asia and the Pacific 15. www.sustainable-environment.org.uk: Rio Declaration 16.
+The Sustainable Development Goals and International Environment Law: Normative Value and Challenges for Implementation 18.
+Shivani Pandey iishivani@hotmail.com Abstract With very high rates of unemployment and high growth rates, India is currently experiencing jobless growth.
+In such a scenario, it becomes crucial to analyse India’s labour market structure to understand the impediments to job creation in the manufacturing sector.
+Rigid labour laws, a characteristic of the Indian labour market are often held responsible for poor rates of job creation.
+This paper therefore tries to address the fundamental question of the implications of a rigid labour market on employment generation in the manufacturing sector by looking at both empirical evidence and economic theory.
+Towards the end, recent reforms in the Indian labour market are also briefly mentioned with their subsequent consequences.
+J21, J28, J40, J88 Keywords: Labour Market Rigidity, Employment, Labour Market Flexibility Introduction and Background India’s industrial structure is rather unique.
+In 2000-2001 about 42% 4 of all manufacturing employment in India was in firms with 6-9 workers.
+This is particularly problematic because of the large productivity gap between the two types of firms.
+India has not been successful in the expansion of manufacturing jobs of the kind that has transformed the economies of China and Vietnam.
+There is widespread agreement on the problems of inadequate finance for small and medium firms and of infrastructural deficiency in India.
+For instance, continental European countries have very strict laws against firing employees and hiring temporary workers.
+As a result, employers in those countries have less flexibility to adjust their workforces in the face of a 4 A rise from 40% in 1984-1985.
+A direct effect of this is a small or rather depressed increase in unemployment rates.
+Although this might mitigate an increase in the unemployment rate during bad times, firms that anticipate the firing restriction might hesitate to hire in the first place, even in good times.
+A demographic dividend of this magnitude has the potential to lift hundreds of millions of people out of poverty and raise living standards.
+Therefore, it becomes increasingly crucial to look at all factors impeding the growth of the job-creating or the manufacturing sector.
+In this paper, I will first present empirical evidence on the negligible impact of labour market rigidity on employment in industry.
+Next, I describe the theoretical justification for a rigid labour market.
+Then, I outline reforms in the Indian labour market and their consequences.
+Empirical Evidence on Labour Market Rigidity and Employment Some countries have strong employment protection laws while some don’t.
+The Organisation of Economic Cooperation and Development releases an “Overall Strictness of Employment Protection” index 5.
+The index takes values between 0. and 4. indicating the most flexible country and the most rigid country respectively.
+Countries with an index value less than that were considered flexible while those with an index value above that were considered rigid with respect to their labour markets.
+Organization for Economic Cooperation and Development , World Bank Note: All values presented are 5 year averages between 2008 and 2012 No discernible pattern between labour market rigidity and employment in the manufacturing sector can be figured out from the diagram.
+Theoretically, rigid labour laws, a characteristic of the Indian labour market 7, can provide a disincentive to hire workers.
+Rigid labour laws make it difficult for large firms to fire workers even when they are inefficient.
+One would therefore expect a positive relation between flexibility of labour laws and employment in industry or manufacturing.
+Several papers argue that the effects of rigid labour laws are somewhat exaggerated.
+Dutta Roy 8 found that over the period 19601961 to 1994-1995, the impact of job security regulations was statistically insignificant in 15 of the 16 industries studied.
+A comprehensive survey of about 1300 manufacturing firms across nine industry groups reveal that the existence of labour laws and regulations seem to have only a marginal adverse impact on employment.
+We do not know about the firms that did not enter because of the stringent labour laws.
+A more comprehensive study which can isolate the impact of labour market rigidity on manufacturing employment is required to understand its true impact.
+Theoretical Case against Labour Market Flexibility Economic theory tells us that free market outcomes are efficient and pareto-optimal.
+Regulation of the market by the state leads to deviations from full employment of resources.
+Hence, attempts should be made to remove as many of these imperfections in the market as possible.
+This view however can be contested if we take social welfare of workers into account.
+Competing firms can compete either on the basis of reducing their unit costs by lowering wages and labour standards or by pushing up productivity with innovations in technology, product design, methods etc.
+Even Robert Solow , through an analysis of the Beveridge curve for several countries, shows how labour market rigidity cannot be held responsible for increasing unemployment.
+Every one of the labour regulations or restrictions was intended to promote a desirable social purpose.
+While that would be worth knowing but the fact remains that the wholesale elimination of these so called ‘rigidities’ is neither desirable nor feasible.
+Moreover, if labour market rigidity is more than a slogan, it must be incorporated into macroeconomic model building in the normal way we think about the determination of wages and employment in modern market economies.
+Court judgements on the interpretation of the laws also vary by states.
+For instance, the term ‘inspection’ has not been defined in any of the labour laws thus leading to multiple interpretations of what it could mean.
+Generous unemployment benefits allow unemployed workers to reject vacant jobs in the hope of finding something better.
+This ‘something better’ might include not working for a while and thus reduces an economy’s efficiency in terms of full utilisation of all its resources.
+Labour Market Reforms in India Labour laws in India today are too voluminous and ambiguous to be effective.
+This only promotes costly litigation and corruption in the labour department.
+A simple concept of wage has as many as 11 definitions in the corpus of Indian labour legislation.
+There is, therefore, a need to simplify, rationalise and consolidate different labour laws.
+The Ministry of Labour and Employment has been taking steps for the consolidation of the 44 central labour laws into 4 major codes for simplification and rationalisation.
+The draft code on Wages Bill 2017 was introduced in the Parliament last year and is being examined by the Parliamentary Standing Committee on Labour.
+The draft code on Industrial Relations Bill 2018 was recently sent to the cabinet for consideration after which it will be tabled in the parliament.
+A major goal of codification is to have common definitions of terms like wages, establishments, employee etc., as presently different terminologies and definitions are used in various labour laws.
+It is believed that consolidation in a few cognate groups will ensure better enforcement and more effective compliance.
+While there is severe contention about whether these reforms can affect employment, most economists agree on the need for simplification of the current labour laws.
+However, codification cannot be viewed as just a simplification effort.
+It proposes several changes such as revision of the minimum wage, the threshold of the number of employees in a firm for specific laws etc.
+The burgeoning employment in the informal sector necessitates regulation of the sector.
+The prevalent abysmal conditions of employment have made the modern informal sector competitive.
+In the absence of enforcement of even minimum labour standards, it is 62 ECOLLOQUIAL 2019 inevitably caught in a conundrum of low productivity and low wages.
+Perils of increasing flexibility Codification of labour laws was a major part of the currently ruling NDA party’s economic reform agenda.
+Several reforms have already been enacted by NDA-led state governments in areas of labour contractors and hire & fire flexibility.
+For example, the Government of Rajasthan, Haryana and Madhya Pradesh have made it easier for employers in the organised sector to sack workers.
+However, one must be wary of such attempts at increasing labour market flexibility.
+As one would expect, in September 2016, a massive nationwide strike caused major disruption to the economy.
+Conclusion Flexible labour markets adversely affect the interests and welfare of workers.
+Labour market institutions play a minor role, if any at all, in determining employment.
+This weakens the case for the total removal of labour regulations especially relating to lay-offs and retrenchments.
+Moreover, Barnes shows how the insecurity of employment and income that the deregulation of the labour market would engender would be politically unacceptable.
+We must also realise that allowing more flexibility in hiring and firing, if at all necessary, has to be combined with a reasonable scheme of unemployment compensation or adjustment assistance 11.
+An income security system, consisting of unemployment benefits for a specified period, provisions for re-training and active assistance for job search, must precede the grant of reasonable freedom to employers to retrench workers.
+Therefore, reforms ensuring income security instead of job security should be considered.
+Codification and consolidation of labour laws is desirable as long as it simplifies the 11 India is among the lowest spenders on social security.
+Therefore, other problems such as insufficient access to credit and infrastructural deficiency should receive greater attention to achieve a flourishing manufacturing sector in the foreseeable future, to impede the ongoing jobless growth in India.
+Assessing private sector contributions to job creation and poverty reduction.
+A Quarter Century of Jobless Growth in India's Organised Manufacturing.
+ABSTRACT The concept of economic mobility the notion that individuals can improve their condition in life through hard work and fulfil their aspirations irrespective of their family background – is a fascinating one.
+Off late, mobility has been increasing in developing economies, but unevenly.
+Here we attempt to understand the factors that could possibly explain the differences in educational mobility (which is a good proxy for income mobility) in 34 developing countries and the role of institutions and policies in affecting the same.
+It was found that institutional and cultural factors play an important role in explaining this.
+Economic mobility across generations, also known as intergenerational mobility in economic literature, is a key element of human progress.
+It tells us to what extent children enjoy a higher living standard as compared to their parents.
+A society can be deemed more or less mobile depending on whether the link between parents’ and children’s social status as adults is looser or tighter.
+In a relatively immobile society an individual’s wage, education or occupation tends to be strongly related to those of his/her parents.
+Education mobility A key element of economic mobility Education is a key dimension of human progress.
+Education mobility is an essential element of economic mobility, when economic mobility is understood in terms of well-being rather than income alone.
+Moreover, because education tends to be a strong predictor of lifetime earnings, mobility in education is a key factor influencing income mobility.
+Economic theories predict that IGM in education and IGM in income are positively correlated.
+And lastly, it depends on policy interventions and institutional factors of a country.
+Sustainable and inclusive growth and public policy must help give scope to such aspirations.
+But evidence suggests that, in too many parts of the world, mobility poses a challenge.
+This concern is especially acute for developing countries as it is harder for them to move from the bottom to the top of the economic ladder.
+Trends in mobility in developing countries Developing countries have increasingly fallen behind developed countries in mobility.
+Mobility has improved in some developing regions, but declined or stagnated in others.
+Although IGM on average has improved across developing economies since the 1950s, the improvements are highly uneven and not evident everywhere.
+A breakdown of trends in the IGM between the 1950s cohort and the 1980s cohort shows that positive changes are largely concentrated in East Asia and the Pacific, Latin America and the Caribbean, and the Middle East and North Africa.
+In contrast, absolute IGM has declined in Eastern Europe and Central Asia and stagnated in Africa.
+REVIEW OF LITERATURE There have been many studies highlighting the factors affecting intergenerational education mobility.
+Similarly, the expenditure incurred by the government on schools and primary education has a positive effect on mobility.
+Early childhood care and education for the development of cognitive skills at later stages in life has also been recognized as an important factor.
+We have taken indicators like GINI index and poverty headcount ratio which show this relationship.
+Family structures differ in how children are motivated to learn, what beliefs they have, the goals 67 ECOLLOQUIAL 2019 they aim to achieve and in the means of learning.
+Since mobility and thus, equality of opportunity also depend on cultural aspects, the political focus should not only be on the design of adequate incentives in school and the labor market, but also on the formation of values and beliefs in early childhood.
+Children from disadvantaged backgrounds can be motivated by the belief that they will have free choice and control over their lives and by a competitive environment.
+Children’s endowments at birth are influenced by a number of factors including nutrition, height and weight, basic healthcare and medical services, sanitation, safe drinking water and mother’s health.
+EMPIRICAL ANALYSIS This study uses the Ordinary Least Squares approach to understand the factors that determine upward educational mobility.
+Like absolute upward mobility, relative mobility is also another way to find out mobility, which measures, as defined by the same report the extent to which the educational attainment of individuals is independent of the education of their parents, using the coefficient from regressions of children’s years of education on the education of their parents.
+Higher values of this regression coefficient indicate greater persistence, and hence lower relative mobility.We have measured the absolute upward mobility for 1980 birth cohorts which means that we have taken the data for the people born in 1980, for 33 countries from 1996 to 2016.
+DIAGNOSTIC TESTS Multicollinearity The variance inflation factor was very small indicating no presence of multicollinearity.
+Ramsey Reset Test The Ramsey test did not reject the null hypothesis at 10 percent significant level indicating no presence of functional misspecification in the model.
+Normality of Errors The Jarque Bera test showed that the errors were normally distributed with the null hypothesis not rejected at 5 percent significance level.
+Along with this, the histogram of residuals bears a close resemblance to a symmetric, bell shaped distribution suggesting that the normality assumption is true.
+Poverty headcount ratio shows the proportion of people who live below poverty line.
+The coefficient for it is positive and highly significant which depicts that as more people are below poverty line, any improvement in education will result in upward mobility, whereas if the standard of living is very high in the first place then, any improvement in education will have less potential for upward mobility.
+Hard work ratio is ratio of how much value low income group of people attach to hard work to how much value high income group of people attach to hard work.
+In our model, the coefficient of hard work ratio is negative and significant at 10% which depicts that richer people value hard work more.
+Free choice ratio refers to the liberty of children to choose a career path on their own, for which the coefficient is positive and significant in our model which shows that if children have more liberty to choose their future path then there will be a higher chance of upward mobility.
+GDP per capita which is shown in the model is highly significant and positive which depicts that the countries with higher GDP have higher chances of upward mobility.
+Account ownership of the poorest 40% is positive and highly significant because it shows that if more of the people have access to credit then incentive to invest in child’s education increases.
+Adjusted net enrollment rate is also positive and significant which shows that the government policies and schemes will also have a positive effect on the upward mobility.
+Free choice Ratio, hard work ratio retrieved from ile:///C:/Users/asus/Downloads/cultureasdeterminant.pdf Culture as a determinant of intergenerational educational mobilityEvidence from PISA Dependent variables Global Database Intergenerational Mobility, Development Research Group, World Bank.
+Kathrin Thiemann, 2016 73 ECOLLOQUIAL 2019 Swachh Bharat Abhiyaan – Through the Lens of Gender and Caste Noor Kumar noorkumar18@gmail.com Abstract The challenge of access to sanitation is not new to India.
+However, what makes this problem more complex is the country’s demographic profile and deep-rooted traditions of patriarchy and caste system.
+For years, access to sanitation facilities and more importantly, to good quality sanitation facilities has been influenced by identities of caste, class and gender.
+Discrimination and inequitable distribution have led to skewed growth and superficial, lofty statistics.
+This paper seeks to analyse the implicit framework, implementation and limitations of the Swachh Bharat Abhiyaan – India’s largest sanitation project and movement through the lens of gender, caste and class.
+Sanitation, India, Swachh Bharat Abhiyaan, gender, caste, class JEL Classification: I14 1.
+The movement The Swachh Bharat Mission was launched on 2nd October, 2014 by the Government of India, with an aim to eliminate open defecation by constructing community and household owned toilets all across the country by 2nd October, 2019.
+The former operates under the Ministry of Drinking Water and Sanitation and latter under the Ministry of Urban Development.
+Expenditure and outlays Government statistics show significant resource allocation and progress under the programme.
+As per 2018 Budget documents, the Central Government has spent more than 56,000 crore rupees under the programme.% of the spending has been done in rural areas.
+The actual spending would exceed this amount as the central funding is supposed to be 75% of the total expenditure, with state governments contributing an additional 25% of the funds.
+State governments can also generate funds over and above its minimum 25 % share to make projects viable.
+In addition, 74 ECOLLOQUIAL 2019 companies, especially under their Corporate Social Responsibility programmes, have also contributed to the funds, although there is no authoritative measure of this.
+The problem of open defecation As the rest of the world steadily works towards eliminating open defecation, this problem continues to persist in India.
+According to the Swachhta Status Report, published in 2016 by the National Sample Survey Office , under the Ministry of Statistics and Programme Implementation, in rural India, 55.4% households contribute to open defecation.
+The practice of open defecation is associated with several negative externalities causing a detrimental impact on health.
+Infectious diarrhea, malnutrition and stunted growth among children, reduction in India’s human capital are a few dire consequences.
+In a recent study conducted in five states of rural India, the results indicate a large revealed preference for open defecation which implies that people choose to defecate in the open even when other alternatives are available.
+The study reports that many people living in households with latrine access nevertheless defecate in the open as a result of cultural and behavioral norms, social norms, infrastructural limitations of government constructed toilets, issues of privacy and safety, lack of access to water.
+Past programs and campaigns The first major Union Government program on sanitation, Central Rural Sanitation Program was launched in 1986 to improve sanitation coverage in rural areas.
+This was restructured into the Total Sanitation Campaign which focused on information, communication and education with a ‘community led’ and ‘people centered’ approach.
+And most recently, the Swachh Bharat Abhiyaan is seen as the most ambitious sanitation project and movement in the country till date.
+However, access to water and sanitation and the quality of these services is strongly influenced by identities of gender, caste and class in our country.
+Moreover, here we question and analyse how layered this access is and how institutions of patriarchy and the caste system continue to affect the experience of certain sections of the population in negotiating access to sanitation and public spaces.
+Women Imagine having to calculate, plan and limit one’s trips to the toilet on a daily basis.
+Much of this planning is a consequence of closing times of public toilets for females being as early as six o’clock in the evening, subject to the whims and fancies of toilet attendants.
+This leaves women with close to no alternatives other than heading to the fields to relieve themselves at night.
+Even in toilets that don’t close early, reports suggest that the condition of the toilets is too deplorable, discouraging women from using them.
+Moreover, there are several disconcerting accounts of women keeping a check on what they eat at night.
+Some often skip dinner and monitor their fluid intake in order to kill the urge altogether which has adverse implications on their health, increasing the chances of suffering from chronic constipation, urinary tract infections, kidney stones and skin problems, accompanied by exhaustive psychological trauma and stress.
+Complications during pregnancy and in menstruation cycles are also common.
+Further, I contend that most women have faced harassment in some form or the other, which further diminishes their access to toilets and deeply impacts their psyche.
+Moreover, the infrastructure of the toilets or lack thereof worsens the situation making women vulnerable and easy targets.
+For instance, weak structures, faulty design of cubicles, low walls, absence of latches and female attendants, broken latches, weak doors, poor lighting all lead to the prioritization of sexual safety over physical health and well being by the common woman, plunging her in a vicious cycle.
+Historical and institutional discrimination and subjugation of certain classes led to their isolation in society.
+Even today, Scheduled Castes households, for instance are located on the periphery of villages or cities.
+This poses logistical constraints on water supply accompanied by high costs of building toilets.
+Hence, it is delusional to deny the role caste ethos plays in access to sanitation in India.
+According to Census 2011, 7.94 lakh latrines exist in the country from which night soil is removed by humans.
+This stems from the belief that sanitation is the work of the lower castes.
+Anand Teltumbde writes, “Indian culture, which is nothing but a caste culture, externalizes the responsibility of maintaining cleanliness to a particular caste.
+More than untouchability, a caste ethos is pervasively reflected in the behavior of Indians.
+He argues that it will never occur to Modi that his act of beginning the cleanliness drive from Valmiki Colony actually reinforced the association between Valmikis and scavenging.
+The use of words like spiritual, enlightenment and ‘Gods’ is deliberate and reaffirms the regressive and discriminatory belief that a person’s livelihood is pre-decided in accordance with his birth into a particular caste and class, perpetuating the principles of a dehumanizing caste system.
+Conclusion Firstly, it is highly unlikely to achieve the target of an ‘open defecation free India’ by 2019 with only an infrastructural push.
+Merely providing toilet ‘access’ without promoting toilet use is unlikely to reduce open defecation drastically.
+Programs must concentrate on behavioral change and not just infrastructural change.
+Secondly, the interlinkages between sanitation, gender and sexual violence, caste, class and space must be understood and further explored in academic and social policy discourse.
+The gaps in the present infrastructure must be addressed in order to cater to the needs of different sections of society – pregnant women, people with disabilities, elderly people, transpersons and women with menstrual hygiene requirements.
+Rethinking Governance of Public Toilets Lessons for Swachh Bharat from Hyderabad.
+Programmes Undertaken by Government of India to Improve Rural Sanitation.
+Introduction Studies show higher numbers of women in parliament generally contribute to stronger attention to women's issues.
+Women's political participation is a fundamental prerequisite for gender equality and genuine democracy.
+It facilitates women's direct engagement in publicdecision-making and is a means of ensuring better accountability to women.
+FACTS AND FIGURES Women in parliaments • Only 22. per cent of all national parliamentarians were women as of June 2016, a slow increase from 11. per cent in 1995 • As of October 2017, 11 women are serving as Head of State and 12 are serving as Head of Government.
+However, this is only something formal and in reality women black to raise their voices those ideas in the political sphere.
+Regardless the statistics, the rights of women politicians are violated here.The female members of the parliament complain that whenever they want to say something or act out of the plan, which the powers of the country give them, they put their political career under a serious danger.
+Their actions are heavily restricted so, the numbers are here to indicate only the formal part of the situation.
+SUPPORT FROM THE UNITED NATIONS For many decades politics was considered a male dominated sphere where women had nothing to do.
+Female participation in politics had specially enlarged in 1954 when the United Nations convention on political rights went into force.
+This enabled women to gain equal rights to vote, hold an office and have an access to public services.Of course, increasing the rate of women’s participation is not, nor should it be, just a numbers game.
+It is also about ensuring that the voices of women who are represented are heard, and that their views and contributions are valued.
+There are instances where the responsibility for so-called ‘feminine’ portfolios, such as health and childcare, are allocated to female cabinet members, while responsibility for the more ‘masculine’ portfolios, like defense and finance, are allocated to male cabinet members.
+AFTER ALL THE MEASURES, WE STILL LAG BEHIND It’s difficult to deny that getting an office in the political sphere for women is much more difficult than for men.
+The reasons come from deeply rooted stereotypes which unconsciously reflect on today’s situation as well.Statistics of women participation in politics state once again that women still remain underrepresented in this sphere.
+Because of lack of support, women continue to be underrepresented in politics around the world.The obstacles women face constantly changes throughout the time but continue to create not fewer hardships for women.
+Many women politicians from different corners of the world complain about getting sexist treatment from media which shows lack of respect towards their gender.
+The non-equal approach towards women brings lack of confidence among women and caused a huge gender gap in politics.
+In this project we try to find the factors that affect the representation of women in parliaments all over the world.
+There are a variety of factors that influence women participation ranging from political, social and economic and legal.
+Literature Review Worldwide, women constitute only 19.9% of parliaments, despite composing of just over 50% of the population.
+Prior research has emphasized the type of electoral system, quotas, the economic affluence of a country, the timing of women’s suffrage, as well as the political culture.
+There are three predominant systemsProportional representation, Semi-proportional system and Plurality system.
+Theories suggest that women’s representation will be higher under a more proportional electoral system than under a less proportional electoral formula.
+In the scholarly milieu, there is general agreement that electoral institutions are an important factor affecting the level of women’s representation.
+With the exception of Stockemer few studies , multiple cross-national investigations by, among others, Champman , Matland and Studler , Rule and Zimmermann , Sawer and Schwindt-Bayer and Mishler have consistently shown that women’s representation is higher under proportional representation than under a plurality system or semi-proportional system.
+Countries that have legally imposed quotas or in which several parties have implemented quota clauses are more likely to have more female deputies than countries where there are no quota clauses.
+This institutional factor, is seen as an efficient, but rather selective method of increasing women’s representation , with a lot of variation in the implementation of these quotas across countries.
+However theories suggest, when applied more frequently by states or by the parties themselves, their relative importance with regard to women’s representation should increase.
+A woman may achieve high levels of education but be reluctant to pursue a role in public life, such as in parliament.
+However, this statement lacks significant proof and thus there are contradictory findings on whether the wealth of a country is an important factor in determining women’s representation.
+In his study of turnout rates, Franklin states that female empowerment is a slow process.
+During the first elections after gaining suffrage, women’s turnout rates were significantly lower than those of men.
+However, the gap has decreased, as successive cohorts have grown accustomed to voting.
+The same socialization process has occurred for women holding office.According to Kenworthy and Malami and Matland , voting rights stand for the political empowerment of women.
+The theory states that the earlier women gained equal political rights, the earlier they could get involved in politics.
+In the long run, this involvement should lead to women’s political empowerment and to more female deputies.
+Cultural factors Cultural variables are hard to measure, and research typically uses proxy variables such as region and religion to capture the effects of cultural and attitudinal differences.
+Recent work by Reudin found that more direct measures of attitudes towards women held higher predictive power.
+Empirical Analysis This study uses the Ordinary Least Squares approach to understand the factors that determine the percentage of seats held by women in the lower house of parliaments across countries.
+The percentage of seats held by women in the lower house of the parliament across the 51 countries as of 2016.
+Model and Results A number of models were examined to understand the effects of various groupings of factors in determining political representation of women across countries.
+Here only GDP per capita was found to be significant at the 5% level of significance.
+This indicates that socio economic factors alone do not have any explanatory power.
+The second model included the political factors alone existence of gender quota, years since women suffrage and type of electoral system.
+Here, existence of quota and years since women suffrage were significant at the 5% level of significance and type of electoral system at the 10% level of significance.
+Since the above two models had very low explanatory power, it was concluded that socio-economic factors or political factors in isolation do not explain the dependent variable satisfactorily.
+Thus a combination of the two along with an important cultural factorreligion was needed to be incorporated.
+In this model, existence of quota, percentage of female labour force, predominant religion and GDP per capita were taken.
+Christianity showed positive impact on political representation of women and significant at 1% level.
+Islam, did not have significance, but had a negative sign which complies with existing theory.
+But, on the other hand, percentage of female labour force had a negative coefficient and no significance.
+Heteroscedasticity: Since the p value was found to be greater than 0.05, there is no heteroscedasticity.
+Since the p value was found to be greater than 0.05, we take the model to be correctly specified.
+The correlation matrix showed a strong negative correlation between Islam and percentage of women labour.
+Thus auxiliary regressions were run, where each explanatory variable was regressed on the remaining 85 ECOLLOQUIAL 2019 ones.
+Percentage of women labour was taken as dependent variable, a high R2 value of 0.705, again proving a correlation.
+Similarly taking Islam to be the dependent variable also gave R2 as 0.709.
+This shows that both percentage of female labour and Islam is collinear with other variables.
+Explanatory variables taken – GDP per capita, predominant religion and existence of quota.
+Here we got Christianity to be significant at the 1% level and GDP per capita and existence of quota to be significant at the 5% level.
+Adjusted R^2 was 38.73% and R2 was 43.6%The explanatory power hasn’t reduced after removing percentage of female labour.
+Since the p value was greater than 0.05, there is no heteroscedasticity.
+Since the p value was greater than 0.05, the model is specified correctly.
+Conclusion Our final model confirms with expectations that presence of a gender quota has a significant, positive impact on the political participation of women, countries like United kingdom, Netherlands, Norway and Germany have gender quotas and have high representation of women in parliament than the countries like Bangladesh, India and China.
+Similarly GDP per capita too has a positive impact, meaning richer countries like Luxembourg, Japan and Switzerland could have an environment that better encourages women in political participation.
+Christianity was found to have a highly significant impact on the participation of women in politics.
+It is observed that most world religions maintain male social dominance within societal structures.
+They do not advocate for women emancipation in terms of complete equality.
+Thus one possible explanation for the result obtained could be that most of the countries in this study, having Christianity as its predominant religion were Nordic countries.
+It is well known that Nordic countries are world leaders in gender parity.
+These countries have given abundant opportunities to women to rise to positions of leadership.
+The policies in these countries have made it possible for women to balance work and family by means of generous paid maternity leave and post maternity re-entry programmes.
+Also, Nordic countries have gender quota in boards of directors of companies too.
+Thus taking Christianity to be indicative of Nordic countries and Islam as indicative of Middle East countries, the result can be fairly explained.
+But contradictory 87 ECOLLOQUIAL 2019 to expectations, we could not find a strong and positive impact of percentage of female labour on political participation of women.
+Limitations Reasons for a low R^2 An R-squared value indicates how well the observed data, fits an expected trend.
+Even when R-squared is low, low P values still indicate a real relationship between the significant predictors and the response variable.
+In our model, we have variables which are statistically significant individually, which means we can infer a relationship between each variable and the dependent variable, despite getting a low R squared value.
+The inference of an R square value depends on what you are trying to predict, what your predictors are, and how reasonable it is that you can predict that.
+Some fields of study have an inherently greater amount of unexplainable variation.
+Models where there are psychological, behavioural or social factors involved, it is difficult to explain all the variance primarily because these factors are hard to predict and highly subjective in nature, and also because there may be a large number of other factors at play.
+Having a low R-squared value when the independent variables are statistically significant, can still lead to important conclusions.
+We have seen that the concept of UBI originated as a response to the massive job loss due to automation and the rise of artificial intelligence.
+Now countries like India are trying to use universal basic income, though not entirely universal in nature, as an instrument for poverty alleviation.
+The word basic signifies that this is what society expects everyone at the very minimum to earn and if they don’t earn it they are given money.The simplest way to think about UBI is to think of a society where everyone has a pan card.
+Some people above a certain income pay tax, some below that income don’t pay tax and some even below that don’t pay tax and, instead receive money through a negative income tax.
+One is that you believe that the economy is already at or near the PPC and that your economy at current levels of per capita income will achieve steady state.
+The other is what I’ve described in previous writing as compensatory policy which is where targeted interventions come in.
+It is similar to when you check into a hotel and the hotel promises you hot water and a clean room.
+However, if you don’t get hot water the hotel pays you compensation for the inconvenience caused.
+When you say that you will give someone money for being in poverty it means that you are compensating them after 70 years of independence of which 20 years saw roughly steady growth for the fact that they are still in poverty.
+It carries the message that the only solution that exists is to compensate the people in poverty and that their problem cannot be solved and is an acknowledgment of failure.
+There has been a lot of discussion about the NYAY scheme that the Congress is proposing during this year’s election season.
+The proponents of this scheme have been talking about how the cost of implementing the scheme are not as gigantic as they appear to be on face value.
+The have claimed that the scheme will be launched in phases and even though pilots may incur a lot of cost, with subsequent phases of the scheme it will become self-financing in nature through the multiplier effects as the increase in the income of the poor will result in higher spending as one person’s spending is another person’s income.
+Simple economics requires you to look at the demand side and the supply side.
+One is to increase taxes but I want to know from where you will increase these taxes and what taxes you will increase.
+But when you borrow more domestically, you adversely impact the income distribution because when the government borrows it borrows from banks and financial institutions.
+Borrowing is bad for the income distribution because when you borrow from the rich to transfer to the poor you make the rich richer as you pay interest to them for the privilege of developing their own nation and that is my fundamental problem with financing through borrowing for it is only a loan from the rich to the poor, unlike taxes.
+If you say you will finance it through an expenditure cut I want to know what expenditure cut will you undertake to analyse the multiplier effects.
+This is very different from the Keynesian balanced budget multiplier where you print money and you use that money to stimulate demand and on the supply side you often find excess supply but no demand.
+For example, a poor person is given some money.It is a reasonable assumption that he or she will buy food with that money.
+If that supply doesn’t rise,then the price of onions will go up as more of the poor buy onions.
+For higher income groups the elasticity of demand for onions is zero but for the poor person it is not.
+Unless, you can tell me the immediate supply response to the money given to the poor and the multiplier impact I cannot determine the gains.
+Let’s look at clothing.% of the shirt I am wearing is made in India but it is an expensive Marks and Spencer’s shirt.
+But if you go to Sarojini Nagar to buy a shirt, 82% of those shirts are imported from Bangladesh or Vietnam.
+First, I quarrel with the idea that the Indian state has decided that it is unable to provide better education and other facilities that the poor need and is moving from a development state to a compensatory state.
+NYAY is nothing but compensation for the failure to lift people out of poverty.
+Second, even if it is being justified on the grounds of the multiplier benefits it might create, I need to know how this is being financed because if these benefits are financed through taxation there will be negatives, if financed through borrowing there will be negative distributive consequences and if through expenditure cuts I need to know what the cuts will be.
+If the scheme will be financed by cutting expenditure on statues, then I have no problem but if it will be financed by cutting expenditure on providing milk to children I have a problem.
+I am not clear about what the expenditure cut will be and I question whether the government will undertake the desired cuts.
+Following up to that, people have also stated that they will not be increasing taxes for the middle class but they will be doing away with non-core subsidies.
+You can do away with the subsidy given to senior citizens, ex-armed force personnel, children to go to school, women etc.
+There are many subsidies you can cut but whether they are core or non-core depends on how you see them.
+The point I am making is that subsidies are given for purposes other than poverty alleviation.
+When you say, you want to cut some subsidy you send the message that you prioritize poverty transfers rather than the subsidy.
+The biggest one was fuel subsidy that has been cut in very large measure.
+Another has been subsidy to art and culture through the financing of museums.
+I can always find the money but when cutting the government states that no longer is that area a national priority.
+In line with the conversation related to tradeoffs, we have seen that BJP’s national security manifesto promises a free hand to security forces to curb terrorism and extremism and in fact they promise that they will speed up the buying up defence equipment.
+At the same time, Modi has promised to alleviate poverty to a single digit within the next five years if he comes to power.
+What happens in defence is that we allocate money to buy something but we do not buy it.
+The defence budget is consistently and systematically on the capital side underspent and thusif you spend it, it is not a problem because that money was not otherwise available for poverty reduction.
+At the level of policy, you are saying that we will not finance poverty reduction by cutting defence.
+Interviewer:Green bonds in India have grown from a virtual nonexistence to a $7 billion market.
+I think it is essential to understand that green bonds can be a very important instrument in financing our sustainable transformation for the following reasons.
+I am very hopeful that green bonds will be a major way in which we will be able to get a better deal from global financial markets than we have been getting so far only because the investors in global financial markets put a premium on green and we should exploit that.
+Today, many countries are following the green route rigorously and there have been varied innovative attempts to establish green foundations globally such as the cap and trade emissions market.
+The decision to go green in this country is not a decision we need to take because India is the first country in the history of the world to be asked to complete its development transformation without recourse to fossil fuels.
+In the case of China or Australia or Japan, they first went brown, they completed their development and then they replaced brown with green.
+Therefore, the impetus must be to understand that green is efficient, productive and a better business case than non-green.
+For example, a house that conforms to green standards is cheaper to build and of a superior quality in terms of services it provides.
+A house that is more long lasting and provides better sanitation is built much more cheaply by using green materials and building codes.
+It is embarrassing how India mines its coal; we have open cast mines, people digging in with their bare hands, coal dust everywhere and coal transported in dirty railway wagons.
+If we cleaned up that entire ecosystem, efficiency in coal 92 ECOLLOQUIAL 2019 production and utilisation in power plants would go up.
+Therefore, policy decisions to go green must highlight how much efficiency do we get out of them.
+Once we do that our internal rate of return, IRR will rise and will help financing that too.
+India is a low productivity country and going green will improve Indian productivity and be positive for the nation.
+In that sense, we are in a very fortunate situation compared to nations that have already completed their development transformation.
+I do not believe that in either of these two years the government could not have moved towards those targets if it would have exercised political will.
+Incremental schemes like farm loan wavers can be financed by increasing taxes or cutting expenditure elsewhere.
+There is no reason to compromise the fiscal deficit target because if you do, you are effectively borrowing for these incremental expenditures.
+What worries me is the administrative and executive capability in the Ministry of Finance because when the Finance Minister makes a statement in the Budget on the floor of the House and is forced to break his or her word, next year it reduces the credibility of the Finance Ministry and of India.
+For people who are so focused on maintaining Indian nationalism, pride and credibility I find it surprising that they are ready to sacrifice credibility at the altar of convenience every year.
+An edited clip, which showed the very next ball going for a four went viral on social media, causing many to suspect that he was involved in spot-fixing.
+While it might be easy to say that those who earn little in comparison to their counterparts are most tempted to cheat, this hardly seems to be the case.
+An athlete with a corrupt mind will always find ways to earn money, irrespective of how affluent he/she is.
+Let us assume that you are one of the athletes participating in a race.
+You are confident that the other players are using performance enhancing drugs to win.
+Thus, players cheat when they believe that their competitors are cheating as well.
+This is because the players know that the chances of getting caught by the administrators are very slim, for the administrators themselves don’t have any incentives to punish the perpetrators.
+When a player is caught and exposed, the integrity of the sport or the tournament in question also comes under scrutiny.
+This makes it difficult for the administrators to sell the sport to potential sponsors and the customers who buy the tickets for the games.
+After all, it is this money earned that funds the hefty compensations of the players and the administrators.
+Hence, to cheat and to let others cheat is in everyone’s best interest.
+Another reason for players to cheat – especially spot-fix – is that it makes the games more exciting for the spectators.
+Nail-biting finishes give more of an adrenaline rush than one-sided games to the viewers, and attract more media attention and coverage.
+Coming back to the current season of the IPL, the Board of Control for Cricket in India has come out in support of Pant, saying that his comment was interpreted incorrectly out of context by many.
+Flashing placards displaying Swiggy or FoodPanda outside restaurants have become a common sight.The words ‘Paytm Karo’ have been engrained in the consumer’s mind and the Netflix revolution has completely transformed India’s consumption of digital entertainment.
+Digitisation has touched our lives subtly in so many ways and this trend is here to stay.
+They hold the potential to bring about a paradigm shift in the way financial services are delivered.
+The Indian populace has been very receptive to the trend of digitization as evident by the smartphone explosion, increasing digital payments, expanding e-commerce market, rising consumption of digital entertainment and use of food delivery apps.
+This will influence consumers’ buying behavior as internet becomes their biggest source of pre-purchase research.
+This presents an ideal scenario for the growth of fintech firms in India.
+Many global firms like Google Pay, Amazon Pay have also entered the Indian fintech landscape.
+Despite banks being omnipresent in urban areas, they are unable to meet the demands of the younger generation which does not want to wait in queuesat a bank and wants quick procedures on a fully automated digital platform.
+This has provided e-commerce firms the space to innovate and provide efficient financial services at lower costs.
+Greater financial inclusion is one of the core objectives of India’s growth agenda and the inability to create functional banking infrastructure has been recognized as one of the impediments preventing rural – urban and regional convergence and the spread of financial services.
+Thus, the focus has shifted to digital modes for greater connectedness and to bridge this information divide.
+To support this, the government rolled out its flagship Jan Dhan Yojana scheme.
+The National Payments Corporation of India was set up jointly by the RBI and the Indian Banks’ Association in 2007 to revolutionize the settlement systems and retail 95 ECOLLOQUIAL 2019 payments in India.
+This has resulted in the evolution of national payments interface and technology platforms.
+The number of fintech startups in India has exponentially increased driven mainly by venture capital funds and private equity investors.
+This coupled with the growing telecom industry, plummeting data costs and greater use of mobile internet services has allowed fintech firms to gain ground and have higher outreach.
+This has disrupted the traditional financial services market and most strongly impacted micro, small and medium enterprises lending.
+MSMEs generate more employment compared to any other sector except agriculture and hold the key to making India a big manufacturing hub.
+Despite their heterogenous character, they face the common challenge of lack of access to institutional credit.
+MSMEs have started using digital platforms to search for business information, use emails and WhatsApp for communication, make and receive payments and to sell their products.
+GST has allowed MSMEs to create a database of transactions, bank account statements and tax returns which has increased their creditworthiness.
+MSMEs are generally viewed as suboptimal borrowers by the traditional banking system due to incomplete financial statements, lack of any meaningful collateral and high cost of lending.
+MSMEs find the long and tedious procedures, bureaucratic and opaque system, lethargic and unhelpful attitude of bank employees, short loan tenure and complicated rules as the major factors discouraging them from availing formal credit.
+As a result, they largely rely on informal sources such as borrowing from friends, relatives, moneylenders etc.
+One of the most obvious advantages of digital lending platforms is loan approval speed.
+The 3-1-0 model which implies three minutes to decide, one minute to transfer the money and zero human touch is increasingly being advertised.
+As bank account statements become more granular, digital lending firms are able to generate greater insights into borrowing behaviour and 96 ECOLLOQUIAL 2019 use surrogate data such as telco and utility payments.
+Digital lending firms have leaner staff, efficient business models enabling them to enhance operational cost efficiency.
+Digital lending start-ups are using advanced tech like data analytics, artificial intelligence and blockchain to determine creditworthiness of potential borrowers.
+Right now e-commerce digital aggregators are collaborating with banks and NBFCs to extend their services but they have the ability to become standalone players.
+With the addition of 1200+ startups and 8 unicorns that is a privately held startup that has crossed $1 billion valuation in 2018, India’s startup ecosystem is becoming more sophisticated and expanding to tier II and tier III cities.
+The growth of incubators and accelerators like Microsoft accelerator and IIM Calcutta Innovation Park to provide mentorship to nascent startups, growing network of seed and angel investors, government initiatives like tax rebates and Fund of Funds for Startups programme, growing IT infrastructure and presence of good engineering and management colleges is giving startups the much-needed impetus.
+To prevent India’s demographic dividend from turning into a demographic curse, it is necessary to create a technologically abled workforce which holds a competitive advantage in global labour markets.
+India’s information technology abilities already hold significant power in the world attracting foreign investment.
+Digitisation and formalisation hold the key to catapult India into the future.
+The battle for the Indian consumerFintech companies transform the financial services landscape in India.
+A day meant to be as ordinary as any other, now boasts of a remarkable and instrumental judgement in its name.
+It is extremely unfortunate and inhuman to note that the answer to all the above questions remains a hard-hitting NO despite about eight months into the decision.
+This alienation of an entire community is paradoxical to the healthy diversity we proudly claim.
+Ironically, homophobia seems to be tagging along large, painful and inevitable economic costs with itself which, funnily enough, the country and its seemingly “advanced” citizens seem to be completely unaware of.
+Now, a majority of these are victims of multiple forms of social and other forms of discrimination in form of workplace harassment, unavailability of appropriate health care facilities or work protection policies and lack of equal job opportunities, amongst many others.
+All of the aforementioned when combined with some other additional factors, hinders about 92% of the trans people to contribute to any economic activity, as claimed by the Human Rights Commission.
+This social unacceptance is so deep rooted and pervasive that it fuels unfathomable amounts of brain drain and loss in the Indian workforce which would have increased the productivity of the country by manifolds.
+The country and its corporates are demanded to be more progressive and inclusive than they currently are.
+Undoubtedly, a handful of companies have taken into consideration the importance of certain rudimentary changes in their office environment like the introduction of ‘other’ as a gender option in policy documents, replacing the word spouse by ‘partner’, having gender-neutral washrooms or expanding the medical benefits and insurance of the employees belonging to the LGBTQ community.
+These policy and infrastructural modifications are a testimony to the company’s commitment to warmly host employees regardless of their sexual preferences.
+The stark truth is that a majority of organizations still deem the above changes unworthy, pushing the uncomfortable and dissatisfied workers to quit.
+A striking example can be the 2017 episode of the employment of 23 transgender people in the Kochi Metro Rail Ltd. by the government of Kerala, 8 of whom quit in the very first week of their job due to a menial pay and less than sustaining work environment.
+As claimed by The Wire, about 58% of transgender studentsdropout of school before class 10.
+This naturally limits their skill building capacity in the higher earning ends.
+Besides this too, a large chunk of the LGBTQ community relies on begging as their main source of income.
+This too has been complicated by the Indian Government by passing the Transgender Persons Bill 2016 which criminalizes any form of begging by the community thus giving the latter a hard time earning a living to applaud its “aesthetical” and veiled image of efficiency.
+A polar opposite scenario is that of PinkWashing which means nothing more than using the the LGBTQ community as a source of evergreen profitability for the corporate sector by showcasing their “support” to the community by launching rainbow products and simply reducing people to commodities.
+Activists claim this to be utterly selfish and unnecessary as the formers’ struggle are anything but a money minting machine for the corporates.
+Amidst the constant battle being fought to enjoy nothing more than equality and acceptance from the society, the World Bank has claimed that homophobia is costing India an exorbitant $32 billion.
+The loss of opportunity for the community to grow and flourish is being lost at the expense of archaic mindsets and beliefs.
+Lack of the provision of human dignity for LGBTQ community is a boulder of shame that makes social and humanitarian progression a far-fetched goal for India.
+Bose Associate Professor Department of Economics Shri Ram College of Commerce, Delhi Despite distinct female disadvantage in economics due to rampant discrimination and outright harassment, including sexual, as is now well recognized by even the American Economic Association , it is heartening to see the rise, and the meteoric rise, of an Emi Nakamura as a database macroeconomist or an Esther Duflo as a development economist or a Neva Goodwin as a contextual and ecological economist.
+The good news is that now female students are performing the best in econometrics, the most difficult educational programme in the economics domain , Undergrad econ girl students in India can check out on some stellar Indian names in economics such as Gita Sen, Seema Jayachandran, Gita Gopinath, Sonalde Desai, Rukmini Banerji and the like, for inspiration.
+To such a list, I add Linda Yueh— the author of the book under review—who has indeed arrived, so to say, as a popular economic broadcaster and writer, apart from being an expert on China and macroeconomics textbook writer.
+Initially, when I just read the Introduction and Epilogue, I did not feel like being drawn to the book.
+But as I read through the in-between 12 chapters, it was indeed like having a blast, and at times like having a nightmare as well.
+The best part is getting to read about the life and times of the 12 great general economists that Linda has chosen—Adam Smith, David Ricardo, Alfred Marshall, Irving Fisher, John Maynard Keynes, Joseph Schumpeter, Friedrich Hayek, Joan Robinson, Milton Friedman, Douglass North, and Robert Solow.
+These economists have set the foundations of economics and have crafted the models to explain how the economy works.
+That is why she banks on the suitability of their insights for contemporary times.
+The second best thing about the book is getting to know how relevant these economists and their theories are to the key economic challenges of our time, especially in terms of the backlash against the uneven gains from globalization or the distributional consequences of globalization.
+In other words, Linda is addressing the future speed and quality of economic growth from the viewpoint of these economists by posing the contextualized questions as follows.
+That all the major economies are growing slowly today is captured by ‘secular stagnation’ with marked slowdown in productivity growth since the mid-2000s.
+Post-industrial nations like Britain and the United States are now attempting to roll back the deindustrialization process due to globalization by encouraging manufacturing and reducing the share of national output accounted for by services.
+Deindustrialization in these two countries for the past half century has been associated with trade deficits along with a loss of well-paid manual jobs and stagnant wages.
+The decline and fall of manufacturing in Britain and the United States has been the miraculous rise of Chinese manufacturing and economic growth on that basis.
+But after reaching the “middle income status” in the early 2000s, China too has found the imperative to rebalance its economy through domestic demand boost in order to grow in a more sustainable manner.
+China’s transformation into a large market based economy, still ruled politically by a communist party, would not have been foreseen by Marx, for whom communism and capitalism are an incompatible marriage.
+Growing inequality that reflects the poor quality of growth, has been a common problem in the world.
+And it could be a reason for the slow recovery after the Great Recession of 2009 that followed the global financial crisis, the underlying reason being that highly unequal societies recover more slowly since growth mostly benefits the rich, who save more than they spend and spending, not saving, fuels an economic recovery.
+Wages are not growing well despite productivity growth outpacing wage growth in a number of advanced economies in recent decades.
+Since 2008, advanced countries have struggled to recapture pre-crisis growth trends and inflation rates have slumped around the world, bringing many countries to the brink of deflation.
+The large build-up in public and private sector debt suggests that the global economic situation is ripe for the debt-deflation that Fisher described as the cause of the Great Depression.
+Again, in the post-crisis economy, interest rates are very low but not enough firms are borrowing to invest, which has contributed to the slow growth environment.
+When monetary policy is thus impotent to boost the economy, fiscal policy a la Keynes is needed to increase investment and generate more growth.
+The discussion on the above questions is at times complicated and difficult to understand and very controversial too, and may go above the heads of the reader.
+The book is in this respect more suitable for reading by third year undergraduate and postgraduate econ students whose understanding of the issues raised in the book depends on more lucid descriptions and analyses of the same in the classrooms.
+Linda has chosen the great economists who are mostly advocates of liberalization, globalization and privatization.
+She is herself in tune with them although she is disturbed by the emergence of the many losers due to globalization.
+If human welfare is what we are after, growth is certainly not the most efficient way to get there.
+We can improve people’s lives right now, without any additional growth at all, simply by distributing existing income more fairly.
+Decades of research in anthropology and psychology has been telling us that to most people what matters is having good health, intimate relationships, meaningful work, access to nature, time to spend doing what they love, and—increasingly—an ecology that is stable and safe for themselves and their children.
+Actually, we should be saying goodbye to the economists who pontificate on export-led or domestic demand-led growth.
+Ernst Friedrich Schumacher was a German statistician and economist, best known for his proposals for human-scale, decentralized and appropriate technologies.
+Published in 1973, Small Is Beautiful consists of his review and criticism of the classical ideas of economics.
+His main idea involves creation of sustainable equilibria, which involve human development and healthy growth patterns.
+Small Is Beautiful puts forward the revolutionary yet viable case for building our economies around the needs of communities, not corporations.
+Schumacher argues that the modern economy is unsustainable and asserts that nature's resistance to pollution is limited.
+This has become an everyday thing in our liveswith scientists giving repeated warnings about global warming and pollution day by day.
+Schumacher warns not to treat natural resources as ‘expendable resources’, as they are prone to depletion, and have to be conserved.
+He believed that city's population should not rise above 500,000, but we are now living in an era of megalopolises, with cities hosting millions of people.
+Schumacher claimed that this would lead to the mutual poisoning of both urban and rural areas alike.
+Mass migration has resulted from mass unemployment in the hinterland, which is choking the ‘leading, modern’ cities, whonow have to face problems of slums and job creation.
+So many small firms now are under large corporations, but ‘small’ is still used to lend a homely character to the enterprise.
+But at the end of the day, humans will always prefer economic systems that can be controlled, that provide space for human interaction; for leisure and fruitful work.
+This is why in spite of the great seepage of the ideas of capitalism in the current scenario, small is beautiful is an idea that is still experimented with– some examples being cottage industries, MSMEs, self-help groups and local cafes.
+Here Schumacher brings about an interesting idea of intermediate technology.
+One cannot deploy latest technology into inexperienced hands immediately that would only lead to more problems.
+Developing countries needs to start with simpler models, so that people can learn and adjust to the mechanisms and move forward.
+However, we would have to ensure that people do not go into arms about getting ‘obsolete technology’ first and completely shun it, which is a probable outcome.
+Another was sharing of firms by both private and public parties, which he believed would lead to removal of profit taxes, and creation of public equity, so as to lessen the antagonism between the government and the private sector.
+All these solutions seem excellent, but all can be undermined by a very prominent force, corruption.
+However, there are people and organisations who still try to make positive changes in the world.
+There are still firms who have managed to balance control of power and freedom, like Scott-Bader, and the Intermediate Technology Development Group for instance.
+Mental illness is on the rise, with people committing suicides daily, or sinking into substance abuse.
+Modern organizations stripped the satisfaction out of work, making the worker no more than an anonymous cog in a huge machine.
+All he wanted was people-centered economics because he believed that that would enable environmental and human sustainability.
+Even after more than 40 years of his work, we are still battling a lot of issues discussed by Schumacher, and with the passage of time, it is only going to become more difficult.
+It is imperative that legal reins be tightened, and fruitful public policy be laid out for greater welfare of people.
+The book remains a treasure trove of idealistic, romantic economic thought.

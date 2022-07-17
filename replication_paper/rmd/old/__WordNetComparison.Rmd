@@ -1,0 +1,250 @@
+---
+title: "__WordNetComparison.Rmd"
+output: html_document
+date: '2022-05-18'
+---
+
+
+```{r, echo=FALSE}
+
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1.1_long_clean.Rds"))
+#icb_wide_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1_wide_clean.Rds"))
+codings_long_agreement <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_agreement.Rds") )
+codings_long_agreed <- readRDS( paste0(here::here(), '/replication_data/out/ICBe_V1.1_long_agreed.Rds'))
+codings_wide_agreed <- readRDS(file=paste0(here::here(),'/replication_data/out/ICBe_V1.1_wide_agreed.Rds'))
+
+#Load original icb data
+
+#oh is it because break is reserved in R? lol
+#icb_crises <- read_csv(file=paste0(here::here(), "/data_other_datasets/icb/icb1v14.csv")) %>% janitor::clean_names()
+icb_crises  <- read.csv(paste0(here::here(), "/replication_data/in/icb1v14.csv")) %>% janitor::clean_names()
+
+#somehow break of all things is a b roken name
+#icb_actors <- read_csv(file=paste0(here::here(), "/data_other_datasets/icb/icb2v14.csv"))
+icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
+
+
+```
+
+
+
+
+```{r include=F}
+#Load the ICB wide codings
+
+n_crisis <- codings_wide_agreed %>% dplyr::select(crisno) %>% unique() %>% nrow()
+n_sentences <- codings_wide_agreed %>% dplyr::select(crisno, sentence_number_int_aligned) %>% unique() %>% nrow()
+n_events <- codings_wide_agreed %>% dplyr::filter(event_number_int %in% c(1,2,3)) %>% nrow()
+n_events_cuba <- codings_wide_agreed %>% dplyr::filter(crisno == 196 & event_number_int %in% c(1,2,3)) %>% nrow()
+n_coders <- codings_wide_agreed %>% dplyr::select(email_id) %>% unique() %>% nrow()
+
+avg_coders_per_crisis <- codings_wide_agreed %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_coder = paste(crisno, email_id)) %>% dplyr::select(crisno, email_id) %>% unique() %>% dplyr::count(crisno) %>% dplyr::select(n) %>% lapply(mean)
+
+avg_coders_per_sentence <- codings_wide_agreed %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_sent = paste(crisno, sentence_number_int_aligned)) %>% dplyr::select(cris_sent, email_id) %>% unique() %>% dplyr::count(cris_sent) %>% dplyr::select(n) %>% lapply(mean)
+
+avg_events_per_coder_crisis <- codings_wide_agreed %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_coder = paste(crisno, email_id)) %>% dplyr::count(cris_coder) %>% dplyr::select(n) %>% lapply(mean)
+
+#events_per_sentence <- codings_wide_agreed %>%
+#                      filter(!is.na(sentence_number_int_aligned)) %>%
+#                      dplyr::select(email_id, crisno,sentence_number_int_aligned,  event_type) %>%  #event_number_int
+#                      group_by(email_id,crisno,sentence_number_int_aligned) %>%
+#                      summarise(event_count = sum(!is.na(event_type) ) ) %>%
+#                      mutate_all(as.numeric) %>%
+#                      group_by(crisno,sentence_number_int_aligned) %>%
+#                      summarise(
+#                        event_count_min=event_count %>% min(),
+#                        event_count_mean=event_count %>% mean(na.rm=T),
+#                        event_count_max=event_count %>% max()
+#                      ) %>%
+#                      arrange(crisno,sentence_number_int_aligned)
+#
+#events_per_crisis <- events_per_sentence %>% group_by(crisno) %>% summarise(event_count_mean_sum=sum(event_count_mean))
+
+#crisis_text_counts <- codings_wide_agreed %>%
+#  #mutate( input_crisis = input_crisis %>% str_replace_all("[^A-Za-z0-9 ]","") ) %>% #Throws a latex error  #inputenc Error: Unicode char \u8: not set up for use with LaTeX
+#  #https://www.google.com/search?q=R+replace+00A0&oq=R+replace+00A0&aqs=chrome..69i57j0i20i263i512j0i512l2j69i65j69i60l3.1744j0j7&sourceid=chrome&ie=UTF-8
+#  dplyr::select(crisno, sentence) %>%
+#  #mutate(input_crisis = input_crisis %>% stringr::str_to_title()) %>%
+#  #mutate(input_crisis = input_crisis %>% stringr::str_replace_all('[0-9]$','')) %>%
+#  mutate(sentence = sentence %>% stringr::str_to_lower()) %>%
+#  distinct() %>%
+#  #filter(!is.na(input_crisis)) %>%
+#  filter(!is.na(sentence)) %>%
+#  mutate(word_count=str_count(sentence, '\\w+')) %>%
+#  group_by(crisno) %>%
+#  summarise(
+#    sentence_count=n(),
+#    word_count=sum(word_count)
+#  )
+
+
+#Even type
+
+library(sjmisc)
+event_type_per_sentence <- codings_wide_agreed %>%
+  filter(!is.na(sentence_number_int_aligned)) %>%
+  dplyr::select(email_id, crisno,sentence_number_int_aligned,  event_type)  %>%
+  to_dummy(event_type, suffix = "label") %>%
+  bind_cols( icb_wide_clean %>%
+               filter(!is.na(sentence_number_int_aligned)) %>%
+               dplyr::select(email_id, crisno,sentence_number_int_aligned,  event_type) ) %>%
+
+  group_by(email_id,crisno,sentence_number_int_aligned) %>%
+  summarise_if( is.numeric, sum ) %>%
+
+  group_by(crisno,sentence_number_int_aligned) %>%
+  summarise_if( is.numeric, mean, na.rm=T ) %>%
+  arrange(crisno,sentence_number_int_aligned)
+
+event_type_per_sentence_totals <- event_type_per_sentence %>% ungroup() %>% summarise_if( is.numeric, sum, na.rm=T ) %>% dplyr::select(-crisno)
+event_type_per_sentence_totals_perc <- event_type_per_sentence_totals/sum(event_type_per_sentence_totals)
+
+```
+
+
+
+```{r , message=F}
+
+icb_text <- codings_wide_agreed %>% dplyr::select(crisno,sentence_number_int_aligned, sentence_span_text) %>% distinct() %>% dplyr::mutate_at(vars(sentence_number_int_aligned), as.numeric) %>% arrange(crisno,sentence_number_int_aligned)
+
+# writeLines(icb_text$sentence %>% na.omit() %>% iconv("UTF-8", "ASCII", "?"), paste0(here::here(), "/replication_data/temp/sentences.txt"), useBytes = T)
+
+fromscratch=F
+if(fromscratch){
+
+  library("spacyr")
+  #spacy_install()
+  spacy_initialize(model = "en_core_web_sm")
+
+  parsed <- spacy_parse(icb_text$sentence_span_text, nounphrase = TRUE)
+  parsed_consolidated <- nounphrase_consolidate(parsed)
+  parsed$doc_id_num <- parsed$doc_id %>% str_replace_all("text","") %>% as.numeric()
+  parsed$crisno <- icb_text$crisno[parsed$doc_id_num]
+  parsed$sentence_number_int_aligned <- icb_text$sentence_number_int_aligned[parsed$doc_id_num]  %>% as.numeric()
+  parsed$sentence <- icb_text$sentence[parsed$doc_id_num]
+
+  parsed %>% saveRDS(paste0(here::here(), "/replication_paper/data/temp/parsed.Rds"))
+
+  entities <- entity_extract(parsed, type = "all")
+  entities %>% saveRDS(paste0(here::here(), "/replication_paper/data/temp/entities.Rds"))
+
+} else {
+  parsed <- readRDS(paste0(here::here(), "/replication_paper/data/temp/parsed.Rds"))
+  entities <- readRDS(paste0(here::here(), "/replication_paper/data/temp/entities.Rds"))
+
+}
+
+entities$doc_id_num <- entities$doc_id %>% str_replace_all("text","") %>% as.numeric()
+entities$crisno <- icb_text$crisno[entities$doc_id_num]
+entities_unique <- entities %>% dplyr::select(entity,entity_type) %>% mutate(entity = entity %>% str_to_lower() %>% str_replace_all("[^A-Za-z0-9]","") ) %>% distinct()
+
+target_file <- paste0(here::here(),"/replication_data/in/icb_manual_recoding_master_sheet.xlsx")
+
+dictionary_actors    <- readxl::read_excel(target_file, sheet="actors")
+actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator")
+
+
+unique_agent_q_codes <- dictionary_actors$value_disaggregated_wikidata_id %>% na.omit() %>% unique() %>% str_split(";") %>% unlist() %>% trimws() %>% unique()
+unique_actor_q_codes <- dictionary_actors$value_normalized_wikidata_id %>% na.omit() %>% unique() %>% str_split(";") %>% unlist() %>% trimws() %>% unique()
+
+verbs_sentence <- parsed %>% filter(pos=="VERB")
+
+verbs <- parsed %>% filter(pos=="VERB") %>% dplyr::select(lemma, pos) %>% distinct()
+
+entities_per_sentence <- entities %>%
+  count(doc_id) %>%
+  summarise(
+    entities_per_sentence_min=min(n),
+    entities_per_sentence_mean=mean(n),
+    entities_per_sentence_max=max(n),
+  )
+
+```
+
+```{r, messages=F, results='hide', warnings=F, include=FALSE}
+
+#wordnet rdf (in tripple format)
+fromscratch=F
+
+wordnet_rdf <- readRDS(paste0(here::here(), "/replication_paper/data/in/wordnet_rdf.Rds") )
+
+subject_headings <- wordnet_rdf %>% as_tibble() %>% filter(value %>% str_detect('http://purl.org/dc/terms/subject'))
+subject_headings_verbs <- subject_headings %>%
+  filter(value %>% str_detect('-v>')) %>%
+  mutate(value=value %>% str_replace("<http://wordnet-rdf.princeton.edu/id/","2")) %>%
+  mutate(value=value %>% str_replace("-v> <http://purl.org/dc/terms/subject> ","\t")) %>%
+  separate(value, c("a", "b"), extra = "drop", fill = "right", sep="\t") %>%
+  mutate(b = b %>% str_replace_all('\\"| \\.',""))
+
+#wordnet csv
+filenames <- list.files(path=paste0(here::here(), "/replication_paper/data/in/wncsv-master/csv/") )
+filepaths <- list.files(path=paste0(here::here(), "/replication_paper/data/in/wncsv-master/csv/"), full.names = T)
+
+
+wordnet_list <- lapply(filepaths, read_csv, col_names=F, progress=F #, show_col_types=F)
+)
+names(wordnet_list) <- filenames
+
+hypernyms <- wordnet_list[['wn_hyp.csv']] %>%
+  dplyr::select(a=X1,b=X2) %>%
+  left_join(wordnet_list[["wn_s.csv"]] %>% dplyr::select(a=X1, a_lemma=X3) ) %>%
+  left_join(wordnet_list[["wn_s.csv"]] %>% dplyr::select(b=X1, b_lemma=X3) )
+
+library(igraph)
+g_hypernyms <-  graph_from_data_frame(hypernyms, directed = TRUE)
+
+
+wordnet <- wordnet_list[["wn_s.csv"]] %>% dplyr::select(wordnetid=X1, lemma=X3, tense=X4) %>% full_join( wordnet_list[['wn_g.csv']] %>% dplyr::select(wordnetid=X1, gloss=X2) )
+
+wordnet_verbs <- wordnet %>% filter(tense=='v')
+
+verbs_sentence_wordnet <- verbs_sentence %>% left_join(wordnet_verbs)
+#dim(verbs_sentence_wordnet) #227,426
+
+#I think we use sbert to embed the original sentence and the gloss and then calculate pairwise distances
+
+```
+
+
+```{r, echo=F, messages=F, warnings=F, results='hide', eval=T}
+
+fromscratch=F
+if(fromscratch){
+  #py$sentences
+  #py$glosses
+  sentences_embeddings <- py$sentences_embeddings
+  glosses_embeddings <- py$glosses_embeddings
+
+  rownames(sentences_embeddings) <- py$sentences #[1:100]
+  rownames(glosses_embeddings) <- py$glosses #[1:100]
+  dim(glosses_embeddings)
+
+  condition_glosses_embeddings <- verbs_sentence_wordnet$gloss %in% rownames(glosses_embeddings)
+  table(condition_glosses_embeddings) #there are 130 glosses that aren't in there
+  gloss_clean <- verbs_sentence_wordnet$gloss
+  gloss_clean[!condition_glosses_embeddings] <- rownames(glosses_embeddings)[1] #just a placeholder need to kill after
+  glosses_embeddings_expanded <- glosses_embeddings[gloss_clean ,]
+  dim(glosses_embeddings_expanded)
+
+  condition_sentences_embeddings <- verbs_sentence_wordnet$sentence %in% rownames(sentences_embeddings)
+  table(condition_sentences_embeddings) #all are in it
+  sentences_clean <- verbs_sentence_wordnet$sentence
+  sentences_clean[!condition_sentences_embeddings] <- rownames(sentences_embeddings)[1] #just a placeholder need to kill after
+  sentences_embeddings_expanded <- sentences_embeddings[sentences_clean ,]
+  dim(sentences_embeddings_expanded)
+
+  #Isn't it just one minus the other?
+  verbs_sentence_wordnet$distances <- rowSums((glosses_embeddings_expanded-sentences_embeddings_expanded)^2)
+  verbs_sentence_wordnet <- verbs_sentence_wordnet %>% arrange(crisno, sentence_number_int_aligned, token_id, distances)
+  verbs_sentence_wordnet %>% saveRDS(paste0(here::here(), "/replication_paper/data/temp/verbs_sentence_wordnet.Rds"))
+
+} else {
+
+  verbs_sentence_wordnet <- readRDS(paste0(here::here(),"/replication_paper/data/temp/verbs_sentence_wordnet.Rds"))
+
+}
+
+verbs_sentence_wordnet_top <- verbs_sentence_wordnet %>% group_by(crisno, sentence_number_int_aligned, token_id) %>% filter(row_number()==1)
+verbs_sentence_wordnet_top_unique <- verbs_sentence_wordnet_top %>% ungroup() %>% dplyr::select(lemma, wordnetid,tense, gloss) %>% group_by(lemma, wordnetid,tense, gloss) %>% count() %>% arrange(desc(n))
+
+```

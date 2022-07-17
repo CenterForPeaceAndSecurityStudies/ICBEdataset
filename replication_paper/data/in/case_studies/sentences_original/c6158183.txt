@@ -1,0 +1,10 @@
+Bertrand Russel compared the Cold War politics to the chicken game, known from game theory.
+Player 2 Swerve Straight Player 1 Swerve Tie, Tie Lose, Win Straight Win, Lose Crash, Crash Jacek Rothert Cold War and Game Theory Chicken game Idea: two cars driving towards each other.
+In the chicken game it is important to convince your enemy that you will not swerve.
+If I believe the other guy is crazy and will rather crash than swerve, I’d rather swerve.
+We will use a repeated version of the Prisoner’s Dilemma to answer this question.
+Prisoner 2 stay silent betray Prisoner 1 stay silent 0,0 -5,5 betray 5,-5 -3,-3 The unique equilibrium of this game is quite a “bad” equilibrium for the two prisoners.
+Jacek Rothert Cold War and Game Theory Repeated Prisoner’s Dilemma Example 1 Suppose USA and USSR restrain from attacking in each period.
+Jacek Rothert Cold War and Game Theory Repeated Prisoner’s Dilemma Example 2 Suppose USSR considers attacking today but knows that it will cause retaliation tomorrow.
+If you care enough about tomorrow, it is possible to make an equilibrium of the game.
+Jacek Rothert Cold War and Game Theory Jacek Rothert Cold War and Game Theory Importance of Game Theory 1 We used economic tools to understand real-life political situation.

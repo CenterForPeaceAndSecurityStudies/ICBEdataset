@@ -1,0 +1,244 @@
+FCZagare@Buffalo.edu; Tel.: +1-716-645-8442; Fax: +1-716-645-2166 Received: 4 December 2013; in revised form: 4 January 2014 / Accepted: 14 January 2014 / Published: 22 January 2014 Abstract: This study surveys and evaluates previous attempts to use game theory to explain the strategic dynamic of the Cuban missile crisis, including, but not limited to, explanations developed in the style of Thomas Schelling, Nigel Howard and Steven Brams.
+All of the explanations were judged to be either incomplete or deficient in some way.
+Schelling’s explanation is both empirically and theoretically inconsistent with the consensus interpretation of the crisis; Howard’s with the contemporary understanding of rational strategic behavior; and Brams’ with the full sweep of the events that define the crisis.
+The broad outlines of a more general explanation that addresses all of the foundational questions associated with the crisis within the confines of a single, integrated, game-theoretic model with incomplete information are laid out.
+Cuban missile crisis; game theory; threat that leaves something to chance; metagame theory; theory of moves; analytic narrative 1.
+There is perhaps no clearer manifestation of this observation in the field of security studies than the attempts by game and decision theorists to explain the Cuban missile crisis, an event whose significance in international affairs almost defies hyperbole.
+In light of developments, one might well expect that explanations of the crisis have been adjusted and refined.
+Indeed, this has been the case in both the general literature of the crisis and in the explanations constructed by game theorists.
+But the parallel game-theoretic literature also reflects controversies and refinements within game theory itself.
+As game theory has evolved, so have the explanations fashioned by its practitioners.
+The purpose of this essay is to trace these explanatory refinements using the Cuban crisis as a mooring and to briefly outline a new interpretation of the crisis that exploits both the advances in game theory over time and the expanded evidentiary base.
+Before beginning, however, two preliminary questions must be addressed.
+The surveyed explanations will be evaluated by the extent to which all three of these questions are answered.
+In return for a public United States pledge not to invade Cuba and a private assurance that United States controlled missiles in Turkey would eventually be dismantled, the Soviets agreed to withdraw the missiles.
+Though there are some who argue otherwise , this analysis will take as its starting point the fact that there was no clear winner of the crisis, that the key event to be explained was a political bargain in which both sides gave way.
+As will be seen, coding the outcome a “compromise”, confounds explanation.
+Within game theory, this task is delegated to the game’s equilibria, which are particular combinations of strategy choices such that no one player has an incentive to abandon its strategy given that none of the other players switch to another strategy at the same time.
+An explanation is … the assurance that an outcome must be the way it is because of antecedent conditions.
+Of all the outcomes in a game, only the equilibria are consistent with rational choices by all of the players.
+The assumption that the players in a game are rational, therefore, leads naturally to the expectation that they will make choices that are associated with some equilibrium outcome.
+Game-theoretic explanations and predictions derive from this expectation.
+Similarly, game-theoretic predictions about future play presume rational choice— that is, the assumption is that an equilibrium choice will be made by each of the players.
+The precise definition of an equilibrium depends on whether the game’s depiction is dynamic or static and on whether the players have complete or incomplete information about one another’s preferences.
+In what follows the technical details between different types of equilibria will be suppressed whenever possible.
+The interested reader should consult Morrow or another standard source on game theory for any omitted particulars.
+Thomas Schelling and the Threat-That-Leaves-Something-to-Chance The benchmark against which all other explanations of the crisis should be measured is Thomas Schelling’s.
+Strictly speaking, however, Schelling never actually offered a fully formed explanation of the missile crisis.
+Nonetheless, an explanation can be pieced together from several lengthy passages about the crisis in the book.
+A Win in this game occurs when one of the players cooperates by choosing C when the other defects from cooperation by choosing D A Compromise is reached if both cooperate.
+Economies 2014, 2 23 In Chicken, the assumption is that each player most-prefers to win and, failing that, to compromise.
+Chicken’s defining characteristic, however, is the further assumption that Conflict is a mutually worst outcome.
+In other words, each player’s preference is to back off and allow the other player to win rather than crash head on.
+The first entry in each cell indicates the payoff to State A, the second to State B Each player’s highest ranked outcome is indicated by a rank of “4”, the next most-preferred by “3”, and so on.
+The outcome called Conflict is the lowest ranked outcome of both players.
+From a game-theoretic perspective, Chicken presents a number of perplexing analytic problems.
+There are two Nash equilibria in Chicken .3 A Nash equilibrium is the accepted measure of rational behavior in normal-form games with complete information.
+But the two Nash equilibria are neither equivalent—that is, they are associated with different payoffs to the players—nor interchangeable in the sense that the strategies associated with them may not have identical consequences.
+This is especially true in Chicken where the players have symmetric roles.
+Schelling’s answer to both questions is that the player who is the first to commit to driving straight on will force the other player to swerve, and will thereby gain the advantage.
+In a chapter appropriately entitled “The Art of Commitment” he offered several examples of commitment artists at work.
+Prime among them was President Kennedy’s televised speech to the nation on October 22.
+Schelling went on to note, however, that a firm commitment was probably not necessary.
+Of course, what is true for one player is also true for the other in any symmetric game, which is why Schelling came to view intense interstate crises such as Cuba as risk taking contests.
+This is a feature of strategic-form games that many first wave strategic theorists, including Schelling, seemed not to recognize.
+Worse still, once the canoe starts to wobble, neither might be able to stabilize it.
+Thus, in any crisis, there was an autonomous risk of war, a risk of things spiraling out of control.
+Schelling’s intuition led him to argue that this was a type of risk that could be used to successfully manage an intense interstate conflict.
+But the blockade, as measured as it was, still carried with it the possibility of an inadvertent nuclear exchange.
+Schelling was not the only one to code the outcome of the crisis as a “win” for the United States and to attribute it to President Kennedy’s adroit brinkmanship.
+But throughout the crisis he coolly and exactly measured the level of force necessary to deal with the level of threat.
+Defining a clear and limited objective, he moved with mathematical precision to accomplish it.
+Schlesinger’s interpretation of the crisis and, by extension, Schelling’s, has not withstood the test of time and informed historical scrutiny.
+Michael Dobbs , for example, recently noted that “the White House tapes demonstrate that Kennedy was a good deal more nuanced, and skeptical, about the value of ‘red lines’ than his political acolytes were.
+Economies 2014, 2 25 Both Dobbs and Trachtenberg, then, find little evidence of the mathematically precise manipulation of threat levels that Schlesinger wrote about.
+Of course, their empirical observations do not necessarily mean that Schelling’s view of the crisis as a competition in risk taking can be cast aside.
+Thus, before rejecting Schelling’s explanation of the missile crisis, a more compelling reason would have to be given.
+In the years immediately after Schelling wrote, a determinative assessment of his interpretation of the crisis was problematic.
+At about the same time that Achen and Snidal wrote, however, Robert Powell developed a two-person sequential game model that nicely filled the theoretical void.
+In Powell’s model one player begins play by deciding whether to accept the status quo, to escalate the contest by challenging it, or to attack.
+If that player chooses not to contest the status quo or to attack, the game ends.
+But if escalation is chosen, the other player is faced with similar choices.
+Significantly, the four possible outcomes in this model are the same as in Chicken.
+If the player choosing first does not escalate or attack, the status quo prevails.
+If one player escalates and the other does not, the escalating player wins.
+And if both players escalate, the game continues until one player submits or until the game “gets out of control” and culminates in disaster.
+Powell assumes that by choosing to escalate, a player unleashes an autonomous risk, beyond its control, of an all-out war.
+Given these assumptions, Powell shows that the existence of a crisis equilibrium, that is, a stable outcome that arises after a challenge by one player and resistance by the other, depends on incomplete information, that is, each side’s lack of information about the values of its opponent.
+The clear implication is that the political bargain that brought the Cuban crisis to a close cannot be adequately explained by a mutual fear that things might spiral out of control.
+If the Cuban crisis were truly a competition in risk taking, there could have been no compromise; there would either have been a clear “winner” or a thermonuclear war.
+To put this in a slightly different way, Schelling’s interpretation of the Cuban missile crisis and, arguably, of most other intense major power disputes,11 is game-theoretically inconsistent with what is now a strong consensus among historians and foreign policy analysts that the resolution of the 7 Snyder and Diesing also find no example of the use of this and, for the most part related, coercive bargaining tactics in the sixteen major interstate crises they studied.
+Powell’s model, however, suggests that when deterrence breaks down, the connection between resolve and victory in a crisis does not always depend on a greater willingness to risk war.
+The historical record shows not only that President Kennedy was more than eager to compromise, but that he was also willing to offer much more than he did to end the high stakes stalemate that the Soviets referred to as the Caribbean crisis.
+The lack of fit between Schelling’s theoretical explanation and the resolution of the crisis is indeed disturbing.
+Howard’s analysis begins on Tuesday October 16, the day that President Kennedy was told that the Soviets were installing missiles in Cuba.
+On October 22, after a full review of United States options, Kennedy announce the blockade.
+Like Schelling and most other strategic analysts of this era, Howard assumes a payoff structure that defines the crisis as a game of Chicken.
+Recall that in Chicken, Conflict is the worst outcome, and Compromise is second-best outcome, for both players.
+In Howard’s representation , an all-out Conflict would ensue if the Soviet Union decided to maintain the missiles and the United States launched an air strike to remove them.
+By contrast, a Compromise would be reached if the United States decided to blockade Cuba and the Soviets responded by agreeing to withdraw their missiles.
+Of course, this is what happened so Howard, unlike Schelling , implicitly accepts what is now the standard understanding of the crisis’s resolution, that is, that it was a draw.
+As noted above, the existence of two non-equivalent and non-interchangeable Nash equilibria in Chicken, each with equal status as a solution candidate, confounds a game-theoretic analysis.
+Similarly, a United States Victory would have occurred if the United States used force to remove the missiles.
+Building on an idea first suggested by von Neumann and Morgenstern , Howard altered the underlying game to reflect the possibility that the players might be able to anticipate each other’s strategy choice.
+Presuming that each player bases its own strategy choice on the strategy it expects the other to select, a new game—the metagame—is rendered and played “in the heads” of the players prior to the play of the actual game.
+One way to think about Howard’s reformulation of classical game theory is as a theory of equilibrium selection.
+In the metagame, the metastrategies can be interpreted as signals that the players send to one another before the game begins.
+These signals, verbal or otherwise, allow each of the players to anticipate the other’s strategy choice.
+In other words, the theory of metagames attempts to model the impact of preplay communication in a non-cooperative game environment.
+Howard’s goal is to identify those communication patterns that are consistent with rational choice, that is, are associated with the metaequilibria.
+Within the theoretical confines of the theory of metagames, an explanation is uncovered when a plausible connection is made between a communication pattern, a pair of metastrategies, and an observed metaequilibrium.
+Because preplay communication allows the players to form a common conjecture about the way the game will be played, the problem of multiple non-interchangeable and non-equivalent equilibria is potentially rendered moot.
+To illustrate, assume that, as the crisis unfolded, the Soviet leadership believed that it could correctly anticipate the strategy choice of the United States.
+If this were the case, the range of choices available to the Soviet Union would expand.
+Notice that the third metastrategy of the Soviet Union is conditionally cooperative.
+Under a mixed strategy equilibrium in a 2 × 2 game, all four outcomes occur with positive probability.
+Thus, one might expect the compromise outcome in Chicken to occur, but only sometimes, and not necessarily often.
+All of which suggests that it provides, at best, a very weak explanation for the resolution of the Cuban crisis; at worst, it provides no explanation at all.
+Two correspond to the Nash equilibria in the original Chicken game while the third——is strictly a product of the metagame.
+The additional metaequilibrium, however, does not materially expand the set of distinct rational strategic possibilities,e., it is repetitive.
+To support this outcome in equilibrium, however, each player must intend to choose conditionally cooperative metastrategies and convey this intention to the other.
+And the United States must intend to cooperate by blockading Cuba if the Soviet Union cooperates by withdrawing the missiles.
+Economies 2014, 2 29 This is an interesting and potentially important theoretical result.
+If it stands a logically consistent rational choice explanation of the political bargain that ended the missile crisis will have been developed.
+Whether it stands, however, depends on the interpretation of the metaequilibria.
+Each, therefore, describes a logical possibility in a game between rational players.
+Which metaequilibrium eventually comes into play depends on what the players expect from one another, or what they communicate to each other, in pre-play bargaining and discussion.
+In the present example, then, a bargain was struck not only because both players were prepared to cooperate but also because both indicated that they were willing to run the risk of all-out war (the Soviets by maintaining their missiles and the United States by using an air strike to remove them) if the other was unwilling to cooperate.
+As Howard notes , if only one of the players was willing to risk war, that player would have won.
+For instance, if the Soviet Union limits itself to the two metastrategies that do not admit the possibility of the Conflict outcome, Withdraw Regardless and Tat-for Tit , the only remaining metaequilibria are associated with a victory for the United States.
+Worse still, there is a compelling strategic rationale that suggests that the metastrategies required to effect a compromise would not be selected by rational agents.
+Economies 2014, 2 30 Notice that the metastrategy A/B/B/A—or what Howard refers to as the “sure-thing” metastrategy—is weakly dominant for the United States, giving the Soviet Union good reason to suspect that the United States would choose it; and since M Regardless is the Soviet Union’s best response to A/B/B/A, the United States would have had a good reason to suspect that the Soviets were going to choose it.
+All of which suggests that the metaequilibrium associated with these two metastrategies, which would bring about a Soviet victory, might well evolve in an actual play of the metagame.
+Howard, however, rejects this outcome as the solution to the metagame, and denies that any particular reason exists for singling it out.
+Harsanyi , however, argues convincingly that the use of any dominated metastrategy is irrational and, hence, incredible.
+Since a player with a dominant metastrategy always maximizes its expected utility by choosing it, there is no good reason for an opponent to believe that any other metastrategy would be chosen.
+This, in turn, implies that a player with a dominant metastrategy should choose it.
+Specifically, if the United States were to select its retaliatory metastrategy A/A/B/A and the Soviet Union, anticipating the sure-thing metastrategy A/B/B/A, selects M Regardless, each player’s worst outcome, Conflict, results.
+It is difficult to ignore Harsanyi’s admonition not to abandon the use of even a weakly dominant strategy.
+To be sure, Howard’s metagame theory provides insight into the conditions that are both necessary and sufficient to effect a political compromise during a crisis.
+But, because it lacks a normative foundation, at least according to Howard, an explanation of the missile crisis within its theoretical confines can only be considered weak and incomplete.
+Fraser, Hipel and the Analysis of Options Technique Niall Fraser and Keith Hipel’s explanation of the Cuban missile crisis begins where Howard’s leaves off.
+Like Howard’s theory of metagames, Fraser and Hipel’s analysis of options (or improved metagame) technique should be interpreted, at least in part, as a proto-theory of equilibrium selection.
+But unlike Howard’s attempt to reformulate classical game theory, Fraser and Hipel’s subtle refinement of Nash’s equilibrium concept adds a distinctly dynamic element into the analysis of complex conflicts.
+As its name suggests, Fraser and Hipel’s innovative methodology explores the stability characteristics of every feasible combination of strategy choices in a game and suggests a path leading to the selection of one equilibrium when multiple equilibria exist.
+Like Howard , their analysis of the Cuban crisis begins with the discovery of the missiles on October 16.
+Perform no aggressive action, either by doing nothing or by using normal diplomatic channels to try to induce the Soviets to remove the missiles, 2.
+Clearly, some of these options are mutually exclusive, while other could be selected concurrently.
+For instance, the Soviets could not both withdraw and maintain the missiles, although the United States could blockade and attack the missiles sites at the same time.
+After eliminating the mutually exclusive combinations of options, twelve feasible combinations and, hence, twelve different outcomes, remain.
+A “1” indicates that the option has been selected, a “0” that it has not been selected.
+For instance, one option for the United States is to “do nothing”, that is, neither blockading nor striking.
+To explore the stability characteristics of the set of feasible outcomes they start with preference assumptions.
+Specifically, Fraser and Hipel assume that the United States most-prefers outcome 4 (which is brought about when it does nothing and the Soviets withdraw their missiles) to outcome 6 (in which the Soviets withdraw their missiles in response to a blockade), and so on.
+Next, they ask whether any of the outcomes offer either player a “unilateral improvement” , which is defined as a better outcome a player can induce by 17 Fraser and Hipel do not provide a detailed justification for their preference assumptions.
+For example, the United States has a unilateral improvement from outcome 6, its second-best outcome, to outcome 4, its most-preferred outcome.
+E E X X X X X X X X X X Overall Stability United States r s u u r u u u r u u u Player Stability 4 6 5 7 2 1 3 0 11 9 10 8 Preference Vector 4 4 4 2 2 2 11 11 11 UI 6 6 1 1 9 9 UI 5 3 10 UI USSR r s r u r u r u u u u u Player Stability 0 4 6 2 5 1 7 3 11 9 10 8 Preference Vector 0 6 5 7 7 5 6 0 UI 3 1 2 4 UI To determine which of the twelve outcomes are in equilibrium, a multi-step search procedure is necessary.
+These steps involve characterizing the stability, or lack thereof, of each outcome.
+Rational outcomes are those for which a player has no unilateral improvements.
+Sanctioned outcomes, designated by an “s” in the row above each player’s preference vector, are those for which the other player can credibly induce a worse outcome for a player who acts on a unilateral improvement.
+A credible action is one which brings about a better outcome for the sanctioning player.
+For example, the unilateral improvement of the United States from outcome 6 to outcome 4 is sanctioned by the Soviet Union since the Soviets can unilaterally induce outcome 0, which it prefers and which the United States does not prefer, to outcome 4.
+Unstable outcomes, designated by a “u”, are those with an unsanctioned unilateral improvement.
+To choose between these competing equilibria, Fraser and Hipel examine the game’s status quo outcome, outcome 0, which was the state of the world on October 15, the day before the missiles were discovered.
+This is the outcome that obtains when the Soviets maintain their missiles and the United States does nothing.
+Although outcome 0 is rational for the Soviet Union, it is unstable for the 18 There is a fourth type, an outcome that is rendered “stable by simultaneity”, that does not come into play in their analysis of the missile crisis.
+Economies 2014, 2 33 United States, which can induce three other outcomes it prefers to outcome 0 simply by switching to another course of action.
+Of these three unilateral improvements, outcome 2 would be the US preference.
+The likely Soviet response to the blockade can be also deduced from its incentive structure.
+At outcome 2, the Soviets have a unilateral improvement to outcome 6, which it can bring about by withdrawing the missiles.
+Since, by definition, neither player can do better at an equilibrium by unilaterally switching to another course of action, the game would rationally end there.
+Thus, Fraser and Hipel are able to successfully explain why the United States blockaded Cuba and why the Soviets responded by withdrawing the missiles.
+What they are unable to explain, however, is why the dynamic process they explore did not stop at that point.
+Notice that the United States has a unilateral improvement from outcome 6 to outcome 4, which is also an equilibrium.
+Moreover, not only is outcome 4 Pareto-superior to outcome 6, but it is in fact a more accurate description of the flow of events that brought the crisis to a close.
+After all, once the Soviets withdrew their missiles, the United States dropped the blockade.
+Recall that a unilateral improvement from an outcome is sanctioned for a player if the other player has a credible response that leaves the player acting on the unilateral improvement worse off.
+In effect, this criterion limits each player’s foresight to a single move and counter-move.
+But this answer would require that the United States consider the consequences of three moves rather than just two.
+With laudable but nonetheless perplexing consistency, then, Fraser and Hipel fail to fully extend the strategic logic of their model.
+In consequence, their explanation of the missile crisis necessarily falls short of the mark.
+While it uses the input of their improved metagame technique, it is not a game-theoretic model.
+Here I concentrate on the theoretical core of all his explanations and ignore the subtle differences that set the various explanations apart.
+Like Fraser and Hipel , Brams abandons both a normal-form representation and the standard Chicken analogy.
+The ordered pair in each cell of the matrix reflects Brams’ understanding of the relative ranking of the four possible outcomes by the United States and the Soviet Union, respectively.
+Brams assumes that once a game begins either player can move from whatever outcome is the initial state (or status quo outcome) and, if it does, the other can respond, the first can counter-respond, and so on.
+The process continues until one player decides not to respond, and the outcome that they are at is the final outcome.
+For instance, he suggests that the compromise outcome can also be supported in equilibrium if Khrushchev either deceived the United States by suggesting that the compromise outcome was his most-preferred or if his preferences “deteriorated” as the crisis progressed and the compromise outcome actually was his most-preferred.
+Additionally, Brams constructed an extensive-form game model in which the compromise outcome is a Nash equilibrium.
+Economies 2014, 2 35 When Kennedy announced the blockade on October 22, the Soviet missiles were already being installed in Cuba.
+This, the initial state of the world, was the worst for the United States and best for the Soviet Union.
+Brams suggests several reasons why the Soviet Union would then withdraw the missiles and induce its next-best outcome, the Compromise outcome, rather than stick with its initial choice.
+Or, if the United States possessed threat power, which is the ability to threaten a mutually disadvantageous outcome in the first play of a repeated game, it could similarly induce the Soviet Union to withdraw the missiles by threatening to remove them with an air strike if they did not.
+But regardless of the reason why the Soviets decided to withdraw the missiles, once they did, the game ended.
+Brams’ explanation is that the Compromise outcome is a nonmyopic equilibrium, that is, neither player can do better by moving the game to another state of the world by changing its strategy choice, given that the other might then switch to another strategy, it might then be forced to also change its strategy, and so on.
+At the last node of this tree, the United States has a choice of staying at its second-worst outcome or cycling back to the Compromise outcome, its second-best.
+But it would do so not because it prefers to — which it does—but because it would anticipate the outcome induced by the American choice at the subsequent node which is better still.
+Counter-intuitively, perhaps, the United States would, at the second node of the tree, also rationally move to its best outcome, not because it is its best outcome, but because it prefers to cycle back to the Compromise outcome, which is its second-best, to terminating the game at , its least-preferred outcome.
+Finally, Brams argues that the Soviet Union would stick with its choice to withdraw the missiles simply because, by not doing so, it would only cycle back to the Compromise outcome.
+It would be a straightforward exercise to show that there is also no incentive for the United States to precipitate the move-countermove process once the Compromise outcome is reached.
+And since neither player has a long-term incentive to move away from this outcome if and when it is reached, it constitutes a nonmyopic equilibrium.
+As an equilibrium the Compromise outcome is, by definition, consistent with the rationality postulate.
+All of which is another way of saying that the Soviet Union withdrew the missiles because, looking ahead, they 22 Interestingly, Brams shows that it was in the interest of the United States to allow the Soviet Union to precipitate the move counter-move process rather than initiate the process itself.
+Economies 2014, 2 37 believed that maintaining them would not be in their long-term interest.
+Given the American blockade and the incentive structure of the game, they simply could not win.
+The Theory of Moves is a simple and extremely intuitive methodology for analyzing complex interstate conflicts like the missile crisis; it is also more general than the analysis of options technique developed by Fraser and Hipel ; its major solution concepts are easy to calculate and interpret; and since it is based only on ordinal utilities, it requires fewer “heroic assumptions” than many other game-theoretic frameworks.
+In the case of the missile crisis, however, its strengths are also it weaknesses.
+Since the concept of a nonmyopic equilibrium has not as yet been successfully defined in games in which the players have more than two strategies each, it can only be used to assess the rationality of four outcomes at a time.
+This limitation explains why Brams starts his analysis on October 22, the day that Kennedy announced the blockade.
+These are questions that Brams does not address and, in fact, cannot address within the confines of a single integrated game model using the Theory of Moves framework.
+Thus, while his analysis of the end-game of the crisis is both insightful and penetrating, his explanation remains incomplete.
+R Harrison Wagner and Games with Incomplete Information By the mid-1980s it was apparent that a sea change was underway in the game-theoretic literature of international relations.
+First, there was a distinct shift away from the static environment of strategic-form games, where the central equilibrium concept is Nash’s, toward the dynamic framework provided by the extensive-form, where the accepted measure of rational behavior is Selten’s concept of a subgame perfect equilibrium.
+And second, the until-then standard assumption of complete information fell by the wayside and the analysis of games of incomplete information became the norm.
+In an extensive-form game of incomplete information, rational choices are associated with perfect Bayesian equilibria .24 Both of these developments are clearly reflected in the work of R Harrison Wagner who was the first to make use of the modern theory of games with incomplete information to analyze the Cuban crisis.
+Starting with a straightforward crisis bargaining model that he claims broadly mirrors both the choices and the sequence of moves made by the United States and the Soviet Union, he deduces what must have been true, game theoretically, for Khrushchev to introduce the missiles in Cuba; for Kennedy to have implemented a blockade rather than 23 Unlike a Nash equilibrium, a subgame-perfect equilibrium requires the players to plan to choose rationally at every node of the game tree.
+As such, it specifies an action choice for every type of every player at every decision node or information set belonging to the player.
+It must also indicate how each player updates its beliefs about other players’ types in the light of new information obtained as the game is played out.
+Economies 2014, 2 38 respond in a more aggressive way; and for the bargain that ended the crisis to have come about.
+Proceeding backwards through the game tree of his model, Wagner then constructs a equilibrium25 , or a set of strategies, that is consistent with the rational choices of both Kennedy and Khrushchev, given their inferred preferences and beliefs.
+For example, the characteristics of the equilibrium he discovers suggests that Khrushchev’s refusal to halt work on the missile sites provided him with valuable information about Kennedy’s preferences, information that eventually made a compromise possible.
+Thus, Wagner argues persuasively that the crisis was not a “competition in risk taking”, as Schelling suggests; rather, it was an exercise in bargaining and information gathering that is more than consistent with the fact that both Kennedy and Khrushchev lacked complete information about one another’s preferences.
+Wagner’s conclusion was based, in part, on his belief that the Soviets never put their bombers on alert.
+Nonetheless, the fact that the Soviets did not make their alert known to United States decision-makers is inconsistent with Schelling’s interpretation of the crisis.
+Economies 2014, 2 39 Wagner’s study provides a plausible and insightful description of the strategic dynamic that characterized the missile crisis.
+At the same time, it falls short of providing a compelling explanation.
+Of course, the identification of a plausible explanatory equilibrium in a general model is a necessary, but not a sufficient condition for a fully satisfying explanation of any real world event.
+But since Wagner’s approach does not allow him to identify, not to mention eliminate, co-existing equilibria, his explanation of the missile crisis must, ultimately, be judged incomplete.
+Since the empirical fit between this model and the strategic dynamic of the missile crisis is especially close, I claim that it is able to generate a more complete and a more satisfying explanation of the crisis than any of the attempts evaluated in this essay.
+More specifically, there is a perfect Bayesian equilibrium of this incomplete information model that is uniquely consistent with the beliefs and the action choices of the United States and the Soviet Union and, significantly, with the eventual resolution of the crisis.
+In consequence, this equilibrium, which is a member of a family of perfect Bayesian equilibria called the Constrained Limited Response family, is able to address all of the foundational questions associated with the crisis.
+Soviet actions were motivated, at least in part, by the clear expectation that the United States would not respond, either because it was thought that the Kennedy administration would be unwilling to respond forcefully or, more likely, because it would be too late to do so if and when the missiles were discovered.
+By contrast, an air strike and/or an invasion carried with it an unacceptably high risk of a superpower war.
+Needless to say, the strong belief that that an escalatory response was likely to lead to an all-out conflict is required for a limited conflict to occur under any Constrained Limited-Response equilibrium.
+Wagner, of course, reaches the same conclusion but constructs an equilibrium to conform to the fact rather than deducing the fact as a theoretical implication of a general model of interstate conflict initiation.
+The short answer is that the Soviets got the message implicit in the blockade and the other signals, intended or not, sent by the United States.
+All of which is to say that the Soviet decision to withdraw the missiles was the rational response to the additional information they acquired about United States preferences while the crisis was playing out.
+Economies 2014, 2 41 Clearly, space and other considerations preclude either a full description of the model or a detailed discussion of the explanation derived from it.
+Suffice it to say that the explanation implicit in the equilibrium structure of the model is neither ad hoc or post hoc; rather it is flows naturally from the model’s a priori theoretical expectations.
+And while it is not necessarily at odds with most of the other game-theoretic explanations discussed in this essay, it is more general.
+Unfortunately, it is also a claim that must be evaluated in a different venue, and by others.
+All the attempts were judged to be either incomplete or deficient in some other way.
+Schelling’s “threat-that-leave-something-to-chance”, however, fails as an explanation on both theoretical and empirical grounds.
+Formal analyses of this bargaining tactic reveal it to be inconsistent with the consensus interpretation of the crisis’ outcome.
+Equally troubling is the scant empirical evidence that the Kennedy administration either manipulated the risk of war during the crisis with “mathematical precision”, as Schlesinger and some other insider accounts have claimed, or successfully made use of any related brinkmanship tactics that resulted in a clear United States victory.
+Nigel Howard’s metagame analysis of the missile crisis also fails to provide a compelling explanation.
+To be sure, Howard shows the superpower compromise that settled the crisis is a meta-equilibrium in his game model and, consequently, consistent with a minimal definition of rational behavior.
+However, since the normative foundation of the compromise meta-equilibrium is more than suspect, Howard is unable to explain why rational agents would settle on it, other than by observing that one of the players in his model would lose if it were “perfectly” rational.
+Needless to say, rational choice explanations that reject even some of the logical imperatives of the rationality postulate are less than satisfying.
+Similarly, the improved metagame technique of Fraser and Hipel falls short of the explanatory mark.
+Like Howard , Fraser and Hipel find that the compromise outcome is an equilibrium in their dynamic model, but are unable to explain, at least game-theoretically, why it, and not another co-existing equilibrium, ended the crisis.
+Making matters worse, the co-existing equilibrium is in fact a more accurate descriptor of the eventual resolution of the crisis than is the equilibrium implied by their modeling technique.
+Finally, since their description of the crisis begins after the missiles were installed, they fail to address one of the three critical questions that a complete explanation of the crisis requires.
+Brams’ theory of moves framework avoids the arbitrary foresight limitation that Fraser and Hipel assume of the players in their model.
+It also mitigates some of the problems associated with the existence of multiple, co-existing equilibria.
+Wagner’s model , which makes use of the modern methodology of games of incomplete information, does in fact address all of the central questions about the crisis.
+Wagner’s model is carefully constructed from the facts of the crisis as they were known to him at the time.
+As such, it can be considered a concise and even a more than plausible description of the events of October 1962.
+Theories and models that are constructed from facts cannot but fail to explain those facts.
+Conflicts of Interest The author declares no conflict of interest References 1.
+In Perspectives on Positive Political Economy; Alt, J.E., Shepsle, K.A., Eds.
+Trachtenberg, M The influence of nuclear weapons in the Cuban missile crisis.
+John F Kennedy in the White House; Houghton-Mifflin: Boston, MA, USA, 1965.
+Selten, R A Re-examination of the perfectness concept for equilibrium points in extensive games.
+Princeton, NJ, USA, 1994. © 2014 by the author; licensee MDPI, Basel, Switzerland.

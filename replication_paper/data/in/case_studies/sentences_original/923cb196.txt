@@ -1,0 +1,497 @@
+Reproduction of this document in whole or in part I2 prohibited except with permission of the issuing office.
+OJCS organisational chart reveals numerous changes in organisational arrangements and in the personnel holding various positions.
+Any description or analysis of the OJCS or its components as of a particular time period is therefore subject to some degree of obsolescence.
+ThiB is particularly true of analyses, such as the present one, which are themselves intended as potential instruments of change.
+The paper whioh follows describes the organization and procedures of the Operations Directorate and other parts of the OJCS that were in effect at the time of the Cuban crisis, October-December 1962.
+An earlier draft, substantially similar to the present paper, was completed in April 1963, and shortly thereafter was made available to various J-3 offices for their review and comment.
+Despite the various changes effected sinoe the time this paper was written, many of the observations contained in it are of continuing relevance to the development of more effeotive TOfJrfTOET TOP SECRET -— _J'F JjUflCKET command and control procedures in crises.
+Some of the difficulties of OJCS operations revealed during the Cuban crisis point to basic operational problems that remain unsolved opj at least., require additional remedial action, In this sense, it 1b hoped that the present paper provides not only a useful historical reconstruction and point of reference but also a document of current relevance and timeliness.
+PROCEDURAL ANALYSIS OF J -3 COM MAND AND CONTROL OPERATIONS DURINGTHE CUBAN ""CRISIS, OCTOBER 19^2 INTRODUCTION 1.
+This paper describes the operational procedures employed within J -3 during the Cuban crisis.
+Following the narrative, the major summary observations of the study are presented.
+The appendices, which comprise the second part of the paper, present more specific information on the procedures employed by the JBS, the activities of several J-3 Branches closely associated with Cuban operations, and the procedural documentation research which supported the study.
+Each appendix contains more detailed observations and conclusions about the subject being discussed.
+Only the more salient ones have been brought f orward into the first part of the paper.
+The purpose of an analysis or J-3 procedures associated with the Cuban crisis is to provide the Director, J-3, assistance in evaluating and improving operational procedures involved in crisis situations.
+Following the Cuban crisis, there was a general feeling In J-3 that much could be learned from operational experience gained during the Cuban crisis.
+It was felt that' this situation could be treated like a large-scale exercise, and that the procedurea employed during the crisis could be given the same poste:cercise analysis and evaluation that they would normally receive following exercises.
+However., in order to do thiB it would be necessary to develop a detailed historical reconstruction of procedures utilized by J-3 and the OJCS during the crisis period.
+This study attempts to reconstruct how operational command and control activities were performed in J-3 during the Cuban crisis and to relate this to documented procedures which specified how they should be performed under conditions of increasing tension and crisis.
+It is based on an extensive analysis of procedural documentation in effect at the time of the crisis, on interviews with many of the participants, and on records made available following the crisis.
+Earlier drafts of this paper were reviewed by a number of the participants and other members of the J-3 staff.
+Their comments and suggestions, in many cases, have been incorporated into the present version of the paper.
+The analysis is focused primarily on the Joint Battle Staff and on J-3 operations.
+The paper also describes the actions of several J-3 Divisions and Branches which were directly concerned with various aspects of the Cuban operation.
+There are several limitations in the scope and comprehensiveness of the present analysis.
+The lack of access to oertain types of data prevented detailed Coverage of all Directorates and agencies which participated in the augmented watch and Joint Battle Staff operation.
+Finally, it should be noted that the present paper comprises one of a series of interrelated studies of the Cuban crisis.
+The basic paper and other enclosures provide both a general context and a series of supplementary analyses which serve to amplify and complement the findings reported here.
+TOP SECRET TOP SECRET TOP SECRET jp au^iKinr DISCUSSION THE FRECRISJ.S CONCEPT OF OPERATIONS 10.
+At the time of the Cuban criBis, the most current and centralized source of procedures relating to contingency operations was the JCS document, CONTINUITY OF OPERATIONS OP THE ORGANIZATION OP THE JOINT CHIEFS OF STAFF M This document, published on 27 August 1962, describes the basic concept of OJCS operations under crisis and emergency conditions and outlines the organization and procedures for the concuct of these operations.
+The concept and procedures contained in the C00P-0JCS were tested in the HIGH HEELS II Command Post Exercise, held during the latter part of September 1962.-' The results of this exercise were still in the process of evaluation when the Cuban crisis broke.
+Thus, many of the procedures developed in the C00P-0JCS document and exercised during HIGH HEELS II were to be subjected to the additional test of an actual crisis.
+The COOP-OJCS concept of operations assumes that the level of activity and the scope of functions to be performed by the OJCS will vary, depending on the nature and gravity of the situation.
+The ooncept envisages a gradient, ranging from ""normal"" cold war operations to general nuclear warfare.
+Accordingly, ""these variables compel the OJCS in supporting the JCS to gear its operations to flexible rather than fixed procedures in order to handle and respond effectively to the broad range of Bituations with which it may be confronted. — 13.
+Lfie8pite its emphasis on flexibility of operations, however, the COOP-OJCS actually deals with four ""model situations"" or levels of tension in the spectrum of conflict.
+For each of these levels there are four distinct types of organization and procedures.
+The Team consists of the Chief, Current Actions Center, who serves as JCS/J-3 Duty Officer during regular duty hours; a Current Actions Team (five Watch operations officers assigned to the Current Actions Branch); an Emergency Actions Teamj a SIOP Controller Team, a DIA representative, an Operations NCO, a Graphics NCO, and a stenographer/cleric.
+This is the normal complement of personnel which staffs the NMCC on a daily, round-the-clock basis.
+The organization and functions of the Watch have recently been changed to permit initiation of acti particular emergency or critical matters.
+TOP SECRET 5 TOT jj&C TOP SE CRET ThdSJP SEfflcET tempo of operations also Increases.
+This requires that the normal YJatch be augmented , both Jn numbers and in expertise j by members of various directorates and agencies.
+If the situation requires It, action officers from S-h, J-6, Defense Communications Agency , Counterinsurgency and Special Activities (C3AJ and raiitar/ Assistance AffairB may also provide assistance.
+These individuals may at this time assume responsibility for maintaining the current situation and fo 11 performing the neces-cary operational briefings with respect to the affected area, while the rest of the Watch continues to perform its nortial functions with respect to the remaining world-wide areas.
+At this point, the augmented Watch may be expanded into or supplemented by a Joint Battle Staff in order to process expeditiously and coordinate rapidly all actions regarding the crisis area.
+According to the baaac concept of operations, the Joint Battle Staff will include representatives of each Joint Svaff Director and Special Assiscant; the Secretary, JCS; DIA; and Defense Atomic Support Agency , either on a full-time, part-time, or on-call basis as required.
+The Joint Battle Staff is established by the Director, Joint Staff, based on the recommendations of the appropriate Directorates ""and Agencies.
+As the politico-military situation continues to deteriorate to the extent that general war appears probable , consideration will be given to the relocation of the OJCS to an alternate control center.
+Upon relocation of the Decision Group, and the Augmentation Group,-/ the Special Assistant for Arms Control will assume control of remaining OJCS personnel and activities at the Pentagon.
+In this capacity, ha will act for the Director Joint Staff; continue Battle Sbaff operations on a continuous basis; and maintain a capability to support the Joint Chiefs of Staff by rendering staff support and effecting Emergency Actions as directed.-' When relocation from the Pentagon to the Alternate Joint Communications Center occurs, the AJCC will become the primary site of military control.
+The postexercise critique for commanders, which was Intended to isolate critical problem areas and to recommend corrective measures, was cancelled because of Cuban developments.
+Written orltlque agenda items on HIGH HEELS II were not reproduced until 11 December 1962, nearly one month after the Cuban Battle Staff had been dissolved and five days after the discontinuance of the augmented Cuban Watch.
+Also see J3M (no umber) for Chief, Joint Battle staff Team, from Captain J S, Harris, USN, subj.
+Relocation to NECPA, 2b October, 1962, CONFIDENTIAL, which gives detailed instructions for NECPA Cadre relocation to the USS NORTHAMPTON located in the mouth of the Potomac.
+It is useful to note, however, that twenty or more cf the items pertain to and suggest changes in Joint Battle Staff functions, me handling of message traffic, the coordination of Joint Staff activities, the conduct of oriefmgs, status of forces reporting, situation reports, and other topics that had direct relevance to emergency operations 1/ in the Cuban crisis.
+As a result of the HIGH HEELS II experience, therefore, the personnel of zhe 0JC3 were perhaps as well prepared for operations in a crisis as could be expected.
+Joint Battle Staff experience in this exercise apparently waB not a determining or major factor in the selection of Cuban 2/ settle Staff members.
+A description of how these same concepts, procedures, personnel, and facilities were employed during an actual crisis operation is contained in the following sections of the paper.
+On Sunday, 14 October, high-altitude pnoto surveillance missions were flown over Cuba.
+Although many precautionary preparations involving the updating of contingency plans and the strengthening of Air Defense in the southeastern United States 2/ had begun earlier, this event marked the beginning of the Cuban crisis.
+The review and updating of contingency plans was ■being conducted in utmost secrecy by the Cuba Planning Group within the OJCS, and within J-3 by two members of the Combat Plans Branch under the direct supervision of the Director, J-3.
+By Wednesday, IT October, several J-3 Btaff personnel were becoming aware of increased activity related to -Cuba, although the exact nature of the activity was unknown.
+On 17 October , x-tw cuief of the Current Actions Center and one of the members of the LANT/CARIB Branch were briefed on Cuba by the Director, J-3.
+They were told of the current Cuban plans and were -^Robert McNamara, SecetarS of Defense, Department of ' o/Defense, Special Cuba Briefing, February ""6, 1963.
+At .that time, the Director of Operations suggested that the Chief, Current Operations Division, and the JCS/J-3 Duty Officer begin making preparations to shift to Joint Battle Staff operations.
+This action was based on a stai memorandum developed by the Chief of the Combat Plans Branch.
+During this same period , a Master Accicn List was being prepared by ""Mr Blockade"" and his Quarantine Watch personnel.
+ItB primary function was to stay abreast of ail developments related to the quarantine operations, since the palmary responsibility for action in this area had been delegated to the Chief of Naval Operations (CNOJ ,3' The activities of this Group are described in more detail in another Enclosure tc chis series.
+The preparation of the MAL, later called the Master Check List , soon became too time-consuming for the Quarantine Group, and on Saturday night , the responsibility for this important activity was reassigned to the General Operations Division.
+TOP SECRET IKT TOP SECRET — — ' The CAC V'atch officers began alerting personnel who were scheduled to participate in the Eattle Staff Teams.
+Prior to convening the Battle Staff, the Directors of Joint Staff Directorates had teen briefed on the Battle Staff operation and personnel had been assigned to the Battle Staff from each Directorate.
+On Sunday, arrangements were also made to have State Department and NSA liaison representation on V the Battle Staff.
+The operation in the CAC on Sunday could be characterized as very busy and somewhat disorganized.
+The normal JCS/J-3 Duty V/ctch personnel, augmentation personnel, action officers, and new Battle Staff members from J3 and the other Directorates, were all ""scrounging' 1 for background information, trying to determine their responsibilities, processing message traffic, learning existing operational procedures, and' performing a wide variety of other basics.
+Administrative files of message traffic, displays, logs, and operational procedures were being improvised as the need arose.
+Initial disorganization and confusion stemmed from the generally changed mode of operations utilized by the JCS during the Cuban crisis.
+This changed mode included. a) the ••ithholding of detailed intelligence information end operational plans on Cuba from most of the staff until the period fallowing the President's Cuban speech] b) the establishment of special planning and action groups 1/ J3K for Director, J-3 from Col.
+JS«OLlE (the Cuba Planning Group, the Blockade Group, the KCL Group, etc.) outside the structure of the Joint Battle Staff, and c) the breakdown of JCS debriefing procedures established for crisis operations because the JCS were meeting in the Qold Room instead of the NMCC Conference Room.
+These developments left a major informational void that caused ambiguity and lack of clear guidance in the formulation of JBS activities.
+In part, however, the initial confusion in the Battle Staff resulted from a lack of documented JBS procedures.
+Many of the key personnel of the Battle Staff had not had previous JBS experience and were therefore not familiar with established message handling practices, preparation of SITREP's, preparation of briefings, and other essential JBS functions.
+The JCS/J-3 Duty Officer, and the regular Current Actions Team members spent a major share of their time in actempting to brief Battle Staff Team members in their duties and in trying to achieve coordinated action between the JBS team shifts.
+At the same time, they performed the ""troubleshooting"" role of carrying out actions that are formally assigned to the Battle Staff.
+One of the regular Watch Operations Officers, for example, was given major responsibility for assembling information for the briefing script used in General Taylor's morning briefing.
+This briefing script also formed the basis for other operational briefings given by the Battle Staff Team Chiefs.
+TOP SECRET 14 TOiyBlCRET TOP SECRE T ' J The week began with a very limited nu.nber or personnel Involved in Cuban operations under utmost secrecy, The number wa3 gradually increased tnrough Friday evening.
+The weekend was marked by intense round-the-clock activity, ad hoc groups working in comparative isolation, end a general air of confusion, lack of information, and mounting pressure.
+According to several observers, staff actions did not seem to move as efficiently as had been the case during HIGH HEELS 11.
+The general concept of augmentation of the normal Watch and transition to Joint Battle Staff operations, as specified in the C00P-0JC3, was essentially followed during the build-up phase.
+The major deficiencies in this process did not arise frcm basic inadequacies in the concept of operations; rather tney resulted from the lack of detailed supporting procedures and the absence of sufficient operational personnel well trained in those procedures, JOINT BATTLE STAFF OPERATI ONS 30.
+Although the titles given to these positions varied, the basic functions of the personnel assigned to them did not.
+The two Deputy Directors of J-3, and later a third Deputy Director, became ""Duty Generals"" and Chiefs, Joint Battle Staff.
+Most of the newly assigned Battle Staff members were relatively untrained for their new assignments except for general 'background information derived from their normal staff assignments.
+Existing evidence seems to indicate that no special orlentational briefings were given to prepare Battle Staff members for their Jobs, although information was provided on request by personnel knowledgable in the current status of operations.
+Access to such information for a particular JBST member waB, however, restricted to those who had the necessary security clearances.
+In general, newly assigned Battle Staff members were given initial orientation. by asking them to read copies of the Master Action List and the COOP-OJCS documents.
+They were then informally briefed by Team Chiefs and the JCS/J-3 Duty Officer, and then left to £ind the nece3Sary background information for their particular needs.
+More detailed guidance was needed to insure that the Battle Staff properly carried out all of its assigned functions.
+On Wednesday, 24 October, the Director, J-3, sent a memorandum to the Cnief , Joint Battle Staff, in which he provided a ""check list of recurring items which must be handled on a daily basis.
+Supervise revision of MCL for Cuban operations, deliver to Director, J-3, at 0700, and publish and distribute by 0900.
+Provide for pick-up by Commander Bagley at 0730 a copy of Current Situation Report and script for Chairman's 0800 briefing for delivery to White House Situation Room.
+Maintain and update the completed actions chart located in the Gold Room.
+Brief /Admiral Piers, Chairman, Canadian Joint Staff in Washington^} at 1415.
+Unsure Emergency Actions Branch notifies /JH Hjof DEFCON changes of LANT, PAC, AL, and CONAdT) Insure ""Ops Immediate"" on fast actions only.
+Insure that displays in the Situation Room contain up-to-date information in a professional manner.
+Be prepared to send officer to White House at 1600 to update information on Cuban operations.
+It then proceeded to outline detailed procedures and time schedules for the preparation of SITRSPSj briefings, and Situation Displays.
+Many details of JBS procedures could not, of course, be anticipated in advanoe of a particular crisic event.
+Some of the procedural guidance developed during the Cuban crisis, however, reflected the fact that the Battle Staff teams did not have a common understanding of the procedures required to fulfill some of the basir JBS functions.
+By the end of the firBt week in November, when a change-over to a new set cf Team Chiefs began, the general pattern of activity had become relatively standardized and routinized.
+TO P SECRET 20 TOP Sit RET TOP SECRET 1/ J3M 125B-62, for Director, Joint Staff from Director J-3.
+It is Important to note that the process of maintaining accurate locator data on Icey ccrarand personnel during the crisis also had its shortcomings.
+Based on data collected by the Emergency Actions Team during normal day-to-day operations, locator data are accurate only 20 percent of the time.
+This percentage is ba-sed on random line checKs conducted during periods when the exact location of principals is unknown.
+The average length of time required to locate principals during the line check also approximated the normal average.
+If the principal could not be located, then an alternate was contacted.
+The Emergency ActionB Room was notified by the JCS Message Center that the message was being transmitted at that time.
+The EAR VJatch Officer received a burned copy of the message via the tube a few minutes later.
+The message was then taken to the JCS/J-3 Duty Officer and to the Chief of the Operations Support Division for a decision as to whether the usual JCS EAPs should be followed in alerting prescribed commands and agencies.
+From there, the decision was passed to the Director, J-3, who sought out the Director, Joint Staff, for instructions.
+The DJS waB in conference with the JCS at the time and therefore was not immediately available.
+J3s for JCS to all CINCs, 221809Z, Ootober 1962, TOP SECRET. mc TOP SECRET h6.
+Other procedural problems involved administrative support procedures vrithin J-3j finding detailed Information quiokly in order to answer questions asked both by higher authority and by other parts of the ~JCS; and Joint Stafr debrierins of JCS decisions.
+The normal J-3 peacetime administrative procedures for processing JCS papers were disrupted during the first week or more of the crisis.
+This was particularly true at the Directorate level, where the sudden surge of paper work requiring immediate action created serious communication and work overload problems.
+Especially during the first few days, J-3 memoranda were being processed so rapidly that the Directorate personnel found It impossible to attach and record the usual numerical identification.
+Administrative problems were compounded by the shortage of administrative support personnel and by the lack of adequate space, equipment, and physical facilities for processing the large volume of paper work.
+Many of these problems were temporarily solved by improvisation during the crisis.
+TOP JpTCRET TOP SECRET continuing problem of developing administrative procedures that are closely geared to future emergency operations still remains, however and this problem requires further critical examination and necessary remedial action.
+Efficient Joint Suaff support of JCS emergency operations is highly dependent on efficient administrative support. k<3. procedural problems arose in fulfilling the requests for detailed information tnat emanated from the White House and the Of lice of the Secretary of Defense during the crisis.
+T/ CM 51-o2, for tne Director, Joint Staff from Chairman, JCS, 24 October 1962, . *ii'TVU> TOP SECRET W WiP SECRET 49.
+An arrangement for liaison with the Vlhi-ce House was established Immediately.
+The Chief, Operations Support Division, was assigned this responsibility.
+This liaison arrangement apparently alleviated but did not wholly solve the problem.
+As late as 9 November, the Deputy Director, J-3, directed the Joint Battle Staff, and the Chiefs of the Current Operations and Operations Plans Divisions to establish procedures for zhe JBST to respond quickly to requests for information by subject.-/ This was to be accomplished by a system of subject files of incoming and outgoing messages with inputs from the Current Operations Division, the Operations Plane Division and the JBST representatives from other Directorates.
+Joint Battle Staff personnel would frequently turn to the Status of Forces Branch for current information on statUB of forces and other data.
+Information was usually required xini.iedie oely and in a variety of formats.
+As a result, the Status of Forces Branch was overwhelmed by requests for information which greatly exceeded their original terms of reference and their capacity to respond.
+These debriefing sessions provide zhe normal, established mechanism for Informing the Joint Staff of JCS decisions and actions.
+The abandonment of i;he usual debriefing mechanism may be attributed to three special, 1/ J3M-I391-62, Battle Staff Procedures, 9 November 1962.
+The absence of well-defined substitute procedures for disseminating information on JCS decisions unaer such conditions proved to be a serious handicap for the Joint Battle Staff and other Joint Staff personnel who were intimately involved in expediting and cooidinating JCS actions.
+Many Battle Staff members had not had training for their Jobs in previous command exercises and, m the absence of readily available, detailed procedural guidance, they could not )I^flSCRE W*P &JTCRET TOP S ECRET quickly and readily familiarize themselves with their new assignments.
+There were no systematic background briefings p3ar.""ed and none was given to them.
+These and other preparatory activities consumed a large amount of the time and energy of operations personnel during the most critical period of the Cuban crisis — a period m which JCS required rapia and efficient support for possible sudden, large-scale military operations.
+Despite these initial handicaps, however, most of the serioas procedural problems were overcome during the first four days of the crisis by effc^tiv improvisation and the development of new procedural guidance that was required by the immediate demands of the sitJaticri.
+PHAS^ -OUT FERIOU 53 The Joint Battle Staff was disbanded on 12 November and replaced rfith an augmented Watch.
+The Cuban Watch was composed of the normal Current Actions Center Watch augmented by two officers end three enlistea men from J-3, and one officer designated as contact officer for Cuban affairs on 24-hour duty ir.
+J-5, J-6, and SACSA.i/ The three J-3 Executive Officers at this time had their status changed from JBS Chiefs to General Watch Officers for the Director, Joint Staff.
+However, the requirement for the J-3 Duty Generals to serve on a 24-hour basis wa3 continued.
+This requirement was relaxed on 30 November to eliminate the need for a Duty General to remain m the building at all times November 30 also marked the discontinuance of the morning briefing report to General Taylor.
+The augmented Cuban Wabch was terminated with the discontinuance of Operation SCABBARDS^' at 06OOZ on 6 December 1962, and the Current Actions Center then returned to its nornitvl scate of organization and functioning.
+During this period, a political settlement had been reached, forces were gradually being returned to home bases, and message traffic requiring staff action had sharply deciLned.
+This section contains the general observations and conclusions of the study.
+They &tera from a comparison of the procedures actually employed during the Cuban crisis with those procedures specified in pre-existing OJCS documents.
+The evidence supporting these observations, together with the more detailed findings of the study, are presented in the foregoing ""Discussion"" section and in the Appendices.
+SCABBARDS was the code name referring to Cuban contingency operations; for a discussion of the term SCABBARDS and its usage, see Enclosure A of this study. 2/ r-nv>jGyxR%T TOP SECRET Vc, WP SECRET T HE CONC EPT OF OPERATIONS 57.
+The general concept of normal Watch augmentation and the transition to Joint Battle Staff operations, as specified in the CO0P-0JCS, was essentially followed during the Cuban crisis.
+However j Joint Battle Staff operations were hampered by a number of procedural problems during the early critical period of the crisis.
+These problems arose in part because of the lack of detailed procedures supporting that ooncept of operations and because many JBS members lacked the necessary training and experience with Joint Battle Staff functions.
+Most of th2 Battle Staff members were relatively untrained for their new assignments , except for general background information obtained in their normal staff assignments.
+Existing evidence indicates that no special briefings were planned or were given to prepare Battle Scaff members before or immediately after they were assigned.
+Many normal J-3 peacetime administrative procedures failed during the crisis.
+Because of the press of time and the %olume of action paper b to be prepared for JCS consideration, the peacetime procedural system for submission of papers to JCS was rarely used by J-3 action officers.
+Even the ""Bhort-form"" Green method and other methods of expediting the processing of JCS papers proved to be too unwieldy from an operational point of view.
+The lack of space, shortages of administrative personnel, and the absence of procedures clearly adapted to crisis operations all contributed to operational inefficiency during the first few days of the crisis.
+The operation of a Battle Staff, the development and use of the MCL, and the J-3 methods used to submit action items for JCS consideration in large part replaced peacetime administrative procedures of the Joint Secretariat and J-3.
+The JBS assigned actions to the Directorates, maintained follow-up monitoring of the status of actions, developed agenda items for the MCL, and maintained comprehensive message files for reference.
+These activities have been clearly defined In JAIs and other procedural documentation aa standard Joint Secretariat responsibilities for peacetime operations.
+However, there are no provisions in the JAIs for transition from peacetime administrati procedures to administrative support for operational procedures during crises.
+As a result, a transition was not made and both systems operated simultaneously during the crisis.
+The large amount of time spent by the JBS Chiefs and Team Chiefs in preparing and presenting briefings necessarily interfered with their primary functions of planning, directing, and coordinating the activities of the Battle Staff team members and J-3 action officers.
+At first, Battle Staff personnel did not have detailed knowledge of the input Bources of information for briefings and were relatively TOP SECRET 32 * JdfffEE' TOP 5SCRBT ^^ inexperienced in the techniques of briefing preparation.
+Ihe JBS had to rely heavily on experienced CAC briefers for the assembly of information and the preparation of briefing Bcripta.
+In general , therefore , the Cuban experience suggests the need for reducing the number of special or ad hoc briefings, for shifting the responsibility for briefing preparation and presentation to officers who do not have primary responsibilities in the direction of the JBS, and for utilizing briefing officers who have had specialized training and experience in the conduct of operational briefings.
+PEB3IEFIN GS 61Normal JCS debriefing procedures were not used throughout the period of Joint Battle Staff operations from 21 October through 12 November.
+The failure to use the normal debriefing mechanism derived from several special conditions surrounding the Cuban crisis.
+Cuban intelligence information and United States intentions during the early phases of the crisis had to be tightly controlled.
+The Joint Chiefs of Staff were in almost continuous session for many days and, as a result, key personnel normally involved in the debriefing procedure were preoccupied with the press of other work.
+Even had they been available, the requirement to maintain tight security control over United States intentions would have precluded extensive debriefing of the Joint Staff.
+The failure to utilize the usual system for debriefing JCS meetings created numerous problems.
+It made it difficult for the JBS to ascertain the briefing needB of the JCS and to tailor their information collection, analysis, and presentation activities to these needs.
+It created an informational TOPJWTrET top secret ""TvPJffCRET vacuum which made it difficult for the JBS to plan advance actions.
+It produced unnecessary confusion, duplication of effort, and lack of coordination in the performance of JBS and Joint Staff activities.
+In general, the failure to provide an established information feedback mechanism from JCS to the JBS, seriously hampered the Battle Staff's ability to perform its intended function of expediting and coordinating JCS actions.
+Attached to it were appropriate action papers which contained a discussion of the problem, recommendations, and implementing draft messages.
+Thie process short-cut the elaborate coordination process required during peacetime operations.
+As a result, the Joint Staff was able to operate more like a true military staff than is the case under normal conditions.
+TOIP stcret TOP SECRET P^IOIKT CONTINGENCY PLAN IMPLEMENTATION PROCEDURES 65.
+There were no preplanned messages for implementing limited war contingency plans comparable to those prepared for SIOP implementation.
+Advance planning and preparation of such implementing messages require coordination with the CINOs to insure that orders issued by JCS do ncc arbitrarily restrict the field commander's choice of timing based on local and tactical factors.
+Planners apparently have not given follow-on messages related to the implementation of contingency plans the same degree of attention that they have given to the less likely situation of general war.
+None of the documented procedures relate to Battle Staff operations, crisis operations, or wartime operations.
+Despite this the COOP-OJCS specifically instructs Battle Staff personnel to follow standard message processing procedures.
+The elaborately documented peacetime system for message reproduction, distribution, control, and clearance, as defined in JAIs and J-31s, is slmyly too slow, complex, and cumbersome to meet operational requirements for the rapid processing of a high volume of action messages associated with crisis operations.
+Toe more streamlined and operationally oriented JBS procedures replaced many of these peacetime, administratively oriented procedures.
+SECRET ""-~ ~ particularly concentrated on a few ke„ officers who were most knowledgeade and had the conf-dence of the command.
+One of the greatest assets of experienced action officers is their detailed knowledge of the appropriate souroes and channels of information and of the techniques and procedures for preparing and processing action papers.
+They have appropriate files readily available] they know whom to call, where to go for particular types of information, and with whom their actions mu3t be cooidinatedj and they are familiar with the types of format and levels of detail required by the JCS in the submission of action papers.
+Knowledge of this type, together with the possession of detailed Information on particular geographic areas or subject matters, represents a relatively rare combination of skills which is found in only a few key individuals who have had relatively continuous, specialized training and experience.
+The fact that a number of J-3 action officers had this combination of procedural knowledge and subject matter competence probably made the difference between an effective J-3 operation and an ineffective one during the Cuban crisis.
+The preparation of the daily and supplemental SITREPs was one of the most time-consuming and difficult tasks assigned to the Joint Battle Staff.
+Based on the Cuban Battle Staff experience, this guidance is not sufficient to insure the production of Situation Reports which fulfill the basic purposes of this report.
+Additional procedural guidance was needed in providing the basic criteria of relevance for the inclusion and exclusion of information to be utilized in the report, and in identifying and centralizing the input sources of information.
+The Cuban crisis emphasized the need for a highly detailed data base for Status of Forces information, a capability for rapid retrieval of that information in many forms, and the need for more clearly defined requirements for general informational support.
+In responding to requests for Information, Joint Battle Staff personnel would frequently turn to the Status of Forces Branch for current information on stataa of forces and other force data.
+Information was usual] y required ""right now"" and in a variety of formats.
+As a result, the Status of Forces Branch was overwhelmed by requests for information which far exceeded their original terms of reference and their capacity to respond.
+IlI general, it was found that Joint Operational Reporting System reports containing Status of Forces information,e., REDAT, REDNON, REDRAD, 1 -/ were not as useful aa the STTREPs submitted by the unified and specified commands.
+They were not timely and did not contain the detail required by various users of this information.
+Although lack of modern graphics and display production material, adequate map bases, and storage space was a problem for support operations, major problems stemmed from changing requirements for displays and graphics and the lack of uniform guidance.
+Lack of uniform guidance stemmed, in part, from the fact that the Branch had to take direction from two different masters.
+Briefing and debriefing within OJCS, under normal conditions of functioning, tend to form a complete feedback communication loop.
+Briefings provide JCS with data essential for planning, decisions, and action directives.
+Debrief mgs of JCS meetings, In turn, provide the Joint Staff with the information and guidance required for the implementation of decisions and directives.
+During the Cuban crisis, the normal system of briefing and debriefing underwent various changes, both planned and unplanned.
+The present section discusses the nature of these changes and their consequences for Joint Battle Staff functioning during the crisis.
+Specifically, it describes the role of the JCS""ih the conduct of briefings, examines the degree to which the Battle Staff briefing procedures used during the crisis conformed with preexisting procedural documentation and practice, and notes some problems that developed in relation to JBS briefings and JCS debriefing procedures.
+The conduct of daily operational briefings is an established function of the Current Actions Branch, Current Operationo Division, J-3.
+The scheduled daily briefings in the Current Actions Center include an 0830 briefing for the Directors of the Joint Staff and a briefing at 0930 for the J-3 Staff and other Joint Staff personnel.
+These briefings, and various special or ""on call"" briefings, are normally prepared and presented by one of the five Current Action Center Watch operations officers who have been specially trained in briefing procedures and techniques.
+With the phase -In of the Cuban Battle Staff on 21 October, and until the JBS was disbanded on 12 November 19^2, 'the basic responsibility for both scheduled and ""on call"" briefings shifted from the CAC Staff to the Joint Battle Staff.
+This shift conformed with the procedural guidance contained in the JCS document, CONTINUITY OP OPERATIONS OF THE ORGANIZATION OF THE JOINT CHIEFS OF STAFF, i' , which directs that operational briefings will be coordinated by the Chief, Joint Battle Staff, when established.
+This document also specifies that scheduled briefings will be conducted daily, as prescribed by the Director, Joint Staff, who also prescribes other briefings on call and authorizes the briefing attendees.-' H The Joint Battle Staff took over the responsibility for the routinely scheduled 0830 briefing for the Joint Staff Directors.
+The briefing of other Joint Staff personnel, normally scheduled for 0930, was combined with the JBS relief of -watch briefing at 0900.
+On Monday, 22 October, the Chairman, JCS, requested a special ten-minute briefing each morning on Cuban intelligence and operations.
+TOP SECRET 44 ■ jf&RSL IT TOP SECRET .__ ^___ also attended by the Director, Joint Staff , and the Director, J-3.
+They were continued until 10 November, when the Chairman, JCS, requested that the oral briefing be discontinued-, out that a written briefing script, using, the same format as previously, 1/ be delivered to him by 0830 dally.
+These written briefing reports were later orepared by the augmented Cuban Watch and were finally discontinued on 30 November 1962.
+In addition co the Chairnan's briefing, the J01.1t Bactle Staff was quiclcly charged with responsibility for othc"" special briefings.
+On the same date , J-3 input was requested for a 5/ briefing for the NATO Standing Group at 1500 hours, and on the following day, the Director, J-3, was directed to provide dally 6/ briefings for this Group.
+In addition to these formally established briefing sessions, there were numerous informal briefings of visiting military personnel dnd of personnel from the Office of the Secretary of Defense, the State Department, and other agencies.
+The formal change-of -watch briefings were also supplemented by face-to-face briefings between the personnel occupying counterpart positions in the outgoing and incoming Battle Staff Teams.
+For example, the incoming Battle Staff Team Chief usually arrived cne-half hour before his Watch began and the outgoing Team Chief remained one-half hour longer than his scheduled time of relief, so chat both could discuss actions that had been completed and the follow-up or future actions that were required.
+Similar personal briefings occurred between the Operations Coordinator, the J-3 renrctentative, and other counterpart personnel on the two teams.
+TOP SECRET T<£T;P JKEET TOP SECRET ■-— ■■■ ^ DEBRIEFING 9. -The procedure for debriefing JCS, StateJCS, and OPS DEPS meetings, in order to review JCS action on agenda ite;y.s, is established in JAI 5^10.
+This previously established mechanism for debriefing was not used throughout tine period of Joint Battle Staff functioning from 21 October. through 12 November for various reasons, including the tightly controlled nature of Cuban intelligence information and United States intentions during the early phases of the crisis, the fact that the Joint Chiefs of Staff were in almost continuous session for many days, and the fact that the key personnel normally involved in the debriefing procedure were heavily preoccupied with the press of other work.
+Even if these personnel were available, the extreme sensitivity and security surrounding United States intentions in the crisis, would have precluded extensive debriefings of the Joint Staff.
+The basic pattern for this changed mode of operations was established e week or more prior to the formation of the Joint Battle Staff, and it involved the establishment of a direct End immediate relationship between the JCS and a few selected action officers comprising the Cuban Planning Group.
+This Group, and a ^o^jjmii TOP SECRET — ' few additional individuals who were subsequently informed, retained tight security control of information on Cuban events and JCS decisions prior to 1° October.
+On the letter date, additional key members of the Joint Staff were briefed on the nature of the Cuban missile threat and the anticipated Executive Department and JCS plans.
+The cnanged mode of operations established during this early period tended to persist, in varying degree, throughout the crisis in the form of 3 more direct relation between JCS and the action officars assigned particular responsibilities for the various phaseB of Cuban operations.
+Especially during the first week of JE3 operation, there was a major informational hiatus between the Eattle Staff and the JCS decision-making and implementation process.
+A large proportion of the JCS decisions for action or deferral of action during this early phase came to the attention of the Joint Eattle Staff only indirectly and after a considerable time delay.
+O-.ly a small proportion of the JCS CUT-messages were drafted in the JBS,~ and, in numerous esses, the JES members were unaware that a given JCS decision had been made until they received a delayed informational ccpy 2/ of the message via the Emergency Actions Team.
+In some cases, queries on a given JCS message were directed to the JBS from lower echelons of command before the JBS had received copies of the mescage that stimulated the query.
+TEC RET Battle Staff and the JCS Golc noon, where the Joint Chiefs were meeting These chsmels were never completely formalized and routinised, but by about l November they were ^ppa^ently sufficiently well deve] oped and understood thar. they provided a reasonably adequate feedback system for JBS operations.
+Initially, arrangements were made for the Joint Secretariat officers stationed in the ancerocm of the Goia Room to telephone the J-3 Battle Staff Clua f to inform him tnat they had information for the Battle Staff.
+A Battle Staff member woul^ then 1/ he sent to the anteroom to secure the information.
+TBS, and sending the JBS Qperations Coordinator or J-3 representative to the Secretary or Deputy Secretary, JCS, to determine what had happened in *he JCS meetings.
+The moat pertinent of these documents for Joint Battle Staff 'briefings is the C00P-0JCS, which provides a brief outline of the format and content of operational briefings.
+Although the responsibility and general format of operational briefings is well-defined in the C00P-0JCS document, the process of collecting and coordinating the input sources of information for operational briefings waB not specified or clearly delineated.
+Personnel on the JBS who were responsible for briefing preparation and presentation were handicapped by a lack of intimate knowledge of both the internal and external sources and channels of input data and by lack of experience in the techniques of briefing preparation.
+The efficient administration of the Battle Staff was hampered by the practice of using the Battle Staff Chiefs and Team Chiefs for briefing presentations.
+The large amount of time required for briefing preparation and presentation not only imposed a personal hardship on the Battle Staff leadership but also necessarily interfered with its primary functions of planning, directing, and coordinating the activities of the Battle Staff team members.
+Several of the offices an the Office of the Secretary of Defense which were vitally concerned with Cuban affairs did not consistently send representatives to the regularly scheduled briefings conducted by the Joint Battle Staff in the Current Actions Center.
+This resulted in the need for conducting additional special briefings for their benefit and an unnecessary increase in the volume of communications beV cween individual OSD offices and the Currsnc Acciona Center.
+It made it difficult for the JBS to ascertain the briefing needs of the JCS and tc tailor their Information collection, analysis, and presentation activities to these needs.
+One of the emergency procedures Intended to remedy the problem of keeping the JBS informed of JCS actions is The provision for inclusion of a representative of the Office of the Secretary, JCS, on the Battle Staff.
+This representation, which is specified in the COOP-OJCS, was not effected during the Cuban crisis.
+If it bad been, it is probable that at least some of the confusion and lack of coordination could have been avoided.
+The breakdown of the peacetime debriefing procedures and the failure to effect satisfactory substitute procedures during the crisis suggest the need ror a more thorough review of the whole debriefing problem and the development of more realistic and efficient debriefing measures.
+One of the essential functions of tne Joint Bactle Staff is ro presenc the JCS, and others , with a clear, accurate picture cf a crisis situation as it unfolds.
+Out of the mass of incoming information from all sources, which must be read., digested, unoerstood, and placed in proper context, the JBS has to produce a condensed, timely, and accurate cnaraccerization of events as they develop.
+Its purpose is to provide guidance, advice, direction, or information to agencies of the JOS and commands, or other interested agencies of government.
+TOP SECRET 53 TOP SECRET I9-/lhs COOP-OJCS document direccs the publication of a JCS SiniEP ""as of 2^002 hours daily by 03002 hours -daily"" 1/ as an execution tas>c of the Joint Battle Staff.
+CINCAL, CINCLANT, CINCARIB; CINCONADj CINCPAC; CINCNELM; CIWSACj CINCEURJ CINCSTRIKE; DIA; JACE, Ft.
+It also includes CNO j AU Cmd Post, Maxwell AFB, Ala.; and CO MCP, Camp Lejeune, N C, as information addressees.
+These addressees for SITREP messages remainea the same throughout trio entire period from 23 Oc Leber to 6 December 196i.
+JS ; J3RR&A j Dir, J-l j ■f 2 v l)j J -3 j J-4 ; J -5 3 J-6 ; Secy, JCS ; ■loim B2:tl,fttaff ; SA/MAA ; DASA ; SkCSA , Oil, CIA , 0£0 . 6/ 1cording to two OJCS irformants interviewed, supplemental SITREPs were published for seveial days at six -hour intervals.
+ET TO""? :3CRET -— a_. jrhe format Tor presentation of SITREP data was not known or fully understood by msny of the members of the 3attle Staff Especially during the first few days of Battle Staff operations , there was some cmfusxon in achiev_nj, an acceptable, standard form of uresentation among the different 1/ Battle Staff shifts.
+Tne basic d^rec-clve on preparation 2/ of the SITREP is the JOPREP publication., which notes tnat the SITREP Bhould be a narrative report that includes intelligence indicators and the commander's assessment of the situation.
+Intelligence on significant changes to the enemy order of battle tnd possible/probable enemy courses of action.
+Deployment or proposed deployment of forces as a result of the current slcuacion, Logistic deficiencies to support planned operations.
+Significant si ppleme.-' tary actions being taken or proposed to be taicen.
+On 24 October, the Chairman, JCS, sent a memorandum to the Director Joint Staff, indicating that it was essential to increase information transmitted to the White House, the Secretary oTj 1/ Interview No 17 7 March 1963.
+The failure to use the normal JCS debriefing mechanism, described elsewhere in this paper, proved to be a major handicap, especially during the first <ueek of JBS operations.
+The ideal SITREP would presumably provide the JCS and other decision makersith a continumgj comprehensive characterization and analysis of the evolving situation.
+This ideal was rarely, if ever, achieved in practice, partly because she J3S uas not administratively staffed, trained, and equipped to coordinate and assimilate the vast volume of incoming messages ic ooher convnoracs cj.or i , Tie infcriacj.cn overload that characterized the first critical ds.ys of operation laft the JBS with insufficient time to sift and analyze the general significance of the incoming reports anc messages.
+During the early days of the Cuban crisis, the CJNCr apparently failed to provide timely reports on their oim actions.
+This necessitated numerous direct telephone calls oy Battle Staff members to the 1/ CTNCr. in order to secure current information.
+Subsequently, this problem v,as alleviated by requesting the relevant cHJCs to submit their SITREP reports at six-hour or twelve-hour intervals, rather than submitting only one daily report.
+Present procedural guidance for the preparation of SITREPs is limited to the assignment of responsibility for its production and a brief description and topical outline of its content.
+Based on the Cuban Battle Staff experience, thiB guidance is not sufficient to insure the production of Situation Reports which fulfill the basic purposes of this report.
+In chiB section, the procedures which v/ere followed by the JBS for processing message traffic will be discussed in decail.
+These procedures will then be related to documented procedures that were in effect before and during the crisis period.
+The adequacy of B uch documentation will then be discussed in the light of experience during the Cuban crisis.
+In general, message traffic related to the Cuban crisis began tc increase on 18 and 19 October.
+During those two days of the crisis, Borne 57 messages v/ere processed.
+Approximately 20 percent of these were directly addreseed to JCS and 31 percent viere JCS outgoing messages.
+Distribution Outside the USA ProQuest Information and Learning, The Quorum, Barnwell Road, Cambridge CB5 8SW, England milo ""fin u III™ e Iff ilia >• la i niy IL25 1 1.
+During this four-day period, the Waton in the Current Actions Center {CPC) was increasingly augmented so that by Sunday evening a full Cuban Joint Battle Staff was manning the CAC on a 24-hour basis.
+Of these, 47 percent were addressed to JCS and 15 percent were JCS outgoing.
+Message traffic continued to increase through 24 and 25 October, then leveled out and gradually declined, so that by the end of the first week in November the work of the JBST members had declined and become more routimzed.
+On 12 November, the Battle Staff was reduced to an augmented Watch and then in early December the Watch was terminated as a 24-hour operation.
+The general flow of message traffic into the JES was through the Service Message Centers to the JCS Message Center.
+The Directorate member, in turn., would insure that the message was passed on to an appropriate action officer in that Directorate, usually via a Directorate Duty Officer.
+If the message required action by J-3j the J-3 representative or the Deputy Team Chief would directly contact the appropriate action officer.
+If the message was especially significant or required immediate action by higher authority, the Duty General was immediately notified and given the message for his consideration Otherwise, the action officers had responsibility for the proper coordination of the message, _d.
+Messages for information purposes (i.e., those not requiring action) were distributed to appropriate action officers and one copy was filed in the Master Message Pile.
+When an action offioer was assigned to handle a particular message requiring action, the date-time group, subject, and the action officer's name were posted on a Status of Current Actions board.
+One of the J-3 members of the Battle Staff would then follow the status of that particular action until it was completed by the' action officer.
+Information on the current status and estimated completion dates on each pending action were posted daily.
+Although the Battle Staff maintained follow-up monitoring of staff actions, they did not always see the final staff action papers before they were submitted to the JCS or other appropriate authority for decision and action.
+To complete the information flow related to message traffic, the Directors, the Director, Joint Staff, or the JCS would consider the staff action flimsy, and take appropriate action.
+If this action involved a message reply, and it usually did, the approved message would be dispatched through the Joint Secretariat to the JCS message center.
+There an xnfornatioi copy of the o-tcoirg .nessage was psuall;. uiade available to the Jomc 3acxle Staff and the acbion officer.
+This was the process of feedback of information from JCS actions taken in the ""tank"", that is, the debriefing process and the securing of ""comeback"" copies of JCS outgoing messages on a timely basis.
+However, in the early period of operation , there was some difficulty in establishing procedures for the processing of message traffic . 1/ interview #g, April903.
+In the early period of augmentation, during the week of 15 October, very tight security was maintained on message traffic related to the Cuban crisis.
+Messages were picked up at the message dlstrioution center and hand -carried by the Cuban Planning Group to the Office of the Director, J-3.
+Distribution was so carefully restricted that even the JCS/J-3 Duty Officer did not receive messages normally diBtriouted through him.
+Although this mode of operation was probably necessary at the time, it caused some proolems a few days later when further augmentation of the Watch and full JBST operation began.
+Second, the early period did not serve to establish basic message procedures that could later be followed by the Battle Staff.
+Indeed, the mode of operation adopted by JCS during this period changed normal procedures that were necessary or desirable for effective Battle Staff operations.
+As a result, there were problems in reestablishing message-handling procedures, in determining the number of copies required by the Battle Staff, and, more generally, in smoothing the message-handling and distribution process.
+The absence of key messages and the U3e of nonstandard methods of message reproduction further complicated the problem.
+While such departures from standard procedures did not seriously affect overall operations, they created the many minor procedural problems that contributed to the general confusion and frustration during the first few days 1/ Interview #4,""T2 March I963; Interview #13, April 1963.
+Another problem, not related to the first two, concerned the timely availability of copies of JCS outgoing messages.
+During the first week of Eattle Staff operation, draft messages with supporting flimsies would be prepared and sent up the chain of command to the JCS for final decision.
+In che higher command decision process, messages would be modified or even redrafted by the JCS, approved, and then dispatched through the Secretariat to the Message Center for transmission.
+The Battle Staff frequently did not know if the message had been sent, would not receive copies of shese messages if sent, or the copies would be delayed for such a long period of time that queries would come back from CINC staffs regarding the message before the JB3 had received a copy of the message.
+Tills type of information depended on some standard form of JCS debriefing procedure, a procedure which was not utilized during the crisis.
+As a result, the JBS could not adequately perform one of its normal staff functions of clarifying or resolving minor problems associated with a parcicular message.
+JAI 5712. h, Procedures for Handling Incoming Messages., 13 March 1959, UNCLASSIFIED, fl.
+A review of rressaije-processirs procedures lasted above suggests several shortcomings when reviewed in light of augmented Watc.i and Battle Staff operations in crisis ->ituations.
+None of the documented procedures rel ».te to Battle Staff operations, crisis operations, or wartime oDerations.
+The elaborately documented peacetime system for mersage reproduction, distribution, control, and clearance, as defined m JAIs and J-3 Instructions , is simply too slow, complex, and cumbersome to meet operational requirements for the rapid processing of a high, volume of action messages associated with crisis operations.
+The more streamlined and operationally oriented JBST procedures replaced many of these peacetime administratively oriented procedures.
+JBTECRET TOP SE CRET ^__ * COORDI NA TION OF ST 4 *T ACTION INTRODUCTION bk.
+The JEST directly assigned messages requiring action fco appropriate Directorates within the OJCS, and within J-3, to action officers or Branches.
+The JEST then maintained follow-up contact with the action officers in order to follow the progress of the staff action being taken.
+In this manner th<;yc-re in a position to maintain the status of action requirements and to coordinate separate actions on interrelated subjects, and thereby to exercise limited control over the progress of staff actions, *J5.
+Although detailed information on the activities of many individual action officers is not available, it is possible to contrast the way in which action officers and the members of the JBS interacted during the Cuban crisis with the usual peacetime procedures for coordinating staff actions.
+This section will discuss briefly some of the more salient obser— vations in tne procedural area.
+In J-3, action officers were assigned tasks through the Battle Staff if the action was based on incoming message traffic.
+Actions were also assigned by the Director, J-3, and by the Deputy Directors (also called the Joint Battle Staff Chiefs or Duty Generals) when action requirements stemmed from higher authority.
+Although the JBST or the Director and his Deputies may have prepared some action papers in the form of recommendations to the Director, Joint Staff, most of the actions requiring detailed technical knowledge were passed on to action officers.
+SRCHET Ae a result, a great deal of pressure was placed upon a relatively small, selected group of action officers knowledgeable in subjects related to the Cuban crisis.
+This fact, coupled with the requirement for 2khour operation of J-3 Branches, the requirement for providing support personnel to the Battle Staff, to the Puarantme Watch, the preparation of the MCL and other crisis-related activities, and the need for rraintaining continuity in the more urgent day-to-day activities, all combined to thin out the ranks of experienced action officer personnel.
+This segment of the basic information flow through the OJCS (i.e., requirement input — 3taff recommendation — command decision -directive output) is probably the most difficult and time-consuming part of the whole process of support for command decision malting.
+Pressure concentrated on key action officers who were most knowledgeable as well as on a few other officers having the confidence of the command.
+The performance of all action officers, and especially some key officers, was almost ""beyond the call of duty"" m attempting to respond capably and rapidly to a very heavy and demanding work load.
+However, had the situation escalated, or had a second crisis developed,g., in India or Berlin, the J-3 organization would simply have been overwhelmed due to the shortage of knowledgeable staff officers.
+This, in turn, could have resulted in a very seriously degraded performance of the JCS at the worst possible time, or in attempts to decentralize or restructure command responsibilities, again at the worst possible time.
+The lack of sufficient numbers of J-3 action officers appeared as one of the major weaknesses in the OJCS during the Cuban crisis.
+Having files available, knowing whom to call, and where to go for information, v/ith whom to coordinate on action papers, knowledge Ox acceptable fcTTia'-s and levels of detail required in those action papers--all were required to expedite action papers.
+Knowledge of peacetime operational procedures, combined with background information of the area or command Involved, made zhe difference between an effective operation and an ineffective one.
+Integrated knowledge of this type tended to reside in the minds of only a few individuals in each Branch.
+This required frequent trips from the arional Military Command Center to the Service War Rooms and other agencies.
+Because of security problems cnc -junttred by Service Soaff members in getting access to the JCS area, and the NMCC in particular, it was easier for the JCS action officers to go directly to the primary sources of needed data.i' A great deal of the action officers' time was spent in beating a path to the Service War Rooms.
+The press of time and the large volume of action papers to be prepared for JCS consideration largely precluded the use of the flimsy, buff, and green system for the subnu.sc ion of action papers.-/ Even the ""short form"" green method^/ and other established procedures for expediting the submission of papers to JCS proved to be too unwieldy from an operational 1/ Interview # 4, 12 MaTch 1963.
+This failure to nuncer action papers occurred during the first few days jof the crisis and was quickly corrected, but the work overload on administrative support personnel continued for a longer period of titaeM The Cuban experience thus serves to highlight the very close relationship between crisis operations and emergency administrative procedures -a subject that ia poorly developed and documented in existing JAIs and J -31s.
+Frequently, after working all night to prepare a flimsy for submission to the JCS in the morning, action 1/ Interview #2, March 1963.
+SECRET Pj|( TOPJFECEET officers would be required to remain on call until after their item was considered.
+This required periods of waiting and uncertainty about the disposition of vhe particalar action because there was no routinized schedule for debriefing or feedbaok of JCS decisions.-' JCS meetings simply lasted too long to allow normal peacetime debriefing procedures to b* utilized effectively.
+If the JCS had met in the Conference Room of the HMCC, as previously planned and exercised, this problem and several others could have been avoided.
+When action officers were Informed of the disposition of their action item, this information was not transiiurted to the JB3 in any standardized, systematic manner , such as a regularly-scheduled morning debriefing by the action officers.
+However, where security restrictions were not a problem, this type of information was usually made available to the JB3 members on an informal basis.
+The following documents contain procedural statements relating to coordination and submission of papers -co the Joint Chiefs of Staff.
+In reviewing the functions of the JBS, the action officers, and the MCL activities during the Cuban crisis, and contrasting these procedures'lth documented procedures related to the coordination and submission of reports to the JCS, several observations can be made.
+First, the cur-ent peacetime administrative procedures, even with the shoro-cuc procedures indicated, did not seem to be responsive to the operational requirements that appeared during the Cuban cris_.s.
+However, the preeent administrative procedural guidelines have not been adapted to the operational realities of the J-3 organization in ordci to better faci'itate operational support of the JCS in crisis and wartime situations.
+The concept of a Battle Staff, the development and use of the MCL, and the J-3 methods used to submit action items for JCS consideration, in large part, replaced peacetime administrative procedures.
+For example, the Chairman requested that an MCL be prepared {20 October) as a matter of record and as a guide for actions to be considered.
+Once used in this manner, it soon became recognized by the Joint Staff as l/ r intervlew # b, 1 April 1963. j&Cl CRET 1>^P SEjSHEET the fastesc and most reliaole method of piscine urgent matters on the agenda.
+Secondarily, it became recognized as the most authoritative source of information available concerning which agenda items were being considered by the JCS.1 57.
+The JBS assigned actions to the Directorates, maintained follow-up ri-cnitorirs of the status of actions, developed agenda items for the MCL, and maintained comprehensive message filler for reference, These are all activities defined in JAI-3 and other procedural documents as normal Joint Secretariat responsibilities.
+W s«Cret APPENDIX ""3"" J-3 BRANCH OPERATIONS THE CURRENT ACTIONS CENTER 1.
+The Current Actions Center, Current Operations Division, is the JCS focal point for the continuous monitoring, analysis, display, and reporting of worldwide events that have significance for United States military plans and operations.
+One of its missions is to insure that the JCS alerting and command communications network is completely responsive and capable 1/ of effective operation at all times.
+Provides daily guidance and briefing for the duty Emergency Actions Team, SIOP Controller Team, and JCS Duty Officer on matters pertaining to current operations.
+Serves as the Current Operations Division point of contact for the development and scheduling of current Interest items for briefings required on current operational matters.
+The personnel of the Current Actions Branch consist of the Chief, CAC, who serves as JCS/J-3' Duty Officer during regular duty hours, and five V/atch Operations Officers, who serve the dual function of briefing officers and Assistant Duty Officers, The CAC Branch, combined with the Emergency Actions Team, a SIOP Controller Team, a DIA representative, an Operations NCO, a Graphics NCO and a stenographer/clerk, comprise the Current Actions Watch.
+The Watch constantly monitors worldwide events in the NMCC and serves as the stable nucleus for expanded operations during crisis and emergency conditions.
+On Wednesday, 17 October, the Chief of the CAC was briefed by the Director, J-3, on current Cuban plans and wae directed to take the necessary preparations for anu£». enoed V/atch in strict secrecy.
+He was informed of the President's itinerary on Thursday, 18 October, and knew in advance that the President would cancel his scheduled political speech1/ J-Z.I 5-29.
+Augmentation of thnormal Watch was begun on Friday, 19 October, following a briefing by the Director, J-3, for ■ key personnel in the CAC, the LANT/CARIB Branch., and other J-3 Dxviaions.
+At ths same time, the Director of Operations suggested to the Chief, Current Operations Division, and to the Chief, CAC, that they begin making preparations to shift to Joint Battle Staff operations.
+Augmentation of the Watch was begun immediately witn the addition of a J-4 specialist and a LANT/CARIB specialist.
+At the same time, actions in the CAC were stepped up to pro/ide approDriate graphics and additional disp]ay facilities for Cuban operations.
+The increase in Watch personnel continued throughout Saturday and part of Sunday, 2021 October, as other J-3 and DIA personnel were added, 6.
+Many of the Battle Staff members were unfamiliar with emergency procedures and thei* duties on the Battle Staff, As a result, much of the initial activity on -he part of CAC personnel was directed to orienting the members in their duties and instructing them in the techniques of me-vsage handling, preparation of briefings, preparation of Situation Reports , and other essential JBS functions.
+Initial briefings of Battle Staff members Jr-volve-d 1/ having them read r*ie CJC'r-Gi'^3 oojument on JBS organization and other emergency procedures.
+Apparently this ""document proved ~o be insufficn.-nc to .'.nsura -chat th° Battle Staff properly understood and carried out its func~ions.
+Some of the actions formally assigned to the JBS were in large part performed by regular CAC personnel, For example, one of the regular Watch Operations Officers had major responsibility for preparation of the briefing script used in General Taylor's morning briefing.
+Although the establishment of MINIMISE worldwide reduced the volume of routine message traffic, the CAC continued to receive priority messages and reports from the CINCs and Services.
+Many of these messages related to the effects of withdrawing and repositioning military forces for the planned Cuban operations.
+The possibility of Soviet Bloc military action in Berlin was a matter of serious concern throughout the early days of the Cuban crisis.
+There was continuing concern over developments in the Congo and in Southeast Asia.
+A potentially serious crisis also erupted in India when full-scale fighting between Chinese Communist and Indian troops began on 20 October, and the first United States shipment of arms to India arrived on 3 November.
+Each of these concurrent developments placed additional demands on the CAC personnel and on the cognizant J-3 action officers at a time when a major proportion of the entire OJCS structure was preoccupleC with Cuban operations.
+When the MCL was discontinued on 21 November the augmented Watch also took over responsibility for publication of a revised form of check list for Cuban operations.-/ The augmented Cuban Watch was terminated with the discontinuance of Operation SCABBARDS at 0600Z on 6 December 19f2. and the Currenc Actions Center then returned to its normal Btate of organization and functioning.
+Supporting the JCS/J-3 Duty Officer in oischarge 1/1 of his assigned functions.
+The EAR operations personnel uere formally briefed on the impending Cuban crisis on Friday, 19 October, although they ware aware of the increased concern with Cuba sometime 2/ before that, 14.
+However, this increased load was adequately handled by regularly assjgned, professional shift personnel and no changes or augmentation of normal shift complements were found necessary.
+The latter necessitated placing a guard at the door to insure proper authorization for entry.
+Under normal conditions thi6 task is performed by EAR personnel on the basiB of personal recognition through the use of a closed circuit TV camera positioned outside the door.
+As might be expected, the use of command telephone links increased during the criBis period.
+The Joint Chiefs, other than the Chairman, rarely used the JCS facility.
+The CIKCs, and especially LANT, PAC, and SAC, increased their utilisation of this command link, primarily in order to communicate with the Chairman.
+Operations personnel felt that other CIWCs would have used the system more if they had known that It uas probably the fastest method for contacting the Chairman.
+This waB due to the fact that information on the location of the CJCS was continually maintained.
+Based on a study conducted by the Emergency Actions Branch during normal day-to-day operations, locator data were found to be accurate only 20 percent of the time.
+This percentage ia based on random line checks conducted during periods when the exact location of principals is unknown.
+The average length of time required to looate principals during the line check also approximated the normal average.
+Times ranged from 8-second minimums to 2| minutes when principals were located , if the principal could not be located, then an alternate was contacted.
+Each of these functions has been associated almost entirely with general nuclear war and the need for a rapid response to surprise attack.
+The EAR was notified by the JCS Message Center that the message was being transmitted at that time.
+The EAR Watch Officer received a burned copy of the message via the tube a few minutes later.
+The message waB then taken to the JCS/J-3 Duty Officer and to the Chief of the Operations Support Division for a decision as to whether JCS EAPs should be followed in alerting prescribed commands and agendas, From there, the decision was passed to the Director, J-3, who Bought out the Director, Joint Staff, for J.n3tructions.
+The procedure assumed that notification to Implement the plan would come via the JCS/J-3 Duty Officer or other Command channels.
+The TOP SECRET message would be sent through the tube to the Message Center and dispatched from there to the CINCe.
+While this procedure may seem a little unrealistic in the light of previous procedures employed by JCS for sending highly sensitive messages, it was a planned procedure and it would have worked efficiently.
+There apparently were no planned messages for implementing limited war contingency plans comparable to those prepared for S10P implementation.
+Advance planning and preparation of such implementing messages require coordination with the CINCs to insure that orders issued by JCS do not arbitrarily restrict the field commander's choice of timing based on local and tactical factors.
+And, finally, the planners apparently have not given follow-on messages related to the implementation of limited war or crisis contingency plans the same degree of attention that they have given to the less likely situation of general wari/ 28.
+Its primary function of disseminating JCS alerts was almost entirely circumvented during the crisis.
+The EAPs were and are oriented to the possibility of general war. ha a result., the EAR functioned during the Cuban crisis primarily as a switchboard ana message distribution center while maintaining preparedness to implement the EAPs if necessarj/H THE SU PPORT BRANCH 29.
+Assisting in the coordination, preparation and conduct of briefings and orientations.
+Support of the information and administrative requirements cf the JBS and the JCS/J-3 duty officers.
+Branch personnel were notified of the impending crisis situation on 19 October.
+During the third week of the crisis, the Branch joined P""r s .-.mel of the StatuB of Forces Branch in order to achieve a better distribution of the workloads on the two undermanned brcnchss.
+This was, and is, a natural integration of functions under pressure which had not been reflected in administrative organisation.
+Eoth 'Branches also worked as an integral part of the Joint Battle Staff and CAC operations.
+II, Although lack of modern graphics and display production material, adequate map bases, and storage space provided some minor problems, the major ""flaps"" stemmed from the changing requirements for displays and graphics and from the lack of uniform guidance on standardizing the quality and legibility ot alsplays.
+These were important problems because they prevented anticiaption of requirements and distribution of workload over the entire shift, as well as causing a considerable amount of ""re-do"" or ""restart"" work.
+These problems stemmed, in part, from the fact that the Branch had to take direction from two different masters --the operations personnel that they supported, (i.e., the JBST and JCS/J-3 Duty Officer) as well as, administratively, from the Division Chief.
+Staff personnel who were interviewed suggested that this could be rectified in the future by integrating the Branch personnel and its operational support functions into the CAC Watch which it serves.
+The Status of Forces Branch has the responsibility for collecting, collating, displaying, and disseminating data on the composition, location and status of United States Military Forces.
+In accomplishing this function, the Branch provides information reported by the Joint Operational Reporting System and insures that such reports are timely, accurate, and responsive to requirements of the OJCfl.
+Historically speaking, the Branch was the newest of the J-3 Branches to be formed prior to the crisis.
+Although it had been authorized in February and first manned in July, it was not until September 1962 that its full complement of two officers and three enlisted men were on board.
+HIGH HEELS II in late September provided the first operational experience with data processing and display requirements against which to formulate and organize procedures.
+The Cuban crisis struck shortly thereafter and it provided a second, much different type of operational experience — an experience for which the Branch was not fully prepared.
+Branch personnel were notified of the impending crisis on 19 October and were brought in on Saturday to provide information, briefing and display support for the augmented Watch.
+On Sunday, the Branch went on 24-hour operations in support of the Battle Staff.
+MDB^aeCTTET Determining the status of troops involved in the CfLAlISJ312 and 3l6t This involved determining. troo.T lists, specifying the location of particular unnts, their status and strengths, as well as status of troop deployments, ETDs, ETAr, modes of transportation, etc.
+These additional demands proved to be the primary source of difficulty in Branch operation.
+Requests for information came from many sources and, as a result, the formats and levelB of aggregation of data on Force Status were varied and continually changing.
+This compounded the task of tabulating and displaying the data and disrupted previously developed procedures for handling information requuoss.
+Points of contact for these special classes of information had not been developed nor had the amount of detail required by the various users of the Branch been anticipated.
+As a result, the Service War Rooms were frequently used by the Branch to obtain detailed information not previously anticipated in SOPs.
+Ihe Branch requested additional personnel to man the 12-hour shifts and to serve as Bervice liaison personnel in order to handle the overwhelming task of maintaining up-to-date Status of Forces information.
+Additional enlisted personnel from DCA and two officers from the Joint Command and Control Requirements Group were provided after the first two weeks of operation.
+These personnel had difficulty for several days because they lacked training in Status of Forces, JOPREP, and related matters required to operate effectively in the Branch.
+They overcame their lack of experience, however, and later provided valuable assistance.
+TOP SECRET pPralE _jP SXRET not as useful as the SITHEPs submitted by the Commanders in Chief.
+The JOPREPb were not timely and did not contain the amount of detail required by various users of this information.
+The Personnel Status Report was of little or no value and was later discontinued.
+Problems were also encountered in determining the location and the status of foroes being deployed.
+When forces were assigned from one command to another, the first command's reports would stop and not be picked up by the new command having operational control.
+As a result, there would be a gap of a few days in which there were no reports on the force.
+Thus, the movement of forces became a major problem in determining the status of forces assigned to the Cuban operation.
+In effect, the JOPREP was not responsive to Joint Staff requirements for implementing contingency plans.
+By the first part of the third week , the activity of the Branch had begun to level off to a point where personnel could handle most of the requests for information in a routine fashion.
+A week or so later , activity associated with the crisis had diminished to a point where the Branch Chief could break off and attend to more pressing day-to-day staff activities.
+In general, the Cuban crisis emphasized the need for a highly detailed data base of Status of Forces information, a capability for rapid retrieval of that Information in many forms, and the need for more clearly defined requirements for information support, In the latter case, it was felt that the allocation of responsibility for the collection and maintenance of detailed Status of Forces information between each Service Command Post and the NMCC would help.
+If this information could then be made rapidly available to each TOP SJTOET TOP SECRET sjj^raE &-<J)F SJCRKT facility upon request, it would materially improve the capacity to provide detailed and special information support required during crisis operations.
+Taking actions on operational matters concerning international treaty organizations and the development and implementation of national policy in areas for which the unified and specified commands are responsible.
+Monitoring Joint Staff actions on sensitive situations in oritioal areas which could lead to United States military operations. d Coordinating with other J-3 Divisions, as appropriate, in reviewing plans, monitoring the impact of implementation of the DEFCON syBtem, other readiness measures of the unified and specified commands and related NATO measures.
+The Commands Branches are comprised of area specialises and they provide a large percentage of the J-3 action officers available to BUpport the JCS decision-making process on immediate operational problems in crisis situations.
+The project was actually in support of the Cuba Planning Group and J-4, but it was assigned to the Branch on a ""just in case we have to uw then 1 "" Dasis.
+Although deadlines for the project were assigned, Branch personnel wers not privy to the tightly held planning efforts of the Cuba Group.
+In general, J-3 personnel were concerned with ""how fast"" the plans could oe implemented, an-J J-4 personnel with ""where and how to get hold of"" the logistical forces required.
+Shipping was found to be the crux of the problem, since ""air lift could move only 10 percent of the cotal tonnage required to support the plans!""-' 49.
+The major acclvitiea centered around action papers related to OPLANs £312 and 3l6j and to the Rules of Engagement for Quarantine Operations.
+Involvement in the latter activity resulted from the fact that one member of the LANT/CARIB Branch had been assigned to the Quarantine Watch.
+In most cases, this meant chat only one or two action officers were available at any given time to cover the work of each Eranch.
+One General Operations Division has, among other functions, the responsibility for those operational staff actions pertaining to continuity of operations, the JOS emergency action procedures and readiness conditions, the J0PR2P, space and weapons systems, JCS exercises, and general 3/ operational matters not assigned to other Divisions.
+During the crisis, this Division provided personnel to assist in manning the JBST and the Quarantine Watch.
+They also supplied action officers and support to the other Current Operations branches.
+Most of the remaining personnel were involved in collecting and coordinating information for the MCL, vinich was produced under the direction of the Chief, General Operations Division.
+On Friday, 19 October, the Division was instructed to keep 50 percent of its personnel on duty at all times in order to provide staff support for the impending crisis.
+This necessitated trying to find out what had happened during the preceding three or four days of tight security control.
+The responsibility for producing -his first Master Action List was initially assigned to the Quarantine Watch.
+The first HAL was prepared by 0500 Saturday for the morning session of thr> JCS and a second MAL was prepared for the afternoon session.
+About this time, the Chairman, JCS, approved the idea of r,he MAL, and Indicated that he wanted it maintained as a continuing record and history of the Cuban crisis.
+Despite chis initial, limited definition of purposse, however, the MAL -subsequently renamed ""The Master Check List"" -was utilized as an important part of the daily JCS agenda for immediate operational matter s, ; ,2/ iTlntervlew Ho., AprIT""T§63.
+By Saturday night, a 2^-hour operation involving the collection, production, and coordination of theMCL was fading directed by the JBST Chief.
+On Tuesday, 23 October, the responsibilities for preparation of the MCL were confirmed after the fact by an unnumbered memo from the Deputy Director, J-3, to Battle Staff Ter;i Chiefs and Division Chief/ Ihia memo assigned responsibility for overall coordination to the General Operations Division; determination of items to be considered one, two, and three days in advance to the Operations Plans Division; and current actions taken or under consideration to the JBST and Current Operations Division.
+The memo further directed that the MCL be prepared and submitted to -he Director, J -3, by 0700 each morning.
+The JBS would abstract from the status of current actions display the more relevant actions taken and all JCS OUT-messages released during the previous day.
+The Current Operations Division would submit statements of ""Significant Pending Items"" and action paper flimsies referring to pending actions.
+The Operations Plans Division would submit items to be considered one, two, and three days in advance.
+The materials were typed and edited, and then, with action officer flimsies attached, they were delivered to the J-3 Duty General for approval by 0500 each day.
+The MCL was then submitted to the Director, J-3, at 07OO, to the Chairman at 0800, and finally to the JCS, whose meetings usually began at 0830.
+It also became the moat authoritative source of ""today's news"" among the J-Staff members, since it constituted a series of actions that would be disoussed during the day by the JCS and also a history of actions taken on the previous day.
+The production of the MCL became quite routine after the first weak of operation, with mats of each day's agenda being produced, then corrected and reproduced to provide a history of actions taken on subsequent days.
+This operation continued until P+i»5 , at which time the MCL was discontinued.
+It is interesting to note that this very important administrative method for accelerating the submission of papers to the JCS is not contained in any procedural documents.
+Implementing flimsJes prepared oy action officers were reproduced in 20 while copies and forwarded with ±he MCL each morning.
+Although action officers used the Services extensively for information purposes and informal coordination, they did not coordinate actions in accordance with the formal peacetime procedures.
+To do so would have Beriously Impaired the ability of the OJCS to be responsive to unified and specified commands in the rapidly changing political/military environment surrounding the crisis.
+The MCL procedure had the effect of allowing action officers to go the flimsy, buff, and green route in a matter of hoUi-B instead, of days.
+This process short-cut the elaborate coordination process squired during peacetime operations.
+As a result, the Joint ff was able to operate more like a true military staff.
+DlPJ^EC TOIP/ECRET ORGANIZATION-OVERALL NOTE' During grave situations, the President, Secretary of Defense, JCS, and Director, joint Staff may ba physically located within the NMCC (Joint War M • _ >JpME\ IOC .'do.

@@ -1,0 +1,146 @@
+No part of this publication may be reproduced or transmitted in any form or by any means without permission in writing from the Atlantic Council, except in the case of brief quotations in news articles, critical articles, or reviews.
+Pro-Russian rebels stand on top of a burnt-out Ukrainian personnel carrier near the village of Novokaterinovka in eastern Ukraine, September 24, 2014.
+This report is written and published in accordance with the Atlantic Council Policy on Intellectual Independence.
+The authors are solely responsible for its analysis and recommendations.
+The Atlantic Council and its donors do not determine , nor do they necessarily endorse or advocate for, any of this report's conclusions.
+A Kremlin-Made War 4 Russian Denial of Facts 7 Using Digital Forensics to Expose Russia’s War in Ukraine 8 A Steady Flow of Arms and Military Equipment from Russia to Eastern Ukraine 8 Border Camps: Preparing for Combat 13 Russian Troops in Ukraine 15 Cargo 200: Hiding Russia’s Dead 17 Cross-Border Shelling 18 Policy Recommendations 20 Casebook 21 Section 1.
+Putin’s War in Ukraine FOREWORD For twenty-five years, prominent members of the Atlantic Council community have worked to advance the vision of a Europe whole, free, and at peace in which Russia enjoys its peaceful place.
+Putin’s War in Ukraine EXECUTIVE SUMMARY Russia is at war with Ukraine.
+A combination of satellite data, crater analysis, and open source materials confirms that many attacks originated in Russia, not in the separatist controlled areas of Ukraine.
+As a prerequisite for policies that can better deter Russia's aggression, Western political leaders should speak clearly about Russia's war against Ukraine, including Russian forces fighting in Ukraine and the Kremlin's direction of the campaign.
+Furthermore, as Russia strengthens the capacity and arsenal of the forces in eastern Ukraine, the Kremlin is building its case that forces engaged in any future outbreaks in fighting are indigenous, legitimate Ukrainian forces rather than Moscow's creation.
+ATLANTIC COUNCIL 3 Then-Council of Ministers of Crimea ""Chairman"" Sergey Aksyonov, then-State Council of the Republic of Crimea ""President"" Vladimir Konstantinov, Russian President Vladimir Putin, and then-""Mayor"" of Sevastopol Alexey Chaly sign a treaty making Crimea part of the Russian Federation on March 18, 2014.
+A KREMLIN-MADE WAR In the winter of 2014, the Maidan revolution in Kyiv led then-Ukrainian President Viktor Yanukovych to flee Ukraine.
+But in public statements in Moscow one year after the annexation, Russian President Vladimir Putin practically boasted that Russian troops carried out the Crimean operation.
+The fact that Russian-supplied “volunteers"" manned the original demonstrations led to some amusing moments, such as on April 7, 2014, when they seized the opera theater in downtown Kharkiv, proclaiming that they had liberated the city hall.
+Leading up to the presidential election, the Kremlin-supported authorities in Luhansk and Donetsk held their own illegal and unmonitored referendums on May 11, after which they declared independence from Ukraine for the Luhansk and Donetsk oblasts, or districts.
+Moscow responded to the Ukrainian counteroffensive by sending in ever more sophisticated artillery, tanks, and anti-aircraft missiles, including the Buk surface-to-air missile system that was used from Russian-controlled territory in Ukraine to shoot down Malaysian Airlines Flight 17 (MH17] by mistake on July 17, 2014.
+Numerous independent investigations corroborate Russia's role in this tragedy.
+ATLANTIC COUNCIL artillery from Russian territory into Ukraine stop Kyiv's advance.
+At that point, the Kremlin decided to send in approximately four thousand regular army troops.
+This sharp Russian escalation prompted additional sectoral sanctions from the European Union (EU] and gave impetus to the Minsk negotiations, which led to a ceasefire on September 5, 2014.
+According to the most conservative estimates, the war has killed six thousand Ukrainians and Russians.
+Putin’s War in Ukraine RUSSIAN DENIAL OF FACTS The Russian government and military have repeatedly denied involvement in Ukraine.
+SERGEI LAVROV Foreign Minister, Russian Federation The proof that Lavrov asks for is out in the open.
+A year after the annexation of Crimea, Putin publicly admitted that the annexation by Russian military forces was planned well in advance.
+Putin’s War in Ukraine USING DIGITAL FORENSICS TO EXPOSE RUSSIA’S WAR IN UKRAINE While the Kremlin continues to deny the role of regular Russian forces in Ukraine, Russian soldiers fighting in Ukraine and Ukrainian and Russian civilians on both sides of the war are posting photographs and videos of convoys, equipment, and themselves on the Internet.
+Digital forensic techniques involve verifying the locations of where videos and photographs were taken in a process known as ""geolocating "" 23 Geolocation differs from ""geotagging,"" which is the automated process of adding geographical identification data to various media such as photographs and videos.
+Using photographs posted on various social media sites, in combination with satellite imagery and ""street view"" images from services such as Google Earth and Yandex Maps, investigative geolocation techniques pinpoint the coordinates of where photographs were taken.
+Geolocation is thus a powerful and effective tool for tracking individuals and the images they produce.
+When these media images are then uploaded to social media and other platforms, the geotag remains embedded in the image and can be identified.
+A STEADY FLOW OF ARMS AND MILITARY EQUIPMENT FROM RUSSIA TO EASTERN UKRAINE Separatist forces have been relying on a steady flow of Russian supplies, including heavy weapons such as tanks, armored personnel carriers, artillery, and advanced anti-aircraft systems, including the Buk surface-to-air missile system that shot down Malaysia Airlines Flight 17 in July 2014.
+Using geolocation to pinpoint the location of each vehicle from multiple sources shows that the vehicles are crossing from Russia to Ukraine in spite of the Kremlin's denials.
+In July 2014, a video was uploaded to YouTube showing the movement of a military convoy in Rostov-on-Don, Russia, heading west.
+Later in September 2014, an A1 Jazeera news crew filmed the movement of Msta-S system through Novoazovsk in Ukraine, again heading west.
+In another case, a convoy of vehicles was filmed moving through Staraya Stanitsa, Russia in August 2014.
+In the convoy, a BMP-2 infantry fighting vehicle with the painted text ""J1ABHHA"" — lavina, meaning ""avalanche"" — can be seen on a trailer.
+T-72B3 MODERNIZED MAIN BATTLE TANK Entered service in Russia 20 13 32 T-72B modernization, including new sight and fire control system, among other improvements.
+KAMAZ-43269 “DOZOR” Entered service in Russia 2009 Armored reconnaissance and communications vehicle.
+KBR 36 2B26 GRAD LAUNCHER ON KAMAZ CHASSIS Entered service in Russia 2012 Modernized version of the Grad multiple launch rocket system, fitted on KamAZ-5350 chassis.
+Putin’s War in Ukraine associated with the pro-Russian separatists posted a video from Vuhlehirsk, Ukraine, showing combatants sweeping the town.
+In the video, a BMP-2 with the same painted text is visible, along with other features of the unit, like a painted green area and physical damages, which makes it possible to link the two videos together.
+Using geolocation methods, each piece of equipment can be pinpointed to its exact location coordinates using a combination of sources.
+This physical evidence was on public display in Kyiv in February and March of 20 15.
+Moreover, thousands of trained Russian military forces have been operating and using Russian military equipment.
+Not only are these pieces of military equipment transferred from Russia to Ukraine, they are also used by Russians, as in the case of the T-72B tanks used by members of the 5th Tank Battalion who departed from the Kuzminsky border camp in Russia in mid-February of 2015 to engage in the Battle of Debaltseve.
+PREPARING FOR COMBAT HIDING IN PLAIN SIGHT: Putin’s War in Ukraine Several Russian training camps stationed along the Ukrainian border are the launching points of Russia's war in Ukraine, in plain view for anyone with access to Google Earth or Google Maps.
+In addition to the satellite images, details of Russian troop deployments on the Ukrainian border can be gleaned from accounts of Russian soldiers who were injured or killed in Donbas and their families.
+Satellite imagery and the first-hand accounts of Russian soldiers show that the camps are launching points of Russia's covert war in Ukraine.
+The Ulan-Ude tank brigade is stationed in Siberia and was deployed to the Kuzminsky camp in October and November of 2014.
+Putin’s War in Ukraine RUSSIAN TROOPS IN UKRAINE On March 2, 2015, United States Army Europe Commander Ben Hodges estimated that twelve thousand Russian soldiers, including ""military advisers, weapons operators, and combat troops"" are active in eastern Ukraine.
+Putin has confirmed this, and many eager Russians even filled out online applications to join the separatist ranks — that is how easy it is to become a separatist fighter in Ukraine.
+A series of expose reports from local Russian news outlets, and a number of cases in which Russian soldiers accidentally revealed their presence in Ukraine on social media, confirm that the regular Russian military is active in Ukraine.
+Both Western and Russian journalists have uncovered the troubling details of active Russian soldiers who have died or suffered serious injuries in Ukraine.
+These reports include not only eyewitness accounts and photographs of Russian soldiers in Ukraine, but also interviews with the grief-stricken parents whose sons died fighting among the so-called ""local separatists"" in eastern Ukraine.
+As described in numerous interviews with Russian soldiers who have fought in Ukraine, commanders will order soldiers to conceal the identifying features of military vehicles, remove insignia from uniforms, and finally travel across the border to join separatist forces in eastern Ukraine.
+ALEXANDER VERSHBOW Deputy Secretary General, NATO 56 Despite an orchestrated campaign from the Russian government, the coffins arriving from Ukraine cannot be hidden.
+Bato Dambayev 37th Motorized Infantry Brigade Shortly after the signing of the Minsk II agreements, what appeared to be separatist forces routed the Ukrainian army and took the city of Debaltseve, a key central location linking the railways between Luhansk and Donetsk.
+These forces contained some separatist soldiers, but the reason for the overpowering victory was a combination of enlisted Russian soldiers and their heavy machinery, including the 5th Tank Brigade from Ulan-Ude, Buryatia 62 and the 37th Motorized Infantry Brigade from Kyakhta, Buryatia.
+Before fighting in Ukraine, Bato Dambayev trained at a large camp near the Russian city of Kuzminka, just like Dorzhi Batomunkuyev, the Buryat soldier of the 5th Tank Brigade who gave a now infamous interview with the Russian independent newspaper Novaya Gazeta detailing his involvement in Debaltseve.
+In his interview, Batomunkuyev specifically mentioned that contract soldiers from Kyakhta joined him when crossing the border to fight in Debaltseve.
+Like many other soldiers of the 5th Tank Brigade and the 37th Motorized Infantry Brigade, Dambayev photographed himself 65 with a Siberian Husky puppy at the Kuzminsky camp.
+Additionally, he traveled to the nearby city of Taganrog with other soldiers during his free time, while deployed near the base.
+Journalists in Debaltseve noticed large concentrations of soldiers identifying as Buryats in Debaltseve in mid-February — not a common sight in an eastern Ukrainian warzone.
+But other Internet users made numerous archived copies 72 and took screenshots of the image, and Google cached pages still show the above photo as his profile picture.
+On March 31, the soldier reposted a story from Russian news outlet Lenta.ru that reports on how Buryat soldiers serving in the Russian military fought in the battle of Debaltseve.
+Note that he used to use the pseudonym ""David,"" but has since changed it to his real name, Bato.
+HIDING RUSSIA’S DEAD HIDING IN PLAIN SIGHT: Putin’s War in Ukraine Russian soldiers like Tumanov, who were killed after crossing into Ukraine to fight, return home in zinc coffins under the designation ""Cargo 200,"" indicating that the soldiers were killed in action.
+A report by Boris Nemtsov, a prominent Putin critic and former First Deputy Prime Minister under Russian President Boris Yeltsin, on Russian involvement in the war in Ukraine was published posthumously on May 12, 2015, and put the number of deceased Russian soldiers at 220.
+Bato Dambayev near a checkpoint in the eastern city limits of Vuhlehirsk, Ukraine, a city near Debaltseve where Bato and other Russian soldiers fought in mid-February.
+Dambayev added this photograph of himself as his profile picture on VKontakte on February 23, 2015.
+Putin’s War in Ukraine CROSS-BORDER SHELLING During key offensives, Russian forces in Ukraine have received cover from shelling from Russian territory.
+Using satellite map imagery of craters left behind by artillery shells in Ukraine, it is possible to determine attack trajectories and origins.
+The research team then created templates for both types of craters and used these to mark and measure the angle of craters visible on Google Earth satellite map imagery.
+The measurements were then combined to find the average angle of all measured craters in a crater field, which was then used to identify launch sites.
+On July 14, 2014, consistent accounts emerged in both Ukrainian and pro-Russian media outlets that clashes took place in the vicinity of a mine called ""Dolzhanskaya-Capital,"" close to the Ukrainian town of Panchenkove.
+Google Earth/Digital Globe. these six attacks led to five separate origin locations: four in the Russian Federation and one near Chervonopartyzansk, Ukraine, which is close to the border.
+The townspeople confirmed that the attacks originated from the field identified in the video and satellite imagery analysis.
+Putin’s War in Ukraine POLICY RECOMMENDATIONS In April of 2014, the Kremlin launched a hybrid war in Ukraine's east, sending operatives to organize and run it: Moscow political consultant Aleksandr Borodai as President of the Donetsk People's Republic and FSB Colonel Girkin-Strelkov as Defense Minister.
+To wit, Putin and Russian officials denied that their troops were involved in the seizure of Crimea until Putin bragged about orchestrating the annexation in a film commemorating the Crimean operation.
+Many eschew a lack of clarity in their own words, avoiding references to Russia's war against Ukraine or referring to the so-called separatists as if they were independent Ukrainian actors.
+Russian Military Equipment in Use in Ukraine Social media is a critical source of information regarding movements of military equipment in Ukraine and in the vicinity of the Ukrainian border with Russia.
+His video, from the time of the Debaltseve offensive, contains some of the clearest evidence of these modernized main battle tanks in Ukraine.
+The base vehicle KamAZ-43269 , among others, is used by the Russian Border Guard and has been exported to Azerbaijan and Kazakhstan, but the Dozor 86 variant with advanced electronics has been specifically designed and equipped for the Armed Forces of the Russian Federation and is not known to have been exported.
+Dozor vehicles with similar camouflage patterns as seen in Ukraine are known to have been operated by the 4th Military Base in South Ossetia.
+Pantsir-S1 Air Defense System The distinctive-looking Pantsir-Sl close range air defense system has been captured on pictures and video in early 2015 by local residents in Luhansk as well as Makiivka, east of Donetsk.
+Exploration of the border region in Russia's 89 Rostov oblast with search tools specialized for finding geotagged social media content has also revealed that these systems have been deployed in the vicinity of Ukraine.
+A YouTube account supporting the separatists posted a video in January 2015, showing several Grad systems firing a volley of rockets.
+Russian Training Camps on Ukraine’s Border Starting in 2014, the Russian military began rapidly constructing massive training camps only a few kilometers from the Ukrainian border.
+Stanislav Tarasov's Odnoklassniki file, captioned ""At the border with Ukraine,"" posted on June 18, 2014.
+Additionally, many soldiers from the 291st Artillery Brigade photographed themselves at artillery firing sites near military camps between Kuybyshevo and the Ukrainian border in the summer of 2014.
+Russian Soldiers in Ukraine The Russian military is sending its soldiers across the border to mix with Russian-instigated separatist forces in Ukraine.
+Tumanov with his fiancee Natasha Chernova in June 2014, before he left for service.
+Tumanov on the grounds of his camp near the Ukraine border before his deployment to Ukraine.
+Robert Artyunyan (second from right] and Anton Tumanov (far right] died on August 13.
+Rolan Ramazanov, the soldier in the middle, shared this image online on August, 26, 2014.
+Tumanov's grave in his home town of Kozmodemyansk, four hundred miles east of Moscow, Russia.
+Deployment to and Death in Snezhnoe Anton Tumanov and his fellow unit member Robert Artyunyan documented their arrival in Snezhnoe on August 13 — the same place where, twenty-seven days earlier, the Buk system that likely shot down MH17 was spotted hours before the crash.
+Only hours after the photograph was taken, local social media reports and videos described how the Khimmash factory was hit by an artillery strike from the Ukrainian military.
+He died on the operating table , said Rolan , having returned home to the Krasnodar Krai to recover from his injury.
+Putin’s War in Ukraine ""Lost"" Paratroopers Dozens of the 76th Airborne Troop soldiers out of Pskov stopped contacting their loved ones between August 15 and 17, 2014.
+A number of journalists, including a member of the Pskov regional assembly, attended the event, where over one hundred mourners paid their respects to Kichatkin.
+His grave marker stated that he died on August 19, three days before Oksana posted a message about his funeral on VKontakte.
+The conversation with the Echo of Moscow reporter went by the same script.
+Yet, Leonid's father and uncle came to the funeral, along with Aleksandr Osipov's father, who grieved the deaths of both soldiers.
+In this month two years later, Leonid died while fighting in his paratrooper division in eastern Ukraine.
+ATLANTIC COUNCIL 27 Since his funeral on August 25, there have been no indications that Kichatkin is alive.
+Shortly after arriving, a group of young men chased the journalists away threw rocks at them, and later slashed their tires.
+Russian Cross-Border Artillery Attacks on Ukraine Ukrainian armed forces positioned near the RussianUkrainian border were attacked by artillery fire in the summer of 2014.
+Russian officials, however, have denied that any artillery attacks on Ukraine originated from Russian territory.
+The pressure of sustained artillery attacks through early August led Ukrainian armed forces to lose control of hundreds of kilometers of border territory.
+Additionally, videos shared on social media (YouTube and VKontakte] capturing the artillery attacks as they occurred were analyzed and geolocated.
+In examining each area, the research team created a novel analysis method based on internationally-recognized ""on-the-ground"" procedures to determine the trajectory of the artillery fire.
+Maps showing the average trajectory of craters measured at the Amvrosiivka impact site, the approximate direction of fire indicated by burn marks on the ground near Seleznev, and the position and size of multiple rocket launchers used during the attack based on the position of track marks at the launch site.
+In a July 14, 2014 summary of the ""anti-terrorist operation,"" Ukrainian media reported that an attack took place on positions of the Ukrainian armed forces in the vicinity of Amvrosiivka.
+It was suspected that the origin of this attack was the territory of Russia.
+Based on the markings at the launch site of the attack, it was possible to determine the type of multiple rocket launcher used (the BM-21 Grad/Tornado] and its position in relation to the damage done to the launch site.
+Burn marks at the site were used to determine the likely trajectory of the attack, and this matched the trajectory determined by the crater analysis.
+Ukraine: Battle aftermath litters after Sverdlovsk militia pummels 72nd Motorized Brigade.
+Result of the crater analysis at the village Khmelnytskyi, south of Sverdlovsk.
+Putin’s War in Ukraine APPENDIX Discussions in Ukraine, March 27 to April 3 and April 24 to April 27, 2015 Ukrainian government officials, journalists, and civil society activists shared a concern about possible future Russian military actions in eastern Ukraine.
+There was general consensus among interlocutors that the Kremlin was using the Minsk II ceasefire to funnel in soldiers and equipment in preparation for a possible incursion in the spring.
+While Mariupol's strategic location remains indisputable, concern for new aggression in the territories near Debaltseve seems greater.
+The Situation in the East Military and local government officials expressed no illusions about the Minsk II ceasefire continuing to hold in the Donetsk and Luhansk regions.
+Violations of the Minsk II ceasefire, including shelling of Ukrainian positions along the line of contact, have been documented regularly by the Organization for Security and Cooperation in Europe monitors.
+Atlantic Council Ukraine Working Group members examined a series of fresh craters in the Luhansk oblast, which supported the crater analysis in this report.
+In one specific location along the line of contact with the so-called ""Luhansk People's Republic"" , soldiers reported observing the trajectory of the fire originating in separatist/Russian held LNR territory.
+Local government officials in the Luhansk region confirmed the need for more humanitarian assistance.
+The internal refugee flows from the separatist or Russian controlled areas have strained public services and agencies.
+Volunteer groups, traveling from other Ukrainian regions, deliver basic aid, food, and supplies to the civilian population.
+Administrators noted that the most vulnerable groups, particularly the elderly, who had not been able to leave the separatist-controlled zone were living in unbearable conditions without electricity, heat, and clean water.
+Water shortages are expected to worsen as temperatures increase in the summer.
+Local government authorities in the east face technical difficulties in countering the continued stream of Russian disinformation, which is broadcast on television and radio in the eastern regions.
+They expressed the need for additional technical assistance and support for developing local Ukrainian media.
+Ukrainian government officials and independent observers warned that the difficult living conditions in the government-designated Anti-Terrorist Operation territories may make individuals susceptible to pro-Russian messaging and disinformation.
+In addition, Ukrainian security and military officials reported the discovery of numerous storage bunkers scattered across Ukrainian-held territory, filled with arms, explosive materials, and communication instruments put in place by pro-Russian forces to ensure steady supplies for partisan activities conducted by pro-Russian agents beyond the contact-line on Ukrainian territory.
+The National Security Situation Officials in the Security Service of Ukraine and the Ministry of Defense shared physical evidence of Russian military presence that match the findings conducted by independent social media forensic teams inside Ukraine, as well as the Atlantic Council Working Group's own findings.
+Ukrainian officials in the intelligence community expressed a great deal of interest in using open source for intelligence gathering.
+Civil society groups using similar techniques emphasized the need for technical training.
+Ukrainian sources confirmed previous estimates that the total number of Russian troops and separatist fighters in the Donbas came close to thirty-six thousand along the line of contact, including an estimated eight to ten thousand Russian regular troops among them.
+According to Ukrainian intelligence services, an estimated eight to fourteen airborne and mechanized battalion tactical groups, each with a battalion tactical group comprising six hundred to eight hundred officers and soldiers, are known to be operating on Ukrainian territory.
+Further, Ukrainian forces continue to observe significant Russian use of unmanned aerial vehicles for surveillance and targeting purposes, but lack not only the adequate tools to interfere with the Russian UAVs, but also their own UAVs.
+Ukrainian forces frequently rely on donated UAVs or improvised UAVs built by citizen groups.
+Nicholas Burns William J Burns *Richard R Burt Michael Calvey James E Cartwright John E Chapoton Ahmed Charai Sandra Charles George Chopivsky Wesley K Clark David W Craig *Ralph D Crosby Jr.
+Nelson Cunningham Ivo H Daalder Gregory R Dahlberg *Paula J Dobriansky Christopher J Dodd Conrado Dornier Patrick J Durkin Thomas J Edelman Thomas J Egan, Jr.
+George A Joulwan Lawrence S Kanarek Stephen R Kappes Maria Pica Karp Francis J Kelly, Jr.
+Melby Franklin C Miller James N Miller *Judith A Miller * Alexander V Mirtchev Obie L Moore *George E Moose Georgette Mosbacher Steve C Nicandros Thomas R Nides Franco Nuschese Joseph S Nye Sean O'Keefe Hilda Ochoa-Brillembc Ahmet Oren *Ana Palacio Carlos Pascual Thomas R Pickering Daniel B Poneman Daniel M Price TAndrew Prozes Arnold L Punaro *Kirk A Radke Teresa M Ressel Charles 0.

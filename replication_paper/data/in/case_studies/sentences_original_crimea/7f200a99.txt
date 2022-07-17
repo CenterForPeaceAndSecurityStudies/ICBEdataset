@@ -1,0 +1,398 @@
+PROJECT NUMBER Alexander V Simmons, Lieutenant Colonel, United States Army 5e.
+SPONSOR/MONITOR’S ACRONYM United States Special Operations Command MacDill Air Force Base 7701 Tampa Point Blvd 11.
+ABSTRACT Social Movement Theory , which came into being during the 1960s, is a compact model for analyzing organizations pursuing political objectives.
+Using the tripartite structure of ideological framing, resource mobilization, and political opportunity, academics and practitioners use SMT to analyze everything from civil rights groups to religious insurgencies.
+However, there is no existing SMT application to the “gray zone,” which represents one of the greatest challenges facing the United States today.
+This thesis reviews the current literature on both the gray zone and SMT, creates an SMT analytical model, and then applies the model to case studies on Russia and Ukraine.
+Under proper analysis, SMT can identify existing sources of tension in a gray zone adversary, likely vulnerabilities in a target region, and potential countermeasures for senior strategists and commanders.
+SUBJECT TERMS Social Movement Theory, Gray Zone, Russia, Ukraine, Crimea 16.
+NAME OF RESPONSIBLE PERSON Unclassified OF ABSTRACT OF PAGES Stephen C Rogers, Colonel, USA Director, Joint Advanced Warfighting School a.
+USING SOCIAL MOVEMENT THEORY TO ANALYZE RUSSIA’S GRAY ZONE STRATEGY By Alexander V Simmons Lieutenant Colonel, United States Army NOT FOR COMMERCIAL USE WITHOUT THE AUTHOR’S EXPRESS WRITTEN PERMISSION Intentionally left blank THE TRIANGLE OFFENSE: USING SOCIAL MOVEMENT THEORY TO ANALYZE RUSSIA’S GRAY ZONE STRATEGY by Alexander V Simmons Lieutenant Colonel, United States Army A paper submitted to the Faculty of the Joint Advanced Warfighting School in partial satisfaction of the requirements of a Master of Science Degree in Joint Campaign Planning and Strategy.
+Signature: Approved by: Signature: Director, Joint Advanced Warfighting School Intentionally left blank ii ABSTRACT Social Movement Theory , which came into being during the 1960s, is a compact model for analyzing organizations pursuing political objectives.
+Under proper analysis, SMT can identify existing sources of tension in a gray zone adversary, likely vulnerabilities in a target region, and potential countermeasures for senior strategists and commanders. iii Intentionally left blank iv ACKNOWLEDGMENTS I would like to acknowledge Dr.
+Bryon Greenwald, and Colonel Doug Golden, USAF, for their advice, mentorship, and support during this thesis process.
+I greatly appreciate your intelligent and insightful comments, as well as your patience and understanding during this challenging year.
+In 1955, Secretary of State Henry Kissinger used the term, “Gray Areas,” to describe countries along the Sino-Soviet periphery where the United States could employ limited means, instead of nuclear weapons, to resist and exhaust communist efforts.
+Now, that’s the zone in which our ground forces have not traditionally had to operate, but one in which they must now become more proficient.
+Countries that use gray zone strategies against the United States, hereafter known as “adversaries,” have several common characteristics.
+First, they exert political control over a clear geographic area, which distinguishes adversaries from terrorist and criminal organizations.
+Adversaries have important national interests that may conflict with international norms and standards.
+An adversary may possess regional strength, but is 1 Henry A Kissinger, ""Military Policy and Defense of the ""Grey Areas"","" Foreign Affairs 33, no.
+An Alternative Paradigm for United States Military Strategy , 12. 1 unwilling or unable to challenge the United States and her allies directly.
+To achieve their interests in a specific geographic area, adversaries will use a variety of diplomatic, information, military, and economic methods below levels that would trigger a hostile political-military response.
+Over time, these methods can neutralize America’s strengths and exhaust its political will.
+Social Movement Theory , an increasingly popular concept for analyzing insurgencies, can help illuminate an adversary’s strategic objectives and vulnerabilities.
+SMT’s tripartite approach of ideological framing, resource mobilization, and political opportunity is a useful method for a combatant command to understand an adversary’s motivations, tendencies, and vulnerabilities.
+This paper demonstrates how SMT can identify existing sources of tension in an adversary, likely vulnerabilities in a target region, and potential countermeasures for senior strategists and commanders.
+Chapter 1 reviews existing gray zone authors and literature, as well as introduce the Gray Zone SMT model of analysis.
+Chapter 2 discusses Russia, which the United States currently considers its most active and dangerous adversary.
+Finally, Chapter 4 concludes the paper with policy and authority recommendations for senior U.S. strategists and leaders.
+LITERATURE AND THEORY DISCUSSION The following literature and theory discussion has four main areas.
+First, it will review the authorship background within the current body of literature.
+The third area will cover common themes of current gray zone literature, and introduce social movement theory.
+Often, gray zone academics are former military officers who earned terminal degrees after their service.
+This set of authors tend to focus on the theoretical aspects of gray zone strategy.
+However, because of their military experiences, these authors work diligently to link theory and application.
+They are the primary authors behind the major books and monographs on the gray zone.
+Antulio Echevarria, in Operating in the Gray Zone, takes a hard look at the strategy and tactics.
+Regaining Strategic Initiative in the Gray Zone, writes on how the gray zone generates paralysis in United States policy makers.
+Understanding a Changing Era of Conflict, explains how gray zone strategies shift the initiative to the weaker party.
+These authors, while hailing from across the armed services, have a sizable presence in the special operations community.
+Senior commanders and staff officers dominate the practical side of gray zone analysis, but younger officers contribute as well.
+While practitioners focus on finding effective tactical and strategic responses to adversarial actions, they also reflect on the human aspects of modern warfare.
+Practitioners, especially special operators, are on the front lines of the gray zone, and use those experiences to enhance the field of study.
+Unfortunately, operational requirements limit practitioner input to articles in newspapers and professional journals.
+The extensive writings in the online community exceed the scope of this literature review.
+However, many academics and practitioners are active 2 United States Special Operations Command is a noted home for several practitioners.
+Admiral Eric Olsen published articles in The Wall Street Journal and Defense One explaining the gray zone in common language for policy makers to understand.
+General Joseph Votel, a former SOCOM commander, described unconventional warfare and the gray zone in JFQ 80.
+Lieutenant General Charles Cleveland, a former commander of Army Special Operations Command, described how working by, with, and through the indigenous population over time can neutralize a gray zone strategist.
+Both “Project Gray” and “Small Wars Journal” publish academic papers on the topic. 4 in online forums, so it is important to recognize the community’s influence on gray zone research.
+The largest body of work focuses on finding strategic and tactical solutions to specific crises.
+Practitioners often explore the conditions that lead to the emergence of both gray zone areas and adversarial gray zone strategies.
+Practitioners also look internally at their own talent management systems to address the complex problem of the gray zone.
+Finally, a small number of authors use coercion and deterrence theory to explain gray zone problems.
+Strategy and tactics writers emphasize plans either to solve existing specific gray zone challenges, or to address an emerging adversary.
+Within the realm of tactics, the special operations community exerts particular influence, as their modus operandi is to reinforce foreign allies in solving their own problems.
+Echevarria, in Operating in the Gray Zone, states a whole-of-government approach is necessary, but the military, with its experience with practical planning, should be the planners, leaders, and executors.
+Freier, in Outplayed, states DoD should “lead up” in the interagency and develop strategic approaches to gray zone adversaries and challenges.
+CAPT Phillip Kapusta, in “The Gray Zone,” counters that America follows a predictable and overly militarized strategy, thus making it easy for gray zone adversary to counter.
+Christopher Lamb, in “Back to Basics on Hybrid Warfare,” uses a Bosnia case study to demonstrate how an interagency approach can lead to long-term success against a gray adversary.
+Lieutenant General Cleveland, in “The Emerging Land Commons and Gray Zone Conflict,” states that success in the gray zone depends on partnerships with the indigenous population.
+Within strategy, the works of Echevarria and Kapusta are among the strongest in the field.
+These authors’ work are a firm foundation for additional strategic case study analysis.
+Within the tactical set, there is little emphasis on the application of diplomacy and economic measures, and there is little documentation of interagency activities within gray zone conflict areas.
+It does not seem plausible that the Departments of State, Treasury, Justice, and others have no relevant examples in their gray zone approaches.
+Practitioners, who pursue solutions to gray zone problems, place special emphasis on talent management and the human domain.
+Talent management maximizes a unit’s capability by finding, training, and employing the right person, to the right mission, at the right time.
+Understanding the human domain, in comparison, requires a micro-focus study on the populace in a crisis area.
+Complex problems, such as gray zone challenges, require high levels of talent, capability, and maturity to provide effective solutions.
+Talent management and the Human Domain present an interesting gray zone focus.
+While talent management is a universal concept, few United States government agencies apply it to addressing gray zone problems.
+Within Special Operations, talent management 6 The Special Operations Community places exceptional emphasis on talent management.
+General Votel, in Unconventional Warfare in the Gray Zone, describes how the WWII era Jedburgh teams required language and cultural proficiency, as well as high levels of maturity, to keeps the partisans focused on the Germans and not each other.
+Admiral William McRaven’s book, Spec Ops, emphasized the importance of proper talent in the conduct of special operations missions.
+Lamb explained how, despite intense political and cultural opposition, the Bosnian Train and Equip program trained over 5,000 Bosniak Soldiers in two years and changed the calculus of the Balkans conflict. 6 manifests itself organically through rigorous assessment, selection, and training programs.
+Other interagency organizations should apply these concepts to their own recruiting, retention, and training efforts to tackle gray zone problems.
+As for the human domain, better interagency coordination and communication will help to draw a more concise picture of the operating environment.
+Lamb’s case study provides a useful long-term perspective on the human domain in a successful gray zone campaign.
+The persistent nature of uncertain conflict attracts some writers to the foundational causes and conditions behind gray zone conflicts.
+A principal observation is that an adversary will maintain focus on its domestic interests, with little concern for international norms and standards.
+Once the adversary chooses to act, it will use ambiguous legal and moral means to “secure its objectives while minimizing the scope and scale of actual combat” against a foe with superior resources and firepower.
+This realist perspective is valuable because both sides must keep their domestic audiences in mind, and weigh the risks of action over inaction.
+Clear national security priorities will determine the actions of both the adversary and its foreign competitors.
+Freier, in Outplayed, took a hard look at how the United States suffers from strategic paralysis in gray zone crises because it has weigh domestic support against the uncertainty of foreign conflict.
+Secretary Henry Kissinger, in “Military Policy and Defense of the ‘Gray Areas,’” used a similar analysis to explain how Chairman Mao would address multiple small conflicts along China’s borders.
+Michael Mazarr, in Mastering the Gray Zone, explains how a gray zone strategist will use small actions to blur the line between peace and war, thus forcing the other side to either break the peace or accept the new action as a permanent change to the status quo.
+There are few in-depth works from academics, and general articles merely skim the surface for policy makers.
+Additionally, allied countries have diplomatic archives and cables that are available for analysis and study, which can be especially valuable for countries where the United States lacks a diplomatic presence.
+A thorough study of these data sources can provide useful information to academics, practitioners, and policy makers.
+Once a critical aspect of Cold War politics, adversaries now use deterrence as a more subtle means of settling disputes.
+By threatening possible opponents with the high costs of intervention, adversaries can amass resources, synchronize communications between allies, and secure their objectives without overt violence.
+Kissinger, in “Military Policy and Defense of the Gray Areas,” proposed using little wars to deter China and Russia from committing to resource-intensive land wars.
+Echevarria, in “How Should We Think about ‘Gray Zone’ Wars”, stated that all aspects of military power , as well as finance, intelligence, and the law, are viable tools for a gray zone adversary.
+However, deterrence and coercion have real promise of explaining gray zone problems.
+Considering the richness of the theoretical material, and the ability to apply theory to existing and former gray zone crises, this concept demands more research and study by both academics and practitioners.
+United by a common concern over America’s strategic shortfalls, academics and practitioners are aggressively tackling the different aspects of gray zone research.
+An aspiring researcher on the gray zone will find a wealth of information and knowledge as a starting point.
+Recognizing this commonality better frames the gray zone problem and leads to better analysis.
+The first, and most common theme, is that that all instruments of national power are necessary for success.
+Adversaries are militarily weaker than the United States, so they cannot afford a direct military confrontation.
+Instead, adept adversaries use information, economics, diplomacy, and legal avenues to achieve their objectives.
+The United States, within its legal and moral traditions, must reply in kind.
+The second common theme is that the United States cannot win gray zone conflicts by using only one department or agency of government.
+Joint, Interagency, Intergovernmental, and Multinational is the ideal construct for fighting 9 adversaries.
+Each department, service, and partner nation has unique skills and abilities.
+However, when JIIM partners are working in concert, there is a much greater chance for success.
+Finally, the various authors proved that the gray zone is not ahistorical.
+The historical nature of gray zone conflict validates the use of historical case studies for comprehending and analyzing modern examples.
+C Gray Zone Conflicts and Social Movement Theory The existing body of work concludes that an adversary desires political control over a target population and will use multiple methods to achieve that goal.
+More importantly, gray zone methods refrain from overt violence to avoid negative reactions from the international community.
+Ideally, a successful adversary will achieve its goal through voluntary support of the target population.
+With voluntary popular support as a principle objective, it is interesting that no one has applied social movement theory towards understanding gray zone conflicts.
+Social Movement Theory emerged in the 1960s, as American and European governments tried to understand the massive changes emerging in their societies.
+After Marxism and political repression theory failed to explain the rise of these new 15 Kapusta, The Gray Zone, 24.
+An Alternative Paradigm for United States Military Strategy, 6. 10 movements, theorists landed on the social movement approach to understand the American Civil Rights movement, the Vietnam protest movement, and other forms of political protest.
+Since the 1960s, SMT has become a valuable tool in understanding ideological insurgencies around the world.
+In the early years of the 21st Century, academics and practitioners began using SMT to analyze the Islamist movements across the Middle East.
+Basic Social Movement Theory 17 Colin J Beck, ""The Contribution of Social Movement Theory to Understanding Terrorism,"" Sociology Compass 5, no. : 1567.
+In his seminal work, Why Muslims Rebel, Hafez stated that rise of violent Islamist movements since the 1950s was the result of an existing political system that failed to care for its people.
+As such, neither material wealth nor moderation could squelch the rise of political violence by disaffected Islamists.
+Hafez’s use of SMT was a significant advance in the study of Islamist insurgencies.
+Hafez is one of the most prominent authors on SMT and Islamist insurgencies, he was not the first scholar to make this connection.
+Quintan Wiktorowicz described how Islamists use their social interactions to provide for the population, recruit followers, and propagate their ideology.
+Asef Bayat argued that the “imagined solidarity” of a social movement is the best way to explain how Islamism makes constant political adjustments without losing popularity.
+Repression and Resistance in the Islamic World (Boulder, CO.: Lynne Rienner Publishers, 2004), 19.
+What is interesting, but not surprising, is the lack of SMT application to the gray zone.
+Since 2001, the United States has spent a large amount of time, blood, and treasure fighting Islamic insurgencies across the Middle East and around the world.
+Thus, it follows that SMT scholars would focus their efforts on Islamic insurgencies instead of other conflict areas.
+Gray Zone Analytical Tool using SMT’s Tripartite Model (created by author) 24 Glenn E Robinson, “Hamas as a Social Movement” In Islamic Activism: A Social Movement Theory Approach, ed.
+The secondary population consists of the near abroad, or the adversary’s primary target.
+The third target audience is the opponent, also known as the Far Enemy.
+The Far Enemy is more powerful than the adversary, and can greatly influence the adversary’s desired end state.
+It is critical to remember that the national power references apply to the adversary, not the United States or the targeted state.
+Adversaries tend to use a different mix of national power elements for each aspect of the tripartite model.
+The third consideration of the SMT model is sequencing the three aspects of the tripartite model.
+Ideological framing and resource mobilization are long-term campaigns, often subtle or covert, that can last months or years with few signs to outside observers.
+Political opportunities, on the other hand, are singular events that fundamentally alter the status quo in the conflict region.
+Successful adversaries, through ideological framing and 26 This method of population analysis stems from the Target Audience Analysis process within Psychological Operations.
+While specific TTPs behind PSYOP TAA are classified, the basic concepts are common to marketing, business, and communications strategies.
+A Comprehensive Guide to the Peloponnesian War , 352. 14 resource mobilization, will exert steady pressure on their targets to accelerate and exploit the political opportunity.
+Under this perspective, the preceding SMT Gray Zone model should look at how an adversary uses mass social movements to create political change in a target region.
+This critique is valid, but also constraining, because it focuses the solution set on simply stopping or controlling the social movement.
+Instead, the author proposes using the tripartite model as a different reference point on gray zone problems, and possibly finding a different set of solutions.
+The weaponization of mass social movements goes beyond the scope of this paper, but is a fascinating concept for future study.
+This case study uses SMT’s tripartite structure to understand the Russian political state and domestic population.
+Russian leaders, using the West as a comparison, depend on strong foreign policy actions to maintain internal political support.
+Finally, the West failed to recognize the political opportunity to influence Russian political behavior in the 1990s, thus reopening the door for authoritarian rule in 1999.
+Strong Leadership Ensures Domestic Stability History forms the first ideological frame for how the Russian people perceive their government.
+Under this particular governing model, political weakness is a sure path to personal destruction.
+The Russians czars and Soviet premiers, in their foreign relations, placed great emphasis on appearing strong on the international stage.
+In turn, this image of international prestige bolstered their domestic image.
+When Russian leaders lose the aura of power and prestige, the loss of political power comes rather quickly.
+Russia’s international standing is important because it is directly proportional to the government’s domestic support.
+As the country has a long history of authoritarian control, there is little precedent for either earning or maintaining a social contract.
+This missing social contract contributes to Russia’s “legal nihilism,” or disrespect for the law, by the common citizen.
+Dmitry Shlapentokh states, “The chronic inability of the state to collect taxes is a sign of the lack of respect for the law in Russian culture.
+It is an indication that the social contract modern Westerners willingly obey has never existed in Russia, neither at the 3 Hager, 214.
+Throughout its history, Russia compared and measured its power against European countries.
+After the end of World War II, the United States became the standard for Russian success.
+Starting in 1948, the Soviet Union spent over forty years competing with the United States economically, militarily, diplomatically, and politically.
+This Cold War rivalry gave Russia more international standing and prestige than at any other time in its history.
+Hydrocarbons, Diplomacy, Arms, and Information While Russia uses all four elements of national power to earn international influence and maintain domestic support, its oil and natural gas resources are a key source of strength.
+Russia is the world’s largest producer of crude oil, and is second only to the United States in natural gas production.
+Russia uses both of these resources effectively to target neighboring states through market manipulation and supply controls.
+Instead, using its energy resources as a leverage point, Russia solidified bilateral trade relationships with neighboring countries across Europe and Central Asia.
+Over time, this diplomatic and economic synergy gave Russia an asymmetric advantage over its trading partners.
+If a trading partner took a political path that was hostile to Russian interests, then Russia would use economic disincentives, such as excise duties, to change the partner’s political behavior.
+Russia also used economic relationships to enhance its diplomatic power.
+Russia’s use of bilateral relationships not only helped it to dominate partners, but also weakened international resolve.
+During a crisis, countries had to choose between the potential benefits of allying the West or the tangible economic lifeline from Russia.
+This emphasis on bilateral relationships also reinforced Russian strength in geographic areas that the West neglected, such as Eastern Europe and Central Asia.
+Albert O Hirschman’s defined this relationship in his Economic Dependence model.
+This is a condition where an asymmetric economic relationship between two states has political consequences.
+The larger state uses its economic interests to define its national interests, thereby affecting the foreign policy of the smaller state.
+Throughout the 1990s, Russian diplomats successfully protected the country’s interests by isolating foreign policy from domestic turmoil.
+At the United Nations, Russian diplomats were proactive in several significant global decisions, often at odds with the United States.
+These actions, which showed defiance in the face of “American hegemony,” helped Russia to maintain the image of a great power on the international stage.
+Russia could exploit its diplomatic and economic power because Europe and the United States did not sustain their focus on the countries along Russia’s frontier.
+In an effort to bring Russia’s interests into closer alignment with the West, the EU only implemented policies in Eastern Europe if they did not conflict with Moscow’s security interests.
+Over time, this approach created the impression to Russia that the EU would not interfere in its “sphere of influence,” and sow the seeds for future conflict.
+A major reason that the West tacitly accepted Russia’s “sphere of influence” was its military power.
+While the post-Cold-War Russian military fell from the world’s second largest to fifth, it was still the most powerful force in Eastern Europe and Central Asia.
+Russia’s conventional military consists of elite and regular forces numbering 14 Allen C Lynch, ""The Realism of Russia's Foreign Policy,"" Europe-Asia Studies 53, no.
+Russia’s irregular warfare component consists of special forces and militias that can conduct special operations in domestic and international roles.
+Finally, Russia maintains the world’s largest nuclear arsenal with over 80,000 personnel, thus remaining a strong deterrent to Western military adventurism.
+Finally, Russia maintains control through dominating the media environment.
+As stated earlier, domestic support depends heavily on international prestige.
+After the Cold War, the government required an adversary, and the “democratic peace” movement from Europe and the United States provided the perfect scapegoat.
+The sharp rise of democratization, followed by aggressive NATO expansion in the Baltics and Eastern Europe, appeared to be a direct threat to Russian security.
+The Image of Weak Leadership Brings a Return To Autocracy Russian leadership began to show signs of weakness in the late 1980s, during the era of Mikhail Gorbachev’s perestroika, or restructuring of Soviet society.
+While Russia had the outward appearances of economic, military, and political strength, Gorbachev recognized that the state lacked a just social contract with the people.
+After the Soviet Union fell in 1991, Russia’s international prestige took a precipitous drop.
+Throughout this period, the United States and the West had the opportunity to reinforce Yeltsin’s domestic image.
+Unfortunately, NATO expansion and rejection of Russia’s entry to the G-7 community undermined Yeltsin’s political power.
+In the 23 Leon Aron, ""Everything You Think You Know about the Collapse of the Soviet Union is Wrong,"" Foreign Policy, no. , 67.
+Putin’s “propaganda leitmotifs of ‘hostile encirclement’ and ‘Russia rising off its knees’” resonated with the populace, and led to his election in 2000.
+SMT Analysis of Russia’s Domestic Environment In the model, Russia targets two populations.
+Without domestic support, the government cannot successfully 28 Aron, 70. 23 pursue any objectives outside of its borders.
+The other target population are Western governments, which serve as both partners and rivals in international relations.
+Centuries of czarist rule, followed by almost 80 years of communist dominance, left a legacy of autocratic rule.
+Russian history repeatedly shows that the people respect strong leaders, while viewing weak leaders as a significant threat.
+With no viable social contract between the government and the people, the Russian political system requires strong leadership to maintain domestic stability.
+In an autocratic environment, a strong leader requires an adversary or competitor.
+For much of Russia’s history, Western European powers served as the model for comparison.
+After World War II, the United States ably filled this role, and Russia’s international prestige grew during the Cold War.
+This gave Russian leaders the strength and authority they needed to run the country despite significant domestic concerns.
+Ideology and competition are not enough; strong leaders need resources to maintain power.
+Russia’s power flows from its vast oil and natural gas reserves, which it exports to countries across Europe and Central Asia.
+To maximize their energy advantage, Russian diplomats emphasize bilateral trade relationships, where Russia can maintain an asymmetric advantage over a weaker neighbor.
+Russia also possesses the strongest military in Eastern Europe, and can easily dominate any of its neighbors.
+Finally, the Russian government controls the media environment, ensuring that the majority of the domestic population will only receive information that supports the regime.
+Human rights violations like silencing dissenters, imprisoning political rivals, 24 and assassinating journalists and critics fail to arouse the population because those actions never make the evening news broadcasts.
+The only political opportunity for the West to change Russia’s political environment was the fall of the Soviet Union in 1991.
+During the chaotic years of the early 1990s, the United States and the West could have reinforced President Boris Yeltsin’s political position, thus giving him the international prestige necessary to maintain his domestic strength.
+Instead, the West weakened Yeltsin’s domestic position by rejecting his G-7 request and accepting Russia’s neighbors as NATO allies.
+As a result, Vladimir Putin, promising a return of Russian strength, replaced Yeltsin as president in 2000.
+Over the years, Putin regularly projected Russian strength on the international stage, which only increased his domestic approval ratings.
+Moving forward, the most likely method of exploiting Russia’s vulnerabilities as an adversary depend on eroding confidence in its leaders.
+This will be an exceptionally difficult challenge, especially in Russia’s hostile information environment.
+Diplomatic and economic efforts appear less likely to work, as neither have a direct impact on the average Russian citizen.
+Militarily, Russia remains a tier below NATO and the United States, and is incapable of invading Western Europe.
+However, Russia has the largest nuclear arsenal in the world, and enough conventional military power to deter Western forces.
+Russia remains in a demographic spiral, with an overall life expectancy lower than Bangladesh, Eritrea, and Yemen.
+Russia faces an uncertain economic future, as the price for a barrel of oil fell from $146.69 in July 2008 to $50 a barrel in 2017.
+Finally, the expanding information environment, especially in social media, makes Soviet-style repression tactics impossible to conceal from the international community.
+Standing firm on vital interests, while remaining alert to indirect approaches, appears to be the best way to contain this wily adversary.
+A SHARE HISTORY OF POLITICAL, ECONOMIC, AND SECURITY DEPENDENCE In 2014, Russia executed a series of overtly aggressive actions against Ukraine.
+In February, Russian forces seized political and military centers of power in the Crimean peninsula.
+After a “peoples’ referendum,” Moscow annexed Crimea into greater Russia.
+The following summer, Russian special forces fomented an insurgency in the Luhansk and Donetsk Oblasts of eastern Ukraine.
+The insurgents formed the Luhansk and Donetsk Peoples’ Republics, and requested to join Russia.
+Only the July 17 shoot down of Malaysian Airlines Flight 17 over Donetsk prevented another Russian annexation of Ukrainian territory.
+Russian actions in 2014 were the culmination of a long-term, subtle, and persistent strategy for Moscow to exert political control over Ukraine.
+Until the Crimean annexation in February, Russia successfully executed its strategy without incurring a significant response from the United States or Europe.
+SMT analysis helps to answer several important questions with respect to Russia and Ukraine.
+Utilizing a combination of economic, diplomatic, and military power, Russia forced Ukraine to accept an asymmetric bilateral relationship.
+When the Maidan uprising in the winter of 2013-2014 overthrew Ukrainian president Victor Yanukovich, Russia took advantage of the political opportunity to seize Crimea and sow general chaos in eastern Ukraine.
+Historical Ties between Russia and Ukraine The relationship between Russia and Ukraine reaches back to the 9th Century AD, during the founding of the empire of Kievan Rus.
+Russian schoolchildren grow up knowing that Kiev is the “mother of Russian cities,” while Kievan Rus is the common ancestor of Ukraine, Russia, and Belarus.
+The empire thrived until the Golden Horde of Baku Khan destroyed it in the 13th Century.
+After the Mongols left the region in the 15th Century, outside entities would continue to control Ukraine.
+After a short period in the Polish-Lithuanian Commonwealth, the Russian czars conquered eastern Ukraine and absorbed it into the greater Russian Empire.
+At the same time, the Austria-Hungarian Empire brought western Ukraine into its fold.
+This division is the source of Ukraine’s modern east-west split, where the east looks towards Russia and the west looks towards Europe.
+After both the Russian and Austria-Hungarian Empires fell after World War I, Russia absorbed all of Ukraine into the Union of Soviet Socialist Republics.
+In 1942, German forces overran the region on the way to the city of Stalingrad.
+Two years later, the Soviet Red Army would retake Ukraine during its march to Berlin.
+This historical background of over a millennium is fundamental to the ideological frame of reference between Russia and Ukraine.
+To Russian citizens, Ukraine is a sister country with a shared history and shared values forged through war and struggle.
+Thus, the two countries should always have common goals and objectives.
+However, unlike Russia, Ukraine recognizes its junior role in the relationship.
+Additionally, Ukraine’s split focus between east and west remains a vulnerable rift within the country.
+Economic Dependence and Political Influence Ukraine’s bifurcated nature came into play after the collapse of the Soviet Union.
+After centuries of authoritarian rule, Ukraine did not adjust well to democracy and endured years of endemic corruption.
+To remain economically solvent, Ukraine maintained close ties to the newly formed Russian Federation, establishing mutual relationships in labor migration, government financing, and most significantly, energy supplies.
+In exchange for economic resources, Russia contributed to the political survival of several Ukrainian presidents through the 1990s.
+However, Russia saw color revolutions as Western efforts to place unfriendly regimes on its borders.
+Throughout the Soviet period, Ukraine depended on Russian oil and natural gas to run its factories and heat its homes.
+Prior to the Orange Revolution, there was real potential that Kiev would join EurAsEc.
+Viktor Yushchenko and the Orange Revolutionaries changed that equation in 2004.
+After Yushchenko became president in 2005, he explicitly turned the country westward towards Europe.
+In response, Russia used its asymmetric economic relationship to affect Kiev’s decision-making.
+The first “gas war” between the two countries occurred in 2006, when Russia attempted to raise Ukraine’s gas prices fivefold.
+A second gas war occurred three years later, forcing Yushchenko to sign an unfavorable gas contract with Russia in order to prevent a complete economic collapse.
+For Russia, the energy weapon achieved its effect in 2010, when Victor Yanukovich, a pro-Russian politician, defeated Yulia Tymoshenko, an Orange Revolutionary, and became president.
+During the same time period, Europe and the United States began to lose interest in Ukraine’s democratic efforts.
+In 2005, a year after Ukraine’s Orange Revolution, both the EU and United States provided significant financial resources to Kiev to support domestic political changes.
+However, by 2011, both entities shifted support away from democratization to “good governance” goals like, “justice, integrated border 8 Dragneva and Wolczuk, 688.
+Left unspoken was Russia’s overwhelming conventional military power over Ukraine.
+In 2012, Ukraine was planning to cashier 20% of its force, or 40,000 soldiers, by 2016.
+As a military force, Ukraine could participate in limited peacekeeping operations, but had no force-projection ability outside of its borders.
+Both Ukraine and the West fully understood that a direct military confrontation between Kiev and Moscow would end poorly for Kiev.
+Exploit Chaos in the Wake of an Uprising In the autumn of 2013, Victor Yanukovich made a crucial decision that changed the course of Ukraine’s history: he rejected further NATO discussions and stated that the country would consider joining the Russian-backed EurAsEc.
+Russia gave Ukraine $15 billion in economic aid without requiring an official commitment to join EurAsEc.
+However, the Ukrainian population thought otherwise, believing that Yanukovich surrendered Ukrainian sovereignty for better relations with Moscow.
+While the Maidan demonstrations were not as powerful as the Orange Revolution a decade earlier, they placed significant popular pressure on Yanukovich to resume EU integration.
+Trapped by domestic pressure and losing political allies, President Yanukovich fled Kiev for Moscow as a political refugee on 21 February 2014.
+They made their presence known on 27 February 2014, when they stormed the Crimean parliament.
+Over the following days, they secured critical transportation hubs, command and control infrastructure, and air defense facilities that could delay Russian reinforcements from arriving in the theater.
+Despite Russia’s overt aggression in Crimea, Kiev did not respond with overt force.
+The interim government also remembered how, in 2008, Russia invaded Georgia after the death of tiny number of Russian peacekeepers in Tskhinvali, and knew that Moscow would respond with overwhelming force if any Russians died in Crimea.
+Additionally, the speed at which Russia flowed their special troops into Crimea made armed resistance a moot point.
+Moscow, under the guise of a popular referendum, annexed Crimea on 18 March 2014.
+Buoyed by his success in Crimea, Vladimir Putin looked for another opportunity to both maintain domestic support and to bring Kiev to heel.
+Similar to Crimea, eastern Ukraine had both a pro-Russian population and sizeable support base of local fighters.
+Additionally, the Donetsk and Luhansk provinces of eastern Ukraine sit on the Russian border.
+Seizing this terrain would secure a land route from Russia to Crimea, and further weaken Kiev’s political control.
+In Russia’s Western and Central military districts near the Ukrainian frontier, 150,000 Russian troops conducted a training exercise, while the Russian Navy and Air Force deployed elite troops to bases in Crimea.
+This rapid show of force essentially froze Ukrainian Army forces in place, and allowed Russian forces to encircle and neutralize the Ukrainian security forces in Crimea.
+Led by a new president, Petro Poroshenko, the government in Kiev proceeded to use force against the separatist provinces in an effort to bring them under control.
+Despite Kiev’s resistance, operations in the East favored the Russian-backed separatists until 17 July 2014.
+On that day, a Russian-made SA-11 missile brought down Malaysia Airlines Flight 17, which was flying from Amsterdam to Kuala Lumpur.
+The subsequent international inquiry exposed the “separatists” as a possible Russian proxy force, brought economic sanctions down on Moscow, and locked eastern Ukraine into a long-term conflict.
+As of March 2017, the crisis in Ukraine continues, with little prospect for a permanent peace between Moscow and Kiev.
+SMT Gray Zone model for Russia’s involvement in Ukraine (created by author) In the Ukrainian crisis, Russia has three target populations.
+The first is the domestic audience, upon which the government draws overall support.
+This audience also includes the ethnic Russians who live in Crimea and eastern Ukraine.
+The second is the political leaders in Kiev, as their capitulation to Moscow’s will ensures Russia’s security in the near abroad.
+Finally, the third audience is Western governments, particularly in the United States and Western Europe.
+Their combined military, economic, and diplomatic strength greatly exceeds Russia’s, so it is essential for them to remain on the sidelines during this conflict.
+Ukraine and Russia’s combined history create the ideological frame for their relationship.
+The countries share over a millennium of military, political, and economic ties.
+Additionally, both countries share a long history of authoritarian rule.
+However, 36 while Russia sees Ukraine as a sister country, Ukraine always remembers that it is the junior partner in the relationship.
+Ukraine also suffers from a split focus, with the East looking towards Moscow and the West looking towards Europe.
+Economically, Ukraine suffers from an asymmetric relationship with Russia.
+Ukrainian prosperity depends on Russian oil and gas supplies, while Ukraine has virtually nothing to hold over Russia.
+As Russia demonstrated during the Gas Wars in the mid-2000s, the ability to restrict heating fuel during the winter months gives Russia an overwhelming advantage over Ukraine and other dependent countries.
+Russia used this economic dependency to shape political decisions in Kiev for many years.
+The only place where Ukraine held an advantage over Russia was Crimea, where the Russian Navy maintained its only access to the Mediterranean Sea.
+However, Russian military strength prevented Kiev from exploiting that advantage.
+With an overwhelming advantage in aircraft, troops, ships, and nuclear weaponry, both Moscow and Kiev understood that a direct confrontation could end poorly for the Ukrainian military.
+Finally, Moscow depends on both the EU and United States to respect Russia’s sphere of influence.
+EU and United States democratization efforts in Ukraine led to the Orange Revolution in 2004, which Moscow perceived as a direct threat to its rule.
+However, over the following decade, Europe and the United States watched Ukraine stumble between democracy and autocracy.
+As the West lost interest, Moscow continued to impose its will on Ukraine, with the goal of keeping Ukraine politically vulnerable.
+Wanting to both reclaim Crimea and weaken the new Ukrainian government, Russian forces seized Crimea and annexed the territory in March 2014.
+After Kiev’s lackluster response, Moscow tried again during the Donbas rebellion in eastern Ukraine.
+This time, however, the Ukrainian military fought back, and the resulting conflicts remains active today.
+Russia, as the principal adversary in the Ukrainian crisis, holds significant advantages.
+However, of the three SMT factors, Russia appears most vulnerable to diplomatic and economic pressure during resource mobilization.
+The EU and United States hold significant economic and diplomatic power, and applying steady pressure over time could change Russia’s behavior.
+In particular, highlighting Russia’s aggressive behavior to the international community can create openings for diplomatic and economic sanctions.
+Weakening Russia’s international image through broadcasting its aggressive activities in Ukraine, while avoiding a military confrontation, appears to be the best way for the West to force a change in Russia’s political behavior.
+However, the intent is to apply the model to different gray zone adversary scenarios.
+In general, Russia’s gray zone strategy was effective, but the outcome was neither inevitable nor irresistible.
+This section highlights several findings from the Russia case studies for consideration in facing a future adversary.
+The section also includes several recommendations for combatant commanders to consider for deterring and defeating their adversaries.
+Ideological framing is a long-term process, and requires a long-term policy response.
+The Russian case study illustrated that ideological framing is not a short-term process.
+A number of factors, to include cultural similarities, religious affiliation, or a common enemy can accelerate the process.
+However, there is no such thing as an immediately successful ideological frame.
+Russian efforts are one of many examples of successful ideological framing.
+Iran, in its support of Lebanese Hezbollah, successfully united the Lebanese Shia against their common enemy, Israel, during the Lebanese civil war of the 1980s.
+Syed Qtub, who many consider the father of modern Islamism, mobilized his followers after decades of resisting the Arabization efforts of President Gamal Abdel Nasser.
+In China, Mao Zedong mobilized Western China against Imperial Japan and, later, General Chiang Kai39 shek over twenty years.
+Regardless of the situation, ideological framing takes time and patience to convert an audience from passive listening to active support.
+Establish long-term information campaigns, with diplomatic and economic support to counter adversary ideological framing.
+Russian ideological framing relied on a historical perspective of the RussianUkrainian relationship.
+Spanning nearly a millennium, this reference frame relied on a shared history, common religion, and similar experiences in war and peace.
+It is fantastical to think that a foreign information campaign from the West could counter, or even dent, such an ingrained mindset.
+However, this does not mean that western forces should surrender the information battlefield.
+For example, the EU and the United States could have persisted in their democratization efforts, insisting that Ukraine make concrete efforts to root out corruption and economic mismanagement.
+In return, the West could have delivered significant economic aid to help the country during its transition – especially after Russia threatened to cut oil and gas supplies.
+More importantly, combatant commands must prepare information campaigns for the long haul.
+As the case study showed, Russian efforts lasted for years, and reinforced economic and diplomatic efforts before the use of military force.
+It is unwise to expect an information campaign to have concrete results in a 6-12 month period – especially if diplomatic and economic measures are absent.
+At a minimum, a full effort will challenge the gray zone strategist on the information battlefield.
+Otherwise, information control 40 will go to the gray zone strategist, with negative consequences for American and Western interests.
+Adversaries use their relative military power to strengthen their diplomatic and economic methods.
+The Russian case study displayed how the effective use of diplomacy and economics to create an asymmetric relationship between a weak and strong country.
+Russia’s military, while not the primary strategic weapon, also influenced the situation.
+This allowed Russia to use its soft power to great advantage against Ukraine and other former CIS states without incurring a negative response from the West.
+Russia successfully intervened in both Crimea and the Donbas because the Ukrainian military lacked a significant presence in both regions.
+Additionally, there were no allies willing or able to intercede on Ukraine’s behalf.
+Thus, Ukraine’s military was in react mode, surrendering the initiative and the offensive to their Russian adversaries.
+Use economic and diplomatic tools to challenge an adversary’s control over the target country.
+The Baltic States, with support from the United States, serve as a recent example of successful resistance to Russian economic threats.
+On January 12, 2017, the prime ministers of Latvia and Lithuania announced that they would begin to import liquid natural gas from the United States by 2018.
+The United States should support such independent efforts against aggressive adversaries.
+Help partner nations to increase their military capabilities, especially in foreign internal defense.
+In the Ukraine case study, the Russian Ministry of Defense used unconventional warfare forces to infiltrate Crimea and set the conditions for annexation.
+According to United States doctrine, UW forces are most vulnerable during the infiltration phase of the operation.
+A domestic security apparatus, with effective foreign internal defense training, can use their numerical superiority to neutralize a smaller, more specialized infiltration threat.
+Geographic combatant commands, through their theater special operations commands , use JCETs to execute FID training in host countries.
+It is important to maintain support for this essential training methodology.
+Unfortunately, JCETs require 51% of foreign training is for United States benefit, and 49% is for the host nation.
+An authority adjustment is necessary for TSOCs to commit the bulk of the JCET’s energy and resources towards improving the capacity of the host nation.
+Special operations forces are best equipped to generate a persistent, longterm presence in countries threatened by adversaries.
+The United States Special Operations Command has nearly doubled in size since 2001, with now over 70,000 personnel under its command.
+With the transfer of operational control of the TSOCs to USSOCOM, and an operating budget near $10 billion, the command is postured to conduct persistent special warfare missions around the world.
+As part of USSOCOM’s Title 10 authorities, gray zone activities already fall under foreign internal defense, and can easily shift to unconventional warfare or special activities authorities.
+The command’s assessment, selection, and training program already identifies and equips highly talented service members for the difficult gray zone mission set.
+In general, all of the pieces are in place for USSOCOM to be an effective anti-gray zone force.
+Section 1208 authorizes funds to support foreign forces, irregular forces, groups, or individuals that support or facilitate ongoing United States special operations.
+Both 1206 and 1208 funds are subject to the annual budgetary appropriations process, which, as recent history demonstrates, has a fickle timeline.
+This unpredictable funding stream is a significant obstacle when a gray zone adversary commits years of time, energy, and resources to accomplishing an objective.
+B Conclusion The gray zone, or the span of conflict below the level of war, is neither new nor temporary.
+The United States and her allies will continue to face adversaries that will use all aspects of national power to establish and maintain an asymmetrical advantage.
+Addressing these complex problems with conventional military solutions will only lead to the loss of blood, treasure, and political prestige.
+The United States requires new and innovative solutions to this seemingly intractable problem.
+This paper proposed using social movement theory’s tripartite approach of ideological framing, resource mobilization, and political opportunity to analyze gray zone 4 Rand Study, page 17.
+The two case studies demonstrated that historical roots shape perceptions, economic and diplomatic ties entangle target areas, military strengths can freeze opponents, and that time-sensitive political opportunities can permanently change the environment.
+Successful counter-adversary operations require a significant resource commitment, intensive interagency coordination, and authorities that allow maximum freedom of movement at the lowest level.
+USSOCOM, with its service-like authorities and funding, is an ideal match for this complex mission.
+With the proper authorities and funding, other combatant commands or departments can address gray zone problems as well.
+The greatest requirements for confronting, restraining, and defeating a gray zone adversary are willpower and patience.
+It is essential that the United States and her allies maintain a consistent focus and steady resolve in confronting an adversary.
+Social Movements and Networks Relational Approaches to Collective Action.
+GAO Assessment of DoD's Report on Special Operations Forces and United States Special Operations Command.
+Loredo, Elvira N., John E Peters, Karlyn Stanley, Matthew E Boyer, William Welser and Thomas S Szayna.
+Alternative Worlds: A Publication of the National Intelligence Council.
+Assessing and Evaluating Department of Defense Efforts to Inform, Influence, and Persuade Desk Reference.
+Paul, Christopher, Jessica M Yeats, Colin P Clarke, Miriam Matthews, and Lauren Skrabala.
+Prepared Remarks for DoD's 2015 Strategic Multilayer Assessment Conference, Special Operations Command, Camp Springs, Maryland.
+He transitioned to Psychological Operations in 2002, where he has served in command and staff positions from detachment to Army level.
+LTC Simmons’ most recent command was of the 9th Psychological Operations Battalion from 2013 to 2015.
+He has combat deployments to Iraq and Afghanistan, and operational deployments to Haiti, Venezuela, and Mexico.

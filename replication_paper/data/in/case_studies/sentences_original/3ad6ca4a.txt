@@ -1,0 +1,294 @@
+Moreover, post-positivist approaches to political science increasingly eschew causal analysis altogether.
+This article argues that the source of these divisions is methodological, not philosophical.
+Using the example of the Cuban missile crisis, a contrastive, counterfactual approach to causation, where a cause exists when the occurrence of one event rather than another leads to one event rather than another, meets the intuitions and the practice of political scientists engaged in different methodological approaches with different purposes.
+A contrastive, counterfactual account meets the intuitions of scholars engaged in quantitative and qualitative methods, and captures many of the intuitions guiding debates within qualitative and interpretive methods.
+By developing a common, unified approach to a key philosophical division, it is easier to identify the differences that matter.
+Keywords agent–structure problem, constitutive theory, epistemology, International Relations, methodology, ontology Introduction In August 1962, the Soviet Union unloaded its first nuclear rockets in Cuba.
+Almost two months later, an American U-2 detected the rockets and the Cuban missile crisis began.
+These empirical questions, unfortunately, are not the only source of debate concerning the causes of the crisis.
+Within positivist and scientific realist approaches to political science, some scholars argue that causes are events or properties that raise the probability of an effect; others argue that an event must be mechanistically linked to an effect; and others argue that causes must be necessary conditions for an effect.
+The nature of causation has also created a divide between positivist and post-positivist approaches, with the latter focusing on constitutive instead of causal relationships.
+Advocating a position concerning causation has become a marker of one’s position on a range of theoretical, methodological, and empirical issues.
+Advocates of statistical models, for example, often argue that causes are probability-raisers, whereas advocates of comparative case studies argue that causation is related to necessary conditions.
+While theoretical, methodological, and empirical divides in political science are very real, I argue that causation should not be one of them.
+A careful, nuanced reading of contrastive, counterfactual accounts of causation not only overcomes our disciplinary debates which have little to do with the substance of international politics, but perhaps more importantly leads to better research questions and more focused causal explanations.
+The following analysis of causation focuses on the Cuban missile crisis.
+The missile crisis is one of the most studied events in world history, and a range of arguments from a host of perspectives have taken positions on its causes.
+Through this lens, the first half of this article makes the case for a counterfactual theory of causation as a bridge between positions in the positive approach to political science.
+At present, there is no agreed-upon definition of cause in political science; instead, there are warring accounts of causes.
+This debate, created by diverse methodological approaches to political science, has created a divided intuition about what causes are.
+To bridge the divide, one must shift from a methods-centered discussion of causes to a question-centered approach.
+Whereas we cannot agree on the methods for determining causation, we can agree on the questions for which causes are answers.
+Not only do many questions related to causation within the positive approach to the social sciences become moot, but if the positive element of political science moves to a counterfactual account of causation, then the debate between positivist and post-positivist scholars over causation also becomes moot.
+Through an analysis of Jutta Weldes’ account of the Cuban missile crisis, I show that ‘how-possible’ questions are more appropriately recast as contrastive why-questions to which contrastive, counterfactual answers are given.
+In sum, our disciplinary differences might relate to the relative importance we place on different questions, our value orientations, or the methods we use to make causal claims, but our differences should have nothing to do with causation itself.
+I am not arguing that contrastive why-questions are the only form that research questions in political science should take.
+There are interesting questions related to description, moral evaluation, measurement, and categorization that are not causal in nature and therefore have different forms.
+A response to a contrastive why-question may require, in part, an elaborate description — akin to that favored by scientific realists — emphasizing causal processes, mechanisms, and social kinds.
+Likewise, a response may take the form of a simple description of a correlation thought to adequately explain a contrast.
+Most importantly, I am not arguing that every field should rely on contrastive why-questions as a clue to causation, and therefore I am certainly not proposing to offer a unified definition of causation.
+Scholars in quantum mechanics, for example, may work in such a radically different area that contrastive why-questions hold no value.
+By separating causal statements from other intricate issues in the philosophy of science, this article makes four important contributions.
+The first two contributions relate to the question of philosophical method.
+Social scientists, including IR scholars, debate philosophical questions often without discussing methods for settling philosophical disputes.
+Understanding different ways to tackle problems, such as ‘What is a cause?’, is crucial to making forward progress.
+Focusing on research questions that demand causal explanations is a clue to what types of causal statements should be given in response.
+I elaborate an account of contrastive, counterfactual causal statements that meets these demands and, in doing so, I develop common ground between some ‘positivist’ and some ‘post-positivist’ approaches to social science research by highlighting good work in both traditions that relies on the same type of causal talk.
+Many post-positivist scholars claim that their work is distinctive, in part, because it avoids causal analysis.
+An important traditional philosophical method relies on shared intuitions among a community about the meaning of causality.
+Yet, in political science, our community does not have recourse to this traditional solution; differences in methodological training and practice prevent a shared intuition about what causes are.
+This section argues that without reconstructing our causal intuitions, there is no sense in judging causal accounts.
+In political science, most approaches to debating theories of causation resemble attrition warfare.
+When political scientists debate causation, they criticize alternative accounts without attempting to develop a common intuition about what causation is.
+John Gerring , an advocate of probabilistic reasoning, and James Mahoney , an advocate of a variant of necessary and sufficient conditions, each claim that the other’s account is reducible to their own.
+Some political scientists arbitrarily reserve the term ‘causation’ to refer to certain types of relationship, claiming that other forms of analysis are separate but equal.
+Hollis and Smith , for example, separate explanation, as a causal domain marked by positive science, from understanding, as an interpretive domain.
+These discussions of causality show logical problems with the others’ accounts or claim that certain methods point to certain accounts.
+Unsurprisingly, every account has logical problems, has been criticized in various philosophical literatures, and is considered by its opponents to be unsuitable for political analysis.
+The method of evaluating causal claims in political science is strikingly different from that pursued in the philosophy of causation.
+In the philosophy of science, it is not enough to criticize alternative accounts; one shows that a specific account makes more sense than another in capturing what we mean by cause.
+Critics then propose cases where the prior account does not accord with our intuitions, and the original model is either refined or abandoned.
+The standard for evaluating accounts of causation is how well an account handles our common-sense intuitions about what causes are.
+One evaluates accounts based on their ability to make sense of things as causes for those things we want to say are causes.
+We do not want to say, for example, that nuclear weapons are the cause of the Cuban missile crisis.
+Yet, nuclear weapons raised the probability of and were necessary conditions for the crisis, and the development of nuclear weapons relates to mechanisms through which conflict over Cuba nearly escalated into war.
+In the philosophy of causation, one tries to develop an account of causation that excludes intuitive non-causes, such as nuclear weapons, while including intuitive causes, such as concerns about Kennedy’s reputation or the dynamics of crisis escalation.
+Many are quick to move to the second step, criticizing accounts of causation, without moving through the first step, trying to show how accounts meet the community’s intuitions.
+I suspect the reason is that we have deeply divided intuitions about what causality means.
+The political science community, steeped in debates over methods, does not admit to shared intuitions about causation.
+From graduate school on, scholars are often deeply immersed in the study of specific types of methods relying on different inferential tools.
+I cannot prove this bet here, but there are two reasons to wager it is true.
+Any good discussion of the methods we use to infer causality should come with a discussion about what causality is.
+In general, however, the intense study of techniques, accompanied with claims that they are ‘causal,’ likely shapes scholars’ and students’ intuitions about what causality is and why we study it.
+Claiming that a specific methodological approach has the ability to generate ‘causal’ explanations while others are simply constant conjunctions or description is to make a judgment concerning the merit of others’ work.
+Appealing to a common, unreconstructed intuition of what causes are is not helpful.
+Sociological divisions within our discipline mean that any discussion of cause that is linked to the way we conduct research is incapable of generating a satisfactory account.
+There is no method through which political science, as an unreconstructed field, is capable of generating an even partial answer.
+There are no grounds for one side in the causality debate to ‘win’ because there is no common measure — no scoring system — for what constitutes a winning argument.
+The first approach admits that our discipline has divided intuitions about causation and adopts a pluralistic definition of ‘cause,’ accepting multiple types of analysis as incommensurate responses to different kinds of research questions.
+The pluralistic approach is appealing because it incorporates a broad range of theoretical and methodological perspectives.
+Pluralists often hope that admitting multiple species of explanation to count as causes will broaden the field; however, it is equally likely that admitting pluralism and eschewing the attempt to reconstruct a common conception of cause will deepen division.
+There is little reason to expect a pluralistic account of causality to fare better.
+A second approach turns away from our intuitions concerning what causation is (the ordinary language approach) to actual causes in the social and natural world.
+This approach, shared by many scientific and critical realists, has effectively broadened the concept of causation to include interesting relationships.
+Milja Kurki , for example, suggests adopting the fourfold Aristotelian typology of causation — material, efficient, formal, and final — to handle different aspects of causal relations.
+Approaches such as Kurki’s are laudable for cataloguing types of interesting relationships.
+A third approach attempts a reconstruction of our intuitions regarding causation.
+If we do not have recourse to an unreconstructed common-sense understanding of cause, then we need to generate one.
+While we differ over what we mean by cause, I argue that one clue for how a reconstruction may be possible is that we agree that certain research questions, contrastive why-questions, demand causal explanation.
+By moving from question to concept to method, we can reconstruct what we mean by cause and, only then, develop methods conducive to causal analysis.
+Requesting causes The previous section argued that political science as a field has divided intuitions about causation.
+On the one hand, IR scholars are more methodologically divided than they are by accounts of causation; on the other hand, one cannot be sure what methods are suitable for causal inference unless one knows what ‘causal’ means.
+The first part details the relationship between research questions and causal inference, and the second part suggests a contrastive account of appropriate research questions.
+This, however, does not rig the ‘causation game’ in favor of qualitative methods.
+Most discussions of the nature of causation begin with discussions of specific examples, and then expand to analyze populations.
+Moreover, the account of causation that I develop, as I suggest in the conclusion to this section, is easily extended to probabilistic accounts of cause, relying on quantitative tools for inference.
+More importantly, I want to focus on a single example — the Cuban missile crisis — because it has been approached by scholars from a variety of traditions, each of which has interesting things to say about the crisis.
+Research questions and causal inference Political scientists have long noted the relationship between research questions and causal explanation.
+The traditional reason for emphasizing research questions is largely pedagogical.
+Highlighting appropriate forms of research questions focuses scholars on important dependent variables (e.g.
+I argue that research questions may serve another important purpose, providing a clue to what is expected from causal inference in political science.
+Focusing on research questions may be a first step toward developing an account of causation, but only if the form of the request is precise.
+Asking why-questions — ‘Why p?’ — is not enough because many why-questions are not requests for causal explanation.
+When one asks why something is measured in a certain way — ‘Why is France a democracy?’ — or questions of import — ‘Why is the study of missile crises important?’ — one expects scientific responses that are not causal.
+Beyond these semantic concerns with why-questions, there is a much more significant problem with why-questions that is more intimately related to causal explanation.
+All events or groups of events have long and elaborate causal histories; to isolate some part of that history and refer to it as causal is always an arbitrary process.
+Two common solutions are to exclude less salient causes or to exclude causes that are remote and hard to measure.
+These solutions, I argue, raise important methodological issues involved in responding to why-questions, but they do not serve as appropriate guides to understanding what types of questions demand causal explanation.
+IR scholars have long been interested in finding an objective method for assessing whether events are causes.
+For a population of crashes, for example, drunk drivers might be a better predictor of crashes than blind corners; therefore, drunk drivers are a more salient cause.
+Techniques for determining salience, however, do not respond to demands for causal explanation.
+When one asks ‘What are the causes of the Cuban missile crisis?’, one wants the full list, not just salient causes.
+In Fearon’s example, the wars in the 20th century might not have occurred if Cleopatra’s nose had been shorter.
+In answering ‘Why did the Cuban missile crisis occur?’, we need not go as far back as Cleopatra.
+One reason the missile crisis was a crisis was the delay in the US detection of the missiles.
+If Kennedy had known weeks earlier, his administration would have had more time to consider a response.
+The delay was partly caused by infighting over sending a U-2 over Cuba.
+China had shot down a U-2 a month earlier, McCone (an ardent supporter of the flight) was on his honeymoon, and there was internal squabbling over whether the Air Force or CIA should run the U-2 program.
+Had China not shot down the U-2, had McCone remained a bachelor, or had the Air Force taken the program from the CIA a month earlier, the missile crisis may never have been a crisis.
+Fearon suggests that we should not allow Cleopatra’s nose-type causes because they are difficult to assess.
+Fearon is right to discount Cleopatra’s nose because it is unverifiable, but that does not mean that other remote events are not causes of modern political phenomena.
+When asking ‘Why did the car crash?’, no one wants a description of the causal chain that culminated in cold weather leading to icy roads leading the car to skid.
+Similarly, when asking ‘Why did the First World War happen?’, one usually does not want a description of ancient European history, culminating in the German state, making possible a German invasion of France.
+Cleopatra’s nose-type causes are often uninteresting, even trivial, and do not point to interesting elements of a causal explanation.
+The problem is not that they are hard to measure; even if one can demonstrate them, they are usually not the type of causal explanation we want.
+Cleopatra’s nose-type explanations are bad explanations because they respond to bad questions.
+When one asks ‘Why did the Cuban missile crisis happen?’, almost any response related to any part of any causal chain leading to the missile crisis provides an element of a response.
+After outlining the form contrastive why-questions take, I suggest several advantages of their form for understanding causal inference.
+Contrastive why-questions eliminate the problems associated with ambiguous whyquestions.
+Peter Lipton , in a celebrated essay, argues that most requests for causal explanation are better understood as requests for causal explanations of contrastive outcomes.
+Contrastive why-questions focus research on interesting elements of causal explanation and avoid Cleopatra’s nose-type explanations.
+The contrastive why-question focuses attention on a specific set of causes, screening off non-explanatory responses.
+The Cold War, for example, does not explain the timing of the crisis because it drives incentives to send missiles into Cuba in both periods.
+Similarly, Khrushchev’s birth is causally relevant to his making a decision (because Khrushchev’s ability to make a decision counterfactually depends on his birth) but not to his making one decision rather than another.
+By screening off non-explanatory responses, contrastive why-questions focus research on politically and theoretically important causal explanations.
+Specific, contrastive questions screen off bad explanations and focus research on the types of responses we are looking for.
+Asking successive why-questions might provide the best approach to understanding the causal dynamics of historical events in their richest details.
+Contrastive why-questions, like a microscope, zoom in on theoretically important questions, whereas simple why-questions risk losing important trees in the forest.
+Graham Allison and Philip Zelikow pursue this approach to the Cuban missile crisis.
+Rather than asking ‘What caused the missile crisis?’, they ask a series of questions best described as contrastive why-questions.
+Each question hones in on specific dynamics that contributed to the Cuban missile crisis, permitting a focus on specific elements of theoretically and practically important causal chains that culminated in the crisis in a way not afforded by simple why-questions.
+Emphasizing contrastive why-questions as important for causal explanation is a first step toward an adequate account of causes in debates over foreign policy decisionmaking.
+Contrastive why-questions highlight variation and puzzling phenomena and enable detection of salient causes.
+As a community, I suspect we can agree that contrastive why-questions almost always require causal explanations.
+A contrastive, counterfactual analysis of causation In the previous section, I argued that political science can take clues concerning causation from contrastive why-questions.
+Using contrastive why-questions to steer toward a consensus definition of causation, this section outlines a contrastive, counterfactual definition of causation.
+I first discuss shortcomings with simple counterfactuals, showing how they mirror problems with simple why-questions, and then explain why contrastive counterfactuals avoid these problems.
+Unfortunately, despite the methodological attention to counterfactuals, there has been no attention to the relationship of counterfactuals and causation.
+Not all counterfactual claims are causal claims, but all causal claims seem to require counterfactual analysis.
+Discussing methods and counterfactuals without first asking what types of counterfactuals are causal in nature puts the cart before the horse.
+In political science, the extant treatment of counterfactuals and causation is binary.
+Fearon shows that this form of counterfactual analysis is important for statistical and small-n causal inference.
+The conventional approach is binary because it is only interested in two events and is not explicitly cast in terms of contrastive possibilities.
+I refer to this strict binary account, where c causes e if and only if not-c then not-e, as a strict, counterfactual account of causation.
+Several philosophical and methodological problems with strict counterfactuals mirror problems with simple why-questions.
+The strict counterfactual theory is prone to a severe form of Cleopatra’s nose-type problems because it treats every proximate element of a causal history as a cause.
+Counterfactually, if there were no Cuba, no missiles, or no Cold War, there would be no Cuban missile crisis.
+If we are interested in causal explanation, simple counterfactuals seem problematic because they treat intuitive non-causes as causes.
+If d and e are effects of a common cause c, but d precedes e, then a strict counterfactual theory treats d as a cause of e because, counterfactually, no d implies no The Soviet decision to install the missiles during the day, for example, caused Soviet engineers to sweat profusely and also caused the missiles to be detected.
+The strict account treats sweating profusely as a cause because, if the engineers did not sweat, that would mean the missiles were installed at night, camouflaging their existence.
+A strict counterfactual theory also makes it impossible to isolate elements of a causal chain without moving needlessly back into the chain’s causal history.
+The Cuban missile crisis, for example, was a crisis because of the short timeline for decision-making.
+The delay was in part caused by the loss of a Chinese nationalist U-2 over China.
+The communist movement in China would not have been popular if the Soviet Union had not provided aid to China in 1921.
+And, China asked for aid from the Soviet Union because the West ignored Chinese requests.
+A strict counterfactual account treats the West’s refusal to provide aid to China before 1921 as a cause of the missile crisis, along with every other step in the causal history before and after 1921.
+The standard way of saving counterfactuals is to adopt methodological rules of thumb.
+Like Fearon, Tetlock and Belkin and Lebow respond to the last objection by arguing that we should not allow the refusal of aid to count as an explanation of the crisis because of possible measurement errors.
+If one could show that Western aid to China in 1921, with 100% certainty, would have prevented the missile crisis, then strict counterfactual theories treats it as a cause.
+Yet, no one finds it an interesting explanation for the missile crisis.
+Contrastive counterfactuals Significant philosophical and methodological problems exist with simple counterfactual theories of causation.
+Even if we admit that every necessary condition is a cause, it is unclear how this type of causal analysis relates to causal explanation.
+Explanation is a practical, purposive activity, and treating events as causes that do little to answer concrete questions creates problems in understanding the role of the philosophy of science in creating accounts useful in the social sciences.
+A contrastive, counterfactual theory of causation is designed to avoid these problems.
+As Northcott phrases it, causation is when c-ratherthan-C* causes e-rather-than-E*, where ‘causes’ is a relation of counterfactual dependence.
+Events like the Cuban missile crisis are interesting, in part, because they are multifaceted.
+By emphasizing the context-dependent nature of causal explanation, a contrastive, counterfactual account of causation avoids the pitfalls of strict counterfactuals.
+A contrastive, counterfactual treatment of causation eliminates unimportant proximate factors.
+By pointing to specific effects of interest and using contrastive cases where unimportant elements of events are common, contrastive counterfactuals avoid trivial explanations.
+A contrastive account, in contrast, avoids these trivial explanations because these non-explanatory facts are true for both the factual causal history and its counterfactual foil.
+If one asks ‘Why did the Cuban missile crisis occur in 1962 instead of 1961?’, the existence of missiles, Cuba, Khrushchev, and the Cold War are common in both the fact and the foil.
+Relying on contrast cases to screen off unimportant elements of explanations focuses debate on crucial questions.
+Looking at the effects of reputation, one might claim that Kennedy’s meeting with Khrushchev at Vienna in 1961, where he was perceived as weak, emboldened Khrushchev to send missiles in 1962.
+Unlike the geological formation of Cuba, however, these explanations are interesting.
+Well-posed research questions can focus attention on specific time periods, screening off Cleoaptra’s nose-type causes.
+If one asks, for example, ‘Why was the Cuban missile crisis a crisis ?’, a strict counterfactual account of causation treats shooting down the ROC U-2 and the entire chain of events that led to its shooting down as causes.
+The contrastive why-question screens off candidate contrastive causal chains because it explicitly rules out causal responses that require manipulating events before September 1962.
+Using well-crafted questions, one can bound the domain of possible contrastive causes.
+There is still ample room to debate the role of bureaucratic turf wars, McCone’s honeymoon, the effect of nuclear weapons in shortening time horizons, or domestic politics in pushing Kennedy to make snap decisions.
+Unlike debates about the origins of Chinese communism, however, these debates are confined by purposive inquiry.
+Unlike many methodological approaches to counterfactual analysis that prevent using remote events as causes, a contrastive, counterfactual approach also enables a focus on important historical events far from the action of the crisis when called for.
+For some scholars, distant causes where, as Hannah Arendt puts it, there is a ‘grotesque disparity between cause and effect’ are the most interesting.
+According to Arendt, overproduction in a few countries caused imperialism, which caused a transformation in global political structures.
+These distant causes of modern phenomena are of particular interest in comparative politics, where long-forgotten causes that occurred centuries before an effect explain modern events.
+Barrington Moore’s study of the origins of dictatorship and democracy, for example, traces regime type to the fate of the aristocracy and the growth of agriculture.
+More interesting, Benedict Anderson traces the impact of the printing press, showing that only through the creation of standardized print languages were communities able to communicate and think of themselves as part of a nation.
+The contrastive question not only specifies the actual and hypothetical effects of interest, it also limits the domain of causes to what happened during the French Commune.
+Contrastive explanation provides a more intuitive way of highlighting these distant explanations as causal, permitting one to treat remote causes as non-trivial when appropriate.
+Not only does a contrastive, counterfactual account meet our intuitions about causal explanation, but it can also capture the intuitions that guide other leading approaches to causation.
+The preceding examples show that contrastive, counterfactual accounts focus attention on specific mechanisms through which a cause is linked to an effect.
+Many IR scholars engaged in large-n quantitative work often suspect that the political world is probabilistic, not deterministic, and emphasize mean causal effects rather than mechanisms.
+A contrastive, counterfactual account easily travels to a probabilistic world.
+A contrastive, counterfactual account of cause captures our intuitions about what is needed for causal explanation in positive approaches to political science.
+While it provides a bridge between camps on causation, it does not bridge divides elsewhere.
+Political scientists can adopt a common definition of cause without adopting common methodological strategies or substantive focuses.
+Adopting a common conception of cause focuses debate on these real differences and prevents philosophical debates over the nature of causality from infecting our discussions of more important issues.
+The next section argues that this is true not only within positive approaches to political science, but also between positive and post-positive approaches.
+Post-positivism and causation The first two-thirds of this article argued for a contrastive, counterfactual definition of causation, showing that this account is an intuitive, philosophically appropriate response to well-posed demands for causal explanations.
+The first part of this article was confined to discussions largely within ‘positivist’ social science where the avowed aim is causal inference.
+Adopting a contrastive, counterfactual analysis of causation points to commonalities between these approaches that are unrecognizable unless we use such a model.
+This does not mean that there are no important differences between these approaches; rather, focusing on the structure of causal statements is not the appropriate place to locate our differences.
+The divide between interpretivist and positivist research has many dimensions.
+Methodologically, interpretivist research often concentrates on probing single cases in extended depth, whereas positivist research often concentrates on understanding populations.
+Philosophically, there are divides between scholars working within the traditions of scientific and critical realism who assert the importance of real processes, structures, and relationships, and positivist and pragmatic scholars less concerned with the ontological status of social phenomena.
+Conceptually, interpretivist scholars are often interested in constitutive relationships, whereas positivist scholars are interested in chains of probabilistic or deterministic causal histories.
+In addition to these real differences, to which many more might be added, many post-positivists argue that their camp does not have an interest in addressing causal relationships.
+These IR scholars often distinguish between a logic of explanation and a logic of interpretation.
+Alexander Wendt , for example, suggests that there is a difference between causal relationships, in which causes are independent of and precede effects, and constitutive relationships, where there is no independence or time lag between cause and effect.
+The first part of this section suggests that translating how-possible questions into contrastive why-questions is usually not only possible, but more importantly improves the precision of the research question.
+As a consequence, research that responds to most how-possible questions engages in causal explanation in the same way as ‘positivist’ research if causal explanation is treated as a contrastive, counterfactual relationship.
+The second section shows how this works by showing that Jutta Weldes’ account of the Cuban missile crisis, an exemplar of how-possible questioning, can be translated into contrastive, counterfactual causal language.
+How-possible questions In this section, I suggest that how-possible questions usually are implicit requests for causal explanations, and understanding how they make these requests is essential to providing good responses to research questions.
+Moreover, translating how-possible questions into contrastive why-questions makes research more precise, highlighting research puzzles of interest.
+Scholars working with post-positivist methodologies and approaches to the philosophy of science often argue that they are not engaged in causal theorizing because they ask how-possible questions.
+Alexander Wendt argues that there is a gap between research focusing on why-questions and how-possible questions.
+Jutta Weldes , for example, asks how it was possible for Soviet missiles in Cuba to seem inherently offensive, and for the Kennedy administration to dismiss Soviet claims that they were defensive as deception.
+These how-possible questions search for explanations about the systems of meaning and structures of power that make certain events possible.
+Yet, despite this crucial similarity, some claim that how-possible and why-questions are fundamentally different.
+The independence and precedence of cause and effect raise interesting issues, few of which I explore here.
+There are, however, significant reasons to think that this distinction is not enough to cut a line between howpossible questions and why-questions.
+Usually, IR scholars working with how-possible questions are working in areas with independent causes and effects.
+Most of Wendt’s concrete examples of howpossible questions have independent causes and effects.
+The response — the Earth’s gravitational pull makes the moon orbit — relies on a cause independent of the effect.
+There are many straightforward causal explanations for Stalin’s power that posit separate causes and effects.
+The lack of an independent judiciary , for example, enabled Stalin to use government agencies to terrorize people , because an independent judiciary would have made Stalin accountable for the terror he imposed.
+One might object, arguing that responding to the how-possible question is different because one wants a description of the entire social, political, and economic system that maintains Stalin’s power.
+To understand how each factor within the system, however, contributes to an effect requires understanding that factor’s influence on the rest of the system.
+Isolating these factors and describing their causal powers is necessary to fit together the description of the larger system.
+And the last section argued that requesting an explanation of the influence of a factor takes the form of a contrastive why-question.
+More importantly, separating causal from constitutive statements is problematic because causal accounts can focus on a broader class of events than Wendt emphasizes.
+Underlying the notion that cause and effect are separate is that causes and effects are two discrete events with no intrinsic connection to one another.
+When approaching social phenomena, Wendt takes this to mean that a promise and a language of promising are the same event because a promise has an intrinsic connection to a language of promising.
+Recall that I defined an event as an instance of an action, condition, mechanism, and object in a state of affairs.
+Saying ‘I promise’ is independent of a language of promising in two ways.
+On the one hand, a language of promising can exist whether or not I make a specific promise.
+On the other hand, I can say ‘I promise’ without being obligated if the language of promising is counterfactually manipulated.
+A broad definition of events allows us to treat structures, reasons, or mental constructions as causes of action even if there is no independent existence in space-time.
+While some positivist accounts of causation are deterministic, many are not.
+Probablistic accounts often embrace indeterminism, and necessary-conditions-based accounts do not imply determinism.
+Similarly, how-possible questions often treat social rules, institutions, norms, and structures as necessary conditions for social actions; to ask if a social action is possible, one asks about the enabling conditions that are part of the causal explanation for the action.
+The example of Weldes’ account of the Cuban missile crisis discussed later highlights these similarities.
+The most important reason often advanced to separate how-possible from why-questions is that they require different answers.
+How-possible questions seem to ask for broad descriptions of social structures and the systems in which they are incorporated, whereas why-questions highlight specific aspects in the effort to make causal statements.
+In short, causal statements are interested in explaining temporal sequences, whereas constitutive statements are interested in static systemic totality.
+Separating causal and constitutive relations because of a concern about the referents of inquiry is unnecessary because translating how-possible questions into contrastive why-questions is required to give an adequate response.
+Each contrast provides an understanding of a different element of the whole and enables an analysis of the relationship between the parts.
+Contrastive-why questions also highlight the specific areas of interest for the researcher, making inquiry more precise.
+Louis XIV’s power was possible because he was alive, because he was a monarch, because he was male, and so on without limit.
+The latter question is much clearer because it asks for contrasts and isolates elements of interest.
+Louis XIII and Louis XIV were both alive, male, and monarchs, but Louis XIV had a different relationship to the nobility from Louis XIII, enabling him to exert more power and influence within France.
+In either case, the use of contrastive why-questions clarifies the elements of interest in an inquiry through demands for causal explanation.
+Causal theorizing in the Cuban missile crisis Jutta Weldes’ account of the Cuban missile crisis shows these connections between constitutive and causal theorizing.
+While Weldes claims to begin with a how-possible question and partly eschews causal explanation, I suggest that she really is beginning with a contrastive why-question and proposes a contrastive, counterfactual response that is clear and persuasive.
+When the Kennedy administration discovered Soviet missiles being introduced into Cuba, they found it an ‘obvious’ threat to United States security.
+Within the administration and in its public statements, the Soviet introduction of missiles was portrayed as swift and secretive, hostile and expansionist.
+Weldes argues that the obviousness of the crisis is a puzzle because the Soviet buildup need not have been depicted as expansionist.
+On the one hand, the Kennedy administration might have believed the build-up to be a defensive reaction to United States actions in Cuba, such as the Bay of Pigs or Operation Mongoose.
+Alternatively, the Kennedy administration might have believed the introduction of Soviet nuclear missiles into Cuba could stabilize the nuclear balance.
+By 1962, the United States realized that the Soviets held fewer nuclear weapons.
+United States representation of the Soviet Union linked Soviet conduct to the conduct of Nazi Germany, emphasizing the links between totalitarianism, duplicity, and expansionism.
+This representation explains why Soviet conduct was always considered treacherous and offensive and why the United States, in describing its own conduct, emphasized its open nature.
+Furthermore, the United States styled itself as the leader of the Western free world.
+This ‘world leader’ image legitimated a United States response to the missiles to protect others from aggression and it marginalized defensive narratives by representing the United States as the defender.
+If contrastive causes had occurred — if the United States had not linked expansion to its representation of the Soviet Union, or if the United States did not describe itself as a world leader with legitimate interests in the western hemisphere — then a contrastive effect would have occurred.
+The United States representation of its interests in Cuba would have been different.
+Weldes’ treatment of constitutive relations is not only a prime example of making contrastive, counterfactual causal claims.
+More importantly, it is clear and persuasive because she makes causal arguments with clear contrasts.
+Claiming that statements about constitutive relations and statements about causal relations are usually the same does not mean that all elements of varied post-positivist research programs can be reduced to positivist programs.
+There are significant disagreements in other areas of the philosophy of science, methods, and substance that are not overcome by emphasizing contrasts.
+Focusing on a contrastive causal account, however, highlights those differences that are already thorny, tough problems, preventing them from becoming entangled in causal talk.
+Conclusion In his review of the philosophy of science debates in IR, Patrick Jackson argues that when the term ‘science’ is used, it is in the attempt to discredit rival methodological approaches.
+Several authors, noting the politicization of scientific arguments, recommend avoiding philosophical debates about science, causation, and related issues.
+In place of discussions of science, causality, and related concepts, Monteiro and Ruby emphasize a prudent approach that ensures scholars are consistent with their own tradition, rather than adjudicating between positions.
+Pluralists presume that IR scholars do not share foundational intuitions about what causes are in political research; therefore, they are skeptical about the prospects for advancing a common account.
+By contrast, I argue that the sources of division are not related to causation.
+Methods debates have bled into our intuitions about causation, infecting a field that agrees on important questions with needless divisions.
+At a minimum, it is worth exploring how far we can develop a common intuition using practical research puzzles and their attendant demands for explanations as starting points.
+A focus on research questions as requests for causal explanations provides grounds for a reconstruction of our intuitions about causation.
+I thank Kevin Clarke, Scott Powell, Alexander Wendt, the editor of the European Journal of International Relations, the anonymous referees, and especially Robert Adcock for suggesting substantial improvements.
+A strong definition of the independence of events posits that they must occupy different places in space-time.
+However, we often talk about causality when cause and effect occupy the same space-time position.
+Similarly, for mental phenomena to be treated as having causal significance (a belief or reason is a cause of a decision), we must relax the physical separation of cause and effect.
+A weak condition for independence, posited here, is that events are independent if they are logically separable and are capable of being treated as explanans and explanandums.
+There may be some concern that this definition of event contains underlying ontological assumptions.
+Events, however, are here treated as component parts of causal statements and do not necessarily refer to isolated objects that exist in the world.
+A post-positivist analysis of United States counterinsurgency policy in the Philippines.
+George A and Bennett A Case Studies and Theory Development in the Social Sciences.
+Goertz G and Levy J Causal explanations, necessary conditions, and case studies.
+Goertz G and Levy J Explaining War and Peace: Case Studies and Necessary Condition Counterfactuals.
+Hollis M and Smith S Explanation and Understanding in International Relations.
+Philosophy of Science and its Implications for the Study of World Politics.
+Tetlock PE and Belkin A Counterfactual Thought Experiments in World Politics.
+Box-Steffensmeier J, Brady H and Collier D Oxford Handbook of Political Methodology.
+Monteiro N and Ruby K IR and the false promise of philosophical foundations.
+Guzzini S and Leander A Constructivism and International Relations: Alexander Wendt and his Critics.

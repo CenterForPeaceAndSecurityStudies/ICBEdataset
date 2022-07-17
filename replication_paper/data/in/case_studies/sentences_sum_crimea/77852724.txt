@@ -1,0 +1,484 @@
+ We analyze Ukrainian trade transactions before and after the 2014 Russia-Ukraine conflict . We analyze Ukraine trade transactions.
+Ukrainian firms from districts with fewer ethnic Russians experienced a decline in trade with Russia .
+ This decline is economically significant, persistent, and explained by erosion of trust and the rise of local nationalism, says the author .
+Ukrainian firms suffered a decrease in performance and diverted trade to other countries . Affected Ukrainian firms suffered an increase in performance .
+Social effects of conflict can be economically damaging even away from combat areas, our results suggest .
+ We are indebted to Nancy Qian, Lori Beaman, Georgy Egorov, Nicola Persico, and Chris Udry for the extremely helpful advice and encouragement .
+ We would also like to thank Costas Arkolakis, Sandeep Baliga, Michal Bauer, Chris Blattman, Joshua Blumenstock, Julie Chytilová, Christian Dippel, Paul Dower, Konstantin Egorov, Scott Ge
+ Artem Ilyin, Eugene Kosovan, Olga Tokariuk, and Serhij Vasylchenko provided invaluable insights regarding the context . The three writers also provided valuable insights about the context of the story .
+ Potential ramifications of conflict may also extend to areas not directly experiencing combat, however .
+ At least 2.66 billion people live outside the warzones of their own conflict-ridden countries . This points to a considerable gap in the literature, given that at least two billion people in the world live outside their own countries .
+ Traditional estimates are based on comparing regions with and without violent events within the same country . If non-combat areas are affected, the traditional estimates may differ from the total economic costs of conflict .
+ conflict-ridden countries do not possess high-quality micro-level data on trade . This is partly due to a lack of credible identification strategies that would allow one to disentangle the rise of inter-group tensions from violence .
+ This paper is the first to document the breakdown of trade through the erosion of inter-group relations . Using transaction-level trade data and focusing on non-combat areas, this paper is first to report the breakdown.
+ We explore whether such disruption is lasting and economically meaningful and study the underlying mechanisms . We also explore whether it is economically meaningful .
+ The 2014 Russia-Ukraine conflict provides a natural laboratory for this study . The 2014 Ukraine conflict provides the natural laboratory to study .
+ Most Ukrainian territory and a large part of the Russia-Ukraine border have not been affected by violence .
+ This feature allows us to focus on non-combat areas and abstract from such direct effects as the destruction of physical capital . This feature lets us focus on the non- combat areas of the world .
+ At least 2.66 billion people live in countries with an ongoing conflict but are not affected by violence directly . This means that at least 1.6 billion people in the world are in the midst of a conflict but not directly affected .
+ The concept of inter-group social capital is also close to the “bridging’ social capital by Putnam . It is defined as social capital between groups in contrast to “bonding’s or intra-groupsocial capital .
+ This allows us to analyze Russia-Ukraine trade transactions even after the start of the conflict . This allows for us to analysis Russia- Ukraine trade transactions .
+ The presence of a large, spatially dispersed Russian minority within Ukraine allows us to isolate the impact on trade between ethnic groups . The ethnically charged nature of the conflict gives us the opportunity to isolate trade between the two groups .
+New data on the universe of international trade transactions of all Ukrainian firms from 2013 through 2016 . We complement these features with new data on trade transactions.
+ To causally establish whether trade was disrupted along ethnic lines after the start of the conflict, we employ a difference-in-differences identification strategy .
+ Ukrainian districts with a higher versus lower percentage of ethnic Russians than before and after conflict .
+ In this specification, firm fixed effects control for timeinvariant differences across regions, such as geographic characteristics, or slow-moving features, like culture . In this description, firmfixed effects control. For more information, visit the firm's website .
+ Time-period fixed effects control for changes that affect all regions similarly, such as macroeconomic changes in Ukraine or trade restrictions in Russia-Ukraine .
+ Our identification strategy assumes that, absent the conflict, firm trade patterns in areas with varying presence of ethnic Russians would have evolved along parallel trends .
+ Later in the paper, we present evidence supporting this parallel-trends assumption . The paper also presents evidence supporting the idea .
+ A decline in trade between Ukrainian firms and Russia was differential depending on the ethnic composition of the firms’ home areas .
+ Firms located in less ethnically Russian districts of Ukraine decreased their trade with Russia by a larger margin .
+ Month-by-month estimates report no evidence of pre-trends and indicate the effect remains large and significant long after the start of the conflict .
+ Russia and Ukraine continued to have zero tariffs on a vast majority of goods . Our back-of-the-envelope calculations suggest that this indirect effect may have accounted for a total loss of up to US$1 billion .
+Tariffs went up only in January 2016, when Russia and Ukraine ceased to respect CISFTA regulations .
+ The percentage of Ukrainian exports to Russia plummeted after the start of the conflict from 25.7% in 2012 to 9.9% in 2016 .
+ The share of Russian goods among all Ukrainian imports fell from 32.4% in 2012 to 13.1% in 2016 .
+Next, we examine the mechanisms through which conflict reduces inter-group trade in noncombat areas . Next, we look at how conflict reduction in non-combat areas can be seen .
+ Our central claim is that conflict damages inter-group social capital . Good will between social groups accumulated over the course of history may then disrupt inter- group trade .
+Deterioration of inter-group social capital manifests itself through the following channels . The following channels are the following channel .
+ conflict may lead to animosity and erosion of trust between trading partners . First, conflict may cause animosity and loss of trust .
+ Second, it may also affect the attitudes of the general population, leading to a decline in consumer demand for the other group’s products .
+ conflict may further induce bias on the part of government bureaucrats at the border . Finally, conflict may also induce bias.
+ Neither has the importance of bureaucratic bias and animosity between firms’ key decision makers for firm-level trade has been addressed .
+ We find strong support for erosion of trust and consumer boycotts, and some evidence in favor of reputational pressure on Ukrainian firms . Overall, we find strongSupport for the loss of trust in Ukraine .
+ No evidence of individual-level animosity and discrimination based on ethnicity at the border . We find no evidence of individuals' animosity.
+ To investigate the trust channel, we highlight variation in contracts used by firms and corresponding timings of payments .
+We use product-level data on trade contracts between Russian, Ukrainian, and Turkish firms from 2004 through 2011 . To circumvent the lack of information on contracts in our dataset, we use product level data .
+ Data allow us to measure predicted types of contracts used by firms based on the products they trade .
+ Ukrainian exporters have a higher likelihood of using OA contracts, which leave them exposed to the risk of nonpayment . We show that the differential effect of conflict across ethnicity is larger for Ukrainians .
+ The differential drop in trade is more pronounced for importers with a higher likelihood of using CIA contracts, leaving them vulnerable to never receiving the product .
+ Ukrainian firms from less ethnically Russian areas to stop trading with Russian firms . The above suggests that a differential decline in trust plays a role in our results .
+ Survey data on social attitudes of the general population shows conflict led to a rise of nationalism along ethnic lines .
+ antipathy toward Russia skyrocketed immediately after the occupation of Crimea, but significantly more so among ethnic Ukrainians than ethnic Russians . That is, within Ukraine and outside of the combat areas, within the combat area, that is .
+ The differences in attitudes across ethnicity remained wide throughout the period of our analytical interest .
+ As evidence for consumer action, we show that the differential effect is more pronounced for firms trading consumer goods than for those trading intermediate goods .
+ The word boycott was significantly more popular in online searches in regions with fewer ethnic Russians . The differential effect of conflict is stronger in regions where boycott searches were more prevalent .
+We document an ample body of anecdotal evidence consistent with the reputational pressure faced by large Ukrainian firms . Albeit more suggestive, we also document a body of evidence .
+ We find no support for other mechanisms that could be at work . We find a priori at work. We are looking to find a way to improve the situation .
+ The rise in individual-level animosity between firms’ key decision makers might have led to disruptions of trade ties .
+ To address this possibility, we classify the surnames of Ukrainian firm managers into traditionally Russian and non-Russian categories .
+Firms with different shares of Russian-surnamed managers do not differ in their reaction to the conflict . Our results indicate that firms with different shared shares of managers are not different .
+ The share of ethnic Russians in the district itself plays a critical role . Instead, the share of the ethnic Russians is the key role .
+ No evidence of discrimination at the border, as there is no differential effect for trade between Ukrainian firms and Kazakhstan, which must pass through the Russia-Ukraine border .
+ The final part of this paper takes full advantage of the granularity and richness of our data to investigate how firms respond to the reduction of trade with Russia .
+ The breakdown of trade along ethnic lines has indeed been costly for Ukrainian firms. First, we show that it has been costly.
+Firms trading with Russia before the start of the conflict experienced a greater loss of sales, profits, and productivity relative to their counterparts . In a tripledifference specification with all Ukrainian firms, not only those engaged in international trade.
+ We document that firms accommodated this shock by trading with other countries . In addition, we document that companies accommodate this shock.
+ Firms from less Russian areas differentially increased their trade with Turkey and Poland .
+ The baseline effect is strongest for Ukrainian firms with the lowest switching costs . Ukrainian firms have the highest switching costs, according to study .
+ The results suggest that conflict-induced decline in inter-group trade has serious economic implications for firms and their trade network . Overall, these results suggest the decline is not just a result of conflict- induced decline .
+ We consider and rule out the most self-evident alternative explanations for our baseline results . We also rule out self-EVident alternatives to the most common explanations .
+We account for this possibility by including highly flexible controls for firms’ distance to the Russian border . We account for the possibility by include highly flexible control for firms' distance to Russian border.
+ The second concern is that areas with a smaller Russian minority could have specialized in products that have been disproportionately affected by the conflict and subsequent events .
+We address this concern by including the product-post fixed effects in a granular firm-product-month-level specification . We address this issue by including product- post fixed effects.
+Firms in more Russian areas took a smaller overall economic hit as a result of the conflict . One may also conjecture that firms in moreRussian areas took smaller overall hit as result of conflict .
+ It could be that these areas hosted more refugees, which may have generated positive labor supply and demand shocks .
+Multi-country specification in which trade with other countries allows us to include district-post fixed effects . We show that this is not the case in a triple-difference multi- country specification .
+ We add to the literature on the microeconomic consequences of inter-group frictions induced by armed conflict . We add the literature to the micro economic consequences of the conflict .
+ This paper is the first to empirically test and find support for this prediction at the micro-level, as well as examine other possible mechanisms through which inter-group trade may decline .
+ We contribute to the literature on armed conflict and firms, which remains sparse . We also contribute to literature on Armed Conflict and firms .
+ In all the examples given above, the robustness checks were meant to account for omitted variables correlated with the ethnic composition of Ukraine .
+ Some of those same robustness checks may also address the issue of omitted events . The Russia-Ukraine conflict is not directly related to the conflict .
+ The product-post fixed effects address any contemporaneous industry-specific shocks unrelated to armed conflict . For instance, the product- post fixed effects are not related to the E.U. import tariffs for Ukrainian products .
+Ukrainian state-owned firms are not driving our results, says Hamao and Wang . For instance, our results are not due to redirection of contracts by the Ukrainian government .
+ This paper provides the first causal micro-level evidence for what happens to economic exchange when inter-group relations are disrupted . 5 formance in non-combat areas is the first evidence of what happens when economic exchange is disrupted .
+ Previous studies on the economic effects of conflict on firms focused almost entirely on the direct effects of violence .
+ Guidolin and La Ferrara provide time-series evidence that a breakout of civil war in Angola decreased the stock market value of firms operating in the country .
+ Ksoll, Macchiavello, and Morjaria analyze the effect of violence on nearby exporters in Kenya that resulted, among other things, in a sharp increase in worker absence .
+ Amodio and Di Maio show that Palestinian firms in violent areas substituted domestically produced materials for imported ones during the Second Intifada .
+ Section 2 gives the historical background on ethnic divisions in Ukraine and on Russia-Ukraine trade . Section 2 is a look at the history of Ukraine's ethnic divisions and its trade .
+ Section 4 displays our baseline difference-in-differences results, rules out some of the alternative explanations . Section 4 also offers additional robustness checks .
+ Section 6 explores the consequences of this indirect effect for firms’ overall sales, profits, and productivity .
+ The number of Russians in Ukraine substantially increased during the Soviet era, reaching its peak in 1989 . In 1989, 22.1% of the total population was in Ukraine .
+ This share decreased after the fall of the Soviet Union, down to 17.2% by 2001 . But the country's ethnic and cultural divide is still pronounced, spilling over into the political sphere .
+ The eastern part of the country has the highest percentage of ethnic Russians . Crimea and some other areas actually have a Russian majority .
+ It is first to bring micro-level data on trade transactions to this literature . This allows for a more granular analysis of the mechanisms .
+ Ukrainian government has not conducted a census since then, due to financial issues . The Ukrainian government hasn't conducted a Census since then .
+ Data are from the latest census of Ukrainian population, conducted in 2001 .
+ The thick black line represents the border between Ukraine and Russia . It is the first time the black line has been seen in the Ukraine-Russia border region .
+ The ethnic and cultural divide manifested itself in a constant political battle between the Ukrainian west and the “Russian’s east prior to 2014 . The Ukrainian west has been in a political battle with the ‘Russian” east before 2014 .
+ The western part of the country traditionally supported pro-European and nationalistic political candidates . Eastern Ukraine generally supports pro-Russian candidates, while the western part traditionally supported anti-European candidates .
+ This political divide, fueled by the interference of the Russian government, has been one of the reasons for the political instability in the country .
+ The pro-European Victor Yushchenko beat the pro-Russian candidate, Victor Yanukovych, to become the president of Ukraine from 2005 to 2010 . During the Orange Revolution of 2004, he beat Victor Yanukovych to become president .
+ The transition of power to President Petro Poroshenko was a result of the 2014 Ukrainian revolution . Yanukovych won in 2010 and was the president until the revolution in February 2014 . He was replaced first by an interim president Oleksandr Turchynov and ultimately by Petro Por
+ Victor Yanukovych walked back his promise to enter a political and economic association with the European Union . In November 2013, the president of Ukraine, Victor Yanukovych, walked back.
+ Victor Yanukovych fled to Russia on February 22, 2014, after several deadly clashes between protesters and the police . At that point, the revolution had succeeded .
+ The Russian government decided to occupy Crimea and started promoting separatist movements in Eastern Ukraine . In response, the Russian government said it was needed to protect the ethnic Russian minority .
+ Crimea occupation was a covert operation and did not lead to a formal war . It was widely understood that the military units in Crimea bearing no identifying markings were Russian .
+ The annexation of Crimea in late February 2014–early March 2014 occurred without direct military conflict . Crimea was annexed by Ukraine in February 2014. The annexation occurred without military conflict.
+ Donetsk People's Republic and Luhansk People’s Republic proclaimed their independence from Ukraine on April 7, 2014 . The Donetsk people's Republic was formed on April 27, 2014, and the LuHansk People's republic on April 28 .
+ The new acting Ukrainian president launched an “antiterror operation against these separatist movements. In response, the new acting president launched a “antiiterror’s operation against the separatist movements’.
+ Russia started supporting the DPR and LPR, providing military power among other things . Russia started support for the DPR, LPR .
+ A long-lasting civil conflict ensued, leading to more than 13,000 casualties and the displacement of hundreds of thousands of people . The conflict began in 2007 and ended in 2011 .
+ These areas were located next to the war zones and could have been facing some violence or experiencing severe uncertainty about whether they will face violence in the future . We do this because these areas were found next to war zones .
+ The conflict was intense in some of the DPR and LPR territories . The rest of the country and of the Russia-Ukraine border was not exposed to violence directly .
+ The figure highlights the areas directly affected by the Russia-Ukraine conflict . It highlights the area directly affected.
+ The Crimean Peninsula, in light red at the bottom, was occupied by Russia in early 2014 .
+ Donetsk People's Republic and Luhansk People’s Republic territories, in dark red, have been the areas of armed conflict since April 2014 . The Donetsk People”s Republic and the Luhansans Republic territories have been in the area since April.
+ The Donbass area, in light red on the right side of the graph, consists of the Donetsk and Luhansk provinces .
+ Our analysis in this paper focuses on the rest of the country, in white, excluding the areas mentioned above .
+ The thick black line represents the border between Ukraine and Russia . import tariffs were set to zero, with few exceptions .
+ The tariffs went up only in January 2016, two years after the start of the conflict . Russia and Ukraine stopped respecting the CISFTA regulations regarding trade .
+ The percentage of Ukrainian exports going to Russia plummeted after the start of the conflict . In 2012, 25.7% of Ukraine exports to Russia went to Russia from 25.8% to 9.9% in 2016 .
+ Russia remained Ukraine’s largest trading partner. Despite such a severe decline, Russia remains Ukraine's biggest trading partner .
+ The role of Ukraine in Russian international trade also remained significant . The role in Ukraine in Russia's international trade remains significant .
+ The volume of Russia-Ukraine trade increased in 2017 relative to 2016, marking the first annual increase since the start of the conflict . It's the first year since the conflict began, and is the first increase since 2016 .
+ European Union unilaterally eliminated import tariffs for Ukrainian goods as an act of diplomatic and economic support . Earlier in late April 2014, the EU had unilaterally eliminated imports for Ukraine .
+ This would not affect our main results because we account for product-specific post-conflict shocks, which would absorb any changes in tariffs . Note, however, that this wouldn't affect our results, because it would affect the results .
+ Ukraine had become the eleventh-largest exporter to Russia by 2014 . This share dropped to 2.3% after the start of the conflict .
+ Russia has traditionally imported a wide variety of products from Ukraine, including machines and engines, chemicals, paper, agriculture, processed food, and steel .
+ To identify the effect of interest, we employ a differencein-differences approach . We employ a differentin-Differences approach to identify the impact of interest .
+Trade patterns for firms in more and less Russian areas would follow the same time trend absent the conflict, the coefficient β identifies .
+ We present the results for exports and imports separately when we study the mechanisms . We present results for export and imports in a separate study .
+ The share of ethnic Russians is measured at the level of Ukrainian districts . We cluster the standard errors at the district level .
+ Our empirical analysis combines administrative data on Ukrainian trade transactions with demographic census and firm-level accounting information . Note, however, that our results are robust to the spatial HAC standard errors .
+ We examine a repeated nationally representative survey to track changes in popular opinion before and after the start of the conflict . In addition, we examine a national representative survey .
+ As of 2010, 80.9% of Russia's population was of Russian ethnicity, with ethnic Tatars at 3.9%, and all other minorities not exceeding 2% each .
+ At the start of the conflict, there were relatively few ethnic Ukrainians in Russia . Only 0.82% of the Russian population speaking Ukrainian .
+Both export and import data are from January 2013 through December 2016 . Both export and imports are from 2013 to 2016 .
+ The information on exports is missing for five months from February through June 2014 .
+ In total, the trade dataset contains 21. million transactions, 2. million of which are with Russia . The data also includes export and import transactions separately .
+For most of our results, we focus on trade with Russia and collapse the data at the firm-month level . For most of the results, our results are based on trade, not the data .
+ Our trade dataset contains the addresses of Ukrainian trading firms .
+ This feature allows us to merge trade transactions with various characteristics of the firm’s home district, including its ethnolinguistic composition .
+ Data on ethnolinguistic composition of districts come from the latest Ukrainian Census, conducted in 2001 .
+District-level data on share of ethnic Russians and share of local population who consider Russian their mother tongue .
+ Using tax IDs of Ukrainian firms, we merge trade transactions with the ORBIS/AMADEUS database . We also use tax IDs for Ukrainian firms .
+ This dataset contains accounting information, including total sales, profits, inputs, number of employees, etc. Available for 2011–2016, this dataset contains the accounting information .
+ It also includes names of the firms’ managers, which we merge and use to calculate a proxy for the prevailing ethnicity of the firm’s decision-makers .
+In total, the ORBIS/AMADEUS dataset contains information on more than 460,000 Ukrainian firms . The data is based on their organizational form .
+ Based on the ten-digit HS product code available for every trade transaction, we categorize each transaction based on the type of product traded .
+ Each entry is classified as an intermediate good or consumer good transaction . For instance, using the correspondence tables between the HS and BEC codes, we classify each entry as a good or good transaction.
+ Individual entrepreneurs are not subject to these requirements and are absent from the database . Similar to other countries, individual entrepreneurs aren't subject to the requirements .
+ We merge data from Demir, Michalski, and Ors and Demir and Javorcik on the frequency of different trade contracts used in trade between Russia, Ukraine, and Turkey in 2004-2011 .
+ These track the opinions of the Ukrainian people on societal and political issues four to five times per year using a repeated cross-section sampling design .
+ We use 15 survey waves conducted on a nearly quarterly basis from January 2013 to December 2016 .
+ The data include information on the respondent’s self-reported ethnic identity and home province . We use to track the changes in attitudes across ethnicity and provinces of different ethnic composition .
+An average firm in our sample traded with Russia every fifth month and engaged in roughly three trade transactions per month . The average firm trades with Russia each fifth month .
+ The distributions of the total net weight and the total value traded have long right tails . This motivates the use of logarithm transformations in our analysis .
+ Per Panel B, an average firm traded intermediate goods in 76% of its transactions, stressing the prevalence of the B2B sector transactions .
+ As of August 2014, UAH 1. million was equivalent to $108,000 worth of product . 12 homogeneous goods. 12 homogenous goods .
+ An average firm trading with Russia is based in a district with 15% ethnic Russians and 26% native Russian speakers .
+ Some firms in our sample are located in districts with 53% ethnic Russians or 75% native Russian speakers .
+ In contrast, many firms in our sample are based in areas with less than 1% ethnic Russians or native Russian speakers .
+ 10% to 30% of managers in an average Ukrainian firm trading with Russia have a traditionally Russian last name .
+ These numbers are in line with the summary statistics of the ethnolinguistic composition of the firm’s districts in Panel C .
+ The number of firms trading with Russia was relatively stable at around 3,500 per month before the conflict .
+After the start of the conflict, the number of firms in the conflict declined and remained rather stable at about 2,500 firms per month . However, after the start, this number substantially declined .
+Firms not only decreased their monthly trade frequency, but also their monthly volume of trade . Second, we show that firms not only decrease their monthlytrade frequency, they also decreased their Monthly trade frequency .
+ To document this fact, we compare firms’ trade intensity before and 24 . For details on the classification methods, see Section 5.2.2 .
+ Selection is due to individual entrepreneurs not being required to report the data to the government . Selection is not required to be made by individual entrepreneurs .
+ January is a short business month in Russia because of the New Year and Christmas holidays . January is also a short time in Russia due to the holidays and New Year holidays .
+ The effect of conflict on the number of firms trading with Russia per month. 13 after the conflict started in a simple time-series specification . However, after explicitly controlling for the monthly indicators in a regression form, we still estimate the effect of war .
+With the start of the conflict, the probability of monthly trade with Russia by an average firm declined by 8 percentage points, or 0. standard deviations .
+ Columns suggest that an average Ukrainian firm experienced a substantial decline in monthly trade volume with Russia .
+ Both exports to and imports from Russia suffered as a result of the conflict, but the exports fell by a somewhat larger margin .
+ This is despite a similar pre-conflict base of 25. and 22. percentage points, respectively . This isdespite a similar Pre-confident base of 22.
+ A similar pattern is observed for the drop in weight and value of the exported and imported products . The same pattern is seen for the fall in weight, value and weight of exported products .
+ In 2013, before the conflict, the two groups of firms behaved very similarly . As one can see, in 2013, in 2014, in the same way, they behaved very similar .
+After the start of the conflict, firms from the districts with fewer Russians decreased their trade by a bigger margin relative to more Russian areas .
+ The gap between the two subsets of firms is always of the same sign and is increasing over time .
+ A regression model provides consistent estimates for the overall effect of conflict on trade in non-combat areas . Under assumptions that the conflict was unexpected, there were no other simultaneous shocks.
+In Section 4.2.2, we argue why this institutional change cannot explain our main findings . However, in Section 3.2., we argue that this is not the reason for this change .
+ We then calculate the median residuals for two subsets of firms, depending on whether they are located in a district with more or fewer ethnic Russians .
+ Reduction in Trade After the Start of the Conflict Dependent variable: Any Trade Log Total Log Total log total Log Total .
+Time-series estimates of the average decline in trade between Ukrainian firms and Russia after the start of the conflict . This table presents the time-series estimate.
+ Columns focus on the sum of export and import transactions . Columns are only on export transactions, and columns only on imports .
+ Columns use an indicator for a firm trading with, exporting to, or importing from Russia in a given month .
+ Russia, both exports to and imports from Russia have suffered, and a simple split of trade patterns along districts’ ethnicity already reveals that conflict had a differential impact on firms along ethnic lines .
+ In the next section, we introduce our formal difference-in-differences estimates which examine this divergent reaction in greater detail . The next section is the first of the series to examine the divergent reactions .
+ The interaction coefficient β is positive and significant at the 1% level across all three specifications . The interaction coefficients are positive andsignificant at the1% level .
+ Firm-Level Trade with Russia by Ethnic Composition of Firms’ Districts Median Log Weight, Demeaned by Firm and Month FEs 2013 2014 2015 2016 .1 .05 0.05 0 .05 -.05% of ethnic Russians above the median % of ethnic
+Data are then broken down by the share of Russian population in firms’ districts . Data are then cleaned of seasonality with month fixed effects and the January indicator .
+ A hypothetical firm located in an all-Russian district would not have decreased its trade with Russia at all . But this is an out-of-sample prediction, according to estimates .
+ The share of residents who consider Russian language their mother tongue across Ukrainian districts. We observe similar patterns with a different proxy for cultural distance from Russia .
+ The results are strikingly similar to columns to , in terms of both statistical significance and magnitude . The results were similar to Columns to .
+An average firm from a district at the 75th percentile of native Russian speakers would have led to a 0.8–8.4% drop in firm’s monthly incidence of trade .
+ Share of Native Russian Speakers 0.092, 1.163∗∗.297.297, 0.570.570∗ - 0.615∗  Firm Firm FE X X XX X X Year-Month FE X
+ Russia-Ukraine conflict on trade between Russia and Ukrainian firms in areas with different presence of ethnic Russians and native Russian speakers . This table presents the baseline difference-in-differences estimates of the impact of the Russia- Ukraine conflict .
+ Data on ethnolinguistic composition are at the district level and come from the 2001 Ukrainian Census . The data is based on the 2001 Census .
+ Standard errors in parentheses are clustered at the district level level form .
+ We interact the districts’ ethnic composition with a full set of year-month dummy variables . That is, instead of the interaction with the post-February 2014 indicator, we interact the district's ethnic composition .
+ No evidence of pre-trends, as the share of ethnic Russians in the firm’s district consistently does not matter for its trade with Russia before the conflict .
+ The study finds support for the central assumption of our difference-in-differences strategy,e.e., parallel trends .
+ The differential impact of conflict on trade between Russian and Ukrainian firms stayed positive and significant until the end of the time series, in December 2016,e.e., long after the start of the conflict .
+ A more severe armed conflict can have a much more profound influence on trade between nations . This long-lasting effect stands in stark contrast with the short-lived response observed in the literature on political disputes and consumer boycotts .
+ Removing these five months from our analysis does not change the baseline results . Removing this five months does not make the changes to the results .
+Firms from areas with fewer ethnic and cultural ties with Russia decreased trade with Russia by a larger margin relative to the firms from more ethnically Russian regions of Ukraine .
+ The results provide the first evidence that armed conflict has a substantial indirect effect on inter18 group trade . More generally, these results provide a first evidence of the impact of armed conflict .
+ In the next section, we provide evidence that these results survive multiple rigorous robustness checks . The results are not due to various mechanical explanations unrelated to ethnicity or anti-Russian sentiments . The next section provides evidence that the results survive several rigorous checks .
+ We try to tease out whether our main results are due to out-group animosity between firm managers, decline in trust, or local pressure from consumers and activists .
+ We discuss other potential explanations and test the overall robustness of our estimates . We also discuss other possible explanations and tests the overall strength of our estimate .
+ A distance-related shock due to conflict could have a bigger impact on firms in Ukraine with fewer ethnic Russians . The conflict could also affect firms in the areas of Ukraine.
+Russia is the world's most populous country . Russia is the largest country in the world . It is the most populous nation in Russia .
+ Russia and the Donetsk and Luhansk provinces have changed the border since the start of the conflict . We recalculate the shortest path without taking into account the boundary between the two provinces . We also account for the change in the border after the start.
+ Column through add the flexible distance controls, starting with a simple linear measure and ending with the fifth polynomial of the log of distance . Column through adding the flexibledistance controls, start with asimple linear measure .
+ Columns through interact these distance measures with the post-conflict indicator . This allows for the conflict-induced shocks that correlated with distance, such as increased transportation costs, to be seen .
+For brevity, we focus on the specification with firms’ monthly incidence of trade as the outcome . For brevity. We focus on specification with firm’s monthly occurrence of trade.
+ It is highly unlikely that the presence of ethnic Russians matters for our estimates only as a proxy for distance to Russia .
+ Fewer than 1% of the firms in our sample changed their host district from 2013 to 2016 . excluding these firms from our sample does not affect the results .
+ All shocks that applied uniformly to all products would be absorbed by time fixed effects . All shocks would have been absorbed by a time fixed effect .
+ All military cooperation between the two countries ceased after the start of the conflict . This naturally affected trade in the related sectors of the two nations .
+ The study found that areas with fewer preexisting ties with Russia were more involved in the production of products in military-related sectors . This may have biased our baseline differencein-differences estimates upward .
+ To address this issue, first, we estimate a difference-in-differences specification at the productfirm-month level with product-post fixed effects .
+ Similar to equation, this specification compares firm-product pairs’ reaction to the start of the conflict depending on the ethnic composition of the firm’s district .
+ It accounts for the product-specific shocks contemporaneous with the start of the conflict . However, in addition, it also accounts for product- specific shocks contemporaneously .
+ One needs to assume that firm-product trade would have evolved along similar trends in districts with different ethnic composition absent the conflict . That is, one need to assume. That's not the case .
+ The interaction coefficient estimates a causal impact of conflict on inter-group trade . To the extent that this assumption holds and there are no other events simultaneous with the conflict that could generate a similar pattern, the study says .
+ Columns through contain the firm-product-level version of the baseline estimates, and columns through add the interaction of distance with the post 32 Trade of arms, weapons, and other military products is not present in our data .
+ Trade of which may have stopped for political reasons, but could still contain military-related procurement . However, our data could still theoretically contain military procurement .
+ The coefficients for periods before the start of the conflict are not statistically significant and are close to zero in magnitude . As one can see, the coefficients for period before start of war are not statistical significant .
+ This result lends support for the parallel-trends assumption that underlies specification . 20 indicator as a control variable . This result lend support to the idea that underlying specification. 20 indicator is a control Variable .
+ Our baseline results cannot be explained by the product-specific shocks that appear contemporaneously with the start of the conflict, the study says .
+We also estimate a version of our baseline specification controlling for the industry-post fixed effects . We also estimate an version of the baseline specification.
+ Industry differences cannot fully explain our estimates. This further confirms that industry differences cannot be fully explained . The industry differences can't fully explain their estimates .
+ areas close to the armed conflict may have hosted more refugees, which could have generated positive demand and labor-supply shocks . For instance, areas near the conflict could have had more refugees .
+ areas with fewer ties with Russia may have produced more activists and soldiers, possibly leading to an adverse labor-supply shock .
+ Areas with lower shares of ethnic Russians decreased their trade with all countries, not only Russia . If negative district-specific shocks drive our results, then we should observe that areas with lower share of ethnic Russian decreased trade .
+ We test this intuitive prediction in a triple-difference multi-country specification with district-post fixed effects . We test the intuitive prediction.
+ In this strategy, outcomes are changing across space, time, and foreign country . In this Strategy, outcomes will be changing across time, time and country .
+ The coefficient of interest on the triple interaction measures how much trade intensity with Russia changes with the start of the conflict . Firms in districts with higher versus lower share of ethnic Russians, relative to such differential change in trade.
+With the help of cross-country variation, this strategy allows us to account for any contemporaneous district-specific economic shocks .
+ Neither military-related production, such as metals and machinery, nor agricultural products, are the main drivers of the differential effect across ethnicity .
+ Instead, the coefficients are positive and close to the baseline coefficient across all types of products . Instead, they are positive. Instead of the baseline coefficients, the coefficient is positive .
+ Yidct is trade intensity of firm i of district d with country c at time t, Postt is an indicator for whether time period t is after the start of the conflict, and Rusd is the share of ethnic Russians in district d of firm . 21 counted as the ele
+Trade with Russia, on average, is higher in areas with a higher share of ethnic Russians .
+Firms in districts with fewer ethnic Russians decreased trade with Russia by a disproportionately larger margin relative to the change in their trade with other countries .
+ A firm is moved from an area with 17.7% of ethnic Russians to a area with 9.6% (25th percentile) of ethnic Russian . The chance of having any monthly trade activity with Russia after the start of the conflict drops by 1 percentage point .
+ Overall, these estimates back our assertion that our baseline results are not driven by negative locality-specific shocks . Overall, the estimates back their assertion that their baseline results aren't driven by local shocks .
+ The difference-in-differences estimates are not due to an increase in tariffs between Russia and Ukraine in 2016, since we can exclude 2016 altogether without any qualitative change in our results . Second, our difference- in-difference estimates aren't due to a increase in
+Third, we can show that our baseline results are not driven by any one specific area, thus ruling out the possibility that the effect is driven by regions-outliers . Third, we could show that the baseline results aren't driven by a specific area .
+ Our baseline difference-in-differences estimate is larger than 44 out of 45 placebo estimates obtained by creating fake starting months of the conflict . It is unlikely that our effects are due to some other event happening before or after the start.
+ The coefficients for Russia turn from being in the middle of the pack to being consistently bigger relative to the coefficients for the other countries . Russia's coefficient for Russia is consistently bigger than other countries' coefficients .
+ Ethnic heterogeneity mattered in a unique way for trade with Russia as opposed to other countries. These figures further confirm that ethnic heterogeneity mattered.
+ The only placebo estimate larger than the baseline assumes November 2016 as the start of the conflict . It is estimated using only one month of data .
+ trade went down at least in part due to a differential decline in trust, we argue . First, using variation in contract types, we argued that trade was down in part because of the decline .
+Second, classifying the last names of firm managers, we show that our baseline estimates are driven not by managers’ ethnicity but by the ethnic composition of a district . Second, classifies the last name of firm manager.
+ trust breaks down between antagonistic localities as opposed to individual managers . This suggests that individual-level animosity does not play a role in the relationship .
+Next, using survey data, we document a rise of nationalism in less Russian areas of Ukraine . This causes a disruption of inter-group trade through consumer boycotts .
+ Discrimination at the border does not drive our baseline estimates, we show . We show that discrimination at theborder does not driving our baseline estimate .
+Firms from less Russian areas of Ukraine are fearful that the opposite side of the conflict would discriminate based on their location . A breakdown of trust could occur between the areas with different ethnic composition .
+ To test for the general importance of trust in our results, we explore variation in trade contracts . To test, we find out how much trust is in the contracts .
+ An OA contract refers to a sale where goods are shipped and delivered before payment is due . In contrast, an OAcontract refers to the sale where the goods are sent and delivered .
+ If the breakdown of trust is driving our results, we would expect a greater effect for exporters that primarily used OA contracts before the start of the conflict . These types of contracts placed a bigger risk on exporters.
+ Ukrainian importers were fearful of the contract not being honored. On the contrary, we would expect a bigger effect if they relied on the CIA contracts .
+ The closest available micro-level data on the types of trade contracts are between Ukraine, Russia, and Turkey over the 2004-2011 period .
+ Due to privacy concerns, these data are only available only as averages at the HS4 product-code level .
+ Using the predicted contract usage, we test the hypothesis of weakened trust and problems in contract enforcement . We use the predicted use of contract usage to test the theory of weakening trust .
+ Panel A and Panel B display the results for export and import activity respectively . To disentangle the risks levied on exporters and importers by different types of contracts, Panel B displays the results.
+ The differential effect of conflict is more pronounced for exporters with a higher predicted use of OA contracts, says Panel A .
+ No differential effect of conflict exists among exporters with higher predicted use of CIA contracts . In contrast, there is no differential effect on conflict between exporters and exporters .
+ The breakdown of trust along ethnic lines played a significant role in explaining the reaction of Ukrainian firms to the Russia-Ukraine conflict . Overall, these results strongly suggest that the breakdown of Trust along ethniclines played a major role in the reaction to the conflict .
+ It remains unclear whether it is interpersonal trust that declined or is it that firms fear being cheated on based on location .
+ Another possible mechanism is individual-level taste-based discrimination between firms’ key decisionmakers .
+ sharp political disagreements could cause managers of different backgrounds to discontinue their business ties voluntarily .
+Data from ORBIS/AMADEUS shows firms’ managers’ surnames have Russian roots .
+ Russian and Ukrainian firms use similar contracts for similar products when they trade with each other as they do with Turkey . There have been limited changes in the typical use of different types of contracts between the 2004–2011 and 2013–2016 periods .
+ Heterogeneity Analysis by Types of Trade Contracts. Heterogeneous Analysis by types of Trade contracts .
+ Any Import Activity Difference p-value: 0.006 difference p- value. 0.014 0.124.124∗∗.096∗ ∗�.030 Firm FE X X XX X X Year-Month FEX X Year
+ This table explores the importance of trust by breaking down the baseline results along the direction of trade (exports to Russia) and along the type of contract a firm is predicted to use .
+ Predicted contract usage is calculated based on the types of products traded by a firm weighted by the amount of trade . It is calculated by the type of product traded by the firm .
+We consider contract usage high if the predicted share is above the mean among the firms in the sample . We consider contract use high if it is higher than the average share of firms .
+ Panel A is an indicator of any exports to Russia by a firm in a given month . The dependent variable in Panel A. is an indication of any export by a company in a month .
+ Inference across regression models is conducted using a similarly unrelated regressions framework with standard errors clustered at the district level . The results are based on an unrelated regression model .
+ The difference between the two lists comes from differences in methodology . The two lists are based on different methodology .
+ Zhuravlev uses phonebooks from several Russian cities to measure share of managers with Russian roots . We then use a difference-in-differences equation to discern whether personal identity can explain part of our results .
+ The results are weaker than for the share of ethnic Russians in the firm’s district .
+ The effect of the managers’ Russian roots stays close to zero and is statistically insignificant . The impact of the share of ethnic Russians in a district remains large and positive .
+ The results suggest that conflict did not affect trade through individual-level animosity of firm owners and instead operates through the culture and attitudes in the surrounding area .
+ The share of Russian managers calculated with our measures is strongly and positively correlated with the share of ethnic Russians in the region .
+ A 1% increase in the share of ethnic Russians in a province is associated with a 1.02% increase . The share of Russian managers measured according to the surname endings and the bank of surnames, respectively .
+ Russian managers share one measure of the share of Russian managers as an instrument for the other . To reduce the measurement error bias, we follow Ashenfelter and Krueger and use one measure.
+ The IV estimates are indeed larger and more precise. As one can see from Panel A.1., the IV estimates were indeed larger, more precise .
+ Panel A.2 says correction for measurement error does not change its overall conclusion that it is the ethnic composition of the area that matters and not the one of the firm . Panel says this correction does not changes our overall conclusion .
+ Similar results are obtained when measure #1 is used as an instrument for measure #2 . Similar results were obtained whenMeasure #1 was used as a instrument for Measure #1 .
+ This table explores whether the fact that firm managers are of Russian descent drive the baseline results . The table also explores whether firm managers in Russia are of Russia's descent .
+ Before the start of the conflict, all Ukrainian citizens had overwhelmingly friendly attitudes toward the Russian Federation .
+ The share of ethnic Ukrainians with extreme negative views toward Russia jumped from close to zero to more than a quarter 50 . For brevity, we only present the numbers starting in February 2013 .
+ Earlier data show that favorable attitudes persisted over time . However, earlier data show these favorable attitudes persist over time.
+ Data come from 15 nationally representative surveys conducted by Kyiv International Institute of Sociology between 2013 and 2016 .
+ The February 2014 survey was conducted February 7 to 17, 2014, before the occupation of Crimea and the start of the conflict .
+ The December 2015 survey did not contain the survey question of interest . As a result, the figures are omitted from the figures .
+ The attitudes of ethnic Russians toward Russia also worsened, as shown by the red line with circles on both figures . However, they remained predominantly positive, according to the figures .
+ The share of respondents with favorable views stayed above 80% throughout 2014 and always remained at least 30 percentage points higher relative to ethnic Ukrainians through 2016 . The majority of respondents had favorable views of ethnic Ukrainians .
+ The share of ethnic Russians with extremely poor views of Russia slightly increased . But not as dramatically as for ethnic Ukrainians . The share was slightly higher for ethnic Russians .
+ The rise of nationalism may affect trade is consumer action, according to the study . It always stayed 20 percentage points lower than that for ethnic Ukrainians through 2016 .
+ The spike in Dec 2014–Feb 2015 is likely due to a contemporaneous surge in violence in the Donbass region . The spike could be due to consumers refusing to buy Russian brands, refusing to shop at Russian-owned stores .
+ One might wonder whether these individual differences translate into similar patterns across regions with different ethnic characteristics .
+ The lowest level of geographic analysis available. To shed light on this issue, we regress individual attitudes toward Russia on the post-conflict indicator .
+Anti-Russian sentiments grew especially high in regions with low shares of ethnic Russians or native Russian speakers . 28 refusing to support Ukrainian firms that trade with Russia .
+ We test whether the reduction in trade across ethnic lines is more pronounced for traders of consumer goods . To check whether consumer action matters for our results, first, we test whether consumer actions matter .
+Traders doing business mostly with consumer goods experienced a larger decline in trade across areas with different ethnic composition .
+ The results show that the differential effect is significantly more pronounced for the frequency of import activity of consumer-goods traders relative to that of intermediategoods traders .
+ Consumer boycotts have been more widespread in areas with fewer ethnic and cultural ties to Russia . This pattern is highly consistent with the consumer boycotts explanation, in which boycotts are more widespread .
+ Consumer and intermediate-goods traders strongly suggests consumer action . We would want to obtain more direct evidence that boycott intensity matters for our estimates .
+ To approximate the intensity of boycotts in Ukrainian provinces, we rely on relative popularity of online searches for boycott . We obtain from Google Trends.
+ Activists held rallies at supermarkets to persuade their compatriots not to buy Russian goods .
+ The anti-Russian boycott in Ukraine lasted a long time, as opposed to the typical short-lived boycott campaign studied in the literature .
+ The word boycott definitely refers to the boycott of Russian goods by Ukrainian consumers or to companies affiliated with Russia in one way or another .
+ boycott may take other meanings in other months, which would then dilute our measure . It is possible that boycott may have other meanings, which could then be diluted .
+ This table presents the heterogeneity analysis of the baseline results by the percentage of trade transactions a firm makes in consumer or intermediate goods . This table shows the heterogeneity of the results by a firm.
+ Intermediate goods and consumer goods are identified by the transaction’s HS6 product code using the BEC classification .
+Ethnicity does not matter as much in provinces where boycotts appear less widespread .
+Consumer action is one of the mechanisms through which armed conflict disrupts inter-group trade . Taken together, these results strongly suggest that consumer action is a key part of the process of conflict .
+ As a result, firms may self-regulate and decrease their trade with Russia voluntarily, thus, by definition, engaging in corporate social responsibility activity .
+Ukrainian firms trading with Russia are under pressure to discontinue such relationships . There is rich anecdotal evidence of Ukrainian firms trading.
+ The pressure was in place even for firms trading only intermediate goods, such as automobile parts, as well as exporting products .
+ Case studies abound from construction, automobile, and aircraft manufacturing industries . Firms declared that they would stop buying parts from Russia and selling the final product .
+ Ukrainian automobile producer AvtoKrAZ, which started to decrease its dependence on Russian products in 2014, publicizing this process in the media . Another example is from the Ukrainian automobile producers AvtokrAZ .
+Hard evidence of CSR is difficult, we document a pattern that is indirectly consistent with this conjecture . The pattern is indirect consistent with the conjecture, we say .
+ For the purposes of this exercise, we call a firm large if it employs more than 19 people, which is the median for our sample . The median for the firm is 19 people. The firm is the largest in the world.
+ Columns present the differencein-differences results for large and small intermediate-goods traders separately for all transactions . Columns and display this breakdown for import transactions only, and columns and for export transactions only .
+ The effect for large intermediate-goods traders is always significantly higher in magnitude relative to their smaller counterparts . As one can see, across all these specifications, the effect is always much higher than its smaller counterparts.
+ The pattern is consistent with higher pressure on larger firms in areas with lower share of ethnic Russians to discontinue trade with Russia .
+ The results show pressure may be in place for firms in the B2B sector and for exporters to Russia .
+ Ukrainian firms from less Russian areas could face greater hostility from Russian customs officials .
+ We test this hypothesis by focusing on trade between Ukraine and Kazakhstan . We also focus on the Ukraine-Kazakhistan border .
+ Some companies in the B2B sector changed their names so as not to be associated with Russia . 31 between these two countries uses ground transportation and has to pass through the Russia-Ukraine border .
+ If Russian customs officials discriminate against Ukrainian firms from less Russian areas, we would expect it to appear in transactions between Ukrainian firms and Kazakhstan too .
+ Trade with Kazakhstan has declined more for Ukrainian firms in more Russian areas . This speaks against the discrimination hypothesis, suggesting that, if anything, trade with Kazakhstan declined more .
+Ukrainian customs officials are trying to hurt Ukrainian firms from certain regions, not importers .
+ Overall, these empirical findings suggest that our baseline results are not due to discrimination at the border by Russian customs officials . Overall, the results suggest that the data is not due.
+ A simple difference-in-differences framework with firm performance on the lefthand side of the equation may conflate the effect of a trade shock with the negative effects of being close to the conflict zone .
+Firms from more Russian areas lost more sales after the start of the conflict . This may lead to a puzzling result that firms from moreRussian areas lost sales after conflict .
+Firms from more Russian areas trading with Russia not only to their counterparts in less Russian areas, but also to all other firms in the economy that did not trade with Russia .
+Ukraine and Kazakhstan trade between Ukraine and Kazakhstan by mode of transportation . For the breakdown of trade, see4 at www.beratergruppe-ukraine .
+ This pattern can affect our results for sales and profits, but it does not drive our estimates for trade . Note that, although this pattern can impact our results, this pattern is not to affect our sales results .
+ In Section 4.2.4, in a multi-country-trade specification, we have already shown that our results are robust to the inclusion of the district-post fixed effects . We have already showed that our Results are robust.
+ The triple interaction coefficient identifies the negative consequences of conflict on a firm’s overall performance via the shock to trade with Russia, net of the changes that are due to broad economic shocks .
+ The coefficient on the triple interaction is positive and highly statistically significant . Across all three measures of firm performance, sales, profits, and productivity, the coefficient is positive .
+Firms from less Russian areas that traded with Russia before the conflict suffered a larger decline in sales, profits, and productivity relative to their counterparts .
+ negative trade shock across ethnicity led to worse firm performance. This indicates that a negative tradeshock across ethnicity indeed led to a worse performance .
+ This section suggests that the differential effect of conflict on inter-group trade adversely affects firms . This section also includes decreased sales and decreased profits and productivity .
+ The baseline results of this study have far-reaching implications for individual firms, the study says .
+Firms from more Russian areas suffered a bigger loss of sales, according to a recent study .
+The former result likely combines both trade and broad economic shocks, which the latter helps to disentangle . The former result is likely to combine trade and economic shocks .
+ There has been no differential trend in firms’ sales before the start of the conflict, nor across the status of trade activity with Russia . It is also important to note that there has not been a differential trend.
+ The identifying assumption of the triple-difference specification likely holds, according to the author .
+Consequences for Firms: Sales, Profits, and TFP Dependent variable . Log Sales Log Profit Log Profit: Log sales Log Profit .
+Table estimates the consequences of the differential shock to trade in a triple-difference specification comparing firm performance before and after the conflict .
+ The analysis includes all Ukrainian firms, not only those that traded with Russia, but excludes firms from conflict areas and firms with missing accounting data for more than one year from 2011 to 2016 .
+ Total factor productivity in column is derived from a Cobb-Douglas specification regressing turnover on capital and labor with two-digit industry fixed effects .
+ Data on ethnic composition are at the district level and come from the 2001 Ukrainian Census . Data on ethnicity is at theDistrict level .
+If switching is indeed one of the primary ways of accommodating the reduction in trade with Russia, one would expect firms with lower costs of switching to be driving our baseline estimates. Second, if switching is actually one of those ways, it would be driving the baseline estimates .
+ The fixed costs of entering a new market are binding for both exporters and importers, according to the authors . This pattern holds for both importers and exporters separately, they say .
+ Ukrainian firms shifted their trade away from Russia to other countries, according to the study . The findings strongly suggest that one of the ways in which Ukrainian firms accommodated the conflict-induced shock to inter-group trade is by shifting their trade from Russia .
+ It can impact economic agents directly, through violence and property damage, or indirectly —e.g., by disrupting business relationships . It can affect economic agents through violence, property damage and violence .
+ The existing literature offers plenty of evidence on the direct effects of conflict . Such effects remain largely understudied .
+ We study the ongoing Russia-Ukraine conflict, which is unique for its near absence of newly imposed trade restrictions . We studied the ongoing Russian-Ukrainian conflict .
+Firms located in districts with a higher share of ethnic Russians experienced a smaller drop in trade with Russia relative to firms in other districts .
+ We interpret our findings as arising partly from a decline in inter-group trust, and party from the rise of local nationalism, we say .
+ Our findings may have far-reaching implications for the economic development of fragile states, says the authors .
+ Ethnic heterogeneity may lead to lower economic performance in part because of reduced inter-group economic exchange resulting from frequent conflicts .
+ We hypothesize that our estimates may be especially applicable to conflicts in which the two sides are crucial trading partners or have been part of the same entity historically . We hypothesized that our estimate may be particularly applicable to conflict between two sides .
+ One broad category of such conflicts is civil wars, in which trade embargoes are often not enacted or not strictly enforced .
+ More research is needed to determine whether our results will replicate in other contexts . Still, more research needs to be done .
+ Our study also highlights the importance of analyzing economic activity in non-combat areas .
+ Modern empirical studies of conflict tend to focus on comparing areas with violence to those without, leaving potential spillovers unexplored and unaccounted for .
+ In contrast, we focus only on areas unaffected by violence directly and find that, even there, conflict hurts inter-group trade . Even there, we find that even in those areas, conflict hurt inter-groups.
+ It remains unclear 65 See,g., Leigh on the continued trade between the North and the South during the American Civil War . It also remains unclear how much conflict affects other types of voluntary interactions .
+ The economic impact of conflict on non-combat areas remains an understudied topic that would benefit from further scholarly work . In summary, the economic impact on conflict onNon- combat areas remains a understudies topic .
+ Estimates of the Economic Return to Schooling from a New Sample of Twins . The economic return to schooling is based on the economic growth of the past year .
+ How to Construct Nationally Representative Firm Level Data from the ORBIS Global Database. How to construct Nationally representative Firm Firm Level data from ORBis Global Database .
+ Relationship-specificity, Incomplete Contracts, and the Pattern of Trade are all listed .
+ Consumer Response to International Conflict — Evidence from Supermarket Scanner Data . The report is based on data collected by SupermarketScanner Data.
+ The electoral map is the intellectual property of Serhij Vasylchenko . The 2004 Presidential elections were held in Ukraine .
+ The electoral map is the intellectual property of Serhij Vasylchenko . The map was created by the Russian-born politician .
+ Ukrainian firms trading with Russia in a given month, including both exporters and importers . This figure displays the number of Ukrainian firms Trading with Russia .
+ Dashed lines represent the linear fit for the scattered data before and after the start of the conflict . Dashed Lines represent thelinear fit for data before, after the conflict.
+ January is a short business month in Russia because of a full holiday week . January 1 to 7 is the shortest business week in Russia .
+ Month-by-Month Analysis at the Firm-Product Level with Product-Post FEs .
+ Any Trade Activity Panel B: Log Total Weight of Traded Goods 2.2 1 .1 0 0.1 0 .1 -1 Jan May May May Sep May Sep Sep Sep May May Jan May Sep Jan May Sept May May Aug May Sep Aug May May
+ The unit of observation is firm’s trade of a given product with Russia .
+ Removing these five months from our analysis does not change the results . Removing this five months does not changes the results. Removing the five months is not a change in our analysis .
+ Panel A displays results for any trade activity with Russia by a firm with a given product in a given month as the dependent variable . Panel B displays the results for the logarithm of total weight of the goods traded with Russia . 95% confidence intervals are constructed for standard errors clustered
+ Baseline Month-by-Month Coefficients for Russia Compared to Other Countries .2 .1 0.1 -.2 -.3 Jan May Sep May May Sep Sep May Sep Jan May May May is Russia's first month of the year .
+ The dependent variable is an indicator of any trade activity by a firm in a given month . 95% confidence intervals are constructed for standard errors clustered at the district level . 95 per cent of the time is based on standard errors.
+ Month and year of the starting month is displayed next to the value of the coefficient . Year of the year is displayed on the coefficient of coefficient .
+ Surname-Based Measures of Ethnicity Aggregated to the Province Level vs. The Province Level . Surnames-based Measures of ethnicities Aggregate to the province Level .
+ The results of a corresponding regression are displayed in the top-right corner . The results are shown in the bottom of the corner .
+ Crimea, Donetsk oblast, and Luhansk oblast are excluded from the analysis . The three conflict provinces are excluded. The three provinces are also excluded .
+ The solid black line represents the difference-in-differences coefficients coming from regressing the yearly sales of the firms that did not trade with Russia on the interaction between the yearly fixed effects and the share of ethnic Russians .
+ The longdash black line represents the difference-in-differences coefficients coming from regressing the yearly sales of the firms that traded with Russia before the start of the conflict on the interaction between the yearly fixed effects and the share of ethnic Russians.
+ The triple-difference specification estimates the divergence between these two sets of coefficients after the start of the conflict in 2014 .
+ The analysis excludes firms from conflict areas and firms with missing accounting data for more than one year from 2011 through 2016 .
+ The figure presents the estimation results of equation for firm-level trade with the top-10 trading partners of Ukraine and all other countries pooled together . The figure is based on the fact that the top 10 trading partners in Ukraine pooled together.
+An individual is considered a native Russian speaker if Russian is his or her mother tongue . An individual is thought to be a nativeRussian speaker if he or his mother speaks Russian .
+ The shortest path to the Russian border for the periods after the conflict began excludes parts of the border that are located in conflict regions .
+ Total factor productivity is derived from a Cobb-Douglas specification regressing turnover on capital and labor with two-digit industry fixed effects .
+ Baseline Results with Conley Spatial HAC Standard Errors Dependent variable: Any Trade Log Total Log Total log total Log Total.
+ This table examines the robustness of the baseline results to allow spatial correlation among districts that fall within a certain distance of each other . This table is based on the results of baseline results.
+ Standard errors in parentheses are Conley spatial HAC standard errors calculated using STATA routine by Fetzer . The distance cutoff of 1,000 km and the time lag cutoff of 20 months are also included .
+ District-level data on ethnolinguistic composition come from the 2001 Ukrainian Census . District- level data on ethnic composition comes from 2001 Ukrainian census .
+ Robustness of Baseline Results to Missing Data Dependent variable: Any Trade Log Total Log Total log total Log total Log Total.
+ Imputed as Average Trade in 2013, as in Feb–Jun 2013. In Feb 2014, the average trade rate was 0.082 1.011 1.145 0.064∗∗.785∗  0.785 064
+ Columns through present the estimates without the February–June 2014 import data . Columns. through present present the estimate without the January-June 2014 imports data .
+ Columns through display the baseline results when firms’ export flows from February through June 2014 are assumed to be zero . Columns are shown when firms' export flow from February to June 2014 is expected to bezero .
+ Columns through assume that firm i’s exports at month m from February through June 2014 are the same as firm i's exports from February to June 2014 . The figures are based on the figures released by the company .
+ columns through assume that firm i’s exports at any month from February through June 2014 is the same as firm i's average exports throughout 2013 . The figures are based on the company's annual exports from February to June .
+ Baseline Results for Exports and Imports. Separately Dependent variable: Any Export Log Total Log Total log total log total Log Total .
+ This table presents the baseline results estimated separately for exports to and imports from Russia . This table includes the results for exports and imports of Russia .
+ Columns through focus on export transactions only, while columns focus on import transactions . Columns focus on exports only, and focus on imports only .
+ Columns and use an indicator for a firm exporting to or importing from Russia in a given month . Columns are used to help companies export to or import from Russia .
+ The Border Distance Polynomial Russia Distance DistancePolynomial of Log of Distance Distance Post . Share of Ethnic Russians 0.109∗∗ 0.110∗.108∗  0.108 ∗∙s 0.116∗
+ This table documents the robustness of the baseline results to various controls for firms’ distance to Russia . This table includes the results for firms' distance from Russia .
+ Specific distance controls used in each column are listed in column headers . The distance controls are also listed in columns .
+ We recalculate the distance of each firm to the Russia-Ukraine border after the start of the conflict by taking out the part of the border located in the Donetsk and Luhansk provinces .
+ distance measures in columns and are not absorbed by firm fixed effects . As a result, distance measures are not taken by fixed effects.
+ The dependent variable is the indicator of any trade activity by a firm in a given month . It is an indicator of a firm's business activity in a month .
+ District-level data on ethnic composition come from the 2001 Ukrainian Census . District- level data on ethnicity comes from 2001 Ukrainian census .
+ Results with Firm, Year-Month, and Four-Digit Product-Code Fixed Effects Dependent variable . Share of Ethnic Russians 0.057.057∗.527∗∗  0.725∗ ∗.048∗
+ This table presents the firm-product-level analog of the baseline results with product-post fixed effects . This table is based on the results of a baseline test. This table also includes product- Post-post-fixed effects .
+ The number of Ethnic Russians in the U.S. is 0.077-0.767.7-1.767 . The number is 1.083-1 . The total number of ethnic Russians was 0.08-1,000 .
+NAICS industry codes for each Ukrainian firm come from the ORBIS/AMADEUS dataset . NAICS industry code for each firm comes from ORBis/AMadeUS dataset.
+ Multi-Country Triple-Difference Specification Specification Dependent variable: Any Trade Log Total Log Total Activity Weight Value Traded Traded Post .
+ Russia as opposed to other countries. This table presents the results of a triple-difference specification comparing trade before and after the conflict .
+ Ukraine had the most transactions from 2013 to 2016, including Russia, according to the list . The set of comparison countries consists of the 10 nations with which Ukraine had most transactions . Russia had the highest transactions in 2013, with Russia having the most in 2013 .
+Trade with the rest of the world comprises the eleventh nation in this exercise . Trade with the other nations comprises the Eleventh nation .
+ Column uses an indicator for a firm trading with a given country in a given month as the outcome variable . Column is based on the outcome of a firm Trading with aGiven country in the given month .
+Ukrainian State-Owned Firms Dependent variable: Any Trade Log Total Log Total log total log total Log Total Activity Weight Value Activity Weight Weight Value Traded Traded State- Owned Traded state-Owning Post . Share of Ethnic Russians 0.123 1.
+ This table tests whether state-owned Ukrainian firms are responsible for our baseline results . This table includes the results of a baseline test for Ukrainian firms .
+ We consider a firm state-owned if it is indicated so by its legal form . The firm is currently owned by the government .
+ Baseline Results Without 2016 Data Dependent variable: Any Trade Log Total Log Total log total Log Total Activity Weight Value Activity Weight Weight Value Weight Value Traded Tradedtraded Trade. Post Feb 2014 . Share of Ethnic Russians 0.073∗.920∗�
+ Heterogeneity Across Regions Dependent variable: Any Trade Log Total Log Total log total log total . No Regions Close to Conflict No Western Ukraine Post Feb 2014 . Share of Ethnic Russians 0.090.090∗∗. 1.163∗ ∗
+ This table tests whether our results are robust to potential region-outliers . This table also tests whether we are strong enough to deal with potential region outliers.
+ In columns through , firms located in the capital of Ukraine, Kyiv, are omitted from the sample .
+ The Dnipropetrovskaya, Zaporozhskaya, and Kharkovskaya oblasts are omitted . In columns through the provinces close to Donetsk and Luhansk are taken out omitted .
+ In columns through, Western Ukraine, the Chernivtsi, Ivano-Frankivsk, Lviv, Rivne, Ternopil, Volyn, and Zakarpattia oblasts are omitted from the sample .
+ IV Results Panel A: Second Stage Estimates Dependent variable: Any Trade Log Total Log Total Activity Weight Value Traded Traded A.1 .
+Russian Managers. 0.029.029∗∗ 0.329∗.404∗  0.404.2.3.2 .
+ Horse-Race Specification Post Feb. 2015: Russian Managers 0.015 0.147 0.201 Post .
+ First Stage Estimates Dependent variable: Share of Russian Managers, Measure #1 Share of Russians .
+ One of the measures of the share of Russian managers is instrumented with the second one to reduce the measurement error .
+ Differential Effect of Conflict on Attitudes of Ukrainian Citizens Toward Russia Dependent variable: % with Positive Attitude % with Extreme Negative % Yes to Closed Borders Toward Russian Views TowardRussia and Visas with Russia Post Conflict . .
+ This table explores the heterogeneity of the effect of the Russia-Ukraine conflict on attitudes of Ukrainian citizens toward Russia . It also explores the impact of the conflict on the attitudes of Ukrainians to Russia .
+ Data are from 15 nationally representative surveys conducted by Kyiv International Institute of Sociology from 2013 to 2016 . Data from 15 national surveys from 2013-2016 .
+ The February 2014 survey was conducted February 7 to 17, 2014, before the occupation of Crimea . The survey was done before Crimea was occupied .
+Crimea, Donetsk, and Luhansk oblasts are excluded from the analysis . The three conflict provinces are excluded. The three provinces are also excluded .
+ The province-level data on ethnolinguistic composition come from the 2001 Ukrainian Census . The census was released in 2001 .
+ Baseline Results Depending on Frequency of Google Search for “Boycott’s” Dependent variable: Any Trade Activity with Russia Specification: Baseline Regions with Regions with Baseline with Google > 75pct Frequency .
+ Column shows the baseline results for a subsample of firms with a nonempty Google search variable . The results are based on the results of a non empty Google search.
+ Google searches for ‘boycott’ from February 1 to May 1, 2014. Columns and present the baseline results for firms in regions with very high and very low frequency of Google searches .
+ Google searches for ‘boycott’ from February 1 to May 1, 2014, across Ukrainian regions . Column displays the baseline results where share of ethnic Russians is replaced by the frequency of Google searches .
+ This table presents the heterogeneity analysis of the baseline results by the size of a firm . This table shows the heterogeneity of baseline results from a firm.
+ Large firms are defined as having more than the median number of employees in our sample,e., 19 employees or more, as of 2013 .
+ Intermediate goods are identified by the HS6 product code using the standardized BEC classification . Intermediate goods can be found in the UK and the UK .
+ Baseline Results for Ukrainian Trade with Kazakhstan Dependent variable: Any Trade Log Total Log Total log total Log Total . Share of Ethnic Russians is 0.040 -0.040.208 - 0.485.007 0.007 .
+ This table presents the baseline difference-in-differences estimates but for Ukrainian trade with Kazakhstan . This table is based on the baseline differences in Ukraine's trade with Russia .
+ Columns through display the results for all trade with Kazakhstan, while columns through focus on Ukrainian exports to Kazakhstan .
+ Columns use an indicator for a firm trading with or exporting to Russia in a given month . Columns and use an indicators for a company trading with and exporting to Russian in a month .
+ Conflict and Local Economic Shocks to Firms in Non-combat Areas Dependent variable: Log Profit Log Sales TFP Share of Ethnic Russians .
+ This table documents the differential drop in firm performance across areas with different ethnic composition . This table shows the difference in performance across different ethnic groups .
+ The sample includes all Ukrainian firms, not only those trading with Russia, but excludes firms from the conflict areas . The sample also includes all Ukraine firms.
+In column, the outcome is the total factor productivity of a firm derived from a Cobb-Douglas specification regressing turnover on capital and labor .
+Log Total Log Total LogTotal Log Total Weight Traded Value Added Post . Share of Ethnic Russians 3.933∗.572∗∗ ∗∙s 4.572 ∙s .
+ This table presents the firm-year-level version of the baseline results with log-sales included as a covariate . This table is based on data from 2013-2014 .
+ Heterogeneity Analysis by Pre-Existing Trade Ties with Other Countries Dependent variable: Any Trade with Russia Any Exports to Russia Any Imports from Russia AnyImports from Russian Imports From Russia .
+ This table tests whether the baseline results are stronger for firms that had pre-existing trade connections with other countries . The table tests if the results are better for firms with pre- existing trade connections .
+ Russia and at least one other country at any point from January 1, 2013 to January 31, 2014 .
+ Russia traded only with Russia but not other countries from January 1, 2013 to January 31, 2014 . Firms that traded with Russia only traded with other countries between January 1 and January 31.
+ Homogeneous and Differentiated Goods Dependent variable: Any Trade Log Total Log Total log total Log Total Activity Weight Value Activity. Homogeneous Goods Traders Homogeneous goods Traders Post Feb 2014 .
+ This table tests whether the baseline results are stronger for firms trading homogeneous or differentiated products . The table tests if the results are better for firms Trading homogeneous and differentiated products.
+ Rauch defines homogeneous goods as those either traded on the organized exchange or having reference prices . RauCh defines homogenous goods as the products traded on an organized exchange .
+ We define homogeneous goods traders as firms that have only traded homogenous goods with Russia under the classification of Rauch over the course of 2013-2016 .
+ We define differentiated goods traders as firms that have not traded homogeneous goods under the Rauch classification . We define them as firms with not tradedhomogeneous goods. We define differentiate goods traders.

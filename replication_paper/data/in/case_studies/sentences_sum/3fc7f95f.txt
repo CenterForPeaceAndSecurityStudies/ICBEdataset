@@ -1,0 +1,519 @@
+ The views expressed here are those of the author and do not necessarily reflect the views of the National Bureau of Economic Research . Nicholas Bloom is the author of the book, "The Economics of the World"
+ Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit is given to the source .
+ Uncertainty appears to jump up after major shocks like the Cuban Missile crisis, the assassination of JFK, the OPEC I oil-price shock and the 9/11 terrorist attack .
+ This paper offers a structural framework to analyze the impact of these uncertainty shocks . It also offers a framework for analysis of the impact on uncertainty shocks.
+ I build a model with a time varying second moment, which is numerically solved and estimated using firm level data . The model is based on time varying seconds and second moments .
+ The parameterized model is then used to simulate a macro uncertainty shock . The shock produces a rapid drop and rebound in aggregate output and employment . The model then simulates a drop in output and output .
+ Higher uncertainty causes firms to temporarily pause their investment and hiring . This occurs because higher uncertainty causes companies to pause investment and hire . This is because of uncertainty .
+ Productivity growth also falls because this pause in activity freezes reallocation across units . Productivity also falls due to the slowdown in activity . The drop in productivity growth is due to a slowdown in business activity .
+ In the medium term the increased volatility from the shock induces an overshoot in output, employment and productivity . In the long-term, the increase in volatility in output and productivity will lead to overshoot of output and employment .
+ Second moment shocks generate short sharp recessions and recoveries . Thus, second moment shocks generated short sharp recessiones and recessions . Second moment shockers generate short, sharp recoveries and short recessions, says economist .
+ This simulated impact of an uncertainty shock is compared to VAR estimations on actual data, showing a good match in both magnitude and timing . The simulated impact was compared to the VAR's estimate of uncertainty shock .
+ The paper jointly estimates labor and capital convex and non-convex adjustment costs . The paper also estimates labor, capital and capital costs .
+ Ignoring capital adjustment costs is shown to lead to substantial bias . Ignoring labor adjustment costs leads to bias bias, while ignoring capital adjustments does not . The study has shown that ignoring labor adjustments leads to a bias bias .
+ Uncertainty appears to increase after major economic and political shocks like the Cuban Missile crisis, the assassination of JFK, the 9/11 terrorist attacks and the OPEC I oil price shock .
+ These volatility shocks are strongly correlated with other measures of uncertainty, such as the cross-sectional spread of …rm and industry level earnings and productivity growth .
+ Vector Auto Regression estimations suggest that they also have a large real impact, generating a substantial drop and rebound in output and employment over the following six months .
+ Despite the size and regularity of these second moment shocks there is no general structural model that analyzes their e�¤ects .
+ This is surprising given the extensive literature on the impact of the …rst moment shocks . The shock shock is surprising, says the author of the book .
+ This leaves open a wide variety of questions on the impact of major macroeconomic shocks, since these typically have both a …rst and second moment component . The impact of these shocks can be much more complex than the shock of the financial crisis .
+ The primary contribution of this paper is a structural framework to analyze these types of uncertainty shocks . Building a model with a time varying second moment of the driving process and a mix of labor and capital adjustment costs .
+ The model was numerically solved and estimated on …rm level data using simulated method of moments . The model is numerically . solved and . estimated on . …rm levels data using simulation method of . moments .
+ Firm-level data helps to overcomes the identi…cation problem associated with the limited sample size of macro data . Firm- level data helps overcomes a problem of the identification of the macro data problem .
+ Cross-section and temporal aggregation are incorporated to enable the estimation of structural parameters . Cross-sectional and temporal aggregations are incorporated in the study .
+ With this parameterized model I then simulate the impact of a large temporary uncertainty shock and …nd that it generates a rapid drop, rebound and overshoot in employment, output and productivity growth .
+ Hiring and investment rates fall dramatically in the four months after the shock because higher uncertainty increases the real option value to waiting, so …rms scale back their plans . Rms scale down their plans to hire and invest .
+ Rms address pent-up demand for labor and capital . But once uncertainty subsided, activity quickly bounces back .
+ Aggregate productivity growth also falls dramatically after the 1 in . In . In …nancial markets implied share-returns volatility is the canonical measure for uncertainty .
+ Bloom, Bond and Van Reenen show that …rm-level share-returns volatility is signi…cantly correlated with a range of alternative uncertainty proxies, including real sales growth volatility and the distribution of …nancial analysts’ forecasts .
+ The market was closed for 4 days after 9/11, with implied volatility levels for these 4 days interpolated using the European VX1 index, generating an average volatility of 58.8% . The average volatility was 58.9% for the 4 days of this period, with
+ A brief description of the nature and exact timing of every shock is contained in Appendix A . Shocks defined as events 1.65 standard deviations about the HodrickPrescott detrended mean . The 5% significance level for a one-tailed test treating each month as an independent observation
+ Un-capped value for the Black Monday month is 58.2 shock because the drop in hiring and investment reduces the rate of re-allocation from low to high productivity …rms, which drives the majority of productivity growth .
+ Productivity growth bounces back as pent-up re-allocation occurs . But again productivity growth rapidly bounces back . The U.S. productivity growth continues to rise .
+ The reason is that most …rms are located near their hiring and investment thresholds, above which they hire/invest and below which they have a zone of inaction . The reason for most…rms is that they are located .
+ Small positive shocks generate a hiring and investment response while small negative shocks generate no response . Small negative shocks generated no response to hiring, investment, investment . So small positive shocks generated a hiring response .
+ Growth after a second-moment shock leads to a medium-term rise in labor and capital . The increased volatility of business conditions growth leads to an increase in labor .
+ In sum, these second moment e¤ects generate a rapid slow-down and bounce-back in economic activity, entirely consistent with the empirical evidence . In sum: These second moments e��¼ects create a rapid slowdown and bounce back .
+ This is very di¤erent from the much more persistent slowdown that typically occurs in response to the type of …rst moment productivity and/or demand shock that is usually modelled in the literature . The slowdown is more persistent than the slowdown that is modelled by the literature,
+ This highlights the importance to policymakers of distinguishing between the persistent …rst moment e¤ects and the temporary second . second moment of major shocks . The importance of this is important to policymakers is to distinguish from the persistent ...rst .
+ I then evaluate the robustness of these predictions to general equilibrium e¤ects, which for computational reasons are not included in my baseline model . For computational reasons, for example, the e�¼ects are excluded from the model . The e¿ects will
+ To investigate this I build the falls in interest rates, prices and wages that occur after actual uncertainty shocks into the simulation .
+ This has little short-run e¤ect on the simulations, suggesting that the results are robust to general equilibrium e��¼ects . The results suggest that the simulations are robust .
+ The rise in uncertainty following a second moment shock not only generates a slowdown in activity, but it also makes …rms temporarily extremely insensitive to price changes .
+ This raises a second policy implication that the economy will be particularly unresponsive to monetary or …scal policy immediately after an uncertainty shock . This suggests additional caution when thinking about the policy response to such events .
+ The analysis of uncertainty shocks links with the earlier work of Bernanke and Hassler who highlight the importance of variations in uncertainty .
+ The secondary contribution of this paper is to analyze the importance of jointly modelling labor and capital adjustment costs . The paper also analyzes the role of joint modelling labor, capital adjustment and labor costs .
+ The empirical literature has either estimated labor or capital adjustment costs individually assuming the other factor is ‡exible, or estimated them jointly assuming only convex adjustment costs . For analytical tractability and aggregation constraints, the empirical literature is constrained .
+ I jointly estimate a mix of labor and capital adjustment costs by exploiting the properties of homogeneous functions to reduce the state space . We also develop an approach to address cross-sectional and temporal aggregation . We hope to find a way to solve the problem of cross-section aggregation .
+ I …nd moderate non-convex labor adjustment costs and substantial non-consensus capital adjustment costs . I…nd moderate labor adjustment . costs . The company has a history of over-accommodation costs of $1 billion .
+ I also …nd that assuming capital adjustment costs only as is standard in the investment literature generates an acceptable overall …t, while assuming labor adjustment costs are standard in labor demand literature produces a poor …t .
+ Looking at individual events it could be used to analyze the uncertainty impact of major deregulations, tax changes, trade reforms or political elections . It could also be used, for example, to assess the impact of tax changes .
+ There is a trade-o¤ between policy “correctness” and “decisiveness” it may be better to act decisively then to deliberate on policy, generating policy-induced uncertainty .
+ Second moment shocks generate large falls in output, employment and productivity growth, it provides an alternative mechanism to …rst-moment shocks for generating recessions . In particular, since second moment shocks generated large falls, employment, productivity growth .
+ Recessions could simply be periods of high uncertainty without negative productivity shocks, say experts . Recessions are periods of periods of uncertainty without positive productivity shocks such as high uncertainty, they say .
+ Taking a longer run perspective this paper also links to the volatility and growth literature, given the large negative impact of uncertainty on output and productivity growth . The paper concludes that uncertainty has a negative impact on output growth and productivity .
+ In section I address the …rst question by presenting evidence showing that stock market volatility is strongly linked to other measures of productivity and demand uncertainty . I present evidence that the volatility of the stock market is linked to a range of productivity measures .
+ In section I address the second question by presenting Vector Auto Regression estimations showing that volatility shocks generate a short-run drop of 1%, lasting about 6 months, with a longer run gradual overshooting .
+ First shocks to the interest-rates and stock-market levels generate a much more gradual drop and rebound in activity lasting 2 to 3 years . First moment shocks to interest-rate and stock market levels generate more gradual drops and rebound .
+ A full data description for both sections is contained in Appendix A.1.8 .
+ Stock market volatility has also been previously used as a proxy for uncertainty at the …rm level and Bloom, Bond and Van Reenen .
+ Stock-market time-series volatility is strongly correlated with the cross-sectional spread of …rm-level pro…ts growth .
+ Column re-estimates this including a full set of quarterly dummies and a time-trend, …nding very similar results . Columns used a set of dummies including a time trend and a full version of the chart . Column: Columns are very similar to that
+ Columns and use a monthly cross-sectional stock-returns measure and show that this is also strongly correlated with the stock return volatility index . Columns use a month-long measure of monthly monthly stock- returns .
+ Columns and report the results from using the standard-deviation of annual 5-factor TFP growth within the NBER manufacturing industry database . Columns are based on the standard deviation of annual growth in TFP .
+ There is a large and signi…cant correlation of the cross-sectional spread of industry productivity growth and stock-market volatility . There is also a sign that there is a correlation between productivity growth growth and volatility .
+ I tested for jumps in the volatility series using the bipower variation test of Barndor¤-Nielsen and Shephard and found statistically signi…cance evidence for jumps . Columns and use a 7-columns series were found to be significant .
+ Column reports that the stock market volatility index is on average 0.532 SD higher in a quarter when the cross-sectional spread of …rms’ pro…t growth is 1 SD higher . So, for example, column reports that stock market . volatility index .
+ The quarterly, half-yearly and annual values are calculated by averaging across the months within the period . The quarterly and yearly averages are averaged across the month within that period .
+ This comes from Compustat quarterly accounts using …rms with 150+ quarters of accounts . Compustar accounts using . rms with . 150+ quarter of accounts.
+ “Firm stock returns” measures the within month cross-sectional standard deviation of …rm-level stock returns . The standard deviation is the within the month of a firm’s return .
+ This comes from the CRSP monthly stock-returns …le using …rms with 500+ months of accounts . This is based on data from CRSP .
+ The standard deviation of ‘Industry TFP growth’ measures the within year cross-industry spread of SIC 4-digit manufacturing TFP rates .
+ This is calculated using the 5-factor TFP growth growth …gures from the NBER manufacturing industry database . The growth growth rate is based on the five-factor growth rate .
+ The standard deviation of “GDP forecasts” comes from the Philadelphia Federal Reserve Bank’s biannual Livingstone survey, calculated as the of forecasts of nominal GDP one year ahead .
+ Measure of the dispersion across macro forecasters over their predictions for future GDP . Measure is calculated from the Livingstone half-yearly survey of professional forecasters .
+ High stockmarket volatility is signi…cantly correlated with cross-sectional dispersion, in this case in terms of disagreement across macro forecasters . Once again, periods of high stock market volatility are signi..cantantly correlated .
+ Including stock market levels as the …rst variable in the VAR ensures the impact of stock-market levels is already controlled for when looking at the impact on volatility shocks .
+ All variables are Hodrick Prescott detrended in the baseline estimations . The results are based on the baseline estimates of Hodrick's performance .
+ These sixteen shocks were explicitly chosen as those events when the peak of HP detrended volatility level rose signi…cantly above the mean . These 16 shocks were specifically chosen to be those events .
+ This indicator function is used to ensure identi…cation comes only from large, and arguably exogenous, volatility shocks rather than the smaller ongoing ‘uctuations” .
+ Industrial production displays a rapid fall of around 1% within four months, with a subsequent recovery and rebound from seven months after the shock . Industrial production has since recovered from the shock and rebound .
+ One standard-error bands are plotted around this, highlighting that this drop and rebound is statistically signi…cant at the 5% level . The one standard error band is plotted around the area .
+ The response to a 1% impulse to the Federal Funds Rate is also plotted displaying a much more persistent drop and recovery of up to 0.6% over the subsequent two years . For comparison to a .rst moment shock, the . response to the . first moment shock is also
+ Variables are log industrial production, log employment, hours, log wages, log CPI, CPI, federal funds rate, volatility shock indicator and log S&P500 levels . Variables include log production, employment and hours, hours and wages .
+ Detrended by Hodrick-Prescott filter with smoothing parameter of 129,600 . Detrending by Hodric-Prescot filter with . smoothing parameters of .
+ Response to a 1% shock to the Federal Funds Rate is plotted to demonstrate the time profile in response to a typical first moment shock. robustness of these VAR results to a range of alternative approaches over variable ordering, variable inclusion, shock de…nitions, shock timing and det
+ In particular, these results are robust to identi…cation from uncertainty shocks de…ned by the 10 exogenous shocks arising from wars, OPEC shocks and terror events . The results were robust to identify uncertainty shocks from uncertainty .
+ Modelling the Impact of an Uncertainty Shock in this section . In this section I model the impact of an uncertainty shock .
+ Second, I allow a joint mix of convex and nonconvex adjustment costs for both labor and capital . I allow the same mix of labor, capital and capital to be adjusted for labor .
+ The time varying uncertainty interacts with the non-convex adjustment costs to generate time-varying real-option e¤ects, which drive hiring and investment decisions .
+ I also build in temporal and cross-sectional aggregation by assuming …rms own large numbers of production units . This allows me to estimate the model’s parameters on …rm-level data .
+ 9/11 appeared to generate a large drop and rapid rebound in hiring and investment lasting around 6 months, according to a study published by John Sutter . Sutter showed that 9-11 generated a rapid drop in hiring, investment and investment .
+ This reformulation to A as the stochastic variable avoids any long-run Hartman or Abel e¤ects of uncertainty reducing or increasing output because of convexity or concavity in the production function . A( 16)
+ I assume business conditions evolve as an augmented geometric random walk . The Stochastic Process for Demand and Productivity is the result of a random walk. The process is the same as the random walk of the universe .
+ This demand structure also assumes that macro, …rm and unit level uncertainty are the same . The demand structure is based on macro and unit uncertainty . It assumes that the macro, unit level and macro demand structure are all the same.
+ To investigate this alternative I programmed up another monthly simulation with auto-regressive business conditions and no labor adjustment costs . All other modelling assumptions were the same .
+ To the extent this assumption does not hold so that unit and macro uncertainty are imperfectly correlated this will weaken the quantitative impact of macro uncertainty shocks, but not the qualitative …ndings .
+ The …rm-level business conditions drift is also assumed to be stochastic, to allow autocorrelated changes over time within …rms. The …mm-level . business . conditions drift was also assumed . to be . stochastically .
+ This is important for empirically identifying adjustment costs from persistent di�¤erences in growth rates across …rms, as section discusses in more detail . This is also important to identify the costs associated with persistent growth rates .
+ Third piece of technology determining the …rms’ activities are the adjustment costs . Adjustment costs are the third piece of tech determining the activities .
+ For simplicity I assume these costs apply equally equally to gross hiring and gross …ring of workers . For simplicity, I assume this costs apply to both hiring and hiring .
+ Capital partial irreversibilities arise from resale losses due to transactions costs, the market for lemons phenomenon and the physical costs of resale . The market for lemon juice phenomenon is a phenomenon that occurs in the United States .
+ Resale loss of capital is labelled CKP and is denominated as a fraction of the relative purchase price of capital . The resale loss is labelled 'CKP' and denominated in terms of a fraction .
+ When new workers are added into the production process and new capital is installed some downtime may result, involving a …xed cost loss of output . New capital may have to be installed to install new capital .
+ The factory may need to close for a few days while a capital re…t is occurring . For example, adding workers may require …xed costs of advertising, interviewing and training, or the factory may close .
+ I model these …xed costs as CLF and CKF for hiring/…ring and investment respectively, both denominated as fractions of annual sales . This formulation also generates ‘business conditions’shocks at the unit-level that have a 3 times larger standard deviation than
+ This appears to be counter empirical given the much higher volatility of establishment data than macro data . Establishment data is more likely to be volatility of macro data rather than the macro data, it appears .
+ Non-linearities in the investment and hiring response functions (due to non-convex adjustment costs) output and input growth is typically around 10 times more volatile at the unit level then at the smoothed macro level in the simulation .
+ All that matters for the simulation results in section is the change in the total variance of shocks to Ai;j;t , rather than the breakdown of this variance between macro, …rm and unit level shocks . The simulation results are based on the total change of the total shock to Ai
+ For analytical simplicity I have restricted the model to gross costs . Net costs could also be introduced and estimated in future research through the addition of two net …ring cost parameters .
+ The costs of hiring/…ring and investment may also be related to the rate of adjustment due to higher costs for more rapid changes . CLQ L( E 2 L ) are the quadratic Q hiring costs and E denotes gross hiring/….ring costs .
+ New labor and capital take one period to enter production due to time to build . Time to build takes one period for time to begin construction . New labor, capital and capital are taken to the ground .
+ This assumption is made to allow me to pre-optimize hours below . It is unlikely to play a major role in the simulations given the monthly periodicity .
+ At the end of each period there is labor attrition and capital depreciation proportionate to L and K respectively . At the time, labor attrition is proportional to capital depreciation and labor attrition .
+ Gross hiring and investment is typically lumpy with frequent zeros in single-plant establishment level data but much smoother and continuous in multi-plant establishments and …rm level data . Dealing with Cross-Sectional and Time Aggregation is difficult to do .
+ I build this aggregation into the model by explicitly assuming that …rms own a large number of production units and that these operate at a higher frequency than yearly . The model is based on the fact that these operations occur more frequently than yearly in the past .
+ The units can be thought of as di¤erent production plants, geographic or product markets, or geographic markets . The units are thought to be production plants or production divisions .
+ To solve this model I need to de…ne the relationship between production units within the …rm.rm. The model is based on the relationships between production .
+ This requires several simplifying assumptions to ensure analytical tractability . This requires a simplification of several simplifications to ensure tractability.
+ These are not attractive, but are necessary to enable me to derive numerical results and incorporate aggregation into the model . The model is based on a model of aggregation and numerical results .
+ In doing this I follow the general stochastic aggregation approach of Bertola and Caballero . Bertola, Caballeros and Engel in modelling macro and industry investment respectively, and most speci…cally Abel and Eberly in modelling …rm level investment .
+ The stochastic aggregation approach assumes …rms own a su¢ ciently large number of production units that any single unit level shock has no signi…cant impact on …rm behavior .
+ Units are assumed to independently optimize to determine investment and employment . Units are thought to be independent of each other in order to optimize to maximize employment and investment . Units must be optimized to maximize production and employment.
+ All linkages across units within the same …rm are modelled by the common shocks to demand, uncertainty or the price of 10 capital . Thus, all linkages within units within a…rm are modeled .
+ The implicit assumption is that units independently optimize due to bounded rationality and/or localized incentive mechanisms . In the simulation the number of units per …rm is set at 250, chosen by increasing the number .
+ This assumption will have a direct e¤ect on the estimated adjustment costs . The simulation will also have an indirect e��¥ect on simulation .
+ In section I re-estimate the adjustment costs assuming instead the …rm has 1 and 50 units to investigate this further . Hence, in section I . re-evaluate the . adjustment costs .
+ This seems acceptable in the monthly time frame , but is an important assumption to explore in future research . This is an assumption that the monthly period is acceptable .
+ My intuition is that relaxing this assumption should increase the e¤ect of uncertainty shocks since entry and exit decisions are extremely nonconvex . This may have some o¤setting e¥ects through the estimation of slightly “smoother adjustment costs .
+ Shocks and decisions in a typical business-unit are likely to occur at a much higher frequency than annually . Annual data will be temporally aggregated, and I need to explicitly model this . The model is based on the fact that annual data will not be aggregated .
+ There is little information on the frequency of decision making in …rms, with the available evidence suggesting monthly frequencies are typical .
+ The …rm’s optimization problem is to maximize the present discounted ‡ow of revenues less the wage bill and adjustment costs across its units . The … .
+ I assume that the …rm is risk neutral to focus on the real options e¤ects of uncertainty . The real options are uncertainty, and the real risk is uncertainty .
+ Analytical methods can show that a unique solution to the …rm’s optimization problem exists, that is continuous and strictly increasing in with almost everywhere unique policy function .
+ Including this reinforces the real-options e¤ects because it induces a rise in the investment hurdle-rate after the uncertainty shock hits which then falls back as certainty returns . Including this increases the investment threshold-rate .
+ In general equilibrium these e¤ects become ambiguous because of o¤setting consumer risk-aversion e�¤ECTs . The e¥ects are ambiguous because they are set up by consumers .
+ Given current computing power, however, I have too many state and control variables to solve the problem as stated . I have to solve it as stated, but given current power, it will not solve it .
+ But the optimization problem can be substantially simpli…ed in two steps .
+ Hours are a ‡exible factor of production and depend only on the variables , which are pre-determined in period t given the time to build assumption . Hours are ‘exible factors of production'
+ Hours can be optimized out in a prior step, which reduces the control space by one dimension . Therefore, hours can be optimize out in the prior step .
+ The revenue function, adjustment cost function, depreciation schedules and demand processes are all homogenous of degree one in , allowing the whole problem to be normalized by one state variable, reducing A L the state space by one dimension . Second, the revenue function and adjustment cost functions are all jointly hom
+ These two steps A L dramatically speed up the numerical simulation, which is run on a state space of making numerical estimation feasible . The two steps are run on the state space .
+ The model yields a central region of inaction in space, due to the non-convex costs of adjustment . An Example of the Model’s Solution A A
+ Firms only hire and investment when business conditions are good, and only disinvest when they are bad . Firms hire and invest when conditions in business are good and bad, says David Cameron .
+ Rms become more cautious in responding to business conditions . When uncertainty is higher these thresholds move out of the market .
+ With a random-walk driving process adjustment costs and depreciation are naturally scaled by unit size . Otherwise units would ‘outgrow’ adjustment costs, depreciation .
+ Simulated thresholds using the adjustment cost estimates “All” in table 3 . Hiring/firing and investment/disinvestment thresholds were simulated using the adjustments cost estimates .
+ Although the optimal policies are of the type it can not be proven that this is always the case . The optimal policies can be found to be the best in the world .
+ The inner region is the region of inaction , where the real option value of waiting is worth more than the returns of investment and hiring . Waiting is a better option than investment and/or hiring for a company .
+ The gap between the investment/disinvestment thresholds is higher than between the hire/hire/re thresholds due to the higher adjustment costs of capital . The gap is also higher than the difference between the two thresholds .
+ It can be seen that the static static intuition that higher uncertainty increases real options is con…rmed here, suggesting that large changes in t can have an important impact on investment and hiring .
+ Re-computing these thresholds with permanent di�¤erences in uncertainty results in an even stronger impact on investment and employment thresholds .
+ The standard comparative static result25 on changes in uncertainty will tend to over predict the expected impact of time changing uncertainty . So the standard static result .
+ Rms evaluate the uncertainty of their discounted value of marginal returns over the lifetime of an investment or hire . High current uncertainty only matters to the extent that it drives up long run uncertainty .
+ uncertainty is mean reverting current values have a lower impact on expected long run values than if uncertainty were constant . When uncertainty is constant, reverting high current values are less likely to have a negative impact on long-run values .
+ Hassler’s model actually predicts that temporary shocks in uncertainty have a larger impact than permanent shocks . Hassler: Temporary shocks are more likely to have a bigger impact on the economy .
+ This arises in his model because to obtain analytical tractability he assumes …xed-costs only . To obtain analytical . tractability, he assumes…xed costs only . This is not the case in the model .
+ With …xed costs the rise in uncertainty in’uences both the investment threshold and target, with these e¤ects being smaller and larger respectively in response to a temporary versus permanent uncertainty shock . The rise of uncertainty in this case is due to a rise in the
+ In my model the addition of partial irreversible adjustment costs reverses this so the threshold e¤ects dominate . Permanent shocks have a larger impact than temporary shocks, so permanent shocks have larger impact .
+ This highlights the importance of estimating adjustment costs for determining the impact of uncertainty shocks . The study was published by the World Institute for Economic Development .
+ The distribution of units between the hiring and firing thresholds 8 Distribution of units . The hiring response and unit-level density for low uncertainty , high-drift and the most common capital/labor ratio .
+ The distribution of units in space is skewed to the right because productivity growth generates an upward drift in A and attrition generates a downward drift in L . The density peaks internally because of lumpy hiring due to fixed costs .
+ The econometric problem consists of estimating the parameter vector that characterizes the …rm’s revenue function, stochastic processes, adjustment costs and discount rate . Estimating the model is estimated by estimating the parameters of the model .
+ Since the model has no analytical closed form these can not be estimated using standard regression techniques . The model is based on a model that has no closed form and has no open form .
+ Instead estimation of the parameters is achieved by simulated method of moments which minimizes a distance criterion between key moments from the actual data and the simulated data .
+ SMM is computationally intensive only 10 parameters can be estimated, with the remaining 13 prede…ned.ned. Because of SMM only 10 of the SMM parameters can’t be estimated .
+ Simulated Method of Moments SMM proceeds as follows as follows a set of actual data moments A is selected for the model to match . SMM is based on a simulation of moments A was selected to match A .
+ For an arbitrary value of the dynamic program, the program is solved and the policy functions are generated . The policy function is then used to generate the policy function .
+ Policy functions are used to create a simulated data panel of size . N is a strictly positive integer, N is the number of …rms in the actual data and T is the time dimension of the data . The panel is created using policy functions such as N and T .
+ The first ten years are discarded in order to start from the ergodic distribution . The …rst ten years were discarded in . order to . start from . start .
+ Initial values of are selected to ensure the solution converges to the global minimum . Di¤erent initial values are selected in the hope of converging on the solution .
+ This implies the standard error of b is increased by 4% by using simulation estimation . This implies a 4% increase in the estimation of b by using simulations .
+ In principle every parameter could be estimated, but in practice the size of the estimated parameter space is limited by computational constraints . Prede…ned parameters can be estimated in principle, but they are limited by constraints on their size .
+ Given my assumption of constant-returns to scale and a constant-elasticity of demand this implies a markup of 33%, which is towards the upper-end of the range estimates for price-cost mark-ups . Given the assumptions of constant return-to-scale and a
+ Choosing a lower value of a + b also has the bene…t of inducing more curvature in the value function so that less grid points are required to map any given space .
+ The precise choice of moments is important for the e¢ ciency of the estimator, suggesting moments which are “informative” about the underlying structural parameters should be included . The precise choices of moments are important for an estimator .
+ The basic insights of plant and capital data on labor and capital are the presence of highly skewed cross-sectional growth rates and rich time-series dynamics . This suggests some combination of cross-section and time series moments .
+ A key challenge in estimating adjustment costs for factor inputs is distinguishing between the dynamics of the driving process and factor adjustment costs . Distinguishing the Driving Process from Adjustment Costs is key .
+ Concentrating on the moments from only one factor for example capital makes it very hard to do this. Concentration on the moment is very difficult to do . Concentration is very important for a person to be able to focus on only one aspect of the moment .
+ Consider a very smooth driving process without adjustment costs, which would produce a smooth investment series . To illustrate this, consider a smooth drive process without adjusting costs .
+ Alternatively consider a volatile driving process with convex capital adjustment costs, which would also produce a smooth investment series . Alternatively consider considering a volatile driver process .
+ Without some additional moments it would be very hard to estimate adjustment costs using just the investment series data . Hence, without additional moments, it would not be easy to estimate adjusted costs .
+ Investment, employment and sales growth series is a look at the joint moments of the investment and employment growth series . This week's series focuses on investment, employment, sales growth .
+ Distinguishing Persistent Di¤erences from Adjustment Costs . A stylized fact from the estimation of …rm and plant level level investment and labor demand equations is the empirical importance of ‘…xed-e¤ects’ that is persistent di¤
+ Without controls for these persistent di�¤erences the estimates of the adjustment costs could be biased . Without controls, estimates of adjustment costs may be biased, experts say .
+ For example, persistent between-…rm di¤erences in investment, employment and sales growth rates due to di�¤erent growth rates of demand would lead to large quadratic adjustment costs .
+ When H L is large there will be large di¤erences in the growth rates of labor, capital and output across …rms, and when H;H is close to unity these will be highly persistent . When HL is large it will be very persistent .
+ To identify these parameters separately from adjustment costs requires information on the time path of autocorrelation across the investment, employment and sales growth series .
+ For example, persistent correlations between investment, sales and employment growth rates going back over many years would help identify di¤erences in the growth rates of the driving process . decaying correlations in the investment series only would suggest convex capital adjustment costs .
+ The investment, employment growth and sales growth series includes moments for the second-order and fourth-order correlations of the investment and employment growth of the economy .
+ The second-order autocorrelation is chosen to avoid a negative bias in these moments from underlying levels measurement errors which would arise in a …rst-order . measure . The fourth-order autocorrelation is chosen to allow a su¢ ciently
+ Shorter and longer lags, like the third-order, …fth-order and sixth-order order autocorrelations, could also be used, but in experimentations did not make much di¤erence . Shorter lags also could be used in experiments .
+ There is too little data at the macroeconomic level to provide su¢ cient identi…cation for the model . Firm-level Data is not enough to provide firm-level data .
+ I therefore identify my parameters using a panel of …rm-level data from United States Compustat . I use this data to identify parameters of my work .
+ This generated a sample of 2548 …rms and 22,950 observations with mean employees of 13,540 and mean sales of $2247m in 2000 prices .
+ In selecting all Compustat …rms I am con’ating the parameter estimates across a range of di¤erent industries, and a strong argument can be made for running this estimation on an industry by industry basis .
+ The full panel is left to be used to estimate industry speci…c estimation to future work . However, I keep the full panel out of consideration .
+ The simulated data is constructed in exactly the same way as company accounts are built . simulated data was constructed in the way companies built their own accounts .
+ First, …rm value is created by adding up across the N units in each …rm . The …rm is created using N units and N units .
+ By constructing my simulation data in the same manner as company accounts, I can estimate adjustment costs using …rm-level datasets like Compustat . I can also use company accounts to calculate adjustment costs .
+ This technique of explicitly building aggregation into estimators to match against aggregated quoted …rm-level data should have a broader use .
+ The choice of net versus gross is not important for the consistency of parameter estimates so long as the same actual and simulated moments are matched . Under the null that the model is correctly speci…ed, the choice of the choice is not an important .
+ This problem is then made much worse by the di�¤erencing to generate growth rates . This is then compounded by the fact that the rate of growth rates is much higher than the rate rate .
+ As a second step, I explicitly introduce employment measurement error into the simulated moments to try and mimic the bias these impute into the actual data moments . As a result, employment measurement errors are simulated to mimic bias in the data data .
+ Under my null on the decomposition of Wit 2 the coe¢ cient on log Lit will be approximately L where 2 is the variation in log employment 2+ 2 L L ME and 2 is measurement error in log Employment .
+ A coe¢ cient on log Lit of 0.882 ME . implies a measurement error of 13% in the logged labor force numbers . I …nd a coe cents on log lit of 0 .882 ME , implying a . measurement error, the error is 13% .
+ Gures Hall calculates comparing OLS and IV estimates . This is reassuringly similar to the 8% estimate for measurement error in Compustat manufacturing .
+ In this section I present the estimates of the …rms capital and labor adjustment costs . The estimates are presented in the section of this section .
+ Investment rates have a low spread but a heavy right skew due to the lack of disinvestment, and strong dynamic correlations . These demonstrate that investment rates have been low in investment rates .
+ Labor growth rates are relatively variable but un-skewed, with weaker dynamic correlations . The rate of growth rates is relatively variable, but unkewed . The U.S. labor growth rate is much lower than national average .
+ Sales growth rates have similar moments to those of labor, but slightly lower spread and higher degree of dynamics correlations . Sales growth rate is similar to that of labor but slightly higher spread .
+ The estimated adjustment costs for capital imply a large resale loss of around 34% on capital, …xed investment costs of 1.5% of annual sales and no quadratic adjustment costs . The estimated adjusted capital for capital implies a large . resale . loss of 34%
+ The estimated labor adjustment costs 35 . Adding …rm or industry speci…c wage trends reduces the coe¢ cient on log Wit implying an even higher degree of measurement error . Adding industryspeculation or industryspecs increases the error .
+ Running the reverse regression of log labour on log wages plus the same controls generates a coe¢ cient of 0.990 . The proportional measurement error in wages (a typically much better recorded …nancial variable) is many times smaller than that of employment .
+ In the top panel standard-errors are in italics in brackets below the point estimates . Standard errors are shown in the bottom of the panel .
+ Parameters estimated using Simulated Method of Moments, and standard errors calculated using numerical derivatives . Standard errors calculated by numerical derivatives.
+ Full simulation and estimation details in Appendix B. imply limited hiring and . …ring costs of about 1.8% of annual wages and a high…xed cost of around 2.1% of . annual revenue .
+ Missing values indicate no parameter estimated in the main speci…cation . Missing values indicated no parameters estimated in main parameters estimated .
+ Shapiro’s value is a weighted average of 0 for production workers and 48 for non-production workers . Shapiro's value is based on the average number of production workers in the United States .
+ For interpretation I also display results for four illustrative restricted models . For interpretation, the results are displayed in a range of restricted models.
+ A model with capital adjustment costs only, assuming labor is fully ‡exible, as is typical in the investment literature . The model is based on capital adjustments only, as well as capital adjustments .
+ The 2 value for 3 degrees of freedom is 7.82, so column “Capital” can easily be rejected against the null of “All” given the di¤erence in criterion values of 221.82 . Second, a model with labor adjustment costs only as
+ The preferred ‘All’s speci…cation’ can also be rejected as the true representation of the data given the 2 value for 10 degrees of freedom is 18.31 .
+ A model with quadratic costs only and no cross-sectional aggregation as is typical in convex adjustment costs models is estimated in the “Quad” column . This leads to a moderate reduction in …t generated by excessive intertemporal correlation and an inadequate investment skew .
+ Industry and aggregate data are much more autocorrelated and less skewed due to extensive aggregation, suggesting quadratic adjustments costs could be a reasonable approximation at this level .
+ It also biases the estimation of the business-conditions process to have larger …rm-level growth …xed-e¤ects and lower variance of the idiosyncratic shocks .
+ This helps to highlight the importance of jointly estimating adjustment costs and the driving process . It also highlights the need to jointly estimate the cost of adjusting costs .
+ Changes in the adjustment cost parameters leads to changes in these parameters . What is clear is that changes in the adjusted cost parameters lead to changes, says the government .
+ For example, the lack of adjustment costs in column “Quad” generates an estimated uncertainty parameter of around 1/3 of the baseline “All” value . The spread in …rm-level …xed costs of about 2/3 .
+ This provides support for the selection of moments that can separately identify the driving process and adjustment cost parameters . This provides . support for . the selection . of moments . that can separate identify the . driving process . and adjust cost parameters.
+ This higher rate of attrition leads to higher quadratic adjustment costs for labor and capital, and lower …xed-costs for labor . The higher attrition rate leads to lower quadratically adjustment costs .
+ To compensate the estimated quadratic adjustment costs estimates are higher and …xed costs lower . To compensate those costs estimates were higher and lower, costs were lower .
+ Cooper and Haltiwanger also note this point . These assumptions also lead to higher estimates for the quadratic adjustment costs .
+ The evidence of aggregation in Appendix A4, and from the annual report of any large company with its typical multi-divisional, suggests aggregation is likely to be pervasive .
+ Full simulation and estimation details contained in Appendix B. for the reduction in smoothing by aggregation . Full simulation details contained on Appendix B .
+ The simulation was run at a yearly frequency without aggregation or time aggregation . The results are based on the simulation running at a frequency of time aggregation times .
+ Dropping time aggregation leads to higher estimated quadratic adjustment costs, again to compensate for the loss of smoothing by aggregation . Dropping time aggregation leads to higher estimated quadratic adjustment costs .
+ Cross-sectional or time aggregation appears to matter for estimating adjustment costs since these play a role in smoothing data moments . Hence, modelling cross-sections or time aggregations appear to matter .
+ The key result of a drop and rebound in activity was qualitatively robust for all the columns, although there was some variation in the magnitude of this . The study was published in the journal Nature's Monthly Table .
+ Simulating an Uncertainty Shock simulation models the impact of a large, but temporary, rise in the variance of business conditions growth . The simulation is based on a simulation that simulates a large but temporary increase in variance in business conditions .
+ This second-moment shock generates a rapid drop in hiring, investment and productivity growth . Rms become much more cautious due to the rise in uncertainty due to rise in economic uncertainty . The drop in productivity growth is due to a rise in hiring and investment .
+ Once the uncertainty shock passes, however, activity bounces back as …rms clear their pent-up demand for labor and capital . The uncertainty shock will pass once the uncertainty shocks pass .
+ The temporary pause in activity slows down the reallocation of labor and capital from low to high productivity units . This also leads to a drop and rebound in productivity growth, since the temporary pause .
+ In the medium term this burst of volatility generates an overshoot in activity due to the convexity of hiring and investment in business conditions . In the long-term, the volatility will continue to grow in the economy .
+ This is a stylized simulation since other factors also typically change around major shocks . Of course, this is a style-simulated simulation .
+ Some of these factors can and will be added to the simulation, for example allowing for a simultaneous negative shock to the …rst moment . Some of the factors can be added .
+ I start by focusing on a second moment shock only, however, to isolate the pure uncertainty e¤ects and demonstrate that these alone are capable of generating large short-run ‘uctuations .
+ I discuss the robustness of this analysis to price changes from general equilibrium e¤ects, a combined …rst and second moment shock, estimates for the adjustment costs, and stochastic processes for the uncertainty shock . I then discuss how robust this analysis is to the robust
+ The Baseline Simulation Outline I simulate an economy of 1000 units for 15 years at a monthly frequency . The simulation is based on a simulation of a large economy for the first 15 years .
+ This simulation is then repeated 25,000 times, with the values for labor, capital, output and productivity averaged over all these runs . The results are then averaged over each run of the simulation . The simulation was then repeated, averaging the results of each run .
+ This generates the average impact of an uncertainty shock, where the average is taken over the distribution of micro and macro shocks . This creates an average of uncertainty shocks .
+ Before presenting the simulation results it is worth …rst showing the precise impulse that will drive the results . The simulation results are presented in a computer simulation .
+ It is plotted on a monthly basis, with the month normalized to zero on the date of the shock . The shock rate is now at a low level .
+ This displays a substantial fall in the six months immediately after the uncertainty shock and then overshoots from months 8 onwards, eventually returning to level by around 3 years . This is then returning to levels by around three years .
+ The rise in uncertainty increases the real-option value of inaction, leading the majority of …rms to temporarily freeze hiring . The initial drop occurs because of the rise of uncertainty .
+ Exogenous attrition of workers this generates a fall in net employment . Because of the ongoing exogenous attrition, this creates a fall of net employment, employment is down .
+ Endogenizing quits would of course reduce the impact of these shocks . The quit rate would presumably fall after a shock, since the quit rate presumably would fall after .
+ In the model to o¤set this I have conservatively assumed a 10% annual quit rate well below the 15% to 25% quit rate observed over the business cycle .
+ This low quit rate could be thought of as the exogenous component due to retirement, maternity, sickness, sickness and family-relocation etc. This low …xed quit rate is thought to be due to retirements, maternity and sickness .
+ In order to make up the short-fall in labor …rms begin to hire at a faster pace than usual . So the labor force heads back towards it trend-level . The labor force is expected to head back to trend .
+ This generates a rapid rebound in the total labor from month 3 until about month 6 . This generates the rapid rebound from month three to month 6. This creates a rebound in total labor .
+ The Volatility Overshoot is the overshoot from month 7 onwards . One seemingly puzzling phenomenon, however, is the increase in volatility in the past seven months .
+ Pure realoptions e¤ects of uncertainty should generate a drop and overshoot in the growth rate of labor (that is the hiring rate) But only a drop of convergence back to trend in the level of the labor force .
+ Simulations run on 1000 units . Simulations have a large second moment shock average of 2,000 seconds . Simulation has large second shock average .
+ The simulation has no first-moment shock assumptions as outlined in sections 3 and 4 . The simulation is based on the assumptions outlined in section 4 of the simulation .
+ The aggregate Aggregate At Actual figure for At (business conditions) is calculated by summing up across all units within the simulation . The Aggregate Aggregate Actual figure is based on all units in a simulation .
+ Simulation run on 1000 units . Aggregate labor drops, rebounds and overshoots . Simulation simulation runs on simulators .
+ This is repeated 25,000 Aggregate Lt times with the average plotted here . The average of the average is shown here .
+ Adjustment costs are taken (de-trended & normalized to 1 from the “All” values in table 3. Adjustment Costs are taken from ‘All’ and ‘De-Trended’ to ‘Trended' values .
+ The aggregate figures for Lt are calculated by on pre-shock date) summing up across all units within the simulation . The aggregate figure is calculated by the summing of all units in each simulation .
+ Simulation run on 1000 units . Splitting out the uncertainty and volatility effects . Simulation simulation runs on 1000 unit units .
+ Month the volatility effects are turned off). more units to hit both the hiring and …ring thresholds. month the volatility effect is turned off . month . month more units (monthly) to hit the threshold of hiring and ...ring thresholds . month the . volatility effects of the volatility .
+ In e¤ect hiring is convex in productivity just below the hiring threshold . Rms that receive a small positive shock hire and …rms that get a small negative shock do not respond . Hiring is a good predictor of productivity .
+ Total hiring rises in the medium term with the increased volatility of productivity growth . So total hiring will rise in the long-term with the increase in productivity growth, it says .
+ Of course once …rms have undertaken a burst of hiring they jump to the interior of the region of inaction and so do not hire again for some time .
+ So in the long-run this results in labor falling back to its long-term trend path, says CNN.com's John Defterios .
+ This medium-term hiring boom is induced by the higher unit-level volatility of business conditions shocks . I label this phenomenon the ‘volatility overshoot’, since this is induced .
+ The real-options impact e¤ect from increased uncertainty over future business conditions, which causes an initial drop in activity as …rms pause investment and hiring . Real-options are the result of increased uncertainty in business .
+ Hiring and investment instantly freeze after the uncertainty shock . This happens rapidly since expectations change upon impact of the shock, so that hiring and investment freeze .
+ Second, the e¤ect from increased volatility of realized business conditions, which causes a medium term hiring-boom . Third, the increased volatility will cause a long-term hiring boom .
+ This takes more time to occur because this is driven by the rise in the realized volatility of productivity growth . This is driven to the rise of the realized productivity growth growth growth .
+ The higher uncertainty temporarily moves out the hiring and investment thresholds this further delays the volatility overshoot . Because of the uncertainty, the higher uncertainty moves out of the hiring, investment thresholds .
+ These simulations are shown for 36 months after the shock to highlight the long-run di¤erences between these e¤ects . This splits out the expectational e¥ects of higher t from the realized volatility e��¥ of higher .
+ The ‘uncertainty e¤ect’is simulated by allowing …rms expectations over t to change after the shock but holds the variance of the actual draw of shocks constant . ‘Unpredictable’
+ This generates a drop and rebound back to levels, but no volatility overshoot . No volatility overshoots in the market . This creates a rebound but no overshoot of volatility .
+ This generates a volatility overshoot, but no initial drop in activity from a pause in hiring . This generates an overshoot of volatility, but there is no drop in hiring from this pause . This creates an initial drop-in-activity from hiring, analysts say .
+ The baseline …gure in the graph is simply the 39 percent . Another way to think about this is the cross-sectional distribution of …rms changes in the medium term .
+ In the longer run this settles back down to its ergodic distribution, bringing the A/L ratio back up to its steady state .
+ Given the costs in hiring this medium-term burst in activity also generates echo e¤ects in future as L settles back down towards its long-run trend . Interestingly, given the …xed costs in . hiring this .xed . costs in hired this medium . burst
+ Uncertainty and volatility have very di¤erent e¤ects on economic activity, says economist . This suggests that uncertainty and volatility are very important to the economy, he says .
+ The response to aggregate capital to the uncertainty shock is similar to labor, economist says . The U.S. economy responds to the shock of uncertainty shock .
+ Uncertainty reduces the shrinkage of low productivity …rms and the expansion of high productivity…rms, reducing the reallocation of resources .
+ This reallocation from low to high productivity units drives the majority of productivity growth in the model so that higher uncertainty has a …rst-order e¤ect on productivity growth . The model is based on the assumption that uncertainty has higher uncertainty .
+ The fall in Total is driven by the fall in the ‘Reallocation’ term . This is clear from the decomposition which shows that the fall is entirely driven by . the fall . in Total . The fall is also driven by a fall in ‘reallocation
+ The ‘Within’ term is constant since, by assumption, the …rst moment of the demand conditions shocks is unchanged . The “Within” term is . constant since . by assumption of the . first moment of . the demand . conditions shocks .
+ Unit-level business conditions is used as proxy for productivity as discussed in section 6.1. In bottom panel unit-level . business conditions are used as proxies for productivity . Unit level productivity is used in the bottom panel .
+ After the shock much less reallocative activity takes place with a substantially lower fraction of expanding productive units and shrinking unproductive units . It can be seen that after the shock, much less . reallocating activity .
+ Since actual U.S. aggregate productivity growth appears to be 70% to 80% driven by reallocation, these uncertainty e�¤ects should play an important role in the real impact of large uncertainty shocks .
+ The initial drop and rebound is because of the initial pause and subsequent catch-up in the level of reallocation across units immediately after the uncertainty-shock . This initial drop is due to the initial catch up in the levels of re-allocation .
+ The medium-run overshoot is again due to the increased level of cross-sectional volatility, which increases the potential for reallocation, leading to higher aggregate medium-term productivity growth . The medium run overshoot was due to increased cross-section volatility .
+ This shows a clear drop, rebound and overshoot, very similar to the behavior of the labor, capital and productivity of the U.S. economy . This is a similar pattern of the decline, rebound, overshoot .
+ Both simulated and actual data show a drop of detrended activity of around 1% to 2% after about three months . A return to trend at around 6 months, and a longer-run gradual overshoot of the trend .
+ Ideally I would set up my model within a General Equilibrium framework, allowing prices to endogenously change . I would then set up a model that would allow prices to change . The model is based on a model of the General Equilibilibary .
+ This could be done, for example, by assuming agents approximate the crosssectional distribution of …rms within the economy using a …nite set of moments, and then using these with these with the random walk nature of the driving process this results in lumpy aggregate productivity growth .
+ Bernard, Redding and Schott’s results on product switching suggests could be substantial . These …gures will in fact underestimate the full contribution of reallocation .
+ Solow productivity defined as aggregate output divided Aggregate Output by the factor share weighted aggregate inputs . Solow Productivity defined as Aggregate output divided by Aggregate Outcome by factor Share weighted aggregate Inputs . Solowed productivity is defined by the size of the inputs and amount of
+ This would involve another loop in the routine to match the labor, capital and output markets between …rms and the consumer, making the program too slow to then loop . However, the program would then loop in to the Simulated Method of Moments estimation routine . It would involve a loop
+ Since the e¤ects of uncertainty are sensitive to the nature of adjustment costs, I opted to take the second option and leave GE analysis to future work . Since that option, I decided to take a second option .
+ This means the results in this model could be compromised by GE e¤ects if factor prices changed su¢ ciently to counteract factor demand changes . The results could also be compromised if factors prices changed to counteract demand changes, GE says .
+ One way to investigate this is to estimate the actual changes in wages, prices and interest rates arising after a stock-market volatility shock, and feed these into the model in an expectations consistent way .
+ If these empirically plausible changes in factor prices radically changed these results this would suggest they are not robust to GE, while if they have only a small impact it is more reassuring on GE robustness . If these factors have only small impact on GE's robustness it would be reassuring on
+ Given the pervasive nature of temporal and cross-sectional aggregation in all …rm and establishment level datasets, using one-factor estimates which also do not correct for aggregation may be problematic, especially for non-convex adjustment costs . Given the sensitivity of the lumpy behavior they imply to
+ Kt is aggregate capital, At is aggregate productivity and N C is non-convex adjustment costs . @ @N C 0 is @ @ N C 0, @ @ @Kt is Kt, @ NC is At, At, productivity and At is productivity .
+ Kahn and Thomas results are sensitive to the choice of parameter values . More recent work by Bachman, Caballero and Engel, however, has shown that the results are more sensitive to parameters .
+ Sim builds a GE model with capital adjustment costs and time varying uncertainty and …nds that the impact of temporary increases in uncertainty on investment is robust to GE e¤ectss. Sim builds the GE model . Sim says the impact on temporary increases of uncertainty is robust .
+ VAR estimation of the impact of a volatility shock on prices . VAR Cholesky orthogonalized impulse response functions estimated on monthly data from July 1963 to July 2005 using 12 lags .
+ Detrended using a Hodrick-Prescott filter with smoothing parameter of 129,600 . Detrending using using Hodrick/Prescott filters .
+ Impact on the Federal Funds rate plotted as a percentage point change . The impact on the CPI and wages plotted as percentage changes .
+ Simulations run on 1000 units . Aggregate output: partial-equilibrium and ‘Pseudo-GE-GE’ Notes: Simulations were made using 1000 units.
+ In the absence of any adjustment costs these interest rate, prices and wages changes do have an extremely large e�¤ectect . In the . absence of . any adjustment . costs, interest rate and wages . changes do not have to be adjusted .
+ The introduction of adjustment costs both dampens and delays the response of the economy to the ‘pseudo-GE’price changes .
+ This makes the economy insensitive to changes in interest rates, prices or wages . This makes it more vulnerable to interest rates or wages changes .
+ The only way to get an impact would be to shift the thresholds back to the original low uncertainty position where the majority units are located . The threshold would be shifted to a new low uncertainty place, which is where most units are .
+ The quantitative impact of these uncertainty shocks is equivalent to something like a 7% higher interest rate and a 25% higher wage rate, so these ‘pseudo-GE’price reductions of 1.1% in interest rates, 0.5% in prices and 0.3
+ Hiring/…ring and investment/disinvestment thresholds begin to move back towards their low uncertainty values . Of course once the level of uncertainty starts to fall back again, the hiring/investment threshold begins to move again .
+ This means they start to move back towards the region in and space where the units are located . This is the first time the units have moved back to the region they are located in .
+ So the economy becomes more sensitive to changes in interest rates, prices and wages . The economy is also sensitive to interest rates and wages changes, says economist .
+ Prices e¤ects are now reduced by the fall in uncertainty . But this is limited by the fact that these prices e�¼ects now reduced . The fall of uncertainty has also reduced the value of these prices .
+ In summary, the rise in uncertainty reduces levels of labor, capital, productivity and output . It also makes the economy temporarily extremely insensitive to changes in factor prices, says economist .
+ For policymakers this is important since it suggests a monetary or …scal response to an uncertainty shock is likely to have almost no impact in the immediate aftermath of a shock . For policymakers, this suggests a . monetary or…scal . response is unlikely to have an immediate impact .
+ As uncertainty falls back down and the economy rebounds, the economy will become more responsive . Any response to policy will occur with a lag, so any response to the policy will be delayed . But as uncertainty eases down and economy recovers, the response will be more responsive.
+ Policymaker trying for example, to cut interest rates to counteract the fall in output after an uncertainty shock would …nd no immediate response, but a delayed response occurring when the economy was already starting to recover .
+ This cautions against using policy levers to respond to the second-moment component of shocks, with policies aimed directly at reducing the underlying increased uncertainty likely to be far more e¤ective .
+ The main character of the second moment shock is unchanged a large drop and rebound . Adding an additional …rst moment shock leaves the main character . character unchanged . adding an additional .
+ Cross-section distribution of units generates a dynamic response to shocks . This is because the cross-section of units is distributed in a dynamic way to respond to shocks, say experts .
+ This rapid drop and rebound in response to a second moment shock is clearly very di¤erent to the persistent drop over several quarters in . response to . a more traditional …rst moment shock .
+ To the extent a large shock is more a second moment phenomenon for example 9/ll the response is likely to involve a rapid drop and rebound, while to the extent it is more of a …rst moment phenomena for example OPEC II it will generate a persistent slowdown .
+ Both the …rst and second moment components will generate an immediate drop in employment, investment and productivity . However, in the immediate aftermath of these shocks distinguishing them will be di¢ cult, as both the…rst . and second . moment components .
+ Of course these …rst and second moment shocks di�¤er both in terms of the moments they impact and also in . terms of their duration, . duration, permanent and temporary respectively .
+ The second moment component of shocks is almost always temporary while the …rst moment component tends to be persistent . The reason is that the second moment . component . of shocks almost always always temporary . While the .rst . moment component tend to be permanent .
+ For completeness a persistent second moment shock would generate a similar e¤ect on investment and employment as a persistent …rst moment shock, but would generate slow-down in productivity growth through the “Reallocation”term rather than a one-time reduction .
+ The temporary/permanent distinction is important for the predicted time pro…le of the impact of the shocks on hiring and investment, and the …rst/second moment distinction is crucial .
+ Larger or smaller shocks yield a proportionally larger or smaller impact, experts say . The U.S. economy has been hit by a series of recent shocks, including large or small shocks .
+ Simulations run on 1000 moment shock units . Simulations use 1000 moment shocks units . Combined first and second moment shocks are combined . Aggregate output is combined with second moment shock only. Simulations are run using only moment shocks .
+ Different adjustment costs and PRL from this specification . “Quadratic” has the adjustment costs from the fixed costs only Aggregate Output ‘Quad’ column in table 3 .
+ This type of event is unsuitable for analysis using my model given the lack of general equilibrium e¤ects . The broad predictions do seem to match up with the evidence .
+ Ohanian and Bresnahan and Ra¤ report “inexplicably” low levels of productivity growth with an “odd” lack of output reallocation over this period . Romer argues uncertainty played an important real-options role in reducing output in
+ As can be seen, the two speci…cations with non-convex adjustment costs generate a distinct drop and rebound in economic activity . As can seen the two .cations generate a drop and a rebound in activity .
+ The rebound with …xed-costs is faster than with partial irreversibilities because of the bunching in hiring and investment, but otherwise they are remarkably similar in size, duration and pro…le.le .
+ The quadratic adjustment cost speci…cation appears to generate no response to an uncertainty shock . It appears to be a response to the uncertainty shock of the uncertainty .
+ The reason is that there is no kink in adjustment costs around zero, so no option values associated with doing nothing . The reason for this is that no kinks in adjusting costs are around zero .
+ In summary, this suggests the predictions are very sensitive to the inclusion of some degree of non-convex adjustment costs, but are much less sensitive to type of these nonconveX adjustment costs . The predictions are less sensitive than to the type of costs associated with these costs .
+ This highlights the importance of the prior step of estimating the size and nature of the underlying labor and capital adjustment costs .
+ The size of this drop and rebound did vary across speci…cations, however, however .
+ Simulations run on 1000 Aggregate Output units . Simulation robustness robustness to different parameter assumptions . Simulation robustness of different parameters assumed .
+ Parameter values are taken from the (de-trended & normalized to 1 on different columns of table 5, as indicated by the labels in table 5 . Parameter value is taken from each column from table 5 to table 5 as indicated .
+ The smaller drop was due to the very high levels of estimated quadratic adjustment costs that were required to smooth the investment and employment series in the absence of cross-sectional aggregation . This smaller drop is due to high levels needed to smooth investments and employment .
+ Of course, the assumption of no cross-sectional aggregation is inconsistent with the aggregation evidence in Appendix A3 and the typical multi-divisional structure of large-…rms.
+ This simulation is presented to highlight the importance of building aggregation into estimation routines when it is also present in the data .
+ This more realistic assumption on 20% annual labor attrition generates a larger drop and rebound in activity . The assumption is based on a 20% rate of attrition, rather than an assumption of 20% .
+ I evaluate the e¤ects of robustness of the simulation predictions to di¤erent durations and sizes of uncertainty shocks . Durations and Sizes of Uncertainty Shocks are also evaluated .
+ It is clear that longer-lived shocks generate larger and more persistent falls in output . Longer-lived shock shocks generate bigger falls in productivity, it is clear .
+ The pause in hiring and investment lasts for longer if the rise in uncertainty is more persistent . The reason is that the pause in jobs and investment will last longer if it is persistent .
+ Of course, because the rise in uncertainty is more persistent the cumulative increase in volatility is also larger so that the medium term ‘volatility-overshoot’is also greater . Of course .
+ More persistent uncertainty shocks generate a larger and more persistent drop, rebound and overshoot in activity . Hence, more persistent uncertainty . shocks generate larger drop and rebound .
+ This is interesting in the context of the Great Depression, a period in which uncertainty rose to 260% of the baseline level for over 4-years . The model would generate an extremely large and persistent drop in output and employment and employment .
+ Three of the three di¤erent sizes of uncertainty shock lead to similar sized drops in activity . Surprisingly, the three levels of shock shock were the same sizes of shock .
+ Real-option values are increasing, but concave, in the level of uncertainty . The reason is that real-option value is increasing, and concave in the uncertainty . 'Real-option' values are now increasing, according to experts .
+ The impact of a 50% rise in uncertainty on the hiring and investment thresholds is about 2/3 of the size of the baseline 100% increase in uncertainty . So the impact of the 50% change in uncertainty is about two/3 times the impact .
+ Even 2/3 of this pauses almost all hiring and investment . The baseline impact is so large that it affects hiring, investment thresholds . Hiring and investment thresholds are so large, the impact is too large .
+ 52 See Dixit and Abel and Eberly for an analytical derivation and discussion . What is di¤erent across the di�¼erent 52 is what it means .
+ In the lower figure the larger and smaller uncertainty shocks have values of σH equal to 150% and 300% of the σL level . sizes of shocks, however, is that larger uncertainty shocks generate a larger medium-term ‘volatility overshoot’
+ Uncertainty appears to dramatically increase after major economic and political shocks like the Cuban Missile crisis, the assassination of JFK, the 9/11 terrorist attacks and the OPEC I oil-price shock .
+ If …rms have non-convex adjustment costs these uncertainty shocks will generate powerful real-option e�¤ects, says author . The uncertainty shocks are driving the dynamics of investment and hiring behavior .
+ The uncertainty component alone generates a 1% drop and rebound in employment and output over the following six months, with a milder long-run overshoot . These shocks appear to have large real e¤ects, with the milder overshoot of the long run .
+ This paper o¤ers a structural framework to analyze these types of uncertainty shocks . Building a model with a time varying second moment of the driving process and a mix of labor and capital adjustment costs .
+ The parameterized model is then used to simulate a large macro uncertainty shock . The shock produces a rapid drop and rebound in output, employment and productivity growth . The model then simulates a large drop in output and employment, employment growth .
+ This is due to the e¤ect of higher uncertainty making …rms temporarily pause their hiring and investment behavior . The e¥ect of . higher uncertainty makes …rills temporarily pause . hiring and . investment behavior temporarily pause, according to the report .
+ In the medium term the increased volatility arising from the uncertainty shock generates a ‘volatility-overshoot’as rms respond to the increased variance of productivity shocks, which drives a medium term overshoot and longer-run return to trend .
+ The simulated response to uncertainty shocks generates a drop, rebound and longer-run overshoot, much the same as their actual empirical impact . The simulated responses generate a drop and rebound .
+ Second moment shock is di¤erent from the typically persistent impact of a …rst moment shock . This temporary impact of second moment shock can be much greater than that of a second shock .
+ While the second moment e¤ect has its biggest drop by month 3 and has rebounded by about month 6 . persistent ... persistent …rst moment shocks generate falls in activity lasting several quarters .
+ For a policy-maker in the immediate aftermath of a shock it is critical to distinguish the relative contributions of the …rst and second moment component of shocks for predicting the future evolution of output .
+ Uncertainty shock also induces a strong insensitivity to other economic stimulus . The uncertainty shock induces insensitivity of other stimulus .
+ At high levels of uncertainty the real-option value of inaction is very high, which makes …rms extremely cautious . At high level of uncertainty, inaction is extremely high, says Rms .
+ As a result the e¤ects of a realistic General Equilibrium type rate, wage and price falls have a very limited short-run eect on reducing the drop and rebound in activity .
+ In the immediate aftermath of an uncertainty shock monetary or …scal policy is likely to be particularly ine¤ective . This raises a second policy implication, that in the immediate . aftermath of . uncertainty shock policy will be particularly beneficial .
+ The Federal Open Markets Committee was discussing the negative impact of uncertainty after 9/11 . A key uncertainty in the outlook for investment spending was the outcome of the ongoing Congressional debate relating to tax incentives for investment in equipment and software, the committee said .
+ Congress’s desire to revive the economy with tax incentives might have been counter-productive due to the increased uncertainty the policy process induced . Hence, in this case, the tax incentives may have been counterproductive .
+ Second-moment shocks can generate short sharp drops and rebounds in output, employment, investment and productivity growth without the need for a …rst-momenter productivity shock .
+ Recessions could potentially be driven by increases in uncertainty, economist says . Recessions are driven by uncertainty, he says .
+ The model links to the volatility and growth literature given the evidence for the primary role of reallocation in productivity growth . Taking a longer run perspective this model also links .
+ The paper jointly estimates non-convex and convex labor and capital adjustment costs . The paper also jointly estimates labor, capital and capital adjustments costs .
+ I …nd substantial …xed costs of hiring/…ring and investment, a large loss from capital resale and some moderate per-worker hiring/..ring costs . I…nd substantial ...xed ...costs of hiring and investment .
+ I …nd no evidence for quadratic investment or hiring/…ring adjustment costs . I…nd there is no evidence that there is a need for quad-atic investment .
+ In this Appendix I describe the contents and construction of these datasets . I also discuss the contents of these dataset .
+ Barndor¤-Nielsen and Shephard suggest two test statistics the linear-jump and ratio-jump test which have the same asymptotic distribution but di¤erent …nite-sample properties . The linear jump and ratio jump test are similar to the
+ Given the evidence for the existence of stock-market volatility jumps, I need to de…ne what these are . De…ning Stock Market Volatility Shocks .
+ Some of these shocks occur in one month only, others span multiple months . There was a choice over the exact allocation of their timing . The timing of the shocks was also a choice .
+ The primary approach is to allocate each event to the month with the largest volatility spike for that event, with an alternative approach to the …rst month in which volatility went more than two standard-deviations above the HP detrended mean . I tried two di¤erent approaches
+ Events can also be categorized in terms of terror, war, oil or economic shocks . The events can be classified as terror or war, war or oil shocks .
+ Third volatility indicator uses only the arguably most exogenous terror, war and oil shocks . Terror, war, oil and terror shocks are used as a third volatility indicator .
+ Some events like the Cuban Missile crisis raise volatility without impacting stock-market levels . Others like Hurricane Katrina generate falls in the stock market without raising volatility . Fortunately, it turns-out these series do move independently .
+ The log detrended stock-market level has a correlation of -0.192 with the main 1/0 volatility shock indicator . A correlation of 0.136 with the oil, terror and war shock indicator is 0.340 with the log-detrended volatility index itself .
+ The impact of stock market volatility can be separately identi…ed from stock-market levels . Thus, the impact of the volatility in the stock market can be compared to that of the financial crisis .
+ The crisis began on October 16, 1962 when U.S. reconnaissance planes discovered Soviet nuclear missile installations on Cuba . The crisis was triggered by the discovery of Soviet missile installations in Cuba .
+ This led to a twelve day stand-o¤ between U.S. President John F Kennedy and Soviet premier Nikita Khrushchev . The stand-off led to the end of a 12-day stand-over between the two countries .
+ The crisis ended on October 28 when the Soviets announced that the installations would be dismantled . The crisis was over for the first time since October 28 .
+ President Kennedy was assassinated in Dallas, Texas, on November 22, 1963, while on a political trip through Texas . President Kennedy died in Dallas on November 25, 1963 .
+ Oswald was fatally shot less than two days later in a Dallas police station by Jack Ruby . Oswald was shot by Ruby in a police station two days after he was killed .
+ U.S. troop numbers rose from 184,000 at the beginning of 1966 to almost 500,000 by the end of the year . United States troop numbers increased to almost 700,000 in 1966 .
+ This military build up caused considerable uncertainty over both the introduction of wage and price controls and the Budgetary implications of the escalating defense expenditure . The military build-up caused uncertainty over the introduction .
+ President Nixon announced on April 30, 1970, that the U.S. had invaded Cambodia . Nixon was elected in 1968 promising to end the Vietnam war . The Vietnam war ended in 1970 .
+ On May 4th, 1970, four students were fatally shot by the Ohio National Guard during anti-war protest . Two more fatal shootings of student demonstrators at Jackson State by Mississippi State Police were also carried out .
+ This generated the largest national strike in U.S. history, and considerable social unrest . The largest strike in United States history, generated a national strike .
+ A coalition of Arab nations attacked Israel on October 6th, 1973, with the war lasting until October 26th . Israel was attacked by Arab nations in the Arab Spring .
+ Arab members of OPEC plus Egypt and Syria stopped shipping petroleum to the U.S. and Europe, and increased the price of Oil four-fold . As a result of this, Arab countries stopped shipping to the United States and Europe .
+ Franklin National bank was declared insolvent in 1974 due to mismanagement and fraud . Franklin National Bank was declared bankrupt in October 1974 . Bank's losses in currency speculation were caused by speculation .
+ It had been purchased in 1972 by Michele Sindona, a banker with close ties to the Italian government . It was bought by the banker in 1972 .
+ Franklin National was the 20th largest bank in the US, and its failure was the largest banking collapse in United States history . At the time the bank was the most successful bank .
+ The Shah of Iran ‡ed the country after the Iranian revolution brought the Ayatollah Khomeini to power . The Shah ruled the country until the revolution ended in 1979 .
+ This severely damaged the Iranian oil sector, allowing OPEC to double oil-prices . OPEC has doubled oil prices since the start of the year . Iran's oil sector was severely damaged by the sanctions .
+ On December 25th 1979 the Soviet Union invaded Afghanistan, generating uncertainty over whether the invasion would continue through into the oil-rich region of Iran .
+ The storming of the American embassy and capture of 66 diplomats and citizens, who were held hostage until January 1981 added to the political uncertainty . 66 diplomats, citizens were captured and held hostage in 1981 .
+ Market volatility appeared to stem from uncertainty over the timing of the recovery from the recession and the ability of the Reagan government to deliver its …scal and supply-side policies .
+ Defense Secretary Robert McNamara has been mum as to how much money he must have next year . So far, Defense Secretary has not said how much he will need to spend .
+ The United States started deploying troops to Saudi Arabia in response to the protests . In response, the U.S. started sending troops to the kingdom .
+ This knife-edge political support generated pre-invasion uncertainty around the U.S. response to the invasion of Iraq . This uncertainty created uncertainty about the United States response to Iraq .
+ On the 14 May 1997 the Thai Baht came under sustained speculative attack, leading to its devaluation . On July 2 1997 the Baht was devalued by the Thai government .
+ This crisis spread across Asia to the Philippines, Malaysia, South Korea, Indonesia, Singapore, Singapore and Hong Kong . This crisis also spread across the region to South Korea and Singapore .
+ Russia defaulted on its Ruble and domestic Dollar debt in August 17, 1998 . The default was caused by the collapse of the Soviet Union in the early 1990s .
+ This caused the Long Term Capital Management hedge fund to default on several billion dollars of …nancial contracts, threatening a major …nantic collapse . The fund defaulted on $1 billion of its contracts .
+ This was followed by a wave of Anthrax letters which killed …ve people, initially also believed to be linked with al-Qaeda . The letters were first thought to have been linked to an al Qaeda link .
+ Enron, a major energy trading …rm, …lled for bankruptcy in December 2001 after admitting to the fabrication of its accounts . Enron admitted to fabricating its accounts in 2001 .
+ WorldCom announced in July 2002 that an internal audit had uncovered approximately $3.3 billion of overstated revenues . WorldCom, a large telecoms …rm, announced in . 2002 that . internal audit found approximately . $3 billion .
+ This was accompanied by a series of other accounting scandals involving major …rms such as Tyco, AOL Time Warner, Bristol-Myers Squibb, Merck and Dynegy, casting doubt over the veracity of the accounts .
+ Congress gave the President Bush the authority to invade Iraq in October 2002 . In October 2002 Congress gave him the authority for the invasion .
+ The United States worked to obtain UN approval for this, but by March 2003 it became clear this was not going to happen . U.S. worked to get UN approval, but it was not .
+ The period running up to this invasion generated substantial stock-market volatility over whether the UN would support the war, and if not whether President Bush would proceed without this support . The period leading up to the invasion of Iraq generated substantial market volatility .
+ Standard deviation of …rm-level pro…ts growth: This is measured on quarterly basis using Compustat Quarterly Accounts . Standard deviation is a measure of standard deviation of pro…t growth growth .
+ Pro…t growth has a close …t to productivity and demand growth in homogeneous revenue functions55 , and is one of the few variables to have been continuously reported in quarterly accounts since the 1960s . Pro… t growth has been closely followed by productivity growth .
+ The growth rates are windsorized at the top and bottom 0.05% growth rates to prevent the series being driven by extreme outliers . Growth rates are windorized in order to prevent outliers from driving the series .
+ The standard deviation is the cross-sectional standard deviation of the monthly stock returns . It is the average share price volatility of the month-to-month stock market .
+ The returns are windsorized at the top and bottom 0.5% growth rates to prevent the series being driven by extreme outliers .
+ Consider, for example, a Cobb-Douglas revenue function, AK L , where A is productivity term, K is capital, and L is labor . The cross-sectional spread is de… and the cross-section spread is a result of the function . It is a function that
+ K and L are totally …xed. Alternatively consider the situation in which K and K are totally…xed .
+ Of p, w and r will also “uctuate somewhat over time, but to the extent these ‡uctuations are common to all …rms, this will not e¤ect the cross-sectional standard-deviation of pro…ts growth .
+ I also include a time-trend in column to directly control for this and focus on short-run movements . 36 is the standard deviation of the 5-factor TFP growth rates taken across all SIC 4-digit manufacturing industries .
+ This is measured on a half-yearly basis using the Philadelphia Fed Bank’s Livingstone survey of professional forecasters .
+ It is de…ned as the cross-sectional standard deviation of the one-year ahead GDP forecasts normalized by the mean of the ones . The standard deviation is the one year ahead GDP forecast . It is normalized as the standard deviation .
+ Only half-years with 50+ forecasts are used to ensure su¢ cient sample size for the calculations . The calculations were made using half-year-year forecasts with 50-plus forecasts .
+ This series is linearly detrended across the sample to remove a long-run downward drift of forecaster variance .
+ The VAR estimations are run using monthly data from July 1962 to July 2005 . VAR data is run from 1962 to 2005 . It is based on monthly data .
+ The full set of VAR variables in the estimation are log industrial production in manufacturing (Federal Reserve Board of Governors, seasonally adjusted), employment in manufacturing, average hours in manufacturing , log consumer price index (all urban consumers) and log of the S&P500 stock market index .
+ As can be seen each one of these shock measures generates a rapid drop and rebound in the predicted industrial production .
+ The VAR is re-estimated using a simple bivariate VAR with industrial production and the volatility indicator only . The volatility indicator also displays a drop and rebound .
+ Industrial production response to volatility shock appears robust to both the basic selection and ordering of variables . The response of industrial production to a volatility shock is robust, according to analysts .
+ I also conducted a range of other experiments, such as adding controls for the oil price , and found the results to be robust . The results were robust .
+ Appendix describes some of the key steps in the numerical techniques used to solve the …rm’s maximization problem . Numerical Solution Method .
+ This value function solution procedure is used in two parts of the paper . It is used to solve problems of value function solutions . The solution procedure was used in the first part of this paper .
+ The Simulated Method of Moments estimation of the unknown adjustment cost parameters . The value function is repeatedly solved for a variety of parameters, the data simulated .
+ The second is in the simulation where the value function is solved just once using the estimated parameters choices and then used to simulate a panel of 1000 units, repeated 25,000 times . The value function was solved once, then used for the simulation .
+ The numerical contraction mapping procedure used to solve the value function in both cases is the same . In both cases, the solution to the same problem is found .
+ Given the log-linear structure of demand process I use a grid of points in ; log; ; ) space . The grid is based on a grid in log-log space .
+ In the log and log dimensions this is equidistantly spaced, and in the and . spacing this is determined by the estimated parameters . In the . log and . log dimensions, the . dimensions are equalised and spaced .
+ The solution is substantially simpli…ed if the values of K and L are equal, so that depreciation leaves the log dimension unchanged . This equivalency between the grid spaces in the log and log dimensions means that the solution .
+ When K and L are unequal the di¤erence between them needs to be an integer of the grid spacing . The di¼erence between L and K is the size of a grid with a grid .
+ The uncertainty e¤ect on the drift rate is second-order compared its real-options e¥ect . The simulations are virtually unchanged if this correction is omitted . The uncertainty on drift rates is second order compared to real options .
+ The qualitative nature of the simulation results were robust to moderate changes in the number of points in the state space partition . Hence, the qualitative nature .
+ The is straightforward for most of the grid but towards the edge, due to the random walk nature of the demand process . This requires taking expectations of the value function o¤ the edge of the state space into account .
+ To address this an extrapolation procedure is used to approximate the value function o¤ the edge of the state space . The extrapolation process is used in this case .
+ Under partialirreversibilities and/or …xed-costs the value function is log linear outside the zone of inaction . So long as the state space is de…ned to include the region of inaction, this approximation is exact .
+ Under quadratic adjustment costs, the value function is concave so a log-linear approach is only approximately correct . The value function, however, is concaved so the log- linear approach is correct .
+ With a su¢ ciently large state space, however, the probability of being at a point o¤ the edge of the state space is very low so any approximation error will have little impact . The probability of reaching an edge of a state space in such an area is very
+ I used the solution for the value function without any adjustment costs, which can be easily derived from the solution . The solution is based on the values function without adjustment costs .
+ In the SMM estimation routine I initially tried using the last solution in the next iteration, but found this could generate instability in the estimations loop . The SMM estimation routine is based on SMM's estimation routine .
+ The speed of value function iteration depends on the modulus of contraction, which with a monthly frequency and a 6.5% annual discount rate is relatively slow . With the monthly frequency of contraction and annual discount rates, the speed of the value function iterations is slow .
+ Value functions typically converge more slowly than policy function rules associated with them, Krusell and Smith note . In practice, value functions converge more quickly than policy functions associated with these functions .
+ It is generally more e¢ cient to stop the iterations when the policy functions have converged even if the value function has not yet fully converged . The policy function is more important to stop iterations when it is converging .
+ This is run for 30 years, with the …rst 10 years discarded to eliminate the e¤ects of any assumptions on initial conditions . The first 10 years of the 30 years will be discarded . The e¥ects are run for the first 30 years to eliminate
+ I run simulations 25 times to try to average out over the impact of any individual macro shocks . I run this simulation 25 times. I run it 25 times .
+ I use a simulated-annealing algorithm for minimizing the criterion function in the estimation step in equation 5.1.1 . I use the algorithm to minimize the criteria function . The criterion function is the result of the algorithm .
+ For the third guess onwards it takes the best prior guess and randomizes from this to generate a new set of parameter guesses . For the first guess onwards, the best guess is based on this prior guess .
+ It takes the best-…t parameters and randomly ‘jumps’o¤ from this point for its next guess . That is, of course, to guess what it would like to guess .
+ Over time the algorithm ‘cools’, so that the variance of the parameter jumps falls, allowing the estimator to …ne-tune its parameter estimates around the global best-…t.t. The algorithm 'cools' to ‘nudge’
+ I restarted the program with di¤erent initial conditions to ensure the estimator converges to the global minimum . I restart the program .
+ The simulated annealing algorithm is extremely slow, which is an issue since it restricts the size of the parameter space which can be estimated . The simulated algorithms are extremely slow and can't be easily estimated .
+ I use this because it is robust to the presence of local-minima and discontinuities in the criterion function across the parameter space . Nevertheless, I use it because it's robust .
+ I generate numerical derivatives of the simulation moments with respect to the parameters and weight these using the optimal weighting matrix . Numerical Standard Errors generate the standard errors for the parameter point estimates .
+ This is a common problem with calculating numerical derivatives using simulated data with underlying discontinuities, arising for example from grid point de…ned value functions . The problem is common with calculations of numerical derivatives .
+ To address this I calculate four values of the numerical derivative for an of +1, +2.5%, +5% and -1% of the ‘mid-point’ of the parameter space6060 .
+ This helps to ensure that the numerical derivative is robust to outliers arising from any discontinuities in the criterion function . The numerical derivative has a robust to outliving outliers . This helps ensure that it's robust to include outliers in the criteria function .
+ In top panel variables are log industrial production, log employment, hours, log wages, log CPI, CPI, federal funds rate, volatility shock indicator and log S&P500 levels . The panel also includes log employment and hours hours .
+ In the bottom panel the standard volatility indicator is used but the variable sets and ordering are different as noted as noted . The volatility indicator was used in the bottom of the panel .
+ All data detrended using a Hodrick-Prescott filter with smoothing parameters noted above next to each series . All data used in this analysis is shown to be detrending .
+ Variables are log industrial production, log employment, hours, log wages, log CPI, CPI, federal funds rate, baseline volatility shock indicator and log S&P500 levels . Variables include log production, employment and hours .
+ Simulation with a stationary autoregressive demand process Aggregate Output . Simulations run on 1000 units. Simulations are simulated using a stationary Autoregressive Demand process .
+ Adjustment costs for (de-trended & normalized to 1 on capital) are taken from the “All” values in table 3 . Adjustment cost is taken from ‘All’ values in the table 3.5 .
+ Simulations run on 1000 units . Aggregate capital drops, rebounds and overshoots . Simulations are based on data collected during the run .
+ This is repeated 25,000 times Aggregate Kt with the average plotted here . The average is shown to be the size of the average of the data collected .
+ Adjustment costs are taken from the (de-trended & normalized to 1 ‘All’ values in table 3. ‘Adjustment costs’ are taken to look at the (‘All) values in Table 3 .
+ The aggregate figures for Kt are calculated by summing up across all on pre-shock date) units within the simulation . Kt is calculated using summing-up across all (pre-shock) units in simulation .
+ Simulation run on 1000 units . Impact of ‘Pseudo-GE’ price changes without adjustment costs . Aggregate Variables .
+ The simulation is ‘Pseudo-GE’, so interest rates, prices and wages are pre-shock date . It is 1.1% points, 0.5% and 0.3% lower during periods of uncertainty .
+ BACHMAN, R. CABALLERO, R and ENGEL, E. “Lumpy Investment in Dynamic General Equilibrium”, NBER WP 12336 .
+ Econometrics of testing for jumps in …nancial economics using bipower variation’s bipower variations .
+ The NBER Productivity Database is available on the web .
+ BERNARD, A., REDDING, S and SCHOTT, P , “Multi-product …rms and product switching”, NBER WP 12293, is a paper on the topic .
+ Study of Uncertain Business Cycles is published on Stanford mimeo .
+ Journal of Economics: Measuring and Explaining Management Practices across Firms and Countries .
+ BOND, S and VAN REENEN, J , “Microeconometric models of investment and employment”, forthcoming Handbook of Econometrics. “Investment and employment models’.”.
+ Journal of Political Economy, 113, 1-45. “Nominal rigidities and the dynamic e¤ects of a shock to monetary policy”, Journal of political Economy .
+ New Data Sources and Micro-Macro Links’, forthcoming Journal of Economic Perspectives.’s forthcoming article, ‘Micro-Macros’ and ‘micro-links’.
+ DIXIT, A . The Art of Smooth Pasting, Fundamentals of Pure and Applied Economics, Harwood Academic Publishers, Switzerland .
+ Journal of Economic Dynamics and Control, 20, 1115-1143. “Variations in risk and ‡uctuations in demand a theoretical model”. ‘Risks in demand’ is a theoretical theory .
+ JUDD, K , Numerical Methods in Economics, MIT Press, Cambridge, Massachusetts. JUDd, K .
+ The Handbook of Macroeconomics, John Taylor and Michael Woodford, Elsevier, North-Holland .
+ American Economic Review: “Labor and the Market Value of the Firm’s Firm”, forthcoming .
+ American Economic Review, 85, 1138-1151. Ramey, G and RAMEY, V, “Cross-country evidence on the link between volatility and growth” .
+ RAMEY, V and SHAPIRO, M, “Displaced Capital”, Journal of Political Economy, 605622 .

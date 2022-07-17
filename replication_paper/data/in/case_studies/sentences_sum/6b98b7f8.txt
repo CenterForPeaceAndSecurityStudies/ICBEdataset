@@ -1,0 +1,19 @@
+ For other uses of this article, including electronic redistribution, please contact us. For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details .
+ January 2001 Features Game theory and the Cuban missile crisis by Steven J Brams Theory of Moves .
+ Game theory and the Cuban missile crisis is not well modelled by this game . While ostensibly a game of Chicken, the Cuban crisis is in fact not well modeled .
+ Players can only rank outcomes but not attach numerical values to them . The games that will be analyzed may not always exist . They may not be available for analysis .
+ The Cuban missile crisis was precipitated by a Soviet attempt in October 1962 to install medium−range and intermediate−range nuclear−armed ballistic missiles in Cuba that were capable of hitting a large portion of the United States . Classical Game Theory and the Missile Crisis 2 Game theory and the Cuban missile
+ Nikita Khrushchev of the Soviet Union extracted from President Kennedy a promise not to invade Cuba . Classical Game Theory and the Missile Crisis 3 Game theory and the Cuban missile crisis seem to indicate that the eventual outcome was a compromise .
+ The U.S. blockades Cuba and the S.U. withdraws its missiles, the U.K. pulls out its own missiles . The S. and Cuba are at odds over what happens .
+ If the United States were to defect by changing its strategy to airstrike, play would move to , improving the payoff the U.S. received . If the S.U. were to change its strategy by changing strategy to maintenance, play moved to , giving the S.-U. a
+ If the Soviets maintained their missiles, the U.S. preferred an air strike to the blockade . The United States would have preferred a strike to a blockade .
+ Theory of Moves and the Missile Crisis 5 Game theory and the Cuban missile crisis are consistent with Alternative, since the United States prefers to but not to in Chicken .
+ Theory of Moves 6 Game theory and the Cuban missile crisis countermoves to these moves, counter−countermoves, and so on . TOM extends strategic analysis of conflict into the more distant future .
+ A player will not move from an initial state if this moves leads to a less preferred outcome, or returns play to the initial state, making this state the outcome . A player cannot move from a state to a more preferred outcome .
+ Rule l differs drastically from the corresponding rule of play in standard game theory, in which players simultaneously choose strategies in a matrix game that determines its outcome . Rules of Play 7 Game theory and the Cuban missile crisis .
+ If they do not remain, they still know what payoffs they would have collected had they stayed, they can make a rational calculation of the advantages of staying or moving . If you do not stay, you can make rational calculation .
+ U.S. prefers to the survivor at − namely, − the answer to no. Because United States prefers to survivor at least, the answer is no. No.
+ This, of course, is exactly what happened in the crisis, with the threat of further escalation by the United States, including the forced surfacing of Soviet submarines as well as an air strike . The U.S. Air Force estimated it had a 90 percent chance of eliminating all the
+ Like any scientific theory, TOM's calculations may not take into account the empirical realities of a situation . Applying TOM may not be the same thing as a scientific theory . TOM is a tool that can be applied to a situation in order to solve problems .
+ In the second backward-induction calculation, it is hard to imagine a move by the Soviet Union from state 3 to state 4, involving maintenance of missiles after their withdrawal and an air strike .
+ Plus is part of the family of activities in the Millennium Mathematics Project, which also includes the NRICH and MOTIVATE sites .

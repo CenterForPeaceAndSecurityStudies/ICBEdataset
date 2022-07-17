@@ -1,0 +1,263 @@
+Putin and the Annexation of Crimea TUOMAS FORSBERG and CHRISTER PURSIAINEN This article contributes to the growing scholarly literature endeavouring to explain Russia’s annexation of the Crimean Peninsula in 2014.
+While much of the debate relies on the grand theories of International Relations such as realism, liberalism or constructivism, this article approaches the puzzle from a psychological point of view and discusses several middle-range theories within this genre.
+These theories are examined sympathetically but critically, spelling out the added value they might have in elucidating Russian foreign policy, while also considering the methodological limitations in producing plausible explanations.
+Moreover, the article strives to overcome the traditional juxtaposition between the idea of rationality as a standard account of agency, and various psychological interpretations.
+Obvious methodological problems notwithstanding, the article concludes that cognitive and psychological features—such as the possibility of groupthink, assessment of prospects, operational codes and belief systems, personality characteristics and emotions—can be applied to the Russian case and they can all explain Russia’s higher willingness to take risks in the context of the Ukrainian crisis.
+In that way, they can provide us with partial explanations, and indeed are important elements of our understanding of Russian foreign policy in general and the Crimean case in particular.
+Introduction Russia’s intervention in and subsequent annexation of the Crimean Peninsula in 2014, and the ensuing developments in Ukraine and Russia–West relations, provides a contemporary challenge not only for policy-making but also for the foreign policy scholarly community.
+Typically, many familiar explanations draw on mainstream International Relations grand theories—realism, liberalism and constructivism—and are in one way or another rooted in the wider context of Russia–West relations.
+The Causes of Russia’s Near Abroad Assertion Revisited”, International Studies Review , early view, doi:10.1093/isr/viw009.
+However, such explanations are difﬁcult to present with any certainty due to the lack of transparency in Russian decisionmaking.
+The paradox is that the less we have access to the actual decisionmaking process, the more important the psychological dimension might be, at least potentially.
+While Russia’s behaviour in the Ukrainian crisis surprised the policy community, it is also clear that an overwhelming majority of scholars of international relations and Russian politics, irrespective of their theoretical orientation, failed in their forecasts.
+The fact that all IR schools failed to anticipate Russia’s behaviour but still provide the most well-known explanations of the case reminds us that concepts such as national interest or identity are so vague that one can always use them to retrospectively explain an event that was regarded as unlikely beforehand on the basis of the very same concepts.
+Indeed, there is already a plethora of scholarly explanations reﬂecting the common theoretical approaches to Russian foreign policy that account for Russia’s policy in the Ukraine conﬂict and the decision to annex Crimea.
+Perhaps the most famous is John Mearsheimer’s offensive structural realism.
+He argues that Russia’s actions in Ukraine should be seen as a self-evident reaction to the external context, that is, to the West’s aggressive grand strategy, which exploits colour revolutions in Russia’s neighbourhood as one of the weapons in the struggle for power.
+Russia’s primary objective is to keep Ukraine out of foreign military alliances and geopolitical blocs.
+A more formalistic approach towards describing this strategic interaction has been presented by Richard Ericson and Lester Zeager in pure game-theoretic terms, using the socalled theory of moves.
+The idea is to derive the equilibrium, or ultimate outcome under various assumptions about Western and Russian preferences 2.
+The example shows that sophisticated models of different scenarios can be developed on the basis of rational choice, but ultimately such models also face the challenge of empirical data in terms of explanation.
+Michael McFaul, representing the liberal school of thought, claims in turn that the reasons for Russia’s behaviour lie in Russia’s domestic politics; Putin reacted to the homegrown threat of a colour revolution and created an external crisis to make it possible to enhance the domestic pressure against the opposition and to rally the nation around the ﬂag.
+Robert Legvold, whose thinking can be associated with the constructivist school, argues that the Cold War’s lesson for contemporary Russia and the United States is that it is the interaction between the two sides, rather than the actions of only one side, that creates the spiral in tensions.
+Ted Hopf has argued how partly because of external interaction, Russian national identity discourses changed so that the annexation of Crimea became both thinkable and natural by 2014.10 A more internal identity dimension is what some analysts see as the Russian use of “bio-politics”, that is, claiming to defend the interests of “compatriots” in the “Russian world”.11 These theories are not necessarily in direct competition with each other.
+Andrei Tsygankov, for example, suggests that both interests and values explain Russia’s behaviour in the Ukrainian crisis.
+Roy Allison combines the above explanations, considering that one has to understand the geopolitics, identity and domestic political inﬂuences in order to explain Russia’s conduct in this case.
+Elias Götz also concludes his survey of theories attempting to explain Russia’s assertive policy in the “near abroad” by warning against mono-causal approaches and stating that future research should develop different synthetic explanations.
+We will contribute to this debate by advancing a set of psychological approaches.
+This should not be seen as a case for mono-causal explanations but as an attempt to construct theoretically sustained psychological explanations, to assess them against the background of available evidence and to discuss their limitations.
+Psychological theories have always been part of the tradition of Soviet/Russian foreign policy research, but paradoxically in the present context these theories have remained marginal and underdeveloped.
+Yet the need is evident in light of the remarkable surge in literature focusing on Putin as a person (and it would be a small wonder if this were not the case, given that Putin was named by Forbes as the most powerful man in the world in 2016).17 Although we should not exaggerate the psychological perspective, let alone make it pre-eminent, we need to account for the psychological aspects of agency.
+Our attitude towards these approaches is sympathetic but critical at the same time.
+This new semi-academic branch of “Putinology”, reminiscent of the old “Kremlinological” tradition in that much of it is based on the art of second-guessing the inner dynamics of an opaque system, cannot be entirely dismissed but it has not evolved in a cumulative and integrative manner with the aim of theory building or development.
+Such theories exist, however, and could be utilised more systematically.
+Unlike IR grand theories, psychological approaches can be located within the middle-range theorising typical of FPA; they are partly but not entirely individual-level explanations focusing on a single decision-maker since they can point to both general situational psychological tendencies as well as group-level psychological dynamics.
+These approaches rarely claim to offer all-encompassing, comprehensive or sufﬁcient explanations for any decision, but, as we argue, they can provide partial explanations that are nevertheless crucial for understanding foreign policy decision-making in cases such as Russia’s intervention in Crimea.
+We will home in on these approaches in order to examine how they could contribute to the explanation of Russia’s decision-making and behaviour in the context of the Ukrainian crisis of 2014.
+In so doing, we will also draw a historical-theoretical picture, and review how these approaches have previously been applied to the study of Russian foreign policy in particular.
+We are most willing to admit that the empirical evidence related to psychological theories is often speculative and we may never ﬁnd any “ﬁnal proof”, but attempts to apply them can perhaps better be seen as “hoop tests” that make one theory plausible while not excluding others.
+Our argument, however, is that obvious methodological problems notwithstanding, psychological approaches—such as groupthink, prospect theory, operational code, personality characteristics and emotions—will not only complement but are indeed necessary elements of any in-depth discussion and understanding of Russian foreign policy in general and the Crimean case in particular.
+While these approaches are sometimes seen as demonising Putin, in essence they do exactly the opposite when treating Putin and other Russian leaders as human persons potentially following general behavioural patterns in decision-making.
+Beyond the Juxtaposition of Rationality and Psychology The question of whether Putin is acting rationally or not has been posed in the context of the crisis in Ukraine.
+Russia already had immense inﬂuence on the peninsula, but without the need to subsidise it, as Ukraine had.
+Such a question—rational or not—often assumes that we can juxtapose rationality and psychology, but this is often impossible.
+A strict methodological deﬁnition of rationality—as proposed by positivist science—is that a theory should not treat persons as individuals with their own psychology and preferences, but rather it seeks to turn individual behaviour into that conducted by anybody in a similar situation.
+Mainstream political realism has turned this into a normative claim that the pursuit of national interest, deﬁned as power, should guide the foreign policy of a state if it desires to be successful and survive.
+The mere notion of instrumental rationality, however, does not predict anything about what an actor should want in a choice situation.
+Rationality is merely understood as a process of gathering sufﬁcient information about costs and beneﬁts and then choosing the option more likely to lead to a better outcome, according to the pre-existing desires among 21.
+Bounded rationality, in turn, is already a step towards taking into account psychological factors, as it emphasises the improbability of optimal choice in most cases.
+Thus, the decision-maker stops considering alternatives when he thinks he has found a satisfactory solution, even if it were not the optimal.
+There are basically three ways to understand the relationship between rationality and psychology with regard to decision-making.
+In this understanding, there is also an implicit or explicit normative juxtaposition between a rational decision-maker and someone whose decisionmaking is seemingly negatively affected by psychological attributes, such as stress, ideological prejudices or emotions.
+The second approach regards the degree of rationality vs. psychology as some kind of continuum.
+Indeed, psychological theories dealing with decision-making vary in how much they overlap with instrumental or bounded rationality.
+While human beings strive mostly for some kind of rationality in their actions, psychological approaches discuss the limits of rationality and reveal some features in human behaviour which, from a very strict rational choice approach, may appear as anomalies.
+The point of psychological approaches, therefore, is that they normalise these anomalies.
+A third, and more recent approach assumes that it is more fruitful to understand rationality as a part of human psychology, rather than seeing rationality and psychology as opposite components.
+Psychological and, above all, neurological research has made great strides in recent years in understanding the importance of emotions, particularly during decision-making.
+In this latest research, what is noteworthy is the realisation that emotions are not necessarily the opposite of rationality, arising as impulses in the mind only in extreme situations.
+Rather, emotions are essential to human rationality and are always present in decision-making, since rational information processing and emotion in the human brain are physically and functionally much more closely integrated than previously thought.
+At the same time, however, they form a toolbox of useful theoretical perspectives, relying on group dynamics, personal characteristics and situational factors that are typically omitted in the IR grand theories.
+Groupthink has long featured among the most-cited psychological theories in foreign policy analysis.
+Irving L Janis presented the concept to explain why a small group of decision-makers, no matter how astute, can reach not only suboptimal but clearly irrational decisions on the most important issues.
+One of his case studies was the disastrous Korean war, in the context of which American foreign policy decision-making was characterised by an almost naive harmony, mutual admiration and ﬂattery.
+According to the theory, the reason for false decisions may be that, in certain circumstances, the decision-makers do not strive for the best solution but for a consensus decision, whereby they omit even clear facts and do not allow any contradictory information and opinions to interfere with the group dynamics.
+It is interesting to consider Russia’s decision-making in the Crimean question from this perspective.
+Only later was the decision communicated to the Security Council and the Foreign Ministry.
+This information, from corridor sources of “ofﬁcials and analysts”, was subsequently circulated in other analyses and became the more or less accepted version of events.
+Putin’s own statements in a Russian TV documentary at the beginning of 2015, now widely available in social media, to some extent conﬁrm this account.
+According to Putin, however, the decision was made during the night between 22 and 23 February.
+In this interview, Putin frames the decision as being related to planning the rescue of the deposed Ukrainian president, Viktor Yanukovych, but it is not quite clear how this actually made the Crimean intervention necessary.
+Furthermore, he recollects that besides himself there were four colleagues in the meeting.
+Putin does not reveal the names of those four colleagues, but it is probable that they included the three mentioned above and Defence Minister Sergey Shoygu, who was allegedly present.
+In any case, Putin states that he himself took the initiative and ordered his colleagues to prepare the takeover of Crimea.
+There is also some evidence that the idea of annexing Crimea would have been expressed one or two weeks earlier in February 2014 by a powerful business group, in a memorandum presented to Putin.
+Others have remarked that the idea was seriously considered in the Kremlin as early as December 2013.
+The question would have been raised by the chairman of the Crimean Parliament, Dmitry Konstantinov, when he visited Moscow and met with Patrushev, who was positively surprised.
+Moreover, the possibility of annexing Crimea had allegedly been discussed as a principal option in the Kremlin back in 2008.36 Nevertheless, the wider narratives of Russia’s foreign policy formulation point to the concentration of power and the diminishing role of outside inﬂuence.
+As a consequence, “sober technocrats such as Foreign Minister Sergei Lavrov and Defence Minister Sergei Shoygu played a seemingly marginal role in the decision-making over Crimea and were expected simply to execute the orders from the top”.37 Although it has been claimed that Shoygu was hesitant with regard to the military intervention in Ukraine, he did not voice his arguments forcefully.
+If these views are correct, we can conclude that the decision-making unit consisted of like-minded “hawks” belonging to the “siloviks”, whereas all those usually regarded as representing a more “liberal” wing were missing.
+The group was obviously controlled by a strong leader, but all the elements conducive to groupthink emerging were present.
+According to the groupthink theory, such a constellation of the decision-making unit, with very little space for an open and rational search for alternatives, creates a tendency to inﬂuence the decisionmaking towards increased risk-taking.
+It also seems that the consequences of the decisions were not considered in detail, as one might expect from a rational decision-maker.
+The level of our competence is not enough to answer this question, and we don’t know what information is possessed by the of our country.
+I know the president and I can say that he does not make decisions lightly.
+But, in fairness, it was also unexpected for all of us”.40 While we cannot know for sure the extent to which groupthink played a role in the decision-making regarding the annexation of Crimea, it is clear that alternative explanations underpinned by realism, liberalism or constructivism are neither more informed nor more rooted in any “hard evidence” of the actual nature of the decision-making.
+It is not beyond the realms of possibility that a future study on political history might advance more such features of the decision-making situation that will retrospectively support the groupthink argument, but in order for that to happen, it is important that the theoretical plausibility of groupthink be presented ﬁrst.
+Another psychological theory that might explain the Kremlin’s propensity to take risks in the Ukraine conﬂict is prospect theory.
+The theory was developed by Daniel Kahneman and Amos Tversky in the 1970s, when they investigated why the behaviour of people so often differs from what would be expected to be rational.
+Prospect theory claims that people are generally risk-averse in choices involving gains and more likely to be risk-seekers in choices involving losses.
+As many choice situations can be framed in terms of both gains and losses, this notion challenges the fundamentals of rationality; instead of choosing on the basis of the outcome’s utility value, the way the choice’s starting point is framed affects the preference order.
+In international relations, prospect theory has been used to explain why politicians are sometimes ready to take overwhelming risks against the odds.
+While Russian foreign policy in the Ukraine crisis has not been analysed in academic articles in terms of prospect theory, it has been used in jounalistic accounts.
+The argument is that Putin had interpreted the political developments in Ukraine in early 2014 as a loss of the preferred status quo.
+In other words, it was actually weakness, not strength, that led Russia to invade Crimea.
+While prospect theory is usually situated within psychological approaches, a speciﬁc feature of this approach is that it does not differentiate between individuals but anticipates on the basis of average behaviour, at least in repeated or large n contexts, based on a different rationality that pure rational choice based on utility values would suggest.
+It has been found that prospect theory generally holds across different cultures, although there are some signiﬁcant exceptions.
+However, the theory does not contain any clear statement about how the framing exactly happens, that is, what the reference point is for gains and losses.
+The theory, in this sense, has problems similar to those in rational choice theory.
+In retrospect, one can deﬁne the reference point from the choices, but not independently from the materialised action.
+However, combined with prevailing deﬁnitions of Russia’s national interest or identity, or individual decision-makers’ belief system, one might make a fair estimation of the reference points of Russian foreign policy, and then draw a conclusion about Russia’s risk-taking behaviour.
+This type of tailored approach would consequently individualise or contextualise the otherwise general notion of prospect theory for a certain foreign policy situation and actor.
+Yet it seems rather commonplace to argue that Ukraine’s tightening relationship with the EU in the form of the Association Agreement was framed as a loss, while Ukraine’s entry to the Eurasian Economic Union was framed more as a gain.
+Therefore, the Euromaidan and the revolution in Ukraine were threatening Putin’s previous accomplishments.
+Indeed, in the context of invading Crimea, and particularly with regard to starting the operation in Eastern Ukraine, President Putin appears as a risk-taker.
+The readiness to take risks at the beginning of the crisis could be explained by his fear of a loss, while the growing risk-averseness in the course of the crisis would be caused, following the logic of prospect theory, by his willingness to defend his initial victories, that is, the annexation of Crimea and the ability to control the future of Ukraine through proxies in Donbas.
+Any risk-taking could easily transform these victories into major defeats, both domestically and internationally.
+As already noted, psychological approaches suffer from a serious methodological setback—similar to the bureaucratic politics approach—in that it is very difﬁcult to obtain any direct evidence about the psychological reasoning or subconscious motivation of a decision-maker.
+However, approaches such as belief systems, worldviews, cognitive maps and so forth have resolved this problem by resorting to public speeches and other similar available data, which can then become an 44.
+Before constructivism, these approaches were indeed considered rather progressive as they were apt to challenge the more traditional realist approaches by adding an ideational dimension to the analysis.
+The study of belief systems in particular became a rather popular trend in the study of Soviet foreign policy, as part of the older “ideological school”.46 One application of this trend is the study of operational codes, which might also be considered “more psychological” than research on belief systems or ideology as it focuses on the worldviews of individuals or small groups.
+The concept was coined by Nathan Leites in the 1950s when he studied the operational code of the Bolsheviks, especially that of Lenin and Stalin.
+He concluded that this code included such political maxims as pushing to the limits; engaging in pursuit of an opponent who begins to retreat or make concessions, but knowing when to stop; acting when ready; refusing to be provoked; and agreeing to temporary concessions while always keeping the basic conﬂict and the ultimate victory in mind.
+In a sense, the notions or rules are as much about the Russian character as they are about the Bolshevik character, because in addition to references to Bolshevik texts, Leites also used examples from classical Russian literature.
+Leites believed that in many cases it was only in Russian literature that one could ﬁnd “a clear and vivid description of the feelings and the moral sentiments which are opposed, or continued, in Bolshevik beliefs”.48 For the most part, the Bolsheviks, Leites claims, consciously tried to avoid typically irrational or harmful Russian behaviour.
+For instance, it is stated that the Bolshevik operational code denies—in opposition to the traditional Russian intelligentsia’s tendency to stress sincerity— the idea that the truth should be observed in public statements; instead, any communication should be orientated on the basis of impact only.
+A real Bolshevik must also, unlike Russians typically do, “avoid the servitude and annihilation which follows from a lack of control over his feelings.
+He must be able to interfere with, release, and simulate emotions”.50 Leites’ sophisticated approach is difﬁcult to replicate or apply to other countries and political leaders.
+It is partly for this reason that it was largely “neglected”, as Alexander George put it, when he attempted to popularise the approach.
+George’s major contribution was his development of the operational code 45.
+There is at least one attempt to uncover Putin’s operational code, namely Stephen Dyson’s analysis written immediately after Putin took up ofﬁce as president in 2000.52 While not applying any sophisticated quantitative methodology, Dyson followed George’s original methodology rather literally, using as sources of evidence Putin’s personal history, his revealing interview-autobiography from 2000, the KGB’s ofﬁcial manual, which Putin is supposed to have internalised, as well as his speeches, writings and deeds, especially in connection with the war in Chechnya.
+On this basis, Dyson concludes that Putin’s behaviour is characterised by a belief in reciprocity in following norms and rules, and that he is inclined to believe in the possibility of harmonious political life.
+However, if he feels that others are not following the jointly agreed-upon norms and rules, he is ready to ruthlessly strike back in retaliation.
+On the other hand, Putin is not willing to adapt to norms that provide no way out, and which serve to limit his freedom.
+He is inclined to choose political goals that are both achievable and measurable, and he works in a step-by-step fashion.
+All in all, Putin’s world is that of both norms and anarchy, allowing both predictable and risky behaviour.
+Dyson concluded that “Putin is unlikely to make rash, impulsive or emotional gestures that interfere with the rationality of political exchange”, but he warned that “a breakdown in cooperation will likely be bitter and long-lived”.53 Looking at Dyson’s 2001 analysis 15 years later, it seems to capture the essence of Putin’s worldview, as expressed perhaps most clearly in his October 2014 Valdai speech.
+As Allison has pointed out, Russia also explains its action in the Crimean case by referring to legal frameworks and language.
+On the other hand, contemporary Russia continues the tradition of couching its basic foreign and security policy line in very rational language and in the form of formal strategies, such as the December 2014 updated version of Russia’s military doctrine.
+As such, the operational code type of approach does not offer any explanations as to individual decision-making situations, such as the annexation of Crimea, but rather helps in understanding Putin’s speciﬁc rationality.
+While political leaders’ operational codes can be reconstructed from public sources, and something about their expected actions and reactions in different situations can be inferred on that basis, it was originally assumed that operational codes had already been developed in childhood or early adulthood and rarely changed much in later phases of life.
+This assumption, however, has been challenged by the new wave of studies in operational codes that started in the late 1990s.
+Based on George’s original two sets of questions, but now enhanced with rather sophisticated data treatment software, this research has analysed huge quantities of 52.
+Taken together, the evidence thus acquired shows that the operational codes of such political ﬁgures as Lyndon B Johnson,56 Jimmy Carter,57 Bill Clinton,58 George W Bush,59 Mao Zedong,60 Fidel Castro and Kim Il-sung,61 have experienced a measurable change.
+A noteworthy observation regarding George’s two sets of questions—the ﬁrst set concerning philosophical conceptions and the other more instrumental issues—is that it was in the more fundamental philosophical set that the signiﬁcant changes were identiﬁed.
+This is completely at odds with the traditional perspective on foreign policy learning, according to which basic beliefs are the most durable ones, whereas policies and tactics are more subject to change.
+In the study of Soviet foreign policy, for instance, this had always been the mainstream view.
+Instead, the latest research suggests that when the fundamental beliefs of policy-makers change, their modus operandi remains largely unchanged.
+If the operational code undergoes a signiﬁcant change, however, one faces the puzzle of whether the concept is merely an analytical descriptive tool or whether it can also explain and predict the foreign policy decisions of leaders.
+Indeed, there used to be a discussion about Putin I and Putin II, that is, the difference between his foreign policies during the ﬁrst and second presidential terms.
+Jan F Triska, “Model for Study of Soviet Foreign Policy”, The American Political Science Review, Vol.
+In any event, even the best-informed Russian analysts failed to anticipate the major change that the Ukrainian crisis produced.
+This might be interpreted in such a way that while a certain reorientation towards more anti-Western foreign policy occurred immediately after Putin began his third term as president in May 2012, the Ukrainian crisis—the failure of his efforts to stop Ukraine’s association with the EU, the Euromaidan movement, the collapse of the Viktor Yanukovych regime and his ﬂeeing the country—was an unexpected catalyst for the Russian leadership.
+The documentary broadcast one year after the event, in which Putin disclosed the decision-making related to the annexation of Crimea, was interpreted by some Russian political analysts as bearing the hallmarks of a rather impulsive decision, triggered by the feeling of betrayal and reinforced by Putin’s contempt of Western political leaders who did not, in his view, take Russia’s interests and Russia’s leader seriously enough.
+Operational code analysis cannot, of course, fully explain Russia’s or Putin’s decision to invade the Crimean Peninsula.
+But one could argue that without the change in Putin’s answers to the “philosophical questions”, one could hardly understand the decision to violate the sovereignty principle that was rooted in Putin’s legalistic worldview.
+Indeed, the proposal in the current operational code literature that the fundamental ideas of a political leader are more susceptible to change than instrumental beliefs could be supported by some evidence in Putin’s case.
+His fundamental beliefs changed from the possibility of cautious pragmatic cooperation and harmony with the West, based on the balance of power and sovereignty, towards proclaiming a much more ideologised antagonism.
+But his operative approach towards Ukraine, when he had decided to act, was fundamentally the same as his treatment of Chechnya in 1999/the early 2000s and Georgia in 2008 despite the greater risks in the Ukrainian case.
+So-called psychological proﬁling is commonplace in diplomatic reports, intelligence services and everyday journalism.
+Indeed, the fact that individuals have different psychological characteristics is not something that rationalist-oriented analysts would dispute.
+Putin’s own account in Putin, “Meeting of the Valdai International Discussion Club”, op. cit.
+Advancement in that shadowy world presupposes a strong nationalist commitment and a cool, analytical streak.
+It leads to a foreign policy comparable to that during the tsarist centuries, grounding popular support in a sense of Russian mission and seeking to dominate neighbors where they cannot be subjugated.
+With respect to other powers, it involves a combination of pressures and inducements, the proportion between which is reached by careful, patient, and cautious manipulations of the balance of power.
+However, should one employ psychological proﬁling, one would need to dig deeper than Kissinger.
+In the study of history, this approach is usually called psychohistory.
+To be sure, psychohistory is itself such a multifaceted approach that whole books have been written about its internal differences.
+There is no single uniform theory or methodology; some authors have applied psychoanalysis, some medical analysis, whereas others base their arguments on everyday psychology.
+In Soviet studies, Joseph Stalin, not surprisingly, has been a fruitful target of this type of approach, practised most notably by Robert C Tucker.
+From this viewpoint, Stalin’s general political behaviour was explained by his personality, rooted in the violent experiences of his childhood, which—so the argument went—gave rise to his narcissistic cult of personality and era of the Terror, mirroring his inner conﬂicts and self-hatred.
+Putin did not receive much support from his parents, who showed little “Vova” no demonstrable affection.
+The child’s physical stress and frustration led him to suppress his emotions as there was no way to vent them.
+Putin’s adult character was subsequently born of a fear of feelings and affection, a kind of encapsulation, which was reﬂected in his personal identity, and which shaped his future actions in society.
+Putin’s full identity was formed in the axis of this rather prosaic personal tragedy and in the pressure of the totalitarian social system, ﬁnally ﬁnding a balance in the role of a secret service agent.
+However, surprised by his sudden success, when he became prime minister and then president, and following the ﬁrst political struggles, Putin’s character changed—to quote Ihanus—to that of “a rational terminator”, who despised the enemies of the state.
+At ﬁrst, it was the Chechens in particular who were punished for their attempt to destroy the state.
+Putin then went on to restore the glory of the Soviet security service, the KGB, hanging a picture of his idol, Yuri Andropov, the former KGB director and subsequent party leader, on his wall, and taking steps to recreate a strong state.
+Putin, looking inside himself, instinctively felt that only hard, top-down discipline could bring salvation to the Russian people and mitigate their collective internal contradictions and restlessness; a totalitarian psyche, which, when confronted with freedom, turned to selfaccusations and shame.
+That conﬂict could be settled by directing this shame towards external parties, and instilling blind conﬁdence in the state executive.
+Personally, Putin concealed his internal feelings of shame by resorting to anger and rage, hiding all signs of weakness, resorting to force as the only way to avoid being insulted and humiliated.
+He arranged his features into a frozen expression, thus involuntarily defending his vulnerable feelings, which he was incapable of expressing.
+When he became a public ﬁgure, his media advisors had difﬁculty teaching him to express some kind of contrived semblance of a smile.
+Ultimately, Putin suppressed his internal conﬂicts with narcissism, which is typical of all dictators.
+It led to wholesale dominance and the inevitable creation of Putinism, casting the environment and society at large according to his own image.
+But before long, an awareness of his own aging and eventually demise came into the picture.
+This feeling of weakness and inevitable mortality—as Ihanus predicted in 2008 before the Georgian war—would eventually shred the internal protective veil, and would be likely to lead to aggressive and sadistic behaviour.
+In the same spirit, in a lengthy interview, the Swiss psychoanalyst Philipp Jaffe expressed the view that Putin’s actions as president are characterised by some kind of childhood trauma related to weakness.
+He claimed that from the perspective of a professional psychoanalyst utilising psychobiography as a method, it was not necessary to personally know the subject under analysis; 75.
+What was noteworthy in his assessment was that Putin takes any criticism against Russia personally, and tries to retaliate with force.
+When other children shove him, he shows his physical strength in no uncertain terms.
+According to Jaffe, Putin has transferred these personal characteristics into his political activities, which is why he has achieved almost absolute power in Russia.
+The psychoanalyst sees Putin as a very intelligent person, who nonetheless suffers from a number of complexes.
+Upon reaching a position of relatively unlimited power, such a person may develop several other syndromes.
+The notion of “childhood trauma” and “emotional chaos” producing a narcissistic and bullying personality is reiterated in many journalistic accounts.
+According to these stories, Putin apparently grew up feeling that he had some kind of internal defect, harbouring thoughts that there was something about himself that was damaged and shameful.
+So he developed a defensive identity to hide his subconscious shame and to prove that he was a winner instead.
+Putin, younger than the thugs and slight of build, tried to hold his own with them.
+The biographical evidence suggests that his growing physical prowess, later supplemented with a junior position in the most feared institution in the Soviet Union, the KGB, made him no less impulsive or violent, but certainly much calmer and more self-conﬁdent when he encountered physically challenging situations.
+Putin has duly managed to turn his tough childhood experiences to his advantage, indeed into a mythology, emphasising his antisocial characteristics.
+This typical Putinesque quote quickly hit the headlines worldwide, and NATO’s ofﬁcial commentators did not hesitate to tweet it.
+Perhaps the best-known Western analysts of Putin’s personality, Fiona Hill and Clifford G Gaddy, claim that the Russian leader suffers from a “personality disorder” caused by the fact that he actually has several identities, which are in conﬂict with each other.
+Indeed, many in the West tend to see Putin’s personality in a rather negative light.
+He has been called a “high-dominance introvert”, with a mindset characterised by a tendency to view the world as a conﬂictual zero-sum game, and reliant on an expansionist orientation in foreign affairs.
+It has been said that “contempt” is the key to his psychological proﬁle.
+Some journalists have noted a peculiar trait in that he does not respect other people’s property, but thinks instead that everything is his for the taking.
+Among them is a comment by Latvia’s former president, Vaira Vīķe-Freiberga, who was trained as a clinical psychologist and worked in that ﬁeld for many years.
+While they rejected the diagnosis of Parkinson’s disease or a pre-clinical stage of the disease, as Putin’s motor skills are otherwise excellent, they suggest that this so-called “gunslinger’s gait” is a behavioural adaptation resulting from intelligence training.
+The fact that Prime Minister Dmitry Medvedev walks in the same way, without having a military or intelligence background, is duly explained by the suggestion that Medvedev has learned to imitate his boss, an imitation phenomenon that has parallels in the neurological ﬁeld in cases of a disorder known as hyperekplexia.
+To sum up, the psychohistorical approach and other attempts to deﬁne Putin’s personality may explain his willingness to take risks as well as his risk-aversion, but they have difﬁculty in explaining variation.
+Indeed, in addition to such theoretical problems, these theories are rather speculative due to the nature of the sources they rely upon, and can therefore often reﬂect more the imagination and biases of the theorist than the object.
+The fact that the Western mass media and social media are awash with such interpretations contributes to the notion that the West is demonising Putin, with suggestions that he is a typical narcissist, suffers from a severe psychological disorder rooted in his childhood, and had a family life marred by trauma and emotional chaos.
+The sources underpinning such analyses are bound to be mainly second-hand and indirect, and most likely anecdotal.
+They are seldom nuanced enough to account for any variation and are often part of the psychological warfare in a conﬂict situation.
+Yet such narratives may challenge us to think more systematically about possible character traits.
+If harder evidence were available, the tough overall attitude of Russia’s foreign policy and risk-taking could, at times, be seen as compatible with the perception of Putin’s personality.
+While psychohistorical narratives and psychological proﬁling are rather far removed from any credible explanation of Russia’s decision-making, we should nevertheless be ready to widen foreign policy analysis theoretically to include the possibility of such factors.
+Counterfactual theories of causation take as their point of departure the basic idea that the meaning of causal claims can be explained in the form of “If A had not occurred, C would not have occurred”.88 While there are several versions within this debate, it is difﬁcult to form a strong counterfactual for Putin’s role in the Crimean case.
+Even if Putin’s psychological characteristics were part of the explanation, they would not provide sufﬁcient reasons for Russia’s annexation of Crimea.
+It is possible that had the circumstances been different, the annexation would not have occurred under Putin, or had there been another president, Russia would have reacted to the developments in Ukraine in a roughly similar manner.
+The question of the role of emotions in Russian foreign policy decision-making is not a new theme, but it has not been properly integrated into academic research.
+One reason for this is that emotions are often seen as pejorative and contributing to conjecture about a special Russian character or abnormality.
+For example, Dmitri Trenin and Bobo Lo have argued that “there exists an implicit assumption that Russian policy-makers behave inherently less rationally than their foreign counterparts, being driven not so much by concrete national interests as by highly subjective and even personal impulses”.89 Trenin and Lo conclude that the unfortunate consequence of such arbitrary interpretations about what is and is not rational is that Russia has been transformed from an object of serious scientiﬁc enquiry into a mystical and virtually “unknowable” entity.
+Although we may not obtain deﬁnitive answers, we should nevertheless consider how the role of emotions in Russian foreign policy might be formulated and how meaningful research into the subject can be conducted.
+Two opposing stereotypes of Russians in general, and of Russian political leaders in particular, have a long pedigree in the literature as well as in contemporary narratives about Russians.
+One such stereotype is the cold-blooded, calculating chess player with a long-term plan who contemplates every move rationally.
+Then there is the emotional type who reacts impulsively; guided by his feelings, he does everything to excess, and lives in the moment.
+In Russian politics, emotions are typically attributed to some leaders more than to others.
+There are numerous examples that support this view of Putin as a calculating, rational thinker.
+Besides, what we do is limited in scope and scale, but is, however, sufﬁcient to ensure Russia’s security”.95 In journalistic accounts, references to Putin’s emotions, or rather the lack thereof, are commonplace.
+For example, when Putin had to address the Kursk submarine tragedy at the beginning of his presidential career, he was seen as being emotionally cold.
+When he was seen in tears after the 2012 presidential elections, it was due to the wind, and not his emotions, explained Putin’s spokesman.
+Yet Putin often expressed his emotions when issues related to terrorism in the North Caucasus were discussed.
+For example, Richard Stengel, the managing editor of Time magazine, described Putin as an “angry, angry man” when announcing that he had been chosen as Person of the Year 2007.
+Others have noted that “Putin’s judo training taught him to control his emotions, but when he is angry his outbursts can be not only crude but breathtakingly acerbic”.96 Putin’s emotions, as the president of Russia, cannot be understood without the social context of the extended self of Russia.
+Of course, we are less pragmatic, less calculating than representatives of other peoples, and we have bigger hearts.
+Maybe this is a reﬂection of the grandeur of our country and its boundless expanses.
+Putin’s hardline policy towards the West can also be seen as reﬂecting cultural models rather than individual impulses.
+It is difﬁcult to say exactly how prevalent and accepted anger is as an emotion in Russian culture, but it is hardly merely an irrational sentiment.
+Displays of anger are quite common in Russian political and business life.
+It can be suggested that Putin’s emotional outbursts may have helped achieve some foreign policy goals.
+For example, his speech at the Munich security conference in 2007, in which he sharply criticised the United States and its planned missile defence 95.
+The speech was important because Putin was able to shift the agenda from democracy development in Russia to military strategic issues between the West and Russia.
+Russians themselves, however, have claimed that Putin’s speech in Munich was “calculated” and not “emotional”, although it may have sounded so.
+As Todd Hall notes, it is typical for political actors themselves to deny that they were driven by emotions, even when the evidence suggests that they were.2 Anger is typically seen as an emotion conducive to inﬂicting harm on the other and motivating costly punishments.
+It is nonetheless important to remember that anger is not merely a negative emotion that always results in violent behaviour, but that it can also be seen as a constructive emotion aimed at addressing and rectifying wrongdoings rather than dissolving a relationship.
+Even when aggression is caused by anger, often its point is not so much to hurt the other as to send a message about a perceived injustice.
+Moreover, anger is not simply an impulsive emotional outburst, but can oftentimes be a long-lasting disposition.
+It can explain the ﬁxation of the angered party on an issue even when the chances of inﬂuencing the issue have passed.
+Another action tendency found in psychological studies is that “people feeling angry had more optimistic risk assessments than did people feeling fear”.107 The source of anger is often related to offences against identity or violations of key rights and moral codes.
+Thus, Russia has reacted angrily to NATO expansion, the Kosovo war or missile defence, which are not simply security issues but are heavily loaded with the quest for underlying principles and norms, and Russia’s desire to regain status as a great power on a par with the West.
+The circumstantial evidence that Russian decision-makers took offence, and that the Ukrainian crisis not only constituted a potential threat but the “unconstitutional revolution” was seen as a breach of fundamental norms as well as a direct insult to Russia’s identity as a great power, is overwhelming.
+It is possible to support this interpretation on the basis both of public statements and appearances.
+And with Ukraine, our western partners have crossed the line, playing the bear and acting irresponsibly and unprofessionally.9 Hence, there is reason to believe that anger has been a genuinely important element in Russian foreign policy in the Ukrainian conﬂict.
+As Tsygankov claims, “the support for Crimea and hostility toward the Ukrainian revolution must be understood as a reﬂective reaction to what the Kremlin views as neglect of Russia’s values and interests and unjust treatment by the West”.110 It is clear to see that there have been subjective grounds for Russia to be angry about the behaviour of the West in relation to the crisis in Ukraine, and Russian foreign policy behaviour also seemed to follow the logic of anger.
+The issue was at the heart of Russian identity, as well as Putin’s sense of justice.
+Hence, Russia reacted in line with action tendencies associated with anger by using sharp language, inﬂicting harm and even instigating a hazardous, violent campaign.
+Conclusions This article has considered a range of psychological theories applicable to the study of Russian foreign policy, focusing in particular on Russia’s decision to invade and then annex the Crimean Peninsula.
+The chosen perspective emphasises the speciﬁc role and character of the key decision-maker in the case, President Putin, but psychological approaches should not be equated with individual-level explanations.
+The relevant information and data available on the current decisionmaking situation are not abundant enough for the psychological explanations discussed above to be validated beyond reasonable doubt, and unfortunately it is unlikely that much new “hard evidence” will be presented in the near future.
+However, realist, liberal and constructivist theories all contain assumptions about decisionmaking that they cannot prove with much concrete evidence when providing explanations for particular cases.
+Although psychological approaches entail methodological and evidence-related problems, there are both practical and theoretical reasons for integrating them more effectively into the academic research on Russian foreign policy.
+Psychological approaches can generate new research questions and resolve some of the existing puzzles in the analysis of foreign policy.
+While it is difﬁcult to come up with a deﬁnitive explanation based solely on psychology, it is possible to advance partial explanations of Russia’s behaviour and validate these to the extent that they are plausible in the light of the available evidence consisting of the circumstantial knowledge of the decision-making situation and congruence with the policy outcomes.
+While external power relations, domestic politics and national identities cannot be omitted as structural conditions having causal impact, the psychological dimension of Russian foreign policy, focusing on the main decision-maker, President Vladimir Putin, can still be crucial.
+These psychological factors should be seen as part of the overall explanation alongside the IR 109.
+In terms of counterfactuals, we can consider the psychological factors as causal triggers of the decision in certain structural conditions, or intervening variables that explain the relationship between the independent and dependent variables,111 without which the foreign policy behaviour would be different.
+Not as much as we had hoped, perhaps, and at least not with any certainty.
+In this way, they do not hamper the intellectual effort to understand Russian foreign policy, but facilitate it.
+Nothing in standard realist, liberal or constructivist accounts denies their possible role.
+True, rationalists do not regard this as a sign of theoretical superiority, but rather only as proof of greater “descriptive accuracy of an individual case”.112 Nevertheless, we consider that Russian foreign policy studies can pave the way for concrete research on the role of these factors in international affairs in general, without singling Russia out as a special, anomalous case.
+Funding We would like to thank the Academy of Finland Centre of Excellence on Choices of Russian Modernisation as well as the Academy Project on Cultural Statecraft in International Relations (the Academy of Finland grant number 298883) for partial support of research leading to this article.
+His research has most recently dealt with Russian foreign policy and European security issues, focusing on the EU, Germany and Northern Europe.
+His scholarly publications focus on such themes as crisis management, international relations theory and Soviet/Russian history and politics, published in different countries and in several languages.

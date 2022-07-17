@@ -1,0 +1,302 @@
+Its usual periodization, according to which it came together in the late 1940s and persisted until the late 1960s when it unraveled amidst the trauma of the Vietnam War, fits well with a common theory of change in ideas and discourse.
+That theory expects stasis until a substantial unexpected failure (in this domain, military defeat) discredits dominant ideas and unsettles dominant coalitions.
+However, systematic data reveal the standard history of this important case to be wrong.
+Based on a large-scale content analysis of newspaper editorials on foreign affairs, this article shows that the Cold War narrative was narrower than conventional accounts suggest, that it did not coalesce until well into the 1950s, and that it began to erode even before the Vietnam War’s Americanization in 1965.
+To make sense of this puzzle, I develop an alternative theory of the rise and fall of the narratives that underpin and structure debate over national security.
+This hard and important case suggests the need to rethink the relationship between success, failure, and change in dominant narratives of national security—and perhaps in other policy domains as well.
+This project could not have been completed without the assistance of Kathryn Chylla, Lindsey Cunneen, Giovanni Mantilla, Ashley Nord, Aaron Rapport, Molla Reda, Rob Thompson, and especially Geoff Dancy.
+By this account, after around 1948, alternatives to militarized global containment could not get a hearing.
+This entrenched policy consensus allegedly dragged the United States into a disastrous war in Vietnam and unraveled amidst the trauma of that war.
+However, the narrative of national security that we call the Cold War consensus has not been studied rigorously.
+More systematic data reveal the standard history of this important case to be wrong.
+Based on a content analysis of newspaper editorials, I show that the Cold War narrative was narrower than conventional accounts suggest, that it did not become dominant until the early 1950s—long after such oft-cited episodes as the Czech coup of winter 1948—and that its dominant position began to erode in the early 1960s—well before the 1968 Tet Offensive, which marked the American public’s decisive turn against the Vietnam War.
+But rethinking what the Cold War narrative was and when it consolidated and collapsed poses a substantial theoretical puzzle as well.
+A well-established, intuitive theory attributes major change in ideas and discourses—across many domains, including national security—to substantial, unexpected, and unwelcome policy failures; policy success, in contrast, impedes change, since prevailing ideas and discourses then seem to make adequate sense of reality.
+It fits less comfortably, however, with my data, which show that the Cold War narrative fell from its dominant perch long before Americans rejected the Vietnam War and that it surprisingly achieved its dominance during the bloody Korean stalemate.
+To make sense of this pattern, I develop an alternative theory rooted in the dynamics of public narrative and the domestic politics of the battlefield.
+I start from the constructivist premise that events do not speak for themselves, that their purported lessons are the product of interpretation by political actors, and that the critical junctures in which narratives are reconfigured are not productively theorized as responses to exogenous shock.
+For this conventional view of the Cold War consensus, see, among others, Allison 1970–71; Gelb and Betts 1979, chap.
+For general discussions, see Capoccia and Kelemen 2007; and Pierson 2004.
+Their dominance endures as long as leading political and cultural elites continue to reproduce them, and erodes when elites publicly challenge key tenets.
+However, early in an uncertain military campaign, battlefield setbacks give both doves and hawks (war supporters) in the opposition incentives to criticize the war’s conduct while reaffirming the underlying narrative.
+Opposition doves pull their rhetorical punches to avoid bearing the political costs of wartime criticism, whereas opposition hawks are moved by the prospect of gain, but the effect is the same.
+In short, when it comes to public narratives of national security, the conventional wisdom has it backward.
+This theory’s expectations and mechanisms are consistent with the quantitative content analysis of newspaper editorials as well as with qualitative evidence from the Cold War.
+The Korean War’s high costs might have undermined the Cold War globalism in whose name the United States had gone to war.
+They thus helped consolidate the global Cold War they had long feared would yield an imperial presidency and an imposing national-security state.
+Republican hawks accordingly took the crisis and its resolution as proof of that narrative’s core propositions.
+However, the missile crisis also opened space for John F Kennedy, who had long hewed in public to the Cold War narrative despite the more nuanced views he expressed in private, to deviate publicly from that narrative and to lay the narrative foundation for détente.
+This revisionist account of the Cold War narrative is intrinsically important, for it speaks to enduring questions—from the origins of America’s national-security state to the conditions of possibility for détente to the sources of United States intervention in Vietnam.
+Hardly questioned narratives often structure nations’ debates over security and foreign policy.
+Even Legro, in his work on states’ ideas about international society, focuses on collective “causal beliefs” about the “effective means for achieving interests” in international politics.
+The narrative underpinnings of policy debate have received far less attention, yet are arguably more important.
+Rethinking the Cold War Consensus The conventional view is that a dominant Cold War narrative took shape in the late 1940s.
+Lasting around two decades, it unraveled during the Vietnam War and failed to reemerge even as détente flickered in the mid-1970s.
+Such opposed stances persist because we lack systematic evidence regarding what the consensus was, when it consolidated, and when it collapsed.
+The Cold War consensus was a public discursive code that American policymaking elites felt compelled to adhere to in their public pronouncements, regardless of their private qualms.
+This is what Gelb meant when he blamed the consensus for driving the United States into the Vietnam fiasco; he knew many Washington insiders had severe misgivings about key pillars of the consensus and its application to Southeast Asia, but he also saw few who were willing to give public voice to their private dissent.
+Despite persistent doubts at the highest levels of government that global communism was “a highly coordinated, conspiratorial, malevolent force” and that local communists were mere ciphers doing Moscow’s bidding9—to the point that Gaddis has claimed that no United States official ever really “believed in the existence of an international communist monolith”10—rare was the policy-maker who 4.
+See also Allison 1970–71; Gelb and Betts 1979, chap.; and Holsti and Rosenau 1984.
+They could not say otherwise if they wished to be taken seriously, or so they thought.
+Such public discursive codes normally take a narrative form,11 for stories are the vehicles through which human beings define their reality and link thought to action—through which they formulate and articulate identity (who self and other are) and interest .12 Public narratives are ubiquitous because meaning-making is essential to the human condition and because legitimation is the life blood of politics.
+Only some narratives, however, become dominant, an accepted “common sense” about the world,14 and thus set the boundaries of what actors can legitimately articulate in public, what they can collectively (though not individually) imagine, and what is politically possible.
+As the terrain on which political battle takes place, dominant public narratives do not fully smother contestation but channel it.
+They privilege a range of policies and impede the legitimation of others, and fundamental change in national security policy—in its basic orientation, as opposed to the effort expended or the means employed15—hinges on change in the dominant narrative.
+As a dominant narrative, the Cold War consensus limited what policy options could be legitimately articulated.
+There was throughout the Cold War “a workable dissensus … over how communism could best be combated”—via military measures or via trade, aid, and development.
+Debate swirled even at the consensus’s alleged apex in the 1950s over the advisability of negotiating with the Soviet Union, the 11.
+Given space constraints, I cannot elucidate the nature of narrative or situate my conceptualization in the literature.
+On legitimation and foreign policy, see Barnett 1998; Goddard 2009; and Jackson 2006.
+This is not to say that the average voter, newspaper reader, or advertiser pays close attention to whether politicians and editorialists are conforming to the dominant narrative.
+On elite cuing in public opinion formation, see Page and Shapiro 1992; and Zaller 1992.
+One cannot, therefore, apprehend this dominant narrative by examining congressional voting patterns on defense expenditures and foreign assistance, binding alliances, and military interventions—that is, the policies associated with militarized, unselective containment.
+One cannot cite debate over policy as evidence of the consensus passing.
+Nor can one identify a dominant narrative by analyzing individuals’ beliefs revealed through opinion polls.
+They admitted that, because sampling procedures were flawed in the 1950s, they could not properly document that opinion had become more fractured.
+First, opinion polls are not neutral instruments for gauging the public’s views.
+Pollsters operate within the bounds of the respectable, and they embed narrative presuppositions in their questions.
+They are better at detecting cleavages than establishing zones of consensus and identifying the limits of the legitimate.
+Second, and even more important, the Cold War narrative’s dominance was rooted less in what individuals truly believed than in the stances they thought they could legitimately defend in public.
+As a result, one cannot ascertain whether a public narrative is dominant by looking to only a single source, such as official government pronouncements, since that narrative may not be shared and since other narratives may retain legitimate standing.
+Nor can one look to politicians or media that address only narrow constituencies, since broader audiences might ignore or dismiss their views.
+Finally, one should look to a body of elite discourse present over the entire period to make possible comparisons over time.
+These considerations suggest that one should observe the presence or absence of a dominant narrative in a corpus of elite discourse that is relatively consistent and drawn from multiple sources.
+These sources should be within the pale but occupy distant, and ideally extreme, positions on the spectrum.
+See Holsti and Rosenau 1984; Russett and Hanson 1975; and Wittkopf 1990.
+Although the length, style, and daily number of editorials varied between the two newspapers and over time, both ran editorials throughout the span on what they saw as the major issues of the day, including foreign affairs.
+Overall, 46. percent of the editorials come from the Tribune and 53. percent from the Times.
+I look to these editorials as reflections of a potentially dominant narrative and the changes it underwent, not as influential sources of narrative change.
+Major newspapers’ editorial stances appear to follow national politicians in their ideological camp and have little impact on the median member of Congress.
+Based on existing catalogs of the Cold War consensus’ axioms, I constructed a fourteen-point questionnaire on the editorial’s central concern, its representations of communist powers and superpower competition, its portrait of United States allies, its stance on the domino theory, and its position on United States leadership.
+Human coders completed the questionnaire for each editorial in the database, with double-blind coding to establish intercoder reliability.
+Because of the interpretive demands, intercoder reliability rates are lower than ideal but nevertheless quite strong.
+To my knowledge, this is the first time anyone has disaggregated the Cold War narrative into its possible components and traced their prominence in public elite discourse.
+This method makes it possible to establish whether there was a dominant Cold War narrative in the United States, what it consisted of, when it consolidated, and when it collapsed.
+Because of the project’s extensiveness, double-blind coding was not conducted for the full run of both newspapers.
+An additional coder analyzed the first twenty editorials per year from each newspaper —at least 10 percent and sometimes nearly 50 percent of a given year’s editorials.
+Intercoder reliability tests indicate an average agreement of 78.04 percent across all questionnaire items.
+Cohen’s kappa scores on individual items ranged from a low of .2337 to a high of .6656, with an average of .49.
+I also calculated other measures of intercoder reliability, such as Scott’s pi and Krippendorff’s alpha.
+In decomposing the Cold War narrative into its elements and abstracting from specific episodes, the questionnaire deemphasizes plot in favor of protagonist.
+It does, however, capture general plot lines in its examination of editorials for representations of, among others, communist aggression, superpower competition, the domino theory, and the impact of United States intervention.
+First, the questionnaire represents the Cold War narrative’s farthest possible reach.
+To design it, I drew from a wide range of secondary sources, and the resulting list of questionnaire items is inclusive and extensive.
+I am unfamiliar with any elements commonly viewed as part of the Cold War consensus that do not appear on the questionnaire.
+Second, we cannot reasonably speak of a dominant national security narrative if either of these two newspapers regularly departed from it.
+The Times was, for much of the period under study, tightly tied to the national establishment, had reporting resources that dwarfed its competitors, and was the only newspaper that elites felt compelled to read.
+Although the Tribune was not in the Times’s league, it was a highly regarded regional paper with a national profile.
+Both operated within the bounds of legitimate discourse, and were acutely sensitive to how their reading publics and, crucially, advertisers responded to their editorial stances.
+The two newspapers were also unusually ideologically consistent, especially on foreign affairs.
+One cannot classify a narrative as dominant if either the nation’s paper of record or the heartland’s spokesperson deviated from it.
+Third, these newspapers represent the boundaries of legitimate American views of the global scene.
+I cannot discount this possibility fully without surveying a broader range of news outlets and undertaking a similar content analysis.
+However, coding other newspapers would be prohibitively expensive, and it is not obvious what other newspapers one should consult, for alternatives lacked long-standing national status and/or ideological consistency.
+Content Analysis Findings The content analysis yields several novel empirical claims regarding the dynamics of the Cold War narrative.
+Second, this narrow narrative achieved dominance later than the conventional wisdom claims—not in the late 1940s, but into the 1950s.
+Third, its dominance began to erode in the early 1960s—before the United States committed substantial forces to the defense of South Vietnam and long before mass opinion turned against the war.
+First, there was a dominant Cold War narrative, or consensus, in the 1950s, but it was narrow.
+The two newspapers’ editorials largely moved in lockstep regarding the centrality of superpower competition for global politics; on this issue, the gap between them was small and stable.
+The Times had much greater faith than the Tribune in United States allies, in the utility of foreign aid, and in the need for and virtues of United States leadership in world affairs.
+This is strikingly reflected in the paltry amount of editorial coverage the Tribune devoted, relative to the Times, to narrating the Cold War—to representing the free world’s adversaries and the nature of the global conflict.
+Between 1948 and 1955, 48. percent of foreign affairs editorials in the Times identified the character of the leading communist powers, compared with just 28. percent in the Tribune; over that span, 25. percent of foreign affairs editorials in the Times referred to the perils of states going communist, compared with just 13. percent in the Tribune.
+Between 1948 and 1952, 44. percent of foreign affairs editorials in the Times presented a view of Western–Soviet bloc relations, whereas only 23. percent in the 36.
+Because of space limitations, I summarize many of the content analysis findings.
+Further supporting data and graphical representations are in the online appendix.
+Important exceptions in the literature include Fordham 1998; and Snyder 1991.
+The Tribune hewed to the traditional Cold War narrative, hardly diverging from its 1950s stance, whereas the Times deviated substantially.
+But they emerged before leading figures in Congress, and before the American people, opposed the Vietnam War, and even before the Americanization of the war in 1965.
+As the Vietnam War dragged on, there was even less agreement on representations of the Communist other, but the trend predates the war.
+Differences between the liberal internationalists at the Times and their conservative counterparts at the Tribune were real and growing by the early 1960s, but the former did not adopt editorial stances diametrically opposed to the erstwhile consensus.
+Contending Explanations The content analysis challenges the conventional historical narrative and periodization of the Cold War consensus.
+By this account, psychological, institutional, and social mechanisms mutually reinforce 38.
+For corresponding figures on the unity of communist powers and the domino theory, see the online appendix.
+Aggressiveness of Communist powers stasis with respect to national security, as in other domains.
+Only during “critical junctures” can agents make meaningful choices that set a new course.
+To explain how such moments of structural slack arise, scholars commonly invoke an exogenous shock that punctures stable equilibria and drives change in institutions and paradigms.
+In the national security arena, this normally takes the form of substantial battlefield defeat.
+The most sophisticated account is Legro’s, arguing that a necessary condition for the breakdown of dominant conceptions of how states should relate to international society is unexpected large-scale failure; success, even when unanticipated, yields no impetus for change.
+This theory cannot make sense of a Cold War narrative that coalesced in the early 1950s, amidst a frustrating war in Korea, and that collapsed a decade later, when there was no unsettling shock.
+West-Communist relations Second, national security narratives might straightforwardly reflect global realities, as structural realists would argue.
+Perhaps the Cold War narrative became dominant because it mirrored the bipolar structure of international politics, aggressive Soviet behavior, and a tightly controlled Soviet orbit, and perhaps it lost its grip on United States national security debate because it was out of step with developments such as the SinoSoviet split and Soviet moderation.
+The dominant Cold War narrative, however, came together only around Joseph Stalin’s death, and it was strongest afterward— when, under Nikita Khrushchev, the Soviet bloc was becoming more diverse and Soviet policy growing more tolerant of difference.
+Although structural realists, as confirmed materialists, would not put much stock in narratives, this is a fair extrapolation from the logic of the theory.
+Neoclassical realists agree that the international system yields clear imperatives that states should obey, but they would acknowledge the possibility that sometimes, and even often, dominant narratives of national security deviate from the system’s objective lessons.
+Third, perhaps national security narratives shift course along with presidential administration.
+When new presidents come into office, they often bring a different vision of global politics, conception of the national interest, and foreign policy priorities, a different group of advisers on whom they are reliant, and a different set of major contributors to whom they are beholden, especially when the new president comes from another political party.
+Leaving aside the partisan presidential account’s overall merits, it does not fit the Cold War narrative’s dynamics.
+The key periods of change do not correspond to changes of presidential administration or party control of the White House.
+Those have been too frequent, and some key changes have occurred during times of partisan presidential stability.
+The puzzle of the Cold War narrative’s rise and fall is all the greater when one considers the events surrounding the nodal periods of change.
+The consensus consolidated amidst military failure, and began to erode after victory in a major episode of coercive diplomacy.
+The Cold War narrative rose to dominance not despite but because of the poor United States performance in Korea, and its dominance slipped not despite, but because of, the seemingly one-sided United States triumph over the USSR in Cuba.
+Public Narrative and the Politics of the Battlefield Both realist and historical institutionalist accounts of change are typically insufficiently sensitive to politics.
+Because realists implicitly adopt rationalist models of belief updating, whereas institutionalists believe all institutions and discourses are sticky, or tend to endure, they differ over how much discrepant evidence is required before learning occurs.
+This article begins from the constructivist premise that although events—from natural disaster to economic recession to military conflict—are unquestionably real, their social import is not determined by any of their objective features.
+Whether an event is seen as a shocking crisis or manageable problem is endogenous to political contestation.
+The prevailing image of substantial failure, including battlefield defeat, as a moment of intellectual awakening is apt when defeat is overwhelming and wars are extremely short.
+But the collective perception of even major defeats normally comes together only at the end of a protracted process in which actors seek to make sense of accumulating setbacks.
+Few military contests have ended as decisively as World War II did for Germany and Japan, and even substantial battlefield defeats have permitted interpretations, such as the “stab in the back,” that legitimated rather than rejected the past.
+Although it is true that short wars are more common than even scholars generally realize,47 most wars provide ample opportunity while combat is raging for debate over their lessons.
+Diverse approaches figure crises as times of national unity beyond politics,48 but protracted conflicts are rife with disputes over the military’s stumbles, which, the logic of path dependence suggests, condition the scope and direction of subsequent change.
+As battlefield travails come to light, domestic political contestation centers on how to explain them.
+Government spokespeople enjoy substantial starting advantages in the exercise of “interpretive leadership,”50 and because they own the military campaign, victory redounds to their benefit.
+Military setbacks, however, erode public trust, diffuse authority, and empower the opposition, and thus opposition leaders’ rhetorical deployments are most crucial in this context.
+Opposition elites’ rhetorical choices have profound narrative implications.
+Because dominant narratives require continual reproduction, and because they 46.
+Albeit for different reasons—for realists because the stakes are then so high, and for securitization theorists because of the discursive power of crisis.
+Though there is evidence that they often lie in the eye of the beholder.
+Both permit criticism of the government, but when opposition elites opt for the former, they reinforce the dominant narrative, and when they opt for a new path, they help undermine it.
+They are of course not the only producers of culture, authorized to remake the boundaries of the legitimate, and indeed activists and intellectuals are often the progenitors of alternative narratives.
+But those alternatives remain sidelined until political elites take them up.
+Whether elites publicly give voice to other narratives of national security depends on whether the alternatives are compatible with their established political identity and whether they see it as politically profitable.
+Although opposition elites’ rhetorical choices are thus to some extent contingent, they are partly the product of a predictable political environment.
+Early in a faltering war whose ultimate outcome is uncertain, all contestants, stylized here as doves and hawks, as opponents and supporters of military action and hard-line policies, have incentives to ground their criticisms in the legitimating national security narrative and thereby to preserve or consolidate its dominance.
+As a result, national security narratives survive even substantial failures.
+This conclusion derives from a view of political action as both cultural and strategic.
+Doves and hawks operate within a common social environment with shared cultural toolkits they draw on to make public sense of events.
+But they are also strategic actors seeking to further their political fortunes via their public accounts of the conflict’s course.
+To put strategizing political elites at the center of the dynamics of a national security narrative is not to reduce dominant narratives to elite strategizing alone.
+Whether elites can advance specific security narratives depends on more enduring structures of national identity discourse, in which those narratives must be grounded.
+At any given nodal point, the range of legitimate rhetorical moves is limited, due in part also to past elite rhetorical deployments.
+Although neither national identity discourse, nor rhetorical consistency, nor strategic incentives 51.
+The following melding of strategic and cultural action draws on Swidler 1986.
+Contrast this to a more purely rationalist account of the politics of public rhetoric in Riker 1986 and 1996.
+I thus expect the following contingent generalizations often to hold, but there remains an irreducible element of choice, of agency.
+For instance, the surprising persistence and effectiveness of the Sunni insurgency in Iraq created an opening for Democratic doves to take on the George W Bush administration.
+They could have exploited United States struggles in Iraq to confront the Terror narrative the Iraq invasion had been bound into.
+But they also could have criticized the Iraq War from safe narrative terrain—as a distraction from the “real” War on Terror, against al Qaeda and the Taliban in Afghanistan and Pakistan.
+When leading Democrats opted for the second course, they disappointed many supporters, but their choice was not surprising in light of the fog of war and the politics of military failure.
+When evidence of military difficulties has begun to accumulate but before the perception of irrevocable failure has crystallized, doves are reluctant to launch a thorough critique of the war’s underlying narrative.
+This is especially true early in a war, when its outcome is still seen as uncertain and when vocal criticism arguably can affect whether the war ends in victory or defeat, not just the inevitable conclusion’s terms and costs.
+Should the war’s course reverse, critics’ judgment will be severely questioned, and should the nation’s forces continue to flounder, critics may be held responsible, not lauded for their prescience.
+Given the stakes, it is far safer for doves to criticize the war’s conduct, insist that the strategy’s application alone is flawed, or propose withdrawal because of excessive cost or insufficient likelihood of victory.
+As a result, even as the war’s costs mount, doves typically express themselves within the terms of the dominant narrative.
+Politics does not stop at war’s edge, at least not for long, but wartime politics is normally waged within narrative bounds.
+These political dynamics, narrowing the scope of criticism in a campaign’s early stages, have long-term consequences.
+Once there is widespread agreement of defeat—that is, beyond the tipping point of failure—doves might find it appealing in principle to recast the narrative basis of national security, but that option is no longer available.
+Their past utterances, which reproduced and reinforced the dominant narrative, have established the conventions the public expects members of the “responsible opposition”—in both government and civil society—to adhere to.
+Those who move beyond those boundaries of legitimate critique, to embrace an 55.
+Were doves to know in prospect what they know in retrospect, they might couple their wartime criticism to a revision of the nation’s security narrative.
+But the politics of an uncertain and failing war cast narrative alternatives to the margins in war’s early stages—where they remain.
+This mechanism of lock-in is at work not only when the political opposition’s leadership is stable, but even when military defeat shakes up the established order and brings new personalities into politics who are not personally shackled by a wartime rhetorical past.
+Wishing to avoid the radical label, politicians and pundits alike are confined to the dominant narrative.
+Even Barack Obama, who more than any other top Democrat made opposition to the Iraq War the centerpiece of his political persona, remained in thrall to the Terror narrative as a senator and presidential candidate.
+He joined other leading Democrats in criticizing the Iraq War as having obstructed the War on Terror properly conceived.
+Criticizing the war’s conduct and presenting themselves as true believers, hawks seek to renew the mass public’s commitment, redouble the military’s efforts, and offer the public a distinctive political stance.
+Opposition hawks thus make political headway, albeit at the cost of principle if their hawkish preferences are rooted in a different narrative of national security from that of the wartime government.
+In contrast to opposition doves, who seek to evade the perils of criticism, hawks are lured by the prospect of gain.
+In fact, the politics of military failure can work to consolidate narrative dominance, when hawks are enticed to sign on to a narrative they had previously refused to endorse.
+Although the politics of military failure stifle change, success on the battlefield and in significant episodes of coercive diplomacy opens space for departures from the dominant narrative.
+But motive is only half the story, and triumph alters the opportunity structure facing those in both government and civil society who wish to narrate the world differently but previously felt politically constrained.
+Success boosts the interpretive authority of both government spokespeople and their civil society allies, 56.
+It creates an opening for its owners to argue that the rules of the global game have changed because the policy they advocated or implemented was so successful.
+Success is not, however, conducive to the consolidation of a new dominant narrative because it creates space for alternative futures without delegitimizing the past.
+The erstwhile dominant narrative retains its legitimacy, and so, even when doves seize the opportunity that success provides, the result is at most the erosion of narrative dominance.
+This theoretical framework helps make sense of the peculiar dynamics of the Cold War narrative.
+Worried about undercutting the war effort yet eager to strike political gains, they abandoned their preferred narrative that denied the world’s tight interconnectedness.
+During the Cold War, superpower crisis is what passed for the battlefield, and the administration’s victory created an opening, which Kennedy eagerly seized.
+The Korean War and the Nationalist Alternative The dominant Cold War narrative took shape through the marginalization of alternative narratives propounded by accommodationists and conservative nationalists.
+Accommodationists, such as former Vice President Henry Wallace, shared with Cold Warriors internationalist premises—the indivisible nature of global security, the need for allies, the imperative of United States leadership, the potential for constructive United States engagement—but they differed in their representation of the adversary, their understanding of local conflicts, and the nature of superpower relations.
+Accommodationists fell silent after the outbreak of war in Korea, which seemed to confirm a Moscow-driven communist agenda of aggression.
+The Korean War, however, need not have been fatal to the conservative nationalist narrative of national security.
+The North Korean invasion seemed to confirm their anticommunism, but it did not inherently undercut their skepticism of a global Cold War.
+In fact, the public’s frustration with the costly stalemate could have bolstered their challenge to Cold War premises, as Secretary of State Dean Acheson feared.
+In human terms, the war was overall nearly as costly for the United States as the subsequent war in Vietnam—on an annualized basis, even more so.
+The Korean War became deeply unpopular after Chinese forces crossed the Yalu River and a bloody deadlock set in,61 and Republican politicians repeatedly sought to exploit the public’s frustration for political gain.
+There is thus good reason to think that the war’s course could, if not should, have led to the rejection of its legitimating Cold War logic and redounded to the conservative nationalist alternative’s benefit.
+Conservative nationalists, however, who then dominated the congressional Republican leadership, had only themselves to blame.
+As military setbacks in Korea accumulated, they did not invoke them as evidence of the folly of a militarized, US-led global crusade against communism—which would have accorded with their narrative of global politics and with their domestic priorities.
+Rather, consistent with my theoretical expectations for opposition hawks amidst a faltering military campaign, they exploited military misfortune for political gain by 58.
+However, because the Korean War was much shorter than the Vietnam War, its annualized human cost was far greater.
+Taking the Truman administration to task for waging its global crusade inconsistently and ineptly, they shunted aside the nationalist alternative they held dear.
+Calling on Americans “to preserve for the world this Western hemisphere Gibraltar of Western Civilization,” Hoover challenged the liberal internationalist claim that the fabric of global politics was so tightly interwoven that security was indivisible.
+Yet the Great Debate marked the last roar of conservative nationalism, which would soon be strangled by the politics of Korea.
+In contrast to Hoover, whose political time had passed, younger leading conservatives readily sacrificed their nationalism on the altar of political expediency.
+Eager to score gains against an administration already on the ropes, Taft privately strategized just a month into the war that “the only way we can beat the Democrats is to go after them for their mistakes.
+This was hardly a new line of attack for Republicans, who spat out “Yalta” as if the word itself were evidence of Democratic perfidy, but the Korean War gave it renewed impetus and, crucially, a new Asian twist.
+Unlike the party’s “China bloc,” the orthodox Republican Right of Taft, Wherry, and Speaker of the House Joseph Martin had previously shown as little interest in committing United States resources to East Asia as to Europe.
+After North Korea’s invasion, however, they discovered a long-lost love of Asia, and they enthusiastically backed General Douglas MacArthur, who called for escalating the war to China and whom Truman cashiered in April 1951.
+Conservative Republicans, however, could not follow MacArthur and preserve their opposition to the global Cold War.
+After all, for MacArthur, the chief problem with the administration’s policy was that it was not global enough.
+Moreover, only by reproducing the logic of the global Cold War could hawks make their criticisms stick; if global security were divisible and if the battle against Communism were correspondingly selective, the administration’s lack of resolve in East Asia may not have been very consequential.
+For similar interpretations of the Republican Right, see Caridi 1968; and Kepley 1988.
+Downplaying the threat posed by global communism and portraying global security as divisible—pillars of the nationalist alternative narrative—were clear signs that one was not serious and respectable.
+Thus by 1953 few conservatives elected to national office still publicly voiced reservations to Cold War globalism.
+Shortly after entering office, Eisenhower noted in his diary with pleasant surprise that, when it came to foreign policy, he and Taft never disagreed “academically or theoretically”—on principles—only on questions of application to and implementation in specific cases.
+If conservatives needed any reminder of the boundaries of legitimation in the early 1950s, they just had to look at the remaining old progressives, who generally railed against the global Cold War and found themselves ignored, dismissed as “hick provincials” and renegade isolationists.
+Conservative intellectuals were also coming to terms with the new reality.
+In the mid-1950s, the National Review led the intellectual effort to fuse Burkean conservatism and antistatist individualism under the banner of anticommunism.
+The Old Right’s maneuvering in the shadow of the Korean War paved the way for the rise of the globalist, interventionist New Right of Barry Goldwater and Ronald Reagan.
+So pilloried, they were a useful foil to Cold Warriors in both parties.
+Taft’s ill-deserved reputation as a doctrinaire conservative would serve him well though in the wake of the Vietnam War.
+Critics of the United States intervention in that Asian conflict would proclaim the much-maligned Taft a “sober, wise, and realistic voice” who had warned of the dangers of the Cold War.
+It is more than a little ironic that the Cold War consensus is perhaps Taft’s most significant historical legacy.
+Cuba and the End of the Cold War Consensus This Cold War narrative’s dominance, however, lasted only about a decade.
+It was not defeat in Vietnam but triumph in Cuba that allowed liberal internationalists to drift from the Cold War narrative.
+Liberal activists and intellectuals had for years been poking holes in the Cold War narrative.
+Behind closed doors, some officials, including Kennedy himself, questioned key elements, especially the zero-sum nature of superpower competition.
+The major exception was the Sino-Soviet split, whose importance experts and policy-makers publicly recognized by the early 1960s, and they perceived centrifugal forces—“polycentrism” was the inelegant term—elsewhere in the communist world.
+In general, however, the Times’s editorials on foreign affairs remained faithful to Cold War axioms, and the Kennedy administration’s public rhetoric continued to hew to Cold War orthodoxy.
+The gap between the president’s private musings, which displayed a “mentality extraordinarily free from preconceived prejudices,” and his public rhetoric startled former Ambassador to the USSR Chip Bohlen.
+Khrushchev “would like to prevent a nuclear war but is under severe pressure from his hard-line crowd … I’ve got similar problems,” he told Norman Cousins, editor of the Saturday Review.
+Although we now know that the resolution of the crisis was a negotiated outcome in which the United States accommodated Soviet and Cuban concerns, the administration successfully went to great lengths to keep secret its agreement to remove the Jupiter missiles from Turkey.
+However, the prevailing view at the time across the political spectrum was that Kennedy had scored a great victory, and journalists had difficulty exercising restraint.
+Kennedy had “made clear time and again” that violence was not a rational tool of policy in a nuclear-armed world, and it was “encouraging” that Khrushchev now agreed.
+Khrushchev had suffered a “humiliating defeat” in Cuba that he would never live down, while Kennedy deserved “the chief credit … the fateful decision to confront Soviet 88.
+Under the shadow of mutual assured destruction whose implications, thanks to liberal Cold Warriors, both superpowers now grasped, liberal internationalists at the Times looked forward to the possibility of ending the Cold War.
+It opened political space for them to narrate the world in public the way many had behind closed doors.
+As Beschloss notes, “there was not a sentence in this speech with which would have privately disagreed in 1960.
+Although it amplified Americans’ fears of nuclear holocaust, Cold Warriors had previously grasped that mutual assured destruction gave the superpowers a common interest in avoiding direct confrontation.
+This premise underlay the Eisenhower administration’s embrace of “massive retaliation,” which presumed that the Soviets would heed American threats, if only in extremis.
+That the Soviets backed away from the brink in Cuba was consistent with Cold War expectations and did not necessarily mean that they were open to genuine dialogue and a permanent settlement.
+That inference would have been reasonable if the Soviet Union had substantially changed its behavior after the crisis.
+The crisis, conservatives argued, demonstrated the imprudence of deviating from the path of strength.
+See also “Getting Back on Our Own Feet,” Chicago Tribune, 25 October 1962, 18.
+Conflicting interpretations regarding United States adversaries, superpower relations, and the magnitude of the threat were equally sustainable in its wake.
+The battles over Vietnam at home took place on a narrative terrain that had already begun to fracture.
+On the one hand, it offers a reinterpretation of an important historical case.
+It shows that the narrative of national security that historians refer to as the Cold War consensus became dominant later, and lost its dominant standing earlier, than conventional accounts suggest.
+On the other hand, it also rethinks theoretically why and how major institutional and ideational change takes place.
+To make sense of the Cold War consensus, I advance a more deeply political theoretical account.
+This article’s novel account of the Cold War consensus has implications for at least three enduring puzzles of United States policy during the Cold War.
+First, for United States state development, from one vantage point, it is surprising that the Cold War did not produce a garrison state.
+However, from another perspective, the puzzle is why the Cold War brought about a broad and deep national-security state and militaryindustrial complex despite antistatist traditions in the United States.
+The Old Right’s abandonment during the Korean War of the nationalist narrative opposing Cold War globalism provides part of the answer.
+See “Ike Counsels No Relaxing in Wake of Crisis,” Chicago Tribune, 30 October 1962, 11; and “Test Ban Treaty,” Chicago Tribune, 27 July 1963, N12.
+Third, concerning the Vietnam War, scholars now know that large-scale United States military intervention in Southeast Asia was not a direct result of Cold War groupthink.
+But that indictment continued to resonate in the mid-1960s, with tragic consequences.
+Whether my counterintuitive theoretical argument travels beyond the Cold War and beyond the United States remains to be seen.
+It is true that, unlike other nations, the United States, by virtue of its geographical position and the absence of peer competitors in its hemisphere, normally has been located far from the battlefield and somewhat shielded from the costs of war.
+But distance has not led Americans to look on the nation’s faraway wars with equanimity, and these wars, even when limited in scope, have resonated powerfully in American politics.
+The political stakes of war are at least as great when the battle rages nearby, and wars on one’s own territory can still be protracted, end indecisively, and be subject to multiple interpretations.
+Despite the unusual United States geopolitical position, there is little reason to think that its experiences with respect to national security narratives are unusual.
+However, those factors should, if anything, have rendered national security narratives more responsive to presumptive global realities and less subject to the logic of narrative politics.
+The ways in which the Cold War was an outlier make it an especially hard case, which should give greater credence to the theoretical claims.
+Although space constraints preclude much consideration of the argument’s crossnational applicability, it is common for political oppositions to criticize military operations from the safe terrain of the dominant narrative.
+Everywhere the natives proved ungrateful for the graces of liberal empire.
+But their continual resistance, and the imperial forces’ regular setbacks, typically led to questions about methods and means, rarely to fundamental challenges to the imperial enterprise and its civilizing mission.
+The initial stages of the Yom Kippur War of October 1973 were so disastrous that it came to be known in Israel as the mehdal—the failure—despite the subsequent operational triumphs.
+However, the oft-heard charges of complacency, arrogance, and poor judgment directed at the political and military leadership and the intense demand for political accountability resulted in no fundamental rethinking of Israel’s strategic environment, strengthened the right and the rhetoric of siege, and left the dominant narrative largely intact.
+France’s floundering in Indochina and Algeria in the 1950s led to constitutional change, but opposition leader and then President 106.
+The same dynamics were also at work in American politics in the decade after 9/11.
+The administration of President George W Bush sold the Iraq War by binding it tightly into the War on Terror.
+One might have expected the Terror narrative to have met its end in the sands of Iraq, just like the United States military’s travails in Vietnam supposedly shattered the Cold War consensus.
+One might have expected the administration’s Democratic opponents to jump at the chance to articulate a different narrative of national security.
+I have argued in this article, however, that although wartime setbacks shift narrative authority to the opposition, opposition doves are hesitant to break with the war’s underlying rationale.
+However, even as United States forces in Iraq faced an increasingly sophisticated and effective insurgency and even as the insurgency morphed into a sectarian civil war, leading Democrats left the underlying Terror narrative untouched.
+Even as they stridently criticized a war they had once supported, leading Democrats did not launch a frontal assault on the War on Terror.
+Instead, they cast the Iraq War as a betrayal of the War on Terror properly conceived, in Afghanistan and Pakistan.
+They might have seized the opening the Iraq War provided to argue that terrorism was a concern, but no longer preeminent; that counterterrorism should not take pride of place above all other foreign policy initiatives; that a war against terror and violent extremism was misguided; and that 9/11 did not mark a fundamental change in global politics.
+As a result, the Terror narrative maintained its dominant position for much of the decade—even though another mass-casualty attack on United States soil did not take place, even though both United States overseas adventures and its domestic counterterror campaign had proved extremely costly, and even though the public had soured on the wars in Iraq and Afghanistan.
+The wartime politics of failure curbed the degree to which Democrats confronted the Terror narrative.
+Their rhetorical choices amidst a failing war whose outcome remained uncertain were understandable, but they thereby missed an opportunity to alter the 107.
+If Democrats complain that the War on Terror lasted too long, and in ways is still with us, they partly have themselves to blame.
+The Orientation of Newspaper Endorsements in United States Elections, 1940–2002.
+A New History of United States National Security Policy Since World War II, edited by Andrew J Bacevich, vii–xiv.
+Propaganda, Politics, and Public Opinion in the United States, 1950–1953.
+Domestic Politics, International Pressure, and the Allocation of American Cold War Military Spending.
+The Iraq War and the Loss of Republican Dominance in National Security.
+The Dynamics of Influence Among Media Opinion, the Public, and Politicians.
+Britain and Ireland, France and Algeria, Israel and the West Bank-Gaza.
+A Cultural Explanation of Sweden’s Intervention in the Thirty Years War.
+The Politics of National Security from World War II to the War on Terrorism.

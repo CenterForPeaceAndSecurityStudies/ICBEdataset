@@ -1,0 +1,558 @@
+DISTRIBUTION CODE The Russian annexation of Crimea stimulated the author’s interest in researching the “little green men” that appeared at a decisive point in the coup de main.
+The intent here is to understand the capabilities and limitations of the Russian special operations forces and the level of threat they present to North Atlantic Treaty Organization members and Russia’s neighbors.
+This study uses Colin Gray’s strategic utility theory to understand why Russian leaders choose unconventional warfare over conventional warfare, and how well the Spetsnaz execute assigned missions.
+Soviet and Russian military doctrines constitute a baseline for the evolution of Russian strategy and of Spetsnaz in parallel.
+Three case studies—Operation Danube in Czechoslovakia, the first and the second Chechen wars, and the annexation of Crimea—contribute to this research.
+Russian Spetsnaz per se are competent enough to fulfill their duties; however, they do not make up for poor planning, weak strategy, and general incompetence.
+When Russia has vigorous plans and a strong strategy, the Spetsnaz become an indispensable element.
+Thus, it behooves the decision makers of concerned countries to remain vigilant and take precautions and countermeasures to ensure the Spetsnaz will not surface in their nations’ capitals out of the blue.
+NUMBER OF strategic utility, Spetsnaz, spetsialnogo naznacheniya, special forces, special operations, special PAGES operations forces, SOF, Soviet Union, Russia, Prague, Czechoslovakia, operation Danube, the 89 First Chechen War, the Second Chechen War, Chechnya, annexation of Crimea, Ukraine PRICE CODE 17.
+SECURITY CLASSIFICATION OF REPORT Unclassified NSN 7540-01-280-5500 18.
+STRATEGIC UTILITY OF THE RUSSIAN SPETSNAZ Abdullah Atay 1st Lieutenant, Turkish Special Forces B.S., Turkish Military Academy, 2010 Submitted in partial fulfillment of the requirements for the degree of MASTER OF SCIENCE IN DEFENSE ANALYSIS from the NAVAL POSTGRADUATE SCHOOL December 2016 Hy Rothstein, Ph.
+D Chair, Department of Defense Analysis THIS PAGE INTENTIONALLY LEFT BLANK IV ABSTRACT The Russian annexation of Crimea stimulated the author’s interest in researching the “little green men” that appeared at a decisive point in the coup de main.
+Without their help and compassion, I would hardly achieve anything at all.
+Second, I would like to thank the Defense Analysis Department faculty and all other people who have provided the perfect environment in which to leam.
+John Arquilla for canalizing me into the right track in the beginning of this research.
+Furthermore, I appreciate Frank B Steder’s extreme efforts for encouraging me to write and finish an article about the annexation of Crimea, which eventually became a case study in this thesis.
+Mark Galeotti, senior research fellow at the Institute of International Relations Prague, for his prompt response to my request for a reading list.
+INTRODUCTION Much research has been conducted on Russia’s activities along its borders and its diplomatic and territorial gains.
+However, very little research focuses on the Spetsnaz, spetsialnogo naznacheniya or Russian special forces, and virtually none focuses on their strategic utility.
+If these “little green men” were Spetsnaz, their clandestine conduct and their success are extremely intriguing.
+To clarify the scope of this research, insights on how and to what extent Russia employs the Spetsnaz are pursued.
+Specifically, this thesis tries to find out how the Spetsnaz shaped the battlefield in the early phases of several conflicts and how they performed.
+Russian operations in the annexation of Crimea constitute the main focus of this research.
+Soviet-era “active measures” are reviewed to detennine if these techniques have been revived by the Russian Federation.
+In addition to the annexation of 1 Crimea, this thesis includes comparative case studies dating back to the founding of the Russian Spetsnaz in 1950.
+In Russia’s case, such special operations forces include Spetsnaz—the “little green men” who allegedly appeared at the decisive point of the annexation of Crimea in 2014.
+This thesis explores Colin Gray’s theory of “the strategic utility of special operations” 2 by focusing specifically on the utility of the Russian Spetsnaz in the context of the Russian military strategy.
+Therefore, the literature about both the theory of strategic utility and the Russian Spetsnaz are in consideration.
+The actions of the Russian Spetsnaz in Chechnya during the Chechen wars; in Georgia, during the annexation of Crimea; and in Eastern Ukraine constitute the main focus of the examination of the strategic utility of the Russian Spetsnaz.
+Little research has been conducted on the strategic utility of the Russian Spetsnaz.
+However, one should note that there is also little written on the strategic utility of special operations forces in general.
+Gray corroborates the inadequacy of this literature after assessing David Thomas’s article, “Importance of Commando Operations in Modem Warfare, 1939-82” and McRaven’s, Spec Ops.
+Gray viewed Thomas’s article as the closest in spirit and purpose to his analysis, while he thought McRaven’s Spec Ops was completely deprived of strategic reasoning.
+This acknowledgement sheds light on the assessment of the strategic utility of the Russian Spetsnaz.
+Furthermore, Gray groups the “economy of force” and the “expansion of choice” as the master claims of the strategic utility of special operations and “innovation,” “morale,” “showcasing of competence,” “reassurance,” “humiliation of the 3 Ibid., 153.
+By comparison, Ross Kelly’s treatment of strategic utility in his book Special Operations & National Purpose , 6 which was published in 1989, nine years earlier than Gray’s Explorations in Strategy, is similar to Gray’s theory.
+However, Kelly does not directly mention the strategic utility of special operations.
+Instead, he analyzes the special operations forces of NATO members and the “special purpose forces” of Warsaw Pact members both in the alliances’ contexts and the countries’ own national purposes as a policy tool.
+He also examines the Soviet regime’s use of Spetsnaz, which may give insight on how the Russian Spetsnaz is employed in today’s conflicts.
+Kelly’s analyses in his comprehensive work may fall under Gray’s category of “expansion of choice” for respective countries, as the former’s conclusion leads to how special operations forces would achieve their missions rather than how their missions would contribute to the main effort.
+In this respect, the mainstream arguments about the use of special operations forces mostly correspond to Kelly’s treatment—vaguely asserting how special operations forces can fulfill the requirements of special operations better.
+Whether those arguments assert that special operations produce strategic outcomes or not, their main focus mostly stays at a tactical level.
+Respectively, McRaven 7 in 1996, Marquis 8 in 1997, and Adams 9 in 1998 contribute to the literature of special operations and special operations forces, but neither mentioned SOF’s strategic utility.
+In addition, there are several reports on the organizational structure and defects of Russian special forces.
+Russia’s Special Forces, 10 which is an explanatory book illustrated by Johnny Shumate; Tor Bukkvoll’s, “Military Innovation Under Authoritarian Government—the Case of Russian Special Operations Forces,” 11 an article that studies the reforms in the Russian special operations forces after 2008, the period which Galeotti refers to as the modern Spetsnaz; and Brothers Armed: Military Aspects of the Crisis in Ukraine 12 edited by Colby Howard and Ruslan Pukhov.
+Military Aspects of the Crisis in Ukraine is the most comprehensive work with a focus on operations in Ukraine.
+However, to reiterate, none of the works on Spetsnaz focuses on strategic utility.
+Suvorov credits the military Spetsnaz as the main executor of nearly every remarkable external operation rather than the KGB Spetsnaz.
+To balance his claims, the other book, Inside Spetsnaz, reads otherwise.
+The Inside Story of the Soviet Special Forces, 4-9. 5 of Suvorov’s claims, both books are good sources for a general portrait of the emergence of Spetsnaz as an indispensable element in the Soviet statecraft.
+Or, the myth they have created may focus more attention on the Spetsnaz, per se, than their strategic utility, and the latter may require retaliation or reaction.
+Russia’s permanent seat in the United Nations Security Council and “below-the-threshold of the Article 5” political and military actions provided excuses to NATO that was neither ready nor willing to act against Russia’s expansion.
+The reluctance of NATO to react may be regarded as the collapse of deterrence.
+Then there is the “Gerasimov Doctrine” itself, and reviews of it by several pundits, contribute to understanding Russian attempts to test NATO’s response, as well as Russia’s approach to employing special forces to achieve strategic objectives.
+A Political Analysis of Egypt and Israel, 1971-73,” Journal of Strategic Studies 5, no. : 94121, doi: 10.1080/01402398208437103.
+The third condition requires competent special operations forces and leads to the second hypothesis.
+Hypothesis-2 Spetsnaz produce a strategic outcome when they conduct covert operations in unconventional warfare.
+APPROACH The aim of this thesis is to explore the strategic utility of Russian Spetsnaz.
+This exploration will also illuminate the unique conditions that lead Russian decision makers to choose covert operations to accomplish strategic objectives, and the Spetsnaz’s capabilities and limitations to conduct such operations.
+Colin Gray’s theory of “the strategic utility of special operations” 18 is applied to the following selected cases to examine the significance of the Spetsnaz to Russian strategic purposes.
+Conclusions and 18 Gray, Explorations in Strategy’. 7 recommendations are intended to inform decision makers in NATO and Turkey about the potential threat emanating from Russia.
+The research is motivated by the nearly bloodless Russian annexation of Crimea.
+This thesis examines conflicts in which the Spetsnaz have been employed since their formal founding in 1950 19 and analyzes selected conflicts in retrospect for a better understanding of the advantages and disadvantages of unconventional warfare.
+These conflicts are selected to study the adaptation of Russian special warfare, especially unconventional warfare, and special operations forces in the context of the respective times.
+The selected cases include Operation Danube in Czechoslovakia, the first and the second Chechen wars in Chechnya, and the annexation of Crimea.
+Operation Storm-333 and the decade-long follow-up operations in Afghanistan, conflicts in Abkhazia and South Ossetia in Georgia, and ongoing clashes in the Donbas region in Ukraine.
+The selection of these campaigns aims to identify patterns of Soviet and postSoviet era employment of Spetsnaz.
+Although the Spetsnaz were also deployed to Hungary, Angola, Ethiopia, Cuba, Tajikistan, and many other places, their respective roles were significantly different from those in the above cases and therefore not considered in this study.
+In addition, the presence of the Spetsnaz and the strategic targets of the Russian intervention in Syria are still ongoing.
+The contemporary political context and the military doctrine are examined to discern the strategic objectives of the conflict and the selection of unconventional warfare as a policy tool.
+The chronology of the conflict is followed to uncover the indicators of an ongoing unconventional war.
+Finally, the strategic utility of the special operations and the special operations forces’ contribution to the overall campaign are analyzed.
+To recap, first, the contemporary military doctrine and unique conditions that lead to the selection of unconventional warfare as a policy tool are examined.
+Second, the covert actions the Spetsnaz performed during selected campaigns are derived, and the indicators that occurred simultaneously or before the action are uncovered.
+Finally, the strategic utility of the special operations and the utility of the Spetsnaz to the overall Russian military strategy and Russian national purpose are assessed.
+The conclusion aims to raise awareness of the strategic utility of the Russian Spetsnaz and its implications for Russia’s opponents.
+Hopefully, political and military decision makers of NATO and beyond can examine their vulnerabilities and take necessary countenneasures.
+INTRODUCTION This chapter examines the military doctrine, perceived threat, and their implications for Spetsnaz in the Soviet era starting with Khrushchev, continuing with Brezhnev, and ending with Gorbachev; then it continues with the post-Soviet era, starting with Yeltsin and ending with the Putin administration.
+The strategic discourse in Russian military literature after World War II was shaped by the Soviet Union’s Cold War enemy, the United States.
+The Soviet and Russian military doctrines help the military stay alert for perceived threats.
+The strategic use of SOF units gained importance as late as 1956, as Soviet leaders realized the use of nuclear missiles at any proportion would spread throughout the globe.
+Thus, military advisors and stay-behind soldiers to support insurgencies gained importance.
+By means of the Spetsnaz, the Soviets both militarily advised pro-Soviet governments’ forces and trained guerrilla forces or indigenous rebels to topple antiSoviet ones.
+As time went by, the Spetsnaz became an indispensable element in Soviet statecraft.
+After the Soviet Union collapsed, economic stagnation increased the importance of the small units.
+However, they were used as a skeleton key in some conflicts to make up for the general incompetence of the Russian military.
+Then, as Gerasimov Doctrine shows, Russians learned to integrate the Spetsnaz with conventional forces.
+As mentioned above, the contribution of military doctrine to Russian statecraft precedes the current Gerasimov Doctrine.
+However, the Gerasimov Doctrine is a clear articulation of past, current, and likely future Russian strategy and contributes to the overall work.
+Lastly, the strategic utility of the special operations from the Russian perspective is examined based on Colin Gray’s theory of the strategic utility of special operations.
+POST-WORLD WAR II SOVIET ERA During the Kh rushchev era, nuclear deterrence was the main concern and the Spetsnaz did not draw much attention until the Brezhnev era.
+Effective use of the Spetsnaz started in the Brezhnev administration and then increased during the Gorbachev administration.
+The Spetsnaz performed several roles in those countries from providing foreign military assistance to direct action.
+Specifically, the invasions of Czechoslovakia and Afghanistan provide examples of the Spetsnaz’s employment as the “tip of the spear” in pursuit of the national purpose specified in the Brezhnev Doctrine, 37 which was produced to justify the invasion of Czechoslovakia.
+Khrushchev The victory shared by the allied forces after WWII brought about new animosities instead of peace for the Soviet Union, thus shattering its security perception.
+The emergence of a new cross-continental dominant power, the United States, worried the Soviet Union.
+The expanding ideology of capitalism would limit the Soviet Union’s playground in Eurasia.
+Furthermore, with regard to a shrinking defense budget, Kh rushchev tried to put more emphasis on weapon systems to challenge the West and tried to cut military personnel strength.
+However, Khrushchev’s plans instigated a discussion between two schools of thought within the military about future wars.
+The first group, the radicals, shared Khrushchev’s viewpoint that future wars, based on the adherents’ scientific prediction, would include a decisive use of nuclear weapons in the initial period of war.
+Therefore, maintaining a massive army in peace time would be uneconomical and unnecessary.
+The second group, the traditionalists, accused the radicals of not being realistic and chose to act cautiously based on a generalized experience of past wars, thus emphasizing the importance of multi-million-man armies.
+The traditionalists predominated despite Khrushchev’s opposing views, and since they had neglected the utility of special operations, the Soviet Union took conventional precautions to preserve the balance of power.
+They raised million-man armies and consolidated the Soviet military presence all around the world.
+This upgraded the Soviet position from regional power to a world superpower.
+According to David Holloway, ensuring the former was incumbent upon 39 “Khrushchev announced a reduction of 1,200,000 from a total of 3,623,000 men in the Soviet armed forces.
+With regard to preventing a general nuclear war, the main emphasis remained on the conventional units, and the Spetsnaz supported million-man armies, mostly by conducting strategic reconnaissance operations.
+The first Soviet military doctrine enunciated by Kh rushchev was shaped mostly around a weak combination of radical and traditionalist schools of thought, which essentially combined conventional and unconventional means.
+The use of SOF, as mentioned above, was mostly limited to the long-range reconnaissance of nuclear sites.
+With regard to the other aspects of power projection, Malinovskii, Marshal and Defense Minister of the Soviet Union realized the importance of nuclear weapons as a deterrent, as did Kh rushchev.
+However, unlike Khrushchev, Malinovskii never gave up the standing mass ground forces.
+For him, the victorious end state could only be achieved by, as Holloway writes, “combined action of all arms and services,” probably including the Spetsnaz.
+However, since the absolute consequences of a nuclear attack would be unknown, assured mutual destruction and its effects on deterrence aside, Kh rushchev’s threat alone was not 41 Holloway, “Military Power and Political Purpose in Soviet Policy,” 19.
+Brezhnev The West became more powerful at the Soviet Union’s expense through the end of the Kh rushchev era.
+Khrushchev, Report to Supreme Soviet of the USSR, Pravda, January 15, 1960.
+Until Brezhnev’s death, the main focus was to prevent a direct confrontation with the West, while consolidating power on its periphery.
+To control the near-abroad while keeping a balanced tension with the West, the Brezhnev administration depended highly upon surprise military interventions, which is made possible mostly by the Spetsnaz.
+The invasion of Czechoslovakia in 1968 and postwar justification of the invasion ultimately created the Brezhnev Doctrine, which simply stated that the Soviet Union would take precautions in the event a Soviet Bloc country would drift away from communist ideology.
+The Brezhnev Doctrine also justified the invasion of Afghanistan as it moved in a capitalist direction, even if it was not a Soviet Bloc country.
+After Brezhnev died in 1982, doctrinal changes started to emerge, but the repercussions of the infamous Brezhnev Doctrine lingered until late in the Gorbachev era.
+The need for a force that would satisfy the stealth requirement of Brezhnev’s grand strategy during Russian campaigns necessitated the use of SOF-capable units.
+During Brezhnev’s tenure, Spetsnaz units proved their ability to accomplish given objectives in Hungary, Czechoslovakia, and Afghanistan.
+As a result, military expenditures increased dramatically as Soviet military presence expanded.
+The Brezhnev 52 Ouimet, The Rise and Fall of the Brezhnev Doctrine in Soviet Foreign Policy, 2-4.
+In the transition from the Brezhnev era to the Gorbachev era, Yuri Andropov and Konstantin Chernenko ruled the Soviet Union for short terms, fifteen months and twelve months, respectively.
+Unlike Brezhnev, Gorbachev gradually retreated from the assertive use of military power in eastern Europe.
+To decrease the economic effects of the Afghan War and break the stalemate in the Soviets’ favor, more Spetsnaz units were introduced to the battlefield with an enhanced spectrum of missions.
+Galeotti claims that the 5 percent ratio of the Spetsnaz to ground troops in the beginning of the war increased to 20 percent towards the end.
+However, the efforts to win the Afghan War did not help the Soviet Union heal all its wounds.
+Brown, and Keith Crane, Soviet Foreign Policy and the Revolutions of 1989 in Eastern Europe , 1-2.
+Just a few years later, social democracies had taken the place of the Soviet communist regimes, most of which were deemed to be Soviet stooges, throughout Eurasia.
+Consequently, the unavoidable collapse of the Soviet Union entailed a new unipolar world order.
+The Russian Federation emerged as the successor of the Soviet legacy, yet was downgraded to a regional power.
+There have been differences between the legacy of the Soviet and Russian history.
+There are also considerable similarities with the old and new practices and perceptions of the West and in the countermeasures used to maintain security in the post-Soviet era.
+Yeltsin After a long period of decline, Russian statecraft was further crippled in a period of stagnation during the first president, Boris Yeltsin, which negatively impacted the success of the Spetsnaz along with other fighting units in the First Chechen War.
+The military strategy to provide security constituted no more than brute reactionary countenneasures to uprisings in order to prevent further instabilities and territory losses.
+Russia’s Special Forces, 30. 20 with conflicts when the Russians brutally captured Grozny and lost it two years later to the Chechen rebels.
+Surprisingly, in February 1994, nearly ten months before the war, all remaining veterans who had experience in urban fighting retired.
+Compared to other fighting units, only the Spetsnaz had better training and equipment.
+However, the reactionary approach that caught the army unprepared did not let the Spetsnaz make up for the general military incompetence.
+The Russians learned from their mistakes in the First Chechen War and launched the second campaign with more emphasis on Spetsnaz.
+Although the Second Chechen War proved more successful than the first based on better employment of Spetsnaz along with other Russian forces, it also sparked controversial debates its overall success.
+A bloody hostage rescue operation shattered world opinion about the Russian antiterrorist campaign.
+Furthermore, the military reform process that started in the nuclear age with Khrushchev was mostly suspended.
+Putin The strategic parity that eroded during Gorbachev’s tenure completely vanished in the Yeltsin era.
+Yeltsin later seemed to be a placeholder and his era seemed to be a transition period that lasted until a more powerful ruler who could regenerate the old power of the sublime Soviet Union took office.
+His successor, Vladimir Putin, put the country on the track for military reforms and started to proactively produce countermeasures to domestic threats and to threats from the West.
+He kept security responsibility in his own hands when he handed power to Medvedev.
+Medvedev’s efforts for a more accountable, democratic-like approach to security affairs turned out to be insufficient when Putin took the presidency back.
+Unlike Yeltsin’s reactionary defensive approach, Putin took a proactive, if not offensive, approach to security issues.
+The modernization of both the army’s structure and equipment, besides the new, all-inclusive employment of vast means to achieve more unified national objectives, put new tenns such as “hybrid warfare” into the doctrine, and concerns about Russia’s status in world affairs escalated.
+The ambiguous use of military and non-military means below NATO’s Article Five threshold and high emphasis on unconventional warfare in the areas of Russian interest blurred the line between peace and war and paralyzed the West, resulting in insufficient reaction.
+With Putin’s security measures, the Russian military started to make formidable territorial gains in the former controlled areas of the Soviet Union, with a considerable facilitation of Russian Spetsnaz.
+The Second Chechen War, the conflict in Abkhazia and South Ossetia, the annexation of Crimea, and the ongoing war in the Donbass region of Ukraine would exemplify Putin’s wars.
+While Putin’s wars were ongoing, the Russian military underwent military reform.
+The Russian military refonn, which was initiated by Defense Minister Anatoly Serdyukov after the conflict in Georgia in 2008, was continued under his successor Sergei Shoigu, and was accelerated later by Gen.
+Gerasimov, surfaced with new equipment for special operators during the Crimean conflict.
+The previously acknowledged article by Gerasimov insinuates what Russia’s new approach to security issues would be in the near future and is examined next.
+Significantly, the “Gerasimov Doctrine” perpetuates the Soviet tradition by identically including perceived threats, future war predictions, political approaches to world affairs, and military-technical aspects of countermeasures to win future wars.
+The “Gerasimov Doctrine” The portents of the special operations campaign conducted in Crimea in 2013 lie between the lines of the Gerasimov Doctrine and point out the new Russian strategy.
+In particular, two of Gerasimov’s points reflect on special operations and the use of SOF in Crimea.
+First, the covert actions of SOF, combined with active information and counterinformation operations, supplement the use of non-military means to achieve political and strategic goals.
+Second, the use of SOF and indigenous opposition forces create a pennanently active front through the entire territory of the target state, and establishes the means to carry out asymmetrical actions that nullify the target’s advantages.
+The Gerasimov model resuscitates the Soviet practices used in Czechoslovakia and Afghanistan in a modernized fashion with nuances.
+Actions to start a war without declaring it, may signal a return to the Soviet era in Russian foreign policy and jeopardize small neighbors rooted to the Soviet soil.
+The model also discloses the Russian perception of the tactics employed by the West in color revolutions as an excuse to reinvigorate similar tactics and techniques to achieve political ends.
+Bluntly, blame is on the West for what Russia would do in Crimea and Ukraine, and maybe Moldova, Lithuania, Latvia, or Estonia.
+What happened in Crimea puts Gerasimov’s model into practice and tested the quality of modernized SOF units.
+The actions were conducted by the Russian Spetsnaz and Naval Infantry in an obscure fashion, and what actually happened was unveiled after the victory.
+Consequently, the fait accompli paralyzed any mechanisms that could have reacted.
+Mark Galeotti explains the logic behind the “below-the-threshold” actions of 70 General Valery Gerasimov, Chief of the General Staff of the Russian Federation, originally published his article “The Value of Science in Prediction'’ in the Military-Industrial Courier, February 27, 2013.
+EVOLUTION OF THE STRATEGY The post-Stalin regimes faced many serious problems to solve in order to protect the balance of power with their adversaries.
+On the initiative of Kh rushchev and the Politburo staff at the time, efforts to create a basis for grand strategy, policies, and decisions instigated discussions among the professional elite that ended up as the military doctrine.
+Contrary to Kh rushchev’s idea of conventional disarmament in favor of strategic nuclear-missile technology, the military doctrine suggested constant readiness, military superiority both in quality and quantity, combined efforts of both new strategic and technological forces and conventional forces.
+The aim of this doctrine was to deter the West and avoid a world war, preempt an imminent attack with the first strike, and survive and assure victory in case deterrence and preemption fail and the war turns out to be protracted.
+In the age of nuclear weapons, preparation for a nuclear war by achieving parity was acceptable; however, Khrushchev failed to sufficiently do so.
+According to Holloway, Brezhnev took over the Soviet Union in a strategically inferior position and made strenuous efforts to achieve strategic parity with the West 73 Afterward, to defuse tension, Brezhnev signaled that the aim of the Soviet Union was not superiority.
+After Brezhnev died in 1982, doctrinal changes started to emerge, but the repercussions of the infamous Brezhnev Doctrine, which simply indicated that the Soviet Union would take precautions to maintain the Soviet bloc, lingered until late in the Gorbachev era.
+The “fraternal assistance” to nationalist movements, which started in the Kh rushchev era, turned into military intervention to prevent revolutions, and succeeded.
+The mass Soviet military presence backfired and failed to prevent the widespread reactionary movements to replace communist regimes with socialist democracies.
+The new inertia did not help Gorbachev restore power and the gradual contraction in the Soviet presence in Europe ended with the collapse of the communist bloc.
+The post-Soviet Russian Federation created a balance of power with NATO after a stagnation during Yeltsin’s tenure.
+Russia has perpetuated the Soviet legacy of expanding Russian regional control and successfully prevented the West from meddling with its business.
+By using all its elements of national power in harmony, Putin’s Russia has tried to reinvigorate the communist bloc.
+With the transformation of the threat from nuclear weapons to terrorist networks, Russian countermeasures also evolved from necessary means to survive in nuclear warfare to all-inclusive combined covert efforts to succeed in hybrid warfare.
+THE STRATEGIC UTILITY OF SPECIAL OPERATIONS IN RUSSIAN PERSPECTIVE The emphasis on multimillion-man armies in the Russian military discourse has recently shifted towards special operations, due to the changing threat perception and resources at hand.
+In theory, the strategic utility of special forces is mostly based on the strategy, task distribution, and capability of the units to achieve assigned tasks.
+Colin Gray argues that, “he strategic value of special operations forces depends not just on 75 Ouimet, The Rise and Fall of the Brezhnev Doctrine in Soviet Foreign Policy, 2-4.
+That said, the overall strategy remains most important and the various missions SOF would execute to support that strategy remains crucial.
+The Soviets first sensed the need for special operations to prevent possible escalation of global conflicts while pursuing their goals.
+Khrushchev intended to maintain Soviet military support to “national liberation movements,” but to refrain from an escalation into a war between states.
+As Sokolovskii suggests in Soviet Military Strategy, By drawing this distinction, Kh rushchev seemed to be saying that local war situations involving formal confrontation of Soviet and United States forces were dangerous and should be avoided, whereas national liberation struggles including guerrilla and proxy forces might be supported without undue risk.
+The strategic path that would lead to political and military victory during the nuclear age entailed unconventional warfare that would avoid engagement in a mutually destructive nuclear confrontation.
+The Soviets, being aware of the power of covert actions, regarded anti-Soviet movements in the Soviet bloc as the work of foreign agents.
+In that respect, they used the argument of foreign involvement to justify their interference in their neighbors’ sovereignty.
+Reliance on tanks and troops gave way to the use of “special forces” and the strategic application of ultimatums.
+All necessary means, legal or illegal, were employed to compromise the authority of the reformist government while strengthening its conservative opponents.
+In order to balance the expansion of capitalism by influencing foreign governments, the Soviets employed special operators as military advisors all around the world.
+Rather than direct confrontations with the West, they tasked the Spetsnaz to serve as advisors in many countries to propagate communist ideas as a shield against Western imperialism.
+The use of special operations to achieve strategic outcomes under Putin developed in a similar way with the operations in Czechoslovakia.
+First, Gerasimov and Putin put the blame on foreign agents for setting the stage for so-called “colored revolutions” and Arab spring, with the aim of changing the regime.
+Without causing any reaction by the West, the near-bloodless annexation of Crimea represents one of the most significant military successes and strategic gains in recent history.
+CONCLUSION The Soviets and then the Russians increasingly employed the Spetsnaz and other SOF-capable units to wage unconventional wars off the Western radar.
+Especially during the Soviet era, the Spetsnaz left indiscernible footprints by conducting low-profile, covert 82 Ibid., 95.
+Strategy and its practical implications in both the Soviet Union and the successive Russian Federation look identical.
+The Russians idiosyncratically justify their aggression by projecting a perceived interference by the West in their interest areas.
+Afterward, they use that perceived threat as a basis to counteract and subvert the unwanted outcomes in Russia’s favor.
+To achieve national objectives, the Russians increasingly rely on special operations.
+Thus, covert operations give the Russians increased space where they can politically maneuver.
+The nuclear threat during the Cold War compelled the Soviet Union to have deniability as an important factor to maintain a balance.
+The military doctrine during Khrushchev’s tenure required the Soviets to avoid mutual nuclear destruction.
+In that respect, Kh rushchev tried to implement conventional disarmament in favor of strategic nuclear missiles.
+He aimed to achieve strategic superiority over the United States by doing so.
+Still, Brezhnev managed the crisis skillfully and declared that the aim of the Soviet Union was to accomplish strategic parity rather than superiority.
+However, Brezhnev did not relinquish Khrushchev’s policy of keeping control over the Soviet bloc, and the operations he led in Czechoslovakia brought about the infamous Brezhnev Doctrine.
+Accordingly, the Soviets employed the Spetsnaz to facilitate control within the Soviet bloc and not provoke the West.
+During the Gorbachev era, the strategic parity evolved to a “new thinking” in strategic aims, which promoted openness and restructuring.
+However, they also contributed to the dissolution of the Soviet Union and the rise of the Russian Federation.
+The immediate perceived threat for the Russian Federation became further territorial losses.
+He aimed to restore central control over the separatist regions and gain a reputation by doing so.
+To his surprise, he lost the First Chechen War and was replaced by Putin.
+General Gerasimov articulated a new model, mostly known as the Gerasimov Doctrine or Model, which adds scientific prediction to power projection.
+In that model, Gerasimov emphasizes the use of special operations in the fluid nature of current and future conflicts, where there remains no boundary between peace and war.
+The strategic utility of the Spetsnaz has been consistent in Soviet and Russian Federation statecraft.
+In Hungary, GRU Spetsnaz captured the leaders and stopped the anti-Soviet rebellion.
+In Czechoslovakia, they facilitated the entry of the Soviet Army into the country and captured key government buildings as well as government officials.
+In Afghanistan, other than accomplishing similar objectives as in Czechoslovakia, the Spetsnaz introduced new tactics—specifically the use of helicopters to infiltrate, to evacuate, and to provide fire support—for Soviet operations.
+The Spetsnaz acquired more resources as they gained the trust of Soviet leaders.
+Even in 1987, as Galeotti claims, “a Spetsnaz unit received its own dedicated air element,” for the first time.
+As the Spetsnaz garnered more resources, the leaders expected more from them.
+Another reason why Russia emphasizes the use of special operations is due to the economic downturn.
+Overall, as the spectrum of threats became more intricate, and the resources at hand lessened, special operations came into focus in Russian military discourse.
+While Kh rushchev’s doctrine and the Brezhnev Doctrine did not address directly the use of special operations, the Gerasimov doctrine did.
+Gerasimov directly addresses the importance of employing special operations forces and countering the enemy’s.
+The specific focus on special operations forces proves the strategic importance of the special operations in current Russian statecraft.
+However, the Soviet leaders worried that the reform movement would eventually break the country’s allegiance to Moscow.
+They ran out of options as Dubcek did not slow down the momentum of the reforms and sought grounds for a military intervention.
+The Soviets still had influence on the inner circles of the Czechoslovak administration, which gave them the advantage of preempting the Czechoslovak defense.
+On the other hand, the Soviet Union sought an acquiescent attitude from its Cold War opponent, the U.S., before the invasion.
+President Lyndon B Johnson left Washington, DC, in August to return in September.
+The Kremlin regarded his distance from the capital on the brink of the aggressions as an implicit approval of the operation.
+Since no diplomatic solution and no external objection appeared, the Soviets decided to invade Czechoslovakia with support from four other Warsaw Pact countries—East Gennany, Bulgaria, Hungary, and Poland.
+East Gennany also played an important role by sapping Czechoslovakia of resources that could have helped the reformers in the country.
+Albania, Yugoslavia, and Warsaw Pact’s Romania diplomatically supported Czechoslovakia.
+On August 20, more than 500,000 Warsaw Pact troops crossed the Czechoslovak borders, led by Anny Gen.
+PURPOSE AND OBJECTIVES The main purpose of the operation was to replace the current leader of Czechoslovakia with a pro-Soviet one.
+The Soviet leaders failed in the negotiations to implement their desire to end the Prague Spring and decided on military intervention to thwart Dubcek’s refonn movement.
+In an ultimatum, they asked Dubcek either to revoke the reforms and conform to Soviet socialism or face a coup.
+Soviet political leaders also may have wanted to keep the Eastern bloc from dissolving.
+The risk that the reform movement in Czechoslovakia could extend to the rest of the Eastern bloc countries worried them.
+The military intervention in that sense would show Soviet leaders’ determination to keep the Warsaw Pact united while “liberating” Czechoslovakia.
+Soviet military leaders focused on invading the capital, Prague, as the main objective for a quick victory.
+To prevent heavy losses, they emphasized paralyzing the enemy’s vital center by massive surprise attacks.
+The leaders ordered the Spetsnaz to secure the Ruzyne airport, to lead the way through Prague, and like Hungary, to capture the opponent’s political leaders and bring them to Moscow.
+Meanwhile, other Warsaw Pact countries would penetrate the country from several directions to create a diversion and to prevent a possible counterattack from Prague.
+Nearly five days after the operation began, Dubcek and the Soviets settled the situation in the Soviet Union’s favor in the Kremlin, when possibly Spetsnaz operatives escorted him and his cabinet into Moscow to attend meetings.
+CONCEPT OF THE OPERATION The first element of Spetsnaz secured an airhead and then the rest of the Spetsnaz, airborne troops, and anned forces contingents arrived at the Ruzyne airport to occupy Prague.
+At that time, the GRU operated under the KGB, especially in operations abroad where the political situation looked sensitive.
+Before the war, the KGB and the GRU had already established pro-Soviet networks inside Czechoslovakia.
+Those networks, the communist hard-liners, and Soviet operatives inside Czechoslovakia facilitated the invasion.
+The Kremlin used a reverse psychology on Czechoslovak leaders and the Soviet public using the press to cover for its illicit plan.
+Pravda, a Soviet propaganda disseminator, headlined fabricated evidence that implicated the United States in a coup attempt in Czechoslovakia.
+With that, the Soviet leaders probably aimed to justify the Soviet Army’s prospective invasion of the country.
+Professor Valenta claims that the KGB and their agents in Czechoslovakia were most likely involved in placing the United States origin weapons as evidence of a U.S.-based counter-revolutionary coup attempt.
+In that sense, the operational concept was a surprise attack to invade the country with an army of nearly half-million men.
+The Soviets employed the Spetsnaz to shape the battlefield before the invasion and then to lead the way.
+By capturing the leaders without harming the city and ultimately replacing them with pro-Soviet stooges, the Soviets accomplished an external coup.
+ROLE OF SPETSNAZ In August 1968, the Soviet Union “temporarily” sent troops to “liberate” Czechoslovakia.
+By declaring the invasion as “temporarily to liberate,” the Soviet Union intended to keep the West from intervening, and also to ease fear among Czechoslovaks.
+The West did not intervene other than a weak condemnation from the United Nations , but the Czechoslovak people protested the Soviet troops.
+Thus, KGB Spetsnaz operatives landed at the Ruzyne airport near Prague in civilian clothes and contacted pro-Soviet security officers.
+With their help, the Aeroflot airplanes carried the GRU Spetsnaz soldiers first.
+What Happened to the United Nations Dream and What the United States Can Do about It , 71—72.
+After the KGB and GRU Spetsnaz completely took control of the airport, GRU Spetsnaz, along with the mass army components, moved through the city center to capture key government buildings.
+The Spetsnaz and SOF-capable airborne troops, after occupying key facilities, captured Dubcek and other reformist cabinet members.
+The day after the invasion began, they escorted the officials to the Ruzyne airport and onto Moscow in a military aircraft.
+RESULTS The KGB and GRU Spetsnaz enabled a mass army to enter Czechoslovakia and captured the reformist leaders alive.
+Given the politically-sensitive environment and the importance of public opinion, the Spetsnaz contributed greatly to the overall campaign.
+It is difficult to differentiate and compare the relative quality of KGB Spetsnaz and GRU Spetsnaz.
+Galeotti suggests that the KGB’s chief Yuri V Andropov’s interaction with the Spetsnaz played a vital role in employing them.
+In 1956, when Andropov was the Soviet ambassador to Budapest, he suggested the use of Spetsnaz to capture cabinet members to quell the Hungarian uprising.
+Later, as he recognized the utility of such forces, he created the KGB’s own Spetsnaz in 1967.
+A Chechen Muslim imam and a Sufi scholar, Mansur gained fame among the Caucasian people and gathered several ethnic groups together to rise as one against those Muslims he considered corrupt.
+Subsequently, he transfonned his campaign into one to obliterate non-Muslims, specifically Orthodox Christian Russia.
+Mansur’s efforts to convince Ottomans to aid his jihad rang alarm bells, and the Russians sent the Astrakhan Regiment to quell the uprising.
+This phenomenal victory helped spread the word about Mansur’s reputation in defeating the Russians, and Mansur gathered 12,000 men from across the North Caucasus to fight in successive campaigns.
+He remained active until his capture in 1791, but without another significant victory.
+However, his struggle proved that Chechens would be a thorn in Russian security.
+In an attempt to secure the routes to Georgia and to provide safety during the Russo-Turkish and Russo-Persian conflicts, Russia assigned General Alexei Yennolov the task of extending its rule in the North Caucasus.
+Numerous Russian victories over Shamil’s men misled the Russians to believe that the Chechen will to resist was easy to break.
+However, until the end of Crimean War in 1856, Shamil and his men were able to sustain the fight using guerrilla tactics.
+Russia was able to deploy the bulk of its forces to Chechnya when the Crimean War ended.
+In 1859, Shamil was detained, and Chechnya formally became part of Russia again.
+The collapse of the Russian Empire and the subsequent emergence of the Soviet Socialist Republic gave Chechens hope for independence, but the bubble burst quickly.
+A Case for Hybrid Warfare” (Master’s thesis, Naval Postgraduate School, 2002), 44.
+His harsh treatment brought about another rebellion that only lasted for a year.
+Stalin never allowed Chechens free rein, and he managed to quash every secessionist movement.
+In 1937, after seven years of a Red Army crackdown on the region, Stalin ordered the execution of 14,000 Chechen and Ingush.
+Instead of fading away in exile, the Chechen will to resist flourished as they transfonned into a nation.
+The battle-hardened, tight-knit, and revengeful Chechens returned to what remained of their homes.
+As the deportees arrived, a new debate between the returning old inhabitants and the new owners of the lands and properties brought about tension.
+Along with domestic problems, the incumbents’ failure to address the underlying issues that caused the Russo149 Ibid.
+A Case for Hybrid Warfare,” 47; Galeotti, Russia’s Wars in Chechnya, 1994-2009, 20.
+The hardship the Chechens faced during the exile in the mid 20 th century molded the Chechen youth and steered them towards leading and fighting in the First and Second Chechen Wars.
+After the Collapse of the Soviet Union In the 1980s, thanks to Mikhail Gorbachev’s liberal reforms, the Chechens started to seek freedom in a nationalist campaign led by Dzhokhar Dudayev.
+With the opportunity that the Soviet Union’s collapse created, Dudayev declared independence after winning the October 1991 presidential election held in Chechnya.
+Boris Yeltsin, then the president of the Russian republic, declared the election null and ordered a battalion of interior troops to arrest Dudayev and quell the uprising.
+In contrast to Yeltsin’s intentions, unsuccessful Russian attempts to keep the Chechens under Russian control made the Chechens entrench in their national cause.
+In June 1992, Russia again refused to accept the self-declared Chechen Republic of Ichkeria as an independent state after the split of Ingushetia and Chechnya.
+Russia embarked on an operation in December 1994 under the above-mentioned circumstances in a bid to deny independence to Chechens.
+The First Chechen War lasted two years and ended in the fall of 1996 with a subsequent peace settlement in November.
+The Russian defeat in the war caused a dramatic decrease in popular support for Yeltsin.
+He suggests that “ was determined to emulate the Estonian revolution and bring independence to Chechnya.” see Mike Bowker, “Conflict in Chechnya,” in Russian Politics under Putin, ed.
+His successful reelection in 1996 did not restore his prewar popularity.
+Increasing tensions and his inability to deal with the situation contributed to Vladimir Putin’s rise to power.
+In December, a month after Russian forces marched into Chechnya for the second time, Putin replaced Yeltsin as the Russian President.
+These terrorist actions were allegedly conducted by Habib Abdurrahman Khattab’s group , Chechen warlord Shamil Basayev and his followers, and Dagestani Islamist Radicals.
+The same tripartite alliance resulted in a large-scale incursion into Dagestan to liberate it from Russia and join with Chechnya in a single Islamic State.
+In order to end the terrorist activities and secessionist movements, Russian forces again moved into Chechnya in October 1999.
+After ten years of devastating terrorist actions, catastrophic hostage rescue operations, and political turmoil, the Kremlin officially ended the war in April 2009, declaring the counterterrorism operation in Chechnya over.
+Nevertheless, endless turmoil in the North Caucasus continues to contribute to global jihadist terrorism by exporting fighters to conflict zones all around the globe.
+He later successfully isolated Chechen’s fight from international support and inserted a Russian proxy, Akhmad Kadyrov, into Chechnya to rule the region in accordance with Russian interests.
+After Akhmad Kadyrov’s death by suicide bomber in May 2004, his son, Ramzan Kadyrov, was appointed prime minister and then Chechen president in March 2006 and in March 2007, respectively.
+Since then, Ramzan Kadyrov has ruled Chechnya with allegiance to Putin.
+The First Chechen War Yeltsin struggled to prevent the Russian Federation from dissolving despite his pre-election rhetoric to grant the constituent states freedom in deciding their destinies.
+Yeltsin did not tolerate secessionist movements in Chechnya or anywhere else in that region.
+Yeltsin was counting on Dudayev’s opponents and Russian “volunteers” and supported them in the unsuccessful October-November 1994 coup.
+The poorly planned coup attempt turned into a disaster for the Russians.
+Subsequently, a state of emergency in Chechnya to restore order and federal involvement followed.
+Since the coup attempt by Russian-backed Provisional Chechen Council Forces failed, Yeltsin ordered the military to capture Grozny, misguidedly believing that the fall of Grozny would mean victory.
+However, since the indigenous forces did not contribute to the campaign, their workload shifted to the federal forces.
+Minister of Defense General Pavel Grachev personally briefed the objectives to capture Grozny.
+Over the course of this week, forces would prepare and secure locations from which operations would later be conducted while forward aviation and attack helicopters attained air superiority and other units prepared for electronic warfare.
+Three days, December 7-9, were allocated for Stage II, during which Russian troops would approach Grozny from five directions and effect a double encirclement—of the city and of the republic as a whole—all the while protecting communications and carrying out reconnaissance.
+Forces would move from the north and south of the city to capture the Presidential Palace and other key government buildings, television and radio facilities, and other significant sites.
+Mobilization of the troops lasted longer than expected, and task forces were not able to move until December ll.
+The inadequate prewar reconnaissance and false assumption that the Chechens would welcome Russians with open arms led the Russian leaders into a limited show of force.
+The preparations and plans were shortsighted and insufficient to accomplish the purpose of the First Chechen War.
+Grozny remained Russian for only two years, causing devastating military casualties and civilian losses on both sides.
+Yeltsin could not get what he yearned for and lost a considerable amount of domestic popular support.
+Yeltsin’s erroneous conclusion that the war was won based on decreasing Chechen attacks gave Russians confidence and prematurely caused reductions in military presence in Grozny.
+Seemingly endless violence eventually brought the two sides to the table.
+Alexander Lebed, Russian security council secretary, and Maskhadov concluded the Khasav-Yurt annistice on August 30, 1996.
+Policing and Coercion after Communism , 254; Galeotti, Russia’s Wars in Chechnya, 1994-2009,10,41. 46 agreed upon which simply stated that Russia would not attack Chechnya, insofar as Chechnya would not declare independence.
+The Second Chechen War Increasing tension across the Caucasus mountains and Maskhadov’s inability to prevent rebel warlords, namely Basayev and Khattab, from conducting terrorist actions put Russia and Chechnya on the brink of war again.
+The invasion of Dagestan by these two warlords and Dagestani secessionists ultimately started the war.
+In the Second Chechen War, Putin intended to end terrorist and secessionist activities to show his determination and power to the Russian public, to reinvigorate central control, and to prove to the world that Russia was a great power once again.
+This time the Russians knew that the Chechens would resist and anticipated that they also would be better prepared.
+The Chechens entrenched their defenses inside Grozny, digging tunnels and booby-trapping in the buildings they could not hold.
+The Russians were better organized and improved their armored vehicles and use of technology.
+This time they relied on artillery and air power but also had detailed contingency plans.
+Putin’s detennination to pacify Chechnya brought about disastrous Russian counterterrorist measures as Chechens resorted to terrorism.
+In 2002, operational responsibility in Chechnya passed from the military to interior forces, and the concept of operations switched to counterterrorism.
+As the first signal of the transformation, the new commander of the “Special Joint Grouping of Forces ” came from the MVD, even though his predecessors were from the Army.
+Consecutive terrorist attacks and counterterrorist operations devastated the region until 2009.
+Although the fighting was far from over, the Kremlin officially declared the war over in April 2009.
+CONCEPT OF THE OPERATION In both wars, counterinsurgency constituted the overall operational concept.
+Since the attacks mostly occurred in the cities, the military operations were conducted in urban terrain.
+After Russia announced direct rule over Chechnya, MVD and pro-Russian Chechen militias took over operations against Chechen rebels and the operational concept switched to counterterrorism.
+In the first war, both operational concepts lacked proper doctrine, dedicated units, and relevant training.
+The Spetsnaz, in parallel with the general lack of mastery in the overall campaign, were not employed effectively in the first phases of the war.
+Mostly employed in reconnaissance, coordinating artillery and air support, sniper and counter-sniper missions, and also engaging in close quarter battle in the urban areas, the Spetsnaz proved a brilliant element in the fight against the rebels.
+Having learned from their mistakes in the first war, the Russians used the Spetsnaz more effectively in the second one, starting in the early stages of the war with reconnaissance missions and conscripting, training, and equipping indigenous defectors.
+The Spetsnaz also conducted the same missions that they did in the first war, but this time more systematically under a unified command, adding more to the already better organized campaign.
+After Grozny was captured, the Spetsnaz kept going after escaping rebels in a bid to crush the Chechen cause for good.
+Since the rebels were dispersed throughout the surrounding villages, their recognition and elimination would require surgical kill or capture operations.
+However, the tasks that the Spetsnaz accomplished in those operations are unknown.
+Cleansing the North Caucasus mountains of Chechen rebels turned into a disaster by causing significant civilian casualties.
+Furthermore, MVD’s Alpha counterterrorist team and OMON special police forces stormed the Dubrovka theater in 2002 and the Beslan school in 2004.
+Moscow announced direct rule over Chechnya in May 2000 and Putin appointed Akhmad Kadyrov in June.
+The First Chechen War In the first war, as mentioned above, Yeltsin first supported Dudayev’s opponents in a failed coup attempt.
+Then, the federal forces’ involvement became inevitable in order to deny Chechnya independence.
+In short, first the Russian air force provided air superiority, and then the Russian ground forces moved into Grozny to face their enemy.
+Contrary to the plans, the Russians never managed to seal Grozny, especially in the south.
+That gave the rebels an escape route and a chance to regroup and prepare for a counterattack.
+In between capturing Grozny and losing it, the Russians engaged the rebels in numerous bloody urban raids.
+Especially after the Russians experienced the impasse in Grozny, most of the reinforcements came from operational units, including Spetsnaz units from across the country.
+In the first stages, the Spetsnaz units executed their traditional battlefield reconnaissance missions.
+However, the lack of intelligence caused Russians to underestimate their enemy.
+Therefore, one can assume that either the Spetsnaz executed their missions after the conventional forces started to move on December 11, 1994, or they failed in their early reconnaissance missions.
+Despite their superior skills of operating in urban areas, the Spetsnaz suffered heavy losses.
+These losses partly resulted from the considerable number of Soviet-era Spetsnaz veterans among the Chechen rebels.
+Additionally, the rebels had all the advantages of being the resident insurgent force.
+In 1995, the Chechens conducted a treacherous act when Basayev was surrounded in a hospital in Budyonnovsk.
+Oliker suggests that the Spetsnaz took part in the rescue operation in support of MVD’s elite Alpha counterterrorist forces.
+This interim peace agreement would last until the launch of the second war in 1999.
+The Second Chechen War The Spetsnaz, along with the rest of the army, were better prepared for the second war.
+Russians learned from their mistakes in the first war and improved their tactics to defeat their enemy.
+Like the first war, the second one also started with a massive air campaign, and then the bulk of the anny and interior troops moved through Grozny.
+This time, instead of making a direct and daring raid into Grozny, the Russians were very cautious and methodical.
+The Spetsnaz were successful during urban and rural raids and battlefield reconnaissance.
+Their level of training and preparation made them better at spotting for artillery and air support.
+When the Chechens heavily outnumbered the Spetsnaz and paratroopers in the Argun valley, the company commander erroneously called artillery fire onto his own position rather than on the Chechens, killing 84 Russian soldiers out of 91.
+When the Russian Spetsnaz left Chechnya, local forces known as Kadyrovtsy, Akhmad Kadyrov’s loyalists, replaced them.
+Reporting to the GRU, these units sometimes called themselves Spetsnaz.
+As mentioned in the concept of the operation section, the Second Chechen War was over in March 2002 and MVD troops together with indigenous forces took over antiterrorist operations which lasted until 2009.
+RESULTS The Spetsnaz provided an expansion of choice for the Russian leaders.
+Since the Spetsnaz had better training and equipment, the Russian leaders chose to employ them in urban warfare.
+Their level of training and preparation were better in the first war than the rest of the fighting forces, but were not good enough to make up for the general military incompetence.
+However skillful they were, they did not have sufficient information about the Chechen rebels.
+In the second war, having learned from their mistakes, the Spetsnaz contributed significantly to the overall campaign.
+Also, the improved training and preparation of the rest of the army had a decisive impact in consolidating victory.
+In the second war, the commitment, training, and preparation of all the forces improved.
+Along with the rest of the army, the Spetsnaz also learned from the first war.
+This time, their improved capabilities and more skillful employment resulted in greater strategic utility to win the war.
+In fact, the Kadyrovtsy still constitutes Chechnya’s armed forces under the rule of Ramzan Kadyrov.
+In conclusion, after two wars, the Spetsnaz met most of the claims outlined by Colin Gray.
+Despite the ebb and flow in the post-Soviet era, Russia, in agreement with Ukraine, had political control over Crimea until 20 1 4.
+In the two decades since its emergence, the Russian Federation has revitalized its power, and through the constant application of synchronized political warfare, created the circumstances essential for an operation to take back Crimea.
+Once Russian President Vladimir Putin had offered to “guarantee Crimea’s territory” in 2006, the only remaining requirement to legitimize an invasion became finding the right window of opportunity.
+With full knowledge of external vulnerabilities—in particular, NATO’s ponderous decision-making process and low-probability of reaction to events in Ukraine—Russia had the window of opportunity to fulfill its long-term dream.
+The Russian Spetsnaz played its role in the anned intervention portion of the annexation, which started on 20 February—according to the date on the Russian campaign medals.
+PURPOSE AND OBJECTIVES The Russians aimed to exert direct rule over Crimea in response to the westernization of the government in Kiev, and they depended mostly on the employment of SOF-capable units to invade the country.
+Consequently, Russia annexed Crimea for the second time in history, whether acknowledged by the rest of the world or not.
+Military Aspects of the Crisis in Ukraine (Minneapolis: East View Press, 2014), 159. 56 contributions of other Russian intelligence organizations to the outcome remain unknown.
+However, there were sufficient human resources inside, or insiders, ready to act and facilitate the invasion when Russian units infiltrated.
+Unfortunately, the actual extent of the covert operations conducted will remain classified until the Russian archives are opened.
+Nevertheless, from what can be inferred, GRU’s Spetsnaz and the newly formed KSO played vital roles in the process.
+While preparing for the Crimean war by stealth, the Russians refrained from attracting the attention of the West, thus achieving a sense of surprise and giving Russia space to maneuver.
+Also, the employment of nearly all of Russian special units in Crimea contributed to that purpose.
+It may also indicate an evolution of the units from the Soviet Spetsnaz to a more modem SOF that is organizationally closer to its Western counterparts.
+Another purpose of employing nearly all SOF-capable units may be a test of the latest reforms within the Russian military.
+The Russian military refonn, which Defense Minister Anatoly Serdyukov initiated after the conflict in Georgia in 2008, continued under his successor Sergei Shoigu, and later accelerated under Gen.
+Gerasimov, was revealed with the equipment of the special operators during the Crimean conflict.
+On the other hand, the Gerasimov Doctrine indicated the importance of special operations and SOF to achieve political ends a year prior to the operation.
+The operation in Crimea can be deemed as a display of the Gerasimov Doctrine.
+Symbolic Violence and Guerrilla Mobilisation,” Third World Quarterly 28, no. : 320. 57 makers before they could react to prevent Moscow from accomplishing its strategic objectives.
+Second, Russia demonstrated both its will and the means to back up that will should the West encroach on the interests of the Russian Federation, the “rightful” successor of the Soviet Union.
+Put simply, the Russian Federation got what it wanted before its opponents could acknowledge what was happening.
+The reluctance or inadequacy of the West to react potentially gave Putin freedom to act and expanded room for maneuver to pursue Russia’s foreign policy objectives.
+CONCEPT OF THE OPERATION The Russians accomplished a coup de main with the help of local militias, which allegedly comprised a mix of ex-soldiers and Spetsnaz-trained pro-Russian residents.
+Different from the earlier Soviet and Russian campaigns, the annexation of Crimea was fulfilled mostly by the Spetsnaz and other SOF-capable units.
+In the early phases of the occupation, apart from the logistical support provided by Russian units inside Crimea and the carrier planes, the operation did not include conventional units.
+Later deployment of conventional units to Crimea aimed to consolidate the Russian dominance, in case Ukrainian soldiers reacted.
+In order to combine efforts of the local people and Russian soldiers, the Russians established networks within the society with the help of the BSF and other units that were already based in Crimea.
+The operations in Crimea mainly centered around surprise and deception.
+The Russian soldiers remained incognito and acted with local self-defense militias until their objectives were achieved, which caused uncertainty about the real identity of the enemy on the Ukrainian side.
+That uncertainty may have prevented local reaction since bloodshed would have meant fratricide.
+The stealth and swiftness of the operation paralyzed the Ukrainian forces and enabled a near bloodless takeover followed the annexation of Crimea.
+ROLE OF SPETSNAZ The role the Spetsnaz played in the operations in Crimea and simultaneous protests in Ukraine remains obscure.
+On February 27, approximately 50 well-equipped men claiming to be the local militia and wearing civilian clothing, seized the Crimean parliament building.
+The Military Operation for Crimea” in Howard and Pukhov, Brothers Armed, 160.
+Russia’s Special Forces, 50. 60 and hoisted the Russian flag over the building.
+As the day went on, Russian troops continued to flow in by air, land, and sea.
+The logistics supply routes of the BSF made their infiltration from the sea easier.
+After the initial shock and awe, the Russians’ intentions became more vivid, even while their presence was still in question.
+The lack of unit markings, signs, or license plates caused uncertainty about whether the invaders were themselves Russians or local groups armed by Russians.
+These heavily armed groups with armed personnel carriers proceeded to take over the Ukrainian airfields and bases in Crimea one by one.
+Although the Ukrainian troops had initial relative superiority, the government in Kiev did not issue orders to resist because it lacked trust in its own military, and that played a crucial role in the Russian takeover.
+Even so, the high number of special operators can be considered an “economy of force” action from the Russian perspective.
+With reinforcement from conventional fire support units, the Spetsnaz paralyzed most Ukrainian units in their bases and prevented any resistance.
+A quick political referendum at the end of March to secede from Ukraine followed.
+On March 21, 2014, one month after the first wave of unidentified anned men took to the streets, Crimea became Russian once again.
+RESULTS The operations in Crimea demonstrated that the Russian Spetsnaz provided Russian decision makers with a capable force to achieve Russia’s strategic goals while keeping the risk of escalation under control while expending limited resources.
+Troop numbers increased as the campaign progressed; however, the relative size of the conventional forces remained small.
+Regarded as the Gerasimov model in practice, the operations in Crimea demonstrated how the Russians successfully implemented doctrinal changes into the field.
+The inference that such a victory could be achieved outside the Russian near-sphere, however, would need further evaluation, especially given that there was no threat to Russian logistic routes in Crimea.
+That said, the effectiveness of Russian diplomacy to influence a third party in the pursuit of Russia’s strategic targets remains untested.
+On the other hand, the easy victory showed that extensive efforts took place prior to soften the battlefield and ensure or manufacture support prior to pushing armed operators to the front.
+Their earlier preparations to conscript indigenous peoples of Crimea into infonnal, local, proRussian militia groups became a game changer that created popular support to Russia.
+Also, the nonnal logistics procedures of the BSF covered the transportation of the special operators, who subsequently linked up with local groups to capture key buildings.
+That rapid and covert deployment of Russian soldiers increased the surprise factor, which played an important role in the Ukrainian soldiers’ indolence.
+Also, the Russians used the cover of securing the Olympic games in Sochi and the relevant large scale drills as ruse de guerre to hide their intentions in Crimea.
+Lastly, the ostensibly popular protests, allegedly facilitated by the Russians, intensified the fog of war prior to the operation.
+Another strategic outcome of the Crimean campaign is the fame that the Spetsnaz generated for themselves.
+By their actions in Crimea, they stood out as a powerful tool of Russian statecraft and sent a message to the world that it is too late to react when unidentified men surface on the streets.
+That worrisome reflection, which the perceivably flawless operation in Crimea created, will remain unchallenged until a Russian defeat proves it wrong.
+The final point is that Russia may be “punching above its weight” in its latest practices in Ukraine and Syria due to its weak economy and inferior conventional military capability compared to the West, as Galeotti states.
+Nevertheless, the annexation of Crimea suggests that the modernization of the Russian army paid off very well.
+As a result, Russia has developed a modem, capable, and prospering SOF as a strategic policy tool that Moscow can use domestically and abroad.
+The competency of the Spetsnaz poses a threat or at least a warning for NATO to take precautions in case they face a Spetsnaz unit in near future.
+SUMMARY Motivated to investigate by the near-bloodless annexation of Crimea, the author researched the Russian Spetsnaz and their history to determine the extent of their involvement and utility in Russian wars.
+To find if a link between Russian and Soviet Spetsnaz exists, this thesis looks back to the 1950s, the period when the Spetsnaz were established.
+The Soviet and then Russian military literature helped grasp how Russians’ employment of conventional and unconventional forces has shifted toward the latter.
+The operations that the Spetsnaz conducted in Czechoslovakia, the two wars in Chechnya, and the annexation of Crimea show that Russian Spetsnaz became an indispensable instrument in Russian power projection.
+Colin Gray’s theory of strategic utility of special operations constituted the framework for the Spetsnaz’s contribution to Russian grand strategy.
+Most of these reasons coincide with Gray’s ideas about his theory of strategic utility.
+Gray’s theory includes “economy of force,” “expansion of choice,” “innovation,” “morale,” “showcasing of competence,” “reassurance,” “humiliation of the enemy,” “control of escalation,” and “shaping the future,” as elements of special operations’ strategic utility.
+The Russian decision makers considered “economy of force” and “expansion of choice” in nearly all of the campaigns mentioned in this thesis.
+Since the strategic parity and detente obliged the Russians to remain obscure in their aggressions, “control of escalation” likely was an important part of Russian decision making.
+The Russians vividly accomplished “shaping the future” in the Second Chechen War by training the Kadyrovtsy militias.
+Overall, the Russians’ use of the special operations complies with Gray’s theory.
+In order to compare theory and practice, this thesis examined three case studies.
+Finally, the annexation of Crimea became the last and most significant case.
+In sum, the Russian Spetsnaz became an indispensable policy instrument in Russian statecraft due to their competency in operating swiftly and stealthily.
+As the Spetsnaz’s accomplishments grew, the Russians invested more in them, and the Spetsnaz underwent a series of refonns.
+With increased resources and capabilities, the more attractive they became.
+It appears that the Spetsnaz are positioned to continue to be a strategic tool in support of Russian policy objectives.
+In the three case studies, Czechoslovakia, Chechnya, and Crimea, the first and third conditions are valid.
+However, the second condition, in which NATO would react in the case Russia chooses conventional warfare, turns out to be no more than an assumption since conventional war never happened.
+Thus, because Russia is deterred from waging conventional war against NATO, the second condition may be regarded as valid, too.
+The second hypothesis claims that the Spetsnaz yield strategic outcome when they conduct covert operations in unconventional warfare.
+The facilitation of the operations by the pro-Russian networks inside the respective target countries, Czechoslovakia and Crimea, provides evidence to this claim.
+The consolidation of power through popular support throughout the operations also suggests that the Spetsnaz kept winning the hearts and minds of the locals.
+However, the First Chechen War constitutes a caveat to this hypothesis.
+In this war, the Spetsnaz formed the best fighting units, but their competency could not overcome the flaws in the overall strategy.
+In this war, the Spetsnaz did not 66 yield strategic results and suffered lots of casualties, mostly due to their incorrect employment as conventional units.
+As the Russians learned from their mistakes and recovered from defeat, an improved strategy enabled the Spetsnaz to yield strategic outcomes in the Second Chechen War.
+CONCLUSION The Spetsnaz became the Soviet and Russian leaders’ first choice to avoid provoking the West and mostly exceeded expectations.
+The strategic utility of the Spetsnaz first surfaced in Operation Danube as they spearheaded the operation, and recently in their phenomenal performance in Crimea.
+First in the Prague Spring, then in the Afghanistan debacle, and lastly in the Arab Spring, the Russians combined all lessons-learned and the perceived interference of the West and then developed similar scenarios to support the uprisings against the government in Kiev.
+Similar scenarios may be manufactured in Moscow to be used against countries of the fonner Soviet Union.
+Russian interests pose a threat to the contiguous countries who seek independence and stronger relations with the West.
+Russia may attempt in the future to shatter a NATO member that interferes in its interest areas.
+As mentioned in Chapter II, Russian conception, or misconception, of Western practices provide it with a self-righteous justification that it can use to wage war against its neighbors.
+While exerting its communist party control over the Soviet bloc, it also managed a strategic parity policy in order to not provoke the West.
+In this respect, the Russians employed a variety of policy tools in accordance with the threat it perceived.
+For example, the nuclear armament threat during the Cold War required no use of conventional forces to maintain strategic parity.
+At that time, Russian thinkers provided solutions such as “strategic missile forces,” which would eventually win a nuclear war if one began.
+However, the idea of mutual destruction obliged the Russians to consider other options rather than a nuclear war.
+Thus, the stealth requirement under those circumstances increased the significance of the Spetsnaz during the Cold War.
+Throughout post-WWII Russian history, the changing perceived threats and diminishing resources caused the Spetsnaz to stand out as an essential tool for Soviet and 67 Russian leaders.
+In parallel to the increasing need for special operations, the Spetsnaz came into focus in Russian military literature.
+While the Kh rushchev and Brezhnev Doctrines did not address directly the use of special operations, the Gerasimov Doctrine did.
+Gerasimov mentioned the significance of special operations and SOF, which turned them into key players in Russian strategic thinking.
+Operation Danube in Czechoslovakia showed that the Spetsnaz were competent enough to accomplish surgical operations in a politically sensitive situation.
+In the presence of a massive anny, the Spetsnaz captured Czechoslovak leaders alive and transported them to Moscow for peace talks.
+Capturing the leaders alive was an important part of the operation to prevent further escalation.
+Also, Czechoslovak leaders’ inability to protect themselves weakened their hand at the negotiation table and they had to conform to the Soviet tenns.
+This was made possible mostly by the swiftness and stealth of the operations conducted by the Spetsnaz.
+Therefore, Soviet SOF were able to demonstrate “control of escalation,” and “shaping the future,” in addition to “economy of force” and “expansion of choice,” master claims outlined by Gray.
+The Chechen Wars illustrate that Spetsnaz do not always yield strategic outcomes, especially if they are not employed as part of a coherent plan.
+In the First Chechen War, the Spetsnaz contributed little due to the lack of proficiency of the conventional Russian Army.
+Spetsnaz could not compensate for the general incompetence of the Russians, even though they were the best unit to fight an urban war.
+They simply became the choice of the Russian leaders because they remained the only unit capable of fighting in such a war.
+In the second war, however, the lessons learned from the first war paid off, and the Russians returned to Grozny as a competent force to break the Chechen resistance.
+In aggregate, after the two wars, the Spetsnaz met most of the claims outlined by Colin Gray.
+Lastly, the annexation of Crimea showed that the Russian Spetsnaz excelled at covert operations after experiencing several reforms.
+There remains a risk that the Spetsnaz may conduct similar operations in any country contiguous to Russia, where the environment reflects the case in Crimea.
+In sum, as the annexation of Crimea 68 demonstrated, Russia has developed a modern, capable, and prospering SOF that can yield strategic outcomes in Russia’s favor and pose a credible threat to its adversaries.
+As a counter argument, as the First Chechen War demonstrated, the Spetsnaz are not always the solution by themselves.
+The Spetsnaz’s competency could not compensate for the general flaws in the battle plans or the general insufficiencies of the conventional anny.
+However, the Russians learned from their mistakes and recovered to win the Second Chechen War.
+Moreover, the Spetsnaz did not only help win the war, they also facilitated future stability in Chechnya.
+The Spetsnaz-trained local Kadyrovtsy militias have become the Chechen law-enforcement forces to ensure safety in Chechnya.
+In conclusion, the Russian leaders employ the Spetsnaz when the operations require stealth and swiftness to hide indicators of their use beforehand.
+Given the ongoing clashes in Ukraine’s Donbass region and Russia’s war against ISIS, the Russian Spetsnaz will continue to develop while providing an “expansion of choice” to the Russian leaders.
+However, since Russia’s power projection expanded beyond its near sphere, as is the case in Syria, the Spetsnaz threat also expanded to countries beyond the near abroad.
+However, that remains insufficient to prevent Russian leaders from using SOF elements in NATO countries.
+It behooves NATO to clearly communicate its commitment to its members to Russia, otherwise Russia may exploit any weakness to shatter the foundations of the alliance.
+RECOMMENDATIONS As mentioned above, to prevent Russian interference in NATO and its members’ interests, NATO should clearly pledge to take necessary actions, including a proportional military response by invoking “Article 5,” in a case where Russia endangers any of its members’ sovereignty even when using special forces to do so.
+NATO should consider that Russia has fought against NATO since its foundation, and an insignificant fracture in a member state may result in a break in NATO’s structure.
+That said, NATO should focus on further research about the Spetsnaz and should share the findings with its 69 members.
+More research and dissemination of the inferences will help nations to build more competent SOF units that will be aware of and can neutralize the Spetsnaz threat.
+As for Turkey, the Russian interests in the Middle East may collide with Turkey’s, causing problems between the two countries.
+Increasing tension in Syria and Iraq among many proxies may ultimately turn into a Turkish-Russian confrontation.
+In the case of an escalation, Russia may use Spetsnaz units inside Turkey, especially the ones that look more Turkic or Turkish.
+Given the widespread territory that the Soviets once ruled and Turkish ties with the Turkic states in Asia, recruiting Turkish-speaking and Turkish-looking soldiers from old Soviet bloc countries in Asia would not be impossible for Russia.
+If this is the case, Russians will use pro-Russian Turks inside Turkey to weaken the constitutional structure and power instruments and fabricate protests or uprisings to wreak havoc prior to a military operation.
+Afterward, if ties between NATO and Turkey weaken, as several pundits warn may happen, either the Turkish government or the opposition may ask Russia to help solve the problems arising from the fabricated chaos, being unaware of Russia’s involvement in that very problem.
+Turkey should consider that the Russians will not align with Turkey unless Russia wins its more than six-decade long war against NATO in return.
+In this respect, Turkey, a member of NATO since 1952, should cooperate more and work closely with NATO in the current conflict zones to prevent covert Russian aggression.
+Amundsen, Kirsten, John J Dziak, James F Gebhardt, David C Isby, Owen A Lock, John H Merritt, Jim Shortt, and Robert D Smith.
+Rowman & Littlefield : American Association for the Advancement of Science, 1995.
+Research Institute for the Study of Conflict and Terrorism, January 1994.
+Carnegie Endowment for International Peace ; Brookings Institution Press, 2002.
+Ouimet, Matthew J The Rise and Fall of the Brezhnev Doctrine in Soviet Foreign Policy.

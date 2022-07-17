@@ -1,0 +1,185 @@
+JAMES G BLIGHT and DAVID A WELCH The Cuban missile crisis is one of the most intensively studied events of all time.
+If our understanding of it stood in strict proportion to the shelf space devoted to it, then surely by this point there should be little or nothing left to know.
+Every year it is possible to say more about what actually happened in October 1962, and why.
+But for every question scholars answer, two or three arise or must be reopened.
+The greatest obstacle facing students of the missile crisis has been imbalance.
+For more than 25 years, virtually all of the sources available to scholars were American.
+Only with Mikhail Gorbachev and glasnost' was it even possible to have an interesting conversation with knowledgeable Soviets about the crisis, and only very recently have Cubans begun to speak.
+Soviet archives have been open for a few years now, sporadically and incompletely, but Cuban archives, such as they are this we do not even know remain closed.
+Most scholars of the crisis are in any case themselves Americans, professionally and culturally predisposed to look at it primarily through the lens of American politics and diplomacy.
+It is therefore hardly surprising that most of the questions we have asked and attempted to answer concern the American side of the crisis.
+Scholars of the crisis have tended to ask a great deal about the decisions and actions of national leaders (John F Kennedy, Nikita Khrushchev, and Fidel Castro, in that order), somewhat less about the preferences and activities of senior officials 2 INTELLIGENCE AND THE CUBAN MISSILE CRISIS , and very little about the activities of the hundreds of thousands of soldiers and bureaucrats on whose decisions and actions, it now appears, the fate of the world may very well have hinged in 1962.
+We have paid very close attention to the high politics of the missile crisis, but relatively little to its seemingly mundane operational dimensions.
+Again, this imbalance reflects both the availability of sources and our natural interests.
+The works that first captured our attention were memoirs, court histories, or journalistic overviews.
+The first significant body of documents declassified in the 1980s focused on White House decision making.
+Relatively few have sought out information on the important minutiae of the crisis, and when they surface, they have had difficulty competing with high politics for our attention.
+For similar reasons, there is a great imbalance between the importance of intelligence in the missile crisis and the attention scholars have paid to it.
+Virtually every interesting decision or action that has captured our attention has turned upon, or related in some interesting way to, intelligence and intelligence assessment.
+In that sense, the story of the Cuban missile crisis is a story about intelligence its collection, analysis, use, non-use, or abuse.
+But for obvious reasons, goodquality information about intelligence has emerged slowly.
+A comprehensive story of intelligence assessment in the Cuban missile crisis has never properly been told.
+There is a small body of literature on intelligence in the missile crisis, some of which is both fascinating and important.
+We now have enough of a critical mass of evidence and testimony to permit a first telling of the 'big view' intelligence story.
+For example, while it is possible to document the American intelligence story extensively, the Soviet story can be documented only to a much lesser extent, and the Cuban story while it can be told cannot yet be documented at all.
+Within the available body of American and Soviet documents, there are notable gaps.
+Neither the United States nor the Russian government has declassified details of signals intelligence in 1962, nor information on human intelligence that would compromise certain by-now-surely-defunct sources and methods.
+INTRODUCTION 3 Nevertheless, working within the limitations of the available materials, we believe that it is possible to tell an enlightening and surprising story about intelligence in the missile crisis that must, in certain respects, make us once again rethink the event.
+While an irreducible element of mystery enshrouds the event, and while imbalances in sources remain, the Cuban missile crisis remains the most thoroughly documented historical encounter of all time.
+It presents us with a unique opportunity to reflect in an empirically rich way upon the collection, analysis, and use of intelligence from a comparative and longitudinal perspective.
+It is possible to identify a large number of crucial moments, issues, processes, tendencies, and patterns in the processing and exploitation of intelligence in the Cuban missile crisis, and to reflect upon them in unusual detail.
+The intelligence story of the Cuban missile crisis is the story of literally hundreds of important individual judgments, and of almost constant interaction between intelligence professionals and national leaders in all three countries, over a period of time extending both well before and well after the famous 'Thirteen Days' of lore.
+We believe some very interesting insights emerge from a longitudinal and comparative examination of the activities and judgments of American, Soviet, and Cuban intelligence.
+A BRIEF HISTORIOGRAPHY For 25 years, scholars working with open sources could see but a glimmer of the workings of intelligence in the missile crisis.
+Memoirs and histories referred vaguely to crucial actions, reports or judgments of (almost exclusively American) intelligence at various stages of the confrontation, but the details remained classified.
+Beginning in the mid-1980s, however, documents on American intelligence began to appear in quantity, partly as a result of routine declassification, and partly as a result of requests filed under the Freedom of Information Act.
+It was the first opportunity for scholars and practitioners to discuss the performance of American intelligence against the backdrop of a significant documentary record.
+Soviet documents on the missile crisis began to appear in the late 1980s.
+Owing to political turmoil first in the 4 INTELLIGENCE AND THE CUBAN MISSILE CRISIS USSR, and then in post-Soviet Russia, Western scholars have had only patchy and sporadic access.
+They have mined some archives relatively well , and merely scratched the surface of others .12 Only very recently have scholars had access to KGB documents.
+Scholars are rarely deterred by limits on information, however, and for many years there has been active discussion of certain issues concerning the performance of the American intelligence community.
+The issue most widely debated is the failure of American intelligence to predict that the Soviet Union would attempt to deploy strategic nuclear missiles to Cuba in 1962.
+Had American intelligence predicted the Soviet move, the Kennedy administration certainly would have attempted to forestall it more energetically, through clearer and stronger deterrent threats, through active back-channel diplomacy, or both.
+Hence many are inclined to see this as a failure of the first magnitude.
+In a sense American intelligence certainly did fail policy makers by failing to estimate that the Soviet Union would attempt to deploy nuclear missiles to Cuba.
+But while the crisis might have been avoided had American intelligence anticipated the deployment, it would be a mistake to conclude that a crisis would have been avoided.
+Much would have depended upon how the Kennedy administration played its hand, and when.
+Khrushchev's motives for the deployment now appear to have been primarily defensive, reflecting deep anxiety about Soviet strategic nuclear inferiority and the vulnerability of Cuba to an American invasion.
+Khrushchev appears to have been deeply committed to his gambit, and insensitive to warnings.
+Counterfactual history is a tricky business, but our hunch is that Kennedy could have forestalled the Soviet deployment only by making clear his unwillingness to tolerate it very early in the game (not later than in the early summer of 1962),17 and only in conjunction with adequate and credible assurances designed to assuage Khrushchev's fears and insecurities.
+Since Kennedy was evidently unaware of Khrushchev's fears, and since Khrushchev was evidently deeply suspicious of Kennedy, it is difficult to imagine what carrots Kennedy might have brandished alongside his impressive arsenal of sticks.
+In any case, Kennedy did not need a formal estimate from the Central Intelligence Agency that the Soviet Union would attempt a strategic deployment to Cuba in order to take timely steps to prevent it.
+He could have attempted to send clearer and stronger warnings on the mere suspicion of the possibility.
+Thus it would be a mistake to place much importance upon this particular failure.
+What makes this failure titillating is that Director of Central Intelligence INTRODUCTION 5 John A McCone unlike his analysts did anticipate a Soviet nuclear deployment.
+Beginning in August 1962, McCone consistently voiced his belief within the intelligence community and at the White House that the Soviet Union was in the process of deploying strategic nuclear missiles to Cuba.
+McCone brought to his position no professional intelligence experience.
+His credentials as an anti-communist were impeccable, but he could claim no authority on the Soviet Union, or on Soviet foreign and military policy.
+The fact that a rank amateur got it right while the professionals got it wrong was a storyline too intriguing to resist, and one that could be pursued without much in the way of sensitive information.
+The Central Intelligence Agency noted in August 1962 that the Soviet Union was deploying its most advanced surface-to-air missile system, the SA-2, around the perimeter of the island, rather than simply around airfields and other vital military installations, and also that Soviet troops were taking elaborate measures to conceal the nature of their activities in Cuban ports.
+McCone concluded from these two facts that the Soviets wished to hide something of extreme importance from the United States, and decided that this must mean that they were deploying strategic nuclear missiles.
+First, there were many reasons why the Soviets would go to great lengths to disguise their activities in Cuban ports for example, so as not to alarm the United States, or even the Cuban people, about the Soviet military buildup.
+Third, it was natural for the Soviets to deploy SAMs around the perimeter of Cuba, since Cuba's geography did not offer any meaningful opportunities for defense in depth, and the United States, should it choose to mount an attack, might do so virtually anywhere along its vast coastline.
+Fourth, the Soviets had also deployed SA-2 missiles to Egypt, Syria, and Indonesia, and in none of those cases had they also deployed strategic nuclear weapons.
+Indeed, the United States intelligence community expected that the Soviet Union would deploy SA-2 missiles to Cuba, precisely because it had done so elsewhere.
+Fifth, if the purpose of the SAM deployment had been to prevent American U-2s from observing the construction of strategic missile sites, the Soviets should have attempted to shoot down the U-2s that wandered over Cuba with impunity in September and October 1962.
+McCone's instincts were good, but his reasons were bad, and while McCone's willingness to disagree with his analysts without interfering in their estimates may provide a good example of how a DCI should 6 INTELLIGENCE AND THE CUBAN MISSILE CRISIS intermediate analysis and policy making,21 his discrepant judgment holds no interesting general lesson for intelligence assessment and hardly seems worth the attention it has received.
+While American intelligence discovered the deployment in time to give President Kennedy and his advisors an opportunity to ponder their response and to seize the diplomatic initiative, nevertheless they did so quite late in the game.
+McNamara decided that it would be wiser to have military rather than civilian pilots flying over Cuba, in case the Soviets shot one down.
+Thus the only real question here is whether Rusk and Bundy prevented earlier detection.
+This, too, is for the most part a red herring less interesting to students of intelligence than to followers of sordid Camelot sub-plots.
+The Committee on Overhead Reconnaissance did seek permission to fly missions with extended routes directly over Cuba, and Rusk and Bundy did successfully lobby instead for oblique photography of Cuba from international air space, or peripheral missions that dipped into Cuban air space only for brief periods of time.
+Rusk and Bundy feared that if the Soviets downed a U-2 over Cuba, the United States would face international pressure to respect Cuban sovereignty and discontinue high-altitude surveillance altogether.
+They knew well that SA-2 missiles were capable of downing U-2s, because one had done so just the previous month.
+There was nothing improper in, and nothing irrational about, their insistence on caution.
+In principle, there can be a trade-off between caution in intelligence collection and the speed of discovery although, just as plausibly, aggressive collection efforts may impede discovery, as would have been the case in 1962 had Soviet air defenses in Cuba shot down American U-2s, preventing photoreconnaissance of the island.
+But in this particular case, it is far from clear that had Rusk and Bundy not insisted upon a modification of flight plans, the United States would have discovered the missiles earlier.
+INTRODUCTION 7 Bad weather delayed for four days the flight that discovered the missiles, and the first site identified as a medium-range ballistic missile base was in a low state of readiness.
+Had a U-2 photographed the area even just a week earlier, crucial items necessary for a positive identification might not yet have been present.
+American intelligence did positively identify Soviet missiles prior to their becoming operational, which permitted the Kennedy administration to seize the initiative in attempting to secure their removal.
+A full airing of this question requires looking at a much broader range of issues than the scheduling and flight plans of photoreconnaissance missions, as our contributors indicate in the pages that follow, and as we discuss at greater length at the end of the volume.
+The historiography of intelligence assessment in the Cuban missile crisis, then, raises important questions about how intelligence can serve policy, but it answers them rather unsatisfactorily.
+It pays too much attention to personalities, bureaucratic rivalries, and enthralling storylines.
+The question that dominates the limited historiography of intelligence assessment in the Cuban missile crisis what should policy makers be able to expect from their intelligence analysts? — in any case examines only half of the intelligence-policy relationship.
+Intelligence cannot serve policy if policy makers do not understand it and treat it both with respect and with circumspection.
+National leaders are rarely passive recipients of information and analysis.
+In order to get what they want and need from their intelligence communities, they must also be willing to direct inquiry, to ask questions, to listen carefully to the answers, to ask for clarification on technical matters, to challenge, to prod, and to reward both good news and bad.
+They must also have a sense of the possibilities and limits of intelligence.
+These possibilities and limits are a function of the technical and organizational capacity on the one hand, and of the human capacity on the other, to observe, organize, and process information.
+On these issues, the historiography of intelligence in the Cuban missile crisis has largely been silent.
+THE DESIGN AND EXECUTION OF THE VOLUME To get a handle on these larger questions, we first sought to establish a common empirical baseline in the form of three essays one each on 8 INTELLIGENCE AND THE CUBAN MISSILE CRISIS American, Soviet, and Cuban intelligence.
+We asked the authors of each of these essays to sketch the organization of the relevant intelligence community; to describe its interaction with national leaders; to discuss the sources and methods of their intelligence gathering; and to identify and examine important assessments, inferences, and judgments.
+Beyond this, we invited them to raise and discuss any issues that they considered to be of particular interest.
+We intended the three empirical essays, supplemented to some extent by additional primary and secondary materials, to provide the grist for two additional analytical essays — one on the politics and organization, and one on the psychology, of intelligence assessment.
+The purpose of these essays would be to bring relevant bodies of organizational and psychological research to bear on the empirical essays, in order to help us explain the particular judgments, inferences, and interactions of analysts and policy makers.
+We, in turn, would use the opportunity of our concluding essay to make some general remarks about the implications of these five essays for the history of the Cuban missile crisis, and for the study of intelligence.
+We were fortunate early in the process to enlist Raymond Garthoff to prepare the essay on American intelligence.
+Garthoff is one of the world's foremost scholars of Soviet military and foreign policy, and of US-Soviet relations.
+Currently a senior researcher at the Brookings Institution in Washington DC, Garthoff is the author of several important books and articles on the Cuban missile crisis.
+These two scholars were the first to gain access to KGB and GRU documents on the crisis, and their recently published book, 'One Hell of a Gamble', is the first and only monograph to make extensive use of them.
+We had considerably more difficulty enlisting a suitable author for the essay on Cuban intelligence.
+We had arranged for a senior official at the INTRODUCTION 9 Ministry of the Interior with extensive experience in counterintelligence to prepare the essay, in collaboration with a noted American Cubanologist, whose role it would have been to translate, and to provide background and context from the relevant English-language literature.
+In 1995, however, our contributor fell out of favor with his government, and temporarily disappeared from view.
+While we were attempting to reestablish contact, Cuba shot down an unarmed American aircraft piloted by the exile group Brothers to the Rescue over the Strait of Florida.
+As US-Cuban relations further deteriorated, Havana apparently decreed that no Cuban scholar or official should collaborate with us further.
+Amuchastegui notes forthrightly that the lack of documentation on Cuban intelligence represents a constraint upon his ability to corroborate his recollections and the testimony of those who helped him prepare his essay behind the scenes; but we are confident that readers will consider his essay an important contribution.
+We were equally fortunate to enlist the aid of two younger scholars working at the cutting edge of their respective disciplines to prepare the two analytical essays.
+James Wirtz, an Associate Professor in the Department of National Security Affairs at the Naval Postgraduate School in Monterey, California, is an authority on the organization and politics of intelligence.
+Her close study of Ronald Reagan's dramatic shift in Soviet policy forcefully demonstrates the power of cognitive and motivational explanations of policy change vis-a-vis more common structural, domestic political, and bureaucratic explanations.
+The empirical essays, which came in first, all made startling claims and advanced provocative, sometimes highly counterintuitive theses.
+On some points these essays corroborated each other, and on others they appeared flatly to contradict each other.
+They provided abundant material for the authors of 10 INTELLIGENCE AND THE CUBAN MISSILE CRISIS our two analytical pieces, who managed to place it in broader theoretical perspectives.
+We circulated drafts among the authors, immediately precipitating extensive, sometimes animated correspondence between them, as they sought to clarify or to challenge each other's specific claims and interpretations.
+With each iteration, the essays became more tightly integrated, and the points of similarity and of difference came into ever-sharper focus.
+It was apparent to us that, collectively, these essays formed the basis of a deeper and more extended conversation.
+We began that wider conversation at the 1997 annual meeting of the International Studies Association in Toronto, where we presented several of the essays (then still in draft).35 We continued it at a symposium at the Wilson Center for Scholars in Washington DC, attended by professional intelligence officers, area specialists, and scholars noted for their work on related issues and approaches.
+In a weekend of freewheeling discussion with each other and with the other participants, the authors test-flew more refined versions of their arguments.
+What you see below are the final versions, in each case honed and polished to address the more important themes and concerns that arose at the Washington meeting.
+We expect the conversation to continue, and we expect the arguments and analyses to evolve, especially as more and more documentation becomes available against which to check them.
+A LITTLE FORESHADOWING We will resist the temptation here to speak about what we believe to be some of the more interesting and important implications of these essays.
+However, we would like to foreshadow the three empirical and two analytical essays just a little, to help readers get their bearings and anticipate some of the important claims, disagreements, and remaining mysteries.
+In his essay, Raymond Garthoff examines the structure, processes, activities, and estimates of the American intelligence community in great detail, and in the course of so doing conducts a thorough review of the existing literature and documentation.
+Garthoff catalogues what he considers to be the strengths and weaknesses of the American intelligence effort, arguing that, on balance, American intelligence served national leaders well.
+Crucial estimates that the Soviet Union would not attempt to deploy nuclear weapons in Cuba, while incorrect, were nonetheless largely defensible, in Garthoff s view, even though American analysts were INTRODUCTION 11 insufficiently sensitive to Khrushchev's defensive motivations for attempting to deploy nuclear weapons secretly to Cuba.
+The discovery of the strategic nuclear missiles in Cuba prior to their becoming operational was, in Garthoff's opinion, an important intelligence success, because it enabled American policy makers to take timely preventive measures.
+American analysts did not correctly gauge the size or nature of the Soviet deployment at the time, underestimating the number of Soviet military personnel dispatched to the island by a factor of four, and failing to appreciate that the Soviets were in the process of deploying not merely strategic nuclear missiles and their supporting equipment, but a full battlecapable combined arms group of forces capable of mounting a conventional defense of the island.
+However, Garthoff argues, this failure was inconsequential to the management of the crisis.
+Ignorance may not always be bliss but in this case, Garthoff argues, it was beneficial politically.
+In their essay on Soviet intelligence in the Cuban missile crisis, Aleksandr Fursenko and Timothy Naftali paint a picture of the KGB, and of its relationship to the Kremlin, that sends chills up and down the spine.
+According to Fursenko and Naftali, the KGB was largely cut out of the decision making process leading to the Soviet deployment, and unable to obtain any good-quality information that would have been relevant to Soviet leaders as they attempted to anticipate and then manage the American challenge.
+Soviet intelligence suffered from a preoccupation with secret sources, failed to assimilate open source material, conducted little or nothing in the way of real analysis, and did not present the Kremlin with formal estimates.
+Incompetence and organizational norms can explain the poor performance of Soviet intelligence in the Cuban missile crisis to some extent; but much of the blame must rest with Khrushchev himself.
+Khrushchev disdained, distrusted, or failed to appreciate the value of intelligence.
+He proceeded with the deployment without any formal analysis of the likelihood that the Americans would discover it, and without any formal estimate of Kennedy's probable response if they did.
+Khrushchev preferred to conduct his own analysis, apparently under the misapprehension that the 'raw' information that found its way haphazardly onto his desk provided an adequate basis for policy.
+Domingo Amuchastegui's essay on Cuban intelligence in the missile crisis is, to the best of our knowledge, the only scholarly treatment of its 12 INTELLIGENCE AND THE CUBAN MISSILE CRISIS kind.
+Its novelty means that few readers will have expectations against which to decide whether or not it is surprising.
+Amuchastegui describes a nascent professional intelligence community, cobbled together from various revolutionary groups, forced to find its feet and define itself under the most difficult conditions imaginable in the context of an ongoing civil war, and an acutely threatening international environment.
+Threatened equally by American hostility and Soviet friendship, Cuban intelligence performed creditably, given the constraints on resources and experience under which it operated, and given its dependency upon foreign technical expertise.
+The relationship between Cuban intelligence and the Cuban leadership appears to have been particularly complex.
+Most such relationships are complex; but Cuban intelligence, in the period leading up to and during the missile crisis, appears to have had unusual difficulty speaking Truth to Power not because of any unwillingness to speak, but because of Power's unwillingness to listen.
+Of all three leaders in the crisis, Castro appears to have been the most willing to meddle in intelligence, and to circumvent and manipulate the intelligence process in accordance with his transient political needs.
+Readers will no doubt notice several apparent tensions and inconsistencies between the empirical essays.
+For example, Amuchastegui claims that, following the Bay of Pigs, Soviet intelligence systematically insisted that an American invasion of Cuba was imminent.
+This contradicts the account of Fursenko and Naftali, who maintain that during the same period the KGB issued no dire warnings to Moscow.
+Indeed, Amuchastegui notes that Cuban intelligence could itself find no evidence of a waxing American threat, and for this reason became suspicious of the motives behind Soviet reports.
+It is possible, as Amuchastegui suspects, that the Kremlin used the KGB to deceive Castro for ulterior purposes (e.g., to encourage Castro to accept a Soviet nuclear deployment); but this is a discrepancy whose resolution must await further documentation.
+Similarly, Fursenko and Naftali insist that Khrushchev neither informed the KGB of the missile deployment, nor tasked it to assess the likely American response.
+Amuchastegui, in contrast, credits the KGB with orchestrating an elaborate scheme of deception intended to mask the deployment something the KGB could hardly have undertaken had it been in the dark.
+Interesting and important interpretive differences also arise in the three empirical essays.
+For example, while Garthoff is inclined to consider the American discovery of missiles on 15 October an important intelligence success, Amuchastegui interprets the CIA's apparent failure to discover the missiles earlier as evidence of incompetence or conspiracy.
+This is clearly an important question for anyone who is interested in reflecting upon ways of improving the performance of intelligence.
+These are just a few of the many fascinating issues that arise within and between the three empirical essays.
+James Wirtz argues that strategic position, degree of bureaucratization, and leadership style interact to induce characteristic policy dangers and intelligence errors.
+Wirtz applies an appropriate typology to the accounts given in the three empirical essays, and demonstrates how it can help us find deeper patterns in the seemingly very different experiences of the American, Soviet, and Cuban intelligence communities.
+Beth Fischer demonstrates how several misperceptions, misjudgments, and errors of inference by intelligence analysts and policy makers in all three countries fit well with certain postulates of cognitive and motivational psychology.
+Fischer argues that while many of the most significant errors made by national leaders may have their roots in emotional or psychological needs, the errors made by intelligence analysts more likely reflect simple information processing errors to which all people are prone simply by virtue of being human.
+Taken together, Wirtz and Fischer suggest that organizational and procedural changes may to some degree enhance the performance of intelligence and its ability to serve policy makers, but that these are ultimately limited by the human capacity to manage value trade-offs and to process information.
+There is much more to be said about these five fascinating pieces and their implications for our two subjects the Cuban missile crisis and intelligence but we believe that this will suffice both to whet the appetite and to orient the reader.
+We have studied the missile crisis long enough and deeply enough to develop a profound sense of wonderment that the world managed to escape disaster in 1962, because of the depth and extent of the mistakes and misunderstandings on all sides, and because of the bloomin', buzzin' confusion both within and between all three countries.
+The following five essays only increase that sense of wonderment, because they further attest to the idiosyncrasy, the incommensurability, the relativity, and perhaps above all the 'noisiness' of the US, Soviet, and Cuban experiences of the crisis.
+Our own sense of the enduring 14 INTELLIGENCE AND THE CUBAN MISSILE CRISIS mystery of the Cuban missile crisis mirrors its profound mysteriousness to those who precipitated it, coped with it, and somehow extricated themselves from it.
+There are paradoxes in here Escher-esque nesting dolls, for want of a better metaphor — upon which we reflect further at the end of the volume.
+For the purposes of this volume, we presume that the reader is familiar with the broad outline of events.
+The National Security Archive in Washington DC most actively pushed the declassification process, and maintains the largest collection of declassified United States documents on the crisis.
+It and the Cold War International History Project at the Woodrow Wilson International Center for Scholars, Washington DC, are the premier repositories of primary information.
+Four Case Studies (NY: Columbia UP 1991); Sagan, Limits of Safety ; and Gen.
+The Cuban government has released a few documents selectively in order to rebut, clarify, or amplify interpretations of newly released Soviet documents.
+There are reasons to believe that overly aggressive deterrent signaling might simply have intensified Khrushchev's risk-taking.
+Others who were convinced that the Soviet Union would deploy or was deploying strategic nuclear weapons to Cuba included former Vice President Richard Nixon and Sen.
+Keating's charges that the Kennedy administration was allowing the Soviet Union to establish a major nuclear capability in Cuba were a constant irritant to the White House.
+It remains unclear whether Keating had any hard information on the Soviet deployment, and, if so, where he obtained it.
+As Fischer discusses in her essay later in this volume, the difficulty American officials had imagining that the Soviets could have defensive motives for their military deployments in Cuba may help explain oversights of this kind.
+The Stennis Report concluded that there was 'no evidence whatsoever to suggest that any conflict between the CIA and SAC existed or that there was any delay in photographic coverage of the island because of the fact that the U-2 program was being operated by the CIA prior to 14 October.
+Chroniclers of Camelot closest to the president most notably, Robert F Kennedy, Theodore Sorensen, and Arthur Schlesinger have repeatedly characterized Rusk and Bundy as overly timid, indecisive, ineffective, and obstacles to crisis management.
+Rusk appears to have been the target of deliberate character assassination.
+On 8 Sept.62, the People's Republic of China shot down a 'Nationalist' U-2 over the mainland.
+On 1 May 1960, another SA-2 brought down a U-2 piloted by Francis Gary Powers over Sverdlovsk, deep inside Soviet territory.
+While the historiography of American intelligence has been preoccupied with interesting characters and storylines, it is nevertheless much better than the meager historiography of Soviet intelligence.
+How a Soviet Colonel Changed the Course of the Cold War a narrow and sensationalistic treatment fraught with errors.
+The historiography of Cuban intelligence assessment in the missile crisis is non-existent.
+See also Detente and Confrontation , which deals extensively with the various 'mini-crises' that have complicated US-Soviet-Cuban relations since the Cuban missile crisis.
+While he later resurfaced, he did so too late and in an inappropriate institutional capacity — to contribute to our study.
+Amuchastegui provides a more extensive biographical sketch in 3 of his essay, below.
+Other participants included Wayne S Smith, political officer in the US embassy, Havana , and later INTRODUCTION 17 Director of Cuban affairs and special assistant to Adolf Berle, President Kennedy's special envoy for Latin American affairs; Brian Latell, currently director of the Center for the Study of Intelligence and a career CIA Latin Americanist specializing in Cuban affairs; Samuel Halpern, executive assistant to William K Harvey, director of Operation 'Mongoose'; Gen.
+William Y Smith , special assistant to chairman of the Joint Chiefs of Staff Gen.

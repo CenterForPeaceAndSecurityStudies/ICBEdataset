@@ -1,0 +1,3 @@
+Upload your study docs or become aCourse Hero member to access this documentContinue to accessTermFallProfessorMrs.
+Raeke"",""dept_acro"":""SOCIAL STUDIES"",""term_string"":""Fall"",""course_id"":7580112,""canonical_course_id"":7580112,""school_id"":55483,""dept_id"":967204,""course_num"":""N\/A"",""year"":2017,""term"":1,""prof_id"":1688809,""course_name"":""World History AP"",""verified"":0,""professor"":{""prof_id"":1688809,""school_id"":55483,""dept_id"":0,""name"":""Mrs.
+Raeke""}},""document_pages"":{""page_count"":1},""is_featured"":false,""db_filename"":146224931,""title"":""World+War+II+Guided+Notes .docx"",""description"":""World War II Guided Notes\nUnderlying Causes of WWII:\na.
