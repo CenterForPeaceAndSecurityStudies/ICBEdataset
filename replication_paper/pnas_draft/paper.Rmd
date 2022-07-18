@@ -208,7 +208,7 @@ options(gargle_oauth_email = TRUE)
 
 ```{r, echo=FALSE}
 
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1.1_long_clean.Rds"))
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_clean.Rds"))
 codings_long_agreement <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_agreement.Rds") )
 
 ICBe_events_agreed <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.Rds")) 
@@ -1706,13 +1706,7 @@ library(tidyr)
 library(stringr)
 library(ggtext)
 
-icews_clean_471 <- read_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/icews_clean_471.tsv")
-dim(icews_clean_471) #270,642
-icews_clean_471_small <- read_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/icews_clean_471_small.tsv")
-
 icews_clean_subset_top10_day <- read_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/icews_clean_471_lowest.tsv")
-
-
 
 
 keys <- c("sign formal agreement") #"express accord", #,"declare truce, ceasefire"
@@ -1806,9 +1800,9 @@ We take the same approach here in Figure 5, selecting four specific CAMEO event 
 \clearpage
 \onecolumn
 \begin{figure}[H]
-\caption{ ICEWs Counts of Events per Day by Type during the Crimea-Donbas Crisis \label{fig:p_precision_icews}}
+\caption{ ICEWs Events by Day by Type during the Crimea-Donbas Crisis \label{fig:p_precision_icews}}
 \centering{\includegraphics[width=17cm]{../figures/p_precision_icews.png}}
-\textit{Notes:Unit of analysis is the Dyad-Day. Edges <-> indicates undirected dyad and -> indicates directed dyad. Top 10 most active dyads per category shown. Red text shows events from the synthetic narrative relative to that event category. Event types are grouped by hand along similar themes. Blue bars indicate an event recorded by ICEWs for that dyad on that day. }
+\textit{Notes:Unit of analysis is the Dyad-Day. Edges <-> indicates undirected dyad and -> indicates directed dyad. Top 10 most active dyads per category shown. Red text shows events from the synthetic narrative relative to that event category. Blue bars indicate an event recorded by ICEWs for that dyad on that day. }
 \end{figure}
 \clearpage
 \twocolumn

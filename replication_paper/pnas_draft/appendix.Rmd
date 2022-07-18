@@ -69,6 +69,12 @@ header-includes:
 
 ```{r library loads, eval=T, echo=F, cache=F, results='hide', message=F}
 
+library(reticulate)
+reticulate::py_discover_config()
+#use_python("/home/skynet3/anaconda3/bin/python/")
+#use_python("/home/tlscherer/anaconda3/bin/python3")
+
+
 flag_folder_small="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small/"
 
 knitr::opts_chunk$set(echo = F, echo=F, cache=F, results='hide', message=F, warning=F) #Global options
@@ -100,13 +106,18 @@ library(tidyverse)
 library(flextable)
 library(ftExtra)
 
+#pip install -U pip setuptools wheel
+#pip install -U spacy
+#python -m spacy download en_core_web_sm
+library(rvest)
+
 ```
 
 
 
 ```{r data loads, eval=T, echo=F, cache=F, results='hide', message=F}
 
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1.1_long_clean.Rds"))
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_clean.Rds"))
 codings_long_agreement <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_agreement.Rds") )
 
 ICBe_events_agreed <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.Rds")) 
@@ -200,28 +211,28 @@ convert_to_ft <- function(x){
 }
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(1:60) )  %>% convert_to_ft() %>%
-  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft1.png", zoom=1)
+  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft1.png", zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(61:120) ) %>% convert_to_ft()  %>% 
-  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft2.png", zoom=1)
+  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft2.png", zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(121:180) ) %>% convert_to_ft()  %>% 
-  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft3.png", zoom=1)
+  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft3.png", zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(181:240) ) %>% convert_to_ft()  %>% 
-  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft4.png", zoom=1)
+  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft4.png", zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(241:300) ) %>% convert_to_ft()  %>% 
-  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft5.png", zoom=1)
+  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft5.png", zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(301:360) ) %>% convert_to_ft()  %>% 
-  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft6.png", zoom=1)
+  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft6.png", zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(361:420) ) %>% convert_to_ft()  %>% 
-  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft7.png", zoom=1)
+  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft7.png", zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(421:500) ) %>% convert_to_ft()  %>% 
-  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft8.png", zoom=1)
+  save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft8.png", zoom=1)
 
 
 ```
@@ -229,35 +240,35 @@ temp_all %>% ungroup() %>% filter(crisno %in% c(421:500) ) %>% convert_to_ft()  
 
 \begin{figure}[H]
 \caption{ICBe Crises Summary Statistics \label{fig:case_study_cuban_precision}}
-\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft1.png"}}
+\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft1.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft2.png"}}
+\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft2.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft3.png"}}
+\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft3.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft4.png"}}
+\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft4.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft5.png"}}
+\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft5.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft6.png"}}
+\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft6.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft7.png"}}
+\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft7.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft8.png"}}
+\centering{\includegraphics[ height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft8.png"}}
 \end{figure}
 
 
@@ -380,20 +391,26 @@ length(sentences_unique) #11769
 
 ```
 
-
-```{r python load, echo=F, results='hide', message=F, warning=F, eval=T , cache=F}
-
-library(reticulate)
-reticulate::py_discover_config()
-
-#use_python("/home/skynet3/anaconda3/bin/python/")
-#use_python("/home/tlscherer/anaconda3/bin/python3")
-
-```
-
 ```{python embed glosses, echo=F, results='hide', message=F, warning=F, eval=T , cache=F}
 #Can't get this and spacy to work in the same run. Once reticulate loads once it sticks with the environment that came first and I can't figure out how to switch it.
 #pip install -U sentence-transformers
+
+import torch
+use_cuda = torch.cuda.is_available()
+if use_cuda:
+    print('__CUDNN VERSION:', torch.backends.cudnn.version())
+    print('__Number CUDA Devices:', torch.cuda.device_count())
+    print('__CUDA Device Name:',torch.cuda.get_device_name(0))
+    print('__CUDA Device Total Memory [GB]:',torch.cuda.get_device_properties(0).total_memory/1e9)
+    print('__CUDA Device Name:',torch.cuda.get_device_name(1))
+    print('__CUDA Device Total Memory [GB]:',torch.cuda.get_device_properties(1).total_memory/1e9)    
+
+import random
+import os
+from tqdm.auto import tqdm
+import pandas as pd
+from transformers import pipeline
+from transformers.pipelines.pt_utils import KeyDataset
 
 fromscratch=False
 
@@ -422,6 +439,8 @@ else:
 
 ```{python embed sentences for wordnet , echo=F, results='hide', message=F, warning=F, eval=T , cache=F}
 
+#Make sure you have a gpu if you want to run thi
+
 #Now embed the sentences from above (note this is raw original sentences not the normalized ones used in the main paper)
 #Can't get this and spacy to work in the same run. Once reticulate loads once it sticks with the environment that came first and I can't figure out how to switch it.
 #pip install -U sentence-transformers
@@ -449,7 +468,6 @@ if fromscratch:
   #temp = model.encode(sentences_chunks[0])
   sentences_embeddings = np.vstack([model.encode(q) for q in sentences_chunks])  #[0:100] #cpu is possible just painfully slow #, device='0'
   sentences_embeddings.shape #(12103, 768)
-
 else:
   print("Skipping")
 
@@ -691,11 +709,11 @@ if(fromscratch){
                      dplyr::select(email_id, crisno, sentence_number_int_aligned, raterconfidence=value) %>% distinct()
   
   temp <- codings_long_agreement %>% 
-                #Algo 1 agreement
-                filter(algo1==1) %>% 
-                #This is top 1 agreement
-                filter(value_normalized!='') %>% group_by(crisno,sentence_number_int_aligned, varname_normalized) %>% arrange(desc(percent_expert)) %>% filter(row_number()==1) %>% ungroup() %>%                    left_join(raterconfidence) %>% 
-                group_by(raterconfidence)
+          #Algo 1 agreement
+          filter(algo1==1) %>% 
+          #This is top 1 agreement
+          filter(value_normalized!='') %>% group_by(crisno,sentence_number_int_aligned, varname_normalized) %>% arrange(desc(percent_expert)) %>% filter(row_number()==1) %>% ungroup() %>%                    left_join(raterconfidence) %>% 
+          group_by(raterconfidence)
   
   p_percent_chose_tag_by_confidence <- temp %>%
     dplyr::select(percent_expert,raterconfidence) %>%
@@ -1058,14 +1076,14 @@ ft_cuba_recall<- cuba_recall %>%
                             bg( i = which( (1:nrow(cuba_recall) %% 2)==1   ) , part = "body", bg = "#EFEFEF") %>% #, j=1:3
                             ftExtra::colformat_md(j = 2, part="body")
   
-ft_cuba_recall %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_cuba_recall.png", zoom=1) # webshot = "webshot2"
+ft_cuba_recall %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_cuba_recall.png", zoom=1) # webshot = "webshot2"
   
 
 ```
 
 \begin{figure}[H]
 \caption{ Cuban Missile Crisis Synthetic Narrative Recall Matches \label{fig:ft_cuba_recall}}
-\centering{\includegraphics[height=21cm]{/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_cuba_recall.png}}
+\centering{\includegraphics[height=21cm]{/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_cuba_recall.png}}
 \end{figure}
 \clearpage
 
@@ -1115,7 +1133,7 @@ ft_crimea_recall<- crimea_recall %>%
                             bg( i = which( (1:nrow(crimea_recall) %% 2)==1   ) , part = "body", bg = "#EFEFEF") %>% #, j=1:3
                             ftExtra::colformat_md(j = 2, part="body")
   
-ft_crimea_recall %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_crimea_recall.png", zoom=1) # webshot = "webshot2"
+ft_crimea_recall %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_crimea_recall.png", zoom=1) # webshot = "webshot2"
   
                       
 
@@ -1123,7 +1141,7 @@ ft_crimea_recall %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdatas
 
 \begin{figure}[H]
 \caption{ Crimea-Donbas Synthetic Narrative Recall Matches \label{fig:ft_crimea_recall}}
-\centering{\includegraphics[height=21cm]{/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_crimea_recall.png}}
+\centering{\includegraphics[height=21cm]{/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_crimea_recall.png}}
 \end{figure}
 \clearpage
 
@@ -1190,7 +1208,7 @@ if(fromscratch){
                               ftExtra::colformat_md(j = 3, part="body")
   #ft_cuba_precision
   
-  ft_crimea_precision_part1 %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_crimea_precision_part1.png", zoom=1) # webshot = "webshot2"
+  ft_crimea_precision_part1 %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/case_study_crimea_precision_part1.png", zoom=1) # webshot = "webshot2"
   
   
   ft_crimea_precision_part2 <- temp %>%
@@ -1209,7 +1227,7 @@ if(fromscratch){
                         ftExtra::colformat_md(j = 3, part="body")
   #ft_cuba_precision
   
-  ft_crimea_precision_part2 %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_crimea_precision_part2.png", zoom=1) # webshot = "webshot2"
+  ft_crimea_precision_part2 %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/case_study_crimea_precision_part2.png", zoom=1) # webshot = "webshot2"
   
   temp <- NULL
   
@@ -1218,21 +1236,79 @@ if(fromscratch){
 
 \begin{figure}[H]
 \caption{ Annexation of Crimea ICB Narrative and ICBe codings \label{fig:case_study_crimea_precision}}
-\centering{\includegraphics[height=21cm]{/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_crimea_precision_part1.png}}
+\centering{\includegraphics[height=21cm]{/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/case_study_crimea_precision_part1.png}}
 \end{figure}
 \clearpage
 
 \begin{figure}[H]
-\centering{\includegraphics[height=21cm]{/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_crimea_precision_part2.png}}
+\centering{\includegraphics[height=21cm]{/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/case_study_crimea_precision_part2.png}}
 \end{figure}
 \clearpage
 
 ## Table D2: Stratified Sentence Examples
 
+```{r Stratified Sentence Examples, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
+
+temp <- ICBe_events_agreed_markdown %>% dplyr::select(
+  crisno, sentence_span_text,value_markdown,
+  act_cooperative , act_deescalate, act_escalate,act_uncooperative,
+  interact_decreasecoop,interact_deescalate,
+  interact_escalate, interact_increasecoop,
+  thinkkind,sayintkind
+) %>% pivot_longer(cols=-c(crisno, sentence_span_text,value_markdown)) %>% na.omit() %>% filter(value!='') %>% 
+    mutate(value = strsplit(as.character(value), ";")) %>% 
+    unnest(value)
+
+temp_sample <- temp %>% mutate(rand=runif(n())) %>% group_by(value)  %>% filter(rand==max(rand)) %>% ungroup() %>% arrange(name, value)
+
+ft_sample_precision_precision1 <- temp_sample %>% 
+                                  filter(row_number()<=56) %>%
+                                  dplyr::select(name, value, crisno,  ICB=sentence_span_text, ICBe=value_markdown)  %>%
+                                  flextable::as_flextable() %>%
+                                  flextable::width( j = 1:2, width=0.5)  %>% 
+                                  #flextable::width( j = 2, width=0.25)  %>% 
+                                  flextable::width( j = 3, width=0.5)  %>% 
+                                  flextable::width( j = 4:5, width=8.0)  %>% 
+                                  flextable::fontsize(size = 9, part = "all") %>%
+                                  valign(j = 1:3, valign = "top", part = "body") %>%
+                                  flextable::line_spacing( space = 1.0, part = "all") %>% 
+                                  padding( padding = 1, part = "all") %>% 
+                                  bg( i = which( ((1:56) %% 2 )==1 ) , part = "body", bg = "#EFEFEF") %>% #, j=1:3
+                                  ftExtra::colformat_md(j = 5, part="body")
+
+ft_sample_precision_precision1 %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_sample_precision_precision1.png", zoom=1) # 
+
+ft_sample_precision_precision2 <- temp_sample %>% 
+                                  filter(row_number()>=57) %>%
+                                  dplyr::select(name, value, crisno,  ICB=sentence_span_text, ICBe=value_markdown)  %>%
+                                  flextable::as_flextable() %>%
+                                  flextable::width( j = 1:2, width=0.5)  %>% 
+                                  #flextable::width( j = 2, width=0.25)  %>% 
+                                  flextable::width( j = 3, width=0.5)  %>% 
+                                  flextable::width( j = 4:5, width=8.0)  %>% 
+                                  flextable::fontsize(size = 9, part = "all") %>%
+                                  valign(j = 1:3, valign = "top", part = "body") %>%
+                                  flextable::line_spacing( space = 1.0, part = "all") %>% 
+                                  padding( padding = 1, part = "all") %>% 
+                                  bg( i = which( ((1:59) %% 2 )==1 ) , part = "body", bg = "#EFEFEF") %>% #, j=1:3
+                                  ftExtra::colformat_md(j = 5, part="body")
+
+ft_sample_precision_precision2 %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_sample_precision_precision2.png", zoom=1) # 
+
+
+```
+
 \hphantom{em}
 \begin{figure}[H]
-\caption{ Stratified Sentence Examples  \label{fig:case_study_cuban_precision}}
-\centering{\includegraphics[height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_sample_precision_precision.png"}}
+\caption{ Stratified Sentence Examples  \label{fig:ft_sample_precision_precision1}}
+\centering{\includegraphics[height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_sample_precision_precision1.png"}}
+\end{figure}
+\clearpage
+
+
+\hphantom{em}
+\begin{figure}[H]
+\centering{\includegraphics[height=21cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_sample_precision_precision2.png"}}
 \end{figure}
 \clearpage
 
@@ -2230,7 +2306,7 @@ library(ggraph)
 icb_crisismaps <- function(thiscrisis=196, prune_rare=T){
       
     print(thiscrisis)
-    save_icb_file <- paste0(here::here(), "/replication_paper/figures/crisismaps/p_icb_metro_plot_",thiscrisis,".Rds")
+    save_icb_file <- paste0(here::here(), "/replication_paper/figures/p_icb_metro_plot_",thiscrisis,".Rds")
   
     icb_diadic_subset <- icb_diadic %>% filter(CRISNO==thiscrisis) #Not all of them are diadic apparently
     icb_monadic_subset <- icb_monadic %>% rename(actor=actor_label) %>% filter(crisno==thiscrisis) %>%
@@ -2431,7 +2507,7 @@ icb_crisismaps <- function(thiscrisis=196, prune_rare=T){
       
 }
 
-c(196, 471) %>% sapply(FUN=function(x) icb_crisismaps(x))
+c(196, 471) %>% sapply(FUN=function(x) icb_crisismaps(x)) #This just runs every time no from scratch because the files are small
 
 
 ```
@@ -2513,7 +2589,7 @@ mids_crisismaps <- function(thiscrisis=196, prune_rare=T){
   print(thiscrisis)
   #thiscrisis=471
   plot_title <- crisno_name_years %>% filter(crisno==thiscrisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-  save_mids_file <- paste0(here::here(), "/replication_paper/figures/crisismaps/p_mids_metro_plot_",thiscrisis,".Rds")
+  save_mids_file <- paste0(here::here(), "/replication_paper/figures/p_mids_metro_plot_",thiscrisis,".Rds")
 
   year_start <-icb_crises[icb_crises$crisno==thiscrisis,]$yrtrig
   year_end   <- icb_crises[icb_crises$crisno==thiscrisis,]$yrterm 
@@ -2740,17 +2816,17 @@ fromscratch=F
 if(fromscratch){
   
   convert_aid = function(x) { x %>% mutate(aid = aid %>% format( scientific = FALSE)) %>% mutate_all(as.character) }
-  meta1_nyt2 <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/temp/DOI-10-13012-b2idb-0647142_v3 (1)/MetaDataBLN-NYT_1980-2018.csv", col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
-  meta2_swb <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/temp/DOI-10-13012-b2idb-0647142_v3 (1)/MetaDataBLN-SWB_1979-2019.csv", col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
-  meta_fbis <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/temp/DOI-10-13012-b2idb-0647142_v3 (1)/MetaDataFBIS_1995-2004.csv", col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
-  meta_nyt <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/temp/DOI-10-13012-b2idb-0647142_v3 (1)/MetaDataNYT_1945-2005.csv", col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
-  meta_wsj <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/temp/DOI-10-13012-b2idb-0647142_v3 (1)/MetaDataWSJ_1945-2006.csv", col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
+  meta1_nyt2 <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/git_ignore_folder/DOI-10-13012-b2idb-0647142_v3/MetaDataBLN-NYT_1980-2018.csv", col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
+  meta2_swb <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/git_ignore_folder/DOI-10-13012-b2idb-0647142_v3/MetaDataBLN-SWB_1979-2019.csv", col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
+  meta_fbis <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/git_ignore_folder/DOI-10-13012-b2idb-0647142_v3/MetaDataFBIS_1995-2004.csv", col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
+  meta_nyt <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/git_ignore_folder/DOI-10-13012-b2idb-0647142_v3/MetaDataNYT_1945-2005.csv", col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
+  meta_wsj <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/git_ignore_folder/DOI-10-13012-b2idb-0647142_v3/MetaDataWSJ_1945-2006.csv", col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
   
-  events_nyt2 <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/temp/DOI-10-13012-b2idb-0647142_v3 (1)/PhoenixBLN-NYT_1980-2018.csv", col_types=rep('c',50)  %>% paste0(collapse='')) # %>% convert_aid() 
-  events_swb <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/temp/DOI-10-13012-b2idb-0647142_v3 (1)/PhoenixBLN-SWB_1979-2019.csv", col_types=rep('c',50) %>% paste0(collapse='')) #%>% convert_aid() 
-  events_fbis <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/temp/DOI-10-13012-b2idb-0647142_v3 (1)/PhoenixFBIS_1995-2004.csv", col_types=rep('c',50) %>% paste0(collapse='')) #%>% convert_aid()  
-  events_nyt <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/temp/DOI-10-13012-b2idb-0647142_v3 (1)/PhoenixNYT_1945-2005.csv", col_types=rep('c',50) %>% paste0(collapse='')) #%>% convert_aid()  
-  events_wsj <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/temp/DOI-10-13012-b2idb-0647142_v3 (1)/PhoenixWSJ_1945-2006.csv", col_types=rep('c',50) %>% paste0(collapse='')) #%>% convert_aid()  
+  events_nyt2 <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/git_ignore_folder/DOI-10-13012-b2idb-0647142_v3/PhoenixBLN-NYT_1980-2018.csv", col_types=rep('c',50)  %>% paste0(collapse='')) # %>% convert_aid() 
+  events_swb <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/git_ignore_folder/DOI-10-13012-b2idb-0647142_v3/PhoenixBLN-SWB_1979-2019.csv", col_types=rep('c',50) %>% paste0(collapse='')) #%>% convert_aid() 
+  events_fbis <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/git_ignore_folder/DOI-10-13012-b2idb-0647142_v3/PhoenixFBIS_1995-2004.csv", col_types=rep('c',50) %>% paste0(collapse='')) #%>% convert_aid()  
+  events_nyt <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/git_ignore_folder/DOI-10-13012-b2idb-0647142_v3/PhoenixNYT_1945-2005.csv", col_types=rep('c',50) %>% paste0(collapse='')) #%>% convert_aid()  
+  events_wsj <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/git_ignore_folder/DOI-10-13012-b2idb-0647142_v3/PhoenixWSJ_1945-2006.csv", col_types=rep('c',50) %>% paste0(collapse='')) #%>% convert_aid()  
   
   setdiff(events_nyt2$aid , meta1_nyt2$aid) %>% length() #0 #316,201 #yup that was it if you import as numeric it converts to scientific internally and breaks everything 
   setdiff(meta1_nyt2$aid , events_nyt2$aid) %>% length() #0 #613,981 #Have to keep as a string throughout
@@ -2826,7 +2902,7 @@ if(fromscratch){
                     arrange(year, month, day)  %>% mutate(date = paste(day,"-",month,"-",year) %>% lubridate::dmy())
               
   dim(phoenix_clean) #8,495,402 #3,721,110 #2,813,748 #2912035 #3,508,495 #4,854,787
-  phoenix_clean %>% arrow::write_parquet(here::here("replication_paper", "data", "ignore", "phoenix_clean.parquet") )
+  phoenix_clean %>% arrow::write_parquet(here::here("git_ignore_folder",  "phoenix_clean.parquet") )
   
   library(dplyr)
   library(digest)
@@ -2838,14 +2914,14 @@ if(fromscratch){
                        filter( text %>% str_detect(paste0(c(keep_list,keep_list %>% tolower()),collapse="|"))) 
   dim(phoenix_clean_471) #68,334
   
-  phoenix_clean_471 %>% write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/phoenix_clean_471.tsv")
+  #phoenix_clean_471 %>% write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/phoenix_clean_471.tsv")
   dim(phoenix_clean_471) 
   
-  phoenix_clean_471 %>%
-    unite('actors_left' , source_label, source_root_label , source_agent_label, source_others1_label,source_others2_label,source_others3_label, sep=" ", , na.rm =T, remove=F) %>%
-    unite('actors_right', target_label, target_root_label , target_agent_label, target_others1_label,target_others2_label,target_others3_label, sep=" ", , na.rm =T, remove=F) %>%
-    dplyr::select(eid, year, month, day, actors_left, actors_right,cameo_event_label, text , title, primary_source, original_source) %>% 
-    write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/phoenix_clean_471_small.tsv")
+  #phoenix_clean_471 %>%
+  #  unite('actors_left' , source_label, source_root_label , source_agent_label, source_others1_label,source_others2_label,source_others3_label, sep=" ", , na.rm =T, remove=F) %>%
+  #  unite('actors_right', target_label, target_root_label , target_agent_label, target_others1_label,target_others2_label,target_others3_label, sep=" ", , na.rm =T, remove=F) %>%
+  #  dplyr::select(eid, year, month, day, actors_left, actors_right,cameo_event_label, text , title, primary_source, original_source) %>% 
+  #  write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/phoenix_clean_471_small.tsv")
   
   
   library(dplyr)
@@ -2858,14 +2934,14 @@ if(fromscratch){
                        filter( text %>% str_detect(paste0(c(keep_list,keep_list %>% tolower()),collapse="|"))) 
   dim(phoenix_clean_196) #62,192
   
-  phoenix_clean_196 %>% write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/phoenix_clean_196.tsv")
-  dim(phoenix_clean_196) 
+  #phoenix_clean_196 %>% write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/phoenix_clean_196.tsv")
+  #dim(phoenix_clean_196) 
   
-  phoenix_clean_196 %>%
-    unite('actors_left' , source_label, source_root_label , source_agent_label, source_others1_label,source_others2_label,source_others3_label, sep=" ", , na.rm =T, remove=F) %>%
-    unite('actors_right', target_label, target_root_label , target_agent_label, target_others1_label,target_others2_label,target_others3_label, sep=" ", , na.rm =T, remove=F) %>%
-    dplyr::select(eid, year, month, day, actors_left, actors_right,cameo_event_label, text , title, primary_source, original_source) %>% 
-    write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/phoenix_clean_196_small.tsv")
+  #phoenix_clean_196 %>%
+  #  unite('actors_left' , source_label, source_root_label , source_agent_label, source_others1_label,source_others2_label,source_others3_label, sep=" ", , na.rm =T, remove=F) %>%
+  #  unite('actors_right', target_label, target_root_label , target_agent_label, target_others1_label,target_others2_label,target_others3_label, sep=" ", , na.rm =T, remove=F) %>%
+  #  dplyr::select(eid, year, month, day, actors_left, actors_right,cameo_event_label, text , title, primary_source, original_source) %>% 
+  #  write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/phoenix_clean_196_small.tsv")
 
 }
 
@@ -2883,8 +2959,8 @@ phoenix_barmaps <- function(thiscrisis=196, topactor=F){
 
     print(thiscrisis)
     plot_title <- crisno_name_years %>% filter(crisno==thiscrisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-    save_file_penta <- paste0(here::here(), "/replication_paper/figures/crisismaps/p_phoenix_plot_penta_",thiscrisis,".Rds")
-    save_file_lv0 <- paste0(here::here(), "/replication_paper/figures/crisismaps/p_phoenix_plot_lv0_",thiscrisis,".Rds")
+    save_file_penta <- paste0(here::here(), "/replication_paper/figures/p_phoenix_plot_penta_",thiscrisis,".Rds")
+    save_file_lv0 <- paste0(here::here(), "/replication_paper/figures/p_phoenix_plot_lv0_",thiscrisis,".Rds")
     
     date_start <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrtrig , "-", icb_crises[icb_crises$crisno==thiscrisis,]$motrig, "-01"))
     date_end <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrterm , "-", icb_crises[icb_crises$crisno==thiscrisis,]$moterm, "-01"))
@@ -3020,7 +3096,7 @@ phoenix_barmaps <- function(thiscrisis=196, topactor=F){
 
 fromscratch=F
 if(fromscratch){
-  phoenix_clean <- arrow::read_parquet(here::here("replication_paper", "data", "ignore", "phoenix_clean.parquet") ) 
+  phoenix_clean <- arrow::read_parquet(here::here("git_ignore_folder", "phoenix_clean.parquet") ) 
   c(196, 471) %>% sapply(FUN=function(x) phoenix_barmaps(x))
 }
 
@@ -3064,11 +3140,6 @@ terrier_agent_labels <- data.frame(
 ) %>% janitor::clean_names() %>%
   mutate(agent_label = agent_label %>% tolower() )
 
-if(!file.exists(paste0(here::here(), "/replication_paper/data/ignore/terrier/largegeolocateddata//"))){
-  stop("Missing Terrier event data. See README.")
-}
-
-
 #if(file.exists(paste0(here::here(), "/replication_paper/data/ignore/terrier/largegeolocateddata//"))){
 #  terrier_fromscratch <-readline(prompt="Load original Terrier data? (T/F)")
 #}
@@ -3083,12 +3154,12 @@ library(dtplyr)
 library(dplyr, warn.conflicts = FALSE)
 terrier_fromscratch <- F
 if(terrier_fromscratch){
-    files <- list.files(path = paste0(here::here(), "/replication_paper/data/ignore/terrier/largegeolocateddata/"), pattern = ".tsv$", full.names = T)
+    files <- list.files(path = paste0(here::here(), "/git_ignore_folder/largegeolocateddata/"), pattern = ".tsv$", full.names = T)
     terrier <- rbindlist(lapply(files, FUN=function(x) fread(x,header=F, colClasses=paste0(rep('character',50), collapse='')  )  ) ) #%>% janitor::clean_names()
     dim(terrier) #28,438,029 #28,370,448       28
   
     actor_translator_terrier <- actor_translator %>% dplyr::select( terrier,  QCode, QCode_name) %>% filter(!duplicated(terrier)) %>% as.data.table() %>% na.omit()
-    
+
     #library("remotes")
     #remotes::install_github("andybega/icews")
     library(icews)
@@ -3162,7 +3233,7 @@ if(terrier_fromscratch){
     #terrier_clean_temp %>% saveRDS( here::here("replication_paper", "data", "in", "terrier_clean.Rds"))
     library(arrow) #you have to actually load the library
     terrier_clean_temp  %>%
-      arrow::write_parquet(here::here("replication_paper", "data", "ignore", "terrier_clean.parquet") )
+      arrow::write_parquet(here::here("git_ignore_folder", "terrier_clean.parquet") )
 }
 
 ```
@@ -3179,8 +3250,8 @@ terrier_barmaps <- function(thiscrisis=471, topactor=F){
 
     print(thiscrisis)
     plot_title <- crisno_name_years %>% filter(crisno==thiscrisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-    save_file_penta <- paste0(here::here(), "/replication_paper/figures/crisismaps/p_terrier_plot_penta_",thiscrisis,".Rds")
-    save_file_lv0 <- paste0(here::here(), "/replication_paper/figures/crisismaps/p_terrier_plot_lv0_",thiscrisis,".Rds")
+    save_file_penta <- paste0(here::here(), "/replication_paper/figures/p_terrier_plot_penta_",thiscrisis,".Rds")
+    save_file_lv0 <- paste0(here::here(), "/replication_paper/figures/p_terrier_plot_lv0_",thiscrisis,".Rds")
     
     date_start <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrtrig , "-", icb_crises[icb_crises$crisno==thiscrisis,]$motrig, "-01"))
     date_end <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrterm , "-", icb_crises[icb_crises$crisno==thiscrisis,]$moterm, "-01"))
@@ -3327,7 +3398,7 @@ fromscratch=F
 if(fromscratch){
   #done
   #install.packages("arrow")
-  terrier_clean <-  arrow::read_parquet( here::here("replication_paper", "data", "ignore", "terrier_clean.parquet")) #203mb
+  terrier_clean <-  arrow::read_parquet( here::here("git_ignore_folder", "terrier_clean.parquet")) #203mb
   dim(terrier_clean) #28,438,029 #39,322,909 #7,847,463
   
   c(196, 471) %>% sapply(FUN=function(x) terrier_barmaps(x))
@@ -3340,7 +3411,7 @@ if(fromscratch){
 fromscratch=F
 if(fromscratch){
   #accidentally loaded the pdfs
-  files <- list.files(path = paste0(here::here(), "/replication_paper/data/ignore/icews_dataverse/dataverse_files/"), full.names = T, pattern = ".tab$|.tsv$")
+  files <- list.files(path = paste0(here::here(), "/git_ignore_folder/dataverse_files/"), full.names = T, pattern = ".tab$|.tsv$") #there's both tab and tsv for some reason
   icews <- bind_rows(lapply(files, FUN=function(x) read_tsv(x, show_col_types = FALSE) )  ) %>% janitor::clean_names() %>% distinct()
   dim(icews) #18,403,260 #15,751,586
   
@@ -3414,7 +3485,7 @@ if(fromscratch){
   
     dim(icews_clean) #17,541,701 #1,965,573 it's still too many but it's just close enough now #1,965,573
   
-    icews_clean %>% arrow::write_parquet(here::here("replication_paper", "data", "ignore", "icews_clean.parquet") )
+    icews_clean %>% arrow::write_parquet(here::here("git_ignore_folder", "icews_clean.parquet") )
     
 
     #icews_clean %>% count(source_country) %>% dim() #233
@@ -3436,13 +3507,13 @@ if(fromscratch){
                        dplyr::select(-temp)
     dim(icews_clean_471) #281,427
     
-    icews_clean_471 %>% write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/icews_clean_471.tsv")
-     
-    icews_clean_471 %>%
-      unite('actors_left' , source_country, source_label, source_name, source_sectors,  sep=" ", , na.rm =T, remove=F) %>%
-      unite('actors_right', target_country, target_label, target_name, target_sectors, sep=" ", , na.rm =T, remove=F) %>%
-      dplyr::select(event_id, year, month, day, actors_left, actors_right,cameo_event_label=cameo_label, text ) %>% 
-      write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/icews_clean_471_small.tsv")
+    #icews_clean_471 %>% write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/icews_clean_471.tsv")
+    
+    #icews_clean_471 %>%
+    #  unite('actors_left' , source_country, source_label, source_name, source_sectors,  sep=" ", , na.rm =T, remove=F) %>%
+    #  unite('actors_right', target_country, target_label, target_name, target_sectors, sep=" ", , na.rm =T, remove=F) %>%
+    #  dplyr::select(event_id, year, month, day, actors_left, actors_right,cameo_event_label=cameo_label, text ) %>% 
+    #  write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/icews_clean_471_small.tsv")
 
 
 }
@@ -3462,8 +3533,8 @@ icews_barmaps <- function(thiscrisis=471, topactor=F){
 
     print(thiscrisis)
     plot_title <- crisno_name_years %>% filter(crisno==thiscrisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-    save_file_penta <- paste0(here::here(), "/replication_paper/figures/crisismaps/p_icews_plot_penta_",thiscrisis,".Rds")
-    save_file_lv0 <- paste0(here::here(), "/replication_paper/figures/crisismaps/p_icews_plot_lv0_",thiscrisis,".Rds")
+    save_file_penta <- paste0(here::here(), "/replication_paper/figures/p_icews_plot_penta_",thiscrisis,".Rds")
+    save_file_lv0 <- paste0(here::here(), "/replication_paper/figures/p_icews_plot_lv0_",thiscrisis,".Rds")
 
     date_start <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrtrig , "-", icb_crises[icb_crises$crisno==thiscrisis,]$motrig, "-01"))
     date_end <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrterm , "-", icb_crises[icb_crises$crisno==thiscrisis,]$moterm, "-01"))
@@ -3675,7 +3746,7 @@ fromscratch=F
 if(fromscratch){
   #done
   #install.packages("arrow")
-  icews_clean <-  arrow::read_parquet(here::here("replication_paper", "data", "ignore", "icews_clean.parquet") )
+  icews_clean <-  arrow::read_parquet(here::here("git_ignore_folder", "icews_clean.parquet") )
 
   c( 471) %>% sapply(FUN=function(x) icews_barmaps(x))
 }
@@ -3687,7 +3758,7 @@ if(fromscratch){
 
 
 ## Dyadic ICB
-save_file=paste0(here::here(), '/replication_paper/figures/crisismaps/p_icb_metro_plot_196.Rds')
+save_file=paste0(here::here(), '/replication_paper/figures/p_icb_metro_plot_196.Rds')
 p_metro_plot <- readRDS(save_file)
 actor_colors <- p_metro_plot$actor_colors
 subtitle="ICB Dyadic Events"
@@ -3702,7 +3773,7 @@ p_196_icb <- p_metro_plot +
     #caption = caption
   ) 
 
-save_file=paste0(here::here(), '/replication_paper/figures/crisismaps/p_icb_metro_plot_196.Rds')
+save_file=paste0(here::here(), '/replication_paper/figures/p_icb_metro_plot_196.Rds')
 p_metro_plot <- readRDS(save_file)
 p_196_phoenix <- p_metro_plot +
            theme(plot.margin=unit(c(0,0,0,0),"in")) +
@@ -3714,7 +3785,7 @@ p_196_phoenix <- p_metro_plot +
 
 ## MIDs
 library(ggplot2)
-save_file=paste0(here::here(), '/replication_paper/figures/crisismaps/p_mids_metro_plot_196.Rds') 
+save_file=paste0(here::here(), '/replication_paper/figures/p_mids_metro_plot_196.Rds') 
 p_metro_plot <- readRDS(save_file)
 actor_colors <- p_metro_plot$actor_colors
 subtitle="Dyadic Militarized Interstate Disputes (MIDs)"
@@ -3738,7 +3809,7 @@ p_196_mids <- p_metro_plot +
 ## Phoenix Crisis Map
 #ICBe  196
 library(ggplot2)
-save_file=paste0(here::here(), '/replication_paper/figures/crisismaps/p_phoenix_plot_penta_196.Rds')
+save_file=paste0(here::here(), '/replication_paper/figures/p_phoenix_plot_penta_196.Rds')
 subtitle="Phoenix Dyadic Events"
 caption=paste0("Data: Cline Center Historical Phoenix Event Data (Althaus et al. 2017)
              ", p_metro_plot$labels$caption) #tag original to bottom
@@ -3788,7 +3859,7 @@ save_plot(file=paste0(here::here(), '/replication_paper/figures/p_196_combined.p
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
 if(fromscratch){
-  p_phoenix_plot_lv0_196 <- readRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisismaps/p_phoenix_plot_lv0_196.Rds")
+  p_phoenix_plot_lv0_196 <- readRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/p_phoenix_plot_lv0_196.Rds")
   save_plot(file=paste0(here::here(), '/replication_paper/figures/p_phoenix_plot_lv0_196.png'),
             p_phoenix_plot_lv0_196 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
 }
@@ -3822,7 +3893,7 @@ library(ggtext)
 
 ## MIDs
 library(ggplot2)
-save_file=paste0(here::here(), '/replication_paper/figures/crisismaps/p_mids_metro_plot_471.Rds') 
+save_file=paste0(here::here(), '/replication_paper/figures/p_mids_metro_plot_471.Rds') 
 p_metro_plot <- readRDS(save_file)
 actor_colors <- p_metro_plot$actor_colors
 subtitle="Dyadic Militarized Interstate Disputes (MIDs)"
@@ -3846,7 +3917,7 @@ p_471_mids <- p_metro_plot +
 ## Phoenix Crisis Map
 #ICBe  196
 library(ggplot2)
-save_file=paste0(here::here(), '/replication_paper/figures/crisismaps/p_phoenix_plot_penta_471.Rds')
+save_file=paste0(here::here(), '/replication_paper/figures/p_phoenix_plot_penta_471.Rds')
 subtitle="Phoenix Dyadic Events"
 caption=paste0("Data: Cline Center Historical Phoenix Event Data (Althaus et al. 2017)
              ", p_metro_plot$labels$caption) #tag original to bottom
@@ -3862,7 +3933,7 @@ p_471_phoenix <- readRDS(save_file) +
 #       width=12, height=14)
 
 
-save_file=paste0(here::here(), '/replication_paper/figures/crisismaps/p_terrier_plot_penta_471.Rds')
+save_file=paste0(here::here(), '/replication_paper/figures/p_terrier_plot_penta_471.Rds')
 subtitle="Terrier Dyadic Events"
 caption=paste0("Data: Terrier (Grant et al. 2021)
              ", p_metro_plot$labels$caption) #tag original to bottom
@@ -3874,7 +3945,7 @@ p_471_terrier <- readRDS(save_file) +
       #caption = caption
     )
 
-save_file=paste0(here::here(), '/replication_paper/figures/crisismaps/p_icews_plot_penta_471.Rds')
+save_file=paste0(here::here(), '/replication_paper/figures/p_icews_plot_penta_471.Rds')
 p_471_icews <- readRDS(save_file) 
 
 
@@ -3917,7 +3988,7 @@ save_plot(file=paste0(here::here(), '/replication_paper/figures/p_471_combined.p
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
 if(fromscratch){
-  p_phoenix_plot_lv0_471 <- readRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisismaps/p_phoenix_plot_lv0_471.Rds")
+  p_phoenix_plot_lv0_471 <- readRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/p_phoenix_plot_lv0_471.Rds")
   save_plot(file=paste0(here::here(), '/replication_paper/figures/p_phoenix_plot_lv0_471.png'),
             p_phoenix_plot_lv0_471 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
 }
@@ -3934,7 +4005,7 @@ if(fromscratch){
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
 if(fromscratch){
-  p_terrier_plot_lv0_471 <- readRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisismaps/p_terrier_plot_lv0_471.Rds")
+  p_terrier_plot_lv0_471 <- readRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/p_terrier_plot_lv0_471.Rds")
   save_plot(file=paste0(here::here(), '/replication_paper/figures/p_terrier_plot_lv0_471.png'),
             p_terrier_plot_lv0_471 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
 }
@@ -3951,7 +4022,7 @@ if(fromscratch){
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
 if(fromscratch){
-  p_icews_plot_lv0_471 <- readRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisismaps/p_icews_plot_lv0_471.Rds")
+  p_icews_plot_lv0_471 <- readRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/p_icews_plot_lv0_471.Rds")
   save_plot(file=paste0(here::here(), '/replication_paper/figures/p_icews_plot_lv0_471.png'),
             p_icews_plot_lv0_471 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
 }

@@ -44,7 +44,7 @@ devtools::load_all(".")
 ```{r warning=FALSE}
 
 #Only a project lead can run this code. Copy (NEVER MOVE) the original save files to the data_temp folder. And then verify that that data_temp is on the gitignore list so it never gets committed.
-path <- paste0(here::here(), "/replication_data/ignore/icb_worker_saves") #this folder is copied over from the dropbox folder and never committed to github
+path <- paste0(here::here(), "/git_ignore_folder/icb_worker_saves") #this folder is copied over from the dropbox folder and never committed to github
 files_worker_saves <- list.files(path = path, pattern = ".Rdata", all.files = FALSE, full.names = T, recursive = T, ignore.case = FALSE, include.dirs = FALSE)
 length(files_worker_saves) #32748
 

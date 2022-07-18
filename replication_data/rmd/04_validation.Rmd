@@ -310,7 +310,7 @@ icb_events_long_narratives_brokenup <- icb_events_long_markdown %>%
                                             value_markdown = paste0(value_markdown %>% trimws(), collapse=" ") %>% trimws()
                                         ) %>% ungroup()
 
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1.1_long_clean.Rds")) %>%
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_clean.Rds")) %>%
                   filter(!varname %in% c("lastviewed","crisis",'sentencenumber','crisno', 'icb_survey_version',  'section' )) %>%
                   select(-sentence, -sentence_clean, -varname, -value, -status) %>% 
                   distinct()
@@ -398,10 +398,10 @@ ft
 ```{r, eval=T}
 
 saveRDS(ICBe_events_agreed_markdown, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.Rds")) 
-readr::write_tsv(ICBe_events_agreed_markdown, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.tsv")) 
+#readr::write_tsv(ICBe_events_agreed_markdown, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.tsv")) 
 
 saveRDS(ICBe_crises_markdown, paste0(here::here(), "/replication_data/out/ICBe_V1.1_crises_markdown.Rds")) 
-readr::write_tsv(ICBe_crises_markdown, paste0(here::here(), "/replication_data/out/ICBe_V1.1_crises_markdown.tsv")) 
+#readr::write_tsv(ICBe_crises_markdown, paste0(here::here(), "/replication_data/out/ICBe_V1.1_crises_markdown.tsv")) 
 
 ```
 

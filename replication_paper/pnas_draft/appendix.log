@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.12)  16 JUL 2022 09:26
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.17)  17 JUL 2022 20:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **appendix.tex
 (./appendix.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-07-04> (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2022-07-15> (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -130,7 +130,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 ) (/home/skynet3/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ) (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-07-04 L3 programming layer (loader) 
+Package: expl3 2022-07-15 L3 programming layer (loader) 
 (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2022-07-01 L3 backend support: XeTeX
 \g__graphics_track_int=\count267
@@ -782,9 +782,6 @@ Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
 
 LaTeX Warning: Label `eq:sclrec2' multiply defined.
 
-
-LaTeX Warning: Label `fig:case_study_cuban_precision' multiply defined.
-
 )
 \openout1 = `appendix.aux'.
 
@@ -1153,31 +1150,31 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 \tf@toc=\write3
 \openout3 = `appendix.toc'.
 
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft1.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft1.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft1.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft1.png>
 [1
 
 ]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft2.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft2.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft2.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft2.png>
 [2]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft3.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft3.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft3.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft3.png>
 [3]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft4.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft4.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft4.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft4.png>
 [4]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft5.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft5.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft5.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft5.png>
 [5]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft6.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft6.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft6.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft6.png>
 [6]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft7.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft7.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft7.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft7.png>
 [7]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft8.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/crisis_text_counts_ft8.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft8.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/crisis_text_counts_ft8.png>
 [8]
 Overfull \hbox (51.74869pt too wide) in alignment at lines 212--222
  [] [] [] 
@@ -1214,61 +1211,66 @@ File: ../figures/p_percent_chose_tag_by_concept.png Graphic file (type bmp)
 File: ../figures/p_percent_chose_tag_by_confidence.png Graphic file (type bmp)
 <../figures/p_percent_chose_tag_by_confidence.png>
 [15] [16]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_cuba_recall.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_cuba_recall.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_cuba_recall.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_cuba_recall.png>
 [17] [18]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_crimea_recall.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_crimea_recall.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_crimea_recall.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_crimea_recall.png>
 [19
 
 ] [20
 
 ]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_crimea_precision_part1.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_crimea_precision_part1.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/case_study_crimea_precision_part1.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/case_study_crimea_precision_part1.png>
 [21
 
 ] [22]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_crimea_precision_part2.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_crimea_precision_part2.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/case_study_crimea_precision_part2.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/case_study_crimea_precision_part2.png>
 [23
 
 ]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_sample_precision_precision.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/ft_sample_precision_precision.png>
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_sample_precision_precision1.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_sample_precision_precision1.png>
 [24
 
 ] [25]
+File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_sample_precision_precision2.png Graphic file (type bmp)
+</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/figures/ft_sample_precision_precision2.png>
+[26
+
+]
 File: ../figures/p_196_combined.png Graphic file (type bmp)
 <../figures/p_196_combined.png>
-[26
+[27
 
 ]
 File: ../figures/p_phoenix_plot_lv0_196.png Graphic file (type bmp)
 <../figures/p_phoenix_plot_lv0_196.png>
-[27
+[28
 
-] [28]
+] [29]
 File: ../figures/p_471_combined.png Graphic file (type bmp)
 <../figures/p_471_combined.png>
-[29
+[30
 
-] [30]
+] [31]
 File: ../figures/p_phoenix_plot_lv0_471.png Graphic file (type bmp)
 <../figures/p_phoenix_plot_lv0_471.png>
-[31
+[32
 
-] [32]
+] [33]
 File: ../figures/p_terrier_plot_lv0_471.png Graphic file (type bmp)
 <../figures/p_terrier_plot_lv0_471.png>
-[33
+[34
 
-] [34]
+] [35]
 File: ../figures/p_icews_plot_lv0_471.png Graphic file (type bmp)
 <../figures/p_icews_plot_lv0_471.png>
-[35
+[36
 
-] [36] [37
+] [37] [38
 
 ] (./appendix.aux)
 
@@ -1276,12 +1278,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 24718 strings out of 477865
- 462449 string characters out of 5846726
- 1211491 words of memory out of 5000000
- 45205 multiletter control sequences out of 15000+600000
+ 24728 strings out of 477864
+ 463090 string characters out of 5846692
+ 1211579 words of memory out of 5000000
+ 45215 multiletter control sequences out of 15000+600000
  476498 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,16n,121p,1197b,608s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on appendix.pdf (37 pages).
+Output written on appendix.pdf (38 pages).

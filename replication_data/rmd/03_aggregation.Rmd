@@ -29,7 +29,7 @@ rex_count <- function(x) { x %>% unique() %>% na.omit() %>% sort() %>% paste0(se
 
 ```{r}
 
-icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/temp/ICBe_V1.1_long_clean.Rds")) %>%
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_clean.Rds")) %>%
                   filter(!varname %in% c("lastviewed","crisis",'sentencenumber','crisno', 'icb_survey_version',  'section' )) %>%
                   select(-sentence, -sentence_clean, -varname, -value, -status) %>% 
                   distinct()
@@ -176,16 +176,16 @@ icb_events_long <- icb_events %>%
 ```{r, eval=T}
 
 saveRDS(votes_per_crisis_sentence, paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_agreement.Rds")) 
-readr::write_tsv(votes_per_crisis_sentence, paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_agreement.tsv")) 
+#readr::write_tsv(votes_per_crisis_sentence, paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_agreement.tsv")) 
 
 saveRDS(icb_long_clean, paste0(here::here(), "/replication_data/out/ICBe_V1.1_long.Rds")) 
-readr::write_tsv(icb_long_clean, paste0(here::here(), "/replication_data/out/ICBe_V1.1_long.tsv")) 
+#readr::write_tsv(icb_long_clean, paste0(here::here(), "/replication_data/out/ICBe_V1.1_long.tsv")) 
 
 saveRDS(icb_events, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.Rds")) 
-readr::write_tsv(icb_events, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.tsv")) 
+#readr::write_tsv(icb_events, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.tsv")) 
 
 saveRDS(icb_events_long, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.Rds")) 
-readr::write_tsv(icb_events_long, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.tsv")) 
+#readr::write_tsv(icb_events_long, paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.tsv")) 
 
 
 ```

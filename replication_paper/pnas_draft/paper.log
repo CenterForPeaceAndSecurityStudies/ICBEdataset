@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.12)  16 JUL 2022 11:43
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.17)  18 JUL 2022 08:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **paper.tex
 (./paper.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-07-04> (./pnas-new.cls
+L3 programming layer <2022-07-15> (./pnas-new.cls
 Document Class: pnas-new 2018/05/06, v1.44
 (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
@@ -442,7 +442,7 @@ Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 ) (/home/skynet3/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )) (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-07-04 L3 programming layer (loader) 
+Package: expl3 2022-07-15 L3 programming layer (loader) 
 (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2022-07-01 L3 backend support: XeTeX
 \g__graphics_track_int=\count296
@@ -943,12 +943,11 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/tools/xr.sty
 Package: xr 2020-05-10 v5.06 eXternal References (DPC)
 )
-Package xr Info: IMPORTING LABELS FROM appendix.aux on input line 57.
 
-LaTeX Warning: Label `eq:sclrec2' multiply defined.
-
-
-LaTeX Warning: Label `fig:case_study_cuban_precision' multiply defined.
+Package xr Warning: 
+No file appendix.aux
+LABELS NOT IMPORTED.
+ on input line 57.
 
 (/home/skynet3/.TinyTeX/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
@@ -1251,14 +1250,7 @@ Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
 Package: pnasresearcharticle 2018/05/06 v1.3 PNAS two column research article style
 \@float@every@sigstatement=\toks60
 \c@sigstatement=\count415
-) (./paper.aux
-
-LaTeX Warning: Label `fig:case_study_cuban_precision' multiply defined.
-
-
-LaTeX Warning: Label `RF1' multiply defined.
-
-)
+) (./paper.aux)
 \openout1 = `paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 155.
@@ -2326,17 +2318,14 @@ AED: lastpage setting LastPage
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: 4F854391112C13190656AD0383ABDF23;1381.
  ) 
 Here is how much of TeX's memory you used:
- 35479 strings out of 477865
- 703584 string characters out of 5846726
- 1235499 words of memory out of 5000000
- 55657 multiletter control sequences out of 15000+600000
+ 35445 strings out of 477864
+ 702786 string characters out of 5846692
+ 1233381 words of memory out of 5000000
+ 55624 multiletter control sequences out of 15000+600000
  494231 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,14n,118p,5458b,1117s stack positions out of 10000i,1000n,20000p,200000b,200000s
