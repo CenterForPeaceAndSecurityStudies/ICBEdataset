@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 fromscratch=F
 if(fromscratch){
-  urls <- readLines("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/sheet1.xml.rels")[[2]] %>%
+  urls <- readLines(here::here("replication_data", "in", "sheet1.xml.rels"))[[2]] %>%
     str_replace_all("Target=","\n") %>%
     str_replace_all("TargetMode=","\n") %>%  
     str_replace_all("Type=","\n") %>%
@@ -39,7 +39,7 @@ if(fromscratch){
   #Google drive download
   library("googledrive")
   #https://drive.google.com/open?id=186JCTWqxQCCRBbLl0JDzeFEpJxijoyoB 
-  setwd("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/crisis_texts/")
+  setwd(here::here("replication_data", "in", "crisis_texts"))
   getwd()
   temp <- drive_download(file="https://drive.google.com/open?id=186JCTWqxQCCRBbLl0JDzeFEpJxijoyoB" ) # type = "csv",
 }
@@ -48,8 +48,10 @@ if(fromscratch){
 #  dplyr::select(sentence_hash) %>% distinct() %>% View()
 #There are 4 not in the icb long #397 403 451 459 474
 setdiff(1:476, icb_long %>% dplyr::filter(varname=="crisno") %>% dplyr::pull(value) %>% unique() %>% as.numeric() %>% sort())
-icb_crisis_summaries_20150604 <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/icb_crisis_summaries_20150604.csv")
-icb_crisis_summaries_20150604_handadditions <- read_csv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/icb_crisis_summaries_20150604_handadditions.csv") #this gets us 1 to 455
+icb_crisis_summaries_20150604 <- read_csv(here::here("replication_data", "in", "icb_crisis_summaries_20150604.csv"))
+
+icb_crisis_summaries_20150604_handadditions <- read_csv(here::here("replication_data", "in", "icb_crisis_summaries_20150604_handadditions.csv")) #this gets us 1 to 455
+
 icb_crisis_summaries <- bind_rows(icb_crisis_summaries_20150604,icb_crisis_summaries_20150604_handadditions) %>%
   mutate(background = background %>% stringi::stri_enc_toutf8(validate=T)) %>% #there are non utf-8 characters
   mutate(text = text %>% stringi::stri_enc_toutf8(validate=T)) 
@@ -69,7 +71,8 @@ setdiff(icb_long %>% dplyr::filter(varname=="crisno") %>% dplyr::pull(value) %>%
 
 
 #Note I had to manually recreate the 001 crisis because it was just a dump of a large text file containing first 200ish crises
-files <- list.files(path = "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_corpus/data/in/crisis_texts/", pattern = NULL, all.files = FALSE,
+
+files <- list.files(path = here::here("replication_corpus", "data", "in", "crisis_texts/"), pattern = NULL, all.files = FALSE,
            full.names = FALSE, recursive = FALSE, ignore.case = FALSE, include.dirs = FALSE) 
 
 filed_df <- data.frame(file=files) %>%
@@ -79,7 +82,7 @@ filed_df <- data.frame(file=files) %>%
             mutate(filetype=ifelse(file %>% str_detect("docx$"), "docx", filetype)) %>%
             mutate(text=NA)
 n=nrow(filed_df)
-path <- "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_corpus/data/in/crisis_texts/"
+path <- here::here("replication_corpus", "data", "in", "crisis_texts/")
 library(pdftools)
 library(textreadr)
 for(i in 1:n){
@@ -135,7 +138,7 @@ icb_corpus <- filed_df_clean %>%
     file=file[1]
   )
 
-icb_corpus %>% saveRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_corpus/data/out/icb_corpus_V1.0_May_16_2022.Rds")
+icb_corpus %>% saveRDS(here::here("replication_corpus", "data", "out", "icb_corpus_V1.0_May_16_2022.Rds"))
 
 #icb_corpus$text %>% writeLines("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_corpus/data/in/test.txt")
 

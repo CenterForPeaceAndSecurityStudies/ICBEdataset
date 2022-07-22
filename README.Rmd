@@ -93,8 +93,6 @@ All of the files used to create the datasets, tables, figures.
   - 12_ICBEdataset_paper_appendixVerbMeanings
       + creates `/tables/verbs_sentence_wordnet_top_ft.Rds`
 
- 
-
 
 ## Data inputs:
 

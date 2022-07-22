@@ -18,7 +18,10 @@ dim(ICBe_events_agreed)
 icb_events_long <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.Rds")) 
 dim(icb_events_long)
 
-country_flags <- "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/countries.csv" %>% read_csv(col_names=F)
+country_flags <- here::here("replication_data", "in", "countries.csv") %>% read_csv(col_names=F)
+
+
+
 library(WikidataR)# install.packages("WikidataR","WikidataQueryServiceR")
 #https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Nations.svg
 UN <- get_item("Q1065")[[1]]$claims$P41
@@ -82,8 +85,9 @@ flag_codes1$wikidata_flag_url_file <- NA
 for(i in 1:nrow(flag_codes1)){
   print(i)
   if(is.na(flag_codes1$wikidata_flag_url[i])){ next }
-  destfile_svg <- glue::glue("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags/{flag_codes1$value_qcode[i]}.svg")
-  destfile_png <- glue::glue("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags/{flag_codes1$value_qcode[i]}.png")
+  
+  destfile_svg <- glue::glue(here::here("replication_data", "in", "flags", "{flag_codes1$value_qcode[i]}.svg"))
+  destfile_png <- glue::glue(here::here("replication_data", "in", "flags", "{flag_codes1$value_qcode[i]}.png"))
   
   if(!file.exists(destfile_svg) & !file.exists(destfile_png)){
     try({
@@ -105,7 +109,7 @@ for(i in 1:nrow(flag_codes1)){
   }
 }
 
-flag_folder <- "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags/"
+flag_folder <- here::here("replication_data", "in", "flags/")
 flag_files <- list.files(path = flag_folder, pattern = NULL, all.files = FALSE, full.names = FALSE, recursive = FALSE, ignore.case = FALSE, include.dirs = FALSE, no.. = FALSE)
 
 flag_files_short <- flag_files %>% str_replace("\\..*$","")
@@ -121,8 +125,9 @@ flag_codes1$file_exists <- flag_codes1$value_qcode %in% flag_files_short
 library(tidyverse)
 library(magick) #switching to magick which handles transparency correctly
 library(imager); #install.packages("imager")
-flag_folder <- "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags/"
-flag_folder_small <- "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small/"
+
+flag_folder <- here::here("replication_data", "in", "flags/")
+flag_folder_small <- here::here("replication_data", "in", "flags_small/")
 #20x16 pixels
 file="Q15180"
 
@@ -177,7 +182,9 @@ ICBe_events_agreed$interact_domains %>% unique()
 ICBe_events_agreed$interact_territory %>% unique()
 ICBe_events_agreed$interact_geoscope  %>% unique()
 
-#![](/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/cub.png) 
+#![](here::here("replication_data", "pnas_draft", "cub.png"))
+
+
 
 paste_vars <- c("think_actor_a","thinkkind",
 "say_actor_a", "sayintkind", "say_actor_b",

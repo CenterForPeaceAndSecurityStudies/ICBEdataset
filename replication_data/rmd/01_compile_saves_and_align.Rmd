@@ -216,7 +216,10 @@ if(fromscratch & length(files_worker_saves)>0){
     library(text.alignment)
     
     if(fromscratch){
-      icb_crisis_summaries <- readRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_corpus/data/out/icb_corpus_V1.0_May_16_2022.Rds")
+      icb_crisis_summaries <- readRDS(here::here("replication_corpus", "data", "out", "icb_corpus_V1.0_May_16_2022.Rds"))
+      
+      
+      
       #Do a round first based on the file name
       icb_long_crisis_sentence_unique <- icb_long %>% dplyr::select(crisno,  sentence_clean) %>% distinct() %>%  #we have to check two different crises, the one that was reported and the file name
         mutate(crisno= crisno %>% as.numeric()) %>%
@@ -238,10 +241,12 @@ if(fromscratch & length(files_worker_saves)>0){
           }
         }
       toc() #878.328 sec elapsed
-    icb_long_crisis_sentence_unique %>% saveRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_corpus/data/out/icb_long_crisis_sentence_unique.Rds")
+    icb_long_crisis_sentence_unique %>% saveRDS(here::here("replication_corpus", "data", "out", "icb_long_crisis_sentence_unique.Rds"))
     }
-    icb_long_crisis_sentence_unique <- readRDS("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_corpus/data/out/icb_long_crisis_sentence_unique.Rds")
+    icb_long_crisis_sentence_unique <- readRDS(here::here("replication_corpus", "data", "out", "icb_long_crisis_sentence_unique.Rds"))
 
+    
+    
     icb_long_spans <- icb_long %>% 
                       mutate(crisno = crisno %>% as.numeric()) %>%
                       left_join(icb_long_crisis_sentence_unique %>%

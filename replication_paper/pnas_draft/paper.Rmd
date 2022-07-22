@@ -290,8 +290,9 @@ ft_cuba_precision <- temp %>%
                       ftExtra::colformat_md(j = 3, part="body")
 #ft_cuba_precision
 
-ft_cuba_precision %>% save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_cuban_precision.png", zoom=1) # webshot = "webshot2"
+ft_cuba_precision %>% save_as_image(path=here::here("replication_paper","pnas_draft","case_study_cuban_precision.png"), zoom=1) # webshot = "webshot2"
 temp <- NULL
+
 
 ```
 
@@ -302,7 +303,7 @@ temp <- NULL
 \onecolumn
 \begin{figure}[H]
 \caption{Case Study 1: Cuban Missile Crisis (1962) - ICB Narrative vs. ICBe Events \label{fig:case_study_cuban_precision}}
-\centering{\includegraphics[ height=22cm]{"/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_cuban_precision.png"}}
+\centering{\includegraphics[ height=22cm]{"./case_study_cuban_precision.png"}}
 \end{figure}
 \clearpage
 \twocolumn
@@ -573,17 +574,20 @@ case_study_cuban <- googlesheets4::read_sheet("https://docs.google.com/spreadshe
 dim(case_study_cuban)
 #case_study_cuban$date <- case_study_cuban$date %>% lapply(FUN=function(x) { ifelse(is.null(x), "", x[[1]] %>% as.character() )   }   ) %>% unlist() %>% as.Date()
 
+
+paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q241.png) ")
+
 #Replace emoticons with images
 replace_emoticons <- function(x){
-  x %>% str_replace_all('\U0001f1e8\U0001f1fa',  " ![](/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small//Q241.png) ") %>%
+  x %>% str_replace_all('\U0001f1e8\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q241.png) ")) %>%
         #https://emojiterra.com/flag-for-united-states/
-        str_replace_all('\U0001f1fa\U0001f1f8',  " ![](/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small//Q30.png) ") %>%
+        str_replace_all('\U0001f1fa\U0001f1f8',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
         #https://emojiterra.com/flag-for-russia/
-        str_replace_all('\U0001f1f7\U0001f1fa',  " ![](/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small//Q15180.png) ") %>% 
+        str_replace_all('\U0001f1f7\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15180.png) ")) %>% 
         #Turkey
-        str_replace_all('\U0001f1f9\U0001f1f7',  " ![](/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small//Q43.png) ") %>% 
+        str_replace_all('\U0001f1f9\U0001f1f7',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q43.png) ")) %>% 
         #U.N.
-        str_replace_all('\U0001f1fa\U0001f1f3',  " ![](/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small//Q1065.png) ")
+        str_replace_all('\U0001f1fa\U0001f1f3',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q1065.png) "))
 }
 
 
@@ -669,7 +673,7 @@ ft <- temp1   %>%
 
 ft   %>% 
     #flextable::flextable_to_rmd()
-    save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_cuban_recall.png", zoom=1, webshot = "webshot2") # webshot = "webshot2"
+    save_as_image(path=here::here("replication_paper", "pnas_draft", "case_study_cuban_recall.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
 
 #Ok rather than try to match up we're going to do this by hand now
 
@@ -687,14 +691,14 @@ dim(case_study_crimea)
 replace_emoticons_crimea <- function(x){
       x %>%
             #https://emojiterra.com/flag-for-united-states/
-            str_replace_all('\U0001f1fa\U0001f1f8',  " ![](/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small//Q30.png) ") %>%
+            str_replace_all('\U0001f1fa\U0001f1f8', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
             #https://emojiterra.com/flag-for-russia/
-            str_replace_all('\U0001f1f7\U0001f1fa',  " ![](/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small//Q159.png) ") %>% 
+            str_replace_all('\U0001f1f7\U0001f1fa', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q159.png) ")) %>% 
             #Ukraine
-            str_replace_all('\U0001f1fA\U0001f1e6',  " ![](/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small//Q212.png) ") %>% 
+            str_replace_all('\U0001f1fA\U0001f1e6',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q212.png) ")) %>% 
             #
-            str_replace_all('Crimea',  " ![](/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_data/in/flags_small//Q15966495.png) ")
-}
+            str_replace_all('Crimea', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15966495.png) "))
+                            }
 
 
 rex_date <- function(x){
@@ -778,7 +782,7 @@ ft <- temp2  %>%
 
 ft   %>% 
     #flextable::flextable_to_rmd()
-    save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_crimea_recall.png",
+    save_as_image(path=here::here("replication_paper", "pnas_draft", "case_study_crimea_recall.png"),
                   zoom=1, webshot = "webshot2") # webshot = "webshot2"
 
 
@@ -904,7 +908,8 @@ ft <- temp3  %>%
 
 ft   %>% 
     #flextable::flextable_to_rmd()
-    save_as_image(path="/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/recall_cuban_and_crimea.png", zoom=1, webshot = "webshot2") # webshot = "webshot2"
+    save_as_image(path=here::here("replication_paper", "pnas_draft", "recall_cuban_and_crimea.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+
 
 
 ```
@@ -959,11 +964,14 @@ ggsave(file=paste0(here::here(), '/replication_paper/figures/p_recall.png'),
        width=5, height=3.0)
 
 library(magick)
-tiger <- image_read("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/recall_cuban_and_crimea.png")
+
+
+
+tiger <- image_read(here::here("replication_paper", "pnas_draft", "recall_cuban_and_crimea.png"))
 tiger2 <- image_read(paste0(here::here(), '/replication_paper/figures/p_recall.png'))
 
 combined <- image_composite(tiger, image_scale(tiger2, "x290"), offset = "+475+650")
-image_write(combined, "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/recall_cuban_and_crimea_andcounts.png")
+image_write(combined, here::here("replication_paper", "pnas_draft", "recall_cuban_and_crimea_andcounts.png"))
 
 ```
 
@@ -972,7 +980,7 @@ image_write(combined, "/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_pap
 \onecolumn
 \begin{figure}[H]
 \caption{Measuring Recall with Synthetic Historical Narratives \label{fig:case_study_cuban_recall}}
-\centering{\includegraphics[height=18cm]{/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/recall_cuban_and_crimea_andcounts.png}}
+\centering{\includegraphics[height=18cm]{/recall_cuban_and_crimea_andcounts.png}}
 \textit{Notes: Synthetic narratives combine several thousand accounts of each crisis into a single timeline of events, taking only those mentioned in at least 5 or more documents. Checkmarks represent whether that event could be hand matched to any detail in the ICB corpus, ICBe dataset, or any of the other event datasets.}
 \end{figure}
 \clearpage
@@ -1709,8 +1717,7 @@ library(tidyr)
 library(stringr)
 library(ggtext)
 
-icews_clean_subset_top10_day <- read_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/icews_clean_471_lowest.tsv")
-
+icews_clean_subset_top10_day <- read_tsv(here::here("replication_paper", "data", "out", "icews_clean_471_lowest.tsv"))
 
 keys <- c("sign formal agreement") #"express accord", #,"declare truce, ceasefire"
 events1 <- icews_clean_subset_top10_day %>% 
