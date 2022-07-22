@@ -1241,12 +1241,16 @@ icbe_crisismaps <- function(thiscrisis=471, prune_rare=T){
             #We need to enumerate all the possibilities
             bind_rows(
               #Do alone
-              icb_events_subset_diad %>% filter(is.na(thinkkind) & is.na(sayintkind) & !is.na(dokind)) %>% dplyr::select(sent,actor_1=do_actor_a, actor_2=do_actor_b, leaf=dokind) ,
+              icb_events_subset_diad %>% filter(is.na(thinkkind) & is.na(sayintkind) & !is.na(dokind)) %>% 
+                             dplyr::select(sent,actor_1=do_actor_a, actor_2=do_actor_b, leaf=dokind) ,
               #Say alone
               icb_events_subset_diad %>% filter(is.na(thinkkind) & !is.na(sayintkind) & is.na(dokind)) %>% dplyr::select(sent,actor_1=say_actor_a, actor_2=say_actor_b, leaf=sayintkind) ,
               #Say Do
               icb_events_subset_diad %>% filter(is.na(thinkkind) & !is.na(sayintkind) & !is.na(dokind)) %>% 
-                mutate(leaf=paste0(sayintkind,"-",dokind)) %>% dplyr::select(sent,actor_1=say_actor_a, actor_2=say_actor_b, leaf=leaf) 
+                mutate(leaf=paste0(sayintkind,"-",dokind)) %>% dplyr::select(sent,actor_1=say_actor_a, actor_2=say_actor_b, leaf=leaf),
+              #Think Do
+              icb_events_subset_diad %>% filter(!is.na(thinkkind) & is.na(sayintkind) & !is.na(dokind)) %>% 
+                mutate(leaf=paste0(dokind)) %>% dplyr::select(sent,actor_1=do_actor_a, actor_2=do_actor_b, leaf=leaf) 
             ) %>% 
             na.omit() %>% 
             distinct() %>% 
@@ -1369,7 +1373,6 @@ icbe_crisismaps <- function(thiscrisis=471, prune_rare=T){
 
 library(ggplot2)
 library(cowplot)
-
 
 p_196_icbe <- icbe_crisismaps(thiscrisis=196) #readRDS(file=paste0(here::here(), '/replication_paper/figures/crisismaps/p_metro_plot_471.Rds')) +
     labs(

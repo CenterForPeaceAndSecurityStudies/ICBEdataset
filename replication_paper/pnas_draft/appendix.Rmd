@@ -706,7 +706,7 @@ if(fromscratch){
 fromscratch=F
 if(fromscratch){
   raterconfidence <- icb_long_clean %>% filter(email_id %>% str_detect('expert') & varname_normalized=='raterconfidence' ) %>%
-                     dplyr::select(email_id, crisno, sentence_number_int_aligned, raterconfidence=value) %>% distinct()
+                     dplyr::select(email_id, crisno, sentence_number_int_aligned, raterconfidence=value_normalized) %>% distinct()
   
   temp <- codings_long_agreement %>% 
           #Algo 1 agreement
