@@ -1414,8 +1414,10 @@ p_precision_combined <- plot_grid(
    scale_y_continuous(expand = expansion(mult = c(0.01, 0.01))) ,  
            labels = c('Cuban Missiles','Crimea-Donbas'), align = "v", ncol = 2 , rel_widths = c(1, 1) )
 
+ratio=1.5
+height=18
 save_plot(file=paste0(here::here(), '/replication_paper/figures/p_precision_combined.png'),
-          p_precision_combined, base_height = 18, base_width = 24)
+          p_precision_combined, base_height = 18, base_width = height*ratio)
 
 ```
 
