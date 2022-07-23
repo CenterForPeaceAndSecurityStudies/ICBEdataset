@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.17)  18 JUL 2022 08:28
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.22)  22 JUL 2022 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -39,7 +39,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
 ) (/home/skynet3/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/06/26 3.77 The Babel package
+Package: babel 2022/07/20 3.78 The Babel package
 \babel@savecnt=\count189
 \U@D=\dimen140
 \l@unhyphenated=\language3
@@ -1445,8 +1445,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 [2
 
 ]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_cuban_precision.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/case_study_cuban_precision.png>
+File: ./case_study_cuban_precision.png Graphic file (type bmp)
+<./case_study_cuban_precision.png>
 [3
 
 
@@ -1562,8 +1562,8 @@ Overfull \hbox (1.3995pt too wide) in paragraph at lines 288--288
 ] [7
 
 ]
-File: /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/recall_cuban_and_crimea_andcounts.png Graphic file (type bmp)
-</mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft/recall_cuban_and_crimea_andcounts.png>
+File: ./recall_cuban_and_crimea_andcounts.png Graphic file (type bmp)
+<./recall_cuban_and_crimea_andcounts.png>
 
 Overfull \hbox (14.5958pt too wide) in paragraph at lines 519--521
  [][] 
@@ -2322,10 +2322,10 @@ Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: 4F854391112C13190656AD0383ABDF23;1381.
  ) 
 Here is how much of TeX's memory you used:
- 35445 strings out of 477864
- 702786 string characters out of 5846692
- 1233381 words of memory out of 5000000
- 55624 multiletter control sequences out of 15000+600000
+ 35434 strings out of 477864
+ 701529 string characters out of 5846692
+ 1234080 words of memory out of 5000000
+ 55614 multiletter control sequences out of 15000+600000
  494231 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,14n,118p,5458b,1117s stack positions out of 10000i,1000n,20000p,200000b,200000s

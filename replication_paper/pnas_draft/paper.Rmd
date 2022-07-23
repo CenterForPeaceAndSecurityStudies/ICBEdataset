@@ -980,7 +980,7 @@ image_write(combined, here::here("replication_paper", "pnas_draft", "recall_cuba
 \onecolumn
 \begin{figure}[H]
 \caption{Measuring Recall with Synthetic Historical Narratives \label{fig:case_study_cuban_recall}}
-\centering{\includegraphics[height=18cm]{/recall_cuban_and_crimea_andcounts.png}}
+\centering{\includegraphics[height=18cm]{./recall_cuban_and_crimea_andcounts.png}}
 \textit{Notes: Synthetic narratives combine several thousand accounts of each crisis into a single timeline of events, taking only those mentioned in at least 5 or more documents. Checkmarks represent whether that event could be hand matched to any detail in the ICB corpus, ICBe dataset, or any of the other event datasets.}
 \end{figure}
 \clearpage
@@ -1415,7 +1415,7 @@ p_precision_combined <- plot_grid(
            labels = c('Cuban Missiles','Crimea-Donbas'), align = "v", ncol = 2 , rel_widths = c(1, 1) )
 
 save_plot(file=paste0(here::here(), '/replication_paper/figures/p_precision_combined.png'),
-          p_precision_combined, base_height = 14, base_width = 18)
+          p_precision_combined, base_height = 18, base_width = 24)
 
 ```
 
