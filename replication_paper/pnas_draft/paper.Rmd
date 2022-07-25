@@ -97,15 +97,16 @@ lineno: false
 #https://stackoverflow.com/questions/52531637/knitr-rmarkdown-latex-how-to-cross-reference-figures-and-tables-in-2-different/52532269#52532269
 #https://stackoverflow.com/questions/51595939/bookdown-cross-reference-figure-in-another-file
 #https://stackoverflow.com/questions/25824795/how-to-combine-two-rmarkdown-rmd-files-into-a-single-output/51521542#51521542
-output: 
-  bookdown::pdf_book:
-    toc: no
-    base_format: rticles::pnas_article
-    latex_engine: xelatex
+#https://stackoverflow.com/questions/64700865/using-r-rstudio-knit-to-pdf-how-to-pass-custom-flags-to-the-pdflatex-command
+
+bibliography: arxiv.bib
+biblio-style: unsrt
+output: rticles::arxiv_article
+
 
 #Disabled several the caused errors
 header-includes:
-  - \usepackage{xr} \externaldocument{appendix} #External references from the appendix
+#  - \usepackage{xr} \externaldocument{appendix} #External references from the appendix
 #  - \usepackage{tinytex}
   - \usepackage[utf8]{inputenc}
   - \usepackage{pifont}
@@ -114,7 +115,8 @@ header-includes:
   - \newunicodechar{✗}{\ding{55}}
   - \usepackage{array}
   - \usepackage{ctable} # added for demo
-  - \usepackage{natbib} #added for latex citation within huxtable
+#  - \usepackage{natbib} #added for latex citation within huxtable
+#  - \usepackage{biblatex} #added for latex citation within huxtable
   - \usepackage{booktabs}
   - \usepackage{longtable}
   - \usepackage{array}
@@ -150,12 +152,17 @@ header-includes:
 #  - \usepackage{eso-pic,graphicx,transparent}
 #  - \usepackage[perpage]{footmisc}
   - \usepackage[algo2e]{algorithm2e}
+#  - \usepackage[backend = biber]{biblatex} #added in hopes of getting a bbl
 #https://tex.stackexchange.com/questions/131646/algorithm2e-command-algorithm-already-defined
 ---
 
 ```{r, echo=F, cache=F, messages=F, results='hide', warnings=F, include=FALSE}
+print(wd())
 #International Crisis Behavior Events (ICBe) Dataset
 knitr::opts_chunk$set(echo=F, cache=TRUE, messages=F, results='hide', warnings=F, include=FALSE) #fig.width = 8, fig.height = 8, message=F, warning=F, , results=F
+
+#Execute these lines to get bbl files for the arxiv submission
+options(tinytex.clean=F)
 
 ```
 
@@ -959,7 +966,7 @@ p_recall <- temp3_long %>% ggplot(aes(x=log(docs), y=value, color=name)) +
 
 #p_recall
 
-ggsave(file=paste0(here::here(), '/replication_paper/figures/p_recall.png'),
+ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_recall.png'),
        plot = p_recall ,
        width=5, height=3.0)
 
@@ -968,7 +975,7 @@ library(magick)
 
 
 tiger <- image_read(here::here("replication_paper", "pnas_draft", "recall_cuban_and_crimea.png"))
-tiger2 <- image_read(paste0(here::here(), '/replication_paper/figures/p_recall.png'))
+tiger2 <- image_read(paste0(here::here(), '/replication_paper/pnas_draft/p_recall.png'))
 
 combined <- image_composite(tiger, image_scale(tiger2, "x290"), offset = "+475+650")
 image_write(combined, here::here("replication_paper", "pnas_draft", "recall_cuban_and_crimea_andcounts.png"))
@@ -1382,7 +1389,7 @@ icbe_crisismaps <- function(thiscrisis=471, prune_rare=T){
 library(ggplot2)
 library(cowplot)
 
-p_196_icbe <- icbe_crisismaps(thiscrisis=196) #readRDS(file=paste0(here::here(), '/replication_paper/figures/crisismaps/p_metro_plot_471.Rds')) +
+p_196_icbe <- icbe_crisismaps(thiscrisis=196) #readRDS(file=paste0(here::here(), '/replication_paper/pnas_draft/crisismaps/p_metro_plot_471.Rds')) +
     labs(
       #title = plot_title ,
       #subtitle = subtitle ,
@@ -1393,7 +1400,7 @@ p_196_icbe <- icbe_crisismaps(thiscrisis=196) #readRDS(file=paste0(here::here(),
    scale_y_continuous(expand = expansion(mult = c(0.01, 0.01)))
 
     
-p_471_icbe <- icbe_crisismaps(thiscrisis=471) #readRDS(file=paste0(here::here(), '/replication_paper/figures/crisismaps/p_metro_plot_471.Rds')) +
+p_471_icbe <- icbe_crisismaps(thiscrisis=471) #readRDS(file=paste0(here::here(), '/replication_paper/pnas_draft/crisismaps/p_metro_plot_471.Rds')) +
     labs(
       #title = plot_title ,
       #subtitle = subtitle ,
@@ -1416,7 +1423,7 @@ p_precision_combined <- plot_grid(
 
 ratio=1.5
 height=18
-save_plot(file=paste0(here::here(), '/replication_paper/figures/p_precision_combined.png'),
+save_plot(file=paste0(here::here(), '/replication_paper/pnas_draft/p_precision_combined.png'),
           p_precision_combined, base_height = 18, base_width = height*ratio)
 
 ```
@@ -1425,7 +1432,7 @@ save_plot(file=paste0(here::here(), '/replication_paper/figures/p_precision_comb
 \onecolumn
 \begin{sidewaysfigure}[ht]
 \caption{Crisis Maps  \label{fig:p_precision_combined}}
-\centering{\includegraphics[width=24cm]{../figures/p_precision_combined.png}}
+\centering{\includegraphics[width=24cm]{./p_precision_combined.png}}
 \end{sidewaysfigure}
 \clearpage
 \twocolumn
@@ -1617,7 +1624,7 @@ p_semantic_embeddings <-
      #coord_cartesian( xlim=c(0.75,6.5), ylim=c(7,12)) #+  #you can't do this because umap is stochastic and you'd have to pick by hand each time
      #coord_flip() 
 
-ggsave(file=paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=12, height=8)
+ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=12, height=8)
 
 #Now do the dendro
 library(ggdendro)
@@ -1693,7 +1700,7 @@ p_combined <- plot_grid(
   align = "v", ncol = 2, rel_widths = c(3, 1)  )
 #p_combined
 
-ggsave(file=paste0(here::here(), '/replication_paper/figures/p_semantic_embeddings_dendro.png'), plot = p_combined, width=12, height=10)
+ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_semantic_embeddings_dendro.png'), plot = p_combined, width=12, height=10)
 
 
 ```
@@ -1702,13 +1709,13 @@ ggsave(file=paste0(here::here(), '/replication_paper/figures/p_semantic_embeddin
 \onecolumn
 \begin{figure}[H]
 \caption{ICBe event codings in comparison to Semantic Embeddings from source sentences\label{fig:semantic_embeddings}}
-\centering{\includegraphics[width=17cm]{../figures/p_semantic_embeddings_dendro.png}}
+\centering{\includegraphics[width=17cm]{./p_semantic_embeddings_dendro.png}}
 \textit{Notes: Dots represent individual ICB narrative sentences, as embeded by the Paraphrase-MPNET-base-v2 large language model and flattened into two dimensions with UMAP. Text labels reflect individual leaves of the ICBe ontology, and colors represent intermediate branches of the ontology. Label placement is the median of all of the sentences that tag was applied to by the coders. The dendrogram shows hiearchical clustering of the tags. If ICBe precision is high, the sentences tags were applied to ought to say similar things, and the intended shape of the ontology ought to visually recognizable. }
 \end{figure}
 \clearpage
 \twocolumn
 
-Finally, how does ICBe's precision compare to the existing state of the art? The crisis-maps reveal the episode level datasets like MIDs or the original ICB are too sparse and vague to reconstruct the structure of the crisis. On the other end of the spectrum, the high recall dictionary based event datasets like Terrier and ICEWs produce so many noisy events (several hundreds thousands) that even with heavy filtering their crisis maps are completely unintelligible. Further, because of copyright issues, none of these datasets directly provide the original text spans making event level precision difficult to verify.
+Finally, how does ICBe's precision compare to the existing state of the art? The crisis-maps reveal the episode level datasets like MIDs or the original ICB are too sparse and vague to reconstruct the structure of the crisis (SI Appendix Figure D3 and D4). On the other end of the spectrum, the high recall dictionary based event datasets like Terrier and ICEWs produce so many noisy events (several hundreds thousands) that even with heavy filtering their crisis maps are completely unintelligible. Further, because of copyright issues, none of these datasets directly provide the original text spans making event level precision difficult to verify.
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
 
@@ -1799,7 +1806,7 @@ p_ICEWS <- plot_grid(
            align = "v", ncol = 1 , rel_widths = c(1) )
 
 save_plot(file=paste0(here::here(),
-                      '/replication_paper/figures/p_precision_icews.png'),
+                      '/replication_paper/pnas_draft/p_precision_icews.png'),
           p_ICEWS, base_height = 10, base_width = 14)
 
 
@@ -1813,7 +1820,7 @@ We take the same approach here in Figure 5, selecting four specific CAMEO event 
 \onecolumn
 \begin{figure}[H]
 \caption{ ICEWs Events by Day by Type during the Crimea-Donbas Crisis \label{fig:p_precision_icews}}
-\centering{\includegraphics[width=17cm]{../figures/p_precision_icews.png}}
+\centering{\includegraphics[width=17cm]{./p_precision_icews.png}}
 \textit{Notes:Unit of analysis is the Dyad-Day. Edges <-> indicates undirected dyad and -> indicates directed dyad. Top 10 most active dyads per category shown. Red text shows events from the synthetic narrative relative to that event category. Blue bars indicate an event recorded by ICEWs for that dyad on that day. }
 \end{figure}
 \clearpage
@@ -1841,7 +1848,7 @@ Next, we make available visualizations of every datum in ICBe alongside each of 
 Conclusion {#format .unnumbered}
 ========================================
 
-We investigated event extraction from narratives describing key historical episodes in international relations. We synthesized a prior belief about the latent unobserved phenomena that drive these events in international relations and proposed a mapping to observable concepts that enter into the observed historical record. We designed an ontology with high coverage over those concepts and developed a training procedure and technical stack for human coding of historical texts. Multiple validity checks find the resulting codings have high internal validity (e.g. intercoder agreement) and external validity (i.e. matching source material in both micro-details at the sentence level and macro-details spanning full historical episodes). Further, these codings perform much better in terms of recall, precision, coverage, and overall coherence in capturing these historical episodes than existing event systems used in international relations.
+We investigated event abstraction from narratives describing key historical episodes in international relations. We synthesized a prior belief about the latent unobserved phenomena that drive these events in international relations and proposed a mapping to observable concepts that enter into the observed historical record. We designed an ontology with high coverage over those concepts and developed a training procedure and technical stack for human coding of historical texts. Multiple validity checks find the resulting codings have high internal validity (e.g. intercoder agreement) and external validity (i.e. matching source material in both micro-details at the sentence level and macro-details spanning full historical episodes). Further, these codings perform much better in terms of recall, precision, coverage, and overall coherence in capturing these historical episodes than existing event systems used in international relations.
 
 We release several open-source products along with supporting code and documentation to further advance the study of IR, event extraction, and natural language processing. The first is the International Crisis Behavior Events (ICBe) dataset, an event-level aggregation of what took place during the crises identified by the ICB project. These data are appropriate for statistical analysis of hard questions about the sequencing of events (e.g. escalation and de-escalation of conflicts). Second, we provide a coder-level disaggregation with multiple codings of each sentence by experts and undergrads that allows for the introduction of uncertainty and human interpretation of events. Further, we release a direct mapping from the codings to the source text at the sentence level as a new resource for natural language processing. Finally, we provide a companion website that incorporates detailed visualizations of all of the data introduced here (www.crisisevents.org).
 

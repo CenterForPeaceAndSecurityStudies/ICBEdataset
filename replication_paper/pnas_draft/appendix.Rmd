@@ -6,9 +6,10 @@ title: "Introducing ICBe: Very High Recall and Precision Event Extraction from N
 #https://stackoverflow.com/questions/51595939/bookdown-cross-reference-figure-in-another-file
 #https://stackoverflow.com/questions/25824795/how-to-combine-two-rmarkdown-rmd-files-into-a-single-output/51521542#51521542
 output: 
-  bookdown::pdf_book:
+  pdf_document:
     toc: yes
     latex_engine: xelatex
+    keep_tex:  true
 
 bibliography: ICBintro.bib
 
@@ -16,6 +17,8 @@ bibliography: ICBintro.bib
 header-includes:
 # - \usepackage{xr} \externaldocument{appendix} #External references from the appendix
 # - \usepackage{tinytex}
+  - \usepackage[backend=bibtex]{biblatex} #if I comment it out and don't have it'll throw an error
+#  - \usepackage{natbib} #added for latex citation within huxtable
   - \usepackage[utf8]{inputenc}
   - \usepackage{pifont}
   - \usepackage{newunicodechar}
@@ -23,7 +26,7 @@ header-includes:
   - \newunicodechar{✗}{\ding{55}}
   - \usepackage{array}
   - \usepackage{ctable} # added for demo
-  - \usepackage{natbib} #added for latex citation within huxtable
+
   - \usepackage{booktabs}
   - \usepackage{longtable}
   - \usepackage{array}
@@ -69,6 +72,7 @@ header-includes:
 
 ```{r library loads, eval=T, echo=F, cache=F, results='hide', message=F}
 
+options(tinytex.clean=F)
 
 library(reticulate)
 reticulate::py_discover_config()
@@ -141,7 +145,7 @@ icb_crises$end_simple <- icb_crises$yrterm+(icb_crises$moterm/12)
 icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
 
 ```
-
+\clearpage
 # Appendix A Corpus and Cases
 \hphantom{em}
 ## Table A1: ICBe Crises and Summary Information {#app:crises}
@@ -211,28 +215,28 @@ convert_to_ft <- function(x){
 }
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(1:60) )  %>% convert_to_ft() %>%
-  save_as_image(path=here::here("replication_paper", "figures", "crisis_text_counts_ft1.png"), zoom=1)
+  save_as_image(path=here::here("replication_paper", "pnas_draft", "crisis_text_counts_ft1.png"), zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(61:120) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "figures", "crisis_text_counts_ft2.png"), zoom=1)
+  save_as_image(path=here::here("replication_paper", "pnas_draft", "crisis_text_counts_ft2.png"), zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(121:180) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "figures", "crisis_text_counts_ft3.png"), zoom=1)
+  save_as_image(path=here::here("replication_paper", "pnas_draft", "crisis_text_counts_ft3.png"), zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(181:240) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "figures", "crisis_text_counts_ft4.png"), zoom=1)
+  save_as_image(path=here::here("replication_paper", "pnas_draft", "crisis_text_counts_ft4.png"), zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(241:300) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "figures", "crisis_text_counts_ft5.png"), zoom=1)
+  save_as_image(path=here::here("replication_paper", "pnas_draft", "crisis_text_counts_ft5.png"), zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(301:360) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "figures", "crisis_text_counts_ft6.png"), zoom=1)
+  save_as_image(path=here::here("replication_paper", "pnas_draft", "crisis_text_counts_ft6.png"), zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(361:420) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "figures", "crisis_text_counts_ft7.png"), zoom=1)
+  save_as_image(path=here::here("replication_paper", "pnas_draft", "crisis_text_counts_ft7.png"), zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(421:500) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "figures", "crisis_text_counts_ft8.png"), zoom=1)
+  save_as_image(path=here::here("replication_paper", "pnas_draft", "crisis_text_counts_ft8.png"), zoom=1)
 
 
 ```
@@ -240,35 +244,35 @@ temp_all %>% ungroup() %>% filter(crisno %in% c(421:500) ) %>% convert_to_ft()  
 
 \begin{figure}[H]
 \caption{ICBe Crises Summary Statistics \label{fig:case_study_cuban_precision}}
-\centering{\includegraphics[ height=21cm]{"../figures/crisis_text_counts_ft1.png"}}
+\centering{\includegraphics[ height=21cm]{"./crisis_text_counts_ft1.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"../figures/crisis_text_counts_ft2.png"}}
+\centering{\includegraphics[ height=21cm]{"./crisis_text_counts_ft2.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"../figures/crisis_text_counts_ft3.png"}}
+\centering{\includegraphics[ height=21cm]{"./crisis_text_counts_ft3.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"../figures/crisis_text_counts_ft4.png"}}
+\centering{\includegraphics[ height=21cm]{"./crisis_text_counts_ft4.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"../figures/crisis_text_counts_ft5.png"}}
+\centering{\includegraphics[ height=21cm]{"./crisis_text_counts_ft5.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"../figures/crisis_text_counts_ft6.png"}}
+\centering{\includegraphics[ height=21cm]{"./crisis_text_counts_ft6.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"../figures/crisis_text_counts_ft7.png"}}
+\centering{\includegraphics[ height=21cm]{"./crisis_text_counts_ft7.png"}}
 \end{figure}
 
 \begin{figure}[H]
-\centering{\includegraphics[ height=21cm]{"../figures/crisis_text_counts_ft8.png"}}
+\centering{\includegraphics[ height=21cm]{"./crisis_text_counts_ft8.png"}}
 \end{figure}
 
 
@@ -582,6 +586,8 @@ verbs_sentence_wordnet_top_ft  <- readRDS(file=paste0(here::here(), '/replicatio
 verbs_sentence_wordnet_top_ft
 ```
 
+\clearpage
+
 # Appendix B: Coding Process
 \hphantom{em}
 
@@ -590,7 +596,7 @@ verbs_sentence_wordnet_top_ft
 
 \begin{figure}[H]
 \caption{Graphical User Interface (GUI) for coding ICBe\label{fig:coding_gui}}
-\centering{\includegraphics[width=17cm]{../figures/gui_example}}
+\centering{\includegraphics[width=17cm]{./gui_example}}
 \end{figure}
 
 ## Algorithm B2: Coding Aggregation and Filtering {#app:algo1}
@@ -685,7 +691,7 @@ if(fromscratch){
       geom_vline(data=means_group, aes(xintercept = value, color = name), linetype="solid", size=1, alpha=0.5)
   
   
-  ggplot2::ggsave(file=paste0(here::here(), '/replication_paper/figures/p_percent_chose_tag_by_concept.png'), 
+  ggplot2::ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_percent_chose_tag_by_concept.png'), 
                   plot = p_percent_chose_tag_by_concept, width=8, height=8)
 }
 
@@ -693,7 +699,7 @@ if(fromscratch){
 
 \begin{figure}[H]
 \caption{Intercoder Agreement by Concept/Type \label{fig:intercoderagreement}}
-\centering{\includegraphics[width=15cm]{../figures/p_percent_chose_tag_by_concept.png}}
+\centering{\includegraphics[width=15cm]{./p_percent_chose_tag_by_concept.png}}
 \end{figure}
 
 
@@ -730,7 +736,7 @@ if(fromscratch){
     theme_bw() +
     theme(legend.position="bottom") 
   
-  ggplot2::ggsave(file=paste0(here::here(), '/replication_paper/figures/p_percent_chose_tag_by_confidence.png'), 
+  ggplot2::ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_percent_chose_tag_by_confidence.png'), 
                   plot = p_percent_chose_tag_by_confidence, width=8, height=6)
 }
 
@@ -739,8 +745,10 @@ if(fromscratch){
 
 \begin{figure}[H]
 \caption{Intercoder Agreement by Concept/Type \label{fig:intercoderagreement_confidence}}
-\centering{\includegraphics[width=15cm]{../figures/p_percent_chose_tag_by_confidence.png}}
+\centering{\includegraphics[width=15cm]{./p_percent_chose_tag_by_confidence.png}}
 \end{figure}
+
+\clearpage
 
 
 # Appendix C: Recall
@@ -823,6 +831,7 @@ dendrogram=list()
 \end{algorithm}
 
 
+\clearpage
 
 ## Table C2: Synthetic Narrative Matches Cuban Missile
 \hphantom{em}
@@ -1074,16 +1083,23 @@ ft_cuba_recall<- cuba_recall %>%
                             bg( i = which( (1:nrow(cuba_recall) %% 2)==1   ) , part = "body", bg = "#EFEFEF") %>% #, j=1:3
                             ftExtra::colformat_md(j = 2, part="body")
   
-ft_cuba_recall %>% save_as_image(path=here::here("replication_paper", "figures", "ft_cuba_recall.png"), zoom=1) # webshot = "webshot2"
+ft_cuba_recall %>% save_as_image(path=here::here("replication_paper", "pnas_draft", "ft_cuba_recall.png"), zoom=1) # webshot = "webshot2"
   
 
 ```
 
 \begin{figure}[H]
 \caption{ Cuban Missile Crisis Synthetic Narrative Recall Matches \label{fig:ft_cuba_recall}}
-\centering{\includegraphics[height=21cm]{../figures/ft_cuba_recall.png}}
+\centering{\includegraphics[height=21cm]{./ft_cuba_recall.png}}
 \end{figure}
 \clearpage
+
+
+
+
+## Table C3: Synthetic Narrative Matches Crimea-Donbas
+\hphantom{em}
+
 
 ```{r}
 
@@ -1131,21 +1147,20 @@ ft_crimea_recall<- crimea_recall %>%
                             bg( i = which( (1:nrow(crimea_recall) %% 2)==1   ) , part = "body", bg = "#EFEFEF") %>% #, j=1:3
                             ftExtra::colformat_md(j = 2, part="body")
   
-ft_crimea_recall %>% save_as_image(path=here::here("replication_paper", "figures", "ft_crimea_recall.png"), zoom=1) # webshot = "webshot2"
+ft_crimea_recall %>% save_as_image(path=here::here("replication_paper", "pnas_draft", "ft_crimea_recall.png"), zoom=1) # webshot = "webshot2"
 
 
 ```
 
+
+
 \begin{figure}[H]
 \caption{ Crimea-Donbas Synthetic Narrative Recall Matches \label{fig:ft_crimea_recall}}
-\centering{\includegraphics[height=21cm]{../figures/ft_crimea_recall.png}}
+\centering{\includegraphics[height=21cm]{./ft_crimea_recall.png}}
 \end{figure}
 \clearpage
 
-
-
-## Table C3: Synthetic Narrative Matches Crimea-Donbas
-\hphantom{em}
+\clearpage
 
 # Appendix D: Precision
 
@@ -1165,7 +1180,7 @@ ft_crimea_recall %>% save_as_image(path=here::here("replication_paper", "figures
  
 #Loaded above now 
 #ICBe_events_agreed_markdown <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.Rds")) 
-fromscratch=F
+fromscratch=T
 if(fromscratch){
   temp <- ICBe_events_agreed_markdown %>%
           filter(crisno==471) %>%
@@ -1205,7 +1220,7 @@ if(fromscratch){
                               ftExtra::colformat_md(j = 3, part="body")
   #ft_cuba_precision
   
-  ft_crimea_precision_part1 %>% save_as_image(path=here::here("replication_paper", "figures", "case_study_crimea_precision_part1.png"), zoom=1) # webshot = "webshot2"
+  ft_crimea_precision_part1 %>% save_as_image(path=here::here("replication_paper", "pnas_draft", "case_study_crimea_precision_part1.png"), zoom=1) # webshot = "webshot2"
   
   
   ft_crimea_precision_part2 <- temp %>%
@@ -1224,7 +1239,7 @@ if(fromscratch){
                         ftExtra::colformat_md(j = 3, part="body")
   #ft_cuba_precision
   
-  ft_crimea_precision_part2 %>% save_as_image(path=here::here("replication_paper", "figures", "case_study_crimea_precision_part2.png"), zoom=1) # webshot = "webshot2"
+  ft_crimea_precision_part2 %>% save_as_image(path=here::here("replication_paper", "pnas_draft", "case_study_crimea_precision_part2.png"), zoom=1) # webshot = "webshot2"
   
   temp <- NULL
   
@@ -1233,12 +1248,12 @@ if(fromscratch){
 
 \begin{figure}[H]
 \caption{ Annexation of Crimea ICB Narrative and ICBe codings \label{fig:case_study_crimea_precision}}
-\centering{\includegraphics[height=21cm]{../figures/case_study_crimea_precision_part1.png}}
+\centering{\includegraphics[height=21cm]{./case_study_crimea_precision_part1.png}}
 \end{figure}
 \clearpage
 
 \begin{figure}[H]
-\centering{\includegraphics[height=21cm]{../figures/case_study_crimea_precision_part2.png}}
+\centering{\includegraphics[height=21cm]{./case_study_crimea_precision_part2.png}}
 \end{figure}
 \clearpage
 
@@ -1265,7 +1280,7 @@ ft_sample_precision_precision1 <- temp_sample %>%
                                   flextable::width( j = 1:2, width=0.5)  %>% 
                                   #flextable::width( j = 2, width=0.25)  %>% 
                                   flextable::width( j = 3, width=0.5)  %>% 
-                                  flextable::width( j = 4:5, width=8.0)  %>% 
+                                  flextable::width( j = 4:5, width=12.0)  %>% 
                                   flextable::fontsize(size = 9, part = "all") %>%
                                   valign(j = 1:3, valign = "top", part = "body") %>%
                                   flextable::line_spacing( space = 1.0, part = "all") %>% 
@@ -1273,7 +1288,7 @@ ft_sample_precision_precision1 <- temp_sample %>%
                                   bg( i = which( ((1:56) %% 2 )==1 ) , part = "body", bg = "#EFEFEF") %>% #, j=1:3
                                   ftExtra::colformat_md(j = 5, part="body")
 
-ft_sample_precision_precision1 %>% save_as_image(path=here::here("replication_paper", "figures", "ft_sample_precision_precision1.png"), zoom=1) # 
+ft_sample_precision_precision1 %>% save_as_image(path=here::here("replication_paper", "pnas_draft", "ft_sample_precision_precision1.png"), zoom=1) # 
 
 ft_sample_precision_precision2 <- temp_sample %>% 
                                   filter(row_number()>=57) %>%
@@ -1282,7 +1297,7 @@ ft_sample_precision_precision2 <- temp_sample %>%
                                   flextable::width( j = 1:2, width=0.5)  %>% 
                                   #flextable::width( j = 2, width=0.25)  %>% 
                                   flextable::width( j = 3, width=0.5)  %>% 
-                                  flextable::width( j = 4:5, width=8.0)  %>% 
+                                  flextable::width( j = 4:5, width=12.0)  %>% 
                                   flextable::fontsize(size = 9, part = "all") %>%
                                   valign(j = 1:3, valign = "top", part = "body") %>%
                                   flextable::line_spacing( space = 1.0, part = "all") %>% 
@@ -1290,7 +1305,7 @@ ft_sample_precision_precision2 <- temp_sample %>%
                                   bg( i = which( ((1:59) %% 2 )==1 ) , part = "body", bg = "#EFEFEF") %>% #, j=1:3
                                   ftExtra::colformat_md(j = 5, part="body")
 
-ft_sample_precision_precision2 %>% save_as_image(path=here::here("replication_paper", "figures", "ft_sample_precision_precision2.png"), zoom=1) # 
+ft_sample_precision_precision2 %>% save_as_image(path=here::here("replication_paper", "pnas_draft", "ft_sample_precision_precision2.png"), zoom=1) # 
 
 
 ```
@@ -1298,14 +1313,14 @@ ft_sample_precision_precision2 %>% save_as_image(path=here::here("replication_pa
 \hphantom{em}
 \begin{figure}[H]
 \caption{ Stratified Sentence Examples  \label{fig:ft_sample_precision_precision1}}
-\centering{\includegraphics[height=21cm]{"../figures/ft_sample_precision_precision1.png"}}
+\centering{\includegraphics[height=21cm]{"./ft_sample_precision_precision1.png"}}
 \end{figure}
 \clearpage
 
 
 \hphantom{em}
 \begin{figure}[H]
-\centering{\includegraphics[height=21cm]{"../figures/ft_sample_precision_precision2.png"}}
+\centering{\includegraphics[height=21cm]{"./ft_sample_precision_precision2.png"}}
 \end{figure}
 \clearpage
 
@@ -2303,7 +2318,7 @@ library(ggraph)
 icb_crisismaps <- function(thiscrisis=196, prune_rare=T){
       
     print(thiscrisis)
-    save_icb_file <- paste0(here::here(), "/replication_paper/figures/p_icb_metro_plot_",thiscrisis,".Rds")
+    save_icb_file <- paste0(here::here(), "/replication_paper/pnas_draft/p_icb_metro_plot_",thiscrisis,".Rds")
   
     icb_diadic_subset <- icb_diadic %>% filter(CRISNO==thiscrisis) #Not all of them are diadic apparently
     icb_monadic_subset <- icb_monadic %>% rename(actor=actor_label) %>% filter(crisno==thiscrisis) %>%
@@ -2586,7 +2601,7 @@ mids_crisismaps <- function(thiscrisis=196, prune_rare=T){
   print(thiscrisis)
   #thiscrisis=471
   plot_title <- crisno_name_years %>% filter(crisno==thiscrisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-  save_mids_file <- paste0(here::here(), "/replication_paper/figures/p_mids_metro_plot_",thiscrisis,".Rds")
+  save_mids_file <- paste0(here::here(), "/replication_paper/pnas_draft/p_mids_metro_plot_",thiscrisis,".Rds")
 
   year_start <-icb_crises[icb_crises$crisno==thiscrisis,]$yrtrig
   year_end   <- icb_crises[icb_crises$crisno==thiscrisis,]$yrterm 
@@ -2812,12 +2827,6 @@ library(stringr)
 fromscratch=F
 if(fromscratch){
 
-  
-  
-  
-  
-  
-  
   convert_aid = function(x) { x %>% mutate(aid = aid %>% format( scientific = FALSE)) %>% mutate_all(as.character) }
   meta1_nyt2 <- read_csv(here::here("git_ignore_folder", "DOI-10-13012-b2idb-0647142_v3", "MetaDataBLN-NYT_1980-2018.csv"), col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
   meta2_swb <- read_csv(here::here("git_ignore_folder", "DOI-10-13012-b2idb-0647142_v3", "MetaDataBLN-SWB_1979-2019.csv"), col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
@@ -2962,8 +2971,8 @@ phoenix_barmaps <- function(thiscrisis=196, topactor=F){
 
     print(thiscrisis)
     plot_title <- crisno_name_years %>% filter(crisno==thiscrisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-    save_file_penta <- paste0(here::here(), "/replication_paper/figures/p_phoenix_plot_penta_",thiscrisis,".Rds")
-    save_file_lv0 <- paste0(here::here(), "/replication_paper/figures/p_phoenix_plot_lv0_",thiscrisis,".Rds")
+    save_file_penta <- paste0(here::here(), "/replication_paper/pnas_draft/p_phoenix_plot_penta_",thiscrisis,".Rds")
+    save_file_lv0 <- paste0(here::here(), "/replication_paper/pnas_draft/p_phoenix_plot_lv0_",thiscrisis,".Rds")
     
     date_start <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrtrig , "-", icb_crises[icb_crises$crisno==thiscrisis,]$motrig, "-01"))
     date_end <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrterm , "-", icb_crises[icb_crises$crisno==thiscrisis,]$moterm, "-01"))
@@ -3253,8 +3262,8 @@ terrier_barmaps <- function(thiscrisis=471, topactor=F){
 
     print(thiscrisis)
     plot_title <- crisno_name_years %>% filter(crisno==thiscrisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-    save_file_penta <- paste0(here::here(), "/replication_paper/figures/p_terrier_plot_penta_",thiscrisis,".Rds")
-    save_file_lv0 <- paste0(here::here(), "/replication_paper/figures/p_terrier_plot_lv0_",thiscrisis,".Rds")
+    save_file_penta <- paste0(here::here(), "/replication_paper/pnas_draft/p_terrier_plot_penta_",thiscrisis,".Rds")
+    save_file_lv0 <- paste0(here::here(), "/replication_paper/pnas_draft/p_terrier_plot_lv0_",thiscrisis,".Rds")
     
     date_start <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrtrig , "-", icb_crises[icb_crises$crisno==thiscrisis,]$motrig, "-01"))
     date_end <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrterm , "-", icb_crises[icb_crises$crisno==thiscrisis,]$moterm, "-01"))
@@ -3536,8 +3545,8 @@ icews_barmaps <- function(thiscrisis=471, topactor=F){
 
     print(thiscrisis)
     plot_title <- crisno_name_years %>% filter(crisno==thiscrisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
-    save_file_penta <- paste0(here::here(), "/replication_paper/figures/p_icews_plot_penta_",thiscrisis,".Rds")
-    save_file_lv0 <- paste0(here::here(), "/replication_paper/figures/p_icews_plot_lv0_",thiscrisis,".Rds")
+    save_file_penta <- paste0(here::here(), "/replication_paper/pnas_draft/p_icews_plot_penta_",thiscrisis,".Rds")
+    save_file_lv0 <- paste0(here::here(), "/replication_paper/pnas_draft/p_icews_plot_lv0_",thiscrisis,".Rds")
 
     date_start <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrtrig , "-", icb_crises[icb_crises$crisno==thiscrisis,]$motrig, "-01"))
     date_end <- lubridate::as_date(paste0(icb_crises[icb_crises$crisno==thiscrisis,]$yrterm , "-", icb_crises[icb_crises$crisno==thiscrisis,]$moterm, "-01"))
@@ -3760,10 +3769,8 @@ if(fromscratch){
 
 ```{r crisis 196, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
-
-
 ## Dyadic ICB
-save_file=paste0(here::here(), '/replication_paper/figures/p_icb_metro_plot_196.Rds')
+save_file=paste0(here::here(), '/replication_paper/pnas_draft/p_icb_metro_plot_196.Rds')
 p_metro_plot <- readRDS(save_file)
 actor_colors <- p_metro_plot$actor_colors
 subtitle="ICB Dyadic Events"
@@ -3778,7 +3785,7 @@ p_196_icb <- p_metro_plot +
     #caption = caption
   ) 
 
-save_file=paste0(here::here(), '/replication_paper/figures/p_icb_metro_plot_196.Rds')
+save_file=paste0(here::here(), '/replication_paper/pnas_draft/p_icb_metro_plot_196.Rds')
 p_metro_plot <- readRDS(save_file)
 p_196_phoenix <- p_metro_plot +
            theme(plot.margin=unit(c(0,0,0,0),"in")) +
@@ -3790,7 +3797,7 @@ p_196_phoenix <- p_metro_plot +
 
 ## MIDs
 library(ggplot2)
-save_file=paste0(here::here(), '/replication_paper/figures/p_mids_metro_plot_196.Rds') 
+save_file=paste0(here::here(), '/replication_paper/pnas_draft/p_mids_metro_plot_196.Rds') 
 p_metro_plot <- readRDS(save_file)
 actor_colors <- p_metro_plot$actor_colors
 subtitle="Dyadic Militarized Interstate Disputes (MIDs)"
@@ -3805,7 +3812,7 @@ p_196_mids <- p_metro_plot +
     #subtitle = subtitle ,
     #caption = caption
   ) 
-#ggsave(file=paste0(here::here(), '/replication_paper/figures/p_mids_metro_plot_196.png'),
+#ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_mids_metro_plot_196.png'),
 #       plot = p_metro_plot ,
 #       width=12, height=14)
 
@@ -3814,7 +3821,7 @@ p_196_mids <- p_metro_plot +
 ## Phoenix Crisis Map
 #ICBe  196
 library(ggplot2)
-save_file=paste0(here::here(), '/replication_paper/figures/p_phoenix_plot_penta_196.Rds')
+save_file=paste0(here::here(), '/replication_paper/pnas_draft/p_phoenix_plot_penta_196.Rds')
 subtitle="Phoenix Dyadic Events"
 caption=paste0("Data: Cline Center Historical Phoenix Event Data (Althaus et al. 2017)
              ", p_metro_plot$labels$caption) #tag original to bottom
@@ -3825,7 +3832,7 @@ p_196_phoenix <- readRDS(save_file) +
       #subtitle = subtitle ,
       #caption = caption
     )
-#ggsave(file=paste0(here::here(), '/replication_paper/figures/p_phoenix_metro_plot_196.png'),
+#ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_phoenix_metro_plot_196.png'),
 #       plot = p_metro_plot ,
 #       width=12, height=14)
 
@@ -3850,22 +3857,22 @@ p_196_combined <-
            labels = c('ICB','MIDs','Phoenix'), align = "h", ncol = 3 , rel_widths = c(1, 1,1) 
 )
 
-save_plot(file=paste0(here::here(), '/replication_paper/figures/p_196_combined.png'),
+save_plot(file=paste0(here::here(), '/replication_paper/pnas_draft/p_196_combined.png'),
           p_196_combined, base_height = 12, base_width = 20)
 #I'm just going to rotate on disk and load it as a normal figure
 #\begin{sidewaysfigure}[H] #can't trust sideways plots either so have to rate the image
 ```
 
 \begin{sideways}%[htbp]
-\centering{\includegraphics[width=21cm]{../figures/p_196_combined.png}}
+\centering{\includegraphics[width=21cm]{./p_196_combined.png}}
 \end{sideways}
 \clearpage
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
 if(fromscratch){
-  p_phoenix_plot_lv0_196 <- readRDS(here::here("replication_paper", "figures", "p_phoenix_plot_lv0_196.Rds"))
-  save_plot(file=paste0(here::here(), '/replication_paper/figures/p_phoenix_plot_lv0_196.png'),
+  p_phoenix_plot_lv0_196 <- readRDS(here::here("replication_paper", "pnas_draft", "p_phoenix_plot_lv0_196.Rds"))
+  save_plot(file=paste0(here::here(), '/replication_paper/pnas_draft/p_phoenix_plot_lv0_196.png'),
             p_phoenix_plot_lv0_196 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
 }
 ```
@@ -3874,7 +3881,7 @@ if(fromscratch){
 \hphantom{em}
 \begin{sidewaysfigure}[ht]
 \caption{Crisis Maps - Cuban Missiles - Phoenix Disaggregated \label{fig:p_phoenix_plot_lv0_196}}
-\centering{\includegraphics[width=21cm]{../figures/p_phoenix_plot_lv0_196.png}}
+\centering{\includegraphics[width=21cm]{./p_phoenix_plot_lv0_196.png}}
 \end{sidewaysfigure}
 \clearpage
 
@@ -3898,7 +3905,7 @@ library(ggtext)
 
 ## MIDs
 library(ggplot2)
-save_file=paste0(here::here(), '/replication_paper/figures/p_mids_metro_plot_471.Rds') 
+save_file=paste0(here::here(), '/replication_paper/pnas_draft/p_mids_metro_plot_471.Rds') 
 p_metro_plot <- readRDS(save_file)
 actor_colors <- p_metro_plot$actor_colors
 subtitle="Dyadic Militarized Interstate Disputes (MIDs)"
@@ -3913,7 +3920,7 @@ p_471_mids <- p_metro_plot +
     #subtitle = subtitle ,
     #caption = caption
   ) 
-#ggsave(file=paste0(here::here(), '/replication_paper/figures/p_mids_metro_plot_196.png'),
+#ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_mids_metro_plot_196.png'),
 #       plot = p_metro_plot ,
 #       width=12, height=14)
 
@@ -3922,7 +3929,7 @@ p_471_mids <- p_metro_plot +
 ## Phoenix Crisis Map
 #ICBe  196
 library(ggplot2)
-save_file=paste0(here::here(), '/replication_paper/figures/p_phoenix_plot_penta_471.Rds')
+save_file=paste0(here::here(), '/replication_paper/pnas_draft/p_phoenix_plot_penta_471.Rds')
 subtitle="Phoenix Dyadic Events"
 caption=paste0("Data: Cline Center Historical Phoenix Event Data (Althaus et al. 2017)
              ", p_metro_plot$labels$caption) #tag original to bottom
@@ -3933,12 +3940,12 @@ p_471_phoenix <- readRDS(save_file) +
       #subtitle = subtitle ,
       #caption = caption
     )
-#ggsave(file=paste0(here::here(), '/replication_paper/figures/p_phoenix_metro_plot_196.png'),
+#ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_phoenix_metro_plot_196.png'),
 #       plot = p_metro_plot ,
 #       width=12, height=14)
 
 
-save_file=paste0(here::here(), '/replication_paper/figures/p_terrier_plot_penta_471.Rds')
+save_file=paste0(here::here(), '/replication_paper/pnas_draft/p_terrier_plot_penta_471.Rds')
 subtitle="Terrier Dyadic Events"
 caption=paste0("Data: Terrier (Grant et al. 2021)
              ", p_metro_plot$labels$caption) #tag original to bottom
@@ -3950,7 +3957,7 @@ p_471_terrier <- readRDS(save_file) +
       #caption = caption
     )
 
-save_file=paste0(here::here(), '/replication_paper/figures/p_icews_plot_penta_471.Rds')
+save_file=paste0(here::here(), '/replication_paper/pnas_draft/p_icews_plot_penta_471.Rds')
 p_471_icews <- readRDS(save_file) 
 
 
@@ -3978,7 +3985,7 @@ p_471_combined <-
            labels = c('MIDs','Phoenix', 'Terrier', 'ICEWs'), align = "h", ncol = 4 , rel_widths = c(1, 1,1,1) 
 )
 
-save_plot(file=paste0(here::here(), '/replication_paper/figures/p_471_combined.png'),
+save_plot(file=paste0(here::here(), '/replication_paper/pnas_draft/p_471_combined.png'),
           p_471_combined, base_height = 12, base_width = 25)
 
 ```
@@ -3986,15 +3993,15 @@ save_plot(file=paste0(here::here(), '/replication_paper/figures/p_471_combined.p
 \hphantom{em}
 \begin{sidewaysfigure}[ht]
 \caption{Crisis Maps - Crimea-Donbas \label{fig:p_471_combined}}
-\centering{\includegraphics[width=21cm]{../figures/p_471_combined.png}}
+\centering{\includegraphics[width=21cm]{./p_471_combined.png}}
 \end{sidewaysfigure}
 \clearpage
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
 if(fromscratch){
-  p_phoenix_plot_lv0_471 <- readRDS(here::here("replication_paper", "figures", "p_phoenix_plot_lv0_471.Rds"))
-  save_plot(file=paste0(here::here(), '/replication_paper/figures/p_phoenix_plot_lv0_471.png'),
+  p_phoenix_plot_lv0_471 <- readRDS(here::here("replication_paper", "pnas_draft", "p_phoenix_plot_lv0_471.Rds"))
+  save_plot(file=paste0(here::here(), '/replication_paper/pnas_draft/p_phoenix_plot_lv0_471.png'),
             p_phoenix_plot_lv0_471 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
 }
 ```
@@ -4003,15 +4010,15 @@ if(fromscratch){
 \hphantom{em}
 \begin{sidewaysfigure}[ht]
 \caption{Crisis Maps - Crimea-Donbas Phoenix Disaggregated \label{fig:p_phoenix_plot_lv0_471}}
-\centering{\includegraphics[width=21cm]{../figures/p_phoenix_plot_lv0_471.png}}
+\centering{\includegraphics[width=21cm]{./p_phoenix_plot_lv0_471.png}}
 \end{sidewaysfigure}
 \clearpage
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
 if(fromscratch){
-  p_terrier_plot_lv0_471 <- readRDS(here::here("replication_paper", "figures", "p_terrier_plot_lv0_471.Rds"))
-  save_plot(file=paste0(here::here(), '/replication_paper/figures/p_terrier_plot_lv0_471.png'),
+  p_terrier_plot_lv0_471 <- readRDS(here::here("replication_paper", "pnas_draft", "p_terrier_plot_lv0_471.Rds"))
+  save_plot(file=paste0(here::here(), '/replication_paper/pnas_draft/p_terrier_plot_lv0_471.png'),
             p_terrier_plot_lv0_471 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
 }
 ```
@@ -4020,15 +4027,15 @@ if(fromscratch){
 \hphantom{em}
 \begin{sidewaysfigure}[ht]
 \caption{Crisis Maps - Crimea-Donbas Terrier Disaggregated \label{fig:p_terrier_plot_lv0_471}}
-\centering{\includegraphics[width=21cm]{../figures/p_terrier_plot_lv0_471.png}}
+\centering{\includegraphics[width=21cm]{./p_terrier_plot_lv0_471.png}}
 \end{sidewaysfigure}
 \clearpage
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
 if(fromscratch){
-  p_icews_plot_lv0_471 <- readRDS(here::here("replication_paper", "figures", "p_icews_plot_lv0_471.Rds"))
-  save_plot(file=paste0(here::here(), '/replication_paper/figures/p_icews_plot_lv0_471.png'),
+  p_icews_plot_lv0_471 <- readRDS(here::here("replication_paper", "pnas_draft", "p_icews_plot_lv0_471.Rds"))
+  save_plot(file=paste0(here::here(), '/replication_paper/pnas_draft/p_icews_plot_lv0_471.png'),
             p_icews_plot_lv0_471 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
 }
 ```
@@ -4037,7 +4044,7 @@ if(fromscratch){
 \hphantom{em}
 \begin{sidewaysfigure}[ht]
 \caption{Crisis Maps - Crimea-Donbas ICEWs Disaggregated \label{fig:p_icews_plot_lv0_471}}
-\centering{\includegraphics[width=21cm]{../figures/p_icews_plot_lv0_471.png}}
+\centering{\includegraphics[width=21cm]{./p_icews_plot_lv0_471.png}}
 \end{sidewaysfigure}
 \clearpage
 
