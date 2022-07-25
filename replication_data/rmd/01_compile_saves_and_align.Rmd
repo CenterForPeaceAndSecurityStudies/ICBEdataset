@@ -46,19 +46,27 @@ devtools::load_all(".")
 #Only a project lead can run this code. Copy (NEVER MOVE) the original save files to the data_temp folder. And then verify that that data_temp is on the gitignore list so it never gets committed.
 path <- paste0(here::here(), "/git_ignore_folder/icb_worker_saves") #this folder is copied over from the dropbox folder and never committed to github
 files_worker_saves <- list.files(path = path, pattern = ".Rdata", all.files = FALSE, full.names = T, recursive = T, ignore.case = FALSE, include.dirs = FALSE)
-length(files_worker_saves) #32748
+length(files_worker_saves) #103170 #32748 #103170
 
 #First confirm how many emails
 files_worker_saves %>% str_replace(".*\\/",'') %>% str_replace("_.*",'') %>% unique() %>% length() #141 possible
 
 files_worker_saves <- files_worker_saves[!files_worker_saves %>% str_detect("[0-9][0-9]\\.[0-9][0-9]\\.[0-9][0-9].Rdata")] #exclude the date stamped ones
-length(files_worker_saves) #1965
+length(files_worker_saves) #5943
 if(length(files_worker_saves)==0){print("Original save files not found locally, will load premade anonymized file instead")
   }else{print("Original save files found, can regenerate anonymized if desired.")}
 
 files_worker_saves %>% str_replace(".*\\/",'') %>% str_replace("_.*",'') %>% unique() %>% length() #140 possible
 
-df <- data.frame(file=files_worker_saves)
+df <- data.frame(file=files_worker_saves) %>%
+      mutate(filename=file %>% basename()) %>%
+      rowwise() %>%
+        mutate(size=  file.info(file)$size ) %>%
+      ungroup() %>%
+      arrange(desc(size)) %>%
+      filter(!duplicated(filename))
+dim(df) #1985
+files_worker_saves <- df$file
 
 ```
 
@@ -72,7 +80,7 @@ if(fromscratch & length(files_worker_saves)>0){
     print(length(files_worker_saves)) #how many saved files we show
 
     # creates a list of event 'vectors' and names them based on the paths
-    icb_worker_saves <- lapply(files_worker_saves, readRDS) #Read the files into memory in parallel
+    icb_worker_saves <- lapply(df$file, readRDS) #Read the files into memory in parallel
     names(icb_worker_saves) <- files_worker_saves
 
     # save the path name of with each row

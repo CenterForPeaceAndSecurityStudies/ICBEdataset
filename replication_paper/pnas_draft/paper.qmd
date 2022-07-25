@@ -1,0 +1,110 @@
+---
+title: "Introducing ICBe: Very High Recall and Precision Event Extraction from Narratives about International Crises"
+
+# Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
+author:
+  - name: Rex W. Douglass
+    affiliation: a,1,2
+  - name: Thomas Leo Scherer
+    affiliation: a
+  - name: J. Andrés Gannon
+    affiliation: b
+  - name: Erik Gartzke
+    affiliation: a
+  - name: Jon Lindsay
+    affiliation: c
+  - name: Shannon Carcelli
+    affiliation: d
+  - name: Jonathan Wilkenfeld
+    affiliation: d
+  - name: David M. Quinn
+    affiliation: e
+  - name: Catherine Aiken
+    affiliation: f
+  - name: Jose Miguel Cabezas Navarro
+    affiliation: g
+  - name: Neil Lund
+    affiliation: d
+  - name: Egle Murauskaite
+    affiliation: h
+  - name: Diana Partridge
+    affiliation: h
+    
+address:
+  - code: a
+    address: Department of Political Science, University of California, San Diego, CA, USA.
+  - code: b
+    address: Belfer Center for Science and International Affairs, Harvard Kennedy School, MA, USA.
+  - code: c
+    address: School of Cybersecurity and Privacy | Sam Nunn School of International Affairs, Georgia Institute of Technology, GA, USA.
+  - code: d
+    address: Department of Government and Politics, University of Maryland, College Park, MD, USA.
+  - code: e
+    address: Faculty Specialist, National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland, College Park, MD, USA.
+  - code: f
+    address: Edmund A. Walsh School of Foreign Service, Georgetown University, Washington, DC, USA.
+  - code: g
+    address: Society and Health Research Center, Universidad Mayor, Santiago, Chile.
+  - code: h
+    address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
+  - code: i
+    address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
+
+
+corresponding_author:
+  code: 2
+  text: "To whom correspondence should be addressed. E-mail: rexdouglass@gmail.com"
+
+# For footer text
+lead_author_surname: Douglass
+
+#following https://docs.google.com/document/d/1aJxrQXYHW5U6By3KEAHrx1Iho6ioeh3ohNsRMwsoGPM/edit
+author_contributions: |
+  Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.;  Validation: R.W.D., T.L.S.;  Formal Analysis: R.W.D., T.L.S.;  Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.;  Data Curation: R.W.D., D.Q., T.L.S., J.W.;  Writing - Original Draft: R.W.D., T.L.S.;  Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.;
+  Visualization: R.W.D., T.L.S.;  Supervision: E.G.;  Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.;  Funding Acquisition: E.G., J.L.
+
+## Remove this if not required
+conflict_of_interest: |
+  Please declare any conflict of interest here.
+
+#Please provide an abstract of no more than 250 words in a single paragraph. Abstracts should explain to the general reader the major contributions of the article. References in the abstract must be cited in full within the abstract itself and cited in the text.
+abstract: |
+  How do international crises unfold? We conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org.
+
+significance: |
+  Countries routinely face crises that risk escalating into full scale war but we do not have systematic measurements of the progression of past crises and what moves and counter moves led to or helped avoid war. Instead policy makers typically rely on one or two historical analogies, chosen through ad hoc selection criteria, and described in unsystematic terms. This paper introduces a new scientific approach to measuring the step by step moves of international crises over the last hundred years, combining subject expertise with state of the art natural language processing and machine learning methods. It serves as a guide for constructing and evaluating large scale measurement collection in the social sciences.
+  
+acknowledgements: |
+  We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgment of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day.  We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for generous feedback. Thank you to the cPASS research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
+
+keywords:
+  - Diplomacy
+  - War
+  - Crises
+  - International Affairs
+  - Computational Social Science
+
+## must be one of: pnasresearcharticle (usual two-column layout), pnasmathematics (one column layout), or pnasinvited (invited submissions only)
+#pnas_type: pnasresearcharticle
+
+bibliography: ICBintro.bib
+#csl: pnas.csl
+
+## change to true to add optional line numbering
+lineno: false
+
+#https://bookdown.org/yihui/bookdown/a-single-document.html
+#https://stackoverflow.com/questions/52531637/knitr-rmarkdown-latex-how-to-cross-reference-figures-and-tables-in-2-different/52532269#52532269
+#https://stackoverflow.com/questions/51595939/bookdown-cross-reference-figure-in-another-file
+#https://stackoverflow.com/questions/25824795/how-to-combine-two-rmarkdown-rmd-files-into-a-single-output/51521542#51521542
+format:
+  pdf: 
+    latex_engine: xelatex
+    citation_package: biblatex
+    keep-tex: true
+    latex-clean: false
+    cite-method: biblatex
+
+---
+
+

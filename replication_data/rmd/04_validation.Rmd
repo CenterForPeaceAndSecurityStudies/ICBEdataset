@@ -159,6 +159,11 @@ for( file in flag_files){
   }
 }
 
+file.copy(flag_folder_small, "/mnt/8tb_a/rwd_github_private/icbewebsite/", recursive=TRUE)
+
+
+
+
 ```
 
 ## Including Plots
@@ -250,7 +255,7 @@ icb_events_long_narratives_sentences <- icb_events_long_markdown %>%
                                     value_markdown = paste0(value_markdown, collapse=" ")
                                   ) %>% ungroup()
 
-ICBe_events_agreed_markdown <- ICBe_events_agreed %>% left_join(icb_events_long_narratives_sentences)
+ICBe_events_agreed_markdown <- icb_events_long_narratives_sentences #ICBe_events_agreed %>% left_join(icb_events_long_narratives_sentences %>% dplyr::select(-sentence_span_text) )
 
 ft <- ICBe_events_agreed_markdown %>%
       filter(crisno==196) %>%
