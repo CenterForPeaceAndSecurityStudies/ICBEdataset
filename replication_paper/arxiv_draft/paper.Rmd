@@ -1677,6 +1677,8 @@ Finally, how does ICBe's precision compare to the existing state of the art? The
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
 
+if(fromscratch){
+
 library(ggplot2)
 library(readr)
 library(dplyr)
@@ -1684,7 +1686,7 @@ library(tidyr)
 library(stringr)
 library(ggtext)
 
-icews_clean_subset_top10_day <- read_tsv(here::here("replication_paper", "data", "out", "icews_clean_471_lowest.tsv"))
+icews_clean_subset_top10_day <- read_tsv(here::here("replication_paper", "data", "out", "icews_clean_471_lowest.tsv")) 
 
 keys <- c("sign formal agreement") #"express accord", #,"declare truce, ceasefire"
 events1 <- icews_clean_subset_top10_day %>% 
@@ -1767,6 +1769,7 @@ save_plot(file=paste0(here::here(),
                       '/replication_paper/arxiv_draft/p_precision_icews.png'),
           p_ICEWS, base_height = 10, base_width = 14)
 
+}
 
 ```
 
