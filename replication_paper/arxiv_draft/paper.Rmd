@@ -2,66 +2,65 @@
 title: "Introducing ICBe: Very High Recall and Precision Event Extraction from Narratives about International Crises"
 
 # Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
-author:
+authors:
   - name: Rex W. Douglass
-    affiliation: a,1,2
+    affiliation: University of California, San Diego
   - name: Thomas Leo Scherer
-    affiliation: a
+    affiliation: University of California, San Diego
   - name: J. Andrés Gannon
-    affiliation: b
+    affiliation: Vanderbilt University
   - name: Erik Gartzke
-    affiliation: a
+    affiliation: University of California, San Diego
   - name: Jon Lindsay
-    affiliation: c
+    affiliation: Georgia Institute of Technology
   - name: Shannon Carcelli
-    affiliation: d
+    affiliation: University of Maryland
   - name: Jonathan Wilkenfeld
-    affiliation: d
+    affiliation: University of Maryland
   - name: David M. Quinn
-    affiliation: e
+    affiliation: University of Maryland
   - name: Catherine Aiken
-    affiliation: f
+    affiliation: Georgetown University
   - name: Jose Miguel Cabezas Navarro
-    affiliation: g
+    affiliation: Universidad Mayor
   - name: Neil Lund
-    affiliation: d
+    affiliation: University of Maryland
   - name: Egle Murauskaite
-    affiliation: h
+    affiliation: University of Maryland
   - name: Diana Partridge
-    affiliation: h
+    affiliation: University of Maryland
     
-address:
-  - code: a
-    address: Department of Political Science, University of California, San Diego, CA, USA.
-  - code: b
-    address: Belfer Center for Science and International Affairs, Harvard Kennedy School, MA, USA.
-  - code: c
-    address: School of Cybersecurity and Privacy | Sam Nunn School of International Affairs, Georgia Institute of Technology, GA, USA.
-  - code: d
-    address: Department of Government and Politics, University of Maryland, College Park, MD, USA.
-  - code: e
-    address: Faculty Specialist, National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland, College Park, MD, USA.
-  - code: f
-    address: Edmund A. Walsh School of Foreign Service, Georgetown University, Washington, DC, USA.
-  - code: g
-    address: Society and Health Research Center, Universidad Mayor, Santiago, Chile.
-  - code: h
-    address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
-  - code: i
-    address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
+# address:
+#   - code: a
+#     address: Department of Political Science, University of California, San Diego, CA, USA.
+#   - code: b
+#     address: Belfer Center for Science and International Affairs, Harvard Kennedy School, MA, USA.
+#   - code: c
+#     address: School of Cybersecurity and Privacy | Sam Nunn School of International Affairs, Georgia Institute of Technology, GA, USA.
+#   - code: d
+#     address: Department of Government and Politics, University of Maryland, College Park, MD, USA.
+#   - code: e
+#     address: Faculty Specialist, National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland, College Park, MD, USA.
+#   - code: f
+#     address: Edmund A. Walsh School of Foreign Service, Georgetown University, Washington, DC, USA.
+#   - code: g
+#     address: Society and Health Research Center, Universidad Mayor, Santiago, Chile.
+#   - code: h
+#     address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
+#   - code: i
+#     address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
 
-
-corresponding_author:
-  code: 2
-  text: "To whom correspondence should be addressed. E-mail: rexdouglass@gmail.com"
+# corresponding_author:
+#   code: 2
+#   text: "To whom correspondence should be addressed. E-mail: rexdouglass@gmail.com"
 
 # For footer text
 lead_author_surname: Douglass
 
 #following https://docs.google.com/document/d/1aJxrQXYHW5U6By3KEAHrx1Iho6ioeh3ohNsRMwsoGPM/edit
-author_contributions: |
-  Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.;  Validation: R.W.D., T.L.S.;  Formal Analysis: R.W.D., T.L.S.;  Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.;  Data Curation: R.W.D., D.Q., T.L.S., J.W.;  Writing - Original Draft: R.W.D., T.L.S.;  Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.;
-  Visualization: R.W.D., T.L.S.;  Supervision: E.G.;  Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.;  Funding Acquisition: E.G., J.L.
+# author_contributions: |
+#   Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.;  Validation: R.W.D., T.L.S.;  Formal Analysis: R.W.D., T.L.S.;  Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.;  Data Curation: R.W.D., D.Q., T.L.S., J.W.;  Writing - Original Draft: R.W.D., T.L.S.;  Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.;
+#   Visualization: R.W.D., T.L.S.;  Supervision: E.G.;  Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.;  Funding Acquisition: E.G., J.L.
 
 ## Remove this if not required
 #conflict_of_interest: |
@@ -74,8 +73,8 @@ abstract: |
 significance: |
   Countries routinely face crises that risk escalating into full scale war but we do not have systematic measurements of the progression of past crises and what moves and counter moves led to or helped avoid war. Instead policy makers typically rely on one or two historical analogies, chosen through ad hoc selection criteria, and described in unsystematic terms. This paper introduces a new scientific approach to measuring the step by step moves of international crises over the last hundred years, combining subject expertise with state of the art natural language processing and machine learning methods. It serves as a guide for constructing and evaluating large scale measurement collection in the social sciences.
   
-acknowledgements: |
-  We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgment of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day.  We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for generous feedback. Thank you to the cPASS research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
+# acknowledgements: |
+#   We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgment of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day.  We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for generous feedback. Thank you to the cPASS research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
 
 keywords:
   - Diplomacy
@@ -138,7 +137,7 @@ header-includes:
   - \usepackage{cellspace}
   - \setlength\cellspacetoplimit{0.8ex}
   - \renewcommand{\arraystretch}{0.8}
-  - \AtBeginEnvironment{tabular}{\singlespacing}
+#  - \AtBeginEnvironment{tabular}{\singlespacing}
   - \AtBeginEnvironment{lltable}{\singlespacing}
 #  - \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
 #  - \usepackage{subfigure}
@@ -1813,6 +1812,17 @@ We investigated event abstraction from narratives describing key historical epis
 
 We release several open-source products along with supporting code and documentation to further advance the study of IR, event extraction, and natural language processing. The first is the International Crisis Behavior Events (ICBe) dataset, an event-level aggregation of what took place during the crises identified by the ICB project. These data are appropriate for statistical analysis of hard questions about the sequencing of events (e.g. escalation and de-escalation of conflicts). Second, we provide a coder-level disaggregation with multiple codings of each sentence by experts and undergrads that allows for the introduction of uncertainty and human interpretation of events. Further, we release a direct mapping from the codings to the source text at the sentence level as a new resource for natural language processing. Finally, we provide a companion website that incorporates detailed visualizations of all of the data introduced here (www.crisisevents.org).
 
+
+Acknowledgements {#format .unnumbered}
+========================================
+  We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgment of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day.  We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for generous feedback. Thank you to the cPASS research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
+  
+Author Contributions {#format .unnumbered}
+========================================
+  Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.;  Validation: R.W.D., T.L.S.;  Formal Analysis: R.W.D., T.L.S.;  Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.;  Data Curation: R.W.D., D.Q., T.L.S., J.W.;  Writing - Original Draft: R.W.D., T.L.S.;  Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.;
+  Visualization: R.W.D., T.L.S.;  Supervision: E.G.;  Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.;  Funding Acquisition: E.G., J.L.
+
+&nbsp;
 
 <!-- PNAS lines Leave these lines as they are at the end of your .Rmd file to ensure placement of methods & acknowledgements sections before the references
 \showmatmethods

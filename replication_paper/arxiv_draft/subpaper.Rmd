@@ -1,0 +1,327 @@
+---
+title: "Introducing ICBe: Very High Recall and Precision Event Extraction from Narratives about International Crises"
+
+# Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
+authors:
+  - name: Rex W. Douglass
+    affiliation: University of California, San Diego
+  - name: Thomas Leo Scherer
+    affiliation: University of California, San Diego
+  - name: J. Andrés Gannon
+    affiliation: Vanderbilt University
+  - name: Erik Gartzke
+    affiliation: University of California, San Diego
+  - name: Jon Lindsay
+    affiliation: Georgia Institute of Technology
+  - name: Shannon Carcelli
+    affiliation: University of Maryland
+  - name: Jonathan Wilkenfeld
+    affiliation: University of Maryland
+  - name: David M. Quinn
+    affiliation: University of Maryland
+  - name: Catherine Aiken
+    affiliation: Georgetown University
+  - name: Jose Miguel Cabezas Navarro
+    affiliation: Universidad Mayor
+  - name: Neil Lund
+    affiliation: University of Maryland
+  - name: Egle Murauskaite
+    affiliation: University of Maryland
+  - name: Diana Partridge
+    affiliation: University of Maryland
+    
+# address:
+#   - code: a
+#     address: Department of Political Science, University of California, San Diego, CA, USA.
+#   - code: b
+#     address: Belfer Center for Science and International Affairs, Harvard Kennedy School, MA, USA.
+#   - code: c
+#     address: School of Cybersecurity and Privacy | Sam Nunn School of International Affairs, Georgia Institute of Technology, GA, USA.
+#   - code: d
+#     address: Department of Government and Politics, University of Maryland, College Park, MD, USA.
+#   - code: e
+#     address: Faculty Specialist, National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland, College Park, MD, USA.
+#   - code: f
+#     address: Edmund A. Walsh School of Foreign Service, Georgetown University, Washington, DC, USA.
+#   - code: g
+#     address: Society and Health Research Center, Universidad Mayor, Santiago, Chile.
+#   - code: h
+#     address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
+#   - code: i
+#     address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
+
+# corresponding_author:
+#   code: 2
+#   text: "To whom correspondence should be addressed. E-mail: rexdouglass@gmail.com"
+
+# For footer text
+lead_author_surname: Douglass
+
+#following https://docs.google.com/document/d/1aJxrQXYHW5U6By3KEAHrx1Iho6ioeh3ohNsRMwsoGPM/edit
+# author_contributions: |
+#   Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.;  Validation: R.W.D., T.L.S.;  Formal Analysis: R.W.D., T.L.S.;  Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.;  Data Curation: R.W.D., D.Q., T.L.S., J.W.;  Writing - Original Draft: R.W.D., T.L.S.;  Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.;
+#   Visualization: R.W.D., T.L.S.;  Supervision: E.G.;  Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.;  Funding Acquisition: E.G., J.L.
+
+## Remove this if not required
+#conflict_of_interest: |
+#  Please declare any conflict of interest here.
+
+#Please provide an abstract of no more than 250 words in a single paragraph. Abstracts should explain to the general reader the major contributions of the article. References in the abstract must be cited in full within the abstract itself and cited in the text.
+abstract: |
+  How do international crises unfold? We conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on a very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, online appendix, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org and the github repository.
+
+significance: |
+  Countries routinely face crises that risk escalating into full scale war but we do not have systematic measurements of the progression of past crises and what moves and counter moves led to or helped avoid war. Instead policy makers typically rely on one or two historical analogies, chosen through ad hoc selection criteria, and described in unsystematic terms. This paper introduces a new scientific approach to measuring the step by step moves of international crises over the last hundred years, combining subject expertise with state of the art natural language processing and machine learning methods. It serves as a guide for constructing and evaluating large scale measurement collection in the social sciences.
+  
+# acknowledgements: |
+#   We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgment of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day.  We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for generous feedback. Thank you to the cPASS research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
+
+keywords:
+  - Diplomacy
+  - War
+  - Crises
+  - International Affairs
+  - Computational Social Science
+
+## must be one of: pnasresearcharticle (usual two-column layout), pnasmathematics (one column layout), or pnasinvited (invited submissions only)
+
+## change to true to add optional line numbering
+lineno: false
+
+#https://bookdown.org/yihui/bookdown/a-single-document.html
+#https://stackoverflow.com/questions/52531637/knitr-rmarkdown-latex-how-to-cross-reference-figures-and-tables-in-2-different/52532269#52532269
+#https://stackoverflow.com/questions/51595939/bookdown-cross-reference-figure-in-another-file
+#https://stackoverflow.com/questions/25824795/how-to-combine-two-rmarkdown-rmd-files-into-a-single-output/51521542#51521542
+#https://stackoverflow.com/questions/64700865/using-r-rstudio-knit-to-pdf-how-to-pass-custom-flags-to-the-pdflatex-command
+
+csl: pnas.csl
+bibliography: paper.bib
+biblio-style: unsrt
+output: rticles::arxiv_article
+
+#Disabled several the caused errors
+header-includes:
+#  - \usepackage{xr} \externaldocument{appendix} #External references from the appendix
+#  - \usepackage{tinytex}
+  - \usepackage[utf8]{inputenc}
+  - \usepackage{pifont}
+  - \usepackage{newunicodechar}
+  - \newunicodechar{✓}{\ding{51}}
+  - \newunicodechar{✗}{\ding{55}}
+  - \usepackage{array}
+  - \usepackage{ctable} # added for demo
+#  - \usepackage{natbib} #added for latex citation within huxtable
+#  - \usepackage{biblatex} #added for latex citation within huxtable
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{multirow}
+  - \usepackage{wrapfig}
+  - \usepackage{colortbl}
+  - \usepackage{pdflscape}
+  - \usepackage{tabu}
+  - \usepackage{threeparttable}
+  - \usepackage{threeparttablex}
+  - \usepackage[normalem]{ulem}
+  - \usepackage{makecell}
+  - \usepackage{titlesec}
+  - \usepackage[parfill]{parskip}
+  - \usepackage{makecell}
+  - \usepackage{graphicx}
+#  - \usepackage{caption}
+#  - \usepackage[capposition=top]{floatrow}
+#  - \titleformat{\subsubsection}{\normalfont\normalsize\itshape}{\thesubsubsection}{1em}{}
+#  - \titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{0ex plus .2ex}
+#  - \DeclareUnicodeCharacter{00A0}{ }
+  - \usepackage{setspace}
+  - \usepackage{cellspace}
+  - \setlength\cellspacetoplimit{0.8ex}
+  - \renewcommand{\arraystretch}{0.8}
+#  - \AtBeginEnvironment{tabular}{\singlespacing}
+  - \AtBeginEnvironment{lltable}{\singlespacing}
+#  - \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
+#  - \usepackage{subfigure}
+  - \usepackage{subcaption}
+  - \usepackage{atbegshi}% http://ctan.org/pkg/atbegshi
+  - \usepackage{float}
+#  - \usepackage{eso-pic,graphicx,transparent}
+#  - \usepackage[perpage]{footmisc}
+  - \usepackage[algo2e]{algorithm2e}
+#  - \usepackage[backend = biber]{biblatex} #added in hopes of getting a bbl
+#https://tex.stackexchange.com/questions/131646/algorithm2e-command-algorithm-already-defined
+---
+
+```{r, echo=F, cache=F, messages=F, results='hide', warnings=F, include=FALSE}
+#International Crisis Behavior Events (ICBe) Dataset
+knitr::opts_chunk$set(echo=F, cache=TRUE, messages=F, results='hide', warning=F, include=FALSE) #fig.width = 8, fig.height = 8, message=F, warning=F, , results=F
+
+#Execute these lines to get bbl files for the arxiv submission
+options(tinytex.clean=F)
+
+```
+
+```{r, eval=T, echo=F, cache=F}
+
+#library(pacman)
+library(googlesheets4)
+library(tidyverse)
+library(janitor)
+library(flextable)
+set_flextable_defaults(fonts_ignore=TRUE) #Warning: fonts used in `flextable` are ignored because the `pdflatex` engine is used and not `xelatex` or `lualatex`. You can avoid this warning by using the `set_flextable_defaults(fonts_ignore=TRUE)` command or use a compatible engine by defining `latex_engine: xelatex` in the YAML header of the R Markdown document.
+library(ftExtra)
+options(tidyverse.quiet = TRUE)
+options(gargle_oauth_email = TRUE)
+
+#install.packages('stargazer')
+#install.packages('kableExtra')
+#! sh: 1: pdflatex: not found
+#sudo apt-get install texlive-latex-recommended texlive-fonts-recommended
+
+#! LaTeX Error: File `letltxmacro.sty' not found.
+#sudo apt-get install texlive-latex-extra
+
+#install.packages('tinytex')
+#tinytex::install_tinytex()
+
+```
+
+
+```{r, echo=F}
+#Notes
+#https://tex.stackexchange.com/questions/83440/inputenc-error-unicode-char-u8-not-set-up-for-use-with-latex
+#- \DeclareUnicodeCharacter{00A0}{ }
+
+```
+
+
+
+```{r, include=FALSE}
+# options(tinytex.verbose = TRUE)
+```
+
+
+```{r, echo=FALSE}
+
+`%>%` <- magrittr::`%>%`
+
+```
+
+
+```{r, echo=FALSE}
+
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_clean.Rds"))
+codings_long_agreement <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_agreement.Rds") )
+
+ICBe_events_agreed <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.Rds")) 
+dim(ICBe_events_agreed)
+icb_events_long <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.Rds")) 
+dim(icb_events_long)
+
+#oh is it because break is reserved in R? lol
+#icb_crises <- read_csv(file=paste0(here::here(), "/data_other_datasets/icb/icb1v14.csv")) %>% janitor::clean_names()
+icb_crises  <- read.csv(paste0(here::here(), "/replication_data/in/icb1v14.csv")) %>% janitor::clean_names()
+
+#somehow break of all things is a b roken name
+#icb_actors <- read_csv(file=paste0(here::here(), "/data_other_datasets/icb/icb2v14.csv"))
+icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
+
+
+
+```
+
+
+<!-- note: please start your introduction without including the word "Introduction" as a section heading (except for math articles in the Physical Sciences section); this heading is implied in the first paragraphs. -->
+\twocolumn
+
+If we could record every important interaction between countries in all of diplomacy, military conflict, and international political economy, how much unique information would this chronicle amount to, and how surprised would we be to see something new? In other words, what is the entropy of international relations? This record could in principle be unbounded, but the central conceit of social science is that there are structural regularities that limit what actors can do, their best options, and even which actors are likely to survive [@brecherInternationalStudiesTwentieth1999; @reiterShouldWeLeave2015]. If so, then these events can be systematically measured, and accordingly, massive effort is expended in social science attempting to record these regularities.^[See work on crises [@brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020], militarized disputes [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018; @maozDyadicMilitarizedInterstate2019], wars [@sarkeesResortWar181620072010; @reiterRevisedLookInterstate2016], organized violence [@ralphsundbergUCDPGEDCodebook2016; @petterssonOrganizedViolence19892018], political violence [@raleighIntroducingACLEDArmed2010], sanctions [@felbermayrGlobalSanctionsData2020], trade [@barariDemocracyTradePolicy], and international agreements [@kinneDefenseCooperationAgreement2020; @owsiakInternationalBorderAgreements2018; @vabulasCooperationAutonomyBuilding2021], dispute resolution [@vabulasCooperationAutonomyBuilding2021; @frederickIssueCorrelatesWar2017], and diplomacy [@moyerWhatAreDrivers2020; @sechserMilitarizedCompellentThreats2011].] Thanks to improvements in natural language processing, more open-ended efforts have begun to capture entire unstructured streams of events from international news reports.^[See @liComprehensiveSurveySchemabased2021; @haltermanExtractingPoliticalEvents2020; @brandtPhoenixRealTimeEvent2018; @boscheeICEWSCodedEvent2015; @hegreIntroducingUCDPCandidate2020; @grantOUEventData2017. On event-extraction from images and social-media see @zhangCASMDeepLearningApproach2019 and @steinert-threlkeldFutureEventData2019.] How close these efforts are to accurately measuring all or even most of what is essential in international relations is an open empirical question, one for which we provide new evidence here.
+
+Our contribution is a high coverage ontology and event dataset for key historical episodes in 20th and 21st-century international relations. We develop a large, flexible ontology of international events with the help of both human coders and natural language processing. We apply it sentence-by-sentence to an unusually high-quality corpus of historical narratives of international crises [@brecherInternationalStudiesTwentieth1999; @brecherCrisisEscalationWar2000; @wilkenfeldInterstateCrisesViolence2000; @jamesWhatWeKnow2019; @iakhnisCrisesWorldPolitics2019]. The result is a new lower bound estimate of how much actually happens between states during pivotal historical episodes. We then develop several methods for objectively gauging how well these event codings reconstruct the information contained in the original narrative. We conclude by benchmarking our event codings against several current state-of-the-art event data collection efforts. We find that existing systems produce sequences of events that do not contain enough information to reconstruct the underlying historical episode. The underlying fine-grained variation in international affairs is unrecognizable through the lens of current quantification efforts.
+
+This is a measurement paper that makes the following argument --- there is a real-world unobserved latent concept known as international relations, we propose a method for systematically measuring it, we successfully apply this method producing a new large scale set of measurements, those measurements exhibit several desirable kinds of internal and external validity, and those measurements out-perform other existing approaches. The article organizes that argument into eight sections: task definition; corpus; priors/existing state of the art; ICBe coding process; internal consistency; case study selection; recall; and precision. A final section concludes.
+
+Task Definition {.unnumbered}
+========================================
+
+We consider the measurement task of abstracting discrete events about a historical episode in international relations. The easiest way to convey the task is with an example. Figure 1 shows a narrative account of the Cuban Missile Crisis (1962) alongside a mapping from each natural language sentence to discrete machine readable abstractive events. Formally, a historical episode, $H$, is demarcated by a period of time $[T_{start}, T_{end}] \in T$, a set of Players $p \in P$, and a set of behaviors they undertook during that time $b \in B$. International Relations, $IR$, is the system of regularities that govern the strategic interactions that world actors make during a historical episode, given their available options, preferences, beliefs, and expectations of choices made by others. We observe neither $H$ nor $IR$ directly. Rather the Historical Record, $HR$, produces documents $d \in D$ containing some relevant and true (as well as irrelevant and untrue) information about behaviors that were undertaken recorded in the form of unstructured natural language text. The task is to combine informative priors about $IR$ with an unstructured corpus $D$ to produce a series of structured discrete events, $e \in E$, that have high coverage, precision, and recall over what actually took place in history, $H$.
+
+
+```{r cuban case study precision, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+
+ICBe_events_agreed_markdown <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.Rds")) 
+
+temp <- ICBe_events_agreed_markdown %>%
+        filter(crisno==196) %>%
+        group_by(crisno, sentence_number_int_aligned) %>%
+          filter(!duplicated(value_markdown %>% trimws() )) %>% #note there are dupe markdowns for some reason
+        ungroup() %>%
+        mutate(banding=as.numeric(as.factor(sentence_number_int_aligned)) %% 2)
+temp$is_subsstring <- NA
+for(i in 1:nrow(temp)){
+  temp$is_subsstring[i] <-   stringr::str_detect(temp$value_markdown %>% tolower() %>% str_replace_all('[^a-z0-9]',"") ,
+                                                                                pattern = fixed(temp$value_markdown[i] %>% tolower() %>% str_replace_all('[^a-z0-9]',"") )
+                                                                              ) %>% replace_na(0) %>%  sum()
+}
+temp <-temp %>%
+        mutate(value_markdown = ifelse(is_subsstring<=1,value_markdown,'')) %>%
+        group_by(sentence_number_int_aligned) %>%
+          filter(value_markdown!='' | length(value_markdown)==1) %>%
+        ungroup() %>%
+        mutate(crisno= ifelse(!is.na(lag(sentence_span_text)) & sentence_span_text==lag(sentence_span_text), "", crisno)) %>%
+        mutate(sentence_number_int_aligned= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_number_int_aligned)) %>%
+        mutate(sentence_span_text= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_span_text))   #C=crisno, 
+      #head(100) %>%
+ft_cuba_precision <- temp %>%
+                     dplyr::select(S=sentence_number_int_aligned, ICB=sentence_span_text, ICBe=value_markdown)  %>%
+                      flextable::as_flextable() %>%
+        flextable::set_header_labels(values =
+        list(
+              S = "S",
+              ICB = "Natural Language Sentences (ICB Corpus)",
+              ICBe = "Machine Readable Events (ICBe)"
+             ) ) %>%
+  
+                      flextable::width( j = 1, width=0.25)  %>% 
+                      #flextable::width( j = 2, width=0.25)  %>% 
+                      flextable::width( j = 2, width=8.0)  %>% 
+                      flextable::width( j = 3, width=8.0)  %>% 
+                      flextable::fontsize(size = 9, part = "all") %>%
+                      valign(j = 1:3, valign = "top", part = "body") %>%
+                      flextable::line_spacing( space = 1.0, part = "all") %>% 
+                      padding( padding = 1, part = "all") %>% 
+                      bg( i = which( temp$banding==1 ) , part = "body", bg = "#EFEFEF", j=1:3) %>%
+                      ftExtra::colformat_md(j = 3, part="body")
+#ft_cuba_precision
+
+ft_cuba_precision %>% save_as_image(path=here::here("replication_paper","arxiv_draft","case_study_cuban_precision.png"), zoom=1) # webshot = "webshot2"
+temp <- NULL
+
+
+```
+
+
+Conclusion {#format .unnumbered}
+========================================
+
+We investigated event abstraction from narratives describing key historical episodes in international relations. We synthesized a prior belief about the latent unobserved phenomena that drive these events in international relations and proposed a mapping to observable concepts that enter into the observed historical record. We designed an ontology with high coverage over those concepts and developed a training procedure and technical stack for human coding of historical texts. Multiple validity checks find the resulting codings have high internal validity (e.g. intercoder agreement) and external validity (i.e. matching source material in both micro-details at the sentence level and macro-details spanning full historical episodes). Further, these codings perform much better in terms of recall, precision, coverage, and overall coherence in capturing these historical episodes than existing event systems used in international relations.
+
+We release several open-source products along with supporting code and documentation to further advance the study of IR, event extraction, and natural language processing. The first is the International Crisis Behavior Events (ICBe) dataset, an event-level aggregation of what took place during the crises identified by the ICB project. These data are appropriate for statistical analysis of hard questions about the sequencing of events (e.g. escalation and de-escalation of conflicts). Second, we provide a coder-level disaggregation with multiple codings of each sentence by experts and undergrads that allows for the introduction of uncertainty and human interpretation of events. Further, we release a direct mapping from the codings to the source text at the sentence level as a new resource for natural language processing. Finally, we provide a companion website that incorporates detailed visualizations of all of the data introduced here (www.crisisevents.org).
+
+Acknowledgements {#format .unnumbered}
+========================================
+  We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgment of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day.  We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for generous feedback. Thank you to the cPASS research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
+  
+Author Contributions {#format .unnumbered}
+========================================
+  Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.;  Validation: R.W.D., T.L.S.;  Formal Analysis: R.W.D., T.L.S.;  Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.;  Data Curation: R.W.D., D.Q., T.L.S., J.W.;  Writing - Original Draft: R.W.D., T.L.S.;  Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.;
+  Visualization: R.W.D., T.L.S.;  Supervision: E.G.;  Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.;  Funding Acquisition: E.G., J.L.
+
+
+Bibliography {#format .unnumbered}
+========================================
+&nbsp;
+
+<!-- PNAS lines Leave these lines as they are at the end of your .Rmd file to ensure placement of methods & acknowledgements sections before the references
+\showmatmethods
+\showacknow
+\pnasbreak
+-->
