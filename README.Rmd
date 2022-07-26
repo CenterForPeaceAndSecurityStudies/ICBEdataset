@@ -22,9 +22,11 @@ This is a github repository for the International Crisis Behavior Events (ICBe) 
 
 ## The Paper:
 
-[Introducing the ICBe Dataset: Very High Recall and Precision Event Extraction from Narratives about International Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf). 
+[Introducing the ICBe Dataset: Very High Recall and Precision Event Extraction from Narratives about International Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/replication_paper/arxiv_draft/paper.pdf) (also available on [ArXiv](https://arxiv.org/abs/2202.07081)).
 
-The [ArXiv pre-print](https://arxiv.org/abs/2202.07081) was posted on February 15, 2022. 
+The v1.1 Online Appendix can be downloaded [here](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/replication_paper/arxiv_draft/appendix.pdf).
+
+Version 1.1 is the most recent version and was posted on [ArXiv](https://arxiv.org/abs/2202.07081) on July 26, 2022. Version 1.0 was posted on February 15, 2022. 
 
 ## The Data:
 

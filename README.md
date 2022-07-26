@@ -1,19 +1,26 @@
 
--   [The International Crisis Behavior Events
-    (ICBe)](#the-international-crisis-behavior-events-icbe)
--   [The Paper:](#the-paper)
--   [The Data:](#the-data)
--   [The Authors:](#the-authors)
--   [Citation:](#citation)
--   [Replication Code and Analysis](#replication-code-and-analysis)
-    -   [Self Contained Package](#self-contained-package)
--   [RMarkdown files](#rmarkdown-files)
-    -   [Replication Data](#replication-data)
-    -   [Replication Paper](#replication-paper)
--   [Data inputs:](#data-inputs)
-    -   [ICBe preparation](#icbe-preparation)
-    -   [External datasets](#external-datasets)
-    -   [License](#license)
+-   <a href="#the-international-crisis-behavior-events-icbe"
+    id="toc-the-international-crisis-behavior-events-icbe">The International
+    Crisis Behavior Events (ICBe)</a>
+-   <a href="#the-paper" id="toc-the-paper">The Paper:</a>
+-   <a href="#the-data" id="toc-the-data">The Data:</a>
+-   <a href="#the-authors" id="toc-the-authors">The Authors:</a>
+-   <a href="#citation" id="toc-citation">Citation:</a>
+-   <a href="#replication-code-and-analysis"
+    id="toc-replication-code-and-analysis">Replication Code and Analysis</a>
+    -   <a href="#self-contained-package" id="toc-self-contained-package">Self
+        Contained Package</a>
+-   <a href="#rmarkdown-files" id="toc-rmarkdown-files">RMarkdown files</a>
+    -   <a href="#replication-data" id="toc-replication-data">Replication
+        Data</a>
+    -   <a href="#replication-paper" id="toc-replication-paper">Replication
+        Paper</a>
+-   <a href="#data-inputs" id="toc-data-inputs">Data inputs:</a>
+    -   <a href="#icbe-preparation" id="toc-icbe-preparation">ICBe
+        preparation</a>
+    -   <a href="#external-datasets" id="toc-external-datasets">External
+        datasets</a>
+    -   <a href="#license" id="toc-license">License</a>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -31,10 +38,15 @@ tab](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/issues/new/
 
 [Introducing the ICBe Dataset: Very High Recall and Precision Event
 Extraction from Narratives about International
-Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_paper/IntroducingICBe_DouglassEtAl_2021_BetaDraft_bookdown.pdf).
+Crises](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/replication_paper/arxiv_draft/paper.pdf)
+(also available on [ArXiv](https://arxiv.org/abs/2202.07081)).
 
-The [ArXiv pre-print](https://arxiv.org/abs/2202.07081) was posted on
-February 15, 2022.
+The v1.1 Online Appendix can be downloaded
+[here](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/replication_paper/arxiv_draft/appendix.pdf).
+
+Version 1.1 is the most recent version and was posted on
+[ArXiv](https://arxiv.org/abs/2202.07081) on July 26, 2022. Version 1.0
+was posted on February 15, 2022.
 
 ## The Data:
 
