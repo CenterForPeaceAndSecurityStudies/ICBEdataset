@@ -2,80 +2,79 @@
 title: "Introducing ICBe: Very High Recall and Precision Event Extraction from Narratives about International Crises"
 
 # Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
-author:
+authors:
   - name: Rex W. Douglass
-    affiliation: a,1,2
+    affiliation: University of California, San Diego
   - name: Thomas Leo Scherer
-    affiliation: a
+    affiliation: University of California, San Diego
   - name: J. Andrés Gannon
-    affiliation: b
+    affiliation: Vanderbilt University
   - name: Erik Gartzke
-    affiliation: a
+    affiliation: University of California, San Diego
   - name: Jon Lindsay
-    affiliation: c
+    affiliation: Georgia Institute of Technology
   - name: Shannon Carcelli
-    affiliation: d
+    affiliation: University of Maryland
   - name: Jonathan Wilkenfeld
-    affiliation: d
+    affiliation: University of Maryland
   - name: David M. Quinn
-    affiliation: e
+    affiliation: University of Maryland
   - name: Catherine Aiken
-    affiliation: f
+    affiliation: Georgetown University
   - name: Jose Miguel Cabezas Navarro
-    affiliation: g
+    affiliation: Universidad Mayor
   - name: Neil Lund
-    affiliation: d
+    affiliation: University of Maryland
   - name: Egle Murauskaite
-    affiliation: h
+    affiliation: University of Maryland
   - name: Diana Partridge
-    affiliation: h
+    affiliation: University of Maryland
     
-address:
-  - code: a
-    address: Department of Political Science, University of California, San Diego, CA, USA.
-  - code: b
-    address: Belfer Center for Science and International Affairs, Harvard Kennedy School, MA, USA.
-  - code: c
-    address: School of Cybersecurity and Privacy | Sam Nunn School of International Affairs, Georgia Institute of Technology, GA, USA.
-  - code: d
-    address: Department of Government and Politics, University of Maryland, College Park, MD, USA.
-  - code: e
-    address: Faculty Specialist, National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland, College Park, MD, USA.
-  - code: f
-    address: Edmund A. Walsh School of Foreign Service, Georgetown University, Washington, DC, USA.
-  - code: g
-    address: Society and Health Research Center, Universidad Mayor, Santiago, Chile.
-  - code: h
-    address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
-  - code: i
-    address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
+# address:
+#   - code: a
+#     address: Department of Political Science, University of California, San Diego, CA, USA.
+#   - code: b
+#     address: Belfer Center for Science and International Affairs, Harvard Kennedy School, MA, USA.
+#   - code: c
+#     address: School of Cybersecurity and Privacy | Sam Nunn School of International Affairs, Georgia Institute of Technology, GA, USA.
+#   - code: d
+#     address: Department of Government and Politics, University of Maryland, College Park, MD, USA.
+#   - code: e
+#     address: Faculty Specialist, National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland, College Park, MD, USA.
+#   - code: f
+#     address: Edmund A. Walsh School of Foreign Service, Georgetown University, Washington, DC, USA.
+#   - code: g
+#     address: Society and Health Research Center, Universidad Mayor, Santiago, Chile.
+#   - code: h
+#     address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
+#   - code: i
+#     address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
 
-
-corresponding_author:
-  code: 2
-  text: "To whom correspondence should be addressed. E-mail: rexdouglass@gmail.com"
+# corresponding_author:
+#   code: 2
+#   text: "To whom correspondence should be addressed. E-mail: rexdouglass@gmail.com"
 
 # For footer text
 lead_author_surname: Douglass
 
 #following https://docs.google.com/document/d/1aJxrQXYHW5U6By3KEAHrx1Iho6ioeh3ohNsRMwsoGPM/edit
-author_contributions: |
-  Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.;  Validation: R.W.D., T.L.S.;  Formal Analysis: R.W.D., T.L.S.;  Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.;  Data Curation: R.W.D., D.Q., T.L.S., J.W.;  Writing - Original Draft: R.W.D., T.L.S.;  Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.;
-  Visualization: R.W.D., T.L.S.;  Supervision: E.G.;  Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.;  Funding Acquisition: E.G., J.L.
+# author_contributions: |
+#   Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.;  Validation: R.W.D., T.L.S.;  Formal Analysis: R.W.D., T.L.S.;  Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.;  Data Curation: R.W.D., D.Q., T.L.S., J.W.;  Writing - Original Draft: R.W.D., T.L.S.;  Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.;
+#   Visualization: R.W.D., T.L.S.;  Supervision: E.G.;  Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.;  Funding Acquisition: E.G., J.L.
 
 ## Remove this if not required
-conflict_of_interest: |
-  Please declare any conflict of interest here.
+#conflict_of_interest: |
+#  Please declare any conflict of interest here.
 
 #Please provide an abstract of no more than 250 words in a single paragraph. Abstracts should explain to the general reader the major contributions of the article. References in the abstract must be cited in full within the abstract itself and cited in the text.
 abstract: |
-  How do international crises unfold? We conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org.
+  How do international crises unfold? We conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on a very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, online appendix, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org and the github repository.
 
 significance: |
   Countries routinely face crises that risk escalating into full scale war but we do not have systematic measurements of the progression of past crises and what moves and counter moves led to or helped avoid war. Instead policy makers typically rely on one or two historical analogies, chosen through ad hoc selection criteria, and described in unsystematic terms. This paper introduces a new scientific approach to measuring the step by step moves of international crises over the last hundred years, combining subject expertise with state of the art natural language processing and machine learning methods. It serves as a guide for constructing and evaluating large scale measurement collection in the social sciences.
   
-acknowledgements: |
-  We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgment of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day.  We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for generous feedback. Thank you to the cPASS research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
+# acknowledgements: |
+#   We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgment of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day.  We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for generous feedback. Thank you to the cPASS research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
 
 keywords:
   - Diplomacy
@@ -85,10 +84,6 @@ keywords:
   - Computational Social Science
 
 ## must be one of: pnasresearcharticle (usual two-column layout), pnasmathematics (one column layout), or pnasinvited (invited submissions only)
-pnas_type: pnasresearcharticle
-
-bibliography: ICBintro.bib
-csl: pnas.csl
 
 ## change to true to add optional line numbering
 lineno: false
@@ -99,10 +94,10 @@ lineno: false
 #https://stackoverflow.com/questions/25824795/how-to-combine-two-rmarkdown-rmd-files-into-a-single-output/51521542#51521542
 #https://stackoverflow.com/questions/64700865/using-r-rstudio-knit-to-pdf-how-to-pass-custom-flags-to-the-pdflatex-command
 
-bibliography: arxiv.bib
+csl: pnas.csl
+bibliography: paper.bib
 biblio-style: unsrt
 output: rticles::arxiv_article
-
 
 #Disabled several the caused errors
 header-includes:
@@ -142,7 +137,7 @@ header-includes:
   - \usepackage{cellspace}
   - \setlength\cellspacetoplimit{0.8ex}
   - \renewcommand{\arraystretch}{0.8}
-  - \AtBeginEnvironment{tabular}{\singlespacing}
+#  - \AtBeginEnvironment{tabular}{\singlespacing}
   - \AtBeginEnvironment{lltable}{\singlespacing}
 #  - \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
 #  - \usepackage{subfigure}
@@ -157,9 +152,8 @@ header-includes:
 ---
 
 ```{r, echo=F, cache=F, messages=F, results='hide', warnings=F, include=FALSE}
-print(wd())
 #International Crisis Behavior Events (ICBe) Dataset
-knitr::opts_chunk$set(echo=F, cache=TRUE, messages=F, results='hide', warnings=F, include=FALSE) #fig.width = 8, fig.height = 8, message=F, warning=F, , results=F
+knitr::opts_chunk$set(echo=F, cache=TRUE, messages=F, results='hide', warning=F, include=FALSE) #fig.width = 8, fig.height = 8, message=F, warning=F, , results=F
 
 #Execute these lines to get bbl files for the arxiv submission
 options(tinytex.clean=F)
@@ -237,8 +231,9 @@ icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
 
 
 <!-- note: please start your introduction without including the word "Introduction" as a section heading (except for math articles in the Physical Sciences section); this heading is implied in the first paragraphs. -->
+\twocolumn
 
-If we could record every important interaction between countries in all of diplomacy, military conflict, and international political economy, how much unique information would this chronicle amount to, and how surprised would we be to see something new? In other words, what is the entropy of international relations? This record could in principle be unbounded, but the central conceit of social science is that there are structural regularities that limit what actors can do, their best options, and even which actors are likely to survive [@brecherInternationalStudiesTwentieth1999; @reiterShouldWeLeave2015]. If so, then these events can be systematically measured, and accordingly, massive effort is expended in social science attempting to record these regularities.^[See work on crises [@brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020], militarized disputes [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018; @maozDyadicMilitarizedInterstate2019], wars [@sarkeesResortWar181620072010; @reiterRevisedLookInterstate2016], organized violence [@ralphsundbergUCDPGEDCodebook2016; @petterssonOrganizedViolence19892018], political violence [@raleighIntroducingACLEDArmed2010], sanctions [@felbermayrGlobalSanctionsData2020], trade [@barariDemocracyTradePolicy], and international agreements [@kinneDefenseCooperationAgreement2020; @owsiakInternationalBorderAgreements2018; @vabulasCooperationAutonomyBuilding2021], dispute resolution [@vabulasCooperationAutonomyBuilding2021; @frederickIssueCorrelatesWar2017], and diplomacy [@moyerWhatAreDrivers2020; @sechserMilitarizedCompellentThreats2011].] With improvements in natural language processing, more open-ended efforts have sought to capture entire unstructured streams of international events drawn from news reports.^[See @liComprehensiveSurveySchemabased2021; @haltermanExtractingPoliticalEvents2020; @brandtPhoenixRealTimeEvent2018; @boscheeICEWSCodedEvent2015; @hegreIntroducingUCDPCandidate2020; @grantOUEventData2017. On event-extraction from images and social-media see @zhangCASMDeepLearningApproach2019 and @steinert-threlkeldFutureEventData2019.] How close these efforts are to accurately measuring all or even most of what is essential in international relations is an open empirical question, one for which we provide new evidence here.
+If we could record every important interaction between countries in all of diplomacy, military conflict, and international political economy, how much unique information would this chronicle amount to, and how surprised would we be to see something new? In other words, what is the entropy of international relations? This record could in principle be unbounded, but the central conceit of social science is that there are structural regularities that limit what actors can do, their best options, and even which actors are likely to survive [@brecherInternationalStudiesTwentieth1999; @reiterShouldWeLeave2015]. If so, then these events can be systematically measured, and accordingly, massive effort is expended in social science attempting to record these regularities.^[See work on crises [@brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020], militarized disputes [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018; @maozDyadicMilitarizedInterstate2019], wars [@sarkeesResortWar181620072010; @reiterRevisedLookInterstate2016], organized violence [@ralphsundbergUCDPGEDCodebook2016; @petterssonOrganizedViolence19892018], political violence [@raleighIntroducingACLEDArmed2010], sanctions [@felbermayrGlobalSanctionsData2020], trade [@barariDemocracyTradePolicy], and international agreements [@kinneDefenseCooperationAgreement2020; @owsiakInternationalBorderAgreements2018; @vabulasCooperationAutonomyBuilding2021], dispute resolution [@vabulasCooperationAutonomyBuilding2021; @frederickIssueCorrelatesWar2017], and diplomacy [@moyerWhatAreDrivers2020; @sechserMilitarizedCompellentThreats2011].] Thanks to improvements in natural language processing, more open-ended efforts have begun to capture entire unstructured streams of events from international news reports.^[See @liComprehensiveSurveySchemabased2021; @haltermanExtractingPoliticalEvents2020; @brandtPhoenixRealTimeEvent2018; @boscheeICEWSCodedEvent2015; @hegreIntroducingUCDPCandidate2020; @grantOUEventData2017. On event-extraction from images and social-media see @zhangCASMDeepLearningApproach2019 and @steinert-threlkeldFutureEventData2019.] How close these efforts are to accurately measuring all or even most of what is essential in international relations is an open empirical question, one for which we provide new evidence here.
 
 Our contribution is a high coverage ontology and event dataset for key historical episodes in 20th and 21st-century international relations. We develop a large, flexible ontology of international events with the help of both human coders and natural language processing. We apply it sentence-by-sentence to an unusually high-quality corpus of historical narratives of international crises [@brecherInternationalStudiesTwentieth1999; @brecherCrisisEscalationWar2000; @wilkenfeldInterstateCrisesViolence2000; @jamesWhatWeKnow2019; @iakhnisCrisesWorldPolitics2019]. The result is a new lower bound estimate of how much actually happens between states during pivotal historical episodes. We then develop several methods for objectively gauging how well these event codings reconstruct the information contained in the original narrative. We conclude by benchmarking our event codings against several current state-of-the-art event data collection efforts. We find that existing systems produce sequences of events that do not contain enough information to reconstruct the underlying historical episode. The underlying fine-grained variation in international affairs is unrecognizable through the lens of current quantification efforts.
 
@@ -250,7 +245,7 @@ Task Definition {.unnumbered}
 We consider the measurement task of abstracting discrete events about a historical episode in international relations. The easiest way to convey the task is with an example. Figure 1 shows a narrative account of the Cuban Missile Crisis (1962) alongside a mapping from each natural language sentence to discrete machine readable abstractive events. Formally, a historical episode, $H$, is demarcated by a period of time $[T_{start}, T_{end}] \in T$, a set of Players $p \in P$, and a set of behaviors they undertook during that time $b \in B$. International Relations, $IR$, is the system of regularities that govern the strategic interactions that world actors make during a historical episode, given their available options, preferences, beliefs, and expectations of choices made by others. We observe neither $H$ nor $IR$ directly. Rather the Historical Record, $HR$, produces documents $d \in D$ containing some relevant and true (as well as irrelevant and untrue) information about behaviors that were undertaken recorded in the form of unstructured natural language text. The task is to combine informative priors about $IR$ with an unstructured corpus $D$ to produce a series of structured discrete events, $e \in E$, that have high coverage, precision, and recall over what actually took place in history, $H$.
 
 
-```{r cuban case study precision, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
+```{r cuban case study precision, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
 ICBe_events_agreed_markdown <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.Rds")) 
 
@@ -259,7 +254,7 @@ temp <- ICBe_events_agreed_markdown %>%
         group_by(crisno, sentence_number_int_aligned) %>%
           filter(!duplicated(value_markdown %>% trimws() )) %>% #note there are dupe markdowns for some reason
         ungroup() %>%
-        mutate(banding=sentence_number_int_aligned %% 2)
+        mutate(banding=as.numeric(as.factor(sentence_number_int_aligned)) %% 2)
 temp$is_subsstring <- NA
 for(i in 1:nrow(temp)){
   temp$is_subsstring[i] <-   stringr::str_detect(temp$value_markdown %>% tolower() %>% str_replace_all('[^a-z0-9]',"") ,
@@ -297,7 +292,7 @@ ft_cuba_precision <- temp %>%
                       ftExtra::colformat_md(j = 3, part="body")
 #ft_cuba_precision
 
-ft_cuba_precision %>% save_as_image(path=here::here("replication_paper","pnas_draft","case_study_cuban_precision.png"), zoom=1) # webshot = "webshot2"
+ft_cuba_precision %>% save_as_image(path=here::here("replication_paper","arxiv_draft","case_study_cuban_precision.png"), zoom=1) # webshot = "webshot2"
 temp <- NULL
 
 
@@ -310,7 +305,7 @@ temp <- NULL
 \onecolumn
 \begin{figure}[H]
 \caption{Case Study 1: Cuban Missile Crisis (1962) - ICB Narrative vs. ICBe Events \label{fig:case_study_cuban_precision}}
-\centering{\includegraphics[ height=22cm]{"./case_study_cuban_precision.png"}}
+\centering{\includegraphics[ height=19cm]{"./case_study_cuban_precision.png"}}
 \end{figure}
 \clearpage
 \twocolumn
@@ -318,7 +313,7 @@ temp <- NULL
 Corpus  {.unnumbered}
 ========================================
 
-For our corpus, $D$, we select a set of unusually high-quality historical narratives from the International Crisis Behavior (ICB) project ($n=471$)(SI Appendix, Table A1)[@brecherInternationalCrisisBehavior2017; @brecher_study_1997]. Their domain is 20th and 21st-century crises, defined as a change in the type, or an increase in the intensity, of disruptive interaction with a heightened probability of military hostilities that destabilizes states' relationships or challenges the structure of the international system [@brecherCrisesWorldPolitics1982].^[On near crises see @iakhnisCrisesWorldPolitics2019.] Crises are a significant focus of detailed single case studies and case comparisons because they provide an opportunity to examine behaviors in IR short of, or at least prior to, full conflict  [@holsti1914Case1965; @paigeKoreanDecisionJune1968; @allisonEssenceDecisionExplaining1971; @snyderConflictNationsBargaining1977; @gavinHistorySecurityStudies2014; @georgeDeterrenceAmericanForeign1974; @brecherCrisesWorldPolitics1982; @gaddisExpandingDataBase1987; @brecherPatternsCrisisManagement1988]. Case selection was exhaustive based on a survey of world news archives and region experts, cross-checked against other databases of war and conflict, and non-English sources [@kangUSBiasStudy2019; @brecherInternationalCrisisBehavior2017 p. 59]. Each narrative was written by consensus by a small number of scholars, using a uniform coding scheme, with similar specificity [@hewittEngagingInternationalData2001]. The corpus is unique in IR because it is designed to be used in a downstream quantitative coding project.
+For our corpus, $D$, we select a set of unusually high-quality historical narratives from the International Crisis Behavior (ICB) project ($n=471$)(SI Appendix, Table A1)[@brecherInternationalCrisisBehavior2017; @brecher_study_1997].^[The Online Appendix is at the [ICBEventData Github Repository](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).] Their domain is 20th and 21st-century crises, defined as a change in the type, or an increase in the intensity, of disruptive interaction with a heightened probability of military hostilities that destabilizes states' relationships or challenges the structure of the international system [@brecherCrisesWorldPolitics1982].^[On near crises see @iakhnisCrisesWorldPolitics2019.] Crises are a significant focus of detailed single case studies and case comparisons because they provide an opportunity to examine behaviors in IR short of, or at least prior to, full conflict  [@holsti1914Case1965; @paigeKoreanDecisionJune1968; @allisonEssenceDecisionExplaining1971; @snyderConflictNationsBargaining1977; @gavinHistorySecurityStudies2014; @georgeDeterrenceAmericanForeign1974; @brecherCrisesWorldPolitics1982; @gaddisExpandingDataBase1987; @brecherPatternsCrisisManagement1988]. Case selection was exhaustive based on a survey of world news archives and region experts, cross-checked against other databases of war and conflict, and non-English sources [@kangUSBiasStudy2019; @brecherInternationalCrisisBehavior2017 p. 59]. Each narrative was written by consensus by a small number of scholars, using a uniform coding scheme, with similar specificity [@hewittEngagingInternationalData2001]. The corpus is unique in IR because it is designed to be used in a downstream quantitative coding project.
 
 Prior Beliefs about IR, Ontological Coverage, and the Existing State of the Art {.unnumbered}
 ========================================
@@ -382,19 +377,6 @@ bands=which( 1:nrow(lit_review_alt) %% 2 == 1)
 litreview_ft_pnas <- lit_review_alt %>%
       flextable::as_flextable() %>%
 
-      #add_header( 
-      #        #"ICB Corpus"="Corpus",
-      #        "ICBe"="Ours",
-      #        "Phoenix"="CAMEO Dictionary\nSystems",
-      #        "Terrier"="CAMEO Dictionary\nSystems",
-      #        "ICEWs"="CAMEO Dictionary\nSystems",
-      #        "MIDs Events"="Disputes",
-      #        "UCDP-GED"="Violence",
-      #        "ICB"="Crises",
-      #        "COW"="Wars",
-      #        "MIDs"="Disputes",
-      #        top = T ) %>%
-  
       add_header( 
                   #"ICB Corpus"="Corpus",
                   "ICBe"="Events Datasets",
@@ -408,8 +390,6 @@ litreview_ft_pnas <- lit_review_alt %>%
                   "MIDs"="Episodes Datasets",
                   top = T ) %>%
 
-
-  
       set_header_labels(
         values = list("...1" = "" , "...2" = "" ) 
         ) %>%
@@ -484,7 +464,7 @@ litreview_ft_pnas <- lit_review_alt %>%
       flextable::rotate(j=1, rotation="tbrl",part="all") %>%
       flextable::rotate(j=2, rotation="tbrl",part="all") %>%
       flextable::width( j = 1:2, width=0.1)  %>%
-      ftExtra::colformat_md(j = 3, part="body")   #Make sure this goes last or it'll get overwritten by the colformat above
+      ftExtra::colformat_md(j = 3, part="body")    #Make sure this goes last or it'll get overwritten by the colformat above
 
 #https://cran.r-project.org/web/packages/ftExtra/vignettes/format_columns.html
 #litreview_ft_pnas
@@ -492,10 +472,13 @@ litreview_ft_pnas <- lit_review_alt %>%
 
 #litreview_ft_pnas  %>% saveRDS(paste0(here::here(), '/replication_paper/tables/litreview_ft_pnas.Rds'))
 litreview_ft_pnas %>% 
-  ftExtra::colformat_md(j = 3, part="body") %>%
-  flextable::set_caption(caption = "Ontological coverage of ICBe versus existing State of the Art") %>%
-  # flextable::set_caption("Prior Beliefs, State of the Art, and Existing Data \\label{tbl:litreview}")  %>% 
-  flextable::flextable_to_rmd()
+    flextable::set_caption(caption = "Ontological coverage of ICBe versus existing State of the Art") %>%
+   flextable::flextable_to_rmd()
+
+#litreview_ft_pnas   %>% 
+#    #flextable::flextable_to_rmd()
+#    save_as_image(path=here::here("replication_paper", "arxiv_draft", "litreview_ft.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+
 
 ```
 
@@ -680,7 +663,7 @@ ft <- temp1   %>%
 
 ft   %>% 
     #flextable::flextable_to_rmd()
-    save_as_image(path=here::here("replication_paper", "pnas_draft", "case_study_cuban_recall.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+    save_as_image(path=here::here("replication_paper", "arxiv_draft", "case_study_cuban_recall.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
 
 #Ok rather than try to match up we're going to do this by hand now
 
@@ -789,7 +772,7 @@ ft <- temp2  %>%
 
 ft   %>% 
     #flextable::flextable_to_rmd()
-    save_as_image(path=here::here("replication_paper", "pnas_draft", "case_study_crimea_recall.png"),
+    save_as_image(path=here::here("replication_paper", "arxiv_draft", "case_study_crimea_recall.png"),
                   zoom=1, webshot = "webshot2") # webshot = "webshot2"
 
 
@@ -915,7 +898,7 @@ ft <- temp3  %>%
 
 ft   %>% 
     #flextable::flextable_to_rmd()
-    save_as_image(path=here::here("replication_paper", "pnas_draft", "recall_cuban_and_crimea.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+    save_as_image(path=here::here("replication_paper", "arxiv_draft", "recall_cuban_and_crimea.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
 
 
 
@@ -966,7 +949,7 @@ p_recall <- temp3_long %>% ggplot(aes(x=log(docs), y=value, color=name)) +
 
 #p_recall
 
-ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_recall.png'),
+ggsave(file=paste0(here::here(), '/replication_paper/arxiv_draft/p_recall.png'),
        plot = p_recall ,
        width=5, height=3.0)
 
@@ -974,11 +957,11 @@ library(magick)
 
 
 
-tiger <- image_read(here::here("replication_paper", "pnas_draft", "recall_cuban_and_crimea.png"))
-tiger2 <- image_read(paste0(here::here(), '/replication_paper/pnas_draft/p_recall.png'))
+tiger <- image_read(here::here("replication_paper", "arxiv_draft", "recall_cuban_and_crimea.png"))
+tiger2 <- image_read(paste0(here::here(), '/replication_paper/arxiv_draft/p_recall.png'))
 
 combined <- image_composite(tiger, image_scale(tiger2, "x290"), offset = "+475+650")
-image_write(combined, here::here("replication_paper", "pnas_draft", "recall_cuban_and_crimea_andcounts.png"))
+image_write(combined, here::here("replication_paper", "arxiv_draft", "recall_cuban_and_crimea_andcounts.png"))
 
 ```
 
@@ -1389,7 +1372,7 @@ icbe_crisismaps <- function(thiscrisis=471, prune_rare=T){
 library(ggplot2)
 library(cowplot)
 
-p_196_icbe <- icbe_crisismaps(thiscrisis=196) #readRDS(file=paste0(here::here(), '/replication_paper/pnas_draft/crisismaps/p_metro_plot_471.Rds')) +
+p_196_icbe <- icbe_crisismaps(thiscrisis=196) #readRDS(file=paste0(here::here(), '/replication_paper/arxiv_draft/crisismaps/p_metro_plot_471.Rds')) +
     labs(
       #title = plot_title ,
       #subtitle = subtitle ,
@@ -1400,7 +1383,7 @@ p_196_icbe <- icbe_crisismaps(thiscrisis=196) #readRDS(file=paste0(here::here(),
    scale_y_continuous(expand = expansion(mult = c(0.01, 0.01)))
 
     
-p_471_icbe <- icbe_crisismaps(thiscrisis=471) #readRDS(file=paste0(here::here(), '/replication_paper/pnas_draft/crisismaps/p_metro_plot_471.Rds')) +
+p_471_icbe <- icbe_crisismaps(thiscrisis=471) #readRDS(file=paste0(here::here(), '/replication_paper/arxiv_draft/crisismaps/p_metro_plot_471.Rds')) +
     labs(
       #title = plot_title ,
       #subtitle = subtitle ,
@@ -1423,7 +1406,7 @@ p_precision_combined <- plot_grid(
 
 ratio=1.5
 height=18
-save_plot(file=paste0(here::here(), '/replication_paper/pnas_draft/p_precision_combined.png'),
+save_plot(file=paste0(here::here(), '/replication_paper/arxiv_draft/p_precision_combined.png'),
           p_precision_combined, base_height = 18, base_width = height*ratio)
 
 ```
@@ -1432,7 +1415,7 @@ save_plot(file=paste0(here::here(), '/replication_paper/pnas_draft/p_precision_c
 \onecolumn
 \begin{sidewaysfigure}[ht]
 \caption{Crisis Maps  \label{fig:p_precision_combined}}
-\centering{\includegraphics[width=24cm]{./p_precision_combined.png}}
+\centering{\includegraphics[width=22cm]{./p_precision_combined.png}}
 \end{sidewaysfigure}
 \clearpage
 \twocolumn
@@ -1571,25 +1554,26 @@ ICBe_events_agreed_markdown_embedded_sample  <- ICBe_events_agreed_markdown_embe
 library(cowplot)
 ICBe_events_agreed_markdown_embedded <- readRDS(paste0(here::here(), '/replication_paper/data/temp/ICBe_events_agreed_markdown_embedded.Rds'))
 
-value_means <- ICBe_events_agreed_markdown_embedded %>%
-               dplyr::select(UMAP1,UMAP2, contains("escalate"),contains("coop"),contains("sayintkind"), contains("thinkkind")) %>%
-               pivot_longer(cols=-c(UMAP1,UMAP2)) %>% filter(!is.na(value) & value!='') %>% 
-               mutate(value = value %>% str_split(";")) %>% 
-               unnest(value) %>% 
-               mutate(value = value %>% str_trim()) %>%
-               filter(!value %>% str_detect("sentence|^[0-9]")) %>%
+newcolors <- pals::glasbey()
+
+value_means <- ICBe_events_agreed_markdown_embedded %>% 
+               left_join(icb_events_long %>% 
+                           filter(varname_normalized %>% str_detect('escalate|coop|sayintkind|thinkkind')) %>%
+                           filter(!value_normalized %>% str_detect('^[0-9]*$'))) %>%
                mutate(color=NA) %>%
-               mutate(color=ifelse(name %>% str_detect("_escalate"),"red",color)) %>%
-               mutate(color=ifelse(name %>% str_detect("_deescalate"),"darkgreen",color)) %>%
-               mutate(color=ifelse(name %>% str_detect("uncoop|decreasecoop"),"purple",color)) %>%
-               mutate(color=ifelse(name %>% str_detect("_coop|_increasecoop"),"blue",color)) %>%
-               mutate(color=ifelse(name %>% str_detect("sayintkind"),"brown",color)) %>%
-               mutate(color=ifelse(name %>% str_detect("thinkkind"),"darkorange",color)) %>%
-               dplyr::select(-name) %>%
-               group_by(color, value) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("_escalate"),"red",color)) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("_deescalate"),"darkgreen",color)) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("uncoop|decreasecoop"),"purple",color)) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("_coop|_increasecoop"),"blue",color)) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("sayintkind"),"brown",color)) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("thinkkind"),"darkorange",color)) %>%
+               dplyr::select(-varname_normalized,-value_qcode,-varname_normalized,-crisis_text,-crisno,-sentence_number_int_aligned,-sentence_span_text,
+                             -actor_set,-value_markdown,-sentence_span_text_clean,-sentences_unique_sanitized) %>% # 
+               group_by(color, value_normalized) %>%
                mutate(n=n()) %>%
                filter(n>20) %>% #note require at least 20 examples of that tag
-               dplyr::summarise_all(median) 
+               dplyr::summarise_all(median) %>%
+              na.omit()
   
 value_normalized_colors <- value_means$color 
 names(value_normalized_colors) = value_means$value
@@ -1604,7 +1588,11 @@ p_semantic_embeddings <-
       theme_bw() +
       theme(legend.position = "none") + 
       geom_label(data=value_means,
-                 aes(x=UMAP2,y=UMAP1, fill = value %>% as.factor(), label=value, size=50), size = 2.5, inherit.aes=F, 
+                 aes(x=UMAP2,y=UMAP1,
+                     fill = value_normalized %>% as.factor(),
+                     label=value_normalized, size=50
+                     ), size = 2.5,
+                 inherit.aes=F, 
                  colour = "white", fontface = "bold", label.padding = unit(0.1, "lines")
                  ) +   
       #geom_label_repel(data=value_means,
@@ -1617,58 +1605,25 @@ p_semantic_embeddings <-
           subtitle = "Sentence Embedding Paraphrase-MPNET-base-v2, UMAP Projection ",
           caption = ""
       ) +
-     scale_color_manual(values = value_normalized_colors) +
+     #scale_color_manual(values = value_normalized_colors) +
      scale_fill_manual(values = value_normalized_colors) +
      scale_x_continuous(expand = c(0, 0)) +
      scale_y_continuous( expand = c(0, 0)) #+
      #coord_cartesian( xlim=c(0.75,6.5), ylim=c(7,12)) #+  #you can't do this because umap is stochastic and you'd have to pick by hand each time
      #coord_flip() 
 
-ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=12, height=8)
+ggsave(file=paste0(here::here(), '/replication_paper/arxiv_draft/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=12, height=8)
 
 #Now do the dendro
 library(ggdendro)
 #We actually need the raw embeddings
 
 #Rex Note to take only one per sentence
+value_normalized_colors <- value_means$color 
+names(value_normalized_colors) = value_means$value_normalized
 
-
-#This is unreasonably slow because it's large and in tidy. Couldn't do it every time if we wanted to.
-value_highdim <- ICBe_events_agreed_markdown_embedded %>%
-                 dplyr::select(starts_with("V",  ignore.case = F), contains("escalate"),contains("coop"),contains("sayintkind"), 
-                               contains("thinkkind"), crisno, sentence_number_int_aligned) %>% 
-                 pivot_longer(cols=-c(starts_with("V",  ignore.case = F), crisno, sentence_number_int_aligned) ) %>%
-                 filter(!is.na(value) & value!='') %>% #40,898
-                 filter(!value %>% str_detect("sentence|^[0-9]")) %>% 
-                 mutate(value = value %>% str_split(";")) %>% 
-                 unnest(value) %>% 
-                 mutate(value = value %>% str_trim())   %>% #
-                 mutate(color=NA) %>%
-                 mutate(color=ifelse(name %>% str_detect("_escalate"),"red",color)) %>%
-                 mutate(color=ifelse(name %>% str_detect("_deescalate"),"darkgreen",color)) %>%
-                 mutate(color=ifelse(name %>% str_detect("uncoop|decreasecoop"),"purple",color)) %>%
-                 mutate(color=ifelse(name %>% str_detect("_coop|_increasecoop"),"blue",color)) %>%
-                 mutate(color=ifelse(name %>% str_detect("sayintkind"),"brown",color)) %>%
-                 mutate(color=ifelse(name %>% str_detect("thinkkind"),"darkorange",color)) %>%
-                 dplyr::select(-name) %>%
-                 group_by(color, value) %>%
-                  mutate(n=n()) %>% 
-                 ungroup() %>%
-                 arrange(n, value) %>%
-                 filter(!duplicated( paste(crisno, sentence_number_int_aligned)) ) %>% #only take one per sentence to break mechanically induced correlations
-                 filter(n>20) 
-
-dim(value_highdim)
-
-value_highdim_medians <- value_highdim %>% 
-                           group_by(color, value) %>%
-                           dplyr::summarise_all(median) 
-  
-value_normalized_colors <- value_highdim_medians$color 
-names(value_normalized_colors) = value_highdim_medians$value
-
-m <- value_highdim_medians %>% dplyr::select(starts_with("V",  ignore.case = F)) %>% as.matrix() 
-rownames(m) <- value_highdim_medians$value
+m <- value_means %>% dplyr::select(starts_with("V",  ignore.case = F)) %>% as.matrix() 
+rownames(m) <- value_means$value_normalized
 d <- m %>% dist()
 hc <- hclust(d, method="ward.D2")
 library(ggplot2)
@@ -1678,11 +1633,13 @@ p_dendro <- ggplot() +
             geom_segment(data = segment(hcdata), 
                          aes(x = x, y = y, xend = xend, yend = yend)
             ) +
-            geom_text(data = label(hcdata) %>% mutate(color=value_highdim_medians$color ), 
-                      aes(x = x, y = y, label = label, hjust = 0, color=color[hc$order]), 
+            geom_text(data = ggdendro::label(hcdata) %>% mutate(color=value_normalized_colors[hcdata$labels$label] ), 
+                      aes(x = x, y = y, label = label, hjust = 0,
+                          color=label %>% as.factor()), 
                       size = 3
             ) +
             coord_flip() +
+            scale_color_manual(values = value_normalized_colors) +
             scale_x_continuous(expand = c(0.02, 0.00, 0.02, 0.0) ) +
             scale_y_reverse( expand = c(0.1, 0.0, 0.0, 5.0)) +  #limits = c(-10, 10),
             theme_bw() +
@@ -1700,7 +1657,7 @@ p_combined <- plot_grid(
   align = "v", ncol = 2, rel_widths = c(3, 1)  )
 #p_combined
 
-ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_semantic_embeddings_dendro.png'), plot = p_combined, width=12, height=10)
+ggsave(file=paste0(here::here(), '/replication_paper/arxiv_draft/p_semantic_embeddings_dendro.png'), plot = p_combined, width=12, height=10)
 
 
 ```
@@ -1710,7 +1667,7 @@ ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_semantic_embed
 \begin{figure}[H]
 \caption{ICBe event codings in comparison to Semantic Embeddings from source sentences\label{fig:semantic_embeddings}}
 \centering{\includegraphics[width=17cm]{./p_semantic_embeddings_dendro.png}}
-\textit{Notes: Dots represent individual ICB narrative sentences, as embeded by the Paraphrase-MPNET-base-v2 large language model and flattened into two dimensions with UMAP. Text labels reflect individual leaves of the ICBe ontology, and colors represent intermediate branches of the ontology. Label placement is the median of all of the sentences that tag was applied to by the coders. The dendrogram shows hiearchical clustering of the tags. If ICBe precision is high, the sentences tags were applied to ought to say similar things, and the intended shape of the ontology ought to visually recognizable. }
+\textit{Notes: Dots represent individual ICB narrative sentences, as embeded by the Paraphrase-MPNET-base-v2 large language model and flattened into two dimensions with UMAP. Text labels reflect individual leaves of the ICBe ontology, and colors represent intermediate branches of the ontology. Label placement is the median of all of the sentences that tag was applied to by the coders. The dendrogram shows hiearchical clustering of the tags. If ICBe precision is high, the sentences tags were applied to ought to say similar things, and the intended shape of the ontology ought to be visually recognizable. }
 \end{figure}
 \clearpage
 \twocolumn
@@ -1719,6 +1676,8 @@ Finally, how does ICBe's precision compare to the existing state of the art? The
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
 
+if(fromscratch){
+
 library(ggplot2)
 library(readr)
 library(dplyr)
@@ -1726,7 +1685,7 @@ library(tidyr)
 library(stringr)
 library(ggtext)
 
-icews_clean_subset_top10_day <- read_tsv(here::here("replication_paper", "data", "out", "icews_clean_471_lowest.tsv"))
+icews_clean_subset_top10_day <- read_tsv(here::here("replication_paper", "data", "out", "icews_clean_471_lowest.tsv")) 
 
 keys <- c("sign formal agreement") #"express accord", #,"declare truce, ceasefire"
 events1 <- icews_clean_subset_top10_day %>% 
@@ -1806,9 +1765,10 @@ p_ICEWS <- plot_grid(
            align = "v", ncol = 1 , rel_widths = c(1) )
 
 save_plot(file=paste0(here::here(),
-                      '/replication_paper/pnas_draft/p_precision_icews.png'),
+                      '/replication_paper/arxiv_draft/p_precision_icews.png'),
           p_ICEWS, base_height = 10, base_width = 14)
 
+}
 
 ```
 
@@ -1853,7 +1813,19 @@ We investigated event abstraction from narratives describing key historical epis
 We release several open-source products along with supporting code and documentation to further advance the study of IR, event extraction, and natural language processing. The first is the International Crisis Behavior Events (ICBe) dataset, an event-level aggregation of what took place during the crises identified by the ICB project. These data are appropriate for statistical analysis of hard questions about the sequencing of events (e.g. escalation and de-escalation of conflicts). Second, we provide a coder-level disaggregation with multiple codings of each sentence by experts and undergrads that allows for the introduction of uncertainty and human interpretation of events. Further, we release a direct mapping from the codings to the source text at the sentence level as a new resource for natural language processing. Finally, we provide a companion website that incorporates detailed visualizations of all of the data introduced here (www.crisisevents.org).
 
 
-<!-- Leave these lines as they are at the end of your .Rmd file to ensure placement of methods & acknowledgements sections before the references-->
+Acknowledgements {#format .unnumbered}
+========================================
+  We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgment of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day.  We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for generous feedback. Thank you to the cPASS research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
+  
+Author Contributions {#format .unnumbered}
+========================================
+  Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.;  Validation: R.W.D., T.L.S.;  Formal Analysis: R.W.D., T.L.S.;  Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.;  Data Curation: R.W.D., D.Q., T.L.S., J.W.;  Writing - Original Draft: R.W.D., T.L.S.;  Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.;
+  Visualization: R.W.D., T.L.S.;  Supervision: E.G.;  Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.;  Funding Acquisition: E.G., J.L.
+
+&nbsp;
+
+<!-- PNAS lines Leave these lines as they are at the end of your .Rmd file to ensure placement of methods & acknowledgements sections before the references
 \showmatmethods
 \showacknow
 \pnasbreak
+-->

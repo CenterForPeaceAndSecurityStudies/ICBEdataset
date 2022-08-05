@@ -1,0 +1,49 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=latex 2022.7.22)  23 JUL 2022 20:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**preamble.tex
+(./preamble.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-15>)
+*
+(Please type a command or say `\end')
+*\end
+
+*\end
+! Missing \endcsname inserted.
+<to be read again> 
+                   \end/ 
+<*> \end
+        
+? \emd
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? \end
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+! TeX capacity exceeded, sorry [input stack size=10000].
+\use_ii:nn #1#2->#2
+                   
+<*> \end
+        
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
+
+ 
+Here is how much of TeX's memory you used:
+ 17 strings out of 479984
+ 391 string characters out of 5887730
+ 301361 words of memory out of 5000000
+ 18318 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 10000i,0n,10001p,44b,10s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.

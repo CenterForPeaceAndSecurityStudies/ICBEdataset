@@ -1,0 +1,6 @@
+PWD /mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/pnas_draft
+INPUT /home/skynet3/.TinyTeX/texmf.cnf
+INPUT /home/skynet3/.TinyTeX/texmf-dist/web2c/texmf.cnf
+INPUT /home/skynet3/.TinyTeX/texmf-var/web2c/pdftex/latex.fmt
+INPUT preamble.tex
+OUTPUT preamble.log
