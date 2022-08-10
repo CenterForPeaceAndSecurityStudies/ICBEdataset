@@ -22,7 +22,7 @@
     -   <a href="#external-datasets" id="toc-external-datasets">External
         datasets</a>
     -   <a href="#appendix" id="toc-appendix">Appendix</a>
-    -   <a href="#license" id="toc-license">License</a>
+    -   <a href="#license-and-doi" id="toc-license-and-doi">License and DOI</a>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -206,7 +206,7 @@ Manipulation Program.
 The v1.1 Online Appendix can be downloaded
 [here](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/replication_paper/arxiv_draft/appendix.pdf).
 
-### License
+### License and DOI
 
 This work is licensed under a [Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International
@@ -214,3 +214,5 @@ License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 [![CC BY-NC-SA
 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![DOI](https://zenodo.org/badge/450249483.svg)](https://zenodo.org/badge/latestdoi/450249483)
