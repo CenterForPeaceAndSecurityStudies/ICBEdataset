@@ -67,6 +67,7 @@ lead_author_surname: Douglass
 #  Please declare any conflict of interest here.
 
 #Please provide an abstract of no more than 250 words in a single paragraph. Abstracts should explain to the general reader the major contributions of the article. References in the abstract must be cited in full within the abstract itself and cited in the text.
+
 abstract: |
   How do international crises unfold? We conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on a very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, online appendix, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org and the github repository.
 
@@ -194,7 +195,6 @@ options(gargle_oauth_email = TRUE)
 ```
 
 
-
 ```{r, include=FALSE}
 # options(tinytex.verbose = TRUE)
 ```
@@ -292,7 +292,7 @@ ft_cuba_precision <- temp %>%
                       ftExtra::colformat_md(j = 3, part="body")
 #ft_cuba_precision
 
-ft_cuba_precision %>% save_as_image(path=here::here("replication_paper","arxiv_draft","case_study_cuban_precision.png"), zoom=1) # webshot = "webshot2"
+ft_cuba_precision %>% save_as_image(path=here::here("replication_paper","pnas_draft","case_study_cuban_precision.png"), zoom=1) # webshot = "webshot2"
 temp <- NULL
 
 
@@ -411,7 +411,7 @@ litreview_ft_pnas <- lit_review_alt %>%
       #Banding
       bg( i = bands  , j=3:k, part = "body", bg = "#EFEFEF") %>% 
   
-      flextable::rotate(i=2, , j=3:k, rotation="tbrl",part="header") %>%
+      flextable::rotate(i=2, j=3:k, rotation="tbrl",part="header") %>%
       flextable::align(align = "center", part = "body") %>%
       flextable::align(align = "center", part = "header")   %>%
 
@@ -475,9 +475,9 @@ litreview_ft_pnas %>%
     flextable::set_caption(caption = "Ontological coverage of ICBe versus existing State of the Art") %>%
    flextable::flextable_to_rmd()
 
-#litreview_ft_pnas   %>% 
-#    #flextable::flextable_to_rmd()
-#    save_as_image(path=here::here("replication_paper", "arxiv_draft", "litreview_ft.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+litreview_ft_pnas   %>% 
+    #flextable::flextable_to_rmd()
+    save_as_image(path=here::here("replication_paper", "pnas_draft", "litreview_ft.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
 
 
 ```
@@ -502,6 +502,9 @@ avg_coders_per_crisis <- icb_long_clean %>% dplyr::filter(crisno != 196) %>% dpl
 avg_coders_per_sentence <- icb_long_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_sent = paste(crisno, sentence_number_int_aligned)) %>% dplyr::select(cris_sent, email_id) %>% unique() %>% dplyr::count(cris_sent) %>% dplyr::select(n) %>% lapply(mean)
 
 ```
+
+
+
 
 ICBe Coding Process {.unnumbered}
 ========================================
@@ -663,7 +666,7 @@ ft <- temp1   %>%
 
 ft   %>% 
     #flextable::flextable_to_rmd()
-    save_as_image(path=here::here("replication_paper", "arxiv_draft", "case_study_cuban_recall.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+    save_as_image(path=here::here("replication_paper", "pnas_draft", "case_study_cuban_recall.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
 
 #Ok rather than try to match up we're going to do this by hand now
 
@@ -671,6 +674,7 @@ ft   %>%
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
 
+library(dplyr)
 library(googlesheets4) #Do this high up so you get the prompt early
 library(lubridate, warn.conflicts = FALSE)
 case_study_crimea <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1YesAx1CkYCgrEi_WVJ9aho60HesWA6p-3XMma9IzBrI/edit?usp=sharing", 
@@ -772,7 +776,7 @@ ft <- temp2  %>%
 
 ft   %>% 
     #flextable::flextable_to_rmd()
-    save_as_image(path=here::here("replication_paper", "arxiv_draft", "case_study_crimea_recall.png"),
+    save_as_image(path=here::here("replication_paper", "pnas_draft", "case_study_crimea_recall.png"),
                   zoom=1, webshot = "webshot2") # webshot = "webshot2"
 
 
@@ -898,7 +902,7 @@ ft <- temp3  %>%
 
 ft   %>% 
     #flextable::flextable_to_rmd()
-    save_as_image(path=here::here("replication_paper", "arxiv_draft", "recall_cuban_and_crimea.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+    save_as_image(path=here::here("replication_paper", "pnas_draft", "recall_cuban_and_crimea.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
 
 
 
@@ -949,7 +953,7 @@ p_recall <- temp3_long %>% ggplot(aes(x=log(docs), y=value, color=name)) +
 
 #p_recall
 
-ggsave(file=paste0(here::here(), '/replication_paper/arxiv_draft/p_recall.png'),
+ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_recall.png'),
        plot = p_recall ,
        width=5, height=3.0)
 
@@ -957,11 +961,11 @@ library(magick)
 
 
 
-tiger <- image_read(here::here("replication_paper", "arxiv_draft", "recall_cuban_and_crimea.png"))
-tiger2 <- image_read(paste0(here::here(), '/replication_paper/arxiv_draft/p_recall.png'))
+tiger <- image_read(here::here("replication_paper", "pnas_draft", "recall_cuban_and_crimea.png"))
+tiger2 <- image_read(paste0(here::here(), '/replication_paper/pnas_draft/p_recall.png'))
 
 combined <- image_composite(tiger, image_scale(tiger2, "x290"), offset = "+475+650")
-image_write(combined, here::here("replication_paper", "arxiv_draft", "recall_cuban_and_crimea_andcounts.png"))
+image_write(combined, here::here("replication_paper", "pnas_draft", "recall_cuban_and_crimea_andcounts.png"))
 
 ```
 
@@ -1406,7 +1410,7 @@ p_precision_combined <- plot_grid(
 
 ratio=1.5
 height=18
-save_plot(file=paste0(here::here(), '/replication_paper/arxiv_draft/p_precision_combined.png'),
+save_plot(file=paste0(here::here(), '/replication_paper/pnas_draft/p_precision_combined.png'),
           p_precision_combined, base_height = 18, base_width = height*ratio)
 
 ```
@@ -1612,7 +1616,7 @@ p_semantic_embeddings <-
      #coord_cartesian( xlim=c(0.75,6.5), ylim=c(7,12)) #+  #you can't do this because umap is stochastic and you'd have to pick by hand each time
      #coord_flip() 
 
-ggsave(file=paste0(here::here(), '/replication_paper/arxiv_draft/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=12, height=8)
+ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=12, height=8)
 
 #Now do the dendro
 library(ggdendro)
@@ -1657,7 +1661,7 @@ p_combined <- plot_grid(
   align = "v", ncol = 2, rel_widths = c(3, 1)  )
 #p_combined
 
-ggsave(file=paste0(here::here(), '/replication_paper/arxiv_draft/p_semantic_embeddings_dendro.png'), plot = p_combined, width=12, height=10)
+ggsave(file=paste0(here::here(), '/replication_paper/pnas_draft/p_semantic_embeddings_dendro.png'), plot = p_combined, width=12, height=10)
 
 
 ```
@@ -1765,7 +1769,7 @@ p_ICEWS <- plot_grid(
            align = "v", ncol = 1 , rel_widths = c(1) )
 
 save_plot(file=paste0(here::here(),
-                      '/replication_paper/arxiv_draft/p_precision_icews.png'),
+                      '/replication_paper/pnas_draft/p_precision_icews.png'),
           p_ICEWS, base_height = 10, base_width = 14)
 
 }

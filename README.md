@@ -8,18 +8,20 @@
 -   <a href="#citation" id="toc-citation">Citation:</a>
 -   <a href="#replication-code-and-analysis"
     id="toc-replication-code-and-analysis">Replication Code and Analysis</a>
-    -   <a href="#self-contained-package" id="toc-self-contained-package">Self
-        Contained Package</a>
--   <a href="#rmarkdown-files" id="toc-rmarkdown-files">RMarkdown files</a>
-    -   <a href="#replication-data" id="toc-replication-data">Replication
-        Data</a>
-    -   <a href="#replication-paper" id="toc-replication-paper">Replication
-        Paper</a>
+-   <a href="#data-preparation" id="toc-data-preparation">data
+    preparation</a>
+    -   <a href="#replication_corpus"
+        id="toc-replication_corpus">replication_corpus</a>
+    -   <a href="#replication_data"
+        id="toc-replication_data">replication_data</a>
+    -   <a href="#replication_paper"
+        id="toc-replication_paper">replication_paper</a>
 -   <a href="#data-inputs" id="toc-data-inputs">Data inputs:</a>
     -   <a href="#icbe-preparation" id="toc-icbe-preparation">ICBe
         preparation</a>
     -   <a href="#external-datasets" id="toc-external-datasets">External
         datasets</a>
+    -   <a href="#appendix" id="toc-appendix">Appendix</a>
     -   <a href="#license" id="toc-license">License</a>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -56,15 +58,17 @@ reconciling intercoder agreement. The dataset is available in long and
 wide format. The data is also available in .tsv format in the same
 folders.
 
--   [ICBe_V1_long_agreement.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed.Rds)
-    -   All coded values and information about how often they were
-        selected by coders.  
--   [ICBe_V1_long_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_long_agreed.Rds)
-    -   `ICBe_V1_long_agreement.Rds` filtered down only to those codings
-        that were agreed upon (see Algorithm 1 in paper).
--   [ICBe_V1_wide_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed.Rds)
-    -   `ICBe_V1_long_agreed.Rds` in wide form where each row is an
-        event.
+-   [ICBe_V1_long.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_long_agreed.Rds)
+-   [ICBe_V1.1_long_agreement.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed.Rds)
+    -   All coded values individually along with information about how
+        often they were selected by coders.  
+    -   `ICBe_V1_long.Rds` filtered down only to those codings that were
+        agreed upon (see Algorithm 1 in paper).
+-   [ICBe_V1.1_events_agreed_long.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed.Rds)
+    -   [ICBe_V1.1_events_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed_long.Rds)
+
+        -   `ICBe_V1.1_events_agreed.Rds` in wide form where each row is
+            an event.
 
 The coding and cleaning process are described in the paper with
 additional information and details about the variables in the
@@ -96,59 +100,64 @@ International Crises.” arXiv:2202.07081 \[cs, stat\].
 
 ## Replication Code and Analysis
 
-### Self Contained Package
+A description of the file and folders in the repository used to create
+the datasets, tables, figures.
 
-All of the files used to create the datasets, tables, figures.
+## data preparation
 
-## RMarkdown files
+### replication_corpus
 
-### Replication Data
+-   download_and_clean
+    -   creates a succinct rds of the crisis narratives:
+        `.replication_corpus/data/out/icb_corpus_V1.0_May_16_2022`
+
+### replication_data
 
 -   01_compile_saves_and_align
     -   compiles the original coding files into
-        `./replication_data/in/icb_coder_crisis_sentence_event.Rds`. The
-        original coding files are not on the public repository. Public
-        users will load `icb_coder_crisis_sentence_event.Rds` directly.
+        `./replication_data/in/icb_long_spans.Rds`. The original coding
+        files are not on the public repository. Public users will load
+        `icb_long_spans.Rds` directly.
     -   aligns codings from multiple GUI versions on similar source
         sentences
-    -   creates `./replication_data/temp/ICBe_V1_long_unclean.Rds.Rds`
-        (not included in online repo)
 -   02_format_and_clean
     -   applies cleaning dictionaries to create
-        `./replication_data/temp/ICBe_V1_long_clean.Rds` and
-        `./replication_data/temp/ICBe_V1_long_clean.Rds` (not included
-        in online repo)
+        `./replication_data/out/ICBe_V1.1_long_clean.Rds`.
 -   03_aggregation
     -   applies aggregation algorithm to create
-        `./replication_data/out/ICBe_V1_long_agreement.Rds`,
-        `./replication_data/out/ICBe_V1_long_agreed.Rds`,
-        `./replication_data/out/ICBe_V1_wide_agreed.Rds`.
+        `./replication_data/out/ICBe_V1.1_long_agreement.Rds`,
+        `ICBe_V1.1_long.Rds`,
+        `./replication_data/out/ICBe_V1.1_events_agreed.Rds`,
+        `./replication_data/out/ICBe_V1.1_events_agreed_long.Rds`.
+-   04_validation
+    -   applies iconography to crises and events to create
+        `ICBe_V1.1_crises_markdown.Rds` and
+        `ICBe_V1.1_events_agreed_markdown.Rds`
 
-### Replication Paper
+### replication_paper
 
--   04_ICBEdataset_paper_litreviewtable
-    -   creates the table `/tables/litreview_ft.Rds`.
--   05_ICBEdataset_paper_PlotInterCoderAgreement
-    -   creates the figure `figures/p_percent_chose_tag_by_concept.png`
--   06_ICBEdataset_figure_metro_maps
-    -   creates the metroplot Rds files in `/figures/metro_plots/.`.
--   07_ICBEdataset_figure_semantic_embeddings
-    -   creates the figure `/figures/p_semantic_embeddings.png` and the
-        `/tables/codings_wide_agreed_embeded_stratified_sample_ft.Rds`
-        and
-        `/tables/codings_wide_agreed_embeded_stratified_sample_ft_smaller.Rds`
--   08_CaseStudy196
-    -   creates Cuban Missile Crisis comparison table
-        `/tables/CaseStudy196_ft.Rds`.
--   09_CaseStudy426
-    -   creates DRC Civil War comparison table
-        `/tables/CaseStudy426_ft.Rds`.
--   10_ICBEdataset_paper_figure_prep
-    -   creates the metroplot pngs in `/figures/.`.
--   11_ICBEdataset_paper_appendixICBCrises
-    -   creates `/tables/ft_crisis_text_counts.Rds`.
--   12_ICBEdataset_paper_appendixVerbMeanings
-    -   creates `/tables/verbs_sentence_wordnet_top_ft.Rds`
+The figures are created in Rmd file for the paper
+(./replication_paper/pnas_draft/ICBe_pnas_submission_rmd.Rmd). In some
+cases they have been transformed to other formats via GNU Image
+Manipulation Program.
+
+-   `case_study_cuban_precision.png`
+-   `recall_cuban_and_crimea_andcounts.png`
+    -   Draws from the [Cuban Missile Automated Case Study
+        googlesheet](https://docs.google.com/spreadsheets/d/1NuRWFB1HEbQbJu_JoEzJ9WYk7kfwwCryF7wBfKPT6uc/edit?usp=sharing)
+        and the [Crimea-Donbas Automated Case Study (redone)
+        googlesheet](https://docs.google.com/spreadsheets/d/1YesAx1CkYCgrEi_WVJ9aho60HesWA6p-3XMma9IzBrI/edit?usp=sharing).
+    -   uses the iconographry in `./replication_data/in/flags_small/`
+-   `p_precision_combined.png`
+    -   combines metro maps of the two case studies using
+        ICBe_V1.1_events_agreed.Rds
+-   `p_semantic_embeddings_dendro.png`
+    -   plot of semantic embeddings of
+        ICBe_V1.1_events_agreed_markdown.Rds
+-   `p_precision_icews.png`
+    -   mapping of icews using
+        `./replication_paper/data/out/icews_clean_471_lowest.tsv`
+        (created in `./replication_paper/pnas_draft/appendix.Rmd`)
 
 ## Data inputs:
 
@@ -165,19 +174,21 @@ All of the files used to create the datasets, tables, figures.
 ### External datasets
 
 -   [The ICB project](https://sites.duke.edu/icbdata/)
-    -   System-level (./data/icb1v14.Rds) and Actor-level
-        (./data/icb2v14.Rds) datasets
+    -   System-level (icb1v14.csv) and Actor-level (icb2v14.csv)
+        datasets
     -   Dyadic-Level Crisis Data
         ([source](https://sites.duke.edu/icbdata/data-collections/))
 -   [Militarized Interstate Disputes
     (MID)](https://correlatesofwar.org/data-sets/MIDs) version 5.01 at
-    the incident level (MIDI 5.01) and incident-participant level (MIDIP
-    5.01) converted to Rds.
+    the incident level (MIDI_5.01.Rds) and incident-participant level
+    (MIDIP_5.01.Rds) converted to Rds.
 -   [UCDP Georeferenced Event Dataset (GED) Global version
     21.1](https://ucdp.uu.se/downloads/index.html#ged_global)
--   cameo.eventcode.txt adapted from [CAMEO Conflict and Mediation Event
+    (GEDEvent_v23_1.RData)
+-   Cameo Event Codes adapted from [CAMEO Conflict and Mediation Event
     Observations
     Codebook](https://parusanalytics.com/eventdata/cameo.dir/CAMEO.09b6.pdf)
+    (cameo.eventcode.txt)
 -   [Phoenix Event
     data](https://databank.illinois.edu/datasets/IDB-2796521)
 -   [Terrier event data](https://osf.io/4m2u7/files/)
@@ -189,6 +200,11 @@ All of the files used to create the datasets, tables, figures.
     -   too large to include in the github repository
     -   to replicate, download folder ‘dataverse_files’ to
         ICBEdata/replication_paper/data/ignore/ and decompress
+
+### Appendix
+
+The v1.1 Online Appendix can be downloaded
+[here](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/raw/master/replication_paper/arxiv_draft/appendix.pdf).
 
 ### License
 
