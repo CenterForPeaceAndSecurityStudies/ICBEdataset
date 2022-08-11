@@ -58,17 +58,14 @@ reconciling intercoder agreement. The dataset is available in long and
 wide format. The data is also available in .tsv format in the same
 folders.
 
--   [ICBe_V1_long.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_long_agreed.Rds)
--   [ICBe_V1.1_long_agreement.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed.Rds)
+-   [ICBe_V1.1_long.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1.1_long.Rds)
+-   [ICBe_V1.1_long_agreement.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1.1_long_agreement.Rds)
     -   All coded values individually along with information about how
         often they were selected by coders.  
-    -   `ICBe_V1_long.Rds` filtered down only to those codings that were
-        agreed upon (see Algorithm 1 in paper).
--   [ICBe_V1.1_events_agreed_long.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed.Rds)
-    -   [ICBe_V1.1_events_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1_wide_agreed_long.Rds)
-
-        -   `ICBe_V1.1_events_agreed.Rds` in wide form where each row is
-            an event.
+    -   `ICBe_V1.1_long.Rds` filtered down only to those codings that
+        were agreed upon (see Algorithm 1 in paper).
+-   [ICBe_V1.1_events_agreed_long.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1.1_events_agreed_long.Rds)
+-   [ICBe_V1.1_events_agreed.Rds](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/blob/master/replication_data/out/ICBe_V1.1_events_agreed.Rds)
 
 The coding and cleaning process are described in the paper with
 additional information and details about the variables in the
