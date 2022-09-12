@@ -35,6 +35,9 @@ bibliography: paper.bib
 biblio-style: unsrt
 output: rticles::arxiv_article
 
+abstract: |
+  This is the online appendix to the article "Introducing ICBe: Very High Recall and Precision Event Extraction from Narratives about International Crises". In the article, we conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on a very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, online appendix, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org and the github repository.
+
 
 header-includes:
 #  - \usepackage{xr} \externaldocument{appendix} #External references from the appendix
@@ -61,9 +64,12 @@ header-includes:
   - \usepackage[normalem]{ulem}
   - \usepackage{makecell}
   - \usepackage{titlesec}
-#  - \usepackage[parfill]{parskip}
+  - \usepackage[parfill]{parskip}
   - \usepackage{makecell}
   - \usepackage{graphicx}
+  - \usepackage{rotating}
+  - \usepackage{float}
+  # - \usepackage{showframe}
 #  - \usepackage{caption}
 #  - \usepackage[capposition=top]{floatrow}
 #  - \titleformat{\subsubsection}{\normalfont\normalsize\itshape}{\thesubsubsection}{1em}{}
@@ -73,7 +79,7 @@ header-includes:
   - \usepackage{cellspace}
   - \setlength\cellspacetoplimit{0.8ex}
   - \renewcommand{\arraystretch}{0.8}
-  - \AtBeginEnvironment{tabular}{\singlespacing}
+#  - \AtBeginEnvironment{tabular}{\singlespacing}
   - \AtBeginEnvironment{lltable}{\singlespacing}
 #  - \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
 #  - \usepackage{subfigure}
@@ -86,9 +92,10 @@ header-includes:
   - \usepackage{amsmath}
 #  - \usepackage[backend = biber]{biblatex} #added in hopes of getting a bbl
 #https://tex.stackexchange.com/questions/131646/algorithm2e-command-algorithm-already-defined
----
+  - \usepackage{changepage}
 
-\newpage 
+---
+\newpage
 \tableofcontents 
 \newpage
 
@@ -1120,7 +1127,7 @@ ft_cuba_recall %>% save_as_image(path=here::here("replication_paper", "political
 
 \begin{figure}[H]
 \caption{ Cuban Missile Crisis Synthetic Narrative Recall Matches \label{fig:ft_cuba_recall}}
-\centering{\includegraphics[height=21cm]{./ft_cuba_recall.png}}
+\centering{\includegraphics[height=19cm]{./ft_cuba_recall.png}}
 \end{figure}
 \clearpage
 
@@ -1184,12 +1191,12 @@ ft_crimea_recall %>% save_as_image(path=here::here("replication_paper", "politic
 
 \begin{figure}[H]
 \caption{ Crimea-Donbas Synthetic Narrative Recall Matches \label{fig:ft_crimea_recall}}
-\centering{\includegraphics[height=21cm]{./ft_crimea_recall.png}}
+\centering{\includegraphics[height=19cm]{./ft_crimea_recall.png}}
 \end{figure}
 \clearpage
 
 # Appendix D: Precision
-## Figure D1 Crimea-Donbos 
+## Figure D1 Crimea-Donbas 
 \hphantom{em}
 
 ```{r crimea case study precision, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
@@ -1274,7 +1281,7 @@ if(fromscratch){
 \clearpage
 
 \begin{figure}[H]
-\centering{\includegraphics[height=21cm]{./case_study_crimea_precision_part2.png}}
+\centering{\includegraphics[height=11cm]{./case_study_crimea_precision_part2.png}}
 \end{figure}
 \clearpage
 
@@ -1368,10 +1375,12 @@ ft_sample_precision_precision4 %>% save_as_image(path=here::here("replication_pa
 
 ```
 
+<!-- current -->
+
 \hphantom{em}
 \begin{figure}[H]
 \caption{ Stratified Sentence Examples  \label{fig:ft_sample_precision_precision1}}
-\centering{\includegraphics[height=21cm]{"./ft_sample_precision_precision1.png"}}
+\centering{\includegraphics[height=15cm]{"./ft_sample_precision_precision1.png"}} 
 \end{figure}
 \clearpage
 
@@ -1395,8 +1404,6 @@ ft_sample_precision_precision4 %>% save_as_image(path=here::here("replication_pa
 \clearpage
 
 ## Figure D3 Crisis Maps Cuban Missiles
-
-\hphantom{em}
 
 ```{r crisis maps common functions, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
 
@@ -3939,9 +3946,12 @@ save_plot(file=paste0(here::here(), '/replication_paper/political_analysis_draft
 }
 ```
 
-\begin{sideways}%[htbp]
-\centering{\includegraphics[width=20cm]{./p_196_combined.png}}
-\end{sideways}
+\begin{sidewaysfigure}[ht]
+\caption{Crisis Maps - Cuban Missiles \label{fig:p_196_combined}}
+\centering{\includegraphics[width=0.8\textwidth]{./p_196_combined.png}}
+\end{sidewaysfigure}
+\clearpage
+
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
@@ -3953,10 +3963,9 @@ if(fromscratch){
 ```
 
 
-\hphantom{em}
 \begin{sidewaysfigure}[ht]
 \caption{Crisis Maps - Cuban Missiles - Phoenix Disaggregated \label{fig:p_phoenix_plot_lv0_196}}
-\centering{\includegraphics[width=20cm]{./p_phoenix_plot_lv0_196.png}}
+\centering{\includegraphics[width=0.9\textwidth]{./p_phoenix_plot_lv0_196.png}}
 \end{sidewaysfigure}
 \clearpage
 
@@ -4037,6 +4046,10 @@ save_file=paste0(here::here(), '/replication_paper/political_analysis_draft/p_ic
 p_471_icews <- readRDS(save_file) 
 
 
+
+save_plot(file=paste0(here::here(), '/replication_paper/political_analysis_draft/p_471_mids.png'),
+          p_471_mids, base_height = 18, base_width = 13.5)
+
 library(cowplot)
 p_471_combined <- 
            plot_grid(
@@ -4044,8 +4057,8 @@ p_471_combined <-
            p_471_mids +
            theme(plot.margin=unit(c(0,0,0,0),"in")) +
            scale_x_continuous(expand = expansion(mult = c(0.2, 0.2))) +
-           scale_y_continuous(expand = expansion(mult = c(0.15, 0.15))) + ylab('') , 
-   
+           scale_y_continuous(expand = expansion(mult = c(0.15, 0.15))) + ylab('') ,
+
            p_471_phoenix +
            theme(plot.margin=unit(c(0,0,0,0),"in")) + theme(legend.position="none") + ylab('') , #+
            #scale_x_continuous(expand = expansion(mult = c(0.2, 0.2))) +
@@ -4062,15 +4075,20 @@ p_471_combined <-
 )
 
 save_plot(file=paste0(here::here(), '/replication_paper/political_analysis_draft/p_471_combined.png'),
-          p_471_combined, base_height = 12, base_width = 25)
+          p_471_combined, base_height = 14, base_width = 23)
 }
 
 ```
 
+<!-- \begin{figure}[H] -->
+<!-- \caption{Crisis Map: Cuban Missile Crisis \label{fig:p_471_mids.png}} -->
+<!-- \centering{\includegraphics[width=17cm]{./p_471_mids.png}} -->
+<!-- \end{figure} -->
+
 \hphantom{em}
 \begin{sidewaysfigure}[ht]
 \caption{Crisis Maps - Crimea-Donbas \label{fig:p_471_combined}}
-\centering{\includegraphics[width=19cm]{./p_471_combined.png}}
+\includegraphics[width=0.9\textwidth]{./p_471_combined.png}
 \end{sidewaysfigure}
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
@@ -4086,7 +4104,7 @@ if(fromscratch){
 \hphantom{em}
 \begin{sidewaysfigure}[ht]
 \caption{Crisis Maps - Crimea-Donbas Phoenix Disaggregated \label{fig:p_phoenix_plot_lv0_471}}
-\centering{\includegraphics[width=20cm]{./p_phoenix_plot_lv0_471.png}}
+\centering{\includegraphics[width=0.75\textwidth]{./p_phoenix_plot_lv0_471.png}}
 \end{sidewaysfigure}
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
