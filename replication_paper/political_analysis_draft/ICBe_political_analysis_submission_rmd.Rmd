@@ -983,7 +983,7 @@ image_write(combined, here::here("replication_paper", "political_analysis_draft"
 Precision
 ========================================
 
-The other side of event measurement is precision, the degree to which a sequence of events correctly and usefully describes the information in history, $Pr(H|E)$. It does little good to recall a historical event but too vaguely (e.g. MIDs describes the Cuban Missile crisis as a blockade, a show of force, and a stalemate) or with too much error (e.g. ICEWS records 263 "Detonate Nuclear Weapons" events between 1995-2019) to be useful for downstream applications. ICBe's ontology and coding system is designed to strike a balance so that the most important information is recovered accurately but also abstracted to a level that is still useful and interpretable. You should be able to lay out events of a crisis on a timeline, as in Figure 3 and Figure 4, and read off the macro structure of an episode from each individual move. We call this visualization a crisis map, a directed graph intersected with a timeline, and provide crisis maps for every event dataset for each case study (SI Appendix, Fig. D3 and D4) and all crises on the companion website.
+The other side of event measurement is precision, the degree to which a sequence of events correctly and usefully describes the information in history, $Pr(H|E)$. It does little good to recall a historical event but too vaguely (e.g. MIDs describes the Cuban Missile crisis as a blockade, a show of force, and a stalemate) or with too much error (e.g. ICEWS records 263 "Detonate Nuclear Weapons" events between 1995-2019) to be useful for downstream applications. ICBe's ontology and coding system is designed to strike a balance so that the most important information is recovered accurately but also abstracted to a level that is still useful and interpretable. You should be able to lay out events of a crisis on a timeline, as in Figure 3, and read off the macro structure of an episode from each individual move. We call this visualization a crisis map, a directed graph intersected with a timeline, and provide crisis maps for every event dataset for each case study (SI Appendix, Fig. D3 and D4) and all crises on the companion website.
 
 ```{r crisis map function, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
@@ -1452,10 +1452,10 @@ We take the same approach here in Figure 5, selecting four specific CAMEO event 
 \centering{\includegraphics[width=17cm]{./p_196_icbe.png}}
 \end{figure}
 
-\begin{figure}[H]
-\caption{Crisis Map: Crimea-Donbas  \label{fig:p_471_icbe}}
-\centering{\includegraphics[width=17cm]{./p_471_icbe.png}}
-\end{figure}
+<!-- \begin{figure}[H] -->
+<!-- \caption{Crisis Map: Crimea-Donbas  \label{fig:p_471_icbe}} -->
+<!-- \centering{\includegraphics[width=17cm]{./p_471_icbe.png}} -->
+<!-- \end{figure} -->
 
 
 ```{r eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
@@ -1843,27 +1843,31 @@ We investigated event abstraction from narratives describing key historical epis
 We release several open-source products along with supporting code and documentation to further advance the study of IR, event extraction, and natural language processing. The first is the International Crisis Behavior Events (ICBe) dataset, an event-level aggregation of what took place during the crises identified by the ICB project. These data are appropriate for statistical analysis of hard questions about the sequencing of events (e.g. escalation and de-escalation of conflicts). Second, we provide a coder-level disaggregation with multiple codings of each sentence by experts and undergrads that allows for the introduction of uncertainty and human interpretation of events. Further, we release a direct mapping from the codings to the source text at the sentence level as a new resource for natural language processing. Finally, we provide a companion website that incorporates detailed visualizations of all of the data introduced here (www.crisisevents.org).
 
 
-Funding {#format .unnumbered}
+Funding {
 ========================================
 
 This work was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and from the Charles Koch Foundation [20180481].
 
 
-Acknowledgements {#format .unnumbered}
+Acknowledgements 
 ========================================
   We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgment of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day.  We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for generous feedback. Thank you to the cPASS research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
   
-Author Contributions {#format .unnumbered}
+Author Contributions 
 ========================================
 Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.; Validation: R.W.D., T.L.S.; Formal Analysis: R.W.D., T.L.S.; Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.; Data Curation: R.W.D., D.Q., T.L.S., J.W.; Writing - Original Draft: R.W.D., T.L.S.;  Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.; Visualization: R.W.D., T.L.S.; Supervision: E.G.;  Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.; Funding Acquisition: E.G., J.L.
 
-Data Availability Statement {#format .unnumbered}
+Data Availability Statement 
 ========================================
 This article’s data, online appendix, replication material, and visualizations of every historical episode are available on the github repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$) and through the companion website www.crisisevents.org.
 
-Conflicts of Interests {#format .unnumbered}
+Conflicts of Interests 
 ========================================
 There are no conflicts of interest to disclose.
 
-&nbsp;
 
+\clearpage
+
+Works Cited
+========================================
+\vspace{0pt}
