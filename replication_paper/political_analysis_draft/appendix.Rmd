@@ -35,8 +35,8 @@ bibliography: paper.bib
 biblio-style: unsrt
 output: rticles::arxiv_article
 
-abstract: |
-  This is the online appendix to the article "Introducing ICBe: Very High Recall and Precision Event Extraction from Narratives about International Crises". In the article, we conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on a very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, online appendix, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org and the github repository.
+# abstract: |
+#   This is the online appendix to the article "Introducing ICBe: Very High Recall and Precision Event Extraction from Narratives about International Crises". In the article, we conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on a very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, online appendix, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org and the github repository.
 
 
 header-includes:
@@ -93,6 +93,8 @@ header-includes:
 #  - \usepackage[backend = biber]{biblatex} #added in hopes of getting a bbl
 #https://tex.stackexchange.com/questions/131646/algorithm2e-command-algorithm-already-defined
   - \usepackage{changepage}
+  - \renewenvironment{abstract}{}{}
+  - \usepackage{adjustbox}
 
 ---
 \newpage
@@ -3946,10 +3948,16 @@ save_plot(file=paste0(here::here(), '/replication_paper/political_analysis_draft
 }
 ```
 
-\begin{sidewaysfigure}[ht]
-\caption{Crisis Maps - Cuban Missiles \label{fig:p_196_combined}}
-\centering{\includegraphics[width=0.8\textwidth]{./p_196_combined.png}}
-\end{sidewaysfigure}
+\begin{figure}[H]
+\begin{adjustbox}{
+  addcode={\begin{minipage}{\width}
+           \caption{Crisis Maps - Cuban Missiles}}
+          {\end{minipage}},
+  rotate=90}
+\includegraphics[width=1\paperwidth]{./p_196_combined.png}
+\label{fig:p_196_combined}
+\end{adjustbox}
+\end{figure}
 \clearpage
 
 
@@ -3963,10 +3971,16 @@ if(fromscratch){
 ```
 
 
-\begin{sidewaysfigure}[ht]
-\caption{Crisis Maps - Cuban Missiles - Phoenix Disaggregated \label{fig:p_phoenix_plot_lv0_196}}
-\centering{\includegraphics[width=0.9\textwidth]{./p_phoenix_plot_lv0_196.png}}
-\end{sidewaysfigure}
+\begin{figure}[H]
+\begin{adjustbox}{
+  addcode={\begin{minipage}{\width}
+           \caption{Crisis Maps - Cuban Missiles - Phoenix Disaggregated}}
+          {\end{minipage}},
+  rotate=90}
+\includegraphics[width=1\paperwidth]{./p_phoenix_plot_lv0_196.png}
+\label{fig:p_phoenix_plot_lv0_196}
+\end{adjustbox}
+\end{figure}
 \clearpage
 
 ## Figure D4 Crisis Maps Crimea-Donbas
@@ -4086,10 +4100,16 @@ save_plot(file=paste0(here::here(), '/replication_paper/political_analysis_draft
 <!-- \end{figure} -->
 
 \hphantom{em}
-\begin{sidewaysfigure}[ht]
-\caption{Crisis Maps - Crimea-Donbas \label{fig:p_471_combined}}
-\includegraphics[width=0.9\textwidth]{./p_471_combined.png}
-\end{sidewaysfigure}
+\begin{figure}[H]
+\begin{adjustbox}{
+  addcode={\begin{minipage}{\width}
+           \caption{Crisis Maps - Crimea-Donbas}}
+          {\end{minipage}},
+  rotate=90}
+\includegraphics[width=.9\paperwidth]{./p_471_combined.png}
+\label{fig:p_471_combined}
+\end{adjustbox}
+\end{figure}
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
@@ -4102,10 +4122,16 @@ if(fromscratch){
 
 
 \hphantom{em}
-\begin{sidewaysfigure}[ht]
-\caption{Crisis Maps - Crimea-Donbas Phoenix Disaggregated \label{fig:p_phoenix_plot_lv0_471}}
-\centering{\includegraphics[width=0.75\textwidth]{./p_phoenix_plot_lv0_471.png}}
-\end{sidewaysfigure}
+\begin{figure}[H]
+\begin{adjustbox}{
+  addcode={\begin{minipage}{\width}
+           \caption{Crisis Maps - Crimea-Donbas Phoenix Disaggregated}}
+          {\end{minipage}},
+  rotate=90}
+\includegraphics[width=1\paperwidth]{./p_phoenix_plot_lv0_471.png}
+\label{fig:p_phoenix_plot_lv0_471}
+\end{adjustbox}
+\end{figure}
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
@@ -4118,10 +4144,17 @@ if(fromscratch){
 
 
 \hphantom{em}
-\begin{sidewaysfigure}[ht]
-\caption{Crisis Maps - Crimea-Donbas Terrier Disaggregated \label{fig:p_terrier_plot_lv0_471}}
-\centering{\includegraphics[width=20cm]{./p_terrier_plot_lv0_471.png}}
-\end{sidewaysfigure}
+\begin{figure}[H]
+\begin{adjustbox}{
+  addcode={\begin{minipage}{\width}
+           \caption{Crisis Maps - Crimea-Donbas Terrier Disaggregated}}
+          {\end{minipage}},
+  rotate=90}
+\includegraphics[width=1\paperwidth]{./p_terrier_plot_lv0_471.png}
+\label{fig:p_terrier_plot_lv0_471}
+\end{adjustbox}
+\end{figure}
+
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
@@ -4134,10 +4167,17 @@ if(fromscratch){
 
 
 \hphantom{em}
-\begin{sidewaysfigure}[ht]
-\caption{Crisis Maps - Crimea-Donbas ICEWs Disaggregated \label{fig:p_icews_plot_lv0_471}}
-\centering{\includegraphics[width=20cm]{./p_icews_plot_lv0_471.png}}
-\end{sidewaysfigure}
+\begin{figure}[H]
+\begin{adjustbox}{
+  addcode={\begin{minipage}{\width}
+           \caption{Crisis Maps - Crimea-Donbas ICEWs Disaggregated}}
+          {\end{minipage}},
+  rotate=90}
+\includegraphics[width=1\paperwidth]{./p_icews_plot_lv0_471.png}
+\label{fig:p_icews_plot_lv0_471}
+\end{adjustbox}
+\end{figure}
+
 \clearpage
 
 # References

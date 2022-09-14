@@ -14,5 +14,5 @@
 \contentsline {subsection}{\numberline {4.1}Figure D1 Crimea-Donbas}{23}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Table D2: Stratified Sentence Examples}{25}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Figure D3 Crisis Maps Cuban Missiles}{29}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Figure D4 Crisis Maps Crimea-Donbas}{32}{subsection.4.4}%
-\contentsline {section}{\numberline {5}References}{37}{section.5}%
+\contentsline {subsection}{\numberline {4.4}Figure D4 Crisis Maps Crimea-Donbas}{31}{subsection.4.4}%
+\contentsline {section}{\numberline {5}References}{35}{section.5}%
