@@ -164,6 +164,8 @@
 \renewcommand{\arraystretch}{0.8}
 \AtBeginEnvironment{lltable}{\singlespacing}
 \usepackage{subcaption}
+\captionsetup[algorithm]{labelformat=empty}
+\captionsetup[figure]{labelformat=empty}
 \usepackage{atbegshi}% http://ctan.org/pkg/atbegshi
 \usepackage{float}
 \usepackage{algorithm2e}
@@ -193,13 +195,11 @@
 
 \clearpage
 
-\hypertarget{appendix-a-corpus-and-cases}{%
-\section{Appendix A Corpus and
-Cases}\label{appendix-a-corpus-and-cases}}
+\hypertarget{corpus-and-cases}{%
+\section{Corpus and Cases}\label{corpus-and-cases}}
 
 \hypertarget{app:crises}{%
-\subsection{Table A1: ICBe Crises and Summary
-Information}\label{app:crises}}
+\subsection{ICBe Crises and Summary Information}\label{app:crises}}
 
 \begin{figure}[H]
 \caption{ICBe Crises Summary Statistics}
@@ -243,8 +243,8 @@ Information}\label{app:crises}}
 \clearpage
 
 \hypertarget{app:verbs}{%
-\subsection{Table A2: Verb Meanings (Glosses) found in the ICB Corpus
-(top 200)}\label{app:verbs}}
+\subsection{Verb Meanings (Glosses) found in the ICB Corpus (top
+200)}\label{app:verbs}}
 
 \hphantom{em}
 
@@ -1478,13 +1478,13 @@ Information}\label{app:crises}}
 
 \clearpage
 
-\hypertarget{appendix-b-coding-process}{%
-\section{Appendix B: Coding Process}\label{appendix-b-coding-process}}
+\hypertarget{coding-process}{%
+\section{Coding Process}\label{coding-process}}
 
 \hphantom{em}
 
 \hypertarget{app:gui}{%
-\subsection{Figure B1: Graphical User Interface}\label{app:gui}}
+\subsection{Graphical User Interface}\label{app:gui}}
 
 \hphantom{em}
 
@@ -1495,8 +1495,7 @@ Information}\label{app:crises}}
 \clearpage
 
 \hypertarget{app:algo1}{%
-\subsection{Algorithm B2: Coding Aggregation and
-Filtering}\label{app:algo1}}
+\subsection{Coding Aggregation and Filtering}\label{app:algo1}}
 
 \hphantom{em}
 
@@ -1526,8 +1525,7 @@ Filtering}\label{app:algo1}}
 \clearpage
 
 \hypertarget{app:intercoderagreement}{%
-\subsection{Figure B3 : Intercoder
-Agreement}\label{app:intercoderagreement}}
+\subsection{Intercoder Agreement}\label{app:intercoderagreement}}
 
 \hphantom{em}
 
@@ -1538,7 +1536,7 @@ Agreement}\label{app:intercoderagreement}}
 \clearpage
 
 \hypertarget{app:agreement_by_confidence}{%
-\subsection{Figure B4 : Intercoder Agreement by
+\subsection{Intercoder Agreement by
 Confidence}\label{app:agreement_by_confidence}}
 
 \hphantom{em}
@@ -1549,14 +1547,13 @@ Confidence}\label{app:agreement_by_confidence}}
 \end{figure}
 \clearpage
 
-\hypertarget{appendix-c-recall}{%
-\section{Appendix C: Recall}\label{appendix-c-recall}}
+\hypertarget{recall}{%
+\section{Recall}\label{recall}}
 
 \hphantom{em}
 
-\hypertarget{algorithm-c1-synthetic-narratives}{%
-\subsection{Algorithm C1: Synthetic
-Narratives}\label{algorithm-c1-synthetic-narratives}}
+\hypertarget{synthetic-narratives}{%
+\subsection{Synthetic Narratives}\label{synthetic-narratives}}
 
 \hphantom{em}
 
@@ -1646,9 +1643,9 @@ dendrogram=list()
 \end{algorithm}
 \clearpage
 
-\hypertarget{table-c2-synthetic-narrative-matches-cuban-missile}{%
-\subsection{Table C2: Synthetic Narrative Matches Cuban
-Missile}\label{table-c2-synthetic-narrative-matches-cuban-missile}}
+\hypertarget{synthetic-narrative-matches-cuban-missile}{%
+\subsection{Synthetic Narrative Matches Cuban
+Missile}\label{synthetic-narrative-matches-cuban-missile}}
 
 \hphantom{em}
 
@@ -1658,9 +1655,9 @@ Missile}\label{table-c2-synthetic-narrative-matches-cuban-missile}}
 \end{figure}
 \clearpage
 
-\hypertarget{table-c3-synthetic-narrative-matches-crimea-donbas}{%
-\subsection{Table C3: Synthetic Narrative Matches
-Crimea-Donbas}\label{table-c3-synthetic-narrative-matches-crimea-donbas}}
+\hypertarget{synthetic-narrative-matches-crimea-donbas}{%
+\subsection{Synthetic Narrative Matches
+Crimea-Donbas}\label{synthetic-narrative-matches-crimea-donbas}}
 
 \hphantom{em}
 
@@ -1670,11 +1667,11 @@ Crimea-Donbas}\label{table-c3-synthetic-narrative-matches-crimea-donbas}}
 \end{figure}
 \clearpage
 
-\hypertarget{appendix-d-precision}{%
-\section{Appendix D: Precision}\label{appendix-d-precision}}
+\hypertarget{precision}{%
+\section{Precision}\label{precision}}
 
-\hypertarget{figure-d1-crimea-donbas}{%
-\subsection{Figure D1 Crimea-Donbas}\label{figure-d1-crimea-donbas}}
+\hypertarget{crimea-donbas-narrative}{%
+\subsection{Crimea-Donbas Narrative}\label{crimea-donbas-narrative}}
 
 \hphantom{em}
 
@@ -1689,9 +1686,9 @@ Crimea-Donbas}\label{table-c3-synthetic-narrative-matches-crimea-donbas}}
 \end{figure}
 \clearpage
 
-\hypertarget{table-d2-stratified-sentence-examples}{%
-\subsection{Table D2: Stratified Sentence
-Examples}\label{table-d2-stratified-sentence-examples}}
+\hypertarget{stratified-sentence-examples}{%
+\subsection{Stratified Sentence
+Examples}\label{stratified-sentence-examples}}
 
 \hphantom{em}
 \begin{figure}[H]
@@ -1716,11 +1713,15 @@ Examples}\label{table-d2-stratified-sentence-examples}}
 \begin{figure}[H]
 \centering{\includegraphics[height=21cm]{"./ft_sample_precision_precision4.png"}}
 \end{figure}
-\clearpage
 
-\hypertarget{figure-d3-crisis-maps-cuban-missiles}{%
-\subsection{Figure D3 Crisis Maps Cuban
-Missiles}\label{figure-d3-crisis-maps-cuban-missiles}}
+\hypertarget{cuban-missiles-crisis-maps}{%
+\subsection{Cuban Missiles Crisis
+Maps}\label{cuban-missiles-crisis-maps}}
+
+\begin{figure}[H]
+\caption{Crisis Map: Crimea-Donbas  \label{fig:p_471_icbe}}
+\centering{\includegraphics[width=17cm]{./p_471_icbe.png}}
+\end{figure}
 
 \begin{figure}[H]
 \begin{adjustbox}{
@@ -1746,9 +1747,8 @@ Missiles}\label{figure-d3-crisis-maps-cuban-missiles}}
 \end{figure}
 \clearpage
 
-\hypertarget{figure-d4-crisis-maps-crimea-donbas}{%
-\subsection{Figure D4 Crisis Maps
-Crimea-Donbas}\label{figure-d4-crisis-maps-crimea-donbas}}
+\hypertarget{crimea-donbas-crisis-maps}{%
+\subsection{Crimea-Donbas Crisis Maps}\label{crimea-donbas-crisis-maps}}
 
 \hphantom{em}
 \begin{figure}[H]
@@ -1821,17 +1821,18 @@ Generation}, {Translation}, and {Comprehension}.''} {arXiv}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-reimersSentenceBERTSentenceEmbeddings2019}{}}%
 Reimers, Nils, and Iryna Gurevych. 2019. {``Sentence-{BERT}: {Sentence
-Embeddings} Using {Siamese BERT-Networks}.''}
-\url{http://arxiv.org/abs/1908.10084}.
+Embeddings} Using {Siamese BERT-Networks}.''} \emph{arXiv:1908.10084
+{[}Cs{]}}, August. \url{https://arxiv.org/abs/1908.10084}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-reimersMakingMonolingualSentence2020}{}}%
 ---------. 2020. {``Making {Monolingual Sentence Embeddings
-Multilingual} Using {Knowledge Distillation}.''}
-\url{http://arxiv.org/abs/2004.09813}.
+Multilingual} Using {Knowledge Distillation}.''} \emph{arXiv:2004.09813
+{[}Cs{]}}, October. \url{https://arxiv.org/abs/2004.09813}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-shleiferPretrainedSummarizationDistillation2020}{}}%
 Shleifer, Sam, and Alexander M. Rush. 2020. {``Pre-Trained
-{Summarization Distillation}.''} \url{http://arxiv.org/abs/2010.13002}.
+{Summarization Distillation}.''} \emph{arXiv:2010.13002 {[}Cs{]}},
+October. \url{https://arxiv.org/abs/2010.13002}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-songMPNetMaskedPermuted}{}}%
 Song, Kaitao, Xu Tan, Tao Qin, Jianfeng Lu, and Tie-Yan Liu. n.d.

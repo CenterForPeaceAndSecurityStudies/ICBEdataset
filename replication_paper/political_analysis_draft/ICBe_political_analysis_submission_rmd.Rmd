@@ -69,7 +69,7 @@ lead_author_surname: Douglass
 #Please provide an abstract of no more than 250 words in a single paragraph. Abstracts should explain to the general reader the major contributions of the article. References in the abstract must be cited in full within the abstract itself and cited in the text.
 
 abstract: |
-  How do international crises unfold? We conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on a very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, online appendix, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org and the github repository.
+  How do international crises unfold? We conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on a very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, online appendix, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org.
 
 # significance: |
 #   Countries routinely face crises that risk escalating into full scale war but we do not have systematic measurements of the progression of past crises and what moves and counter moves led to or helped avoid war. Instead policy makers typically rely on one or two historical analogies, chosen through ad hoc selection criteria, and described in unsystematic terms. This paper introduces a new scientific approach to measuring the step by step moves of international crises over the last hundred years, combining subject expertise with state of the art natural language processing and machine learning methods. It serves as a guide for constructing and evaluating large scale measurement collection in the social sciences.
@@ -266,11 +266,13 @@ for(i in 1:nrow(temp)){
 temp <-temp %>%
         mutate(value_markdown = ifelse(is_subsstring<=1,value_markdown,'')) %>%
         group_by(sentence_number_int_aligned) %>%
-          filter(value_markdown!='' | length(value_markdown)==1) %>%
+          filter(value_markdown!='' | length(value_markdown)==1) %>% # also added below to handle sentence 6
         ungroup() %>%
         mutate(crisno= ifelse(!is.na(lag(sentence_span_text)) & sentence_span_text==lag(sentence_span_text), "", crisno)) %>%
         mutate(sentence_number_int_aligned= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_number_int_aligned)) %>%
-        mutate(sentence_span_text= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_span_text))   #C=crisno, 
+        mutate(sentence_span_text= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_span_text)) %>% 
+            filter(value_markdown!='' | length(value_markdown)==1) 
+      #C=crisno, 
       #head(100) %>%
 ft_cuba_precision <- temp %>%
                      dplyr::select(S=sentence_number_int_aligned, ICB=sentence_span_text, ICBe=value_markdown)  %>%
@@ -307,24 +309,25 @@ temp <- NULL
 <!-- \onecolumn -->
 \begin{figure}[H]
 \caption{Case Study 1: Cuban Missile Crisis (1962) - ICB Narrative vs. ICBe Events \label{fig:case_study_cuban_precision}}
-\centering{\includegraphics[ height=19cm]{"./case_study_cuban_precision.png"}}
+\centering{\includegraphics[height=19cm]{"./case_study_cuban_precision.png"}}
 \end{figure}
 \clearpage
 <!-- \twocolumn -->
 
 Corpus 
 ========================================
+<!-- ^[The Online Appendix is at the [ICBEventData Github Repository](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).]  -->
 
-For our corpus, $D$, we select a set of unusually high-quality historical narratives from the International Crisis Behavior (ICB) project ($n=471$)(SI Appendix, Table A1)[@brecherInternationalCrisisBehavior2017; @brecher_study_1997].^[The Online Appendix is at the [ICBEventData Github Repository](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).] Their domain is 20th and 21st-century crises, defined as a change in the type, or an increase in the intensity, of disruptive interaction with a heightened probability of military hostilities that destabilizes states' relationships or challenges the structure of the international system [@brecherCrisesWorldPolitics1982].^[On near crises see @iakhnisCrisesWorldPolitics2019.] Crises are a significant focus of detailed single case studies and case comparisons because they provide an opportunity to examine behaviors in IR short of, or at least prior to, full conflict  [@holsti1914Case1965; @paigeKoreanDecisionJune1968; @allisonEssenceDecisionExplaining1971; @snyderConflictNationsBargaining1977; @gavinHistorySecurityStudies2014; @georgeDeterrenceAmericanForeign1974; @brecherCrisesWorldPolitics1982; @gaddisExpandingDataBase1987; @brecherPatternsCrisisManagement1988]. Case selection was exhaustive based on a survey of world news archives and region experts, cross-checked against other databases of war and conflict, and non-English sources [@kangUSBiasStudy2019; @brecherInternationalCrisisBehavior2017 p. 59]. Each narrative was written by consensus by a small number of scholars, using a uniform coding scheme, with similar specificity [@hewittEngagingInternationalData2001]. The corpus is unique in IR because it is designed to be used in a downstream quantitative coding project.
+For our corpus, $D$, we select a set of unusually high-quality historical narratives from the International Crisis Behavior (ICB) project ($n=471$)(Supplementary Information (SI) Appendix 1.1)[@brecherInternationalCrisisBehavior2017; @brecher_study_1997]. Their domain is 20th and 21st-century crises, defined as a change in the type, or an increase in the intensity, of disruptive interaction with a heightened probability of military hostilities that destabilizes states' relationships or challenges the structure of the international system [@brecherCrisesWorldPolitics1982].^[On near crises see @iakhnisCrisesWorldPolitics2019.] Crises are a significant focus of detailed single case studies and case comparisons because they provide an opportunity to examine behaviors in IR short of, or at least prior to, full conflict  [@holsti1914Case1965; @paigeKoreanDecisionJune1968; @allisonEssenceDecisionExplaining1971; @snyderConflictNationsBargaining1977; @gavinHistorySecurityStudies2014; @georgeDeterrenceAmericanForeign1974; @brecherCrisesWorldPolitics1982; @gaddisExpandingDataBase1987; @brecherPatternsCrisisManagement1988]. Case selection was exhaustive based on a survey of world news archives and region experts, cross-checked against other databases of war and conflict, and non-English sources [@kangUSBiasStudy2019; @brecherInternationalCrisisBehavior2017 p. 59]. Each narrative was written by consensus by a small number of scholars, using a uniform coding scheme, with similar specificity [@hewittEngagingInternationalData2001]. The corpus is unique in IR because it is designed to be used in a downstream quantitative coding project.
 
 Prior Beliefs about IR, Ontological Coverage, and the Existing State of the Art
 ========================================
 
 Next we draw informative prior beliefs about the underlying process of IR that we expect to govern behavior during historical episodes and their conversion to the historical record. We organize our prior beliefs along two overarching axes, summarized in detail by Table 1.
 
-The first axis (rows) represents the types of information we expect to find in IR and forms the basis for our proposed ontology. We employ a metaphor of a chess game, with players (polities, rebel groups, IGOs, etc.), pieces (military platforms, civilians, domains), and behaviors (think, say, do). Precise sequencing is required to capture gambits (sequences of moves) and outcomes (victory, defeat, peace, etc.), while precise geo-coding is required to understand the chessboard (medium of conflict). We find `r codings_long_agreement %>% filter(varname_normalized %>% str_detect("actor")) %>% pull(value_normalized) %>% unique() %>% length()` actors and 117 different behaviors, and provide a full codebook in the online material.^[See the Github Repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).]
+The first axis (rows) represents the types of information we expect to find in IR and forms the basis for our proposed ontology. We employ a metaphor of a chess game, with players (polities, rebel groups, IGOs, etc.), pieces (military platforms, civilians, domains), and behaviors (think, say, do). Precise sequencing is required to capture gambits (sequences of moves) and outcomes (victory, defeat, peace, etc.), while precise geo-coding is required to understand the chessboard (medium of conflict). We find `r codings_long_agreement %>% filter(varname_normalized %>% str_detect("actor")) %>% pull(value_normalized) %>% unique() %>% length()` actors and 117 different behaviors.^[See the full codebook on Github Repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).]
 
-We base our informed priors primarily on two sources of information. The first is the extensive existing measurement efforts of IR which we provide citations to alongside each concept. Second, we performed preliminary natural language processing of the corpus and identified named entities and behaviors mentioned in the text. Verbs were matched to the most likely definition found in Wordnet [@millerWordNetLexicalDatabase1995], tallied, and then aggregated into a smaller number hypernyms balancing conceptual detail and manageable sparsity for human coding (SI Appendix, Table A2).
+We base our informed priors primarily on two sources of information. The first is the extensive existing measurement efforts of IR which we provide citations to alongside each concept. Second, we performed preliminary natural language processing of the corpus and identified named entities and behaviors mentioned in the text. Verbs were matched to the most likely definition found in Wordnet [@millerWordNetLexicalDatabase1995], tallied, and then aggregated into a smaller number hypernyms balancing conceptual detail and manageable sparsity for human coding (SI Appendix 1.2).
 
 The second axis (columns) compares the very high ontological coverage of ICBe to existing state of the art systems in production and with global coverage. They begin with our contribution ICBe, alongside other event-level datasets including CAMEO dictionary lookup based systems (Historical Phoenix [@althausClineCenterHistorical2019]; ICEWS [@boscheeICEWSCodedEvent2015; @hegreIntroducingUCDPCandidate2020]; Terrier [@grantOUEventData2017]), the Militarized Interstate Disputes Incidents dataset, and the UCDP-GED dataset [@ralphsundbergUCDPGEDCodebook2016; @petterssonOrganizedViolence19892018; @sundbergIntroducingUCDPGeoreferenced2013].^[Additional relevant but dated or too small of an overlap in domain include BCOW [@lengMilitarizedInterstateCrises1988], WEIS [@mcclellandWorldEventInteraction1978], CREON [@hermannComparativeResearchEvents1984], CASCON [@bloomfieldCASCONIIIComputeraided1989], SHERFACS [@shermanSHERFACSCrossParadigmHierarchical2000], Real-Time Phoenix [@brandtPhoenixRealTimeEvent2018], and COfEE [@balaliCOfEEComprehensiveOntology2021] (see histories in @merrittMeasuringEventsInternational1994 and @schrodtTwentyYearsKansas2006).] The final set of columns compares episode-level datasets beginning with the original ICB project [@brecherInternationalCrisisBehavior; @brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020]; the Militarized Interstate Disputes dataset [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018;@braithwaiteMIDLOCIntroducingMilitarized2010;@braithwaiteCodebookMilitarizedInterstate2009], and the Correlates of War [@sarkeesResortWar181620072010]. With the exception of large scale CAMEO dictionary based systems, the existing state of the art quantitative datasets ignore the vast majority of the information content found in international relations.^[See [@balaliCOfEEComprehensiveOntology2021] for a recent review of ontological depth and availability of Gold Standard example text.]
 
@@ -353,9 +356,10 @@ flextable::set_flextable_defaults(fonts_ignore=TRUE)
 set_flextable_defaults(fonts_ignore=TRUE)
 
 lit_review_alt <- lit_review_pull %>% 
-                  mutate(Literature =   paste0(" [",Literature %>% stringr::str_replace("; {0,}$","") ,"]")) %>%
-                  mutate(Concept= Concept %>% paste0(Literature)) %>%
+                  mutate(Literature = paste0(" [",Literature %>% stringr::str_replace("; {0,}$","") ,"]")) %>%
+                  mutate(Concept= paste0("**", Concept, "**", Literature)) %>%
                   mutate(Concept = Concept %>% stringr::str_replace(stringr::fixed("[NA]"),"") ) %>%
+                  mutate(Concept = Concept %>% stringr::str_replace(stringr::fixed(" ["),stringr::fixed(" - ["))) %>%
                   dplyr::select(-Codebook, -`Cameo Codes`, -`ICB Codes`, -Literature, -`ICB Corpus`) 
                   #dplyr::filter(is.na(group))
 
@@ -368,8 +372,8 @@ r_players= ( lit_review_pull$...1 %in% "Players" %>% sum() ) + r_intro
 r_pieces= ( lit_review_pull$...1 %in% "Pieces" %>% sum() ) + r_players
 r_think= ( lit_review_pull$...1 %in% "Think" %>% sum() ) + r_pieces
 r_say= ( lit_review_pull$...1 %in% "Say" %>% sum() ) + r_think
-r_unarmed= ( lit_review_pull$...2 %in% "Unarmed" %>% sum() ) + r_say
-r_armed= ( lit_review_pull$...2 %in% "Armed" %>% sum() ) + r_unarmed
+r_unarmed= ( lit_review_pull$...1 %in% "Do - Unarmed" %>% sum() ) + r_say
+r_armed= ( lit_review_pull$...1 %in% "Do - Armed" %>% sum() ) + r_unarmed
 ft <- NULL
 
 library(officer)
@@ -379,41 +383,43 @@ bands=which( 1:nrow(lit_review_alt) %% 2 == 1)
 litreview_ft_political_analysis <- lit_review_alt %>%
       flextable::as_flextable() %>%
 
-      add_header( 
-                  #"ICB Corpus"="Corpus",
-                  "ICBe"="Events Datasets",
-                  "Phoenix"="Events Datasets",
-                  "Terrier"="Events Datasets",
-                  "ICEWs"="Events Datasets",
-                  "MIDs Incidents"="Events Datasets",
-                  "UCDP-GED"="Events Datasets",
-                  "ICB"="Episodes Datasets",
-                  "COW"="Episodes Datasets",
-                  "MIDs"="Episodes Datasets",
-                  top = T ) %>%
+      # add_header(
+      #             #"ICB Corpus"="Corpus",
+      #             "ICBe"="Events Datasets",
+      #             "Phoenix"="Events Datasets",
+      #             "Terrier"="Events Datasets",
+      #             "ICEWs"="Events Datasets",
+      #             "MIDs Incidents"="Events Datasets",
+      #             "UCDP-GED"="Events Datasets",
+      #             "ICB"="Episodes Datasets",
+      #             "COW"="Episodes Datasets",
+      #             "MIDs"="Episodes Datasets",
+      #             top = T ) %>%
 
       set_header_labels(
         values = list("...1" = "" , "...2" = "" ) 
         ) %>%
 
-      merge_h(part = "header") %>% #it's this merge that's killing us
+      # undo merge of the header
+      # merge_h(part = "header") %>% #it's this merge that's killing us
   
       #Global Borders
       flextable::border_remove() %>% 
       #ok so because of our horizontal merging of headers, we have to manually place a right bar at j=10 2 short of the full width
-      flextable::border_outer( part="all", border = big_border ) %>% #this will have a gap
-      border(j=10:k, i=1 , part="header", border.right = big_border ) %>% #this fills the gap
+      flextable::border_outer(part="all", border = big_border) %>% #this will have a gap
+      # border(j=10:k, i=1 , part="header", border.right = big_border ) %>% #this fills the gap
+      
       #There's another gap on the bottom left
-      border(j=1, i=(n-15):n , part="body", border.bottom =  big_border ) %>% #this fills the gap
-      border(j=2, i=(n-5):n , part="body", border.bottom =  big_border ) %>% #this fills the gap
+      # border(j=1, i=(n-15):n , part="body", border.bottom =  big_border ) %>% #this fills the gap
+      # border(j=2, i=(n-5):n , part="body", border.bottom =  big_border ) %>% #this fills the gap
 
       flextable::line_spacing( space = 1.0, part = "all") %>% #i=1:nrow(lit_review_alt),
       flextable::padding(padding = 0, part = "body") %>%
-      flextable::fontsize(size = 7, part = "all") %>%
+      flextable::fontsize(size = 6.5, part = "all") %>%
       #Banding
-      bg( i = bands  , j=3:k, part = "body", bg = "#EFEFEF") %>% 
+      bg( i = bands, j=2:k, part = "body", bg = "#EFEFEF") %>% 
   
-      flextable::rotate(i=2, j=3:k, rotation="tbrl",part="header") %>%
+      flextable::rotate(i=1, j=2:k, rotation="tbrl", part="header") %>%
       flextable::align(align = "center", part = "body") %>%
       flextable::align(align = "center", part = "header")   %>%
 
@@ -425,48 +431,48 @@ litreview_ft_political_analysis <- lit_review_alt %>%
       ) %>%
       #Domains
       hline(i=c(r_intro), border = NULL, part = "body") %>% 
-      merge_at(i = 1:r_intro, j = 1:2, part = "body") %>%  
-      merge_at(i = 4, j = 5:7, part = "body") %>%
-      merge_at(i = 5, j = 5:7, part = "body") %>%
-      merge_at(i = 6, j = 5:7, part = "body") %>%
-      merge_at(i = 7, j = 5:7, part = "body") %>%
+      merge_at(i = 1:r_intro, j = 1, part = "body") %>%  
+      # merge_at(i = 4, j = 5:7, part = "body") %>%
+      # merge_at(i = 5, j = 5:7, part = "body") %>%
+      # merge_at(i = 6, j = 5:7, part = "body") %>%
+      # merge_at(i = 7, j = 5:7, part = "body") %>%
   
       #players
       hline(i=c(r_players), border = NULL, part = "body") %>% 
-      merge_at(i = (r_intro+1):r_players, j = 1:2, part = "body") %>%  
+      merge_at(i = (r_intro+1):r_players, j = 1, part = "body") %>%  
       #pieces
       hline(i=c(r_pieces), border = NULL, part = "body") %>% 
-      merge_at(i = (r_players+1):r_pieces, j = 1:2, part = "body") %>%  
+      merge_at(i = (r_players+1):r_pieces, j = 1, part = "body") %>%  
       #think
       hline(i=c(r_think), border = NULL, part = "body") %>% 
-      merge_at(i = (r_pieces+1):r_think, j = 1:2, part = "body") %>%  
+      merge_at(i = (r_pieces+1):r_think, j = 1, part = "body") %>%  
       #say
       hline(i=c(r_say), border = NULL, part = "body") %>% 
-      merge_at(i = (r_think+1):r_say, j = 1:2, part = "body") %>%
+      merge_at(i = (r_think+1):r_say, j = 1, part = "body") %>%
       #Do
-      merge_at(i = (r_say+1):r_armed, j = 1, part = "body") %>%  
+      #merge_at(i = (r_say+1):r_armed, j = 1, part = "body") %>%  
 
       #n_unarmed
-      hline(i=c(r_unarmed), border = NULL, part = "body") %>% 
-      merge_at(i = (r_say+1):r_unarmed, j = 2, part = "body") %>%  
+      hline(i=c(r_unarmed), j = 1:k, part = "body") %>% 
+      merge_at(i = (r_say+1):r_unarmed, j = 1, part = "body") %>%  
       #n_armed
       #hline(i=c(r_armed), border = NULL, part = "body") %>% 
-      merge_at(i = (r_unarmed+1):r_armed, j = 2, part = "body") %>%  
+      merge_at(i = (r_unarmed+1):r_armed, j = 1, part = "body") %>%  
 
       #set_table_properties(layout="autofit")  %>%
-      vline( i = 1:2, j = c(3,9), border = NULL, part = "header") %>%
-      vline( i = 1:(n), j = 1:2, border = NULL, part = "body")  %>%
-      vline( i = 1:(n), j = c(3,9), border = NULL, part = "body")  %>%
+      vline( i = 1, j = c(2,8), border = NULL, part = "header") %>%
+      vline( i = 1:(n), j = 1, border = NULL, part = "body")  %>%
+      vline( i = 1:(n), j = c(2,8), border = NULL, part = "body")  %>%
 
-      flextable::width( j = 3, width=3.3) %>% # change width for inline citations for politicalanalysis (4 works, might have extra room)
-      flextable::width( j = (4):k, width=0.25) %>%
+      flextable::width( j = 2, width=3.1) %>% # change width for inline citations for politicalanalysis (4 works, might have extra room)
+      flextable::width( j = (3):k, width=0.25) %>%
       flextable::line_spacing( space = 0.5, part = "body") %>% #i=1:nrow(lit_review_alt),
-      flextable::padding(padding = 0, part = "body") %>%
+      flextable::padding(padding = 0, part = "all") %>%
 
-      flextable::rotate(j=1, rotation="tbrl",part="all") %>%
-      flextable::rotate(j=2, rotation="tbrl",part="all") %>%
-      flextable::width( j = 1:2, width=0.1)  %>%
-      ftExtra::colformat_md(j = 3, part="body")    #Make sure this goes last or it'll get overwritten by the colformat above
+      flextable::rotate(j=1, rotation="tbrl",part="all", align="center") %>%
+      #flextable::rotate(j=2, rotation="tbrl",part="all") %>%
+      flextable::width(j = 1, width=0.1)  %>%
+      ftExtra::colformat_md(j = 2, part="body")    #Make sure this goes last or it'll get overwritten by the colformat above
 
 #https://cran.r-project.org/web/packages/ftExtra/vignettes/format_columns.html
 #litreview_ft_political_analysis
@@ -508,9 +514,9 @@ avg_coders_per_sentence <- icb_long_clean %>% dplyr::filter(crisno != 196) %>% d
 ICBe Coding Process
 ========================================
 
-The ICBe ontology follows a hierarchical design philosophy where a smaller number of significant decisions are made early on and then progressively refined into more specific details [@brustIntegratingDomainKnowledge2020].^[This process quickly focuses the coder on a smaller number of relevant options while also allowing them to apply multiple tags if the sentence explicitly includes more than one or there is insufficient evidence to choose only one tag. The guided coding process also allows for the possibility that earlier coarse decisions have less error than later fine-grained decisions.] Each coder was instructed to first thoroughly read the full crisis narrative and then presented with a custom graphical user interface (SI Appendix, Fig. B1). Coders then proceeded sentence by sentence, choosing the number of events (0-3) that occurred, the highest behavior (thought, speech, or activity), a set of players ($P$), whether the means were primarily armed or unarmed, whether there was an increase or decrease in aggression (uncooperative/escalating or cooperative/de-escalating), and finally one or more non-mutually exclusive specific activities. Some additional details like location and timing information was always collected while other details were only collected if appropriate, e.g. force size, fatalities, domains, units, etc. A unique feature of the ontology is that thought, speech, and do behaviors can be nested into combinations, e.g. an offer for the U.S.S.R. to remove missiles from Cuba in exchange for the U.S. removing missiles from Turkey. Through compounding, the ontology can capture what players were said to have known, learned, or said about other specific fully described actions.
+The ICBe ontology follows a hierarchical design philosophy where a smaller number of significant decisions are made early on and then progressively refined into more specific details [@brustIntegratingDomainKnowledge2020].^[This process quickly focuses the coder on a smaller number of relevant options while also allowing them to apply multiple tags if the sentence explicitly includes more than one or there is insufficient evidence to choose only one tag. The guided coding process also allows for the possibility that earlier coarse decisions have less error than later fine-grained decisions.] Each coder was instructed to first thoroughly read the full crisis narrative and then presented with a custom graphical user interface (SI Appendix 2.1). Coders then proceeded sentence by sentence, choosing the number of events (0-3) that occurred, the highest behavior (thought, speech, or activity), a set of players ($P$), whether the means were primarily armed or unarmed, whether there was an increase or decrease in aggression (uncooperative/escalating or cooperative/de-escalating), and finally one or more non-mutually exclusive specific activities. Some additional details like location and timing information was always collected while other details were only collected if appropriate, e.g. force size, fatalities, domains, units, etc. A unique feature of the ontology is that thought, speech, and do behaviors can be nested into combinations, e.g. an offer for the U.S.S.R. to remove missiles from Cuba in exchange for the U.S. removing missiles from Turkey. Through compounding, the ontology can capture what players were said to have known, learned, or said about other specific fully described actions.
 
-Each crisis was typically assigned to 2 expert coders and 2 novice coders with an additional tie-breaking expert coder assigned to sentences with high disagreement.^[Expert coders were graduate students or postgraduates who collaboratively developed the ontology and documentation for the codebook. Undergraduate coders were students who engaged in classroom workshops.] For the purposes of measuring intercoder agreement and consensus, we temporarily disaggregate the unit of analysis to the Coder-Crisis-Sentence-Tag (n=`r icb_long_clean %>% nrow() %>% scales::comma()`), where a tag is any unique piece of information a coder can associate with a sentence such as an actor, date, behavior, etc. We then aggregate those tags into final events (n=`r ICBe_events_agreed %>% nrow() %>% scales::comma()`), using a consensus procedure (SI Appendix, Algorithm B2) that requires a tag to have been chosen by at least one expert coder and either a majority of expert or novice coders. This screens noisy tags that no expert considered possible but leverages novice knowledge to tie-break between equally plausible tags chosen by experts.
+Each crisis was typically assigned to 2 expert coders and 2 novice coders with an additional tie-breaking expert coder assigned to sentences with high disagreement.^[Expert coders were graduate students or postgraduates who collaboratively developed the ontology and documentation for the codebook. Undergraduate coders were students who engaged in classroom workshops.] For the purposes of measuring intercoder agreement and consensus, we temporarily disaggregate the unit of analysis to the Coder-Crisis-Sentence-Tag (n=`r icb_long_clean %>% nrow() %>% scales::comma()`), where a tag is any unique piece of information a coder can associate with a sentence such as an actor, date, behavior, etc. We then aggregate those tags into final events (n=`r ICBe_events_agreed %>% nrow() %>% scales::comma()`), using a consensus procedure (SI Appendix 2.2) that requires a tag to have been chosen by at least one expert coder and either a majority of expert or novice coders. This screens noisy tags that no expert considered possible but leverages novice knowledge to tie-break between equally plausible tags chosen by experts.
 
 ```{r}
 #We calculate means in the SI appendix on agreement
@@ -527,21 +533,21 @@ means_group_keep <- codings_long_agreement %>% filter(value_normalized!='') %>%
 Internal Consistency
 ========================================
 
-We evaluate the internal validity of the coding process in several ways. For every tag applied we calculate the observed intercoder agreement as the percent of other coders who also applied that same tag (SI Appendix, Fig. B3). Across all concepts, the Top 1 Tag Agreement was low among novices (`r means_group_any$Novices %>% round(2) %>% scales::percent()`), moderate for experts (`r means_group_any$Experts %>% round(2) %>% scales::percent()`), and high (`r means_group_keep$Experts_keep %>% round(2) %>% scales::percent()`) following the consensus screening procedure.
+We evaluate the internal validity of the coding process in several ways. For every tag applied we calculate the observed intercoder agreement as the percent of other coders who also applied that same tag (SI Appendix 2.3). Across all concepts, the Top 1 Tag Agreement was low among novices (`r means_group_any$Novices %>% round(2) %>% scales::percent()`), moderate for experts (`r means_group_any$Experts %>% round(2) %>% scales::percent()`), and high (`r means_group_keep$Experts_keep %>% round(2) %>% scales::percent()`) following the consensus screening procedure.
 
-We attribute the remaining disagreement primarily to three sources. First, we required coders to rate their confidence which was observed to be low for 20% of sentences- half due to a mismatch between the ontology and the text ("survey doesn't fit event"-45%) and half due to a lack of information or confused writing in the source text ("more knowledge needed"-40%, "confusing sentence"-6%). Observed disagreement varied predictably with self reported confidence (SI Appendix, Fig. B4). Second, as intended agreement is higher (75-80%) for questions with fewer options near the root of the ontology compared to agreement for questions near the leafs of the ontology (50%-60%). Third, individual coders exhibiting nontrivial coding styles, e.g. some more expressive applying many tags per concept while others focused on only the single best match. We further observed unintended synonymity, e.g. the same information can be framed as either a threat to do something or a promise not to do something.
+We attribute the remaining disagreement primarily to three sources. First, we required coders to rate their confidence which was observed to be low for 20% of sentences- half due to a mismatch between the ontology and the text ("survey doesn't fit event"-45%) and half due to a lack of information or confused writing in the source text ("more knowledge needed"-40%, "confusing sentence"-6%). Observed disagreement varied predictably with self reported confidence (SI Appendix 2.4). Second, as intended, agreement is higher (75-80%) for questions with fewer options near the root of the ontology compared to agreement for questions near the leafs of the ontology (50%-60%). Third, individual coders exhibiting nontrivial coding styles, e.g. some more expressive applying many tags per concept while others focused on only the single best match. We further observed unintended synonymity, e.g. the same information can be framed as either a threat to do something or a promise not to do something.
 
 Case Study Selection
 ========================================
 
-The remaining two qualities we seek to measure are recall and precision of ICBe events in absolute terms and relative to other existing systems. We provide full ICB narratives, ICBe coding in an easy to read icongraphic form, and a wide range of visualizations for every case on the companion website. In this paper, we focus on two deep case studies. The first is the Cuban Missile Crisis (Figure 1) which took place primarily in the second half of 1962, involved the United States, the Soviet Union, and Cuba, and is widely known for bringing the world to the brink of nuclear war (hereafter Cuban Missiles). The second is the Crimea-Donbas Crisis (SI Appendix Figure D1) which took place primarily in 2014, involved Russia, Ukraine, and NATO, and within a decade spiraled into a full scale invasion (herafter Crimea-Donbas). Both cases involve a superpower in crisis with a neighbor, initiated by a change from a friendly to hostile regime, with implications for economic and military security for the superpower, risked full scale invasion, and eventually invited intervention by opposing superpowers. We choose these cases because they are substantively significant to 20th and 21st century international relations, widely known across scientific disciplines and popular culture, and are sufficiently brief to evaluate in depth. 
+The remaining two qualities we seek to measure are recall and precision of ICBe events in absolute terms and relative to other existing systems. We provide full ICB narratives, ICBe coding in an easy to read icongraphic form, and a wide range of visualizations for every case on the companion website. In this paper, we focus on two deep case studies. The first is the Cuban Missile Crisis (Figure 1) which took place primarily in the second half of 1962, involved the United States, the Soviet Union, and Cuba, and is widely known for bringing the world to the brink of nuclear war (hereafter Cuban Missiles). The second is the Crimea-Donbas Crisis (SI Appendix 4.1) which took place primarily in 2014, involved Russia, Ukraine, and NATO, and within a decade spiraled into a full scale invasion (herafter Crimea-Donbas). Both cases involve a superpower in crisis with a neighbor, initiated by a change from a friendly to hostile regime, with implications for economic and military security for the superpower, risked full scale invasion, and eventually invited intervention by opposing superpowers. We choose these cases because they are substantively significant to 20th and 21st century international relations, widely known across scientific disciplines and popular culture, and are sufficiently brief to evaluate in depth. 
 
 Recall
 ========================================
 
-Recall measures the share of desired information recovered by a sequence of coded events, $Pr(E|H)$, and is poorly defined for historical episodes. First, there is no genuine ground truth about what occurred, only surviving texts about it. Second, there is no \textit{a priori} guide to what information is necessary detail and what is ignorable trivia. History suffers from what is known as the Coastline Paradox [@mandelbrotFractalGeometryNature1983] --- it has a fractal dimension greater than one such that the more you zoom in the more detail you will find about individual events and in between every two discrete events. The ICBe ontology is a proposal about what information is important, but we need an independent benchmark to evaluate whether that proposal is a good one and that allows for comparing proposals from event projects that had different goals. We need a yardstick for history.
+Recall measures the share of desired information recovered by a sequence of coded events, $Pr(E|H)$, and is poorly defined for historical episodes. First, there is no genuine ground truth about what occurred, only surviving texts about it. Second, there is no \textit{a priori} guide to what information is necessary detail and what is ignorable trivia. History suffers from what is known as the Coastline Paradox [@mandelbrotFractalGeometryNature1983] --- it has a fractal dimension greater than one such that the more you zoom in the more detail you will find about individual events and in between every two discrete events. The ICBe ontology is a proposal about what information is important, but we need an independent benchmark to evaluate whether that proposal is a good one that allows for comparing proposals from event projects that had different goals. We need a yardstick for history.
 
-Our strategy for dealing with both problems is a plausibly objective yardstick called a synthetic historical narrative. For both case studies, we collect a large diverse corpus of narratives spanning timelines, encyclopedia entries, journal articles, news reports, websites, and government documents. Using natural language processing (fully described in SI Appendix, Algorithm C1), we identify details that appear across multiple accounts. The more accounts that mention a detail, the more central it is to understanding the true historical episode. The theoretical motivation is that authors face word limits which force them to pick and choose which details to include, and they choose details which serve the specific context of the document they are producing. With a sufficiently large and diverse corpus of documents, we can vary the context while holding the overall episode constant and see which details tend to be invariant to context. Intuitively, a high quality event dataset should have high recall for context invariant details both because of their broader relevance and also because they are easier to find in source material.
+Our strategy for dealing with both problems is a plausibly objective yardstick called a synthetic historical narrative. For both case studies, we collect a large diverse corpus of narratives spanning timelines, encyclopedia entries, journal articles, news reports, websites, and government documents. Using natural language processing (fully described in SI Appendix 3.1), we identify details that appear across multiple accounts. The more accounts that mention a detail, the more central it is to understanding the true historical episode. The theoretical motivation is that authors face word limits which force them to pick and choose which details to include, and they choose details which serve the specific context of the document they are producing. With a sufficiently large and diverse corpus of documents, we can vary the context while holding the overall episode constant and see which details tend to be invariant to context. Intuitively, a high quality event dataset should have high recall for context invariant details both because of their broader relevance and also because they are easier to find in source material.
 
 Synthetic historical narratives for Cuban Missiles (51 events drawn from 2020 documents) and Crimea-Donbas (30 events drawn from 971 documents) appear in Figure 2. Each row represents a detail which appeared in at least five documents along with an approximate start date, a hand written summary, the number of documents it was mentioned in, and whether it could be identified in the text of our ICB corpus, in our ICBe events, or any of the competing systems.
 
@@ -690,7 +696,9 @@ replace_emoticons_crimea <- function(x){
             #Ukraine
             str_replace_all('\U0001f1fA\U0001f1e6',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q212.png) ")) %>% 
             #
-            str_replace_all('Crimea', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15966495.png) "))
+            str_replace_all('Crimea', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15966495.png) ")) %>% 
+            #
+            str_replace_all('🇪🇺', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q458.png) "))
                             }
 
 
@@ -974,7 +982,7 @@ image_write(combined, here::here("replication_paper", "political_analysis_draft"
 \begin{figure}[H]
 \caption{Measuring Recall with Synthetic Historical Narratives \label{fig:case_study_cuban_recall}}
 \centering{\includegraphics[height=18cm]{./recall_cuban_and_crimea_andcounts.png}}
-\textit{Notes: Synthetic narratives combine several thousand accounts of each crisis into a single timeline of events, taking only those mentioned in at least 5 or more documents. Checkmarks represent whether that event could be hand matched to any detail in the ICB corpus, ICBe dataset, or any of the other event datasets.}
+\textit{Notes: Synthetic narratives combine several thousand accounts of each crisis into a single timeline of events, taking only those mentioned in at least 5 or more documents. Checkmarks represent whether that event could be hand matched to any detail in the ICB corpus, ICBe dataset, or any of the other event datasets (SI Appendix 3.2 and 3.3).}
 \end{figure}
 \clearpage
 <!-- \twocolumn -->
@@ -983,7 +991,7 @@ image_write(combined, here::here("replication_paper", "political_analysis_draft"
 Precision
 ========================================
 
-The other side of event measurement is precision, the degree to which a sequence of events correctly and usefully describes the information in history, $Pr(H|E)$. It does little good to recall a historical event but too vaguely (e.g. MIDs describes the Cuban Missile crisis as a blockade, a show of force, and a stalemate) or with too much error (e.g. ICEWS records 263 "Detonate Nuclear Weapons" events between 1995-2019) to be useful for downstream applications. ICBe's ontology and coding system is designed to strike a balance so that the most important information is recovered accurately but also abstracted to a level that is still useful and interpretable. You should be able to lay out events of a crisis on a timeline, as in Figure 3, and read off the macro structure of an episode from each individual move. We call this visualization a crisis map, a directed graph intersected with a timeline, and provide crisis maps for every event dataset for each case study (SI Appendix, Fig. D3 and D4) and all crises on the companion website.
+The other side of event measurement is precision, the degree to which a sequence of events correctly and usefully describes the information in history, $Pr(H|E)$. It does little good to recall a historical event but too vaguely (e.g. MIDs describes the Cuban Missile crisis as a blockade, a show of force, and a stalemate) or with too much error (e.g. ICEWS records 263 "Detonate Nuclear Weapons" events between 1995-2019) to be useful for downstream applications. ICBe's ontology and coding system is designed to strike a balance so that the most important information is recovered accurately but also abstracted to a level that is still useful and interpretable. You should be able to lay out events of a crisis on a timeline, as in Figure 3, and read off the macro structure of an episode from each individual move. We call this visualization a crisis map, a directed graph intersected with a timeline, and provide crisis maps for every event dataset for each case study in SI Appendix 4.3 and 4.4 and for all crises on the companion website.
 
 ```{r crisis map function, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
@@ -1369,7 +1377,6 @@ icbe_crisismaps <- function(thiscrisis=471, prune_rare=T){
 ```
 
 
-
 ```{r eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
 library(ggplot2)
@@ -1428,13 +1435,13 @@ save_plot(file=paste0(here::here(), '/replication_paper/political_analysis_draft
 
 ```
 
-We further want to verify individual event codings, which we can do in the case of ICBe because each event is mapped to a specific span of text. We develop the iconography system for presenting event codings as coherent statements that can be compared side by side to the original source narrative as for Cuban Missiles (Figure 1), Crimea-Donbas (SI Appendix Table D1), and for every case on the companion website. We further provide a stratified sample of event codings alongside their source text (SI Appendix Table D2).
+We further want to verify individual event codings, which we can do in the case of ICBe because each event is mapped to a specific span of text. We develop the iconography system for presenting event codings as coherent statements that can be compared side by side to the original source narrative as for Cuban Missiles (Figure 1), Crimea-Donbas (SI Appendix 4.1), and for every case on the companion website. We further provide a stratified sample of event codings alongside their source text (SI Appendix 4.2).
 
-We find both the visualizations of macro structure and head-to-head comparisons of ICBe codings to the raw text to strongly support the quality of ICBe, but as with recall we seek a more objective detached universal benchmark. Our proposed measure is a reconstruction task to see whether our intended ontology can be recovered through only unsupervised clustering of sentences they were applied to. Figure 4 shows the location of every sentence from the ICBe corpus in semantic space as embeded using the same large language model as before, and the median location of each ICBe event tag applied to those sentences.^[We preprocess sentences to replace named entities with a generic Entity token.] Labels reflect the individual leaves of the ontology and colors reflect the higher level coerce branch nodes of the ontology. If ICBe has high precision, substantively similar tags ought to have been applied to substantively similar source text, which is what we see both in two dimensions in the main plot and via hierarchical clustering on all dimensions in the dendrogram along the righthand side.^[Hierchcial clustering on cosine similarity and with Ward's method.]
+We find both the visualizations of macro structure and head-to-head comparisons of ICBe codings to the raw text to strongly support the quality of ICBe, but as with recall we seek a more objective detached universal benchmark. Our proposed measure is a reconstruction task to see whether our intended ontology can be recovered through only unsupervised clustering of sentences they were applied to. Figure 4 shows the location of every sentence from the ICBe corpus in semantic space as embeded using the same large language model as before, and the median location of each ICBe event tag applied to those sentences.^[We preprocess sentences to replace named entities with a generic Entity token.] Labels reflect the individual leaves of the ontology and colors reflect the higher level coarse branch nodes of the ontology. If ICBe has high precision, substantively similar tags ought to have been applied to substantively similar source text, which is what we see both in two dimensions in the main plot and via hierarchical clustering on all dimensions in the dendrogram along the righthand side.^[Hierchcial clustering on cosine similarity and with Ward's method.]
 
-Finally, how does ICBe's precision compare to the existing state of the art? The crisis-maps reveal the episode level datasets like MIDs or the original ICB are too sparse and vague to reconstruct the structure of the crisis (SI Appendix Figure D3 and D4). On the other end of the spectrum, the high recall dictionary based event datasets like Terrier and ICEWs produce so many noisy events (several hundreds thousands) that even with heavy filtering their crisis maps are completely unintelligible. Further, because of copyright issues, none of these datasets directly provide the original text spans making event level precision difficult to verify.
+Finally, how does ICBe's precision compare to the existing state of the art? The crisis-maps reveal the episode level datasets like MIDs or the original ICB are too sparse and vague to reconstruct the structure of the crisis (SI Appendix 4.3 and 4.4). On the other end of the spectrum, the high recall dictionary based event datasets like Terrier and ICEWs produce so many noisy events (several hundreds thousands) that even with heavy filtering their crisis maps are completely unintelligible. Further, because of copyright issues, none of these datasets directly provide the original text spans making event level precision difficult to verify.
 
-However, given their high recall on our task and the global and real-time coverage of dictionary based event systems, we want to take seriously the possibility that some functional transformation could recover the precision of ICBe. For example, [@terechshenkoHotCollarLatent2020] attempts to correct for the mechanically increasing amount of news coverage each year by detrending violent event counts from Phoenix using a human coded baseline. Others have focused on verifying precision for ICEWs on specific subsets of details against known ground truths, e.g. geolocation [@cookLostAggregationImproving2019], protest events (80%) [@wuestExternalValidationProtest2020], anti-government protest networks (46.1%) [@jagerLimitsStudyingNetworks].
+However, given their high recall on our task and the global and real-time coverage of dictionary based event systems, we want to take seriously the possibility that some functional transformation could recover the precision of ICBe. For example, @terechshenkoHotCollarLatent2020 attempts to correct for the mechanically increasing amount of news coverage each year by detrending violent event counts from Phoenix using a human coded baseline. Others have focused on verifying precision for ICEWs on specific subsets of details against known ground truths, e.g. geolocation [@cookLostAggregationImproving2019], protest events (80%) [@wuestExternalValidationProtest2020], anti-government protest networks (46.1%) [@jagerLimitsStudyingNetworks2018].
 
 We take the same approach here in Figure 5, selecting four specific CAMEO event codings and checking how often they reflect a true real world event. We choose four event types around key moments in the crisis. The start of the crisis revolves around Ukraine backing out of trade deal with the EU in favor of Russia, but "sign formal agreement" events act more like a topic detector with dozens of events generated by discussions of a possible agreement but not the actual agreement which never materialized. The switch is caught by the "reject plan, agreement to settle dispute", but also continues for Victor Yanukovych for even after he was removed from power because of articles retroactively discussing the cause of his of his removal. Events for "use conventional military force" capture a threshold around the start of hostilities and who the participants were but not any particular battles or campaigns. Likewise, "impose embargo, boycott, or sanctions" captures the start of waves of sanctions and from who but are effectively constantly as the news coverage does not distinguish between subtle changes or additions. In sum, dictionary based methods on news corpora tend to have high recall because they parse everything in the news, but for the same reason their specificity for most event types is too low to back out individual chess like sequencing that ICBe aims to record.
 
@@ -1505,12 +1512,14 @@ reticulate::py_discover_config()
 
 #use_python("/home/skynet3/anaconda3/bin/python/")
 #use_python("/home/tlscherer/anaconda3/bin/python3")
+#py_install("sentence-transformers")
 
 ```
 
 ```{python, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 #Can't get this and spacy to work in the same run. Once reticulate loads once it sticks with the environment that came first and I can't figure out how to switch it.
 #pip install -U sentence-transformers
+
 
 fromscratch=False
 
@@ -1634,11 +1643,11 @@ p_semantic_embeddings <-
       #           colour = "white", fontface = "bold", label.padding = unit(0.1, "lines"),
       #           min.segment.length = 0
       #           ) + 
-      labs(
-          title = "Variation in Tags by Semantic Embeddings of Source Sentences",
-          subtitle = "Sentence Embedding Paraphrase-MPNET-base-v2, UMAP Projection ",
-          caption = ""
-      ) +
+      # labs(
+      #     title = "Variation in Tags by Semantic Embeddings of Source Sentences",
+      #     subtitle = "Sentence Embedding Paraphrase-MPNET-base-v2, UMAP Projection ",
+      #     caption = ""
+      # ) +
      #scale_color_manual(values = value_normalized_colors) +
      scale_fill_manual(values = value_normalized_colors) +
      scale_x_continuous(expand = c(0, 0)) +
@@ -1680,18 +1689,23 @@ p_dendro <- ggplot() +
             theme(legend.position="none")
 #p_dendro
 
+ggsave(file=paste0(here::here(), '/replication_paper/political_analysis_draft/p_dendro.png'), plot = p_dendro, width=12, height=10)
+
 p_combined <- plot_grid(
+  NULL,
   p_semantic_embeddings + xlab("") + ylab("") + 
   theme(axis.ticks.x = element_blank(), axis.text.x = element_blank()) + 
   theme(axis.ticks.y = element_blank(), axis.text.y = element_blank()),
+  NULL,
   p_dendro  + xlab("") + ylab("") + 
   theme(axis.ticks.x = element_blank(), axis.text.x = element_blank()) + 
   theme(axis.ticks.y = element_blank(), axis.text.y = element_blank()),  
   labels = c('',''),
-  align = "v", ncol = 2, rel_widths = c(3, 1)  )
+  align = "v", nrow = 1, rel_widths = c(-.2, 3.5, -.4, 1.5)  ) #increase the second width to give the dendro more room
 #p_combined
 
 ggsave(file=paste0(here::here(), '/replication_paper/political_analysis_draft/p_semantic_embeddings_dendro.png'), plot = p_combined, width=12, height=10)
+
 
 
 ```
@@ -1709,7 +1723,7 @@ ggsave(file=paste0(here::here(), '/replication_paper/political_analysis_draft/p_
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
 
-if(fromscratch){
+#if(fromscratch){
 
 library(ggplot2)
 library(readr)
@@ -1719,6 +1733,36 @@ library(stringr)
 library(ggtext)
 
 icews_clean_subset_top10_day <- read_tsv(here::here("replication_paper", "data", "out", "icews_clean_471_lowest.tsv")) 
+
+icews_clean_subset_top10_day <- icews_clean_subset_top10_day %>% 
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all("/mnt/8tb_a/rwd_github_private/ICBEdataset", here::here())) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(" ", "")) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all("VladimirPutin", "Putin")) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("png))"), stringr::fixed("png)"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("(!"), stringr::fixed("!"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("ViktorYanukovych->![](/"), stringr::fixed("Yanukovych->.![](/"))) %>% 
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Putin->![](/"), stringr::fixed("Putin->![](/"))) %>%  
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Military![]"), stringr::fixed("Military-![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Police![]"), stringr::fixed("Police.![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Citizen![]"), stringr::fixed("Citizen..![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("ArmedRebel![]"), stringr::fixed("ArmedRebel-![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Bank![]"), stringr::fixed("Bank.![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Business![]"), stringr::fixed("Business.![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Insurgent![]"), stringr::fixed("Insurgent-![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Separatist![]"), stringr::fixed("Separatist-![]"))) %>%  
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("BarackObama->![](/"), stringr::fixed("Obama->.![](/"))) 
+
+
+#Separatist(![](/home/tlscherer/Desktop/ICBEdataset/replication_data/in/flags_small//Q212.png))->Military(![](/home/tlscherer/Desktop/ICBEdataset/replication_data/in/flags_small//Q212.png))
+  
+  #dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("(!"), stringr::fixed("--!"))) %>%
+
+
+
+
+
+#/replication_data/in/flags_small//Q159.png
+
 
 keys <- c("sign formal agreement") #"express accord", #,"declare truce, ceasefire"
 events1 <- icews_clean_subset_top10_day %>% 
@@ -1783,17 +1827,23 @@ p4 <- events4 %>%
       labs(subtitle=keys %>% paste(collapse="; ")) +
       tidytext::scale_y_reordered() 
 
-
 library(cowplot)
 p_ICEWS <- plot_grid(
-           p1 + xlim(as.Date('2013-07-01'), as.Date('2015-07-01')) + 
-             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)  ),
+           p1 + xlim(as.Date('2013-07-01'), as.Date('2015-07-01')) +
+             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)) +
+             # theme(axis.ticks=element_blank()),
+            theme(axis.title=element_blank(),
+                axis.ticks.length = unit(.2, "cm"),
+                axis.ticks=element_blank()),
            p2 + xlim(as.Date('2013-07-01'), as.Date('2015-07-01')) + 
-             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)  ),
+             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)) +
+             theme(axis.ticks=element_blank()),
            p3 + xlim(as.Date('2013-07-01'), as.Date('2015-07-01')) + 
-             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)  ),
+             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)) +
+             theme(axis.ticks=element_blank()),
            p4 + xlim(as.Date('2013-07-01'), as.Date('2015-07-01')) + 
-             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)  ),
+             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)) +
+             theme(axis.ticks=element_blank()),
            #labels = c('Cuban Missiles','Crimea-Donbas'), 
            align = "v", ncol = 1 , rel_widths = c(1) )
 
@@ -1801,7 +1851,7 @@ save_plot(file=paste0(here::here(),
                       '/replication_paper/political_analysis_draft/p_precision_icews.png'),
           p_ICEWS, base_height = 10, base_width = 14)
 
-}
+#}
 
 ```
 
@@ -1809,12 +1859,13 @@ save_plot(file=paste0(here::here(),
 \clearpage
 <!-- \onecolumn -->
 \begin{figure}[H]
-\caption{ ICEWs Events by Day by Type during the Crimea-Donbas Crisis \label{fig:p_precision_icews}}
+\caption{ICEWs Events by Day by Type during the Crimea-Donbas Crisis \label{fig:p_precision_icews}}
 \centering{\includegraphics[width=17cm]{./p_precision_icews.png}}
-\textit{Notes:Unit of analysis is the Dyad-Day. Edges <-> indicates undirected dyad and -> indicates directed dyad. Top 10 most active dyads per category shown. Red text shows events from the synthetic narrative relative to that event category. Blue bars indicate an event recorded by ICEWs for that dyad on that day. }
+\textit{Notes:Unit of analysis is the Dyad-Day. Top 10 most active dyads per category shown. Red text shows events from the synthetic narrative relative to that event category. Blue bars indicate an event recorded by ICEWs for that dyad on that day. }
 \end{figure}
 \clearpage
 <!-- \twocolumn -->
+<!-- Edges <-> indicates undirected dyad and -> indicates directed dyad.  # removed from legend with update-->
 
 <!--
 286 Sign formal agreement

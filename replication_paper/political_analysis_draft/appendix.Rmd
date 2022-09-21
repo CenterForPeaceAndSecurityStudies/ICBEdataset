@@ -84,6 +84,8 @@ header-includes:
 #  - \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
 #  - \usepackage{subfigure}
   - \usepackage{subcaption}
+  - \captionsetup[algorithm]{labelformat=empty}
+  - \captionsetup[figure]{labelformat=empty}
   - \usepackage{atbegshi}% http://ctan.org/pkg/atbegshi
   - \usepackage{float}
 #  - \usepackage{eso-pic,graphicx,transparent}
@@ -178,8 +180,8 @@ icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
 
 ```
 \clearpage
-# Appendix A Corpus and Cases
-## Table A1: ICBe Crises and Summary Information {#app:crises}
+# Corpus and Cases
+## ICBe Crises and Summary Information {#app:crises}
 
 ```{r ICBe Crisis Summaries, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F}
 
@@ -313,7 +315,7 @@ temp_all %>% ungroup() %>% filter(crisno %in% c(421:480) ) %>% convert_to_ft()  
 \clearpage
 
 
-## Table A2: Verb Meanings (Glosses) found in the ICB Corpus (top 200) {#app:verbs}
+## Verb Meanings (Glosses) found in the ICB Corpus (top 200) {#app:verbs}
 \hphantom{em}
 
 
@@ -628,10 +630,10 @@ verbs_sentence_wordnet_top_ft
 
 \clearpage
 
-# Appendix B: Coding Process
+# Coding Process
 \hphantom{em}
 
-## Figure B1: Graphical User Interface {#app:gui}
+## Graphical User Interface {#app:gui}
 \hphantom{em}
 
 \begin{figure}[H]
@@ -640,7 +642,7 @@ verbs_sentence_wordnet_top_ft
 \end{figure}
 \clearpage
 
-## Algorithm B2: Coding Aggregation and Filtering {#app:algo1}
+## Coding Aggregation and Filtering {#app:algo1}
 \hphantom{em}
 
 \begin{algorithm}[H]
@@ -669,7 +671,7 @@ verbs_sentence_wordnet_top_ft
 \clearpage
 
 
-## Figure B3 : Intercoder Agreement {#app:intercoderagreement}
+## Intercoder Agreement {#app:intercoderagreement}
 \hphantom{em}
 
 ```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
@@ -745,7 +747,7 @@ if(fromscratch){
 \clearpage
 
 
-## Figure B4 : Intercoder Agreement by Confidence {#app:agreement_by_confidence}
+## Intercoder Agreement by Confidence {#app:agreement_by_confidence}
 \hphantom{em}
 
 ```{r intercoder agreement , eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
@@ -791,10 +793,10 @@ if(fromscratch){
 \clearpage
 
 
-# Appendix C: Recall
+# Recall
 \hphantom{em}
 
-## Algorithm C1: Synthetic Narratives
+## Synthetic Narratives
 \hphantom{em}
 
 A synthetic narrative is constructed as follows. First, compile a large corpus, $D$, of timelines, encyclopedia entries, journal articles, news reports, websites, and government documents. Next, segment into sentences, $s \in S$, clean, filter, and break into simpler concise sentences, $s^* \in S^*$, using a large natural language model, BART [@lewisBARTDenoisingSequencetoSequence2019], fine-tuned on summarization tasks, distilbart-cnn-12-6 [@shleiferPretrainedSummarizationDistillation2020]. Then, calculate semantic similarity between each $S*$ by embedding them with a different large language model, MPNet [@songMPNetMaskedPermuted], fine tuned to identify paraphrasing [@reimersSentenceBERTSentenceEmbeddings2019;@reimersMakingMonolingualSentence2020]. Next, constructed an undirected weighted graph of pair above 95th percentile cosine similarity and hierarchically cluster them into potential events $e^* \in E^*$ [@clausetFindingCommunityStructure2004]. The resulting set of $E^*$ are small enough to check by hand, summarize, and place in chronological order. The relevant formulas and algorithm are shown below.
@@ -872,7 +874,7 @@ dendrogram=list()
 \end{algorithm}
 \clearpage
 
-## Table C2: Synthetic Narrative Matches Cuban Missile
+## Synthetic Narrative Matches Cuban Missile
 \hphantom{em}
 
 
@@ -1136,7 +1138,7 @@ ft_cuba_recall %>% save_as_image(path=here::here("replication_paper", "political
 
 
 
-## Table C3: Synthetic Narrative Matches Crimea-Donbas
+## Synthetic Narrative Matches Crimea-Donbas
 \hphantom{em}
 
 
@@ -1197,8 +1199,8 @@ ft_crimea_recall %>% save_as_image(path=here::here("replication_paper", "politic
 \end{figure}
 \clearpage
 
-# Appendix D: Precision
-## Figure D1 Crimea-Donbas 
+# Precision
+## Crimea-Donbas Narrative
 \hphantom{em}
 
 ```{r crimea case study precision, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
@@ -1287,7 +1289,7 @@ if(fromscratch){
 \end{figure}
 \clearpage
 
-## Table D2: Stratified Sentence Examples
+## Stratified Sentence Examples
 
 ```{r Stratified Sentence Examples, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
 
@@ -1386,7 +1388,6 @@ ft_sample_precision_precision4 %>% save_as_image(path=here::here("replication_pa
 \end{figure}
 \clearpage
 
-
 \hphantom{em}
 \begin{figure}[H]
 \centering{\includegraphics[height=21cm]{"./ft_sample_precision_precision2.png"}}
@@ -1403,9 +1404,8 @@ ft_sample_precision_precision4 %>% save_as_image(path=here::here("replication_pa
 \begin{figure}[H]
 \centering{\includegraphics[height=21cm]{"./ft_sample_precision_precision4.png"}}
 \end{figure}
-\clearpage
 
-## Figure D3 Crisis Maps Cuban Missiles
+## Cuban Missiles Crisis Maps
 
 ```{r crisis maps common functions, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
 
@@ -3949,6 +3949,11 @@ save_plot(file=paste0(here::here(), '/replication_paper/political_analysis_draft
 ```
 
 \begin{figure}[H]
+\caption{Crisis Map: Crimea-Donbas  \label{fig:p_471_icbe}}
+\centering{\includegraphics[width=17cm]{./p_471_icbe.png}}
+\end{figure}
+
+\begin{figure}[H]
 \begin{adjustbox}{
   addcode={\begin{minipage}{\width}
            \caption{Crisis Maps - Cuban Missiles}}
@@ -3983,7 +3988,7 @@ if(fromscratch){
 \end{figure}
 \clearpage
 
-## Figure D4 Crisis Maps Crimea-Donbas
+## Crimea-Donbas Crisis Maps 
 
 ```{r eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 

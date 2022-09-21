@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.8)  12 SEP 2022 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.8)  21 SEP 2022 00:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -862,128 +862,55 @@ LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
 
 
 {/home/tlscherer/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-<./case_study_cuban_precision.png, id=99, 999.735pt x 1157.32375pt>
+<./case_study_cuban_precision.png, id=99, 999.735pt x 1106.1325pt>
 File: ./case_study_cuban_precision.png Graphic file (type png)
 <use ./case_study_cuban_precision.png>
-Package pdftex.def Info: ./case_study_cuban_precision.png  used on input line 303.
-(pdftex.def)             Requested size: 466.99237pt x 540.60236pt.
+Package pdftex.def Info: ./case_study_cuban_precision.png  used on input line 302.
+(pdftex.def)             Requested size: 488.59305pt x 540.60236pt.
+
+Overfull \hbox (18.83806pt too wide) in paragraph at lines 302--303
+ [][] 
+ []
+
 [3
 
  <./case_study_cuban_precision.png>] [4
 
 ]
-Overfull \hbox (17.7975pt too wide) in alignment at lines 397--412
- [] [] [] [] [] [] [] [] [] [] [] [] 
+Overfull \hbox (1.19484pt too wide) in paragraph at lines 433--433
+ []|[]\T1/lmr/m/n/6 (-20) 28.4M[]| 
  []
 
 
-Overfull \hbox (17.7975pt too wide) in alignment at lines 412--424
- [] [] [] [] [] [] [] [] [] [] [] [] 
+Overfull \hbox (1.19484pt too wide) in paragraph at lines 433--433
+ []|[]\T1/lmr/m/n/6 (-20) 17.5M[]| 
  []
-
-
-Overfull \hbox (2.92065pt too wide) in paragraph at lines 440--440
- []|[]\T1/lmr/m/n/7 (-20) 28.4M[]| 
- []
-
-
-Overfull \hbox (2.92065pt too wide) in paragraph at lines 440--440
- []|[]\T1/lmr/m/n/7 (-20) 17.5M[]| 
- []
-
-
-Overfull \hbox (1.76208pt too wide) in paragraph at lines 458--458
- []|[]\T1/lmr/m/n/7 (-20) Event[]| 
- []
-
-
-Overfull \hbox (1.76208pt too wide) in paragraph at lines 458--458
- []|[]\T1/lmr/m/n/7 (-20) Event[]| 
- []
-
-
-Overfull \hbox (5.24863pt too wide) in paragraph at lines 458--458
- []|[]\T1/lmr/m/n/7 (-20) Article[]| 
- []
-
-
-Overfull \hbox (1.76208pt too wide) in paragraph at lines 458--458
- []|[]\T1/lmr/m/n/7 (-20) Event[]| 
- []
-
-
-Overfull \hbox (1.76208pt too wide) in paragraph at lines 458--458
- []|[]\T1/lmr/m/n/7 (-20) Event[]| 
- []
-
-
-Overfull \hbox (1.76208pt too wide) in paragraph at lines 458--458
- []|[]\T1/lmr/m/n/7 (-20) Event[]| 
- []
-
-
-Overfull \hbox (1.76208pt too wide) in paragraph at lines 464--464
- []|[]\T1/lmr/m/n/7 (-20) Event[]| 
- []
-
-
-Overfull \hbox (1.01776pt too wide) in paragraph at lines 464--464
- []|[]\T1/lmr/m/n/7 (-20) Actor[]| 
- []
-
-
-Overfull \hbox (1.76208pt too wide) in paragraph at lines 464--464
- []|[]\T1/lmr/m/n/7 (-20) Event[]| 
- []
-
-
-Overfull \hbox (1.01776pt too wide) in paragraph at lines 464--464
- []|[]\T1/lmr/m/n/7 (-20) Actor[]| 
- []
-
-
-Overfull \hbox (1.76208pt too wide) in paragraph at lines 464--464
- []|[]\T1/lmr/m/n/7 (-20) Event[]| 
- []
-
-
-Overfull \hbox (1.01776pt too wide) in paragraph at lines 464--464
- []|[]\T1/lmr/m/n/7 (-20) Actor[]| 
- []
-
-
-Overfull \hbox (17.7975pt too wide) in alignment at lines 424--650
- [] [] [] [] [] [] [] [] [] [] [] [] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [5
 
 ] [6
 
 ] [7]
-<./recall_cuban_and_crimea_andcounts.png, id=149, 964.60374pt x 949.5475pt>
+<./recall_cuban_and_crimea_andcounts.png, id=147, 964.60374pt x 949.5475pt>
 File: ./recall_cuban_and_crimea_andcounts.png Graphic file (type png)
 <use ./recall_cuban_and_crimea_andcounts.png>
-Package pdftex.def Info: ./recall_cuban_and_crimea_andcounts.png  used on input line 833.
+Package pdftex.def Info: ./recall_cuban_and_crimea_andcounts.png  used on input line 824.
 (pdftex.def)             Requested size: 520.28952pt x 512.1496pt.
 
-Overfull \hbox (50.53453pt too wide) in paragraph at lines 833--835
+Overfull \hbox (50.53453pt too wide) in paragraph at lines 824--826
  [][] 
  []
 
 [8
 
  <./recall_cuban_and_crimea_andcounts.png>]
-<./p_196_icbe.png, id=158, 975.645pt x 1300.86pt>
+<./p_196_icbe.png, id=156, 975.645pt x 1300.86pt>
 File: ./p_196_icbe.png Graphic file (type png)
 <use ./p_196_icbe.png>
-Package pdftex.def Info: ./p_196_icbe.png  used on input line 933.
+Package pdftex.def Info: ./p_196_icbe.png  used on input line 924.
 (pdftex.def)             Requested size: 483.69684pt x 644.9301pt.
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 933--934
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 924--925
  [][] 
  []
 
@@ -993,26 +920,26 @@ Overfull \hbox (13.94185pt too wide) in paragraph at lines 933--934
 Overfull \vbox (12.45009pt too high) has occurred while \output is active []
 
 [10 <./p_196_icbe.png>]
-<./p_semantic_embeddings_dendro.png, id=172, 867.24pt x 722.7pt>
+<./p_semantic_embeddings_dendro.png, id=169, 867.24pt x 722.7pt>
 File: ./p_semantic_embeddings_dendro.png Graphic file (type png)
 <use ./p_semantic_embeddings_dendro.png>
-Package pdftex.def Info: ./p_semantic_embeddings_dendro.png  used on input line 940.
+Package pdftex.def Info: ./p_semantic_embeddings_dendro.png  used on input line 931.
 (pdftex.def)             Requested size: 483.69684pt x 403.0882pt.
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 940--942
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 931--933
  [][] 
  []
 
 [11
 
  <./p_semantic_embeddings_dendro.png>]
-<./p_precision_icews.png, id=179, 1011.78pt x 722.7pt>
+<./p_precision_icews.png, id=177, 1011.78pt x 722.7pt>
 File: ./p_precision_icews.png Graphic file (type png)
 <use ./p_precision_icews.png>
-Package pdftex.def Info: ./p_precision_icews.png  used on input line 949.
+Package pdftex.def Info: ./p_precision_icews.png  used on input line 940.
 (pdftex.def)             Requested size: 483.69684pt x 345.5026pt.
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 949--951
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 940--942
  [][] 
  []
 
@@ -1022,6 +949,21 @@ Overfull \hbox (13.94185pt too wide) in paragraph at lines 949--951
  <./p_precision_icews.png>] [13
 
 ]
+Underfull \hbox (badness 2951) in paragraph at lines 1059--1065
+[]\T1/lmr/m/n/10 (+20) Beardsley, Kyle, Patrick James, Jonathan Wilken-feld, and Michael Brecher. 2020. ``The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1065
+\T1/lmr/m/n/10 (+20) In-ter-na-tional Cri-sis Be-hav-ior Project.'' \T1/lmr/m/it/10 (+20) Ox-ford Re-search En-cy-clo-pe-dia of Pol-i-tics\T1/lmr/m/n/10 (+20) .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1065
+\T1/lmr/m/n/10 (+11) https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [14
@@ -1036,19 +978,16 @@ No file ICBe_political_analysis_submission_rmd.bbl.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `ICBe_political_analysis_submission_rmd.out' has not changed.
-(rerunfilecheck)             Checksum: F19DA6B06238AF7E48DA14A11E903167;2285.
+(rerunfilecheck)             Checksum: 1F154678D6FFDCA15CA1AD4B937F0938;2269.
  ) 
 Here is how much of TeX's memory you used:
- 17792 strings out of 477035
- 299208 string characters out of 5827875
- 848358 words of memory out of 5000000
- 38232 multiletter control sequences out of 15000+600000
- 541327 words of font info for 181 fonts, out of 8000000 for 9000
+ 17800 strings out of 477035
+ 299315 string characters out of 5827875
+ 852748 words of memory out of 5000000
+ 38234 multiletter control sequences out of 15000+600000
+ 544546 words of font info for 185 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 83i,12n,131p,6880b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exist, replaced by a fixed one
-
+ 83i,12n,131p,7114b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exist, replaced by a fixed one
 
@@ -1079,11 +1018,11 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
-{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ICBe_political_analysis_submission_rmd.pdf (16 pages, 4169639 bytes).
+{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on ICBe_political_analysis_submission_rmd.pdf (16 pages, 4133082 bytes).
 PDF statistics:
- 433 PDF objects out of 1000 (max. 8388607)
- 367 compressed objects within 4 object streams
- 132 named destinations out of 1000 (max. 500000)
- 35994 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 429 PDF objects out of 1000 (max. 8388607)
+ 361 compressed objects within 4 object streams
+ 131 named destinations out of 1000 (max. 500000)
+ 38042 words of extra memory for PDF output out of 42996 (max. 10000000)
 
