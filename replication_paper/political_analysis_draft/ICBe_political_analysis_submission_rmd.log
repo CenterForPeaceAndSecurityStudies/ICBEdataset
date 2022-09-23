@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.8)  21 SEP 2022 00:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  23 SEP 2022 13:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -666,7 +666,7 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 ) (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/tools/hhline.sty
 Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 177.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 178.
 (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -676,24 +676,24 @@ File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 ) (./ICBe_political_analysis_submission_rmd.aux)
 \openout1 = `ICBe_political_analysis_submission_rmd.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -760,17 +760,17 @@ LaTeX Font Info:    ... okay on input line 177.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 177.
+Package hyperref Info: Link coloring OFF on input line 178.
 (./ICBe_political_analysis_submission_rmd.out) (./ICBe_political_analysis_submission_rmd.out)
 \@outlinefile=\write3
 \openout3 = `ICBe_political_analysis_submission_rmd.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 177.
-Package microtype Info: Applying patch `item' on input line 177.
-Package microtype Info: Applying patch `toc' on input line 177.
-Package microtype Info: Applying patch `eqnum' on input line 177.
+LaTeX Info: Redefining \microtypecontext on input line 178.
+Package microtype Info: Applying patch `item' on input line 178.
+Package microtype Info: Applying patch `toc' on input line 178.
+Package microtype Info: Applying patch `eqnum' on input line 178.
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 177.
+Package microtype Warning: Unable to apply patch `footnote' on input line 178.
 
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -778,7 +778,7 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 177.
+LaTeX Info: Redefining \showhyphens on input line 178.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -794,7 +794,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package tabu Warning: Package cellspace has some limitations 
 (tabu)                And redefines some macros of array.sty. 
 (tabu)                Please use \tabulinesep to control 
-(tabu)                vertical spacing of lines inside tabu environnement on input line 177.
+(tabu)                vertical spacing of lines inside tabu environnement on input line 178.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
@@ -808,41 +808,41 @@ Package microtype Info: Character `029' is missing
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 179.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 180.
 (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 179.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 180.
 (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 179.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 180.
 (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 179.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 180.
 (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 179.
+(Font)              <10> on input line 180.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 179.
+(Font)              <7> on input line 180.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 179.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 179.
+(Font)              <5> on input line 180.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 180.
 (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 179.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 180.
 (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 179.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 180.
 (/home/tlscherer/.TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -851,12 +851,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 179.
+(Font)              <9> on input line 180.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 179.
+(Font)              <6> on input line 180.
 
 LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
-(Font)              using `T1/lmr/bx/n' instead on input line 181.
+(Font)              using `T1/lmr/bx/n' instead on input line 182.
 
 [1
 
@@ -865,10 +865,10 @@ LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
 <./case_study_cuban_precision.png, id=99, 999.735pt x 1106.1325pt>
 File: ./case_study_cuban_precision.png Graphic file (type png)
 <use ./case_study_cuban_precision.png>
-Package pdftex.def Info: ./case_study_cuban_precision.png  used on input line 302.
+Package pdftex.def Info: ./case_study_cuban_precision.png  used on input line 303.
 (pdftex.def)             Requested size: 488.59305pt x 540.60236pt.
 
-Overfull \hbox (18.83806pt too wide) in paragraph at lines 302--303
+Overfull \hbox (18.83806pt too wide) in paragraph at lines 303--304
  [][] 
  []
 
@@ -877,13 +877,33 @@ Overfull \hbox (18.83806pt too wide) in paragraph at lines 302--303
  <./case_study_cuban_precision.png>] [4
 
 ]
-Overfull \hbox (1.19484pt too wide) in paragraph at lines 433--433
+Overfull \hbox (3.36285pt too wide) in paragraph at lines 434--434
  []|[]\T1/lmr/m/n/6 (-20) 28.4M[]| 
  []
 
 
-Overfull \hbox (1.19484pt too wide) in paragraph at lines 433--433
+Overfull \hbox (3.36285pt too wide) in paragraph at lines 434--434
  []|[]\T1/lmr/m/n/6 (-20) 17.5M[]| 
+ []
+
+
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 446--446
+ []|[]\T1/lmr/m/n/6 (-20) News[]| 
+ []
+
+
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 446--446
+ []|[]\T1/lmr/m/n/6 (-20) News[]| 
+ []
+
+
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 446--446
+ []|[]\T1/lmr/m/n/6 (-20) News[]| 
+ []
+
+
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 446--446
+ []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
 [5
@@ -894,10 +914,10 @@ Overfull \hbox (1.19484pt too wide) in paragraph at lines 433--433
 <./recall_cuban_and_crimea_andcounts.png, id=147, 964.60374pt x 949.5475pt>
 File: ./recall_cuban_and_crimea_andcounts.png Graphic file (type png)
 <use ./recall_cuban_and_crimea_andcounts.png>
-Package pdftex.def Info: ./recall_cuban_and_crimea_andcounts.png  used on input line 824.
+Package pdftex.def Info: ./recall_cuban_and_crimea_andcounts.png  used on input line 825.
 (pdftex.def)             Requested size: 520.28952pt x 512.1496pt.
 
-Overfull \hbox (50.53453pt too wide) in paragraph at lines 824--826
+Overfull \hbox (50.53453pt too wide) in paragraph at lines 825--827
  [][] 
  []
 
@@ -907,10 +927,10 @@ Overfull \hbox (50.53453pt too wide) in paragraph at lines 824--826
 <./p_196_icbe.png, id=156, 975.645pt x 1300.86pt>
 File: ./p_196_icbe.png Graphic file (type png)
 <use ./p_196_icbe.png>
-Package pdftex.def Info: ./p_196_icbe.png  used on input line 924.
+Package pdftex.def Info: ./p_196_icbe.png  used on input line 925.
 (pdftex.def)             Requested size: 483.69684pt x 644.9301pt.
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 924--925
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 925--926
  [][] 
  []
 
@@ -923,10 +943,10 @@ Overfull \vbox (12.45009pt too high) has occurred while \output is active []
 <./p_semantic_embeddings_dendro.png, id=169, 867.24pt x 722.7pt>
 File: ./p_semantic_embeddings_dendro.png Graphic file (type png)
 <use ./p_semantic_embeddings_dendro.png>
-Package pdftex.def Info: ./p_semantic_embeddings_dendro.png  used on input line 931.
+Package pdftex.def Info: ./p_semantic_embeddings_dendro.png  used on input line 932.
 (pdftex.def)             Requested size: 483.69684pt x 403.0882pt.
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 931--933
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 932--934
  [][] 
  []
 
@@ -936,10 +956,10 @@ Overfull \hbox (13.94185pt too wide) in paragraph at lines 931--933
 <./p_precision_icews.png, id=177, 1011.78pt x 722.7pt>
 File: ./p_precision_icews.png Graphic file (type png)
 <use ./p_precision_icews.png>
-Package pdftex.def Info: ./p_precision_icews.png  used on input line 940.
+Package pdftex.def Info: ./p_precision_icews.png  used on input line 941.
 (pdftex.def)             Requested size: 483.69684pt x 345.5026pt.
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 940--942
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 941--943
  [][] 
  []
 
@@ -949,17 +969,17 @@ Overfull \hbox (13.94185pt too wide) in paragraph at lines 940--942
  <./p_precision_icews.png>] [13
 
 ]
-Underfull \hbox (badness 2951) in paragraph at lines 1059--1065
+Underfull \hbox (badness 2951) in paragraph at lines 1070--1076
 []\T1/lmr/m/n/10 (+20) Beardsley, Kyle, Patrick James, Jonathan Wilken-feld, and Michael Brecher. 2020. ``The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1059--1065
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1076
 \T1/lmr/m/n/10 (+20) In-ter-na-tional Cri-sis Be-hav-ior Project.'' \T1/lmr/m/it/10 (+20) Ox-ford Re-search En-cy-clo-pe-dia of Pol-i-tics\T1/lmr/m/n/10 (+20) .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1059--1065
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1076
 \T1/lmr/m/n/10 (+11) https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-
  []
 
@@ -972,8 +992,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [15]
-No file ICBe_political_analysis_submission_rmd.bbl.
-[16] (./ICBe_political_analysis_submission_rmd.aux)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[17] [18] (./ICBe_political_analysis_submission_rmd.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -981,13 +1005,13 @@ Package rerunfilecheck Info: File `ICBe_political_analysis_submission_rmd.out' h
 (rerunfilecheck)             Checksum: 1F154678D6FFDCA15CA1AD4B937F0938;2269.
  ) 
 Here is how much of TeX's memory you used:
- 17800 strings out of 477035
- 299315 string characters out of 5827875
- 852748 words of memory out of 5000000
- 38234 multiletter control sequences out of 15000+600000
- 544546 words of font info for 185 fonts, out of 8000000 for 9000
+ 17861 strings out of 477035
+ 301274 string characters out of 5827874
+ 849654 words of memory out of 5000000
+ 38232 multiletter control sequences out of 15000+600000
+ 545203 words of font info for 190 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 83i,12n,131p,7114b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,12n,131p,4530b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exist, replaced by a fixed one
 
@@ -1019,10 +1043,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ICBe_political_analysis_submission_rmd.pdf (16 pages, 4133082 bytes).
+Output written on ICBe_political_analysis_submission_rmd.pdf (18 pages, 4158499 bytes).
 PDF statistics:
- 429 PDF objects out of 1000 (max. 8388607)
- 361 compressed objects within 4 object streams
- 131 named destinations out of 1000 (max. 500000)
+ 553 PDF objects out of 1000 (max. 8388607)
+ 482 compressed objects within 5 object streams
+ 185 named destinations out of 1000 (max. 500000)
  38042 words of extra memory for PDF output out of 42996 (max. 10000000)
 

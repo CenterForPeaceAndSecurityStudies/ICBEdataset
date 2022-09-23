@@ -98,6 +98,9 @@ bibliography: paper.bib
 biblio-style: unsrt
 output: rticles::arxiv_article
 
+nocite: |
+  @fazalStateDeathPolitics2011, @ryanNationStatesEmpiresWars2021, @spruytSovereignStateIts1996, @haffarEmergentPeacemakersCataloguing2002, @kuznetsovTheoryPracticeParadiplomacy2014,  @bushDensityDeclineFounding2019, @mcclearyPrivateVoluntaryOrganizations2008, @olterIntergovernmentalOrganizationsIGOs2021, @benyehudaEthnicActorsInternational2006, @buenodemesquitaDomesticExplanationsInternational2012, @lacinaExplainingSeverityCivil2006, @lacinaMonitoringTrendsGlobal2005, @carafanoMeasuringMilitaryPower2014, @goertzMeasuringMilitaryAllocations1986, @mcnabbcochranMeasuringMilitaryEffectiveness2017, @gartzkeCrossDomainDeterrenceStrategy2019, @lanoszkaLandpowerAmericanCredibility2016, @lindsayPoliticsManyOther2020, @carterStrategyTerritorialConflict2010, @luptonReexaminingReputationResolve2018, @goldgeierPsychologyInternationalRelations2001, @mercerProspectTheoryPolitical2005, @steinEvaluatingWarOutcomes1980, @sullivanWarAimsWar2007, @ramsayInformationUncertaintyWar2017, @yarhi-miloEyeBeholderHow2013, @oneillInternationalNegotiationConceptual2018, @tragerDiplomacyWarPeace2016, @zartmanEscalationNegotiationInternational2005, @davisThreatsPromisesPursuit2000, @sechserMilitarizedCompellentThreats2011, @powellBargainingTheoryInternational2002, @goemansIntroducingArchigosDataset2009, @harknessEthnicArmyState2016, @jonesHitMissEffect2009, @matanockElectingPeaceCivil2017, @powellGlobalInstancesCoups2011, @chenowethIntroducingNonviolentAction2019, @eckOneSidedViolenceCivilians2007, @lafreeIntroducingGlobalTerrorism2007, @beardsleyMediationDilemma2011, @giblerMeasuringAlliancesCorrelates2004, @owsiakInternationalBorderAgreements2018, @leedsAllianceReliabilityTimes2003, @leedsDomesticPoliticalInstitutions1999, @demesquitaForeignAidPolicy2007, @yarhi-miloArmAllyPatron2016, @laiEffectsDifferentTypes2004, @allenUSGlobalMilitary2021, @fortnaPeaceTime2018, @minInterstateWarBattle2021, @levyCausesWar2011, @reiterHowWarsEnd2009, @frederickIssueCorrelatesWar2017, @henselChartingCourseConflict1996
+
 #Disabled several the caused errors
 header-includes:
 #  - \usepackage{xr} \externaldocument{appendix} #External references from the appendix
@@ -148,6 +151,10 @@ header-includes:
   - \usepackage[algo2e]{algorithm2e}
 #  - \usepackage[backend = biber]{biblatex} #added in hopes of getting a bbl
   - \usepackage{changepage}
+#  - \renewenvironment{references}{}{}
+  - \renewcommand{\bibliography}[1]{} # removes the superflusous references section
+#  - \renewcommand{\bibliographystyle}[1]{} # might be an alternative to renewcommand bibliography
+#  - \renewenvironment{bibliography}{}{} # this drops the references but leaves an unnecessary paper. bib
 
 #https://tex.stackexchange.com/questions/131646/algorithm2e-command-algorithm-already-defined
 ---
@@ -356,11 +363,14 @@ flextable::set_flextable_defaults(fonts_ignore=TRUE)
 set_flextable_defaults(fonts_ignore=TRUE)
 
 lit_review_alt <- lit_review_pull %>% 
-                  mutate(Literature = paste0(" [",Literature %>% stringr::str_replace("; {0,}$","") ,"]")) %>%
-                  mutate(Concept= paste0("**", Concept, "**", Literature)) %>%
-                  mutate(Concept = Concept %>% stringr::str_replace(stringr::fixed("[NA]"),"") ) %>%
+                  mutate(Literature = paste0("",Literature %>% stringr::str_replace("; {0,}$","") ,"")) %>%
+                  mutate(Literature = paste0("",Literature %>% stringr::str_replace(";",",") ,"")) %>%
+                  #mutate(Literature = paste0("  [",Literature %>% stringr::str_replace("; {0,}$","") ,"]")) %>%
+                  #mutate(Concept= paste0("**", Concept, "**", Literature)) %>%
+                  mutate(Concept= paste0(Concept)) %>%
+                  mutate(Literature = Literature %>% stringr::str_replace_all(stringr::fixed("NA"),"") ) %>%
                   mutate(Concept = Concept %>% stringr::str_replace(stringr::fixed(" ["),stringr::fixed(" - ["))) %>%
-                  dplyr::select(-Codebook, -`Cameo Codes`, -`ICB Codes`, -Literature, -`ICB Corpus`) 
+                  dplyr::select(-Codebook, -`Cameo Codes`, -`ICB Codes`, Literature, -`ICB Corpus`, -`Removed Literature`) 
                   #dplyr::filter(is.na(group))
 
 
@@ -414,12 +424,13 @@ litreview_ft_political_analysis <- lit_review_alt %>%
       # border(j=2, i=(n-5):n , part="body", border.bottom =  big_border ) %>% #this fills the gap
 
       flextable::line_spacing( space = 1.0, part = "all") %>% #i=1:nrow(lit_review_alt),
-      flextable::padding(padding = 0, part = "body") %>%
       flextable::fontsize(size = 6.5, part = "all") %>%
       #Banding
       bg( i = bands, j=2:k, part = "body", bg = "#EFEFEF") %>% 
   
       flextable::rotate(i=1, j=2:k, rotation="tbrl", part="header") %>%
+      flextable::height(i=1, height=100, part="header") %>% 
+      flextable::padding(padding = 0, part = "body") %>%
       flextable::align(align = "center", part = "body") %>%
       flextable::align(align = "center", part = "header")   %>%
 
@@ -460,19 +471,21 @@ litreview_ft_political_analysis <- lit_review_alt %>%
       merge_at(i = (r_unarmed+1):r_armed, j = 1, part = "body") %>%  
 
       #set_table_properties(layout="autofit")  %>%
-      vline( i = 1, j = c(2,8), border = NULL, part = "header") %>%
+      vline( i = 1, j = c(3,8), border = NULL, part = "header") %>%
       vline( i = 1:(n), j = 1, border = NULL, part = "body")  %>%
-      vline( i = 1:(n), j = c(2,8), border = NULL, part = "body")  %>%
-
-      flextable::width( j = 2, width=3.1) %>% # change width for inline citations for politicalanalysis (4 works, might have extra room)
-      flextable::width( j = (3):k, width=0.25) %>%
+      vline( i = 1:(n), j = c(3,8), border = NULL, part = "body")  %>%
+  
+      flextable::bold(i = 1:k, j=2, bold = TRUE, part = "body") %>%
+      
+      flextable::width(j = 1, width=0.1)  %>%
+      flextable::width( j = 2, width=2) %>% # change width for inline citations for politicalanalysis (4 works, might have extra room)
+      flextable::width( j = 3, width=1.6) %>% # change width for inline citations for politicalanalysis (4 works, might have extra room)
+      flextable::width( j = (4):k, width=0.22) %>%
       flextable::line_spacing( space = 0.5, part = "body") %>% #i=1:nrow(lit_review_alt),
-      flextable::padding(padding = 0, part = "all") %>%
-
+      flextable::padding(padding = 0, part = "body") %>%
       flextable::rotate(j=1, rotation="tbrl",part="all", align="center") %>%
       #flextable::rotate(j=2, rotation="tbrl",part="all") %>%
-      flextable::width(j = 1, width=0.1)  %>%
-      ftExtra::colformat_md(j = 2, part="body")    #Make sure this goes last or it'll get overwritten by the colformat above
+      ftExtra::colformat_md(j = 3, part="body")    #Make sure this goes last or it'll get overwritten by the colformat above
 
 #https://cran.r-project.org/web/packages/ftExtra/vignettes/format_columns.html
 #litreview_ft_political_analysis
@@ -493,7 +506,6 @@ litreview_ft_political_analysis %>%
 
 \clearpage
 <!-- \twocolumn -->
-
 
 ```{r , eval=T, results='hide', echo=F, include=T, message=F, cache=F}
 
@@ -1916,7 +1928,6 @@ This article’s data, online appendix, replication material, and visualizations
 Conflicts of Interests 
 ========================================
 There are no conflicts of interest to disclose.
-
 
 \clearpage
 
