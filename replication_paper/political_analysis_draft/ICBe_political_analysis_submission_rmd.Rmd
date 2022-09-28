@@ -69,7 +69,7 @@ lead_author_surname: Douglass
 #Please provide an abstract of no more than 250 words in a single paragraph. Abstracts should explain to the general reader the major contributions of the article. References in the abstract must be cited in full within the abstract itself and cited in the text.
 
 abstract: |
-  How do international crises unfold? We conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on a very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, online appendix, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org.
+  How do international crises unfold? We conceptualize of international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on a very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event icongraphy and crisis maps), an automated benchmark for measuring event recall using natural language processing (sythnetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, supplementary appendix, replication material, and visualizations of every historical episode available at a companion website www.crisisevents.org.
 
 # significance: |
 #   Countries routinely face crises that risk escalating into full scale war but we do not have systematic measurements of the progression of past crises and what moves and counter moves led to or helped avoid war. Instead policy makers typically rely on one or two historical analogies, chosen through ad hoc selection criteria, and described in unsystematic terms. This paper introduces a new scientific approach to measuring the step by step moves of international crises over the last hundred years, combining subject expertise with state of the art natural language processing and machine learning methods. It serves as a guide for constructing and evaluating large scale measurement collection in the social sciences.
@@ -315,7 +315,7 @@ temp <- NULL
 \clearpage
 <!-- \onecolumn -->
 \begin{figure}[H]
-\caption{Case Study 1: Cuban Missile Crisis (1962) - ICB Narrative vs. ICBe Events \label{fig:case_study_cuban_precision}}
+\caption{Cuban Missile Crisis (1962) - ICB Narrative vs. ICBe Events \label{fig:case_study_cuban_precision}}
 \centering{\includegraphics[height=19cm]{"./case_study_cuban_precision.png"}}
 \end{figure}
 \clearpage
@@ -475,7 +475,7 @@ litreview_ft_political_analysis <- lit_review_alt %>%
       vline( i = 1:(n), j = 1, border = NULL, part = "body")  %>%
       vline( i = 1:(n), j = c(3,8), border = NULL, part = "body")  %>%
   
-      flextable::bold(i = 1:k, j=2, bold = TRUE, part = "body") %>%
+      # flextable::bold(i = 1:n, j=2, bold = TRUE, part = "body") %>%
       
       flextable::width(j = 1, width=0.1)  %>%
       flextable::width( j = 2, width=2) %>% # change width for inline citations for politicalanalysis (4 works, might have extra room)
@@ -547,7 +547,7 @@ Internal Consistency
 
 We evaluate the internal validity of the coding process in several ways. For every tag applied we calculate the observed intercoder agreement as the percent of other coders who also applied that same tag (SI Appendix 2.3). Across all concepts, the Top 1 Tag Agreement was low among novices (`r means_group_any$Novices %>% round(2) %>% scales::percent()`), moderate for experts (`r means_group_any$Experts %>% round(2) %>% scales::percent()`), and high (`r means_group_keep$Experts_keep %>% round(2) %>% scales::percent()`) following the consensus screening procedure.
 
-We attribute the remaining disagreement primarily to three sources. First, we required coders to rate their confidence which was observed to be low for 20% of sentences- half due to a mismatch between the ontology and the text ("survey doesn't fit event"-45%) and half due to a lack of information or confused writing in the source text ("more knowledge needed"-40%, "confusing sentence"-6%). Observed disagreement varied predictably with self reported confidence (SI Appendix 2.4). Second, as intended, agreement is higher (75-80%) for questions with fewer options near the root of the ontology compared to agreement for questions near the leafs of the ontology (50%-60%). Third, individual coders exhibiting nontrivial coding styles, e.g. some more expressive applying many tags per concept while others focused on only the single best match. We further observed unintended synonymity, e.g. the same information can be framed as either a threat to do something or a promise not to do something.
+We attribute the remaining disagreement primarily to three sources. First, we required coders to rate and justify their confidence in the coding. They reported low confidence for 20% of sentences; 45% of those were due to a mismatch between the ontology and the text ("survey doesn't fit event") and 46% were from a lack of information or confused writing in the source text (40% "more knowledge needed", 6% "confusing sentence"). Observed disagreement varied predictably with self reported confidence (SI Appendix 2.4). Second, as intended, agreement is higher (75-80%) for questions with fewer options near the root of the ontology compared to agreement for questions near the leafs of the ontology (50%-60%). Third, individual coders exhibiting nontrivial coding styles, e.g. some more expressive applying many tags per concept while others focused on only the single best match. We further observed unintended synonymity, e.g. the same information can be framed as either a threat to do something or a promise not to do something.
 
 Case Study Selection
 ========================================
@@ -797,8 +797,6 @@ ft   %>%
     #flextable::flextable_to_rmd()
     save_as_image(path=here::here("replication_paper", "political_analysis_draft", "case_study_crimea_recall.png"),
                   zoom=1, webshot = "webshot2") # webshot = "webshot2"
-
-
 ```
 
 ```{r, recall combined, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
@@ -1394,22 +1392,20 @@ icbe_crisismaps <- function(thiscrisis=471, prune_rare=T){
 library(ggplot2)
 library(cowplot)
 
-p_196_icbe <- icbe_crisismaps(thiscrisis=196) #readRDS(file=paste0(here::here(), '/replication_paper/arxiv_draft/crisismaps/p_metro_plot_471.Rds')) +
+p_196_icbe <- icbe_crisismaps(thiscrisis=196) +
     labs(
       #title = plot_title ,
       #subtitle = subtitle ,
       caption = NULL
     ) +
-    theme(plot.margin=unit(c(0,0,0,0),"in")) +
-   scale_x_continuous(expand = expansion(mult = c(0.025, 0.025))) +
+      theme(plot.margin=unit(c(0,0,0,0),"in")) +
+  scale_x_continuous(expand = expansion(mult = c(0.06, 0.05))) +
    scale_y_continuous(expand = expansion(mult = c(0.01, 0.01)))
-
 
 ratio=.75
 height=18
 save_plot(file=paste0(here::here(), '/replication_paper/political_analysis_draft/p_196_icbe.png'),
           p_196_icbe, base_height = 18, base_width = height*ratio)
-    
     
 
     
@@ -1468,7 +1464,7 @@ We take the same approach here in Figure 5, selecting four specific CAMEO event 
 
 \begin{figure}[H]
 \caption{Crisis Map: Cuban Missile Crisis \label{fig:p_196_icbe}}
-\centering{\includegraphics[width=17cm]{./p_196_icbe.png}}
+\centering{\includegraphics[width=16cm]{./p_196_icbe.png}}
 \end{figure}
 
 <!-- \begin{figure}[H] -->
@@ -1727,7 +1723,7 @@ ggsave(file=paste0(here::here(), '/replication_paper/political_analysis_draft/p_
 \begin{figure}[H]
 \caption{ICBe event codings in comparison to Semantic Embeddings from source sentences\label{fig:semantic_embeddings}}
 \centering{\includegraphics[width=17cm]{./p_semantic_embeddings_dendro.png}}
-\textit{Notes: Dots represent individual ICB narrative sentences, as embeded by the Paraphrase-MPNET-base-v2 large language model and flattened into two dimensions with UMAP. Text labels reflect individual leaves of the ICBe ontology, and colors represent intermediate branches of the ontology. Label placement is the median of all of the sentences that tag was applied to by the coders. The dendrogram shows hiearchical clustering of the tags. If ICBe precision is high, the sentences tags were applied to ought to say similar things, and the intended shape of the ontology ought to be visually recognizable. }
+\textit{Notes: Dots represent individual ICB narrative sentences, as embeded by the Paraphrase-MPNET-base-v2 large language model and flattened into two dimensions with UMAP. Text labels reflect individual leaves of the ICBe ontology, and colors represent intermediate branches of the ontology. Label placement is the median of all of the sentences that tag was applied to by the coders. The dendrogram shows hiearchical clustering of the tags. If ICBe precision is high, then the sentences that tags were applied to ought to say similar things and the intended shape of the ontology ought to be visually recognizable. }
 \end{figure}
 \clearpage
 <!-- \twocolumn -->
@@ -1923,7 +1919,7 @@ Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.
 
 Data Availability Statement 
 ========================================
-This article’s data, online appendix, replication material, and visualizations of every historical episode are available on the github repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$) and through the companion website www.crisisevents.org.
+This article’s data, supplementary appendix, replication material, and visualizations of every historical episode are available on the github repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$) and through the companion website www.crisisevents.org.
 
 Conflicts of Interests 
 ========================================
@@ -1933,4 +1929,3 @@ There are no conflicts of interest to disclose.
 
 Works Cited
 ========================================
-\vspace{0pt}

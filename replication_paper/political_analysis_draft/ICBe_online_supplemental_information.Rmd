@@ -3948,10 +3948,6 @@ save_plot(file=paste0(here::here(), '/replication_paper/political_analysis_draft
 }
 ```
 
-\begin{figure}[H]
-\caption{Crisis Map: Crimea-Donbas  \label{fig:p_471_icbe}}
-\centering{\includegraphics[width=17cm]{./p_471_icbe.png}}
-\end{figure}
 
 \begin{figure}[H]
 \begin{adjustbox}{
@@ -3986,9 +3982,14 @@ if(fromscratch){
 \label{fig:p_phoenix_plot_lv0_196}
 \end{adjustbox}
 \end{figure}
-\clearpage
 
 ## Crimea-Donbas Crisis Maps 
+
+\begin{figure}[H]
+\caption{Crisis Map - Crimea-Donbas - ICBe \label{fig:p_471_icbe}}
+\centering{\includegraphics[width=17cm]{./p_471_icbe.png}}
+\end{figure}
+
 
 ```{r eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 

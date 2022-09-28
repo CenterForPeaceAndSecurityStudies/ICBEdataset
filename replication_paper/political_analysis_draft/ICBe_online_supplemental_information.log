@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.8)  23 SEP 2022 12:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  28 SEP 2022 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1163,72 +1163,72 @@ Overfull \hbox (4.0715pt too wide) in paragraph at lines 1714--1715
  [][] 
  []
 
-<./p_471_icbe.png, id=303, 975.645pt x 1300.86pt>
+<./p_196_combined.png, id=303, 1445.4pt x 867.24pt>
+File: ./p_196_combined.png Graphic file (type png)
+<use ./p_196_combined.png>
+Package pdftex.def Info: ./p_196_combined.png  used on input line 1727.
+(pdftex.def)             Requested size: 614.295pt x 368.57875pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[28
+
+ <./ft_sample_precision_precision4.png>] [29 <./p_196_combined.png>]
+<./p_phoenix_plot_lv0_196.png, id=318, 1445.4pt x 1084.05pt>
+File: ./p_phoenix_plot_lv0_196.png Graphic file (type png)
+<use ./p_phoenix_plot_lv0_196.png>
+Package pdftex.def Info: ./p_phoenix_plot_lv0_196.png  used on input line 1739.
+(pdftex.def)             Requested size: 614.295pt x 460.72343pt.
+
+Overfull \hbox (8.91843pt too wide) in paragraph at lines 1734--1742
+[] 
+ []
+
+<./p_471_icbe.png, id=319, 975.645pt x 1300.86pt>
 File: ./p_471_icbe.png Graphic file (type png)
 <use ./p_471_icbe.png>
-Package pdftex.def Info: ./p_471_icbe.png  used on input line 1723.
+Package pdftex.def Info: ./p_471_icbe.png  used on input line 1749.
 (pdftex.def)             Requested size: 483.69684pt x 644.9301pt.
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 1723--1724
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 1749--1750
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[28
-
- <./ft_sample_precision_precision4.png>]
-Overfull \vbox (34.8601pt too high) has occurred while \output is active []
-
-[29 <./p_471_icbe.png>]
-<./p_196_combined.png, id=317, 1445.4pt x 867.24pt>
-File: ./p_196_combined.png Graphic file (type png)
-<use ./p_196_combined.png>
-Package pdftex.def Info: ./p_196_combined.png  used on input line 1732.
-(pdftex.def)             Requested size: 614.295pt x 368.57875pt.
-[30 <./p_196_combined.png>]
-<./p_phoenix_plot_lv0_196.png, id=324, 1445.4pt x 1084.05pt>
-File: ./p_phoenix_plot_lv0_196.png Graphic file (type png)
-<use ./p_phoenix_plot_lv0_196.png>
-Package pdftex.def Info: ./p_phoenix_plot_lv0_196.png  used on input line 1744.
-(pdftex.def)             Requested size: 614.295pt x 460.72343pt.
-
-Overfull \hbox (8.91843pt too wide) in paragraph at lines 1739--1747
-[] 
- []
-
-[31
+[30
 
  <./p_phoenix_plot_lv0_196.png>]
-<./p_471_combined.png, id=331, 1806.75pt x 867.24pt>
+Overfull \vbox (34.8601pt too high) has occurred while \output is active []
+
+[31 <./p_471_icbe.png>]
+<./p_471_combined.png, id=332, 1806.75pt x 867.24pt>
 File: ./p_471_combined.png Graphic file (type png)
 <use ./p_471_combined.png>
-Package pdftex.def Info: ./p_471_combined.png  used on input line 1760.
+Package pdftex.def Info: ./p_471_combined.png  used on input line 1759.
 (pdftex.def)             Requested size: 552.86174pt x 265.37457pt.
-<./p_phoenix_plot_lv0_471.png, id=332, 1445.4pt x 1084.05pt>
+<./p_phoenix_plot_lv0_471.png, id=333, 1445.4pt x 1084.05pt>
 File: ./p_phoenix_plot_lv0_471.png Graphic file (type png)
 <use ./p_phoenix_plot_lv0_471.png>
-Package pdftex.def Info: ./p_phoenix_plot_lv0_471.png  used on input line 1772.
+Package pdftex.def Info: ./p_phoenix_plot_lv0_471.png  used on input line 1771.
 (pdftex.def)             Requested size: 614.295pt x 460.72343pt.
 
-Overfull \hbox (8.91843pt too wide) in paragraph at lines 1767--1775
+Overfull \hbox (8.91843pt too wide) in paragraph at lines 1766--1774
 [] 
  []
 
 
-Underfull \vbox (badness 6859) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[32
-
- <./p_471_combined.png>]
+[32 <./p_471_combined.png>]
 <./p_terrier_plot_lv0_471.png, id=340, 1445.4pt x 1084.05pt>
 File: ./p_terrier_plot_lv0_471.png Graphic file (type png)
 <use ./p_terrier_plot_lv0_471.png>
-Package pdftex.def Info: ./p_terrier_plot_lv0_471.png  used on input line 1784.
+Package pdftex.def Info: ./p_terrier_plot_lv0_471.png  used on input line 1783.
 (pdftex.def)             Requested size: 614.295pt x 460.72343pt.
 
-Overfull \hbox (8.91843pt too wide) in paragraph at lines 1779--1787
+Overfull \hbox (8.91843pt too wide) in paragraph at lines 1778--1786
 [] 
  []
 
@@ -1236,10 +1236,10 @@ Overfull \hbox (8.91843pt too wide) in paragraph at lines 1779--1787
 <./p_icews_plot_lv0_471.png, id=346, 1445.4pt x 1084.05pt>
 File: ./p_icews_plot_lv0_471.png Graphic file (type png)
 <use ./p_icews_plot_lv0_471.png>
-Package pdftex.def Info: ./p_icews_plot_lv0_471.png  used on input line 1796.
+Package pdftex.def Info: ./p_icews_plot_lv0_471.png  used on input line 1795.
 (pdftex.def)             Requested size: 614.295pt x 460.72343pt.
 
-Overfull \hbox (8.91843pt too wide) in paragraph at lines 1791--1799
+Overfull \hbox (8.91843pt too wide) in paragraph at lines 1790--1798
 [] 
  []
 
@@ -1260,14 +1260,14 @@ Package rerunfilecheck Info: File `ICBe_online_supplemental_information.out' has
  ) 
 Here is how much of TeX's memory you used:
  19352 strings out of 477035
- 326897 string characters out of 5827875
- 986811 words of memory out of 5000000
+ 326897 string characters out of 5827874
+ 987026 words of memory out of 5000000
  39850 multiletter control sequences out of 15000+600000
  534553 words of font info for 131 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  83i,20n,131p,1225b,649s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on ICBe_online_supplemental_information.pdf (36 pages, 16870983 bytes).
+Output written on ICBe_online_supplemental_information.pdf (36 pages, 16870970 bytes).
 PDF statistics:
  473 PDF objects out of 1000 (max. 8388607)
  356 compressed objects within 4 object streams

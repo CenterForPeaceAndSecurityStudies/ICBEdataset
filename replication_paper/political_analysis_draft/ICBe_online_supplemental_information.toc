@@ -14,5 +14,5 @@
 \contentsline {subsection}{\numberline {4.1}Crimea-Donbas Narrative}{23}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Stratified Sentence Examples}{25}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Cuban Missiles Crisis Maps}{29}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Crimea-Donbas Crisis Maps}{32}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.4}Crimea-Donbas Crisis Maps}{31}{subsection.4.4}%
 \contentsline {section}{\numberline {5}References}{36}{section.5}%
