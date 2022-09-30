@@ -227,11 +227,11 @@ dim(ICBe_events_agreed)
 icb_events_long <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.Rds")) 
 dim(icb_events_long)
 
-#oh is it because break is reserved in R? lol
+#oh is it because break is reserved in R? 
 #icb_crises <- read_csv(file=paste0(here::here(), "/data_other_datasets/icb/icb1v14.csv")) %>% janitor::clean_names()
 icb_crises  <- read.csv(paste0(here::here(), "/replication_data/in/icb1v14.csv")) %>% janitor::clean_names()
 
-#somehow break of all things is a b roken name
+#somehow break of all things is a broken name
 #icb_actors <- read_csv(file=paste0(here::here(), "/data_other_datasets/icb/icb2v14.csv"))
 icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
 
