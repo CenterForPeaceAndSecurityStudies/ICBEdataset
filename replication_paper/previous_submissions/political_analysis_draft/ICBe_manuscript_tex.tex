@@ -1,0 +1,124 @@
+\documentclass{cup-pan}
+\usepackage[utf8]{inputenc}
+\usepackage{blindtext}
+
+\title{Submission Template for the Cambridge University Press' Political Analysis Journal}
+
+\author[1]{Author One}
+\author[2]{Author Two}
+\author[3]{Author Three}
+\author[2]{Author Four}
+
+\affil[1]{Department One, Institution One, Address One. Email: \url{abc@example.edu}}
+\affil[2]{Department Two, Institution Two, Address Two.}
+\affil[3]{Department Three, Institution Three, Address Three.}
+
+%% Corresponding author
+\corrauthor{Author One}
+
+%% Abbreviated author list for the running footer
+\runningauthor{One et al.}
+
+\addbibresource{refs.bib}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Only two levels of sectional headings, \verb|\section| and \verb|\subsection|, should be used. Ad nemo aut quae dolores nesciunt reprehenderit occaecati. Optio distinctio at aliquam odit dolores laudantium. Illum et qui iste et laudantium dolorum. Nihil quis qui at quia alias. Quisquam ea sit aspernatur. Labore at hic voluptas cumque eum officia repellat.
+
+\keywords{Quisquam, labore at hic, voluptas cumque, eum officia repellat.}
+\end{abstract}
+
+\section{Example of a first section}
+\label{sec:overview}
+
+Here's an example parenthetical citation \citep{lees2010theoretical} and a text citation: \citet{urmson2008autonomous}. There isn't a good, up-to-date BibTeX style for the Chicago style, so we're using \texttt{biblatex-chicago} instead. This means you'll need to run \texttt{biber} instead of \texttt{bibtex} if you're compiling this template on your local \LaTeX{} installation: on Overleaf, \texttt{biber} is run automatically. You can add pre-notes with citations \citep[see also][]{urmson2008autonomous} too, as well as multiple citations \citep{geiger2012we,leesother} in a single \verb|\citep{...}| or \verb|\citet{...}|. 
+
+This is an equation, numbered
+\begin{equation}
+l(\Lambda)=\sum_{i=1}^{n} \sum_{w=1}^{q} (z_{i w} \ln (\lambda_{i w}) - \lambda_{i w} - \ln (z_{i w}!))
+\label{eq:poisson}
+\end{equation}
+and one that is not numbered
+\begin{equation*}
+\int_0^{+\infty}e^{-x^2}dx=\frac{\sqrt{\pi}}{2}
+\end{equation*}
+and one inlined: $e^{i\pi}=-1$. As usual you can cross-reference equations with Equation \ref{eq:poisson} or \eqref{eq:poisson}.
+
+Figure \ref{fig:example} shows a normal figure, while figure \ref{fig:twosubs} show one made up of two sub-figures. Figure \ref{fig:landscape} is an example of a landscaped figure. You can use the \verb|\subcaption{...}| command from the \texttt{subcaption} package to add captions for subfigures and subtables, but do not use the \texttt{subfigure} package: it is incompatible with this template.
+
+\begin{figure}[bt]
+\centering
+\includegraphics[width=0.6\textwidth]{example-image}
+\caption{This is a figure caption. Let's see what happens when it's long and contains citations \citep{geiger2012we} and cross-references: \ref{sec:overview}. Yep, works. Captions should not contain manual line breaks!}
+\label{fig:example}
+\end{figure}
+
+\begin{table}[bt]
+\caption{Automobile Land Speed Records (GR 5-10). Source: \url{https://www.sedl.org/afterschool/toolkits/science/pdf/ast_sci_data_tables_sample.pdf}}
+\label{tab:example}
+\centering
+\begin{tabular}{l l l l r}
+\headrow \thead{Speed (mph)} & \thead{Driver} & \thead{Car} & \thead{Engine} & \thead{Date} \\
+407.447     & Craig Breedlove & Spirit of America          & GE J47    & 8/5/63   \\
+413.199     & Tom Green       & Wingfoot Express           & WE J46    & 10/2/64  \\
+434.22      & Art Arfons      & Green Monster              & GE J79    & 10/5/64  \\
+468.719     & Craig Breedlove & Spirit of America          & GE J79    & 10/13/64 \\
+526.277     & Craig Breedlove & Spirit of America          & GE J79    & 10/15/65 \\
+536.712     & Art Arfons      & Green Monster              & GE J79    & 10/27/65 \\
+555.127     & Craig Breedlove & Spirit of America, Sonic 1 & GE J79    & 11/2/65  \\
+576.553     & Art Arfons      & Green Monster              & GE J79    & 11/7/65  \\
+600.601     & Craig Breedlove & Spirit of America, Sonic 1 & GE J79    & 11/15/65 \\
+622.407     & Gary Gabelich   & Blue Flame                 & Rocket    & 10/23/70 \\
+633.468     & Richard Noble   & Thrust 2                   & RR RG 146 & 10/4/83  \\
+763.035     & Andy Green      & Thrust SSC                 & RR Spey   & 10/15/97\\
+\end{tabular}
+
+\end{table}
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?
+
+
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?
+
+
+\begin{figure}
+\begin{minipage}{0.47\textwidth}
+\includegraphics[width=\linewidth]{example-image}
+\subcaption{This is a subfigure}
+\end{minipage}
+\hfill
+\begin{minipage}{0.47\textwidth}
+\includegraphics[width=\linewidth]{example-image}
+\subcaption{This is another subfigure}
+\end{minipage}
+
+\caption{This is a caption for the entire figure}
+\label{fig:twosubs}
+\end{figure}
+
+\begin{sidewaysfigure}
+\centering
+\includegraphics[width=19cm]{example-image}
+\caption{This is a figure caption}
+\label{fig:landscape}
+\end{sidewaysfigure}
+
+At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non-provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet, ut et voluptates repudiandae sint et molestiae non-recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat
+
+At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non-provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet, ut et voluptates\footnote{Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet consectetur adipisci[ng] velit, sed quia non-numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem.} repudiandae sint et molestiae non-recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+
+\blinddocument
+
+A supplementary material section will always appear before the Reference list. If you're certain that your submission won't have any supplementary material, you can add the \texttt{nosupp} option to the document class declaration, i.e. 
+\begin{quote}
+\verb|\documentclass[nosupp]{cup-pan}|
+\end{quote}
+
+\printbibliography
+\end{document}
