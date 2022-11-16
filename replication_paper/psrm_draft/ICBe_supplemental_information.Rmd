@@ -794,12 +794,14 @@ if(fromscratch){
 
 
 # Recall
-\hphantom{em}
 
 ## Synthetic Narratives
-\hphantom{em}
+
+\doublespacing
 
 A synthetic narrative is constructed as follows. First, compile a large corpus, $D$, of timelines, encyclopedia entries, journal articles, news reports, websites, and government documents. Next, segment into sentences, $s \in S$, clean, filter, and break into simpler concise sentences, $s^* \in S^*$, using a large natural language model, BART [@lewisBARTDenoisingSequencetoSequence2019], fine-tuned on summarization tasks, distilbart-cnn-12-6 [@shleiferPretrainedSummarizationDistillation2020]. Then, calculate semantic similarity between each $S*$ by embedding them with a different large language model, MPNet [@songMPNetMaskedPermuted], fine tuned to identify paraphrasing [@reimersSentenceBERTSentenceEmbeddings2019;@reimersMakingMonolingualSentence2020]. Next, constructed an undirected weighted graph of pair above 95th percentile cosine similarity and hierarchically cluster them into potential events $e^* \in E^*$ [@clausetFindingCommunityStructure2004]. The resulting set of $E^*$ are small enough to check by hand, summarize, and place in chronological order. The relevant formulas and algorithm are shown below.
+
+\singlespacing
 
 Cosine Similarity
 \begin{equation}

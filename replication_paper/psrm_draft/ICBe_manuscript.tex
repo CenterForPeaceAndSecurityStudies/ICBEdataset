@@ -199,6 +199,8 @@ episode available at a companion website crisisevents.org.
 \end{abstract}
 
 
+\doublespacing
+
 \hypertarget{introduction}{%
 \section{Introduction}\label{introduction}}
 
@@ -283,14 +285,6 @@ to combine informative priors about \(IR\) with an unstructured corpus
 that have high coverage, precision, and recall over what actually took
 place in history, \(H\).
 
-\clearpage
-
-\begin{figure}[H]
-\caption{Cuban Missile Crisis (1962) - ICB Narrative vs. ICBe Events \label{fig:case_study_cuban_precision}}
-\centering{\includegraphics[height=19cm]{"./case_study_cuban_precision.png"}}
-\end{figure}
-\clearpage
-
 \hypertarget{corpus}{%
 \section{Corpus}\label{corpus}}
 
@@ -314,6 +308,14 @@ narrative was written by consensus by a small number of scholars, using
 a uniform coding scheme, with similar specificity (Hewitt 2001). The
 corpus is unique in IR because it is designed to be used in a downstream
 quantitative coding project.
+
+\clearpage
+
+\begin{figure}[H]
+\caption{Cuban Missile Crisis (1962) - ICB Narrative vs. ICBe Events \label{fig:case_study_cuban_precision}}
+\centering{\includegraphics[height=19cm]{"./case_study_cuban_precision.png"}}
+\end{figure}
+\clearpage
 
 \hypertarget{prior-beliefs-about-ir-ontological-coverage-and-the-existing-state-of-the-art}{%
 \section{Prior Beliefs about IR, Ontological Coverage, and the Existing
@@ -371,6 +373,7 @@ content found in international relations.\footnote{See Balali, Asadpour,
   availability of Gold Standard example text.}
 
 \clearpage
+\singlespacing
 
 \providecommand{\docline}[3]{\noalign{\global\setlength{\arrayrulewidth}{#1}}\arrayrulecolor[HTML]{#2}\cline{#3}}
 
@@ -630,6 +633,7 @@ content found in international relations.\footnote{See Balali, Asadpour,
 \end{longtable}
 
 \clearpage
+\doublespacing
 
 \hypertarget{icbe-coding-process}{%
 \section{ICBe Coding Process}\label{icbe-coding-process}}
@@ -791,6 +795,17 @@ narrative of Cuban Missiles also includes high-level previously
 classified details, while the more recent Crimea-Donbas case reflects
 primarily public reporting.
 
+\clearpage
+\singlespacing
+
+\begin{figure}[H]
+\caption{Measuring Recall with Synthetic Historical Narratives \label{fig:case_study_cuban_recall}}
+\centering{\includegraphics[height=18cm]{./recall_cuban_and_crimea_andcounts.png}}
+\textit{Notes: Synthetic narratives combine several thousand accounts of each crisis into a single timeline of events, taking only those mentioned in at least 5 or more documents. Checkmarks represent whether that event could be hand matched to any detail in the ICB corpus, ICBe dataset, or any of the other event datasets (SI Appendix 3.2 and 3.3).}
+\end{figure}
+\clearpage
+\doublespacing
+
 We find substantive variation in recall across systems. Recall for each
 increases in the number of document mentions which is an important sign
 of validity for both them and our benchmark. The one outlier is Phoenix
@@ -804,15 +819,6 @@ Importantly our corpus of ICB narratives has very high recall of
 frequently mentioned details giving us confidence in how those summaries
 were constructed, and ICBe lags only slightly behind showing that it
 left very little additional information on the table.
-
-\clearpage
-
-\begin{figure}[H]
-\caption{Measuring Recall with Synthetic Historical Narratives \label{fig:case_study_cuban_recall}}
-\centering{\includegraphics[height=18cm]{./recall_cuban_and_crimea_andcounts.png}}
-\textit{Notes: Synthetic narratives combine several thousand accounts of each crisis into a single timeline of events, taking only those mentioned in at least 5 or more documents. Checkmarks represent whether that event could be hand matched to any detail in the ICB corpus, ICBe dataset, or any of the other event datasets (SI Appendix 3.2 and 3.3).}
-\end{figure}
-\clearpage
 
 \hypertarget{precision}{%
 \section{Precision}\label{precision}}
@@ -907,12 +913,15 @@ because they parse everything in the news, but for the same reason,
 their specificity for most event types is too low to back out individual
 chess-like sequencing that ICBe aims to record.
 
+\singlespacing
 \begin{figure}[H]
 \caption{Crisis Map: Cuban Missile Crisis \label{fig:p_196_icbe}}
 \centering{\includegraphics[width=16cm]{./p_196_icbe.png}}
 \end{figure}
+\doublespacing
 
 \clearpage
+\singlespacing
 
 \begin{figure}[H]
 \caption{ICBe event codings in comparison to Semantic Embeddings from source sentences\label{fig:semantic_embeddings}}
@@ -920,8 +929,10 @@ chess-like sequencing that ICBe aims to record.
 \textit{Notes: Dots represent individual ICB narrative sentences, as embedded by the Paraphrase-MPNET-base-v2 large language model and flattened into two dimensions with UMAP. Text labels reflect individual leaves of the ICBe ontology, and colors represent intermediate branches of the ontology. Label placement is the median of all of the sentences that the tag was applied to by the coders. The dendrogram shows hierarchical clustering of the tags. If ICBe precision is high, then the sentences that tags were applied to ought to say similar things and the intended shape of the ontology ought to be visually recognizable. }
 \end{figure}
 \clearpage
+\doublespacing
 
 \clearpage
+\singlespacing
 
 \begin{figure}[H]
 \caption{ICEWs Events by Day by Type during the Crimea-Donbas Crisis \label{fig:p_precision_icews}}
@@ -929,6 +940,7 @@ chess-like sequencing that ICBe aims to record.
 \textit{Notes: The unit of analysis is the Dyad-Day. Top 10 most active dyads per category shown. Red text shows events from the synthetic narrative relative to that event category. Blue bars indicate an event recorded by ICEWs for that dyad on that day. }
 \end{figure}
 \clearpage
+\doublespacing
 
 \hypertarget{conclusion}{%
 \section{Conclusion}\label{conclusion}}

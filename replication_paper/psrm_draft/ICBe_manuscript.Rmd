@@ -242,6 +242,8 @@ icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
 
 <!-- #\twocolumn -->
 
+\doublespacing
+
 Introduction
 ========================================
 
@@ -261,6 +263,14 @@ Task Definition
 
 We consider the measurement task of abstracting discrete events about a historical episode in international relations. The easiest way to convey the task is with an example. Figure 1 shows a narrative account of the Cuban Missile Crisis (1962) alongside a mapping from each natural language sentence to discrete machine-readable abstractive events. Formally, a historical episode, $H$, is demarcated by a period of time $[T_{start}, T_{end}] \in T$, a set of Players $p \in P$, and a set of behaviors they undertook during that time $b \in B$. International Relations, $IR$, is the system of regularities that govern the strategic interactions that world actors make during a historical episode, given their available options, preferences, beliefs, and expectations of choices made by others. We observe neither $H$ nor $IR$ directly. Rather the Historical Record, $HR$, produces documents $d \in D$ containing some relevant and true (as well as irrelevant and untrue) information about behaviors that were undertaken recorded in the form of unstructured natural language text. The task is to combine informative priors about $IR$ with an unstructured corpus $D$ to produce a series of structured discrete events, $e \in E$, that have high coverage, precision, and recall over what actually took place in history, $H$.
 
+
+Corpus 
+========================================
+<!-- ^[The Online Appendix is at the [ICBEventData Github Repository](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).]  -->
+
+For our corpus, $D$, we select a set of unusually high-quality historical narratives from the International Crisis Behavior (ICB) project ($n=471$)(Supplementary Information (SI) Appendix 1.1)[@brecherInternationalCrisisBehavior2021; @brecher_study_1997]. Their domain is 20th and 21st-century crises, defined as a change in the type, or an increase in the intensity, of disruptive interaction with a heightened probability of military hostilities that destabilizes states' relationships or challenges the structure of the international system [@brecherCrisesWorldPolitics1982]. Crises are a significant focus of detailed single case studies and case comparisons because they provide an opportunity to examine behaviors in IR short of, or at least prior to, full conflict  [@holsti1914Case1965; @paigeKoreanDecisionJune1968; @allisonEssenceDecisionExplaining1971; @gavinHistorySecurityStudies2014; @brecherCrisesWorldPolitics1982; @iakhnisCrisesWorldPolitics2019]. Case selection was exhaustive based on a survey of world news archives and region experts, cross-checked against other databases of war and conflict, and non-English sources [@kangUSBiasStudy2019; @brecherInternationalCrisisBehavior2021 p. 59]. Each narrative was written by consensus by a small number of scholars, using a uniform coding scheme, with similar specificity [@hewittEngagingInternationalData2001]. The corpus is unique in IR because it is designed to be used in a downstream quantitative coding project.
+
+<!-- removedcites @snyderConflictNationsBargaining1977; @gaddisExpandingDataBase1987; @georgeDeterrenceAmericanForeign1974; @brecherPatternsCrisisManagement1988; -->
 
 ```{r cuban case study precision, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
@@ -329,13 +339,6 @@ temp <- NULL
 \clearpage
 <!-- \twocolumn -->
 
-Corpus 
-========================================
-<!-- ^[The Online Appendix is at the [ICBEventData Github Repository](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).]  -->
-
-For our corpus, $D$, we select a set of unusually high-quality historical narratives from the International Crisis Behavior (ICB) project ($n=471$)(Supplementary Information (SI) Appendix 1.1)[@brecherInternationalCrisisBehavior2021; @brecher_study_1997]. Their domain is 20th and 21st-century crises, defined as a change in the type, or an increase in the intensity, of disruptive interaction with a heightened probability of military hostilities that destabilizes states' relationships or challenges the structure of the international system [@brecherCrisesWorldPolitics1982]. Crises are a significant focus of detailed single case studies and case comparisons because they provide an opportunity to examine behaviors in IR short of, or at least prior to, full conflict  [@holsti1914Case1965; @paigeKoreanDecisionJune1968; @allisonEssenceDecisionExplaining1971; @gavinHistorySecurityStudies2014; @brecherCrisesWorldPolitics1982; @iakhnisCrisesWorldPolitics2019]. Case selection was exhaustive based on a survey of world news archives and region experts, cross-checked against other databases of war and conflict, and non-English sources [@kangUSBiasStudy2019; @brecherInternationalCrisisBehavior2021 p. 59]. Each narrative was written by consensus by a small number of scholars, using a uniform coding scheme, with similar specificity [@hewittEngagingInternationalData2001]. The corpus is unique in IR because it is designed to be used in a downstream quantitative coding project.
-
-<!-- removedcites @snyderConflictNationsBargaining1977; @gaddisExpandingDataBase1987; @georgeDeterrenceAmericanForeign1974; @brecherPatternsCrisisManagement1988; -->
 
 Prior Beliefs about IR, Ontological Coverage, and the Existing State of the Art
 ========================================
@@ -351,6 +354,7 @@ The second axis (columns) compares the very high ontological coverage of ICBe to
 <!-- removedcites @braithwaiteMIDLOCIntroducingMilitarized2010; @braithwaiteCodebookMilitarizedInterstate2009; @hegreIntroducingUCDPCandidate2020, @ralphsundbergUCDPGEDCodebook2016-->
 
 \clearpage
+\singlespacing
 <!-- \onecolumn -->
 
 ```{r litreview, eval=T, echo=F, results='asis', include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
@@ -518,6 +522,7 @@ litreview_ft_psrm %>%
 ```
 
 \clearpage
+\doublespacing
 <!-- \twocolumn -->
 
 ```{r , eval=T, results='hide', echo=F, include=T, message=F, cache=F}
@@ -577,8 +582,6 @@ Our strategy for dealing with both problems is a plausibly objective yardstick c
 Synthetic historical narratives for Cuban Missiles (51 events drawn from 2020 documents) and Crimea-Donbas (30 events drawn from 971 documents) appear in Figure 2. Each row represents a detail that appeared in at least five documents along with an approximate start date, a handwritten summary, the number of documents it was mentioned in, and whether it could be identified in the text of our ICB corpus, in our ICBe events, or any of the competing systems.
 
 From them, we draw several stylized facts. First, there is substantial variation in which details any one document will choose to include. Our ground truth ICB narratives contain 17/51 and 23/30 of the events from the synthetic narrative and include other details that are not in the synthetic narrative. Second, mentions of a detail across accounts are exponentially distributed with context-invariant details appearing dozens to hundreds of times more than context-dependent details. Third, crisis start and stop dates are arbitrary, and the historical record points to many precursor events as necessary detail for understanding later events, e.g. the U.S. was in a \textit{de facto} grey-scale war with Cuba before it invited Soviet military protection [@cormacGreyNewBlack2018] and Ukraine provided several security guarantees to Russia that were potentially undone, e.g. a long term lease on naval facilities in Crimea. Fourth, we find variation between the two cases. Cuban Missiles has a cleaner canonical end with the Soviets agreeing to withdraw missiles while Crimea-Donbas meekly ends with a second cease-fire agreement (Minsk II) but continued fighting. The canonical narrative of Cuban Missiles also includes high-level previously classified details, while the more recent Crimea-Donbas case reflects primarily public reporting.
-
-We find substantive variation in recall across systems. Recall for each increases in the number of document mentions which is an important sign of validity for both them and our benchmark. The one outlier is Phoenix which is so noisy that it's flat to decreasing in mentions. The two episode-level datasets have very low coverage of contextual details. The two other dictionary systems ICEWs and Terrier have high coverage, with ICEWs outperforming Terrier. ICBe strictly dominates all of the systems but ICEWs in recall though we note that the small sample sizes mean these systems should be considered statistically indistinguishable. Importantly our corpus of ICB narratives has very high recall of frequently mentioned details giving us confidence in how those summaries were constructed, and ICBe lags only slightly behind showing that it left very little additional information on the table.
 
 ```{r cuban case study recall, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
 
@@ -1001,6 +1004,7 @@ image_write(combined, here::here("replication_paper", "psrm_draft", "recall_cuba
 
 
 \clearpage
+\singlespacing
 <!-- \onecolumn -->
 \begin{figure}[H]
 \caption{Measuring Recall with Synthetic Historical Narratives \label{fig:case_study_cuban_recall}}
@@ -1008,8 +1012,10 @@ image_write(combined, here::here("replication_paper", "psrm_draft", "recall_cuba
 \textit{Notes: Synthetic narratives combine several thousand accounts of each crisis into a single timeline of events, taking only those mentioned in at least 5 or more documents. Checkmarks represent whether that event could be hand matched to any detail in the ICB corpus, ICBe dataset, or any of the other event datasets (SI Appendix 3.2 and 3.3).}
 \end{figure}
 \clearpage
+\doublespacing
 <!-- \twocolumn -->
 
+We find substantive variation in recall across systems. Recall for each increases in the number of document mentions which is an important sign of validity for both them and our benchmark. The one outlier is Phoenix which is so noisy that it's flat to decreasing in mentions. The two episode-level datasets have very low coverage of contextual details. The two other dictionary systems ICEWs and Terrier have high coverage, with ICEWs outperforming Terrier. ICBe strictly dominates all of the systems but ICEWs in recall though we note that the small sample sizes mean these systems should be considered statistically indistinguishable. Importantly our corpus of ICB narratives has very high recall of frequently mentioned details giving us confidence in how those summaries were constructed, and ICBe lags only slightly behind showing that it left very little additional information on the table.
 
 Precision
 ========================================
@@ -1475,10 +1481,12 @@ We take the same approach here in Figure 5, selecting four specific CAMEO event 
 <!-- \clearpage -->
 <!-- \twocolumn --> 
 
+\singlespacing
 \begin{figure}[H]
 \caption{Crisis Map: Cuban Missile Crisis \label{fig:p_196_icbe}}
 \centering{\includegraphics[width=16cm]{./p_196_icbe.png}}
 \end{figure}
+\doublespacing
 
 <!-- \begin{figure}[H] -->
 <!-- \caption{Crisis Map: Crimea-Donbas  \label{fig:p_471_icbe}} -->
@@ -1732,6 +1740,7 @@ ggsave(file=paste0(here::here(), '/replication_paper/psrm_draft/p_semantic_embed
 ```
 
 \clearpage
+\singlespacing
 <!-- \onecolumn -->
 \begin{figure}[H]
 \caption{ICBe event codings in comparison to Semantic Embeddings from source sentences\label{fig:semantic_embeddings}}
@@ -1739,6 +1748,7 @@ ggsave(file=paste0(here::here(), '/replication_paper/psrm_draft/p_semantic_embed
 \textit{Notes: Dots represent individual ICB narrative sentences, as embedded by the Paraphrase-MPNET-base-v2 large language model and flattened into two dimensions with UMAP. Text labels reflect individual leaves of the ICBe ontology, and colors represent intermediate branches of the ontology. Label placement is the median of all of the sentences that the tag was applied to by the coders. The dendrogram shows hierarchical clustering of the tags. If ICBe precision is high, then the sentences that tags were applied to ought to say similar things and the intended shape of the ontology ought to be visually recognizable. }
 \end{figure}
 \clearpage
+\doublespacing
 <!-- \twocolumn -->
 
 
@@ -1878,6 +1888,7 @@ save_plot(file=paste0(here::here(),
 
 
 \clearpage
+\singlespacing
 <!-- \onecolumn -->
 \begin{figure}[H]
 \caption{ICEWs Events by Day by Type during the Crimea-Donbas Crisis \label{fig:p_precision_icews}}
@@ -1885,6 +1896,7 @@ save_plot(file=paste0(here::here(),
 \textit{Notes: The unit of analysis is the Dyad-Day. Top 10 most active dyads per category shown. Red text shows events from the synthetic narrative relative to that event category. Blue bars indicate an event recorded by ICEWs for that dyad on that day. }
 \end{figure}
 \clearpage
+\doublespacing
 <!-- \twocolumn -->
 <!-- Edges <-> indicates undirected dyad and -> indicates directed dyad.  # removed from legend with update-->
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  2 NOV 2022 16:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  16 NOV 2022 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -864,132 +864,141 @@ Underfull \vbox (badness 7012) has occurred while \output is active []
 [1
 
 
-{/home/tlscherer/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-<./case_study_cuban_precision.png, id=97, 999.735pt x 1106.1325pt>
+{/home/tlscherer/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+<./case_study_cuban_precision.png, id=102, 999.735pt x 1106.1325pt>
 File: ./case_study_cuban_precision.png Graphic file (type png)
 <use ./case_study_cuban_precision.png>
-Package pdftex.def Info: ./case_study_cuban_precision.png  used on input line 290.
+Package pdftex.def Info: ./case_study_cuban_precision.png  used on input line 316.
 (pdftex.def)             Requested size: 488.59305pt x 540.60236pt.
 
-Overfull \hbox (18.83806pt too wide) in paragraph at lines 290--291
+Overfull \hbox (18.83806pt too wide) in paragraph at lines 316--317
  [][] 
  []
 
-[3
+[4
 
- <./case_study_cuban_precision.png>] [4
+ <./case_study_cuban_precision.png>] [5
 
 ]
-Overfull \hbox (3.36285pt too wide) in paragraph at lines 420--420
+Overfull \hbox (3.36285pt too wide) in paragraph at lines 423--423
  []|[]\T1/lmr/m/n/6 (-20) 28.4M[]| 
  []
 
 
-Overfull \hbox (3.36285pt too wide) in paragraph at lines 420--420
+Overfull \hbox (3.36285pt too wide) in paragraph at lines 423--423
  []|[]\T1/lmr/m/n/6 (-20) 17.5M[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 432--432
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 435--435
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 432--432
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 435--435
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 432--432
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 435--435
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 432--432
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 435--435
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
-[5
+[6
 
-] [6
+] [7
 
-] [7]
-<./recall_cuban_and_crimea_andcounts.png, id=142, 964.60374pt x 949.5475pt>
+] [8] [9]
+<./recall_cuban_and_crimea_andcounts.png, id=150, 964.60374pt x 949.5475pt>
 File: ./recall_cuban_and_crimea_andcounts.png Graphic file (type png)
 <use ./recall_cuban_and_crimea_andcounts.png>
-Package pdftex.def Info: ./recall_cuban_and_crimea_andcounts.png  used on input line 812.
+Package pdftex.def Info: ./recall_cuban_and_crimea_andcounts.png  used on input line 803.
 (pdftex.def)             Requested size: 520.28952pt x 512.1496pt.
 
-Overfull \hbox (50.53453pt too wide) in paragraph at lines 812--814
+Overfull \hbox (50.53453pt too wide) in paragraph at lines 803--805
  [][] 
  []
 
-[8
+[10
 
- <./recall_cuban_and_crimea_andcounts.png>]
-<./p_196_icbe.png, id=151, 975.645pt x 1300.86pt>
+ <./recall_cuban_and_crimea_andcounts.png>] [11
+
+]
+<./p_196_icbe.png, id=165, 975.645pt x 1300.86pt>
 File: ./p_196_icbe.png Graphic file (type png)
 <use ./p_196_icbe.png>
-Package pdftex.def Info: ./p_196_icbe.png  used on input line 912.
+Package pdftex.def Info: ./p_196_icbe.png  used on input line 919.
 (pdftex.def)             Requested size: 455.24408pt x 606.99771pt.
-[9
 
-] [10 <./p_196_icbe.png>]
-<./p_semantic_embeddings_dendro.png, id=164, 867.24pt x 722.7pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[12] [13 <./p_196_icbe.png>]
+<./p_semantic_embeddings_dendro.png, id=178, 867.24pt x 722.7pt>
 File: ./p_semantic_embeddings_dendro.png Graphic file (type png)
 <use ./p_semantic_embeddings_dendro.png>
-Package pdftex.def Info: ./p_semantic_embeddings_dendro.png  used on input line 919.
+Package pdftex.def Info: ./p_semantic_embeddings_dendro.png  used on input line 928.
 (pdftex.def)             Requested size: 483.69684pt x 403.0882pt.
-
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 919--921
- [][] 
- []
-
-[11
-
- <./p_semantic_embeddings_dendro.png>]
-<./p_precision_icews.png, id=172, 1011.78pt x 722.7pt>
-File: ./p_precision_icews.png Graphic file (type png)
-<use ./p_precision_icews.png>
-Package pdftex.def Info: ./p_precision_icews.png  used on input line 928.
-(pdftex.def)             Requested size: 483.69684pt x 345.5026pt.
 
 Overfull \hbox (13.94185pt too wide) in paragraph at lines 928--930
  [][] 
  []
 
-[12
+[14
+
+ <./p_semantic_embeddings_dendro.png>]
+<./p_precision_icews.png, id=185, 1011.78pt x 722.7pt>
+File: ./p_precision_icews.png Graphic file (type png)
+<use ./p_precision_icews.png>
+Package pdftex.def Info: ./p_precision_icews.png  used on input line 939.
+(pdftex.def)             Requested size: 483.69684pt x 345.5026pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 939--941
+ [][] 
+ []
+
+[15
 
 
- <./p_precision_icews.png>] [13
+ <./p_precision_icews.png>] [16
 
-]
-Underfull \hbox (badness 2951) in paragraph at lines 1054--1060
+] [17]
+Underfull \hbox (badness 2951) in paragraph at lines 1066--1072
 []\T1/lmr/m/n/10 (+20) Beardsley, Kyle, Patrick James, Jonathan Wilken-feld, and Michael Brecher. 2020. ``The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1054--1060
+Underfull \hbox (badness 10000) in paragraph at lines 1066--1072
 \T1/lmr/m/n/10 (+20) In-ter-na-tional Cri-sis Be-hav-ior Project.'' \T1/lmr/m/it/10 (+20) Ox-ford Re-search En-cy-clo-pe-dia of Pol-i-tics\T1/lmr/m/n/10 (+20) .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1054--1060
+Underfull \hbox (badness 10000) in paragraph at lines 1066--1072
 \T1/lmr/m/n/10 (+11) https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[14
+[18
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[15]
+[19]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[16] [17] (./ICBe_manuscript.aux)
+[20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[22] [23] (./ICBe_manuscript.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -997,13 +1006,13 @@ Package rerunfilecheck Info: File `ICBe_manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: B04CABF2BC88D7F2E15C8BE559E6DE4F;2314.
  ) 
 Here is how much of TeX's memory you used:
- 17804 strings out of 477035
- 299450 string characters out of 5827874
- 845351 words of memory out of 5000000
+ 17810 strings out of 477035
+ 299492 string characters out of 5827874
+ 845442 words of memory out of 5000000
  38227 multiletter control sequences out of 15000+600000
  536950 words of font info for 179 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 83i,12n,131p,3505b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,12n,131p,3505b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exist, replaced by a fixed one
 
@@ -1035,10 +1044,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/tlscherer/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb></home/tlscherer/.TinyTeX/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ICBe_manuscript.pdf (17 pages, 4095209 bytes).
+Output written on ICBe_manuscript.pdf (23 pages, 4115403 bytes).
 PDF statistics:
- 481 PDF objects out of 1000 (max. 8388607)
- 415 compressed objects within 5 object streams
- 153 named destinations out of 1000 (max. 500000)
+ 507 PDF objects out of 1000 (max. 8388607)
+ 435 compressed objects within 5 object streams
+ 159 named destinations out of 1000 (max. 500000)
  33946 words of extra memory for PDF output out of 35830 (max. 10000000)
 
