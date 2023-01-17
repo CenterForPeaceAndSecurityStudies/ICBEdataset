@@ -1,7 +1,7 @@
 
 -   <a href="#the-international-crisis-behavior-events-icbe"
     id="toc-the-international-crisis-behavior-events-icbe">The International
-    Crisis Behavior Events (ICBe)</a>
+    Crisis Behavior Events (ICBe) Dataset</a>
 -   <a href="#the-paper" id="toc-the-paper">The Paper:</a>
 -   <a href="#the-data" id="toc-the-data">The Data:</a>
 -   <a href="#the-authors" id="toc-the-authors">The Authors:</a>
