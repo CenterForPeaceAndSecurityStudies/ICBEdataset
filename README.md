@@ -29,7 +29,7 @@
 [![CC BY-NC-SA
 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## The International Crisis Behavior Events (ICBe)
+## The International Crisis Behavior Events (ICBe) Dataset
 
 This is a github repository for the International Crisis Behavior Events
 (ICBe) dataset. Submit any issues regarding the dataset, paper, or
