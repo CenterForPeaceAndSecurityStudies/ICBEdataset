@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Corpus and Cases}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}ICBe Crises and Summary Information}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Verb Meanings (Glosses) found in the ICB Corpus (top 200)}{11}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Coding Process}{15}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Graphical User Interface}{15}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Coding Aggregation and Filtering}{16}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Intercoder Agreement}{17}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Intercoder Agreement by Confidence}{18}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Recall}{19}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Synthetic Narratives}{19}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Synthetic Narrative Matches Cuban Missile}{21}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Synthetic Narrative Matches Crimea-Donbas}{22}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Precision}{23}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Crimea-Donbas Narrative}{23}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Stratified Sentence Examples}{25}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Cuban Missiles Crisis Maps}{29}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Crimea-Donbas Crisis Maps}{31}{subsection.4.4}%
+\contentsline {section}{\numberline {5}References}{36}{section.5}%
