@@ -1,0 +1,1819 @@
+---
+title: "Introducing ICBe: Very High Recall and Precision Event Extraction from Narratives about International Crises"
+
+# Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
+authors:
+  - name: Rex W. Douglass
+    thanks: Correspondence should be addressed to Rex W. Douglass at rexdouglass@gmail.com.
+    affiliation: University of California, San Diego
+  - name: Thomas Leo Scherer
+    affiliation: University of California, San Diego
+  - name: J. Andrés Gannon
+    affiliation: Vanderbilt University
+  - name: Erik Gartzke
+    affiliation: University of California, San Diego
+  - name: Jon Lindsay
+    affiliation: Georgia Institute of Technology
+  - name: Shannon Carcelli
+    affiliation: University of Maryland
+  - name: Jonathan Wilkenfeld
+    affiliation: University of Maryland
+  - name: David M. Quinn
+    affiliation: University of Maryland
+  - name: Catherine Aiken
+    affiliation: Georgetown University
+  - name: Jose Miguel Cabezas Navarro
+    affiliation: Universidad Mayor
+  - name: Neil Lund
+    affiliation: University of Maryland
+  - name: Egle Murauskaite
+    affiliation: University of Maryland
+  - name: Diana Partridge
+    affiliation: University of Maryland
+    
+# address:
+#   - code: a
+#     address: Department of Political Science, University of California, San Diego, CA, USA.
+#   - code: b
+#     address: Belfer Center for Science and International Affairs, Harvard Kennedy School, MA, USA.
+#   - code: c
+#     address: School of Cybersecurity and Privacy | Sam Nunn School of International Affairs, Georgia Institute of Technology, GA, USA.
+#   - code: d
+#     address: Department of Government and Politics, University of Maryland, College Park, MD, USA.
+#   - code: e
+#     address: Faculty Specialist, National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland, College Park, MD, USA.
+#   - code: f
+#     address: Edmund A. Walsh School of Foreign Service, Georgetown University, Washington, DC, USA.
+#   - code: g
+#     address: Society and Health Research Center, Universidad Mayor, Santiago, Chile.
+#   - code: h
+#     address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
+#   - code: i
+#     address: ICONS Project // START,  University of Maryland, College Park, MD, USA.
+
+corresponding_author:
+  text: "Correspondence should be addressed. E-mail: rexdouglass@gmail.com"
+
+# For footer text
+lead_author_surname: Douglass
+
+#following https://docs.google.com/document/d/1aJxrQXYHW5U6By3KEAHrx1Iho6ioeh3ohNsRMwsoGPM/edit
+# author_contributions: |
+#   Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.;  Validation: R.W.D., T.L.S.;  Formal Analysis: R.W.D., T.L.S.;  Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.;  Data Curation: R.W.D., D.Q., T.L.S., J.W.;  Writing - Original Draft: R.W.D., T.L.S.;  Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.;
+#   Visualization: R.W.D., T.L.S.;  Supervision: E.G.;  Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.;  Funding Acquisition: E.G., J.L.
+
+## Remove this if not required
+#conflict_of_interest: |
+#  Please declare any conflict of interest here.
+
+#Please provide an abstract of no more than 250 words in a single paragraph. Abstracts should explain to the general reader the major contributions of the article. References in the abstract must be cited in full within the abstract itself and cited in the text.
+
+abstract: |
+  How do international crises unfold? We conceptualize international relations as a strategic chess game between adversaries and develop a systematic way to measure pieces, moves, and gambits accurately and consistently over a hundred years of history. We introduce a new ontology and dataset of international events called ICBe based on a very high-quality corpus of narratives from the International Crisis Behavior (ICB) Project. We demonstrate that ICBe has higher coverage, recall, and precision than existing state of the art datasets and conduct two detailed case studies of the Cuban Missile Crisis (1962) and the Crimea-Donbas Crisis (2014). We further introduce two new event visualizations (event iconography and crisis maps), an automated benchmark for measuring event recall using natural language processing (synthetic narratives), and an ontology reconstruction task for objectively measuring event precision. We make the data, supplementary appendix, replication material, and visualizations of every historical episode available at a companion website crisisevents.org.
+
+# significance: |
+#   Countries routinely face crises that risk escalating into full scale war but we do not have systematic measurements of the progression of past crises and what moves and counter moves led to or helped avoid war. Instead policy makers typically rely on one or two historical analogies, chosen through ad hoc selection criteria, and described in unsystematic terms. This paper introduces a new scientific approach to measuring the step by step moves of international crises over the last hundred years, combining subject expertise with state of the art natural language processing and machine learning methods. It serves as a guide for constructing and evaluating large scale measurement collection in the social sciences.
+
+# acknowledgements: |
+#   We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgment of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day.  We thank the many undergraduate coders for their patience and dedication. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for generous feedback. Thank you to the cPASS research assistants that contributed to this project: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang. This project was supported by a grant from the Office of Naval Research [N00014-19-1-2491] and benefited from the Charles Koch Foundation's support for the Center for Peace and Security Studies.
+
+# keywords:
+#   - Diplomacy
+#   - War
+#   - Crises
+#   - International Affairs
+#   - Computational Social Science
+
+
+## change to true to add optional line numbering
+lineno: false
+
+#https://bookdown.org/yihui/bookdown/a-single-document.html
+#https://stackoverflow.com/questions/52531637/knitr-rmarkdown-latex-how-to-cross-reference-figures-and-tables-in-2-different/52532269#52532269
+#https://stackoverflow.com/questions/51595939/bookdown-cross-reference-figure-in-another-file
+#https://stackoverflow.com/questions/25824795/how-to-combine-two-rmarkdown-rmd-files-into-a-single-output/51521542#51521542
+#https://stackoverflow.com/questions/64700865/using-r-rstudio-knit-to-pdf-how-to-pass-custom-flags-to-the-pdflatex-command
+
+bibliography: paper.bib
+biblio-style: unsrt
+output: rticles::arxiv_article
+
+nocite: |
+  @fazalStateDeathPolitics2011, @spruytSovereignStateIts1996, @haffarEmergentPeacemakersCataloguing2002, @bushDensityDeclineFounding2019, @benyehudaEthnicActorsInternational2006, @lacinaExplainingSeverityCivil2006, @mcnabbcochranMeasuringMilitaryEffectiveness2017, @carafanoMeasuringMilitaryPower2014, @goertzMeasuringMilitaryAllocations1986, @gartzkeCrossDomainDeterrenceStrategy2019,  @lindsayPoliticsManyOther2020, @carterStrategyTerritorialConflict2010, @brecher_study_1997, @goldgeierPsychologyInternationalRelations2001, @steinEvaluatingWarOutcomes1980, @sullivanWarAimsWar2007, @ramsayInformationUncertaintyWar2017, @yarhi-miloEyeBeholderHow2013, @oneillInternationalNegotiationConceptual2018, @zartmanEscalationNegotiationInternational2005, @sechserMilitarizedCompellentThreats2011, @powellBargainingTheoryInternational2002, @goemansIntroducingArchigosDataset2009,  @powellGlobalInstancesCoups2011, @chenowethIntroducingNonviolentAction2019, @eckOneSidedViolenceCivilians2007, @lafreeIntroducingGlobalTerrorism2007, @beardsleyMediationDilemma2011, @giblerMeasuringAlliancesCorrelates2004, @owsiakInternationalBorderAgreements2018, @leedsAllianceReliabilityTimes2003, @leedsDomesticPoliticalInstitutions1999, @yarhi-miloArmAllyPatron2016, @laiEffectsDifferentTypes2004, @allenUSGlobalMilitary2021, @fortnaPeaceTime2018, @minInterstateWarBattle2021, @sarkeesResortWar181620072010, @reiterRevisedLookInterstate2016, @frederickIssueCorrelatesWar2017
+
+#Disabled several the caused errors
+header-includes:
+#  - \usepackage{xr} \externaldocument{appendix} #External references from the appendix
+#  - \usepackage{tinytex}
+  - \usepackage[utf8]{inputenc}
+  - \usepackage{pifont}
+  - \usepackage{newunicodechar}
+  - \newunicodechar{✓}{\ding{51}}
+  - \newunicodechar{✗}{\ding{55}}
+  - \usepackage{array}
+  - \usepackage{ctable} # added for demo
+#  - \usepackage{natbib} #added for latex citation within huxtable
+#  - \usepackage{biblatex} #added for latex citation within huxtable
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{multirow}
+  - \usepackage{wrapfig}
+  - \usepackage{colortbl}
+  - \usepackage{pdflscape}
+  - \usepackage{tabu}
+  - \usepackage{threeparttable}
+  - \usepackage{threeparttablex}
+  - \usepackage[normalem]{ulem}
+  - \usepackage{makecell}
+  - \usepackage{titlesec}
+  - \usepackage[parfill]{parskip}
+  - \usepackage{makecell}
+  - \usepackage{graphicx}
+#  - \usepackage{caption}
+#  - \usepackage[capposition=top]{floatrow}
+#  - \titleformat{\subsubsection}{\normalfont\normalsize\itshape}{\thesubsubsection}{1em}{}
+#  - \titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{0ex plus .2ex}
+#  - \DeclareUnicodeCharacter{00A0}{ }
+  - \usepackage{setspace}
+  - \usepackage{cellspace}
+  - \setlength\cellspacetoplimit{0.8ex}
+  - \renewcommand{\arraystretch}{0.8}
+#  - \AtBeginEnvironment{tabular}{\singlespacing}
+  - \AtBeginEnvironment{lltable}{\singlespacing}
+#  - \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
+#  - \usepackage{subfigure}
+  - \usepackage{subcaption}
+  - \usepackage{atbegshi}% http://ctan.org/pkg/atbegshi
+  - \usepackage{float}
+#  - \usepackage{eso-pic,graphicx,transparent}
+#  - \usepackage[perpage]{footmisc}
+  - \usepackage[algo2e]{algorithm2e}
+#  - \usepackage[backend = biber]{biblatex} #added in hopes of getting a bbl
+  - \usepackage{changepage}
+#  - \renewenvironment{references}{}{}
+  - \renewcommand{\bibliography}[1]{} # removes the superflusous references section
+#  - \renewcommand{\bibliographystyle}[1]{} # might be an alternative to renewcommand bibliography
+#  - \renewenvironment{bibliography}{}{} # this drops the references but leaves an unnecessary paper. bib
+
+#https://tex.stackexchange.com/questions/131646/algorithm2e-command-algorithm-already-defined
+---
+
+```{r options, echo=F, cache=F, messages=F, results='hide', warnings=F, include=FALSE}
+#International Crisis Behavior Events (ICBe) Dataset
+knitr::opts_chunk$set(echo=F, cache=TRUE, messages=F, results='hide', warning=F, include=FALSE) #fig.width = 8, fig.height = 8, message=F, warning=F, , results=F
+
+#Execute these lines to get bbl files for the arxiv submission
+options(tinytex.clean=F)
+```
+
+```{r package-load, eval=T, echo=F, cache=F}
+#library(pacman)
+library(googlesheets4)
+library(tidyverse)
+library(janitor)
+library(flextable)
+set_flextable_defaults(fonts_ignore=TRUE) #Warning: fonts used in `flextable` are ignored because the `pdflatex` engine is used and not `xelatex` or `lualatex`. You can avoid this warning by using the `set_flextable_defaults(fonts_ignore=TRUE)` command or use a compatible engine by defining `latex_engine: xelatex` in the YAML header of the R Markdown document.
+library(ftExtra)
+options(tidyverse.quiet = TRUE)
+options(gargle_oauth_email = TRUE)
+
+`%>%` <- magrittr::`%>%`
+
+#install.packages('stargazer')
+#install.packages('kableExtra')
+#! sh: 1: pdflatex: not found
+#sudo apt-get install texlive-latex-recommended texlive-fonts-recommended
+
+#! LaTeX Error: File `letltxmacro.sty' not found.
+#sudo apt-get install texlive-latex-extra
+
+#install.packages('tinytex')
+#tinytex::install_tinytex()
+```
+
+```{r borked, echo=F, include=F}
+#Notes
+#https://tex.stackexchange.com/questions/83440/inputenc-error-unicode-char-u8-not-set-up-for-use-with-latex
+#- \DeclareUnicodeCharacter{00A0}{ }
+# options(tinytex.verbose = TRUE)
+```
+
+```{r load-data, echo=FALSE}
+icb_long_clean <- readRDS(file=paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_clean.Rds"))
+codings_long_agreement <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_long_agreement.Rds") )
+
+ICBe_events_agreed <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.Rds")) 
+dim(ICBe_events_agreed)
+icb_events_long <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.Rds")) 
+dim(icb_events_long)
+
+icb_crises  <- read.csv(paste0(here::here(), "/replication_data/in/icb1v14.csv")) %>% janitor::clean_names()
+
+icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
+```
+
+\doublespacing
+
+If we could record every international interaction in the realms of diplomacy, conflict, economy, and beyond, how much unique information would this chronicle amount to, and how surprised would we be to see something new? In other words, what is the entropy of international relations? While this record could in principle be unbounded, the central conceit of social science is that there are structural regularities that limit what actors can do, their best options, and even which actors are likely to survive [@brecherInternationalStudiesTwentieth1999; @reiterShouldWeLeave2015]. If so, then these events can be recorded and systematically measured by social scientists interested in these regularities.[^1] Thanks to improvements in natural language processing, more open-ended efforts have begun to capture entire unstructured streams of events from international news reports.[^2] This has invited fruitful efforts to evaluate the coverage, quality, and accuracy of attempts to measure international affairs.
+
+<!-- removedcites @barariDemocracyTradePolicy; @vabulasCooperationAutonomyBuilding2021; @hegreIntroducingUCDPCandidate2020; @haltermanExtractingPoliticalEvents2020; @maozDyadicMilitarizedInterstate2019; @vabulasCooperationAutonomyBuilding2021; -->
+
+We advance existing efforts to identify and structure regularized events and actor in international politics by using human coders and natural language processing to develop (1) a large, flexible ontology of international affairs and (2) a fine-grained and structured event dataset of international crises from 1918-2017 developed by applying our ontology to an unusually high-quality corpus of historical narratives of international crises [@brecherInternationalStudiesTwentieth1999; @wilkenfeldInterstateCrisesViolence2000; @brecherInternationalCrisisBehavior2021]. We then develop several methods for objectively gauging how well these event codings reconstruct the information contained in the original crisis narrative. We conclude by benchmarking our event codings against several current state of the art event data collection efforts. We find that existing systems produce sequences of events that do not contain enough information to reconstruct the underlying historical episode. The underlying fine-grained variation in international affairs is unrecognizable through the lens of current quantification efforts. In focusing this initial effort on international crises as a proof of concept sample, we demonstrate our ontology and method's potential to improve upon existing empirical identifications of patterns of international interactions.
+
+<!-- removedcites @jamesWhatWeKnow2019; @iakhnisCrisesWorldPolitics2019; @brecherEscalationWarTwentieth2000 -->
+
+This measurement paper proceeds in four sections that make the following arguments. First, there is a real-world unobserved latent concept known as international relations that can be systematically measured. Second, we propose a method for systematic large-scale measurement of the actors and behaviors in international affairs and as a proof of concept apply that method to a well-regarded and salient sample of international events known as international crises. Third, in doing so we confirm that those measurements exhibit several desirable kinds of internal and external validity and out-perform existing approaches. Fourth, this validation can be evaluated in detail via new event visualizations, with examples provided for case studies of the 1962 Cuban Missile Crisis and 2014 Crimea-Donbas crisis. A final section concludes.
+
+# Identifying and measuring international relations
+
+## Task definition
+
+We consider the measurement task of abstracting discrete events about a historical episode in international relations. We employ a metaphor of a chess game, with players (polities, rebel groups, IGOs, etc.), pieces (military platforms, civilians, domains), and behaviors (think, say, do). Precise sequencing is required to capture gambits (sequences of moves) and outcomes (victory, defeat, peace, etc.), while precise geo-coding is required to understand the chessboard (medium of conflict). Each event occurs over a marked time period where we observe the behaviors of a given set of actors. Our knowledge of this historical episode, including the actors involved as well as their preferences, behaviors, and and beliefs are only indirectly observed from historical records that most often take the form of unstructured natural language text.
+
+The task is to produced a structured account of the historical event by combining the unstructured corpus of historical records with informative priors about international relations. The resulting structured account of information about a historical episode can be combined with that of other events to produce a systematic account of historical political events from which we can garner novel insight given the data's high coverage, precision, and recall. The easiest way to convey the task is with an example. @fig-cuba-narrative shows a narrative account of the Cuban Missile Crisis (1962) alongside a mapping from each natural language sentence to discrete machine-readable abstractive events.
+
+```{r cuban-case-study-precision, eval=F, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+# AG temp edit: revert by setting eval=T
+
+ICBe_events_agreed_markdown <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.Rds")) 
+
+temp <- ICBe_events_agreed_markdown %>%
+        filter(crisno==196) %>%
+        group_by(crisno, sentence_number_int_aligned) %>%
+          filter(!duplicated(value_markdown %>% trimws() )) %>% #note there are dupe markdowns for some reason
+        ungroup() %>%
+        mutate(banding=as.numeric(as.factor(sentence_number_int_aligned)) %% 2)
+temp$is_subsstring <- NA
+for(i in 1:nrow(temp)){
+  temp$is_subsstring[i] <-   stringr::str_detect(temp$value_markdown %>% tolower() %>% stringr::str_replace_all('[^a-z0-9]',"") ,
+                                                                                pattern = stringr::fixed(temp$value_markdown[i] %>% tolower() %>% stringr::str_replace_all('[^a-z0-9]',"") )
+                                                                              ) %>% replace_na(0) %>%  sum()
+}
+temp <-temp %>%
+        mutate(value_markdown = ifelse(is_subsstring<=1,value_markdown,'')) %>%
+        group_by(sentence_number_int_aligned) %>%
+          filter(value_markdown!='' | length(value_markdown)==1) %>% # also added below to handle sentence 6
+        ungroup() %>%
+        mutate(crisno= ifelse(!is.na(lag(sentence_span_text)) & sentence_span_text==lag(sentence_span_text), "", crisno)) %>%
+        mutate(sentence_number_int_aligned= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_number_int_aligned)) %>%
+        mutate(sentence_span_text= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_span_text)) %>% 
+            filter(value_markdown!='' | length(value_markdown)==1) 
+      #C=crisno, 
+      #head(100) %>%
+ft_cuba_precision <- temp %>%
+                     dplyr::select(S=sentence_number_int_aligned, ICB=sentence_span_text, ICBe=value_markdown)  %>%
+                      flextable::as_flextable() %>%
+        flextable::set_header_labels(values =
+        list(
+              S = "S",
+              ICB = "Natural Language Sentences (ICB Corpus)",
+              ICBe = "Machine-Readable Events (ICBe)"
+             ) ) %>%
+  
+                      flextable::width( j = 1, width=0.25)  %>% 
+                      #flextable::width( j = 2, width=0.25)  %>% 
+                      flextable::width( j = 2, width=8.0)  %>% 
+                      flextable::width( j = 3, width=8.0)  %>% 
+                      flextable::fontsize(size = 9, part = "all") %>%
+                      valign(j = 1:3, valign = "top", part = "body") %>%
+                      flextable::line_spacing( space = 1.0, part = "all") %>% 
+                      padding( padding = 1, part = "all") %>% 
+                      bg( i = which( temp$banding==1 ) , part = "body", bg = "#EFEFEF", j=1:3) %>%
+                      ftExtra::colformat_md(j = 3, part="body")
+#ft_cuba_precision
+
+ft_cuba_precision %>% save_as_image(path=here::here("replication_paper","psrm_draft","case_study_cuban_precision.png"), zoom=1) # webshot = "webshot2"
+temp <- NULL
+```
+
+![Cuban Missile Crisis (1962) - ICB Narrative vs. ICBe Events](case_study_cuban_precision.png){#fig-cuba-narrative}
+
+## Existing state of the art measurements
+
+We draw informative prior beliefs about the underlying process of IR that we expect to govern behavior during historical episodes and their conversion to the historical record. We organize our prior beliefs along two overarching axes. The first is the extensive existing measurement efforts of IR, detailed below. Second, we performed preliminary natural language processing of the corpus and identified named entities and behaviors mentioned in the text. Verbs were matched to the most likely definition found in Wordnet [@millerWordNetLexicalDatabase1995], tallied, and then aggregated into a smaller number of hypernyms balancing conceptual detail and manageable sparsity for human coding (SI Appendix 1.2).
+
+Table 1 describes the underlying structure of international crises that we hope to uncover as well as existing efforts to identify the actors and actions of international relations. The rows represent the types of information we expect to find in IR and forms the basis for our proposed ontology. The columns compare the ontological coverage of ICBe to existing state of the art systems in production and with global coverage. They begin with our contribution ICBe, alongside other event-level datasets including CAMEO dictionary lookup-based systems (Historical Phoenix [@althausClineCenterHistorical2019]; ICEWS [@boscheeICEWSCodedEvent2015]; Terrier [@grantOUEventData2017]), the Militarized Interstate Disputes Incidents dataset, and the UCDP-GED dataset [@daviesOrganizedViolence19892022; @sundbergIntroducingUCDPGeoreferenced2013].[^3] The final set of columns compares episode-level datasets beginning with the original ICB project [@brecherInternationalCrisisBehavior2021; @brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020]; the Militarized Interstate Disputes dataset [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018], and the Correlates of War [@sarkeesResortWar181620072010].
+
+```{=tex}
+\clearpage
+\singlespacing
+```
+```{r, eval=T, echo=F, results='asis', include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+
+#target_file <- paste0(here::here(),"/replication_paper/data/in/icbe_litreview_trees_sentences.xlsx")
+#lit_review_pull    <- readxl::read_excel(target_file, sheet="DatasetsComparisonLitReview")
+
+library(googlesheets4) #Do this high up so you get the prompt early
+library(lubridate, warn.conflicts = FALSE)
+lit_review_pull <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/14RHRKgQGHj7Zr4_xt4fq2bIE7mDNayLKj89tYmOOfHQ/edit?usp=sharing", 
+                                sheet="DatasetsComparisonLitReview") #%>% janitor::clean_names() 
+# dim(lit_review_pull)
+
+library(flextable)
+library(ftExtra)
+library(tidyverse)
+flextable::set_flextable_defaults(fonts_ignore=TRUE)
+
+#https://davidgohel.github.io/flextable/reference/knit_print.flextable.html#chunk-options
+# NOTE: If one of the citations is degenerate this will throw an error when knitting that is annoying to track down. You have to remove cite by cite to see which one it is.
+set_flextable_defaults(fonts_ignore=TRUE)
+
+lit_review_alt <- lit_review_pull %>% 
+                  mutate(Literature = paste0("",Literature %>% stringr::str_replace("; {0,}$","") ,"")) %>%
+                  mutate(Literature = paste0("",Literature %>% stringr::str_replace_all(";",",") ,"")) %>%
+                  #mutate(Literature = paste0("  [",Literature %>% stringr::str_replace("; {0,}$","") ,"]")) %>%
+                  #mutate(Concept= paste0("**", Concept, "**", Literature)) %>%
+                  mutate(Concept= paste0(Concept)) %>%
+                  mutate(Literature = Literature %>% stringr::str_replace_all(stringr::fixed("NA"),"") ) %>%
+                  mutate(Concept = Concept %>% stringr::str_replace(stringr::fixed(" ["),stringr::fixed(" - ["))) %>%
+                  dplyr::select(-Codebook, -`Cameo Codes`, -`ICB Codes`, Literature, -`ICB Corpus`, -`Removed Literature`) # %>% 
+                  # dplyr::rename(`Illustrative Literature` = Literature)
+                  #dplyr::filter(is.na(group))
+
+
+n=nrow(lit_review_alt)
+k=ncol(lit_review_alt)
+horizontal = c(1,k)
+r_intro= lit_review_pull$...1 %in% "Domain" %>% sum() #changed to domain
+r_players= ( lit_review_pull$...1 %in% "Players" %>% sum() ) + r_intro
+r_pieces= ( lit_review_pull$...1 %in% "Pieces" %>% sum() ) + r_players
+r_think= ( lit_review_pull$...1 %in% "Think" %>% sum() ) + r_pieces
+r_say= ( lit_review_pull$...1 %in% "Say" %>% sum() ) + r_think
+r_unarmed= ( lit_review_pull$...1 %in% "Do - Unarmed" %>% sum() ) + r_say
+r_armed= ( lit_review_pull$...1 %in% "Do - Armed" %>% sum() ) + r_unarmed
+ft <- NULL
+
+library(officer)
+big_border = fp_border(color="black", width = 2)
+
+bands=which( 1:nrow(lit_review_alt) %% 2 == 1)
+litreview_ft_psrm <- lit_review_alt %>%
+      flextable::as_flextable() %>%
+
+      # add_header(
+      #             #"ICB Corpus"="Corpus",
+      #             "ICBe"="Events Datasets",
+      #             "Phoenix"="Events Datasets",
+      #             "Terrier"="Events Datasets",
+      #             "ICEWs"="Events Datasets",
+      #             "MIDs Incidents"="Events Datasets",
+      #             "UCDP-GED"="Events Datasets",
+      #             "ICB"="Episodes Datasets",
+      #             "COW"="Episodes Datasets",
+      #             "MIDs"="Episodes Datasets",
+      #             top = T ) %>%
+
+      set_header_labels(
+        values = list("...1" = "" , "...2" = "" ) 
+        ) %>%
+
+      # undo merge of the header
+      # merge_h(part = "header") %>% #it's this merge that's killing us
+  
+      #Global Borders
+      flextable::border_remove() %>% 
+      #ok so because of our horizontal merging of headers, we have to manually place a right bar at j=10 2 short of the full width
+      flextable::border_outer(part="all", border = big_border) %>% #this will have a gap
+      # border(j=10:k, i=1 , part="header", border.right = big_border ) %>% #this fills the gap
+      
+      #There's another gap on the bottom left
+      # border(j=1, i=(n-15):n , part="body", border.bottom =  big_border ) %>% #this fills the gap
+      # border(j=2, i=(n-5):n , part="body", border.bottom =  big_border ) %>% #this fills the gap
+
+      flextable::line_spacing( space = 1.0, part = "all") %>% #i=1:nrow(lit_review_alt),
+      flextable::fontsize(size = 6.5, part = "all") %>%
+      #Banding
+      bg( i = bands, j=2:k, part = "body", bg = "#EFEFEF") %>% 
+  
+      flextable::rotate(i=1, j=2:k, rotation="tbrl", part="header") %>%
+      flextable::height(i=1, height=100, part="header") %>% 
+      flextable::padding(padding = 0, part = "body") %>%
+      flextable::align(align = "center", part = "body") %>%
+      flextable::align(align = "center", part = "header")   %>%
+
+      flextable::colformat_char(
+          j = 1:ncol(lit_review_alt),
+          na_str = "",
+          prefix = "",
+          suffix = ""
+      ) %>%
+      #Domains
+      hline(i=c(r_intro), border = NULL, part = "body") %>% 
+      merge_at(i = 1:r_intro, j = 1, part = "body") %>%  
+      # merge_at(i = 4, j = 5:7, part = "body") %>%
+      # merge_at(i = 5, j = 5:7, part = "body") %>%
+      # merge_at(i = 6, j = 5:7, part = "body") %>%
+      # merge_at(i = 7, j = 5:7, part = "body") %>%
+  
+      #players
+      hline(i=c(r_players), border = NULL, part = "body") %>% 
+      merge_at(i = (r_intro+1):r_players, j = 1, part = "body") %>%  
+      #pieces
+      hline(i=c(r_pieces), border = NULL, part = "body") %>% 
+      merge_at(i = (r_players+1):r_pieces, j = 1, part = "body") %>%  
+      #think
+      hline(i=c(r_think), border = NULL, part = "body") %>% 
+      merge_at(i = (r_pieces+1):r_think, j = 1, part = "body") %>%  
+      #say
+      hline(i=c(r_say), border = NULL, part = "body") %>% 
+      merge_at(i = (r_think+1):r_say, j = 1, part = "body") %>%
+      #Do
+      #merge_at(i = (r_say+1):r_armed, j = 1, part = "body") %>%  
+
+      #n_unarmed
+      hline(i=c(r_unarmed), j = 1:k, part = "body") %>% 
+      merge_at(i = (r_say+1):r_unarmed, j = 1, part = "body") %>%  
+      #n_armed
+      #hline(i=c(r_armed), border = NULL, part = "body") %>% 
+      merge_at(i = (r_unarmed+1):r_armed, j = 1, part = "body") %>%  
+
+      #set_table_properties(layout="autofit")  %>%
+      vline( i = 1, j = c(3,8), border = NULL, part = "header") %>%
+      vline( i = 1:(n), j = 1, border = NULL, part = "body")  %>%
+      vline( i = 1:(n), j = c(3,8), border = NULL, part = "body")  %>%
+  
+      # flextable::bold(i = 1:n, j=2, bold = TRUE, part = "body") %>%
+      
+      flextable::width(j = 1, width=0.1)  %>%
+      flextable::width( j = 2, width=2) %>% # change width for inline citations for politicalanalysis (4 works, might have extra room)
+      flextable::width( j = 3, width=1.6) %>% # change width for inline citations for politicalanalysis (4 works, might have extra room)
+      flextable::width( j = (4):k, width=0.22) %>%
+      flextable::line_spacing( space = 0.5, part = "body") %>% #i=1:nrow(lit_review_alt),
+      flextable::padding(padding = 0, part = "body") %>%
+      flextable::rotate(j=1, rotation="tbrl",part="all", align="center") %>%
+      #flextable::rotate(j=2, rotation="tbrl",part="all") %>%
+      ftExtra::colformat_md(j = 3, part="body")    #Make sure this goes last or it'll get overwritten by the colformat above
+
+#https://cran.r-project.org/web/packages/ftExtra/vignettes/format_columns.html
+#litreview_ft_psrm
+
+#litreview_ft_psrm  %>% saveRDS(paste0(here::here(), '/replication_paper/tables/litreview_ft_psrm.Rds'))
+litreview_ft_psrm %>% 
+    flextable::set_caption(caption = "Ontological coverage of ICBe versus existing State of the Art") %>%
+   flextable::flextable_to_rmd()
+
+# Uncomment for snapshot
+# litreview_ft_psrm %>% 
+#     #flextable::flextable_to_rmd()
+#     save_as_image(path=here::here("replication_paper", "psrm_draft", "litreview_ft.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+```
+
+```{=tex}
+\clearpage
+\doublespacing
+```
+```{r coder-counts, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
+n_crisis <- ICBe_events_agreed %>% dplyr::select(crisno) %>% unique() %>% nrow()
+n_sentences <- ICBe_events_agreed %>% dplyr::select(crisno, sentence_number_int_aligned) %>% unique() %>% nrow()
+#n_events <- ICBe_events_agreed %>% dplyr::filter(event_number_int %in% c(1,2,3)) %>% nrow()
+#n_events_cuba <- ICBe_events_agreed %>% dplyr::filter(crisno == 196 & event_number_int %in% c(1,2,3)) %>% nrow()
+n_coders <- icb_long_clean %>% dplyr::select(email_id) %>% unique() %>% nrow()
+
+avg_coders_per_crisis <- icb_long_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_coder = paste(crisno, email_id)) %>% dplyr::select(crisno, email_id) %>% unique() %>% dplyr::count(crisno) %>% dplyr::select(n) %>% lapply(mean)
+
+avg_coders_per_sentence <- icb_long_clean %>% dplyr::filter(crisno != 196) %>% dplyr::mutate(cris_sent = paste(crisno, sentence_number_int_aligned)) %>% dplyr::select(cris_sent, email_id) %>% unique() %>% dplyr::count(cris_sent) %>% dplyr::select(n) %>% lapply(mean)
+```
+
+With the exception of large-scale CAMEO dictionary-based systems, our ontology improves upon the the existing state of the art quantitative datasets that ignore important information content about international interactions.[^4] In particular, we highlight two innovations in our ontology. First, we separate the chess pieces from the chess players in not only identifying what states were involved in each crisis, but distinguishing between different actors within a state. By virtue of our ontology coding military versus civilian actors and national leaders versus bureaucrats, our data can be used to explore important questions concerning topics like civilian military relations as well as evolution in what actors are engaged in crises - a topic of increasing interest as states engage in "gray zone conflict" by employing "chess pieces" like the coast guard instead of military navy. Second, we add information about the domains in which actors behave - whether in land, air, sea, space, or cyber - since they differ in their technology, tactics, geography, and purpose [@gartzkeCrossDomainDeterrenceStrategy2019]. Doing so allows researchers to identify and explain patterns in escalation conditional on the military means states use in conflict. Recent concerns about cross-domain conflict and the effect of new domains of conflict like space and cyber have made this an endeavor of increased interest to practitioners [@gannonOneIfLand2022].
+
+<!-- removedcites @braithwaiteMIDLOCIntroducingMilitarized2010; @braithwaiteCodebookMilitarizedInterstate2009; @hegreIntroducingUCDPCandidate2020, @ralphsundbergUCDPGEDCodebook2016-->
+
+# Methodology and data
+
+## Corpus
+
+For our corpus, we select a set of unusually high-quality historical narratives from the International Crisis Behavior (ICB) project ($n=471$)(Supplementary Information (SI) Appendix 1.1)[@brecherInternationalCrisisBehavior2021; @brecher_study_1997]. ICB defines a crisis as meeting three conditions: (1) an actor perceives a threat to one of more of its basic values, (2) the actor has a finite time horizon for responding to the perceived threat, and (3) the probability of military hostility has increased [@brecherCrisesWorldPolitics1982]. Crises are a significant focus of detailed single case studies and case comparisons because they provide an opportunity to examine behaviors in IR short of, or at least prior to, full conflict [@holsti1914Case1965; @paigeKoreanDecisionJune1968; @allisonEssenceDecisionExplaining1971; @gavinHistorySecurityStudies2014; @brecherCrisesWorldPolitics1982; @iakhnisCrisesWorldPolitics2019]. Case selection was exhaustive based on a survey of world news archives and region experts, cross-checked against other databases of war and conflict, and non-English sources [@kangUSBiasStudy2019; @brecherInternationalCrisisBehavior2021 p. 59]. Each narrative was written by consensus by a small number of scholars, using a uniform coding scheme, with similar specificity [@hewittEngagingInternationalData2001]. The corpus is unique in IR because it is designed to be used in a downstream quantitative coding project.
+
+<!-- removedcites @snyderConflictNationsBargaining1977; @gaddisExpandingDataBase1987; @georgeDeterrenceAmericanForeign1974; @brecherPatternsCrisisManagement1988 -->
+
+## Coding Process
+
+The ICBe ontology follows a hierarchical design philosophy where a smaller number of significant decisions are made early on and then progressively refined into more specific details [@brustIntegratingDomainKnowledge2020].[^5] Each coder was instructed to first thoroughly read the full crisis narrative and then presented with a custom graphical user interface (SI Appendix 2.1). Coders then proceeded sentence by sentence, choosing the number of events (0-3) that occurred, the highest behavior (thought, speech, or activity), a set of players, whether the means were primarily armed or unarmed, whether there was an increase or decrease in aggression (uncooperative/escalating or cooperative/de-escalating), and finally one or more non-mutually exclusive specific activities. Some additional details like location and timing information were always collected while other details were only collected if appropriate, e.g. force size, fatalities, domains, units, etc. A unique feature of the ontology is that thought, speech, and do behaviors can be nested into combinations, e.g. an offer for the U.S.S.R. to remove missiles from Cuba in exchange for the U.S. removing missiles from Turkey. Through compounding, the ontology can capture what players were said to have known, learned, or said about other specific fully described actions. We find `r codings_long_agreement %>% filter(varname_normalized %>% str_detect("actor")) %>% pull(value_normalized) %>% unique() %>% length()` actors and 117 different behaviors.[^6]
+
+Each crisis was typically assigned to 2 expert coders and 2 novice coders with an additional tie-breaking expert coder assigned to sentences with high disagreement.[^7] For the purposes of measuring intercoder agreement and consensus, we temporarily disaggregate the unit of analysis to the Coder-Crisis-Sentence-Tag (n=`r icb_long_clean %>% nrow() %>% scales::comma()`), where a tag is any unique piece of information a coder can associate with a sentence such as an actor, date, behavior, etc. We then aggregate those tags into final events (n=`r ICBe_events_agreed %>% nrow() %>% scales::comma()`), using a consensus procedure (SI Appendix 2.2) that requires a tag to have been chosen by at least one expert coder and either a majority of expert or novice coders. This screens noisy tags that no expert considered possible but leverages novice knowledge to tie-break between equally plausible tags chosen by experts.
+
+```{r means}
+#We calculate means in the SI appendix on agreement
+means_group_any <- codings_long_agreement %>% filter(value_normalized!='') %>% 
+                   group_by(crisno,sentence_number_int_aligned, varname_normalized) %>% arrange(desc(percent_expert)) %>% filter(row_number()==1) %>% ungroup() %>% 
+                   dplyr::select(Experts=percent_expert,Novices=percent_novice) %>% summarise_all(mean)
+
+means_group_keep <- codings_long_agreement %>% filter(value_normalized!='') %>% 
+                    filter(algo1==1) %>%
+                    group_by(crisno,sentence_number_int_aligned, varname_normalized) %>% arrange(desc(percent_expert)) %>% filter(row_number()==1) %>% ungroup() %>% 
+                    dplyr::select(Experts_keep=percent_expert,Novices_keep=percent_novice) %>% summarise_all(mean)
+```
+
+# Performance comparison
+
+## Internal consistency
+
+We evaluate the internal validity of the coding process in several ways. For every tag applied we calculate the observed intercoder agreement as the percent of other coders who also applied that same tag (SI Appendix 2.3). Across all concepts, the Top 1 Tag Agreement was low among novices (`r means_group_any$Novices %>% round(2) %>% scales::percent()`), moderate for experts (`r means_group_any$Experts %>% round(2) %>% scales::percent()`), and high (`r means_group_keep$Experts_keep %>% round(2) %>% scales::percent()`) following the consensus screening procedure.
+
+We attribute the remaining disagreement primarily to three sources. First, we required coders to rate and justify their confidence in the coding. They reported low confidence for 20% of sentences; 45% of those were due to a mismatch between the ontology and the text ("survey doesn't fit event") and 46% were from a lack of information or confused writing in the source text (40% "more knowledge needed", 6% "confusing sentence"). Observed disagreement varied predictably with self-reported confidence (SI Appendix 2.4). Second, as intended, agreement is higher (75-80%) for questions with fewer options near the root of the ontology compared to agreement for questions near the leaves of the ontology (50%-60%). Third, individual coders exhibit nontrivial coding styles, e.g. some more expressive coders applied many tags per concept while others focused on only the single best match. We further observed unintended synonymity, e.g. the same information can be framed as either a threat to do something or a promise not to do something.
+
+## Improvement over existing efforts
+
+To evaluate our coding process relative to existing datasets, we measure the recall and precision of ICBe events in absolute terms and relative to other existing systems. Recall measures the share of desired information recovered by a sequence of coded events while precision measures the degree to which a sequence of events correctly and usefully describes the information in history. We provide full ICB narratives, ICBe coding in an easy-to-read iconographic form, and a wide range of visualizations for every case on the companion website.
+
+Recall is poorly defined for historical episodes. First, there is no genuine ground truth about what occurred, only surviving texts about it. Second, there is no *a priori* guide to what information is necessary detail and what is ignorable trivia. History suffers from what is known as the Coastline Paradox [@mandelbrotFractalGeometryNature1983] --- it has a fractal dimension greater than one such that the more you zoom in, the more detail you will find about individual events as well as in between any two discrete events. The ICBe ontology is a proposal about what information is important, but we need an independent benchmark to evaluate whether that proposal is a good one and that allows for comparing proposals from event projects that had different goals. We need a yardstick for history.
+
+Our strategy for dealing with both problems is a plausibly objective yardstick called a synthetic historical narrative. We collect a large diverse corpus of narratives spanning timelines, encyclopedia entries, journal articles, news reports, websites, and government documents. Using natural language processing (fully described in SI Appendix 3.1), we identify details that appear across multiple accounts. The more accounts that mention a detail, the more central it is to understanding the true historical episode. The theoretical motivation is that authors face word limits which force them to pick and choose which details to include, and they choose details that serve the specific context of the document they are producing. With a sufficiently large and diverse corpus of documents, we can vary the context while holding the overall episode constant and see which details tend to be invariant to context. Intuitively, a high-quality event dataset should have high recall for context invariant details both because of their broader relevance and also because they are easier to find in source material.
+
+We find substantive variation in recall across existing state of the art methods. Mentions of a detail across accounts are exponentially distributed with context-invariant details appearing dozens to hundreds of times more than context-dependent details.[^8] Furthermore, crisis start and stop dates are arbitrary, and the historical record points to many precursor events as necessary detail for understanding later events. @fig-recall-cases compares ICBe's recall with that of existing datasets for the two case studies in the next section. Recall for each increases in the number of document mentions which is an important sign of validity for both them and our benchmark. The one outlier is Phoenix which is so noisy that it's flat to decreasing in mentions. The two episode-level datasets have low coverage of contextual details. The two other dictionary systems ICEWs and Terrier have higher coverage, with ICEWs outperforming Terrier. ICBe strictly dominates all of the systems but ICEWs in recall though we note that the small sample sizes mean these systems should be considered statistically indistinguishable. Importantly our corpus of ICB narratives has high recall of frequently mentioned details giving us confidence in how those summaries were constructed, and ICBe lags only slightly behind showing that it left little additional information on the table.
+
+![Recall comparison of two cases across existing state of the art efforts. Higher y-axis values represent higher recall and higher x-axis values represent number of times that detail is mentioned across the full corpus used to construct the synthetic narrative.](p_recall.png){#fig-recall-cases}
+
+The second component of event measurement is precision. It does little good to recall a historical event but too vaguely (e.g. MIDs describes the Cuban Missile Crisis as a blockade, a show of force, and a stalemate) or with too much error (e.g. ICEWS records 263 "Detonate Nuclear Weapons" events between 1995-2019) to be useful for downstream applications. ICBe's ontology and coding system are designed to strike a balance so that the most important information is recovered accurately but also abstracted to a level that is still useful and interpretable. You should be able to lay out the events of a crisis on a timeline, as in Figure 3, and read off the macrostructure of an episode from each individual move. We call this visualization a crisis map, a directed graph intersected with a timeline, and provide crisis maps for every event dataset for each case study in SI Appendix 4.3 and 4.4 and for all crises on the companion website.
+
+We further want to verify individual event codings, which we can do in the case of ICBe because each event is mapped to a specific span of text. We develop the iconography system for presenting event codings as coherent statements that can be compared side by side to the original source narrative for every case on the companion website. We further provide a stratified sample of event codings alongside their source text (SI Appendix 4.2). We find both the visualizations of macrostructure and head-to-head comparisons of ICBe codings to the raw text to strongly support the quality of ICBe.
+
+```{r crisis-map-function, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+global_check_overlap=F
+library(igraph)
+library(RColorBrewer)
+library(ggraph)
+target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recoding_master_sheet.xlsx")
+dictionary_actors_labels    <- readxl::read_excel(target_file, sheet="actors") %>% 
+                              dplyr::select(crisno, value_normalized=value_normalized_wikidata_id, value_normalized_label) %>% dplyr::distinct() %>% na.omit()
+
+actor_translator <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", 
+                                sheet="actor_translator") #%>% janitor::clean_names() 
+#Convert to a local file for pushing
+#actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator") #Ya we just add colors to the actor translator and we're good
+pallet <- c(brewer.pal(n=20, "Dark2"), brewer.pal(n=20, "Set1"), brewer.pal(n=20, "Set2"), brewer.pal(n=20, "Paired")) %>% unique()
+library(pals); #install.packages('pals')
+pallet <- c(pals::glasbey(),  pals::alphabet2())
+pallet <- setdiff(pallet, c("#666666", "#999999", "#FFFF99","#FFFF33","#B2DF8A","#B3B3B3","#0000FF")) 
+library(colorspace)
+#cols <- c("#CDE4F3","#E7F3D3","#F7F0C7","#EFCFE5","#D0D1E7")    
+pallet <- rgb(hex2RGB(pallet)@coords * 0.7)
+actor_translator$actor_color = rep(pallet, length=nrow(actor_translator))
+
+icbe_crisismaps <- function(thiscrisis=471, prune_rare=T){
+  
+  icb_events_subset <-  ICBe_events_agreed %>% 
+                         dplyr::filter(crisno==thiscrisis) %>%  #417 196
+                         dplyr::filter(!is.na(think_actor_a) | !is.na(say_actor_a) | !is.na(do_actor_a))   %>%
+                         dplyr::mutate(decade=date_earliest_decade %>% as.numeric() ) %>%
+                         dplyr::mutate(year=date_earliest_year %>% as.numeric() ) %>%
+                         dplyr::mutate(month= date_earliest_month %>% as.numeric() ) %>%
+                         dplyr::mutate(day= date_earliest_day %>% as.numeric()  ) %>%
+                         dplyr::arrange(desc(do_timing %in% 'long before crisis'), sentence_number_int_aligned) %>%
+                         tidyr::fill(decade, .direction="downup") %>%
+                         tidyr::fill(year, .direction="downup") %>%
+                         tidyr::fill(month, .direction="downup") %>%
+                         tidyr::fill(day, .direction="downup") %>% 
+                         dplyr::mutate(point_in_time_year = year %>% as.numeric())  %>% 
+                         dplyr::mutate(point_in_time_month = month %>% as.numeric()) %>% 
+                         arrange(decade, year,month,day) %>%
+                         mutate(sent= cumsum((sentence_number_int_aligned == lag(sentence_number_int_aligned) ) %in% FALSE) ) #this is now our new order
+
+  icb_events_subset_diad <- icb_events_subset %>% 
+                                     mutate(think_actor_a = strsplit(as.character(think_actor_a), ";")) %>% unnest(think_actor_a, keep_empty=T) %>%
+                                     mutate(say_actor_a = strsplit(as.character(say_actor_a), ";")) %>% unnest(say_actor_a, keep_empty=T) %>%
+                                     mutate(say_actor_b = strsplit(as.character(say_actor_b), ";")) %>% unnest(say_actor_b, keep_empty=T) %>%
+                                     mutate(do_actor_a = strsplit(as.character(do_actor_a), ";")) %>% unnest(do_actor_a, keep_empty=T) %>%
+                                     mutate(do_actor_b = strsplit(as.character(do_actor_b), ";")) %>% unnest(do_actor_b, keep_empty=T) %>%
+                                     mutate(dokind=paste(act_deescalate,act_escalate,act_uncooperative,act_cooperative, interact_deescalate,
+                                                         interact_escalate, interact_decreasecoop, interact_increasecoop, sep=";")) %>%
+                                     mutate(thinkkind = strsplit(as.character(thinkkind), ";")) %>% unnest(thinkkind, keep_empty=T) %>%
+                                     mutate(sayintkind = strsplit(as.character(sayintkind), ";")) %>% unnest(sayintkind, keep_empty=T) %>%
+                                     mutate(dokind = strsplit(as.character(dokind), ";")) %>% unnest(dokind, keep_empty=T) %>%
+                                     mutate(dokind=ifelse(dokind=='',NA,dokind)) %>%
+                                     filter(!is.na(thinkkind) | !is.na(sayintkind) | !is.na(dokind)) %>%
+                                     dplyr::select(sentence_number_int_aligned, #You have to keep this to remove dupe monads from the same sentence
+                                                    sent,
+                                                    think_actor_a,say_actor_a,say_actor_b,do_actor_a,do_actor_b,
+                                                    thinkkind, sayintkind, dokind,
+                                                    point_in_time_year, point_in_time_month
+                                                    ) %>% distinct() %>%
+                                filter(!duplicated(paste(sent,think_actor_a, say_actor_a, say_actor_b, do_actor_a, do_actor_b, thinkkind, sayintkind, dokind))) 
+  
+  notes=NULL
+  if(prune_rare==T){
+    actor_sent_counts <- 
+      bind_rows(
+          icb_events_subset %>% dplyr::select(sent=sentence_number_int_aligned,actor=think_actor_a),
+          icb_events_subset %>% dplyr::select(sent=sentence_number_int_aligned,actor=say_actor_a),
+          icb_events_subset %>% dplyr::select(sent=sentence_number_int_aligned,actor=say_actor_b),
+          icb_events_subset %>% dplyr::select(sent=sentence_number_int_aligned,actor=do_actor_a),
+          icb_events_subset %>% dplyr::select(sent=sentence_number_int_aligned,actor=do_actor_b)
+        ) %>% 
+          na.omit() %>%
+          mutate(actor = strsplit(as.character(actor), ";")) %>% unnest(actor) %>% distinct() %>% count(actor) %>% arrange(n %>% desc() )
+    
+      #New pruning rule, either singletons or actors with less than 10% of the max actor
+      singleton_actors <- actor_sent_counts %>% mutate(share_of_max=n/max(n)) %>% filter(n==1 | share_of_max<=0.1) %>% pull(actor) 
+      left_over_count <- nrow(actor_sent_counts) - length(singleton_actors)
+      if(left_over_count<3){
+        #Skip pruning if it leaves less than 3 actors
+      } else {
+      
+        actor_map <- dictionary_actors_labels %>% filter(crisno==thiscrisis) %>% distinct() %>% rename(actor=value_normalized) 
+        actor_singleton_labels <- actor_map$value_normalized_label
+        names(actor_singleton_labels) <- actor_map$actor
+        actor_singleton_labels <- actor_singleton_labels[singleton_actors]
+        
+        notes <- paste("Not shown: ", paste( singleton_actors %>% sort(), collapse="; " )) %>% stringi::stri_wrap(width=80) %>% paste(collapse="\n")
+        
+        #Easiest thing is to just prune the original data
+        icb_events_subset <- icb_events_subset %>%
+          filter(!(
+                think_actor_a %in% singleton_actors | #This doesn't work for joint ones
+                say_actor_a %in% singleton_actors |
+                say_actor_b %in% singleton_actors |
+                do_actor_a %in% singleton_actors |
+                do_actor_b %in% singleton_actors 
+          ) ) 
+        
+          #recreate diads again using the new sentence numbers
+          icb_events_subset_diad <- icb_events_subset %>% 
+                                             mutate(think_actor_a = strsplit(as.character(think_actor_a), ";")) %>% unnest(think_actor_a, keep_empty=T) %>%
+                                             mutate(say_actor_a = strsplit(as.character(say_actor_a), ";")) %>% unnest(say_actor_a, keep_empty=T) %>%
+                                             mutate(say_actor_b = strsplit(as.character(say_actor_b), ";")) %>% unnest(say_actor_b, keep_empty=T) %>%
+                                             mutate(do_actor_a = strsplit(as.character(do_actor_a), ";")) %>% unnest(do_actor_a, keep_empty=T) %>%
+                                             mutate(do_actor_b = strsplit(as.character(do_actor_b), ";")) %>% unnest(do_actor_b, keep_empty=T) %>%
+                                             mutate(dokind=paste(act_deescalate,act_escalate,act_uncooperative,act_cooperative, interact_deescalate,
+                                                                 interact_escalate, interact_decreasecoop, interact_increasecoop, sep=";")) %>%
+                                             mutate(thinkkind = strsplit(as.character(thinkkind), ";")) %>% unnest(thinkkind, keep_empty=T) %>%
+                                             mutate(sayintkind = strsplit(as.character(sayintkind), ";")) %>% unnest(sayintkind, keep_empty=T) %>%
+                                             mutate(dokind = strsplit(as.character(dokind), ";")) %>% unnest(dokind, keep_empty=T) %>%
+                                             mutate(dokind=ifelse(dokind=='',NA,dokind)) %>%
+                                             filter(!is.na(thinkkind) | !is.na(sayintkind) | !is.na(dokind)) %>%
+                                             dplyr::select(sentence_number_int_aligned, #You have to keep this to remove dupe monads from the same sentence
+                                                            sent,
+                                                            think_actor_a,say_actor_a,say_actor_b,do_actor_a,do_actor_b,
+                                                            thinkkind, sayintkind, dokind,
+                                                            point_in_time_year, point_in_time_month
+                                                            ) %>% distinct() %>%
+                                        filter(!duplicated(paste(sent,think_actor_a, say_actor_a, say_actor_b, do_actor_a, do_actor_b, thinkkind, sayintkind, dokind))) %>%
+                                        filter(!(
+                                              think_actor_a %in% singleton_actors | #This doesn't work for joint ones
+                                              say_actor_a %in% singleton_actors |
+                                              say_actor_b %in% singleton_actors |
+                                              do_actor_a %in% singleton_actors |
+                                              do_actor_b %in% singleton_actors 
+                                        ) ) %>% 
+                                       arrange(sent) %>%
+                                       mutate(sent= cumsum((sent == lag(sent) ) %in% FALSE) ) #
+      }
+  }
+  
+  g <- make_empty_graph(n = 0, directed = TRUE)
+    #graph_from_data_frame(vertices=nodes) #relations, directed=TRUE, 
+  
+
+  #Order actors by how many interactions they have together
+  temp <- bind_rows(
+    icb_events_subset_diad  %>% 
+      dplyr::select(say_actor_a, say_actor_b, sent) %>% na.omit()  %>% dplyr::rename(actor_1=say_actor_a, actor_2=say_actor_b),
+    icb_events_subset_diad %>% 
+      filter(is.na(sayintkind)) %>%  dplyr::select(do_actor_a, do_actor_b, sent) %>% na.omit() %>% dplyr::rename(actor_1=do_actor_a, actor_2=do_actor_b)
+  )  %>% arrange(actor_1, actor_2) %>% distinct()
+
+  #new plan is to minimize the number of crossovers
+  temp2 <- bind_rows(
+    temp,
+    temp %>% setNames(c("actor_2", "actor_1", "sent"))
+  ) %>% count(actor_1, actor_2) %>% arrange(actor_1, actor_2) %>% arrange(n) %>%
+  rowwise() %>%
+  mutate(actor_unordered= ifelse(actor_1>actor_2, paste(actor_1, actor_2),paste(actor_2, actor_1) ) ) %>%
+  arrange(desc(n))
+
+  
+  temp2_wide <- temp2 %>% tidyr::pivot_wider(id_cols=c(actor_1), names_from=actor_2, values_from=n) %>% mutate_if(is.numeric, tidyr::replace_na, 0) %>% as.data.frame()
+  rownames(temp2_wide) <- temp2_wide$actor_1
+  temp2_wide$actor_1 <- NULL
+  temp2_wide <- temp2_wide %>% as.matrix()
+  temp2_wide <- 1 -   (temp2_wide/max(temp2_wide))
+  temp2_wide <- temp2_wide[sort(rownames(temp2_wide)), sort(colnames(temp2_wide))]
+  hc <- hclust(temp2_wide %>% as.dist(), method="single")
+  diag(temp2_wide) <- 0
+  temp2_wide_pca <- prcomp(temp2_wide, center = F,scale. = F, retx=F, rank=1) #just run PCA on the distance matrix and order along the first eigenvalue
+  
+  #ideal_ordering <- hc$labels[hc$order] #There's a bug here, put all the isolated nodes by themselves first
+  ideal_ordering <- temp2_wide_pca$rotation %>% as.data.frame() %>% arrange(PC1) %>% rownames() #This all works but it's not optimizing what we want which is to minimize the number of cross over events
+  
+  #####Nodes
+  icb_events_subset_nodes <- 
+            bind_rows(
+                      icb_events_subset_diad %>% dplyr::select(sent, actor=think_actor_a, point_in_time_year, point_in_time_month) ,
+                      icb_events_subset_diad %>% dplyr::select(sent, actor=say_actor_a, point_in_time_year, point_in_time_month) ,
+                      icb_events_subset_diad %>% dplyr::select(sent, actor=say_actor_b, point_in_time_year, point_in_time_month) ,
+                      icb_events_subset_diad %>% dplyr::select(sent, actor=do_actor_a, point_in_time_year, point_in_time_month) ,
+                      icb_events_subset_diad %>% dplyr::select(sent, actor=do_actor_b, point_in_time_year, point_in_time_month) 
+            )  %>%
+            filter(!is.na(actor)) %>%
+           distinct()  %>% arrange(actor,sent) %>% mutate(actor_sent= actor %>% paste0("_", str_pad(sent, 2, pad = "0") )) %>% #don't na omit this one
+            mutate(x=actor %>% factor(levels=actor %>% unique() %>% setdiff(ideal_ordering) %>% c(ideal_ordering)) %>% as.numeric() *100 ,
+                   y=sent*-1 *100)
+  
+  
+  icbe_actor_to_qcode <- icb_events_long %>%
+                         dplyr::filter(crisno==thiscrisis  ) %>% 
+                         filter(varname_normalized %>% str_detect("actor")) %>% 
+                         dplyr::select(value_normalized,value_qcode) %>% 
+                         na.omit() %>% distinct()
+  
+  actor_colors_df <- icbe_actor_to_qcode %>%
+    left_join(actor_translator %>% dplyr::select(value_qcode=QCode, actor_color))
+  actor_colors <- actor_colors_df$actor_color
+  names(actor_colors) = actor_colors_df$value_normalized
+  
+  date_sineposts <- icb_events_subset_nodes  %>%
+                      mutate(x=max(x)+50) %>%
+                      dplyr::select(sent, point_in_time_year, point_in_time_month,x,y) %>%
+                      na.omit() %>% 
+                      distinct() %>%  
+                      mutate(sent=as.numeric(sent)) %>% arrange(sent) %>%
+                      mutate(year_float=point_in_time_year+(point_in_time_month/12)) %>%
+                      group_by(sent) %>%
+                       filter(year_float==min(year_float)) %>%
+                      ungroup() %>% as.data.frame() %>%
+                      filter( row_number()==1 |  ( year_float > lag(year_float)  ) )  %>%
+                      filter(!duplicated(year_float ) ) %>%
+                      mutate(label=paste0(point_in_time_year,"-",month.abb[point_in_time_month]))
+
+  ####Actor levels
+  icb_events_subset_nodes_min <- 
+    icb_events_subset_nodes %>% group_by(actor) %>% filter(sent==sent %>% min()) %>% ungroup() %>%
+    left_join(dictionary_actors_labels %>% filter(crisno==thiscrisis) %>% distinct() %>% rename(actor=value_normalized) ) %>%
+    #rename(qcode=actor, actor=value_normalized_label) %>% #we used to normalize to qcode and n
+    rowwise() #%>%
+    #mutate(actor=actor %>% stringi::stri_wrap(width=15) %>% paste0(collapse='\n')) #do at plot time so I don't break colors
+  
+  
+  for(i in 1:nrow(icb_events_subset_nodes)){
+    g <- g %>%  add_vertices(1, name=icb_events_subset_nodes$actor_sent[i],
+                                actor = icb_events_subset_nodes$actor[i], 
+                                sent = icb_events_subset_nodes$sent[i]  ) #, type = nodes$type[i] #, leaf = nodes$leaf[i]
+  }
+  
+  xy <- cbind(icb_events_subset_nodes$x, icb_events_subset_nodes$y )
+  
+  
+  #####Time Edges
+  icb_events_subset_nodes_edges_time <- cbind(icb_events_subset_nodes, bind_rows(icb_events_subset_nodes[-1,],icb_events_subset_nodes[1,] ) ) %>% janitor::clean_names() %>% filter(actor==actor_2 & sent_2>sent) %>% distinct()
+  
+  g <- g %>% 
+       add_edges(icb_events_subset_nodes_edges_time[,c('actor_sent','actor_sent_2')] %>% as.matrix() %>% t() %>% as.vector(),
+                 actor=icb_events_subset_nodes_edges_time$actor, timeedge=T, leaf='', eventedge=F, bundle_count=1)
+  
+  
+  ######Monads
+  icb_events_subset_monad <- 
+            bind_rows(
+                      icb_events_subset_diad %>% dplyr::select(sent, actor=think_actor_a,leaf=thinkkind) ,
+                      icb_events_subset_diad %>% filter(!is.na(say_actor_a) & is.na(say_actor_b)) %>% dplyr::select(sent,actor=say_actor_a,leaf=sayintkind) ,
+                      icb_events_subset_diad %>% filter(!is.na(do_actor_a) & is.na(do_actor_b)) %>% dplyr::select( sent,actor=do_actor_a,leaf=dokind) 
+            ) %>% 
+            na.omit() %>% 
+            distinct() %>% 
+            filter(!duplicated(paste(sent,actor,leaf))) %>%
+            mutate(actor_sent= actor %>% paste0("_", str_pad(sent, 2, pad = "0") )) %>%
+            mutate(leaf = strsplit(as.character(leaf), ";")) %>% unnest(leaf) %>%
+            distinct() %>% 
+            group_by(sent,actor,actor_sent) %>%
+              summarise(leaf=paste(leaf, collapse="\n") ) %>%
+            left_join( icb_events_subset_nodes %>% dplyr::select(actor_sent,x,y))
+  
+  
+  ######Directed
+  icb_events_subset_directed <- 
+            #We need to enumerate all the possibilities
+            bind_rows(
+              #Do alone
+              icb_events_subset_diad %>% filter(is.na(thinkkind) & is.na(sayintkind) & !is.na(dokind)) %>% 
+                             dplyr::select(sent,actor_1=do_actor_a, actor_2=do_actor_b, leaf=dokind) ,
+              #Say alone
+              icb_events_subset_diad %>% filter(is.na(thinkkind) & !is.na(sayintkind) & is.na(dokind)) %>% dplyr::select(sent,actor_1=say_actor_a, actor_2=say_actor_b, leaf=sayintkind) ,
+              #Say Do
+              icb_events_subset_diad %>% filter(is.na(thinkkind) & !is.na(sayintkind) & !is.na(dokind)) %>% 
+                mutate(leaf=paste0(sayintkind,"-",dokind)) %>% dplyr::select(sent,actor_1=say_actor_a, actor_2=say_actor_b, leaf=leaf),
+              #Think Do
+              icb_events_subset_diad %>% filter(!is.na(thinkkind) & is.na(sayintkind) & !is.na(dokind)) %>% 
+                mutate(leaf=paste0(dokind)) %>% dplyr::select(sent,actor_1=do_actor_a, actor_2=do_actor_b, leaf=leaf) 
+            ) %>% 
+            na.omit() %>% 
+            distinct() %>% 
+            #mutate(leaf = strsplit(as.character(leaf), ";")) %>% unnest(leaf) %>% distinct() %>% 
+            mutate(actor_sent_1= actor_1 %>% paste0("_", str_pad(sent, 2, pad = "0") )) %>%
+            mutate(actor_sent_2= actor_2 %>% paste0("_", str_pad(sent, 2, pad = "0") )) %>%
+            arrange(sent, actor_sent_1,leaf) %>%
+            group_by(sent,actor_1, actor_sent_1,actor_sent_2) %>%
+              summarise(leaf=paste(leaf, collapse="\n") ) %>% 
+           #It is actually easier just to rejex out some dupes
+            mutate(leaf = leaf %>%
+                     str_replace("accept\naccept","accept") %>%
+                   str_replace("appeal\nappeal","appeal") %>%
+                   str_replace("reject\nreject","reject") %>%
+                   str_replace("express intent\nexpress intent","express intent") 
+                   ) %>%
+           arrange(sent, actor_sent_1,leaf) %>%
+           filter(actor_sent_1!=actor_sent_2) 
+
+  #debug
+  icb_events_subset_directed <- icb_events_subset_directed  %>% 
+           group_by(sent, leaf) %>%
+               mutate(bundle_count=n()) %>%
+               mutate(leaf2=ifelse(bundle_count>1 & row_number()>1,'',leaf)) %>%  
+            ungroup()  
+  
+  g <- g %>% add_edges(icb_events_subset_directed[,c('actor_sent_1','actor_sent_2')] %>% as.matrix() %>% t() %>% as.vector(),
+                       timeedge=F, 
+                       leaf=icb_events_subset_directed$leaf2, 
+                       eventedge=T,
+                       actor=icb_events_subset_directed$actor_1,
+                       bundle_count=icb_events_subset_directed$bundle_count
+                       ) 
+  
+  ######Put it all together
+  wrap_names <- function(x){sapply(x, FUN=function(x) x %>% stringi::stri_wrap(width=15) %>% paste0(collapse='\n') ) }
+  p_metro_map <- g %>%  
+          ggraph("manual",x=xy[,1],y=xy[,2]) +  #geom_edge_parallel
+    
+          #Event edges
+          #geom_path(data = hbundle, aes(x, y, group = group), col = "#9d0191", size = 0.05) +
+          geom_edge_arc(aes(  
+                            colour=actor,
+                            label=leaf,
+                            filter=eventedge==T & bundle_count==1 
+                            ),
+                        label_colour=NA, 
+                        vjust = -0.75,
+                        lineheight = .75,
+                        sep = unit(1, 'mm'), 
+                        edge_width=0.25, 
+                        show.legend = F,
+                        arrow = arrow(length = unit(2, 'mm')),
+                        label_size=3,
+                        check_overlap=global_check_overlap,
+                        start_cap = circle(3, 'mm'),
+                        end_cap = circle(3, 'mm'),
+                        angle_calc = 'along' #,
+                        #label_push=unit(20, units='mm') #This shifts the curved labels toward the target
+                       ) +
+              #Grouped Edges
+              geom_edge_parallel(aes(  
+                                  colour=actor,
+                                  label=leaf,
+                                  filter=eventedge==T & bundle_count>1
+                                  ),
+                              vjust = -0.75,
+                              lineheight = .75,
+                              sep = unit(5, 'mm'), 
+                              edge_width=0.4,  #0.25
+                              show.legend = F,
+                              arrow = arrow(length = unit(1, 'mm')),
+                              label_size=4,
+                              check_overlap=global_check_overlap,
+                              start_cap = circle(3, 'mm'),
+                              end_cap = circle(3, 'mm'),
+                              angle_calc = 'along'
+                             ) +
+  
+              #Time edges
+              geom_edge_link(aes(
+                              edge_colour=actor,
+                              filter=timeedge==T
+                              ),
+                              edge_width=0.1, 
+                              show.legend = F,
+                              check_overlap=global_check_overlap
+                             ) +
+              geom_node_point(aes(color=actor),size=1,stroke=0.5) +
+              #Fatalities
+              #geom_text(data=fatalities %>% filter(interact_fatalities>1), aes(x=x+4,y=y, size=interact_fatalities+1), color='black', label='☠', angle=0, check_overlap=global_check_overlap) +
+              
+              geom_text(data=icb_events_subset_monad, aes(x=x,y=y, label=leaf), nudge_y=40, angle=0, lineheight = .75, size=3, check_overlap=global_check_overlap) +
+              #Add Actor Names
+              geom_text(data=icb_events_subset_nodes_min, aes(x=x,y=y, label=actor  %>% wrap_names() , color=actor),
+                        nudge_y=150, angle=0, size=4, lineheight = .75, fontface = "bold",
+                        check_overlap=global_check_overlap) + #-45
+              geom_text(data=date_sineposts, aes(x=x,y=y, label=label), color="grey", nudge_y=0, angle=0, size=4, lineheight = .75, fontface = "bold",check_overlap=global_check_overlap) + #-45
+              scale_color_manual(values = actor_colors)  +
+              scale_edge_color_manual(values = actor_colors) +
+              #theme_bw() + 
+              #labs( title = plot_title ) +
+              theme_graph() +
+              theme(legend.position = "none") #+
+              #ggimage::geom_image(data= units, aes(x=x+offeset,y=y-30, image = IMAGE), size = 0.015)
+  
+  if(prune_rare==T & !is.null(notes)){
+     p_metro_map <- p_metro_map + labs(caption = notes)
+  }
+
+  return(p_metro_map)
+}
+```
+
+```{r precision-combined, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+library(ggplot2)
+library(cowplot)
+
+p_196_icbe <- icbe_crisismaps(thiscrisis=196) +
+    labs(
+      #title = plot_title ,
+      #subtitle = subtitle ,
+      caption = NULL
+    ) +
+      theme(plot.margin=unit(c(0,0,0,0),"in")) +
+  scale_x_continuous(expand = expansion(mult = c(0.06, 0.05))) +
+   scale_y_continuous(expand = expansion(mult = c(0.01, 0.01)))
+
+ratio=.75
+height=18
+save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_196_icbe.png'),
+          p_196_icbe, base_height = 18, base_width = height*ratio)
+    
+
+    
+p_471_icbe <- icbe_crisismaps(thiscrisis=471) #readRDS(file=paste0(here::here(), '/replication_paper/arxiv_draft/crisismaps/p_metro_plot_471.Rds')) +
+    labs(
+      #title = plot_title ,
+      #subtitle = subtitle ,
+      caption = NULL
+    ) +
+    theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.025, 0.025))) +
+   scale_y_continuous(expand = expansion(mult = c(0.01, 0.01)))
+
+ratio=.75
+height=18
+save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_471_icbe.png'),
+          p_471_icbe, base_height = 18, base_width = height*ratio)
+    
+    
+p_precision_combined <- plot_grid(
+            p_196_icbe +
+    theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+   scale_y_continuous(expand = expansion(mult = c(0.01, 0.01))) ,
+               p_471_icbe +
+    theme(plot.margin=unit(c(0,0,0,0),"in")) +
+   scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +
+   scale_y_continuous(expand = expansion(mult = c(0.01, 0.01))) ,  
+           labels = c('Cuban Missiles','Crimea-Donbas'), align = "v", ncol = 2 , rel_widths = c(1, 1) )
+
+ratio=1.5
+height=18
+save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_precision_combined.png'),
+          p_precision_combined, base_height = 18, base_width = height*ratio)
+
+```
+
+```{r sentences-unique, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+library(flextable)
+library(ftExtra)
+library(tidyverse)
+
+#Load it here before the python reticulate business
+#devtools::install_github("ropenscilabs/umapr")
+#library(umapr)
+
+ICBe_events_agreed_markdown <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.Rds")) 
+
+ICBe_events_agreed_markdown_embedded <- ICBe_events_agreed_markdown %>%
+                                        mutate(sentence_span_text_clean = sentence_span_text %>% str_replace_all("\\(.*?\\)|\\[.*?\\]","") ) %>%
+                                        mutate(sentences_unique_sanitized = sentence_span_text_clean %>%
+                                                 str_replace_all("[A-Z][a-z]*","Entity") %>%
+                                                 str_replace_all("[0-9]{4}","Entity") %>% #All years with entity
+                                                 str_replace_all("Entity Entity","Entity") %>%
+                                                 str_replace_all("Entity Entity","Entity") %>%
+                                                 str_replace_all("Entity Entity","Entity") %>%
+                                                 str_replace_all("Entity Entity","Entity") %>%
+                                                 str_replace_all("[0-9]","") %>%  #replace all digits with blanks
+                                                 str_replace_all(" {1,}"," ")   
+                                               )  #
+  
+sentences_unique <- ICBe_events_agreed_markdown_embedded %>% 
+                    dplyr::select(sentences_unique_sanitized) %>% 
+                    distinct() %>%
+                    pull(sentences_unique_sanitized) %>% 
+                    unique() %>% na.omit()
+length(sentences_unique ) #12162
+head(sentences_unique)
+```
+
+```{r reticulate, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+#To set python, set it in ~/.Renviron. `use_python()` doesn't seem to work as desired. See [stackoverflow](https://stackoverflow.com/questions/50145643/unable-to-change-python-path-in-reticulate/58743111#58743111).
+
+library(reticulate)
+reticulate::py_discover_config()
+
+#use_python("/home/skynet3/anaconda3/bin/python/")
+#use_python("/home/tlscherer/anaconda3/bin/python3")
+#py_install("sentence-transformers")
+```
+
+```{python sentence-transformers, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+#Can't get this and spacy to work in the same run. Once reticulate loads once it sticks with the environment that came first and I can't figure out how to switch it.
+#pip install -U sentence-transformers
+
+fromscratch=False
+
+if fromscratch:
+  from sentence_transformers import SentenceTransformer
+  import numpy as np
+  sentences=np.array(r.sentences_unique) #sentences_unique_sanitized
+  sentence_chars = np.array([len(q) for q in sentences])
+  #sentences=sentences[sentence_chars<1000] #cull anything with too many characters
+  len(sentences) #12161 12162
+  n=len(sentences)
+  chunk_length=100
+  n_chunks = int(np.ceil(n/chunk_length)) #can only 
+  sentences_chunks=[sentences[i:i + chunk_length] for i in range(0, n, chunk_length)]
+  len(sentences_chunks)
+  len(sentences_chunks[0])  
+  #model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
+  #model = SentenceTransformer('sentence-transformers/gtr-t5-xxl')
+  #model = SentenceTransformer('sentence-transformers/gtr-t5-xl')
+  model = SentenceTransformer('paraphrase-mpnet-base-v2')
+  #sentences
+  #sentences_test=['That is a happy person','That is a happy dog','That is a not happy person','That person is happy','This person is happy']
+  #temp = model.encode(sentences_chunks[0])
+  sentences_embeddings = np.vstack([model.encode(q) for q in sentences_chunks])  #[0:100] #cpu is possible just painfully slow #, device='0'
+  sentences_embeddings.shape #(12103, 768)
+
+else:
+  print("Skipping")
+```
+
+```{r sentence-embeddings, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+fromscratch = FALSE
+if(fromscratch){
+  sentences_embeddings <- py$sentences_embeddings
+  dim(sentences_embeddings)
+  sentences_embeddings %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/sentences_embeddings.Rds'))
+}else{
+  sentences_embeddings <- readRDS(paste0(here::here(), '/replication_paper/data/temp/sentences_embeddings.Rds'))
+  dim(sentences_embeddings)
+}
+```
+
+```{r umap, results='hide', echo=F, include=T, message=F, cache=F, warning=F, eval=F}
+#The [umapr](https://github.com/ropensci-archive/umapr) package requires python and [umap](https://github.com/lmcinnes/umap#installing). Please check their repos for installation details. 
+
+# AG temp edit: revert by deleting 'eval=F' above
+
+embedding <- umapr::umap(sentences_embeddings)
+#plot(embedding[,c('UMAP1','UMAP2')])
+
+sentences_embeded_mpnet <- as.data.frame(sentences_embeddings)
+sentences_embeded_umap <- embedding[,c('UMAP1','UMAP2')] %>% as.data.frame()
+
+sentences_embeded_mpnet$sentences_unique_sanitized <- sentences_unique
+sentences_embeded_umap$sentences_unique_sanitized <- sentences_unique
+
+ICBe_events_agreed_markdown_embedded <- ICBe_events_agreed_markdown_embedded %>% ungroup() %>% 
+                                        left_join(sentences_embeded_umap) %>% 
+                                  --------------------------      left_join(sentences_embeded_mpnet)
+
+ICBe_events_agreed_markdown_embedded %>% saveRDS(paste0(here::here(), '/replication_paper/data/temp/ICBe_events_agreed_markdown_embedded.Rds'))
+
+ICBe_events_agreed_markdown_embedded_sample  <- ICBe_events_agreed_markdown_embedded %>% 
+                                                mutate(UMAP1_round=UMAP1 %>%  round(), UMAP2_round=UMAP2 %>%  round()) %>%
+                                                dplyr::group_by(UMAP1_round,UMAP2_round) %>%
+                                                arrange(UMAP1,UMAP2) %>%
+                                                filter(crisno==crisno[1], sentence_number_int_aligned==sentence_number_int_aligned[1] ) #only take one per crisis
+```
+
+```{r sentence-embeddings-dendro, eval=F, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+
+# AG temp edit: revert by setting 'eval=T'
+
+library(cowplot)
+ICBe_events_agreed_markdown_embedded <- readRDS(paste0(here::here(), '/replication_paper/data/temp/ICBe_events_agreed_markdown_embedded.Rds'))
+
+newcolors <- pals::glasbey()
+
+value_means <- ICBe_events_agreed_markdown_embedded %>% 
+               left_join(icb_events_long %>% 
+                           filter(varname_normalized %>% str_detect('escalate|coop|sayintkind|thinkkind')) %>%
+                           filter(!value_normalized %>% str_detect('^[0-9]*$'))) %>%
+               mutate(color=NA) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("_escalate"),"red",color)) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("_deescalate"),"darkgreen",color)) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("uncoop|decreasecoop"),"purple",color)) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("_coop|_increasecoop"),"blue",color)) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("sayintkind"),"brown",color)) %>%
+               mutate(color=ifelse(varname_normalized %>% str_detect("thinkkind"),"darkorange",color)) %>%
+               dplyr::select(-varname_normalized,-value_qcode,-varname_normalized,-crisis_text,-crisno,-sentence_number_int_aligned,-sentence_span_text,
+                             -actor_set,-value_markdown,-sentence_span_text_clean,-sentences_unique_sanitized) %>% # 
+               group_by(color, value_normalized) %>%
+               mutate(n=n()) %>%
+               filter(n>20) %>% #note require at least 20 examples of that tag
+               dplyr::summarise_all(median) %>%
+              na.omit()
+  
+value_normalized_colors <- value_means$color 
+names(value_normalized_colors) = value_means$value
+
+library(ggplot2)
+library(ggrepel)
+p_semantic_embeddings <-
+      ICBe_events_agreed_markdown_embedded %>%
+      ggplot(aes(x=UMAP2,y=UMAP1)) +
+      geom_point(size=0.5, alpha=0.25) + 
+      #geom_text(data=value_means, aes(x=UMAP1, y=UMAP2, label=value, color=value %>% as.factor()),size=1.5) + 
+      theme_bw() +
+      theme(legend.position = "none") + 
+      geom_label(data=value_means,
+                 aes(x=UMAP2,y=UMAP1,
+                     fill = value_normalized %>% as.factor(),
+                     label=value_normalized, size=50
+                     ), size = 2.5,
+                 inherit.aes=F, 
+                 colour = "white", fontface = "bold", label.padding = unit(0.1, "lines")
+                 ) +   
+      #geom_label_repel(data=value_means,
+      #           aes(x=UMAP1,y=UMAP2, fill = value %>% as.factor(), label=value, size=20), size = 3, inherit.aes=F, 
+      #           colour = "white", fontface = "bold", label.padding = unit(0.1, "lines"),
+      #           min.segment.length = 0
+      #           ) + 
+      # labs(
+      #     title = "Variation in Tags by Semantic Embeddings of Source Sentences",
+      #     subtitle = "Sentence Embedding Paraphrase-MPNET-base-v2, UMAP Projection ",
+      #     caption = ""
+      # ) +
+     #scale_color_manual(values = value_normalized_colors) +
+     scale_fill_manual(values = value_normalized_colors) +
+     scale_x_continuous(expand = c(0, 0)) +
+     scale_y_continuous( expand = c(0, 0)) #+
+     #coord_cartesian( xlim=c(0.75,6.5), ylim=c(7,12)) #+  #you can't do this because umap is stochastic and you'd have to pick by hand each time
+     #coord_flip() 
+
+ggsave(file=paste0(here::here(), '/replication_paper/psrm_draft/p_semantic_embeddings.png'), plot = p_semantic_embeddings, width=12, height=8)
+
+#Now do the dendro
+library(ggdendro)
+#We actually need the raw embeddings
+
+#Rex Note to take only one per sentence
+value_normalized_colors <- value_means$color 
+names(value_normalized_colors) = value_means$value_normalized
+
+m <- value_means %>% dplyr::select(starts_with("V",  ignore.case = F)) %>% as.matrix()
+rownames(m) <- value_means$value_normalized
+d <- m %>% dist()
+hc <- hclust(d, method="ward.D2")
+library(ggplot2)
+library(ggdendro)
+hcdata <- dendro_data(hc, type = "rectangle")
+p_dendro <- ggplot() +
+            geom_segment(data = segment(hcdata), 
+                         aes(x = x, y = y, xend = xend, yend = yend)
+            ) +
+            geom_text(data = ggdendro::label(hcdata) %>% mutate(color=value_normalized_colors[hcdata$labels$label] ), 
+                      aes(x = x, y = y, label = label, hjust = 0,
+                          color=label %>% as.factor()), 
+                      size = 3
+            ) +
+            coord_flip() +
+            scale_color_manual(values = value_normalized_colors) +
+            scale_x_continuous(expand = c(0.02, 0.00, 0.02, 0.0) ) +
+            scale_y_reverse( expand = c(0.1, 0.0, 0.0, 5.0)) +  #limits = c(-10, 10),
+            theme_bw() +
+            theme(legend.position="none")
+#p_dendro
+
+ggsave(file=paste0(here::here(), '/replication_paper/psrm_draft/p_dendro.png'), plot = p_dendro, width=12, height=10)
+
+p_combined <- plot_grid(
+  NULL,
+  p_semantic_embeddings + xlab("") + ylab("") + 
+  theme(axis.ticks.x = element_blank(), axis.text.x = element_blank()) + 
+  theme(axis.ticks.y = element_blank(), axis.text.y = element_blank()),
+  NULL,
+  p_dendro  + xlab("") + ylab("") + 
+  theme(axis.ticks.x = element_blank(), axis.text.x = element_blank()) + 
+  theme(axis.ticks.y = element_blank(), axis.text.y = element_blank()),  
+  labels = c('',''),
+  align = "v", nrow = 1, rel_widths = c(-.2, 3.5, -.4, 1.5)  ) #increase the second width to give the dendro more room
+#p_combined
+
+ggsave(file=paste0(here::here(), '/replication_paper/psrm_draft/p_semantic_embeddings_dendro.png'), plot = p_combined, width=12, height=10)
+```
+
+@fig-umap shows the location of every sentence from the ICBe corpus in semantic space as embedded using the same large language model as before, and the median location of each ICBe event tag applied to those sentences.[^9] Labels reflect the individual leaves of the ontology and colors reflect the higher level coarse branch nodes of the ontology. If ICBe has high precision, substantively similar tags ought to have been applied to substantively similar source text, which is what we see both in two dimensions in the main plot and via hierarchical clustering on all dimensions in the dendrogram along the right-hand side.[^10]
+
+![Dots represent individual ICB narrative sentences, as embedded by the Paraphrase-MPNET-base-v2 large language model and flattened into two dimensions with UMAP. Text labels reflect individual leaves of the ICBe ontology, and colors represent intermediate branches of the ontology. Label placement is the median of all of the sentences that the tag was applied to by the coders. The dendrogram shows hierarchical clustering of the tags. If ICBe precision is high, then the sentences that tags were applied to ought to say similar things and the intended shape of the ontology ought to be visually recognizable.](p_semantic_embeddings_dendro.png){#fig-umap}
+
+Finally, how does ICBe's precision compare to the existing state of the art? The crisis maps reveal the episode-level datasets like MIDs or the original ICB are too sparse and vague to reconstruct the structure of the crisis (SI Appendix 4.3 and 4.4). On the other end of the spectrum, the high recall dictionary-based event datasets like Terrier and ICEWs produce so many noisy events (several hundred thousand) that even with heavy filtering their crisis maps are completely unintelligible. Further, because of copyright issues, none of these datasets directly provide the original text spans making event-level precision difficult to verify.
+
+However, given their high recall on our task and the global and real-time coverage of dictionary-based event systems, we want to take seriously the possibility that some functional transformation could recover the precision of ICBe. For example, @terechshenkoHotCollarLatent2020 attempts to correct for the mechanically increasing amount of news coverage each year by de-trending violent event counts from Phoenix using a human-coded baseline. Others have focused on verifying precision for ICEWs on specific subsets of details against known ground truths, e.g. geolocation [@cookLostAggregationImproving2019], protest events (80%) [@wuestExternalValidationProtest2020], anti-government protest networks (46.1%) [@jagerLimitsStudyingNetworks2018].
+
+# Case illustrations
+
+In this section, we focus our validation on two case studies for which we have produced synthetic narratives using the method described above. Our proposed measure is a reconstruction task to see whether our intended ontology can be recovered through only unsupervised clustering of sentences they were applied to. The first is the Cuban Missile Crisis (Figure 1) which took place primarily in the second half of 1962, involved the United States, the Soviet Union, and Cuba, and is widely known for bringing the world to the brink of nuclear war (hereafter Cuban Missiles). The second is the Crimea-Donbas Crisis (SI Appendix 4.1) which took place primarily in 2014, involved Russia, Ukraine, and NATO, and within a decade spiraled into a full-scale invasion (hereafter Crimea-Donbas). We choose these cases because they are substantively significant to 20th and 21st-century international relations, widely known across scientific disciplines and popular culture, and are sufficiently brief to evaluate in depth. Both cases involve a superpower in crisis with a neighbor, initiated by a change from a friendly to a hostile regime, with implications for economic and military security for the superpower, risked full-scale invasion, and eventually invited intervention by opposing superpowers.
+
+```{r recall-cuba, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+#Lit review
+#child=c('ICBEdataset_paper_litreviewtable.Rmd')
+library(tidyverse)
+library(flextable)
+library(ftExtra)
+flextable::set_flextable_defaults(fonts_ignore=TRUE)
+
+library(googlesheets4) #Do this high up so you get the prompt early
+library(lubridate, warn.conflicts = FALSE)
+case_study_cuban <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1NuRWFB1HEbQbJu_JoEzJ9WYk7kfwwCryF7wBfKPT6uc/edit?usp=sharing", 
+                                sheet="final") %>% janitor::clean_names() 
+dim(case_study_cuban)
+#case_study_cuban$date <- case_study_cuban$date %>% lapply(FUN=function(x) { ifelse(is.null(x), "", x[[1]] %>% as.character() )   }   ) %>% unlist() %>% as.Date()
+
+paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q241.png) ")
+
+#Replace emoticons with images
+replace_emoticons <- function(x){
+  x %>% str_replace_all('\U0001f1e8\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q241.png) ")) %>%
+        #https://emojiterra.com/flag-for-united-states/
+        str_replace_all('\U0001f1fa\U0001f1f8',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
+        #https://emojiterra.com/flag-for-russia/
+        str_replace_all('\U0001f1f7\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15180.png) ")) %>% 
+        #Turkey
+        str_replace_all('\U0001f1f9\U0001f1f7',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q43.png) ")) %>% 
+        #U.N.
+        str_replace_all('\U0001f1fa\U0001f1f3',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q1065.png) "))
+}
+
+temp1 <- case_study_cuban %>% 
+                #filter(!is.na(date)) %>%
+                #head(2) %>%
+                mutate(date=date %>% anytime::anydate()) %>%
+                mutate(year=year(date) %>% as.character() ) %>%
+                mutate(month=month(date) %>% as.character()) %>%
+                mutate(day=day(date) %>% as.character()) %>%
+                mutate(documents = documents %>% as.numeric()) %>%
+                mutate(Rank=rank(-documents, ties.method="first")  ) %>%
+                dplyr::select(Y=year,M=month, D=day, Rank, Event=event, Docs=documents, icb_narrative=icb_narrative, ICBe=ic_be, ICB=icb, MIDs=mids, phoenix=phoenix) %>% 
+                mutate(Event= Event %>%  replace_emoticons) %>% 
+                mutate(icb_narrative = ifelse(!is.na(icb_narrative), "✓", NA)) %>%
+                mutate(ICB = ifelse(!is.na(ICB) & !ICB %in% 0, "✓", NA)) %>%
+                mutate(MIDs = ifelse(!is.na(MIDs) & !MIDs %in% 0, "✓", NA)) %>%
+                mutate(phoenix = ifelse(!is.na(phoenix) & !phoenix %in% 0, "✓", NA)) %>%
+                mutate(ICBe = ifelse(!is.na(ICBe) & !ICBe %in% 0, "✓", NA)) %>%
+  
+                mutate(D=ifelse(!is.na(lag(D)) & D==lag(D) & M==lag(M),'',D )) %>%
+                mutate(M=ifelse(!is.na(lag(M)) & M==lag(M),'',M )) %>%
+                mutate(Y=ifelse(!is.na(lag(Y)) & Y==lag(Y),'',Y )) %>%
+                mutate(Y=ifelse(duplicated(Y), NA, Y)) %>%
+                mutate(YMD=paste(Y,
+                                 M %>% str_pad(2, pad = "0") ,
+                                 D %>% str_pad(2, pad = "0"), 
+                                 sep="-") %>% trimws() %>%
+                                 str_replace_all("^NA-","") %>%  #There's like a carriage return and tab in there somehow!
+                                 str_replace_all("^NA-","") %>% 
+                                 str_replace_all("^-00|^00","") %>% 
+                                 str_replace_all("^-00|^00","") %>% 
+                                 str_replace_all("^-","") 
+                       ) %>%
+                dplyr::select(-Y,-M,-D) %>%
+                relocate(YMD, .before = Rank) %>%
+                dplyr::select(-Rank)
+dim(temp1)
+
+#banding <- temp %>% mutate(date=as.Date(paste(Y,M,D, sep="-")) %>% as.numeric() %>% as.factor() %>% as.numeric() ) %>% pull(date) %% 2
+banding <- 1:nrow(temp1) %% 2
+k=ncol(temp1)
+ft <- temp1   %>%
+      flextable::as_flextable() %>% 
+      flextable::set_header_labels(values =
+        list(
+              Event = "Ground\nTruth\nEvents",
+              icb_narrative = "ICB Corpus",
+              ICB = "ICB",
+              MIDs = "MIDs",
+              phoenix = "Phoenix"
+             ) ) %>%
+      flextable::width( j = 1, width=0.6)  %>% 
+      #flextable::width( j = 2, width=0.025)  %>%
+      #flextable::width( j = 3, width=0.025)  %>%
+      #flextable::width( j = 5, width=0.025) %>%
+      flextable::width( j = 2, width=3.0)  %>%
+      flextable::width( j = 3, width=0.03) %>%
+      flextable::width( j = 4:k, width=0.15) %>% #icb
+      #merge_v( j = 1,  part = "body", combine = T) %>%
+      #merge_v( j = 3,  part = "body", combine = F) %>%
+      #merge_v( j = 4,  part = "body", combine = F) %>%
+  
+      flextable::rotate(i=1, rotation="tbrl", part="header") %>% 
+      align(i = 1,  align = "center", part = "header") %>%
+      valign(j = 1:2, valign = "center", part = "all") %>%
+      align(i = NULL, j = 1, align = "right", part = "body")  %>%
+      align(i = NULL, j = 2, align = "left", part = "body")  %>%
+      #align(i = NULL, j = 2, align = "center", part = "body")  %>%
+      #align(i = NULL, j = 3, align = "left", part = "body")  %>%
+      align(i = NULL, j = 3:k, align = "center", part = "body")  %>%
+      flextable::line_spacing( space = 1.0, part = "all") %>% #i=1:nrow(lit_review_alt),
+      flextable::padding(padding = 0, part = "body") %>%
+      flextable::fontsize(size = 7, part = "all") %>%
+      #bg( i = which( 1:nrow(temp) %% 2 == 1) , part = "body", bg = "#EFEFEF", j=1:k) %>%
+      bg( i = which( banding==1 ) , part = "body", bg = "#EFEFEF", j=1:k) %>%
+      #hline(i=c(26,46), j=3:k,  border = NULL, part = "body") %>%
+      vline(j=c(1,2,3,4,5,6,7),  border = NULL, part = "all") %>%
+      hline(i=c(26,46)) %>%
+      ftExtra::colformat_md(j = 2, part="body") 
+      #ftExtra::colformat_md(j = 6, part="body")
+
+ft   %>% 
+    #flextable::flextable_to_rmd()
+    save_as_image(path=here::here("replication_paper", "psrm_draft", "case_study_cuban_recall.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+
+#Ok rather than try to match up we're going to do this by hand now
+
+```
+
+```{r recall-crimea, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+library(dplyr)
+library(googlesheets4) #Do this high up so you get the prompt early
+library(lubridate, warn.conflicts = FALSE)
+case_study_crimea <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1YesAx1CkYCgrEi_WVJ9aho60HesWA6p-3XMma9IzBrI/edit?usp=sharing", 
+                                sheet="final") %>% janitor::clean_names() 
+dim(case_study_crimea)
+
+#Replace emoticons with images
+replace_emoticons_crimea <- function(x){
+      x %>%
+            #https://emojiterra.com/flag-for-united-states/
+            str_replace_all('\U0001f1fa\U0001f1f8', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
+            #https://emojiterra.com/flag-for-russia/
+            str_replace_all('\U0001f1f7\U0001f1fa', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q159.png) ")) %>% 
+            #Ukraine
+            str_replace_all('\U0001f1fA\U0001f1e6',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q212.png) ")) %>% 
+            #
+            str_replace_all('Crimea', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15966495.png) ")) %>% 
+            #
+            str_replace_all('🇪🇺', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q458.png) "))
+                            }
+
+rex_date <- function(x){
+  a <- x[1] %>% as.character() %>% unlist()
+  if(is.null(a)){return('')}
+  return(a)
+}
+case_study_crimea$date <- sapply(sapply(case_study_crimea$date, as.character), rex_date)
+temp2 <- case_study_crimea %>% 
+                filter(keep %in% 1) %>%
+                #filter(!is.na(date)) %>%
+                #head(2) %>%
+                mutate(date=date %>% anytime::anydate()) %>%
+                mutate(year=year(date) %>% as.character() ) %>%
+                mutate(month=month(date) %>% as.character()) %>%
+                mutate(day=day(date) %>% as.character()) %>%
+                mutate(n_sources = n_sources %>% as.numeric()) %>%
+                mutate(Rank=rank(-n_sources, ties.method="first")  ) %>%
+                dplyr::select(Y=year,M=month, D=day, Rank,  Event=event, Docs=n_sources, 
+                              icb_narrative=icb_narrative, ICBe=ic_be, MIDs=mids, phoenix, terrier, icews ) %>%  #, ICB=icb, MIDs=mids, phoenix=phoenix
+                mutate(Event= Event %>%  replace_emoticons_crimea) %>%
+                arrange(Y %>% as.numeric() ,M %>% as.numeric()  ,D %>% as.numeric() ) %>%
+                mutate(D=ifelse(!is.na(lag(D)) & D==lag(D) & M==lag(M),'',D )) %>%
+                mutate(M=ifelse(!is.na(lag(M)) & M==lag(M),'',M )) %>%
+                mutate(Y=ifelse(!is.na(lag(Y)) & Y==lag(Y),'',Y )) %>%
+                mutate(Y=ifelse(duplicated(Y), NA, Y)) %>%
+                mutate(YMD=paste(Y,
+                                 M %>% str_pad(2, pad = "0") ,
+                                 D %>% str_pad(2, pad = "0"), 
+                                 sep="-") %>% trimws() %>%
+                                 str_replace_all("^NA-","") %>%  #There's like a carriage return and tab in there somehow!
+                                 str_replace_all("^NA-","") %>% 
+                                 str_replace_all("^-00|^00","") %>% 
+                                 str_replace_all("^-00|^00","") %>% 
+                                 str_replace_all("^-","") 
+                       ) %>%
+                dplyr::select(-Y,-M,-D) %>%
+                relocate(YMD, .before = Rank) %>%
+                dplyr::select(-Rank) %>% 
+                mutate(icb_narrative = ifelse(!is.na(icb_narrative), "✓", NA)) %>%
+                mutate(icews = ifelse(!is.na(icews) & !icews %in% 0 , "✓", NA)) %>%
+                mutate(MIDs = ifelse(!is.na(MIDs) & !MIDs %in% 0  , "✓", NA)) %>%
+                mutate(phoenix = ifelse(!is.na(phoenix) & !phoenix %in% 0  , "✓", NA)) %>%
+                mutate(terrier = ifelse(!is.na(terrier) & !terrier %in% 0  , "✓", NA))  %>%
+                mutate(ICBe = ifelse(!is.na(ICBe) & !ICBe %in% 0  , "✓", NA)) 
+  
+dim(temp2)
+
+banding <- 1:nrow(temp2) %% 2
+k=ncol(temp2)
+ft <- temp2  %>%
+      flextable::as_flextable() %>% 
+      flextable::set_header_labels(values =
+        list(
+              Event = "Ground\nTruth\nEvents",
+              icb_narrative = "ICB Corpus",
+              ICBe = "ICBe",
+              MIDs="MIDs",
+              icews_hash = "ICEWS"
+             ) ) %>%
+      flextable::width( j = 1, width=0.6)  %>% 
+      flextable::width( j = 2, width=3.0)  %>%
+      flextable::width( j = 3:k, width=0.15) %>% #icb
+      flextable::rotate(i=1, rotation="tbrl", part="header") %>% 
+      align(i = 1,  align = "center", part = "header") %>%
+      valign(j = 1:2, valign = "center", part = "all") %>%
+      align(i = NULL, j = 1, align = "right", part = "body")  %>%
+      align(i = NULL, j = 2, align = "left", part = "body")  %>%
+      align(i = NULL, j = 3:k, align = "center", part = "body")  %>%
+      flextable::line_spacing( space = 1.0, part = "all") %>% #i=1:nrow(lit_review_alt),
+      flextable::padding(padding = 0, part = "body") %>%
+      flextable::fontsize(size = 7, part = "all") %>%
+      #bg( i = which( 1:nrow(temp) %% 2 == 1) , part = "body", bg = "#EFEFEF", j=1:k) %>%
+      bg( i = which( banding==1 ) , part = "body", bg = "#EFEFEF", j=1:k) %>%
+      #hline(i=c(26,46), j=3:k,  border = NULL, part = "body") %>%
+      vline(j=1:k,  border = NULL, part = "all") %>%
+      #hline(i=c(26,46)) %>%
+      ftExtra::colformat_md(j = 2, part="body") 
+      #ftExtra::colformat_md(j = 6, part="body")
+
+ft   %>% 
+    #flextable::flextable_to_rmd()
+    save_as_image(path=here::here("replication_paper", "psrm_draft", "case_study_crimea_recall.png"),
+                  zoom=1, webshot = "webshot2") # webshot = "webshot2"
+```
+
+```{r recall-combined, eval=F, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+
+# AG temp edit: revert by setting 'eval=T'
+
+temp3 <- temp1 %>% mutate(row=row_number()) %>% full_join(temp2 %>% mutate(row=row_number()), by='row') %>% 
+         mutate(row="") #we're going to use this as our vertical break
+
+n_left <- (!is.na(temp3$Event.x) ) %>% sum()
+n_right <- (!is.na(temp3$Event.y) ) %>% sum()
+
+k=ncol(temp3)
+kleft=ncol(temp1)
+kright=ncol(temp2)
+left_end=kleft
+right_start=left_end+2
+left=c(1:left_end)
+right=c(right_start:k)
+horizontal = c(left,right)
+dates=c(1,right_start)
+events = dates + 1
+checkmarks = c((events[1]+1):left_end , (events[2]+1):k)
+  
+library(officer)
+big_border = fp_border(color="black", width = 2)
+
+banding1 <- 1:nrow(temp1) %% 2
+banding2 <- 1:nrow(temp2) %% 2
+ft <- temp3  %>%
+      flextable::as_flextable() %>% 
+  
+      flextable::line_spacing( space = 1.0, part = "all") %>% # 
+      flextable::padding(padding = 0, part = "body") %>%
+      flextable::fontsize(size = 7, part = "all") %>%
+      bg( i = which( banding1==1 ) , part = "body", bg = "#EFEFEF", j=left) %>%
+      bg( i = which( banding2==1 ) , part = "body", bg = "#EFEFEF", j=right) %>%
+  
+      #Headers
+      flextable::set_header_labels(values =
+        list(
+              YMD.x = "YMD",
+              Event.x = "Synthetic Narrative",
+              Docs.x = "Mentions",
+              icb_narrative.x = "ICB Corpus",
+              ICBe.x = "ICBe",
+              ICB = "ICB",
+              MIDs.x = "MIDs",
+              phoenix.x = "Phoenix",
+              phoenix.y = "Phoenix",
+              row="",
+              YMD.y = "YMD",
+              Event.y = "Synthetic Narrative",
+              Docs.y = "Mentions",
+              icb_narrative.y = "ICB Corpus",
+              ICBe.y = "ICBe",
+              icews = "ICEWS",
+              MIDs.y = "MIDs",
+              terrier="Terrier"
+             ) ) %>%
+  
+      add_header_row(values = c("Cuban Missile Crisis (1962)", "", "Crimea-Donbas (2014)"), colwidths = c(kleft, 1,kright) ) %>%
+  
+      #Global
+      flextable::border_remove() %>% 
+      #Left border
+      border(j=1, i=1:n_left , part="body", border.left =  big_border ) %>% #
+      border(j=1, i=1:2 , part="header", border.left =  big_border ) %>% #
+
+      border(j=left_end, i=1:2 , part="header", border.right =  big_border ) %>% #
+      border(j=left_end, i=1:n_left , part="body", border.right =  big_border ) %>% #
+  
+      border(j=1:left_end, i=n_left , part="body", border.bottom =  big_border ) %>% #
+      border(j=1:left_end, i=1 , part="body", border.top =  big_border ) %>% #
+      border(j=1:left_end, i=1:2 , part="header", border.top =  big_border ) %>% #
+  
+      #Right border
+      border(j=right_start, i=1:n_right , part="body", border.left =  big_border ) %>% #
+      border(j=k, i=1:n_right , part="body", border.right =  big_border ) %>% #
+  
+      border(j=right_start, i=1:2 , part="header", border.left =  big_border ) %>% #
+      border(j=k, i=1:2 , part="header", border.right =  big_border ) %>% #
+      border(j=1:k, i=1 , part="header", border.right =  big_border ) %>% #
+  
+      border(j=right_start:k, i=n_right , part="body", border.bottom =  big_border ) %>% #
+      border(j=right_start:k, i=1 , part="body", border.top =  big_border ) %>% #
+      border(j=right_start:k, i=1:2 , part="header", border.top =  big_border ) %>% #
+
+      vline(i=1:n_left, j=1:(left_end-1),  border = NULL, part = "body")  %>%
+      vline(i=1:n_right,j=right_start:(k-1),  border = NULL, part = "body")  %>%
+      vline(i=2, j=1:(left_end-1),  border = NULL, part = "header")  %>%
+      vline(i=2,j=right_start:(k-1),  border = NULL, part = "header")  %>%
+  
+      #
+      hline(i=c(26,46), j=left,  border = NULL, part = "body")  %>%
+      hline(i=c(11), j=right,  border = NULL, part = "body")  %>%
+
+
+      #Header
+      flextable::rotate(i=2, j=3:left_end, rotation="tbrl", part="header") %>% 
+      flextable::rotate(i=2, j=(left_end+4):k, rotation="tbrl", part="header") %>% 
+  
+      valign(j = 1:2, valign = "center", part = "all") %>%
+      align(i = 2, j = NULL, align = "center", part = "header")  %>%
+
+      #break
+      flextable::width( j = left_end+1, width=0.25)  %>% 
+  
+      #Dates
+      flextable::width( j = dates, width=0.6)  %>% 
+      align(i = NULL, j = dates, align = "right", part = "body")   %>%
+
+      #events
+      flextable::width( j = events, width=2.50)  %>%
+      align(i = NULL, j = events, align = "left", part = "body")  %>%
+      ftExtra::colformat_md(j = events, part="body") %>%
+        
+      #Checkmarks
+      flextable::width( j = checkmarks, width=0.05) %>%
+      align(i = NULL, j = checkmarks, align = "center", part = "body")  
+
+
+ft   %>% 
+    #flextable::flextable_to_rmd()
+    save_as_image(path=here::here("replication_paper", "psrm_draft", "recall_cuban_and_crimea.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+```
+
+```{r recall-all, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+#Recall Summary Statistics
+#, icb_narrative_cd=icb_narrative.y, icews_cd=icews_hash
+temp1_long <- temp1 %>% dplyr::select(docs=Docs, ICB_Narrative=icb_narrative, ICBe=ICBe, ICB=ICB,MIDs=MIDs,Phoenix=phoenix) %>% mutate(crisis="Cuban Missile Crisis") %>% pivot_longer(cols=-c(crisis, docs)) %>% 
+              mutate(value=ifelse(!is.na(value) & !value %in% 0,1,0)) 
+
+temp2_long <- temp2 %>% dplyr::select(docs=Docs,ICB_Narrative=icb_narrative,ICBe=ICBe,MIDs=MIDs , Phoenix=phoenix, Terrier=terrier, ICEWS= icews) %>% mutate(crisis="Crimea-Donbas Crisis") %>% pivot_longer(cols=-c(crisis, docs)) %>% 
+              mutate(value=ifelse(!is.na(value) & !value %in% 0,1,0)) 
+
+temp3_long <- bind_rows(temp1_long,temp2_long)
+
+Y_hat <- temp3_long %>% dplyr::select(name) %>% distinct()
+mylogit <- glm(value ~ name, data = temp3_long, family = "binomial")
+Y_hat$fit <- predict(mylogit, temp3_long %>% dplyr::select(name) %>% distinct() , type='response', se.fit=TRUE)$fit
+Y_hat$se <- predict(mylogit, temp3_long %>% dplyr::select(name) %>% distinct() , type='response', se.fit=TRUE)$se.fit
+Y_hat$name <- Y_hat$name %>% fct_reorder(Y_hat$fit)
+
+#Y_hat %>% ggplot(aes(name, fit)) +
+#          geom_point(size=4) +
+#          geom_errorbar(aes(ymin = fit-(1.98*se), ymax = fit+(1.98*se)), width = 0.1, linetype="solid") + coord_flip()  + theme_bw() + 
+#          ylab("Mean Recall") + xlab("")
+
+#temp3_long_means <- temp3_long %>% 
+#                    group_by(name) %>%
+#                    summarise(value= value %>%mean() %>% round(2))
+
+#temp3_long %>% ggplot(aes(x=log(docs), y=value, color=name)) + geom_point() +
+#  geom_smooth(method = "glm", method.args = list(family = "binomial"), se=F) + 
+#  ylab("Recall") + xlab("Document Mentions (Log)") +
+#  facet_wrap(~crisis, scales="free_x")
+
+library(geomtextpath)
+temp3_long$crisis <- factor(temp3_long$crisis, levels= temp3_long$crisis %>% as.character() %>% unique() %>% sort() %>% rev() )
+p_recall <- temp3_long %>% ggplot(aes(x=log(docs), y=value, color=name)) + 
+  #geom_point() +
+  geom_textsmooth(aes(label = name), size=3, method = "glm", method.args = list(family = "binomial"), se=F) + 
+  ylab("Recall") + xlab("Document Mentions (Log)") +
+  facet_wrap(~crisis, scales="free_x") +
+  theme_bw() +
+  theme(legend.position="none")
+
+#p_recall
+
+ggsave(file=paste0(here::here(), '/replication_paper/psrm_draft/p_recall.png'),
+       plot = p_recall ,
+       width=5, height=3.0)
+
+library(magick)
+
+tiger <- image_read(here::here("replication_paper", "psrm_draft", "recall_cuban_and_crimea.png"))
+tiger2 <- image_read(paste0(here::here(), '/replication_paper/psrm_draft/p_recall.png'))
+
+combined <- image_composite(tiger, image_scale(tiger2, "x290"), offset = "+475+650")
+image_write(combined, here::here("replication_paper", "psrm_draft", "recall_cuban_and_crimea_andcounts.png"))
+```
+
+## Cuban Missile Crisis (1962)
+
+A synthetic historical narrative for Cuban Missiles appears in @fig-recall-cuba, with 51 events drawn from 2,020 documents. Each row represents a detail that appeared in at least five documents along with an approximate start date, a handwritten summary, the number of documents it was mentioned in, and whether it could be identified in the text of our ICB corpus, in our ICBe events, or any of the competing systems.
+
+Our ground truth ICB narrative contains 17/51 of the events from the synthetic narrative. Regarding the crisis start and end dates, the U.S. was in a *de facto* grey-scale war with Cuba before it invited Soviet military protection [@cormacGreyNewBlack2018] but the crisis narrative has a clean canonical end with the Soviets agreeing to withdraw missiles. The canonical narrative of this case includes high-level previously classified details.
+
+![Synthetic narratives combine several thousand accounts of each crisis into a single timeline of events, taking only those mentioned in at least 5 or more documents. Checkmarks represent whether that event could be hand matched to any detail in the ICB corpus, ICBe dataset, or any of the other event datasets (SI Appendix 3.2 and 3.3).](case_study_cuban_recall.png){#fig-recall-cuba}
+
+@fig-cuba-crisismap shows the crisis map for the Cuban Missile Crisis. Looking at the crisis on a timeline, one can now identify the structure of actors and the environment, along with its supporting details, in a way that validates the precision of ICBe.
+
+![Crisis map for the Cuban Missile Crisis. The start of the crisis is at the top and end of the crisis is the bottom, with each actor in a column with labeled points identifying their speeches, actions, and thoughts.](p_196_icbe.png){#fig-cuba-crisismap}
+
+## Crimea-Donbas (2014)
+
+A synthetic historical narrative for the 2014 Crimea-Donbas crisis (30 events drawn from 971 documents) appears in @fig-recall-crimea. As in the earlier case, rows represent details that appeared in at least five documents and whether it is identified in ICBe and existing datasets.
+
+In this case, our ground truth ICB narrative contains 23/30 of the events from the synthetic narrative. Like the grey-scale precursor to the Cuban Missile crisis, Ukraine provided several security guarantees to Russia that were potentially undone, e.g. a long term lease on naval facilities in Crimea. But unlike the Cuban Missile crisis, the end of this crisis is unclear, with the event meekly ending with a second cease-fire agreement (Minsk II) but continued fighting. Rather than featuring previously classified details, this more recent case reflects primarily public reporting.
+
+![Synthetic narratives combine several thousand accounts of each crisis into a single timeline of events, taking only those mentioned in at least 5 or more documents. Checkmarks represent whether that event could be hand matched to any detail in the ICB corpus, ICBe dataset, or any of the other event datasets (SI Appendix 3.2 and 3.3).](case_study_crimea_recall.png){#fig-recall-crimea}
+
+We take the same approach here in @fig-precision-icews, selecting four specific CAMEO event codings and checking how often they reflect a true real-world event from the Crimea-Donbas synthetic narrative. We choose four event types around key moments in the crisis. The start of the crisis revolves around Ukraine backing out of a trade deal with the EU in favor of Russia, but "sign formal agreement" events act more like a topic detector with dozens of events generated by discussions of a possible agreement but not the actual agreement which never materialized. The switch is caught by the "reject plan, agreement to settle dispute", but also continues for Viktor Yanukovych even after he was removed from power because of articles retroactively discussing the cause of his removal. Events for "use conventional military force" capture a threshold around the start of hostilities and who the participants were but not any particular battles or campaigns. Likewise, "impose embargo, boycott, or sanctions" captures the start of waves of sanctions and from who but are effectively constant as the news coverage does not distinguish between subtle changes or additions. In sum, dictionary-based methods on news corpora tend to have high recall because they parse everything in the news, but for the same reason, their specificity for most event types is too low to back out individual chess-like sequencing that ICBe aims to record.
+
+```{r precision, eval=F, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+
+# AG temp edit: revert by setting 'eval=T'
+
+#if(fromscratch){
+
+library(ggplot2)
+library(readr)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(ggtext)
+
+icews_clean_subset_top10_day <- read_tsv(here::here("replication_paper", "data", "out", "icews_clean_471_lowest.tsv")) 
+
+icews_clean_subset_top10_day <- icews_clean_subset_top10_day %>% 
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all("/mnt/8tb_a/rwd_github_private/ICBEdataset", here::here())) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(" ", "")) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all("VladimirPutin", "Putin")) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("png))"), stringr::fixed("png)"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("(!"), stringr::fixed("!"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("ViktorYanukovych->![](/"), stringr::fixed("Yanukovych->.![](/"))) %>% 
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Putin->![](/"), stringr::fixed("Putin->![](/"))) %>%  
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Military![]"), stringr::fixed("Military-![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Police![]"), stringr::fixed("Police.![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Citizen![]"), stringr::fixed("Citizen..![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("ArmedRebel![]"), stringr::fixed("ArmedRebel-![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Bank![]"), stringr::fixed("Bank.![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Business![]"), stringr::fixed("Business.![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Insurgent![]"), stringr::fixed("Insurgent-![]"))) %>%
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("Separatist![]"), stringr::fixed("Separatist-![]"))) %>%  
+  dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("BarackObama->![](/"), stringr::fixed("Obama->.![](/"))) 
+
+#Separatist(![](/home/tlscherer/Desktop/ICBEdataset/replication_data/in/flags_small//Q212.png))->Military(![](/home/tlscherer/Desktop/ICBEdataset/replication_data/in/flags_small//Q212.png))
+  
+  #dplyr::mutate(dyad_markdown = dyad_markdown %>% stringr::str_replace_all(stringr::fixed("(!"), stringr::fixed("--!"))) %>%
+
+#/replication_data/in/flags_small//Q159.png
+
+keys <- c("sign formal agreement") #"express accord", #,"declare truce, ceasefire"
+events1 <- icews_clean_subset_top10_day %>% 
+           filter(cameo_label %in% keys) %>% 
+           group_by(cameo_label, dyad_markdown) %>% mutate(n_all=sum(n, na.rm=T)) %>% ungroup() %>%
+           mutate(dyad_markdown = tidytext::reorder_within(dyad_markdown, n_all, within = cameo_label)) 
+p1 <- events1 %>%
+      ggplot( aes(x = date, y = dyad_markdown)) + #
+      geom_tile(fill="lightblue") + theme_bw() +
+      geomtextpath::geom_textvline(xintercept = as.Date('2013-11-21'), label="Reject EU\nTrade Deal" , linetype="dotted", color = "red", size=3) +
+      geomtextpath::geom_textvline(xintercept = as.Date('2014-03-18'), label="Annex Crimea" , linetype="dotted", color = "red", size=3) +
+      geomtextpath::geom_textvline(xintercept = as.Date('2014-09-06'), label="MINSK I" , linetype="dotted", color = "red", size=3) +
+      geomtextpath::geom_textvline(xintercept = as.Date('2015-02-21'), label="MINSK II" , linetype="dotted", color = "red", size=3) +
+      ylab("") + xlab("") +
+      labs(subtitle=keys %>% paste(collapse="; ")) +
+      tidytext::scale_y_reordered() 
+
+keys <- c("reject plan, agreement to settle dispute") #"express accord", #,"declare truce, ceasefire"
+events2 <- icews_clean_subset_top10_day %>% 
+           filter(cameo_label %in% keys) %>% 
+           group_by(cameo_label, dyad_markdown) %>% mutate(n_all=sum(n, na.rm=T)) %>% ungroup() %>%
+           mutate(dyad_markdown = tidytext::reorder_within(dyad_markdown, n_all, within = cameo_label)) 
+p2 <- events2 %>%
+      ggplot( aes(x = date, y = dyad_markdown)) + #
+      geom_tile(fill="lightblue") + theme_bw() +
+      geomtextpath::geom_textvline(xintercept = as.Date('2013-11-21'), label="Reject EU\nTrade Deal" , linetype="dotted", color = "red", size=3) +
+      ylab("") + xlab("") +
+      labs(subtitle=keys %>% paste(collapse="; ")) +
+      tidytext::scale_y_reordered() 
+
+#,"fight with artillery and tanks","Use unconventional violence", "fight with small arms and light weapons","Mobilize or increase armed forces","Demonstrate military or police power", "Violate ceasefire", "Occupy territory"
+keys <- c("use conventional military force")
+events3 <- icews_clean_subset_top10_day %>% 
+           filter(cameo_label %in% keys) %>% 
+           group_by(cameo_label, dyad_markdown) %>% mutate(n_all=sum(n, na.rm=T)) %>% ungroup() %>%
+           mutate(dyad_markdown = tidytext::reorder_within(dyad_markdown, n_all, within = cameo_label)) 
+p3 <- events3 %>%
+      ggplot( aes(x = date, y = dyad_markdown)) + #
+      geom_tile(fill="lightblue") + theme_bw() +
+      geomtextpath::geom_textvline(xintercept = as.Date('2014-02-27'), label="Seize Gov Building Crimea" , linetype="dotted", color = "red", size=3) +
+      geomtextpath::geom_textvline(xintercept = as.Date('2014-02-18'), label="Rus Annex Crimea" , linetype="dotted", color = "red", size=3) +
+      geomtextpath::geom_textvline(xintercept = as.Date('2014-03-16'), label="Fighting Donbas" , linetype="dotted", color = "red", size=3) +
+      geomtextpath::geom_textvline(xintercept = as.Date('2014-04-06'), label="Fighting Donbas" , linetype="dotted", color = "red", size=3) +
+      geomtextpath::geom_textvline(xintercept = as.Date('2014-09-06'), label="Continued Fighting Donbas" , linetype="dotted", color = "red", size=3) +
+      ylab("") + xlab("") +
+      labs(subtitle=keys %>% paste(collapse="; ")) +
+      tidytext::scale_y_reordered() 
+
+#,"Refuse to ease economic sanctions, boycott, or embargo", "Reduce or stop economic assistance","Reduce or stop material aid","Impose blockade, restrict movement", "Reduce or stop military assistance"
+keys <- c("impose embargo, boycott, or sanctions")
+events4 <- icews_clean_subset_top10_day %>% 
+           filter(cameo_label %in% keys) %>% 
+           group_by(cameo_label, dyad_markdown) %>% mutate(n_all=sum(n, na.rm=T)) %>% ungroup() %>%
+           mutate(dyad_markdown = tidytext::reorder_within(dyad_markdown, n_all, within = cameo_label)) 
+p4 <- events4 %>%
+      ggplot( aes(x = date, y = dyad_markdown)) + #
+      geom_tile(fill="lightblue") + theme_bw() +
+      geomtextpath::geom_textvline(xintercept = as.Date('2014-03-17'), label="US-EU Sanction Rus" , linetype="dotted", color = "red", size=3) +
+      geomtextpath::geom_textvline(xintercept = as.Date('2014-07-17'), label="EU Sanctions Rus\nRus Sanctions Ukr" , linetype="dotted", color = "red", size=3) +
+      ylab("") + xlab("") +
+      labs(subtitle=keys %>% paste(collapse="; ")) +
+      tidytext::scale_y_reordered() 
+
+library(cowplot)
+p_ICEWS <- plot_grid(
+           p1 + xlim(as.Date('2013-07-01'), as.Date('2015-07-01')) +
+             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)) +
+             # theme(axis.ticks=element_blank()),
+            theme(axis.title=element_blank(),
+                axis.ticks.length = unit(.2, "cm"),
+                axis.ticks=element_blank()),
+           p2 + xlim(as.Date('2013-07-01'), as.Date('2015-07-01')) + 
+             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)) +
+             theme(axis.ticks=element_blank()),
+           p3 + xlim(as.Date('2013-07-01'), as.Date('2015-07-01')) + 
+             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)) +
+             theme(axis.ticks=element_blank()),
+           p4 + xlim(as.Date('2013-07-01'), as.Date('2015-07-01')) + 
+             theme(legend.position="none")  + theme(plot.margin = unit(c(0,0,0,0), "cm")) + theme( axis.text.y = element_markdown(size = 12, lineheight = 0.1)) +
+             theme(axis.ticks=element_blank()),
+           #labels = c('Cuban Missiles','Crimea-Donbas'), 
+           align = "v", ncol = 1 , rel_widths = c(1) )
+
+save_plot(file=paste0(here::here(),
+                      '/replication_paper/psrm_draft/p_precision_icews.png'),
+          p_ICEWS, base_height = 10, base_width = 14)
+
+#}
+```
+
+![The unit of analysis is the dyad-day. Top 10 most active dyads per category shown. Red text shows events from the synthetic narrative relative to that event category. Blue bars indicate an event recorded by ICEWs for that dyad on that day.](p_precision_icews.png){#fig-precision-icews}
+
+# Conclusion
+
+We investigated event abstraction from narratives describing key historical episodes in international relations. We synthesized a prior belief about the latent unobserved phenomena that drive these events in international relations and proposed a mapping to observable concepts that enter into the observed historical record. We designed an ontology with high coverage over those concepts and developed a training procedure and technical stack for human coding of historical texts. Multiple validity checks find the resulting codings have high internal validity (e.g. intercoder agreement) and external validity (i.e. matching source material in both micro-details at the sentence level and macro-details spanning full historical episodes). Further, these codings perform much better in terms of recall, precision, coverage, and overall coherence in capturing these historical episodes than existing event systems used in international relations.
+
+We release several open-source products along with supporting code and documentation to further advance the study of IR, event extraction, and natural language processing. The first is the International Crisis Behavior Events (ICBe) dataset, an event-level aggregation of what took place during the crises identified by the ICB project. These data are appropriate for statistical analysis of hard questions about the sequencing of events (e.g. escalation and de-escalation of conflicts).[^11] Second, we provide a coder-level disaggregation with multiple codings of each sentence by experts and undergrads that allows for the introduction of uncertainty and human interpretation of events. Further, we release a direct mapping from the codings to the source text at the sentence level as a new resource for natural language processing. Finally, we provide a companion website that incorporates detailed visualizations of all of the data introduced here at crisisevents.org.
+
+# Funding
+
+This work was supported by a grant from the Office of Naval Research \[N00014-19-1-2491\] and from the Charles Koch Foundation \[20180481\]. The financial sponsors played no in the design, execution, analysis and interpretation of data, or writing of the study.
+
+# Acknowledgements
+
+We thank the ICB Project and its directors and contributors for their foundational work and their help with this effort. We make special acknowledgement of Michael Brecher for helping found the ICB project in 1975, creating a resource that continues to spark new insights to this day. We thank the many undergraduate coders. Thanks to the Center for Peace and Security Studies and its membership for comments. Special thanks to Rebecca Cordell, Philip Schrodt, Zachary Steinert-Threlkeld, and Zhanna Terechshenko for their generous feedback. Thank you to the cPASS research assistants: Helen Chung, Daman Heer, Syeda ShahBano Ijaz, Anthony Limon, Erin Ling, Ari Michelson, Prithviraj Pahwa, Gianna Pedro, Tobias Stodiek, Yiyi 'Effie' Sun, Erin Werner, Lisa Yen, and Ruixuan Zhang.
+
+# Author Contributions
+
+Conceptualization: R.W.D., E.G., J.L.; Methodology: R.W.D., T.L.S.; Software: R.W.D.; Validation: R.W.D., T.L.S.; Formal Analysis: R.W.D., T.L.S.; Investigation: S.C., R.W.D., J.A.G., C.K., N.L., E.M., J.M.C.N., D.P., D.Q., J.W.; Data Curation: R.W.D., D.Q., T.L.S., J.W.; Writing - Original Draft: R.W.D., T.L.S.; Writing - Review & Editing: R.W.D., J.A.G., E.G., T.L.S.; Visualization: R.W.D., T.L.S.; Supervision: E.G.; Project Administration: S.C., R.W.D., J.A.G., D.Q., T.L.S., J.W.; Funding Acquisition: E.G., J.L.
+
+# Data Availability Statement
+
+This article's data, supplementary appendix, replication material, and visualizations of every historical episode are available on the GitHub repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$) and through the companion website crisisevents.org.
+
+# Competing Interests Declaration
+
+The authors declare that there are no competing interests.
+
+\clearpage
+
+# Works Cited
+
+[^1]: See work on crises [@brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020], militarized disputes [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018], wars [@sarkeesResortWar181620072010; @reiterRevisedLookInterstate2016], organized violence [@ralphsundbergUCDPGEDCodebook2016; @daviesOrganizedViolence19892022], political violence [@raleighIntroducingACLEDArmed2010], sanctions [@felbermayrGlobalSanctionsData2020], and international agreements [@kinneDefenseCooperationAgreement2020; @owsiakInternationalBorderAgreements2018], dispute resolution [@frederickIssueCorrelatesWar2017], and diplomacy [@moyerWhatAreDrivers2020; @sechserMilitarizedCompellentThreats2011].
+
+[^2]: See @beielerGeneratingPoliticalEvent2016; @boscheeICEWSCodedEvent2015; @brandtPhoenixRealTimeEvent2018; @grantOUEventData2017; @liComprehensiveSurveySchemabased2021. On event extraction from images and social media see @zhangCASMDeepLearningApproach2019 and @steinert-threlkeldFutureEventData2019.
+
+[^3]: Other related datasets that insufficiently overlap ICBe's domain for comparison include BCOW [@lengMilitarizedInterstateCrises1988], WEIS [@mcclellandWorldEventInteraction1978], CREON [@hermannComparativeResearchEvents1984], CASCON [@bloomfieldCASCONIIIComputeraided1989], SHERFACS [@shermanSHERFACSCrossParadigmHierarchical2000], Real-Time Phoenix [@brandtPhoenixRealTimeEvent2018], and COfEE [@balaliCOfEEComprehensiveOntology2021] (see histories in @merrittMeasuringEventsInternational1994 and @schrodtTwentyYearsKansas2006).
+
+[^4]: See @balaliCOfEEComprehensiveOntology2021 for a recent review of ontological depth and availability of Gold Standard example text.
+
+[^5]: This process quickly focuses the coder on a smaller number of relevant options while also allowing them to apply multiple tags if the sentence explicitly includes more than one or there is insufficient evidence to choose only one tag. The guided coding process also allows for the possibility that earlier coarse decisions have less error than later fine-grained decisions.
+
+[^6]: See the full codebook on Github Repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).
+
+[^7]: Expert coders were graduate students or postgraduates who collaboratively developed the ontology and documentation for the codebook. Undergraduate coders were students who engaged in classroom workshops.
+
+[^8]: As the ICB narratives are intended to explain conflictual behavior in a political context, many of the missing events concern more economic components of conflict (eg. nationalizing a foreign business). Even when they occur in the context of a crisis, these events largely fall outside the sample of information on which ICBe's ontology is currently trained. Even with this limitation, ICBe is more comprehensive than the existing datasets that do try to code the economic dimensions of these crises. We see expanding the ontology to broader international phenomenon as a promising future implementation of our model.
+
+[^9]: We preprocess sentences to replace named entities with a generic Entity token.
+
+[^10]: Hierarchical clustering on cosine similarity and with Ward's method.
+
+[^11]: Using ICBe data @gannonOneIfLand2022 finds that cross-domain crises are shorter and less violent than same-domain crises.
