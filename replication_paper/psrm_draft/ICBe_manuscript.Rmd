@@ -1058,7 +1058,7 @@ if(fromscratch){
 }
 ```
 
-```{r umap, results='hide', echo=F, include=T, message=F, cache=F, warning=F, eval=T}
+```{r umap, results='hide', echo=F, include=T, message=F, cache=F, warning=F, eval=F}
 #The [umapr](https://github.com/ropensci-archive/umapr) package requires python and [umap](https://github.com/lmcinnes/umap#installing). Please check their repos for installation details. 
 
 # AG temp edit: revert by deleting 'eval=F' above DONE
