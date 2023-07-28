@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.13)  13 JUL 2023 12:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.13)  28 JUL 2023 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -904,364 +904,174 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
 (Font)              using `T1/lmr/bx/n' instead on input line 184.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-\T1/lmr/m/n/9 (+20) mil-i-ta-rized dis-putes (\T1/lmr/bx/n/9 (+20) palmerMID5Da
-taset20112021?\T1/lmr/m/n/9 (+20) ; \T1/lmr/bx/n/9 (+20) gib-ler-In-ter-na-tion
--al-Con-flicts181620102018?\T1/lmr/m/n/9 (+20) ),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-\T1/lmr/m/n/9 (+20) wars (\T1/lmr/bx/n/9 (+20) sarkeesResortWar181620072010?\T1
-/lmr/m/n/9 (+20) ; \T1/lmr/bx/n/9 (+20) re-it-er-Re-vis-ed-Look-In-ter-state201
-6?\T1/lmr/m/n/9 (+20) ), or-ga-nized vi-o-lence
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-\T1/lmr/m/n/9 (+20) (\T1/lmr/bx/n/9 (+20) ralphsundbergUCDPGEDCodebook2016?\T1/
-lmr/m/n/9 (+20) ; \T1/lmr/bx/n/9 (+20) daviesOr-ga-nized-Vi-o-lence19892022?\T1
-/lmr/m/n/9 (+20) ), po-lit-i-cal vi-o-
- []
-
-
-Underfull \hbox (badness 7168) in paragraph at lines 232--232
-\T1/lmr/m/n/9 (+20) lence (\T1/lmr/bx/n/9 (+20) raleighIntroducingACLEDArmed201
-0?\T1/lmr/m/n/9 (+20) ), sanc-tions (\T1/lmr/bx/n/9 (+20) felbermayrGlobalSanct
-ionsData2020?\T1/lmr/m/n/9 (+20) ),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-\T1/lmr/m/n/9 (+20) and in-ter-na-tional agree-ments (\T1/lmr/bx/n/9 (+20) kinn
-eDefenseCooperationAgreement2020?\T1/lmr/m/n/9 (+20) ; \T1/lmr/bx/n/9 (+20) ows
-i-ak-In-ter-na-tion-al-
- []
-
-
-Underfull \hbox (badness 5939) in paragraph at lines 232--232
-\T1/lmr/bx/n/9 (+20) Bor-der-A-gree-ments2018?\T1/lmr/m/n/9 (+20) ), dis-pute r
-es-o-lu-tion (\T1/lmr/bx/n/9 (+20) frederickIssueCorrelatesWar2017?\T1/lmr/m/n/
-9 (+20) ), and diplo-macy
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
-[][]\T1/lmr/m/n/9 (+20) See (\T1/lmr/bx/n/9 (+20) beielerGeneratingPoliticalEve
-nt2016?\T1/lmr/m/n/9 (+20) ); (\T1/lmr/bx/n/9 (+20) boscheeICEWSCodedEvent2015?
-\T1/lmr/m/n/9 (+20) );
- []
-
-
-Overfull \hbox (32.84477pt too wide) in paragraph at lines 243--243
-\T1/lmr/m/n/9 (-20) (\T1/lmr/bx/n/9 (-20) brandtPhoenixRealTimeEvent2018?\T1/lm
-r/m/n/9 (-20) ); (\T1/lmr/bx/n/9 (-20) grantOUEventData2017?\T1/lmr/m/n/9 (-20)
- ); (\T1/lmr/bx/n/9 (-20) liComprehensiveSurveySchemabased2021?\T1/lmr/m/n/9 (-
-20) ).
- []
-
 [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \vbox (badness 3302) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [2]
 <case_study_cuban_precision.png, id=104, 999.735pt x 1106.1325pt>
 File: case_study_cuban_precision.png Graphic file (type png)
 <use case_study_cuban_precision.png>
-Package pdftex.def Info: case_study_cuban_precision.png  used on input line 342
+Package pdftex.def Info: case_study_cuban_precision.png  used on input line 321
 .
 (pdftex.def)             Requested size: 999.73256pt x 1106.1298pt.
 
-Overfull \hbox (529.97757pt too wide) in paragraph at lines 342--342
+Overfull \hbox (529.97757pt too wide) in paragraph at lines 321--321
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 473.6498pt on input line 343.
+LaTeX Warning: Float too large for page by 473.6498pt on input line 322.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1946) has occurred while \output is active []
 
-[3] [4 <./case_study_cuban_precision.png>]
-Underfull \hbox (badness 4229) in paragraph at lines 383--383
-[][]\T1/lmr/m/n/9 (+20) Other re-lated datasets that in-suf-fi-ciently over-lap
- ICBe's do-main for com-par-i-son in-clude BCOW
- []
-
-
-Underfull \hbox (badness 7030) in paragraph at lines 383--383
-\T1/lmr/m/n/9 (+20) (\T1/lmr/bx/n/9 (+20) lengMilitarizedInterstateCrises1988?\
-T1/lmr/m/n/9 (+20) ), WEIS (\T1/lmr/bx/n/9 (+20) mcclellandWorldEventInteractio
-n1978?\T1/lmr/m/n/9 (+20) ), CREON
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 383--383
-\T1/lmr/m/n/9 (+20) SHER-FACS (\T1/lmr/bx/n/9 (+20) shermanSHERFACSCrossParadig
-mHierarchical2000?\T1/lmr/m/n/9 (+20) ), Real-Time Phoenix
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 383--383
-\T1/lmr/m/n/9 (+20) (\T1/lmr/bx/n/9 (+20) brandtPhoenixRealTimeEvent2018?\T1/lm
-r/m/n/9 (+20) ), and COfEE (\T1/lmr/bx/n/9 (+20) balaliCOfEEComprehensiveOntolo
-gy2021?\T1/lmr/m/n/9 (+20) )
- []
-
-[5]
-Overfull \hbox (3.36285pt too wide) in paragraph at lines 460--460
+[3] [4 <./case_study_cuban_precision.png>] [5]
+Overfull \hbox (3.36285pt too wide) in paragraph at lines 428--428
  []|[]\T1/lmr/m/n/6 (-20) 28.4M[]| 
  []
 
 
-Overfull \hbox (3.36285pt too wide) in paragraph at lines 460--460
+Overfull \hbox (3.36285pt too wide) in paragraph at lines 428--428
  []|[]\T1/lmr/m/n/6 (-20) 17.5M[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 476--476
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 444--444
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 476--476
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 444--444
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 476--476
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 444--444
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 476--476
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 444--444
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
- []
-
-
-Overfull \hbox (53.55592pt too wide) in paragraph at lines 508--508
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) haffarEmergentPeacemakersCa
-taloguing2002?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (13.57481pt too wide) in paragraph at lines 516--516
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) bushDensityDeclineFounding2
-019?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (16.13213pt too wide) in paragraph at lines 532--532
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) lacinaExplainingSeverityCiv
-il2006?[][]\T1/lmr/m/n/6 (-20) )[][],[][] 
- []
-
-
-Overfull \hbox (29.7258pt too wide) in paragraph at lines 540--540
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) carafanoMeasuringMilitaryPo
-wer2014?[][]\T1/lmr/m/n/6 (-20) )[][],[][] 
- []
-
-
-Overfull \hbox (54.2569pt too wide) in paragraph at lines 548--548
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) gartzkeCrossDomainDeterrenc
-eStrategy2019?[][]\T1/lmr/m/n/6 (-20) )[][],[][] 
- []
-
-
-Overfull \hbox (26.93292pt too wide) in paragraph at lines 556--556
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) carterStrategyTerritorialCo
-nflict2010?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (61.98685pt too wide) in paragraph at lines 572--572
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) goldgeierPsychologyInternat
-ionalRelations2001?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (15.30351pt too wide) in paragraph at lines 580--580
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) steinEvaluatingWarOutcomes1
-980?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (36.14546pt too wide) in paragraph at lines 596--596
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) ramsayInformationUncertaint
-yWar2017?[][]\T1/lmr/m/n/6 (-20) )[][],[][] 
- []
-
-
-Overfull \hbox (57.93657pt too wide) in paragraph at lines 604--604
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) oneillInternationalNegotiat
-ionConceptual2018?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (64.24486pt too wide) in paragraph at lines 612--612
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) zartmanEscalationNegotiatio
-nInternational2005?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (43.26361pt too wide) in paragraph at lines 620--620
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) sechserMilitarizedCompellen
-tThreats2011?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (43.64275pt too wide) in paragraph at lines 628--628
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) powellBargainingTheoryInter
-national2002?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (41.9888pt too wide) in paragraph at lines 636--636
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) goemansIntroducingArchigosD
-ataset2009?[][]\T1/lmr/m/n/6 (-20) )[][],[][] 
- []
-
-
-Overfull \hbox (51.4206pt too wide) in paragraph at lines 644--644
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) chenowethIntroducingNonviol
-entAction2019?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (18.05066pt too wide) in paragraph at lines 652--652
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) eckOneSidedViolenceCivilian
-s2007?[][]\T1/lmr/m/n/6 (-20) )[][],[][] 
- []
-
-
-Overfull \hbox (12.24838pt too wide) in paragraph at lines 660--660
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) beardsleyMediationDilemma20
-11?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (37.71643pt too wide) in paragraph at lines 668--668
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) giblerMeasuringAlliancesCor
-relates2004?[][]\T1/lmr/m/n/6 (-20) )[][],[][] 
- []
-
-
-Overfull \hbox (15.24834pt too wide) in paragraph at lines 676--676
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) leedsAllianceReliabilityTim
-es2003?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (31.52716pt too wide) in paragraph at lines 684--684
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) leedsDomesticPoliticalInsti
-tutions1999?[][]\T1/lmr/m/n/6 (-20) )[]| 
- []
-
-
-Overfull \hbox (7.66515pt too wide) in paragraph at lines 724--724
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) sarkeesResortWar18162007201
-0?[][]\T1/lmr/m/n/6 (-20) )[][],[][] 
- []
-
-
-Overfull \hbox (10.86382pt too wide) in paragraph at lines 732--732
- []|[]\T1/lmr/m/n/6 (-20) ([][]\T1/lmr/bx/n/6 (-20) frederickIssueCorrelatesWar
-2017?[][]\T1/lmr/m/n/6 (-20) )[]| 
  []
 
 [6
 
 ] [7] [8
 
-]
-Underfull \hbox (badness 3049) in paragraph at lines 836--865
-\T1/lmr/m/n/10 (+20) The ICBe on-tol-ogy fol-lows a hi-er-ar-chi-cal de-sign ph
-i-los-o-phy where a smaller num-ber of sig-
- []
-
-
-Underfull \hbox (badness 2134) in paragraph at lines 836--865
-\T1/lmr/m/n/10 (+20) nif-i-cant de-ci-sions are made early on and then pro-gres
--sively re-fined into more spe-cific de-tails
- []
-
-[9] [10]
-<p_recall.png, id=170, 361.35pt x 216.81pt>
+] [9] [10]
+<p_recall.png, id=168, 361.35pt x 216.81pt>
 File: p_recall.png Graphic file (type png)
 <use p_recall.png>
-Package pdftex.def Info: p_recall.png  used on input line 998.
+Package pdftex.def Info: p_recall.png  used on input line 957.
 (pdftex.def)             Requested size: 361.34912pt x 216.80946pt.
 [11]
 Underfull \vbox (badness 6592) has occurred while \output is active []
 
 [12 <./p_recall.png>]
-<p_semantic_embeddings_dendro.png, id=184, 867.24pt x 722.7pt>
+<p_semantic_embeddings_dendro.png, id=182, 867.24pt x 722.7pt>
 File: p_semantic_embeddings_dendro.png Graphic file (type png)
 <use p_semantic_embeddings_dendro.png>
 Package pdftex.def Info: p_semantic_embeddings_dendro.png  used on input line 1
-066.
+025.
 (pdftex.def)             Requested size: 867.2379pt x 722.69823pt.
 
-Overfull \hbox (397.48291pt too wide) in paragraph at lines 1066--1066
+Overfull \hbox (397.48291pt too wide) in paragraph at lines 1025--1025
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 144.9682pt on input line 1067.
+LaTeX Warning: Float too large for page by 144.9682pt on input line 1026.
 
 [13] [14 <./p_semantic_embeddings_dendro.png>]
-<case_study_cuban_recall.png, id=201, 366.77025pt x 387.00584pt>
+<case_study_cuban_recall.png, id=199, 366.77025pt x 387.00584pt>
 File: case_study_cuban_recall.png Graphic file (type png)
 <use case_study_cuban_recall.png>
-Package pdftex.def Info: case_study_cuban_recall.png  used on input line 1132.
+Package pdftex.def Info: case_study_cuban_recall.png  used on input line 1091.
 (pdftex.def)             Requested size: 366.76935pt x 387.00488pt.
 
 Underfull \vbox (badness 3323) has occurred while \output is active []
 
 [15 <./case_study_cuban_recall.png>]
-<p_196_icbe.png, id=209, 975.645pt x 1300.86pt>
+<p_196_icbe.png, id=207, 975.645pt x 1300.86pt>
 File: p_196_icbe.png Graphic file (type png)
 <use p_196_icbe.png>
-Package pdftex.def Info: p_196_icbe.png  used on input line 1156.
+Package pdftex.def Info: p_196_icbe.png  used on input line 1115.
 (pdftex.def)             Requested size: 975.64262pt x 1300.85684pt.
 
-Overfull \hbox (505.88763pt too wide) in paragraph at lines 1156--1156
+Overfull \hbox (505.88763pt too wide) in paragraph at lines 1115--1115
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 679.32683pt on input line 1157.
+LaTeX Warning: Float too large for page by 679.32683pt on input line 1116.
 
-<case_study_crimea_recall.png, id=210, 383.7537pt x 281.853pt>
+<case_study_crimea_recall.png, id=208, 383.7537pt x 281.853pt>
 File: case_study_crimea_recall.png Graphic file (type png)
 <use case_study_crimea_recall.png>
-Package pdftex.def Info: case_study_crimea_recall.png  used on input line 1192.
+Package pdftex.def Info: case_study_crimea_recall.png  used on input line 1150.
 
 (pdftex.def)             Requested size: 383.75275pt x 281.85231pt.
 [16] [17 <./p_196_icbe.png>]
-<p_precision_icews.png, id=222, 1011.78pt x 722.7pt>
+<p_precision_icews.png, id=220, 1011.78pt x 722.7pt>
 File: p_precision_icews.png Graphic file (type png)
 <use p_precision_icews.png>
-Package pdftex.def Info: p_precision_icews.png  used on input line 1240.
+Package pdftex.def Info: p_precision_icews.png  used on input line 1197.
 (pdftex.def)             Requested size: 1011.77753pt x 722.69823pt.
 
-Overfull \hbox (542.02254pt too wide) in paragraph at lines 1240--1240
+Overfull \hbox (542.02254pt too wide) in paragraph at lines 1197--1197
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 112.11821pt on input line 1241.
+LaTeX Warning: Float too large for page by 112.11821pt on input line 1198.
 
-[18 <./case_study_crimea_recall.png>] [19 <./p_precision_icews.png>]
-Underfull \vbox (badness 3179) has occurred while \output is active []
 
-[20] [21] [22
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] (./ICBe_manuscript.aux)
+[18 <./case_study_crimea_recall.png>] [19 <./p_precision_icews.png>] [20] [21]
+Underfull \hbox (badness 2951) in paragraph at lines 1322--1328
+[]\T1/lmr/m/n/10 (+20) Beardsley, Kyle, Patrick James, Jonathan Wilken-feld, an
+d Michael Brecher. 2020. ``The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1322--1328
+\T1/lmr/m/n/10 (+20) In-ter-na-tional Cri-sis Be-hav-ior Project.'' \T1/lmr/m/i
+t/10 (+20) Ox-ford Re-search En-cy-clo-pe-dia of Pol-i-tics\T1/lmr/m/n/10 (+20)
+ .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1322--1328
+\T1/lmr/m/n/10 (+11) https://oxfordre.com/politics/view/10.1093/acrefore/978019
+0228637.001.0001/acrefore-9780190228637-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[22
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[27] [28] (./ICBe_manuscript.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1269,13 +1079,13 @@ Package rerunfilecheck Info: File `ICBe_manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: C4DB2856EA416EF25D0182B10F2E1740;3032.
  ) 
 Here is how much of TeX's memory you used:
- 17941 strings out of 478287
- 296257 string characters out of 5849289
- 806970 words of memory out of 5000000
- 35470 multiletter control sequences out of 15000+600000
- 542295 words of font info for 181 fonts, out of 8000000 for 9000
+ 18041 strings out of 478287
+ 299726 string characters out of 5849289
+ 808705 words of memory out of 5000000
+ 35466 multiletter control sequences out of 15000+600000
+ 537249 words of font info for 182 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,12n,131p,2524b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,12n,131p,2989b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not ex
 ist, replaced by a fixed one
 
@@ -1313,20 +1123,19 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 s/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/t
 exmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm/l
 mbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmbx6.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx9.p
-fb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></
-usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/pu
-blic/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/t
-exmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/l
-msy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/f
-onts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.p
-fb></usr/share/texmf/fonts/type1/public/lm/lmtt9.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ICBe_manuscript.pdf (22 pages, 4327575 bytes).
+fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi1
+0.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></us
+r/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/publ
+ic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/
+fonts/type1/public/lm/lmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
+zapfding/uzdr.pfb>
+Output written on ICBe_manuscript.pdf (28 pages, 4299031 bytes).
 PDF statistics:
- 374 PDF objects out of 1000 (max. 8388607)
- 300 compressed objects within 3 object streams
- 92 named destinations out of 1000 (max. 500000)
- 38076 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 588 PDF objects out of 1000 (max. 8388607)
+ 509 compressed objects within 6 object streams
+ 192 named destinations out of 1000 (max. 500000)
+ 33980 words of extra memory for PDF output out of 35830 (max. 10000000)
 
