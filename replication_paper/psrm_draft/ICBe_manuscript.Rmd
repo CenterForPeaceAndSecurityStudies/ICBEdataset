@@ -214,8 +214,13 @@ icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
 ```
 
 \doublespacing
+\newpage
 
 If we could record every international interaction in the realms of diplomacy, conflict, economics, and beyond, how much unique information would this chronicle amount to, and how surprised would we be to see something new? In other words, what is the entropy of international relations? While this record could in principle be unbounded, the central conceit of social science is that there are structural regularities that limit what actors can do, their best options, and even which actors are likely to survive [@brecherInternationalStudiesTwentieth1999; @reiterShouldWeLeave2015]. If so, then these events can be recorded and systematically measured by social scientists interested in these regularities.[^1] Thanks to improvements in natural language processing, more open-ended efforts have begun to capture entire unstructured streams of events from international news reports.[^2] This has invited fruitful efforts to evaluate the coverage, quality, and accuracy of attempts to measure international affairs.
+
+[^1]: See work on crises [@brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020], militarized disputes [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018], wars [@sarkeesResortWar181620072010; @reiterRevisedLookInterstate2016], organized violence [@ralphsundbergUCDPGEDCodebook2016; @daviesOrganizedViolence19892022], political violence [@raleighIntroducingACLEDArmed2010], sanctions [@felbermayrGlobalSanctionsData2020], and international agreements [@kinneDefenseCooperationAgreement2020; @owsiakInternationalBorderAgreements2018], dispute resolution [@frederickIssueCorrelatesWar2017], and diplomacy [@moyerWhatAreDrivers2020; @sechserMilitarizedCompellentThreats2011].
+
+[^2]: See @beielerGeneratingPoliticalEvent2016; @boscheeICEWSCodedEvent2015; @brandtPhoenixRealTimeEvent2018; @grantOUEventData2017; @liComprehensiveSurveySchemabased2021. On event extraction from images and social media see @zhangCASMDeepLearningApproach2019 and @steinert-threlkeldFutureEventData2019.
 
 <!-- removedcites @barariDemocracyTradePolicy; @vabulasCooperationAutonomyBuilding2021; @hegreIntroducingUCDPCandidate2020; @haltermanExtractingPoliticalEvents2020; @maozDyadicMilitarizedInterstate2019; @vabulasCooperationAutonomyBuilding2021; -->
 
@@ -288,13 +293,15 @@ ft_cuba_precision <- temp %>%
 temp <- NULL
 ```
 
-![Cuban Missile Crisis (1962) - ICB Narrative vs. ICBe Events](case_study_cuban_precision.png){#fig-cuba-narrative}
+![Cuban Missile Crisis (1962) - ICB Narrative vs. ICBe Events](case_study_cuban_precision.png){#fig-cuba-narrative width="7in" height="8in"}
 
 ## Existing state of the art measurements
 
 We draw informative prior beliefs about the underlying process of international relations that we expect to govern behavior during historical episodes and their conversion to the historical record. We organize our prior beliefs along two overarching axes: existing efforts to identify the actors/actions of international relations and identifying a corpus that can be used to produce an ontology of the information we hope to recover. Table 1 describes these two axes as columns and rows, respectively.
 
 As we are not the first to attempt to measure international relations in a structured manner, the columns of Table 1 compare the ontological coverage of ICBe to existing state of the art systems in production and with global coverage. We choose these datasets and models as they represent frequently used and reputable efforts to structure and describe historical events of interest to scholars of international politics. The first column starts with our contribution, ICBe, alongside other event-level datasets including CAMEO dictionary lookup-based systems (Historical Phoenix [@althausClineCenterHistorical2019]; ICEWS [@boscheeICEWSCodedEvent2015]; Terrier [@grantOUEventData2017]), the Militarized Interstate Disputes Incidents dataset, and the UCDP-GED dataset [@daviesOrganizedViolence19892022; @sundbergIntroducingUCDPGeoreferenced2013].[^3] The final set of columns compares episode-level datasets beginning with the original ICB project [@brecherInternationalCrisisBehavior2021; @brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020]; the Militarized Interstate Disputes dataset [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018], and the Correlates of War [@sarkeesResortWar181620072010]. There is imperfect overlap concerning their intended depth and scope of coverage; 'international crises' are similar, but not identical to, 'interstate wars' and 'militarized interstate disputes' which differ yet again from 'individual events of organized violence' and 'non-violent action'. Even like-concepts require care in comparison, as an 'aim' in ICBe is the same as in MIPS, but an 'alert' in ICBe is not the same as an 'alert' in MID. Definitions for each ICBe variable are provided in the codebook.
+
+[^3]: Other related datasets that insufficiently overlap ICBe's domain for comparison include BCOW [@lengMilitarizedInterstateCrises1988], WEIS [@mcclellandWorldEventInteraction1978], CREON [@hermannComparativeResearchEvents1984], CASCON [@bloomfieldCASCONIIIComputeraided1989], SHERFACS [@shermanSHERFACSCrossParadigmHierarchical2000], Real-Time Phoenix [@brandtPhoenixRealTimeEvent2018], and COfEE [@balaliCOfEEComprehensiveOntology2021] (see histories in @merrittMeasuringEventsInternational1994 and @schrodtTwentyYearsKansas2006).
 
 <!-- removedcites @braithwaiteMIDLOCIntroducingMilitarized2010; @braithwaiteCodebookMilitarizedInterstate2009; @hegreIntroducingUCDPCandidate2020, @ralphsundbergUCDPGEDCodebook2016-->
 
@@ -482,6 +489,8 @@ The rows in Table 1 represent the types of information we expect to find in inte
 
 With the exception of large-scale CAMEO dictionary-based systems (the first grouping of columns), our ontology improves upon the the existing state of the art quantitative datasets that ignore important information content about international interactions.[^4] We highlight two particular innovations. First, we separate the 'chess pieces' from the 'chess players' in distinguishing between different actors within a state. By virtue of our ontology coding military versus civilian actors and national leaders versus bureaucrats, our data can be used to explore important questions concerning civilian-military relations [@narangCivilmilitaryPathologiesDefeat2017], Track Two diplomacy and the role of sub-national actors [@hsuStatesHarnessingSubnational2020], and the evolution of what actors are engaged in crises - a topic of increasing interest as states engage in gray zone conflict by employing the coast guard or paramilitary mercenaries instead of internationally recognized state militaries [@gannonShadowDeterrenceWhy2022]. Second, we add information about the domains in which actors behave - whether in land, air, sea, space, or cyber - since they differ in their technology, tactics, geography, and purpose [@gartzkeCrossDomainDeterrenceStrategy2019]. Doing so allows researchers to identify and explain patterns in escalation conditional on the military means states use in conflict. Recent concerns about cross-domain conflict and the effect of new domains of conflict like space and cyber have made this an endeavor of increased interest to practitioners [@gannonOneIfLand2022].
 
+[^4]: See @balaliCOfEEComprehensiveOntology2021 for a recent review of ontological depth and availability of Gold Standard example text.
+
 # Methodology and data
 
 ## Corpus
@@ -494,7 +503,13 @@ For our corpus, we select a set of unusually high-quality historical narratives 
 
 The ICBe ontology follows a hierarchical design philosophy where a smaller number of significant decisions are made early on and then progressively refined into more specific details [@brustIntegratingDomainKnowledge2020].[^5] Each coder was instructed to first thoroughly read the full crisis narrative and then presented with a custom graphical user interface (GUI) (SI Appendix 2.1). Coders then proceeded sentence by sentence, choosing the number of events (0-3) that occurred, the highest behavior (thought, speech, or activity), a set of players, whether the means were primarily armed or unarmed, whether there was an increase or decrease in aggression (uncooperative/escalating or cooperative/de-escalating), and finally one or more specific and non-mutually exclusive activities. Some additional details were always collected (e.g. location and timing) while other details were only collected if appropriate (e.g. force size, fatalities, domains, units). We find `r codings_long_agreement %>% filter(varname_normalized %>% str_detect("actor")) %>% pull(value_normalized) %>% unique() %>% length()` actors and 117 different behaviors.[^6] A unique feature of the ontology is that thought, speech, and do behaviors can be nested into combinations, e.g. an offer for the U.S.S.R. to remove missiles from Cuba in exchange for the U.S. removing missiles from Turkey. Through compounding, the ontology can capture what players were said to have known, learned, or said about other specific fully described actions.
 
+[^5]: This process quickly focuses the coder on a smaller number of relevant options while also allowing them to apply multiple tags if the sentence explicitly includes more than one or there is insufficient evidence to choose only one tag. The guided coding process also allows for the possibility that earlier coarse decisions have less error than later fine-grained decisions.
+
+[^6]: See the full codebook on Github Repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).
+
 Each crisis was typically assigned to 2 expert coders and 2 novice coders with an additional tie-breaking expert coder assigned to sentences with high disagreement.[^7] For the purposes of measuring intercoder agreement and consensus, we temporarily disaggregate the unit of analysis to the Coder-Crisis-Sentence-Tag (n=`r icb_long_clean %>% nrow() %>% scales::comma()`), where a tag is any unique piece of information a coder can associate with a sentence such as an actor, date, behavior, etc. We then aggregate those tags into final events (n=`r ICBe_events_agreed %>% nrow() %>% scales::comma()`), using a consensus procedure (SI Appendix 2.2) that requires a tag to have been chosen by at least one expert coder and either a majority of expert or novice coders. This screens noisy tags that no expert considered possible but leverages novice knowledge to tie-break between equally plausible tags chosen by experts.
+
+[^7]: Expert coders were graduate students or postgraduates who collaboratively developed the ontology and documentation for the codebook. Undergraduate coders were students who engaged in classroom workshops.
 
 ```{r means}
 #We calculate means in the SI appendix on agreement
@@ -525,6 +540,8 @@ Recall for historical episodes is poorly defined for two reasons. History may or
 Our strategy for dealing with both problems is a plausibly objective yardstick called a synthetic historical narrative. We collect a large diverse corpus of narratives spanning timelines, encyclopedia entries, journal articles, news reports, websites, and government documents. Using natural language processing (fully described in SI Appendix 3.1), we identify details that appear across multiple accounts. The more accounts that mention a detail, the more central it is to understanding the true historical episode. The theoretical motivation is that authors face word limits which force them to pick and choose which details to include, and they choose details that serve the specific context of the document they are producing. With a sufficiently large and diverse corpus of documents, we can vary the context while holding the overall episode constant and see which details tend to be invariant to context. Intuitively, a high-quality event dataset should have high recall for context invariant details both because of their broader relevance and also because they are easier to find in source material.
 
 We find substantive variation in recall across existing state of the art methods. Mentions of a detail across accounts are exponentially distributed with context-invariant details appearing dozens to hundreds of times more than context-dependent details.[^8] Furthermore, crisis start and stop dates are arbitrary, and the historical record points to many precursor events as necessary detail for understanding later events. @fig-recall-cases compares ICBe's recall with that of existing datasets for the two case studies detailed in Section 4. ICBe strictly dominates all of the systems but ICEWs in recall though we note that the small sample sizes mean these systems should be considered statistically indistinguishable. Across all existing datasets and ICBe, recall increases with the number of document mentions which is an important sign of validity for both them and our benchmark. The one outlier is Phoenix which in the Cuban Missile Crisis case is so noisy that it's recall curve is flat to decreasing as mentions increase. The two episode-level datasets (MIDs and ICM) have low coverage of contextual details. The two other dictionary systems ICEWs and Terrier have higher coverage, with ICEWs outperforming Terrier. Importantly our corpus of ICB narratives has high recall of frequently mentioned details giving us confidence in how those summaries were constructed, and ICBe lags only slightly behind showing that it left little additional information on the table.
+
+[^8]: As the ICB narratives are intended to explain conflictual behavior in a political context, many of the missing events concern more economic components of conflict (eg. nationalizing a foreign business). Even when they occur in the context of a crisis, these events largely fall outside the sample of information on which ICBe's ontology is currently trained. Even with this limitation, ICBe is more comprehensive than the existing datasets that do try to code the economic dimensions of these crises. We see expanding the ontology to broader international phenomenon as a promising future implementation of our model.
 
 ![Recall comparison of two cases across existing state of the art efforts. Higher y-axis values represent higher recall and higher x-axis values represent number of times that detail is mentioned across the full corpus used to construct the synthetic narrative.](p_recall.png){#fig-recall-cases}
 
@@ -1204,7 +1221,11 @@ ggsave(file=paste0(here::here(), '/replication_paper/psrm_draft/p_semantic_embed
 
 @fig-umap shows the location of every sentence from the ICBe corpus in semantic space as embedded using the same large language model as before, and the median location of each ICBe event tag applied to those sentences.[^9] Labels reflect the individual leaves of the ontology and colors reflect the higher level coarse branch nodes of the ontology. If ICBe has high precision, substantively similar tags ought to have been applied to substantively similar source text, which is what we see both in two dimensions in the main plot and via hierarchical clustering on all dimensions in the dendrogram along the right-hand side.[^10]
 
-![Dots represent individual ICB narrative sentences, as embedded by the Paraphrase-MPNET-base-v2 large language model and flattened into two dimensions with UMAP. Text labels reflect individual leaves of the ICBe ontology, and colors represent intermediate branches of the ontology. Label placement is the median of all of the sentences that the tag was applied to by the coders. The dendrogram shows hierarchical clustering of the tags. If ICBe precision is high, then the sentences that tags were applied to ought to say similar things and the intended shape of the ontology ought to be visually recognizable.](p_semantic_embeddings_dendro.png){#fig-umap}
+[^9]: We preprocess sentences to replace named entities with a generic Entity token.
+
+[^10]: Hierarchical clustering on cosine similarity and with Ward's method.
+
+![Dots represent individual ICB narrative sentences, as embedded by the Paraphrase-MPNET-base-v2 large language model and flattened into two dimensions with UMAP. Text labels reflect individual leaves of the ICBe ontology, and colors represent intermediate branches of the ontology. Label placement is the median of all of the sentences that the tag was applied to by the coders. The dendrogram shows hierarchical clustering of the tags. If ICBe precision is high, then the sentences that tags were applied to ought to say similar things and the intended shape of the ontology ought to be visually recognizable.](p_semantic_embeddings_dendro.png){#fig-umap width="7in" height="7in"}
 
 # Case illustrations
 
@@ -1625,7 +1646,7 @@ ICB's improved recall of Cuban Missiles was relative to the state of the art was
 
 @fig-cuba-crisismap shows the crisis map for the Cuban Missile Crisis. Looking at the crisis on a timeline, one can now identify the structure of actors and the environment, along with its supporting details, in a way that validates the precision of ICBe. Although harder to measure objectively, this crisis map provides face valid evidence that ICBe's account is not too vague, but also not unnecessarily detailed. We include much of the geopolitically important details like Soviet deployment, US discovery of that deployment, heightened alert levels, a blockade, and negotiations that ended with a formal agreement. At the same time, the crisis map indicates that ICBe does not include unnecessary nuances that preclude useful comparison to other international events.
 
-![Crisis map for the Cuban Missile Crisis. The start of the crisis is at the top and end of the crisis is the bottom, with each actor in a column with labeled points identifying their speeches, actions, and thoughts.](p_196_icbe.png){#fig-cuba-crisismap}
+![Crisis map for the Cuban Missile Crisis. The start of the crisis is at the top and end of the crisis is the bottom, with each actor in a column with labeled points identifying their speeches, actions, and thoughts.](p_196_icbe.png){#fig-cuba-crisismap width="6in"}
 
 ## Crimea-Donbas (2014)
 
@@ -1767,7 +1788,7 @@ save_plot(file=paste0(here::here(),
 #}
 ```
 
-![The unit of analysis is the dyad-day. Top 10 most active dyads per category shown. Red text shows events from the synthetic narrative relative to that event category. Blue bars indicate an event recorded by ICEWs for that dyad on that day.](p_precision_icews.png){#fig-precision-icews}
+![The unit of analysis is the dyad-day. Top 10 most active dyads per category shown. Red text shows events from the synthetic narrative relative to that event category. Blue bars indicate an event recorded by ICEWs for that dyad on that day.](p_precision_icews.png){#fig-precision-icews width="7in" height="5in"}
 
 # Conclusion
 
@@ -1775,9 +1796,11 @@ We investigated event abstraction from narratives describing key historical epis
 
 We release several open-source products along with supporting code and documentation to further advance the study of international relations, event extraction, and natural language processing. The first is the International Crisis Behavior Events (ICBe) dataset, an event-level aggregation of what took place during the crises identified by the ICB project. These data are appropriate for statistical analysis of hard questions about the sequencing of events (e.g. escalation and de-escalation of conflicts).[^11] Second, we provide a coder-level disaggregation with multiple codings of each sentence by experts and undergrads that allows for the introduction of uncertainty and human interpretation of events. Further, we release a direct mapping from the codings to the source text at the sentence level as a new resource for natural language processing. Finally, we provide a companion website that incorporates detailed visualizations of all of the data introduced here at crisisevents.org.
 
+[^11]: Using ICBe data @gannonOneIfLand2022 finds that cross-domain crises are shorter and less violent than same-domain crises.
+
 # Funding
 
-This work was supported by a grant from the Office of Naval Research \[N00014-19-1-2491\] and from the Charles Koch Foundation \[20180481\]. The financial sponsors played no in the design, execution, analysis and interpretation of data, or writing of the study.
+This work was supported by a grant from the Office of Naval Research $N00014-19-1-2491$ and from the Charles Koch Foundation $20180481$. The financial sponsors played no in the design, execution, analysis and interpretation of data, or writing of the study.
 
 # Acknowledgements
 
@@ -1798,25 +1821,3 @@ The authors declare that there are no competing interests.
 \clearpage
 
 # Works Cited
-
-[^1]: See work on crises [@brecherCrisesWorldPolitics1982; @beardsleyInternationalCrisisBehavior2020], militarized disputes [@palmerMID5Dataset20112021; @giblerInternationalConflicts181620102018], wars [@sarkeesResortWar181620072010; @reiterRevisedLookInterstate2016], organized violence [@ralphsundbergUCDPGEDCodebook2016; @daviesOrganizedViolence19892022], political violence [@raleighIntroducingACLEDArmed2010], sanctions [@felbermayrGlobalSanctionsData2020], and international agreements [@kinneDefenseCooperationAgreement2020; @owsiakInternationalBorderAgreements2018], dispute resolution [@frederickIssueCorrelatesWar2017], and diplomacy [@moyerWhatAreDrivers2020; @sechserMilitarizedCompellentThreats2011].
-
-[^2]: See @beielerGeneratingPoliticalEvent2016; @boscheeICEWSCodedEvent2015; @brandtPhoenixRealTimeEvent2018; @grantOUEventData2017; @liComprehensiveSurveySchemabased2021. On event extraction from images and social media see @zhangCASMDeepLearningApproach2019 and @steinert-threlkeldFutureEventData2019.
-
-[^3]: Other related datasets that insufficiently overlap ICBe's domain for comparison include BCOW [@lengMilitarizedInterstateCrises1988], WEIS [@mcclellandWorldEventInteraction1978], CREON [@hermannComparativeResearchEvents1984], CASCON [@bloomfieldCASCONIIIComputeraided1989], SHERFACS [@shermanSHERFACSCrossParadigmHierarchical2000], Real-Time Phoenix [@brandtPhoenixRealTimeEvent2018], and COfEE [@balaliCOfEEComprehensiveOntology2021] (see histories in @merrittMeasuringEventsInternational1994 and @schrodtTwentyYearsKansas2006).
-
-[^4]: See @balaliCOfEEComprehensiveOntology2021 for a recent review of ontological depth and availability of Gold Standard example text.
-
-[^5]: This process quickly focuses the coder on a smaller number of relevant options while also allowing them to apply multiple tags if the sentence explicitly includes more than one or there is insufficient evidence to choose only one tag. The guided coding process also allows for the possibility that earlier coarse decisions have less error than later fine-grained decisions.
-
-[^6]: See the full codebook on Github Repository [ICBEventData](https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$).
-
-[^7]: Expert coders were graduate students or postgraduates who collaboratively developed the ontology and documentation for the codebook. Undergraduate coders were students who engaged in classroom workshops.
-
-[^8]: As the ICB narratives are intended to explain conflictual behavior in a political context, many of the missing events concern more economic components of conflict (eg. nationalizing a foreign business). Even when they occur in the context of a crisis, these events largely fall outside the sample of information on which ICBe's ontology is currently trained. Even with this limitation, ICBe is more comprehensive than the existing datasets that do try to code the economic dimensions of these crises. We see expanding the ontology to broader international phenomenon as a promising future implementation of our model.
-
-[^9]: We preprocess sentences to replace named entities with a generic Entity token.
-
-[^10]: Hierarchical clustering on cosine similarity and with Ward's method.
-
-[^11]: Using ICBe data @gannonOneIfLand2022 finds that cross-domain crises are shorter and less violent than same-domain crises.
