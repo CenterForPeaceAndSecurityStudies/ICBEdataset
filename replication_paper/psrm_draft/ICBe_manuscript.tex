@@ -31,7 +31,7 @@ about International Crises}
    \\
   \texttt{} \\
    \And
-    J. Andrés Gannon
+    J Andrés Gannon
    \\
     Vanderbilt University \\
    \\
@@ -202,6 +202,7 @@ episode available at a companion website crisisevents.org.
 
 
 \doublespacing
+\newpage
 
 If we could record every international interaction in the realms of
 diplomacy, conflict, economics, and beyond, how much unique information
@@ -298,26 +299,26 @@ historical episode can be combined with that of other events to produce
 a systematic account of political events from which we can garner novel
 insight, assuming the underlying data have high coverage, precision, and
 recall. The easiest way to convey the desired produced of this task is
-with an example. (\textbf{fig-cuba-narrative?}) shows a narrative
-account of the Cuban Missile Crisis (1962) in natural language sentences
-alongside a mapping to discrete machine-readable abstractive events.
-From the structured data, scholars can identify similarities and
-differences across events concerning important concepts like when
-particular foreign policy actions deter versus inflame (Jervis 1978;
-Glaser 2000), when third parties mediate in interstate disputes (Haffar
-2002; Quinn et al. 2006), and how actors try to communicate resolve
-(Trager 2016; Lupton 2018). Identifying patterns of international
-interactions is not just an inherently interesting enterprise; it is a
-necessary precondition to important efforts to predict where
-policymakers should turn their attention to improve global welfare (Ward
-et al. 2013; Beger, Morgan, and Ward 2021).
+with an example. Figure 1 shows a narrative account of the Cuban Missile
+Crisis (1962) in natural language sentences alongside a mapping to
+discrete machine-readable abstractive events. From the structured data,
+scholars can identify similarities and differences across events
+concerning important concepts like when particular foreign policy
+actions deter versus inflame (Jervis 1978; Glaser 2000), when third
+parties mediate in interstate disputes (Haffar 2002; Quinn et al. 2006),
+and how actors try to communicate resolve (Trager 2016; Lupton 2018).
+Identifying patterns of international interactions is not just an
+inherently interesting enterprise; it is a necessary precondition to
+important efforts to predict where policymakers should turn their
+attention to improve global welfare (Ward et al. 2013; Beger, Morgan,
+and Ward 2021).
 
 \begin{figure}
-\hypertarget{fig-cuba-narrative}{%
+\hypertarget{fig-cubanarrative}{%
 \centering
-\includegraphics{case_study_cuban_precision.png}
+\includegraphics[width=7in,height=8in]{case_study_cuban_precision.png}
 \caption{Cuban Missile Crisis (1962) - ICB Narrative vs.~ICBe
-Events}\label{fig-cuba-narrative}
+Events}\label{fig-cubanarrative}
 }
 \end{figure}
 
@@ -752,15 +753,15 @@ Talmadge 2017), Track Two diplomacy and the role of sub-national actors
 (Hsu et al. 2020), and the evolution of what actors are engaged in
 crises - a topic of increasing interest as states engage in gray zone
 conflict by employing the coast guard or paramilitary mercenaries
-instead of internationally recognized state militaries (J. Andrés Gannon
-et al. 2022). Second, we add information about the domains in which
-actors behave - whether in land, air, sea, space, or cyber - since they
-differ in their technology, tactics, geography, and purpose (Gartzke and
+instead of internationally recognized state militaries (Gannon et al.
+2022). Second, we add information about the domains in which actors
+behave - whether in land, air, sea, space, or cyber - since they differ
+in their technology, tactics, geography, and purpose (Gartzke and
 Lindsay 2019). Doing so allows researchers to identify and explain
 patterns in escalation conditional on the military means states use in
 conflict. Recent concerns about cross-domain conflict and the effect of
 new domains of conflict like space and cyber have made this an endeavor
-of increased interest to practitioners (J. Andrés Gannon 2022).
+of increased interest to practitioners (Gannon 2022).
 
 \hypertarget{methodology-and-data}{%
 \section{Methodology and data}\label{methodology-and-data}}
@@ -815,12 +816,30 @@ details were only collected if appropriate (e.g.~force size, fatalities,
 domains, units). We find 472 actors and 117 different
 behaviors.\footnote{See the full codebook on Github Repository
   \href{https://urldefense.com/v3/__https://github.com/CenterForPeaceAndSecurityStudies/ICBEventData__;!!Mih3wA!WxDJtEczKfxGTh0S2Krunap8ReymFEL5iTWaSfOHeqlSdyfRx77zmjBSWO1OAm13$}{ICBEventData}.}
+
 A unique feature of the ontology is that thought, speech, and do
 behaviors can be nested into combinations, e.g.~an offer for the
 U.S.S.R. to remove missiles from Cuba in exchange for the U.S. removing
 missiles from Turkey. Through compounding, the ontology can capture what
 players were said to have known, learned, or said about other specific
-fully described actions.
+fully described actions. Two other novel features of our data -- its
+re-programmamable coding and its inclusion of thought, speech, and
+action -- intersect to provide a unique contribution. No existing event
+data distinguishes thoughts, speeches, and actions and most are limited
+to just coding actions given they are the most readily observable and
+thus the full universe could at least theoretically be
+included.\footnote{Even the coding of overt actions like MIDs is not
+  without contention (Gibler 2018).} Yet, methods like archival work and
+expert interviews continue to improve identification of thoughts and
+speeches that help us understand the reasoning process underlying
+political decisions and what actually occurred behind the scenes. This
+is an improvement over the state of the art that omits these by design
+in allowing scholars to identify thoughts associated with things like
+crisis escalation as well as patterns of omission to be advanced in
+future work, but the modular nature of our coding means the inclusion of
+a non-random sample of thoughts and speeches is neither necessary nor
+does it have inevitable downstream effects on the rest of the coding in
+ways that produce unwanted bias.
 
 Each crisis was typically assigned to 2 expert coders and 2 novice
 coders with an additional tie-breaking expert coder assigned to
@@ -909,9 +928,15 @@ include, and they choose details that serve the specific context of the
 document they are producing. With a sufficiently large and diverse
 corpus of documents, we can vary the context while holding the overall
 episode constant and see which details tend to be invariant to context.
-Intuitively, a high-quality event dataset should have high recall for
-context invariant details both because of their broader relevance and
-also because they are easier to find in source material.
+This presents a harder evaluation baseline than comparing ICBe's recall
+to just that of ICB since there are non-crisis aspects of these events
+that may be included in other narratives but are out of the scope of our
+data. For example, the nationalization of businesses in Cuba may be
+included as important context in the Cuban Missile Crisis in documents
+that do not focus on the crisis dimensions like ICB. Using this hard
+case, a recall measure of ICBe on the synthetic narratives thus serves
+as a way to evaluate the breadth of ICBe's ontology and potential
+application to non-crisis international events.
 
 We find substantive variation in recall across existing state of the art
 methods. Mentions of a detail across accounts are exponentially
@@ -928,22 +953,22 @@ of times more than context-dependent details.\footnote{As the ICB
   phenomenon as a promising future implementation of our model.}
 Furthermore, crisis start and stop dates are arbitrary, and the
 historical record points to many precursor events as necessary detail
-for understanding later events. (\textbf{fig-recall-cases?}) compares
-ICBe's recall with that of existing datasets for the two case studies
-detailed in Section 4. ICBe strictly dominates all of the systems but
-ICEWs in recall though we note that the small sample sizes mean these
-systems should be considered statistically indistinguishable. Across all
-existing datasets and ICBe, recall increases with the number of document
-mentions which is an important sign of validity for both them and our
-benchmark. The one outlier is Phoenix which in the Cuban Missile Crisis
-case is so noisy that it's recall curve is flat to decreasing as
-mentions increase. The two episode-level datasets (MIDs and ICM) have
-low coverage of contextual details. The two other dictionary systems
-ICEWs and Terrier have higher coverage, with ICEWs outperforming
-Terrier. Importantly our corpus of ICB narratives has high recall of
-frequently mentioned details giving us confidence in how those summaries
-were constructed, and ICBe lags only slightly behind showing that it
-left little additional information on the table.
+for understanding later events. Figure 2 compares ICBe's recall with
+that of existing datasets for the two case studies detailed in Section
+4. ICBe strictly dominates all of the systems but ICEWs in recall though
+we note that the small sample sizes mean these systems should be
+considered statistically indistinguishable. Across all existing datasets
+and ICBe, recall increases with the number of document mentions which is
+an important sign of validity for both them and our benchmark. The one
+outlier is Phoenix which in the Cuban Missile Crisis case is so noisy
+that it's recall curve is flat to decreasing as mentions increase. The
+two episode-level datasets (MIDs and ICM) have low coverage of
+contextual details. The two other dictionary systems ICEWs and Terrier
+have higher coverage, with ICEWs outperforming Terrier. Importantly our
+corpus of ICB narratives has high recall of frequently mentioned details
+giving us confidence in how those summaries were constructed, and ICBe
+lags only slightly behind showing that it left little additional
+information on the table.
 
 \begin{figure}
 \hypertarget{fig-recall-cases}{%
@@ -972,18 +997,18 @@ researcher should be able to lay out the events of a crisis on a
 timeline and read off the macrostructure of an episode from each
 individual move. We call this visualization a crisis map, a directed
 graph intersected with a timeline. A crisis map using ICBe for the Cuban
-Missile Crisis case study is provided in (\textbf{fig-cuba-crisismap?}),
-and crisis maps for the two case studies using existing event datasets
-can be found in SI Appendix 4.3 and 4.4 and crisis maps for all crises
-using all datasets can be found on the companion website. The crisis
-maps reveal the episode-level datasets like MIDs or the original ICB are
-too sparse and vague to reconstruct the structure of the crisis (SI
-Appendix 4.3 and 4.4). On the other end of the spectrum, the high recall
-dictionary-based event datasets like Terrier and ICEWs produce so many
-noisy events (several hundred thousand) that even with heavy filtering
-their crisis maps are completely unintelligible. Further, because of
-copyright issues, none of these datasets directly provide the original
-text spans making event-level precision difficult to verify.
+Missile Crisis case study is provided in Figure 2, and crisis maps for
+the two case studies using existing event datasets can be found in SI
+Appendix 4.3 and 4.4 and crisis maps for all crises using all datasets
+can be found on the companion website. The crisis maps reveal the
+episode-level datasets like MIDs or the original ICB are too sparse and
+vague to reconstruct the structure of the crisis (SI Appendix 4.3 and
+4.4). On the other end of the spectrum, the high recall dictionary-based
+event datasets like Terrier and ICEWs produce so many noisy events
+(several hundred thousand) that even with heavy filtering their crisis
+maps are completely unintelligible. Further, because of copyright
+issues, none of these datasets directly provide the original text spans
+making event-level precision difficult to verify.
 
 We further want to verify individual event codings, which we can do in
 the case of ICBe because each event is mapped to a specific span of
@@ -995,15 +1020,15 @@ provide a stratified sample of event codings alongside their source text
 head-to-head comparisons of ICBe codings to the raw text to strongly
 support the quality of ICBe.
 
-(\textbf{fig-umap?}) shows the location of every sentence from the ICBe
-corpus in semantic space as embedded using the same large language model
-as before, and the median location of each ICBe event tag applied to
-those sentences.\footnote{We preprocess sentences to replace named
-  entities with a generic Entity token.} Labels reflect the individual
-leaves of the ontology and colors reflect the higher level coarse branch
-nodes of the ontology. If ICBe has high precision, substantively similar
-tags ought to have been applied to substantively similar source text,
-which is what we see both in two dimensions in the main plot and via
+Figure 3 shows the location of every sentence from the ICBe corpus in
+semantic space as embedded using the same large language model as
+before, and the median location of each ICBe event tag applied to those
+sentences.\footnote{We preprocess sentences to replace named entities
+  with a generic Entity token.} Labels reflect the individual leaves of
+the ontology and colors reflect the higher level coarse branch nodes of
+the ontology. If ICBe has high precision, substantively similar tags
+ought to have been applied to substantively similar source text, which
+is what we see both in two dimensions in the main plot and via
 hierarchical clustering on all dimensions in the dendrogram along the
 right-hand side.\footnote{Hierarchical clustering on cosine similarity
   and with Ward's method.}
@@ -1011,7 +1036,7 @@ right-hand side.\footnote{Hierarchical clustering on cosine similarity
 \begin{figure}
 \hypertarget{fig-umap}{%
 \centering
-\includegraphics{p_semantic_embeddings_dendro.png}
+\includegraphics[width=7in,height=7in]{p_semantic_embeddings_dendro.png}
 \caption{Dots represent individual ICB narrative sentences, as embedded
 by the Paraphrase-MPNET-base-v2 large language model and flattened into
 two dimensions with UMAP. Text labels reflect individual leaves of the
@@ -1032,17 +1057,17 @@ In this section, we focus our validation on two case studies for which
 we have produced synthetic narratives using the method described in
 Section 3.2. Our proposed measure is a reconstruction task to see
 whether our intended ontology can be recovered through only unsupervised
-clustering of sentences they were applied to. The first
-((\textbf{fig-cuba-narrative?})) is the Cuban Missile Crisis (hereafter
-Cuban Missiles) which took place primarily in the second half of 1962,
-involved the United States, the Soviet Union, and Cuba, and is widely
-known for bringing the world to the brink of nuclear war. The second (SI
-Appendix 4.1) is the Crimea-Donbas Crisis (hereafter Crimea-Donbas)
-which took place primarily in 2014, involved Russia, Ukraine, and NATO,
-and within a decade spiraled into a full-scale invasion. We choose these
-cases because they are significant in contemporary international
-relations, are widely known across academic disciplines as well as among
-the public, and are sufficiently brief to evaluate in depth. They are
+clustering of sentences they were applied to. The first (Figure 1) is
+the Cuban Missile Crisis (hereafter Cuban Missiles) which took place
+primarily in the second half of 1962, involved the United States, the
+Soviet Union, and Cuba, and is widely known for bringing the world to
+the brink of nuclear war. The second (SI Appendix 4.1) is the
+Crimea-Donbas Crisis (hereafter Crimea-Donbas) which took place
+primarily in 2014, involved Russia, Ukraine, and NATO, and within a
+decade spiraled into a full-scale invasion. We choose these cases
+because they are significant in contemporary international relations,
+are widely known across academic disciplines as well as among the
+public, and are sufficiently brief to evaluate in depth. They are
 similar in that both cases involve a superpower in crisis with a
 neighbor that changed from a friendly to a hostile regime, both held
 implications for the economic and military security for the superpower
@@ -1053,30 +1078,29 @@ by an opposing superpower.
 \subsection{Cuban Missile Crisis
 (1962)}\label{cuban-missile-crisis-1962}}
 
-A synthetic historical narrative for Cuban Missiles appears in
-(\textbf{fig-recall-cuba?}), with 51 events drawn from 2,020 documents.
-Each row represents a detail that appeared in at least five documents
-along with an approximate start date, a handwritten summary, the number
-of documents it was mentioned in, and whether it could be identified in
-the text of the original ICB corpus, our ICBe events, and any of the
-competing existing models.
+A synthetic historical narrative for Cuban Missiles appears in Figure 4,
+with 51 events drawn from 2,020 documents. Each row represents a detail
+that appeared in at least five documents along with an approximate start
+date, a handwritten summary, the number of documents it was mentioned
+in, and whether it could be identified in the text of the original ICB
+corpus, our ICBe events, and any of the competing existing models.
 
 ICB's improved recall of Cuban Missiles was relative to the state of the
-art was summarized in Section 3.2 ((\textbf{fig-recall-cases?})), but
-the events that explain that improvement can now be seen. Our ground
-truth ICB narrative contains 17/51 of the events from the synthetic
-narrative of a case that includes high-level previously classified
-details. ICBe captures nearly all details included in ICB as well as
-more details from the synthetic narrative than any competing dataset.
-Phoenix includes some earlier information than ICBe like the
-nationalization of businesses and back channel negotiations, but the
-crisis narrative has a clean canonical end with the Soviets agreeing to
-withdraw missiles. ICBe stands out in including more communicative
-behavior (do -- speech) than existing datasets like US threats to attack
-and later promises not to invade. Given the recognized importance of
-threat credibility for understanding international conflict, the
-addition of this information is a substantively important improvement
-over the existing state of the art (Slantchev 2011).
+art was summarized in Section 3.2 (Figure 2), but the events that
+explain that improvement can now be seen. Our ground truth ICB narrative
+contains 17/51 of the events from the synthetic narrative of a case that
+includes high-level previously classified details. ICBe captures nearly
+all details included in ICB as well as more details from the synthetic
+narrative than any competing dataset. Phoenix includes some earlier
+information than ICBe like the nationalization of businesses and back
+channel negotiations, but the crisis narrative has a clean canonical end
+with the Soviets agreeing to withdraw missiles. ICBe stands out in
+including more communicative behavior (do -- speech) than existing
+datasets like US threats to attack and later promises not to invade.
+Given the recognized importance of threat credibility for understanding
+international conflict, the addition of this information is a
+substantively important improvement over the existing state of the art
+(Slantchev 2011).
 
 \begin{figure}
 \hypertarget{fig-recall-cuba}{%
@@ -1091,23 +1115,22 @@ any of the other event datasets (SI Appendix 3.2 and
 }
 \end{figure}
 
-(\textbf{fig-cuba-crisismap?}) shows the crisis map for the Cuban
-Missile Crisis. Looking at the crisis on a timeline, one can now
-identify the structure of actors and the environment, along with its
-supporting details, in a way that validates the precision of ICBe.
-Although harder to measure objectively, this crisis map provides face
-valid evidence that ICBe's account is not too vague, but also not
-unnecessarily detailed. We include much of the geopolitically important
-details like Soviet deployment, US discovery of that deployment,
-heightened alert levels, a blockade, and negotiations that ended with a
-formal agreement. At the same time, the crisis map indicates that ICBe
-does not include unnecessary nuances that preclude useful comparison to
-other international events.
+Figure 5 shows the crisis map for the Cuban Missile Crisis. Looking at
+the crisis on a timeline, one can now identify the structure of actors
+and the environment, along with its supporting details, in a way that
+validates the precision of ICBe. Although harder to measure objectively,
+this crisis map provides face valid evidence that ICBe's account is not
+too vague, but also not unnecessarily detailed. We include much of the
+geopolitically important details like Soviet deployment, US discovery of
+that deployment, heightened alert levels, a blockade, and negotiations
+that ended with a formal agreement. At the same time, the crisis map
+indicates that ICBe does not include unnecessary nuances that preclude
+useful comparison to other international events.
 
 \begin{figure}
 \hypertarget{fig-cuba-crisismap}{%
 \centering
-\includegraphics{p_196_icbe.png}
+\includegraphics[width=6in,height=\textheight]{p_196_icbe.png}
 \caption{Crisis map for the Cuban Missile Crisis. The start of the
 crisis is at the top and end of the crisis is the bottom, with each
 actor in a column with labeled points identifying their speeches,
@@ -1119,23 +1142,22 @@ actions, and thoughts.}\label{fig-cuba-crisismap}
 \subsection{Crimea-Donbas (2014)}\label{crimea-donbas-2014}}
 
 A synthetic historical narrative for the 2014 Crimea-Donbas crisis (30
-events drawn from 971 documents) appears in
-(\textbf{fig-recall-crimea?}). As in the earlier case, rows represent
-details that appeared in at least five documents and whether it is
-identified in ICBe and existing datasets.
+events drawn from 971 documents) appears in Figure 6. As in the earlier
+case, rows represent details that appeared in at least five documents
+and whether it is identified in ICBe and existing datasets.
 
-Again quantitatively summarized earlier in Section 3.2
-((\textbf{fig-recall-cases?})), our ground truth ICB narrative contains
-23/30 of the events from the synthetic narrative. Like the gray zone
-precursor to the Cuban Missile crisis (Cormac and Aldrich 2018), Ukraine
-provided several security guarantees to Russia that were potentially
-undone, e.g.~a long term lease on naval facilities in Crimea. But unlike
-the Cuban Missile crisis, the end of this crisis is unclear, with the
-event meekly ending with a second cease-fire agreement (Minsk II) but
-continued fighting. ICBe again recalls more important information about
-the crisis than any existing dataset, particularly information
-concerning the behavior of non-state separatist groups like the Donetsk
-People's Republic (DPR) and Luhansk People's Republic (LPR).
+Again quantitatively summarized earlier in Section 3.2 (Figure 2), our
+ground truth ICB narrative contains 23/30 of the events from the
+synthetic narrative. Like the gray zone precursor to the Cuban Missile
+crisis (Cormac and Aldrich 2018), Ukraine provided several security
+guarantees to Russia that were potentially undone, e.g.~a long term
+lease on naval facilities in Crimea. But unlike the Cuban Missile
+crisis, the end of this crisis is unclear, with the event meekly ending
+with a second cease-fire agreement (Minsk II) but continued fighting.
+ICBe again recalls more important information about the crisis than any
+existing dataset, particularly information concerning the behavior of
+non-state separatist groups like the Donetsk People's Republic (DPR) and
+Luhansk People's Republic (LPR).
 
 \begin{figure}
 \hypertarget{fig-recall-crimea}{%
@@ -1164,18 +1186,18 @@ known ground truths, e.g.~geolocation (Cook and Weidmann 2019), protest
 events (80\%) (Wüest and Lorenzini 2020), anti-government protest
 networks (46.1\%) (Jäger 2018).
 
-We take the same approach here in (\textbf{fig-precision-icews?}),
-selecting four specific CAMEO event codings and checking how often they
-reflect a true real-world event from the Crimea-Donbas synthetic
-narrative. We choose four event types around key moments in the crisis.
-The start of the crisis revolves around Ukraine backing out of a trade
-deal with the EU in favor of Russia, but ``sign formal agreement''
-events act more like a topic detector with dozens of events generated by
-discussions of a possible agreement but not the actual agreement which
-never materialized. The switch is caught by the ``reject plan, agreement
-to settle dispute'', but also continues for Viktor Yanukovych even after
-he was removed from power because of articles retroactively discussing
-the cause of his removal. Events for ``use conventional military force''
+We take the same approach here in Figure 7, selecting four specific
+CAMEO event codings and checking how often they reflect a true
+real-world event from the Crimea-Donbas synthetic narrative. We choose
+four event types around key moments in the crisis. The start of the
+crisis revolves around Ukraine backing out of a trade deal with the EU
+in favor of Russia, but ``sign formal agreement'' events act more like a
+topic detector with dozens of events generated by discussions of a
+possible agreement but not the actual agreement which never
+materialized. The switch is caught by the ``reject plan, agreement to
+settle dispute'', but also continues for Viktor Yanukovych even after he
+was removed from power because of articles retroactively discussing the
+cause of his removal. Events for ``use conventional military force''
 capture a threshold around the start of hostilities and who the
 participants were but not any particular battles or campaigns. Likewise,
 ``impose embargo, boycott, or sanctions'' captures the start of waves of
@@ -1189,7 +1211,7 @@ chess-like sequencing that ICBe aims to record.
 \begin{figure}
 \hypertarget{fig-precision-icews}{%
 \centering
-\includegraphics{p_precision_icews.png}
+\includegraphics[width=7in,height=5in]{p_precision_icews.png}
 \caption{The unit of analysis is the dyad-day. Top 10 most active dyads
 per category shown. Red text shows events from the synthetic narrative
 relative to that event category. Blue bars indicate an event recorded by
@@ -1222,22 +1244,22 @@ International Crisis Behavior Events (ICBe) dataset, an event-level
 aggregation of what took place during the crises identified by the ICB
 project. These data are appropriate for statistical analysis of hard
 questions about the sequencing of events (e.g.~escalation and
-de-escalation of conflicts).\footnote{Using ICBe data J. Andrés Gannon
-  (2022) finds that cross-domain crises are shorter and less violent
-  than same-domain crises.} Second, we provide a coder-level
-disaggregation with multiple codings of each sentence by experts and
-undergrads that allows for the introduction of uncertainty and human
-interpretation of events. Further, we release a direct mapping from the
-codings to the source text at the sentence level as a new resource for
-natural language processing. Finally, we provide a companion website
-that incorporates detailed visualizations of all of the data introduced
-here at crisisevents.org.
+de-escalation of conflicts).\footnote{Using ICBe data, Gannon (2022)
+  finds that cross-domain crises are shorter and less violent than
+  same-domain crises.} Second, we provide a coder-level disaggregation
+with multiple codings of each sentence by experts and undergrads that
+allows for the introduction of uncertainty and human interpretation of
+events. Further, we release a direct mapping from the codings to the
+source text at the sentence level as a new resource for natural language
+processing. Finally, we provide a companion website that incorporates
+detailed visualizations of all of the data introduced here at
+crisisevents.org.
 
 \hypertarget{funding}{%
 \section{Funding}\label{funding}}
 
 This work was supported by a grant from the Office of Naval Research
-\[N00014-19-1-2491\] and from the Charles Koch Foundation \[20180481\].
+\(N00014-19-1-2491\) and from the Charles Koch Foundation \(20180481\).
 The financial sponsors played no in the design, execution, analysis and
 interpretation of data, or writing of the study.
 
@@ -1457,7 +1479,7 @@ Crises}.''} \emph{International Studies Quarterly} 66 (4): sqac065.
 \url{https://doi.org/10.1093/isq/sqac065}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-gannonShadowDeterrenceWhy2022}{}}%
-Gannon, J. Andrés, Erik Gartzke, Jon R. Lindsay, and Peter Schram. 2022.
+Gannon, J Andrés, Erik Gartzke, Jon R. Lindsay, and Peter Schram. 2022.
 {``The {Shadow} of {Deterrence}: {Why Capable Actors Engage} in
 {Contests Short} of {War}.''} \emph{Journal of Conflict Resolution},
 00220027231166345.
