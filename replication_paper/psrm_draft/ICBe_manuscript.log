@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.13)  17 AUG 2023 19:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.13)  19 AUG 2023 19:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -926,116 +926,110 @@ Overfull \hbox (36.13689pt too wide) in paragraph at lines 322--322
 Underfull \vbox (badness 1946) has occurred while \output is active []
 
 [3] [4 <./case_study_cuban_precision.png>] [5]
-Overfull \hbox (3.36285pt too wide) in paragraph at lines 429--429
+Overfull \hbox (3.36285pt too wide) in paragraph at lines 454--454
  []|[]\T1/lmr/m/n/6 (-20) 28.4M[]| 
  []
 
 
-Overfull \hbox (3.36285pt too wide) in paragraph at lines 429--429
+Overfull \hbox (3.36285pt too wide) in paragraph at lines 454--454
  []|[]\T1/lmr/m/n/6 (-20) 17.5M[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 445--445
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 470--470
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 445--445
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 470--470
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 445--445
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 470--470
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
 
-Overfull \hbox (0.56956pt too wide) in paragraph at lines 445--445
+Overfull \hbox (0.56956pt too wide) in paragraph at lines 470--470
  []|[]\T1/lmr/m/n/6 (-20) News[]| 
  []
 
 [6
 
-] [7] [8
+] [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[8
 
 ] [9] [10] [11]
 <p_recall.png, id=175, 361.35pt x 216.81pt>
 File: p_recall.png Graphic file (type png)
 <use p_recall.png>
-Package pdftex.def Info: p_recall.png  used on input line 982.
+Package pdftex.def Info: p_recall.png  used on input line 996.
 (pdftex.def)             Requested size: 361.34912pt x 216.80946pt.
 [12 <./p_recall.png>]
 <p_semantic_embeddings_dendro.png, id=184, 867.24pt x 722.7pt>
 File: p_semantic_embeddings_dendro.png Graphic file (type png)
 <use p_semantic_embeddings_dendro.png>
 Package pdftex.def Info: p_semantic_embeddings_dendro.png  used on input line 1
-050.
+064.
 (pdftex.def)             Requested size: 505.89758pt x 505.88655pt.
 
-Overfull \hbox (36.1426pt too wide) in paragraph at lines 1050--1050
+Overfull \hbox (36.1426pt too wide) in paragraph at lines 1064--1064
  [][] 
  []
 
-
-Underfull \vbox (badness 2065) has occurred while \output is active []
-
 [13] [14 <./p_semantic_embeddings_dendro.png>]
-<case_study_cuban_recall.png, id=200, 366.77025pt x 387.00584pt>
+<case_study_cuban_recall.png, id=201, 366.77025pt x 387.00584pt>
 File: case_study_cuban_recall.png Graphic file (type png)
 <use case_study_cuban_recall.png>
-Package pdftex.def Info: case_study_cuban_recall.png  used on input line 1115.
+Package pdftex.def Info: case_study_cuban_recall.png  used on input line 1129.
 (pdftex.def)             Requested size: 366.76935pt x 387.00488pt.
-<p_196_icbe.png, id=201, 975.645pt x 1300.86pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[15 <./case_study_cuban_recall.png>]
+<p_196_icbe.png, id=209, 975.645pt x 1300.86pt>
 File: p_196_icbe.png Graphic file (type png)
 <use p_196_icbe.png>
-Package pdftex.def Info: p_196_icbe.png  used on input line 1138.
+Package pdftex.def Info: p_196_icbe.png  used on input line 1152.
 (pdftex.def)             Requested size: 433.61728pt x 650.44826pt.
 
-LaTeX Warning: Float too large for page by 28.91824pt on input line 1139.
+LaTeX Warning: Float too large for page by 28.91824pt on input line 1153.
 
-[15]
-<case_study_crimea_recall.png, id=208, 383.7537pt x 281.853pt>
+<case_study_crimea_recall.png, id=210, 383.7537pt x 281.853pt>
 File: case_study_crimea_recall.png Graphic file (type png)
 <use case_study_crimea_recall.png>
-Package pdftex.def Info: case_study_crimea_recall.png  used on input line 1172.
+Package pdftex.def Info: case_study_crimea_recall.png  used on input line 1186.
 
 (pdftex.def)             Requested size: 383.75275pt x 281.85231pt.
-
-Underfull \vbox (badness 3323) has occurred while \output is active []
-
-[16 <./case_study_cuban_recall.png>] [17 <./p_196_icbe.png>]
+[16] [17 <./p_196_icbe.png>]
 <p_precision_icews.png, id=222, 1011.78pt x 722.7pt>
 File: p_precision_icews.png Graphic file (type png)
 <use p_precision_icews.png>
-Package pdftex.def Info: p_precision_icews.png  used on input line 1219.
+Package pdftex.def Info: p_precision_icews.png  used on input line 1233.
 (pdftex.def)             Requested size: 505.88876pt x 361.3491pt.
 
-Overfull \hbox (36.13377pt too wide) in paragraph at lines 1219--1219
+Overfull \hbox (36.13377pt too wide) in paragraph at lines 1233--1233
  [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[18 <./case_study_crimea_recall.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[19 <./p_precision_icews.png>] [20] [21]
-Underfull \hbox (badness 2951) in paragraph at lines 1344--1350
+[18 <./case_study_crimea_recall.png>] [19 <./p_precision_icews.png>] [20]
+Underfull \hbox (badness 2951) in paragraph at lines 1358--1364
 []\T1/lmr/m/n/10 (+20) Beardsley, Kyle, Patrick James, Jonathan Wilken-feld, an
 d Michael Brecher. 2020. ``The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1344--1350
+Underfull \hbox (badness 10000) in paragraph at lines 1358--1364
 \T1/lmr/m/n/10 (+20) In-ter-na-tional Cri-sis Be-hav-ior Project.'' \T1/lmr/m/i
 t/10 (+20) Ox-ford Re-search En-cy-clo-pe-dia of Pol-i-tics\T1/lmr/m/n/10 (+20)
  .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1344--1350
+Underfull \hbox (badness 10000) in paragraph at lines 1358--1364
 \T1/lmr/m/n/10 (+11) https://oxfordre.com/politics/view/10.1093/acrefore/978019
 0228637.001.0001/acrefore-9780190228637-
  []
@@ -1043,9 +1037,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1344--1350
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[22
+[21
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [23]
@@ -1057,10 +1054,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[26]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[27] [28] (./ICBe_manuscript.aux)
+[26] [27] (./ICBe_manuscript.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1068,13 +1062,13 @@ Package rerunfilecheck Info: File `ICBe_manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: C4DB2856EA416EF25D0182B10F2E1740;3032.
  ) 
 Here is how much of TeX's memory you used:
- 18040 strings out of 478287
- 299704 string characters out of 5849289
- 808705 words of memory out of 5000000
+ 18039 strings out of 478287
+ 299697 string characters out of 5849289
+ 822870 words of memory out of 5000000
  35466 multiletter control sequences out of 15000+600000
  537128 words of font info for 181 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,12n,131p,2989b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,12n,131p,3132b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not ex
 ist, replaced by a fixed one
 
@@ -1124,10 +1118,10 @@ ic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share
 lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 zapfding/uzdr.pfb>
-Output written on ICBe_manuscript.pdf (28 pages, 4299173 bytes).
+Output written on ICBe_manuscript.pdf (27 pages, 4299838 bytes).
 PDF statistics:
- 591 PDF objects out of 1000 (max. 8388607)
- 512 compressed objects within 6 object streams
- 193 named destinations out of 1000 (max. 500000)
+ 586 PDF objects out of 1000 (max. 8388607)
+ 508 compressed objects within 6 object streams
+ 192 named destinations out of 1000 (max. 500000)
  33980 words of extra memory for PDF output out of 35830 (max. 10000000)
 

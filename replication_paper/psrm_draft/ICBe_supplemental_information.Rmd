@@ -183,7 +183,9 @@ icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
 # Corpus and Cases
 ## ICBe Crises and Summary Information {#app:crises}
 
-```{r ICBe Crisis Summaries, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F}
+```{r ICBe Crisis Summaries, eval=F, echo=F, results='hide', include=T, message=F, cache=F, warning=F}
+
+# Not evaluated for R&R
 
 #The answer is I have to include it as an image, none of the table options were compiling correctly without error
 #,  ft.arraystretch=0.75 
@@ -246,7 +248,7 @@ convert_to_ft <- function(x){
       ftExtra::colformat_md(j = 9:11, part="body")
 }
 
-temp_all %>% ungroup() %>% filter(crisno %in% c(1:60) )  %>% convert_to_ft() %>%
+temp_all %>% ungroup() %>% filter(crisno %in% c(1:60)) %>% convert_to_ft() %>%
   save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft1.png"), zoom=1)
 
 temp_all %>% ungroup() %>% filter(crisno %in% c(61:120) ) %>% convert_to_ft()  %>% 
@@ -1082,7 +1084,7 @@ Coding changes: End Date changed from February 26, 1962.
 -->
 
 
-```{r}
+```{r, eval=F}
 
 
 
@@ -1144,7 +1146,7 @@ ft_cuba_recall %>% save_as_image(path=here::here("replication_paper", "psrm_draf
 \hphantom{em}
 
 
-```{r}
+```{r, eval=F}
 
 crimea_recall <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1YesAx1CkYCgrEi_WVJ9aho60HesWA6p-3XMma9IzBrI/edit?usp=sharing", 
                                 sheet="final") %>% janitor::clean_names()                                
@@ -1205,7 +1207,7 @@ ft_crimea_recall %>% save_as_image(path=here::here("replication_paper", "psrm_dr
 ## Crimea-Donbas Narrative
 \hphantom{em}
 
-```{r crimea case study precision, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
+```{r crimea case study precision, eval=F, results='hide', echo=F, include=T, message=F, cache=F}
 
 #Move this to the appendix
 
@@ -1293,7 +1295,7 @@ if(fromscratch){
 
 ## Stratified Sentence Examples
 
-```{r Stratified Sentence Examples, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
+```{r Stratified Sentence Examples, eval=F, results='hide', echo=F, include=T, message=F, cache=F}
 
 temp <- ICBe_events_agreed %>% left_join(ICBe_events_agreed_markdown) %>% dplyr::select(
   crisno, sentence_span_text,value_markdown,
