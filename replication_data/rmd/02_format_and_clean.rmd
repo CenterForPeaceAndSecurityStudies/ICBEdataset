@@ -197,6 +197,8 @@ dates_normalized <- dictionary_dates %>%
 
 
 dictionary_actions  <- readxl::read_excel(target_file, sheet="actions") %>% dplyr::distinct() 
+dictionary_condition_actions  <- readxl::read_excel(target_file, sheet="condition_actions") %>% dplyr::distinct() 
+
 dictionary_actors    <- readxl::read_excel(target_file, sheet="actors") %>% dplyr::select(crisno,value, value_qcode=value_normalized_wikidata_id, value_normalized=value_normalized_label) %>% dplyr::distinct() %>%
                         full_join(varname_count %>% dplyr::select(varname) %>% filter(varname %>% str_detect("actor")),  by = character())
 
@@ -324,6 +326,7 @@ dictionary_counts <- data.frame(
 )
 
 normalization_dictionaries <- bind_rows(dictionary_actions %>% rename(varname=variable, varname_normalized=variable_normalized),
+                                        dictionary_condition_actions %>% rename(varname=variable, varname_normalized=variable_normalized),
                                         dictionary_locations,
                                         dictionary_condition_locations,
                                         dictionary_units,
