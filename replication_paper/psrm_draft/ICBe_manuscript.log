@@ -1,15 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.13)  20 AUG 2023 14:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.13)  20 NOV 2023 14:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **ICBe_manuscript.tex
 (./ICBe_manuscript.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base
-/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-11-02> (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -19,58 +18,56 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (./arxiv.sty (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (./arxiv.sty (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count193
 \Gm@cntv=\count194
 \c@Gm@tempcnt=\count195
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks17
-) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
-rs
-\f@nch@headwidth=\skip49
-\f@nch@O@elh=\skip50
-\f@nch@O@erh=\skip51
-\f@nch@O@olh=\skip52
-\f@nch@O@orh=\skip53
-\f@nch@O@elf=\skip54
-\f@nch@O@erf=\skip55
-\f@nch@O@olf=\skip56
-\f@nch@O@orf=\skip57
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
 )
-\@abovecaptionskip=\skip58
-\@belowcaptionskip=\skip59
-) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+\@abovecaptionskip=\skip59
+\@belowcaptionskip=\skip60
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
-) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
-2.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 112.
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-)) (/usr/share/texmf/tex/latex/lm/lmodern.sty
-Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+)) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
@@ -103,134 +100,133 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count196
 )
-\@linkdim=\dimen147
-\Hy@linkcounter=\count196
-\Hy@pagecounter=\count197
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+\@linkdim=\dimen149
+\Hy@linkcounter=\count197
+\Hy@pagecounter=\count198
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
-) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count198
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count199
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count199
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count266
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen148
-(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen150
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count266
-\Field@Width=\dimen149
-\Fld@charsize=\dimen150
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+\Fld@menulength=\count267
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count267
-\c@Item=\count268
-\c@Hfootnote=\count269
+\Hy@abspage=\count268
+\c@Item=\count269
+\c@Hfootnote=\count270
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
-(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count270
-\c@bookmark@seq@number=\count271
-(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+\Fld@listcount=\count271
+\c@bookmark@seq@number=\count272
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip60
-) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+\Hy@SectionHShift=\skip61
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen151
-\lightrulewidth=\dimen152
-\cmidrulewidth=\dimen153
-\belowrulesep=\dimen154
-\belowbottomsep=\dimen155
-\aboverulesep=\dimen156
-\abovetopsep=\dimen157
-\cmidrulesep=\dimen158
-\cmidrulekern=\dimen159
-\defaultaddspace=\dimen160
-\@cmidla=\count272
-\@cmidlb=\count273
-\@aboverulesep=\dimen161
-\@belowrulesep=\dimen162
-\@thisruleclass=\count274
-\@lastruleclass=\count275
-\@thisrulewidth=\dimen163
-) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+\heavyrulewidth=\dimen153
+\lightrulewidth=\dimen154
+\cmidrulewidth=\dimen155
+\belowrulesep=\dimen156
+\belowbottomsep=\dimen157
+\aboverulesep=\dimen158
+\abovetopsep=\dimen159
+\cmidrulesep=\dimen160
+\cmidrulekern=\dimen161
+\defaultaddspace=\dimen162
+\@cmidla=\count273
+\@cmidlb=\count274
+\@aboverulesep=\dimen163
+\@belowrulesep=\dimen164
+\@thisruleclass=\count275
+\@lastruleclass=\count276
+\@thisrulewidth=\dimen165
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks20
 \symAMSa=\mathgroup4
@@ -238,394 +234,394 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/units/nicefrac.sty
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip61
-\L@UnitsRaiseTextstyle=\skip62
-\L@UnitsRaiseScriptstyle=\skip63
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
-)) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+\L@UnitsRaiseDisplaystyle=\skip62
+\L@UnitsRaiseTextstyle=\skip63
+\L@UnitsRaiseScriptstyle=\skip64
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count276
+\etb@tempcnta=\count277
 )
 \MT@toks=\toks21
-\MT@count=\count277
-\MT@tempbox=\box50
-LaTeX Info: Redefining \leftprotrusion on input line 1010.
-LaTeX Info: Redefining \rightprotrusion on input line 1018.
-LaTeX Info: Redefining \textls on input line 1173.
-\MT@outer@kern=\dimen164
-LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
-\MT@listname@count=\count278
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
-
-LaTeX Info: Redefining \lsstyle on input line 897.
-LaTeX Info: Redefining \lslig on input line 897.
-\MT@outer@space=\skip64
+\MT@tempbox=\box51
+\MT@count=\count278
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
+LaTeX Info: Redefining \leftprotrusion on input line 1046.
+LaTeX Info: Redefining \rightprotrusion on input line 1056.
+LaTeX Info: Redefining \textls on input line 1234.
+\MT@outer@kern=\dimen166
+LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
+\MT@listname@count=\count279
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
+\MT@outer@space=\skip65
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
-)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
+)) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen165
-\Gin@req@width=\dimen166
+\Gin@req@height=\dimen167
+\Gin@req@width=\dimen168
 )
-\cslhangindent=\skip65
-\csllabelwidth=\skip66
-\cslentryspacingunit=\skip67
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+\cslhangindent=\skip66
+\csllabelwidth=\skip67
+\cslentryspacingunit=\skip68
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count279
-\calc@Bcount=\count280
-\calc@Adimen=\dimen167
-\calc@Bdimen=\dimen168
-\calc@Askip=\skip68
-\calc@Bskip=\skip69
+\calc@Acount=\count280
+\calc@Bcount=\count281
+\calc@Adimen=\dimen169
+\calc@Bdimen=\dimen170
+\calc@Askip=\skip69
+\calc@Bskip=\skip70
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count281
-\calc@Cskip=\skip70
-) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
+\calc@Ccount=\count282
+\calc@Cskip=\skip71
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
 LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/psnfss/upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
-)) (/usr/share/texlive/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+)) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
 Package: newunicodechar 2018/04/08 v1.2 Defining Unicode characters
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen169
-\ar@mcellbox=\box51
-\extrarowheight=\dimen170
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen171
+\ar@mcellbox=\box52
+\extrarowheight=\dimen172
 \NC@list=\toks22
-\extratabsurround=\skip71
-\backup@length=\skip72
-\ar@cellbox=\box52
-) (/usr/share/texlive/texmf-dist/tex/latex/ctable/ctable.sty
-Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of tab
-le and figure floats using key/value directives
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+\extratabsurround=\skip72
+\backup@length=\skip73
+\ar@cellbox=\box53
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/ctable/ctable.sty
+Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of table and figure floats using key/value directives
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-) (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texl
-ive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks23
 \XKV@tempa@toks=\toks24
 )
-\XKV@depth=\count282
+\XKV@depth=\count283
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+)) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen171
-\TX@old@table=\dimen172
-\TX@old@col=\dimen173
-\TX@target=\dimen174
-\TX@delta=\dimen175
-\TX@cols=\count283
+\TX@col@width=\dimen173
+\TX@old@table=\dimen174
+\TX@old@col=\dimen175
+\TX@target=\dimen176
+\TX@delta=\dimen177
+\TX@cols=\count284
 \TX@ftn=\toks25
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count284
-\rotFPtop=\skip73
-\rotFPbot=\skip74
-\rot@float@box=\box53
+\c@r@tfl@t=\count285
+\rotFPtop=\skip74
+\rotFPbot=\skip75
+\rot@float@box=\box54
 \rot@mess@toks=\toks26
-) (/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
-Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
-
-)
-\@CTframesep=\dimen176
-\@dfltCTframesep=\dimen177
-\@CTframerule=\dimen178
-\@dfltCTframerule=\dimen179
-\@CTwidth=\dimen180
-\@dfltCTwidth=\dimen181
-\@CTcaptionskip=\dimen182
-\@dfltCTcaptionskip=\dimen183
-\@CTmaxwidth=\dimen184
-\@dfltCTmaxwidth=\dimen185
-\@CTmincapwidth=\dimen186
-\@dfltCTmincapwidth=\dimen187
-\@CTfooterwidth=\dimen188
-\@dfltCTfooterwidth=\dimen189
-\@CTw=\dimen190
-\@CTfloatwidth=\dimen191
-\@CToldsep=\dimen192
-\@CToldrule=\dimen193
-\CT@t=\box54
-\@CTcurftwidth=\dimen194
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2022-10-27 v1.5 Transparency with color stacks
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color stack (HO)
+))
+\@CTframesep=\dimen178
+\@dfltCTframesep=\dimen179
+\@CTframerule=\dimen180
+\@dfltCTframerule=\dimen181
+\@CTwidth=\dimen182
+\@dfltCTwidth=\dimen183
+\@CTcaptionskip=\dimen184
+\@dfltCTcaptionskip=\dimen185
+\@CTmaxwidth=\dimen186
+\@dfltCTmaxwidth=\dimen187
+\@CTmincapwidth=\dimen188
+\@dfltCTmincapwidth=\dimen189
+\@CTfooterwidth=\dimen190
+\@dfltCTfooterwidth=\dimen191
+\@CTw=\dimen192
+\@CTfloatwidth=\dimen193
+\@CToldsep=\dimen194
+\@CToldrule=\dimen195
+\CT@t=\box55
+\@CTcurftwidth=\dimen196
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip75
-\LTright=\skip76
-\LTpre=\skip77
-\LTpost=\skip78
-\LTchunksize=\count285
-\LTcapwidth=\dimen195
-\LT@head=\box55
-\LT@firsthead=\box56
-\LT@foot=\box57
-\LT@lastfoot=\box58
-\LT@gbox=\box59
-\LT@cols=\count286
-\LT@rows=\count287
-\c@LT@tables=\count288
-\c@LT@chunks=\count289
+\LTleft=\skip76
+\LTright=\skip77
+\LTpre=\skip78
+\LTpost=\skip79
+\LTchunksize=\count286
+\LTcapwidth=\dimen197
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count287
+\LT@rows=\count288
+\c@LT@tables=\count289
+\c@LT@chunks=\count290
 \LT@p@ftn=\toks27
-) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip79
-\multirow@cntb=\count290
-\multirow@dima=\skip80
-\bigstrutjot=\dimen196
-) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen197
-\WF@size=\dimen198
-\c@WF@wrappedlines=\count291
-\WF@box=\box60
+\multirow@colwidth=\skip80
+\multirow@cntb=\count291
+\multirow@dima=\skip81
+\bigstrutjot=\dimen198
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen199
+\WF@size=\dimen256
+\c@WF@wrappedlines=\count292
+\WF@box=\box61
 \WF@everypar=\toks28
 Package: wrapfig 2003/01/31  v 3.6
-) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
 \everycr=\toks29
-\minrowclearance=\skip81
-) (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+\minrowclearance=\skip82
+\rownum=\count293
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-) (/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
-Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed) + inter
-mediate FMi
-(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+)) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box61
-\sift@deathcycles=\count292
-\@vwid@loff=\dimen199
-\@vwid@roff=\dimen256
+\@vwid@box=\box62
+\sift@deathcycles=\count294
+\@vwid@loff=\dimen257
+\@vwid@roff=\dimen258
 )
-\c@taburow=\count293
-\tabu@nbcols=\count294
-\tabu@cnt=\count295
-\tabu@Xcol=\count296
-\tabu@alloc=\count297
-\tabu@nested=\count298
-\tabu@target=\dimen257
-\tabu@spreadtarget=\dimen258
-\tabu@naturalX=\dimen259
-\tabucolX=\dimen260
-\tabu@Xsum=\dimen261
-\extrarowdepth=\dimen262
-\abovetabulinesep=\dimen263
-\belowtabulinesep=\dimen264
-\tabustrutrule=\dimen265
+\c@taburow=\count295
+\tabu@nbcols=\count296
+\tabu@cnt=\count297
+\tabu@Xcol=\count298
+\tabu@alloc=\count299
+\tabu@nested=\count300
+\tabu@target=\dimen259
+\tabu@spreadtarget=\dimen260
+\tabu@naturalX=\dimen261
+\tabucolX=\dimen262
+\tabu@Xsum=\dimen263
+\extrarowdepth=\dimen264
+\abovetabulinesep=\dimen265
+\belowtabulinesep=\dimen266
+\tabustrutrule=\dimen267
 \tabu@thebody=\toks30
 \tabu@footnotes=\toks31
-\tabu@box=\box62
-\tabu@arstrutbox=\box63
-\tabu@hleads=\box64
-\tabu@vleads=\box65
-\tabu@cellskip=\skip82
-) (/usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+\tabu@box=\box63
+\tabu@arstrutbox=\box64
+\tabu@hleads=\box65
+\tabu@vleads=\box66
+\tabu@cellskip=\skip83
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box66
-) (/usr/share/texlive/texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
+\@tempboxb=\box67
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
 Package: threeparttablex 2013/07/23 v0.3 by daleif
-(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks32
 )
-\TPTL@width=\skip83
-) (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box67
-\UL@hyphenbox=\box68
-\UL@skip=\skip84
+\TPTL@width=\skip84
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box68
+\UL@hyphenbox=\box69
+\UL@skip=\skip85
 \UL@hook=\toks33
-\UL@height=\dimen266
-\UL@pe=\count299
-\UL@pixel=\dimen267
-\ULC@box=\box69
+\UL@height=\dimen268
+\UL@pe=\count301
+\UL@pixel=\dimen269
+\ULC@box=\box70
 Package: ulem 2019/11/18
-\ULdepth=\dimen268
-) (/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
+\ULdepth=\dimen270
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen269
-\c@nlinenum=\count300
+\rotheadsize=\dimen271
+\c@nlinenum=\count302
 \TeXr@lab=\toks34
-) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box70
-\beforetitleunit=\skip85
-\aftertitleunit=\skip86
-\ttl@plus=\dimen270
-\ttl@minus=\dimen271
+\ttl@box=\box71
+\beforetitleunit=\skip86
+\aftertitleunit=\skip87
+\ttl@plus=\dimen272
+\ttl@minus=\dimen273
 \ttl@toksa=\toks35
-\titlewidth=\dimen272
-\titlewidthlast=\dimen273
-\titlewidthfirst=\dimen274
-) (/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+\titlewidth=\dimen274
+\titlewidthlast=\dimen275
+\titlewidthfirst=\dimen276
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
-) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-) (/usr/share/texlive/texmf-dist/tex/latex/cellspace/cellspace.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/cellspace/cellspace.sty
 Package: cellspace 2022/01/04 v1.9.0 Spacing table cells (JN)
-\cellspacetoplimit=\dimen275
-\cellspacebottomlimit=\dimen276
-\cellspace@firstht=\dimen277
-\cellspace@lastdp=\dimen278
-) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2020/10/26 v3.5g Customizing captions (AR)
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen279
-\captionmargin@=\dimen280
-\captionwidth=\dimen281
-\caption@tempdima=\dimen282
-\caption@indent=\dimen283
-\caption@parindent=\dimen284
-\caption@hangindent=\dimen285
+\cellspacetoplimit=\dimen277
+\cellspacebottomlimit=\dimen278
+\cellspace@firstht=\dimen279
+\cellspace@lastdp=\dimen280
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen281
+\captionmargin=\dimen282
+\caption@leftmargin=\dimen283
+\caption@rightmargin=\dimen284
+\caption@width=\dimen285
+\caption@indent=\dimen286
+\caption@parindent=\dimen287
+\caption@hangindent=\dimen288
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count301
-\c@continuedfloat=\count302
+\c@caption@flags=\count303
+\c@continuedfloat=\count304
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
-\c@subfigure=\count303
-\c@subtable=\count304
-) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+\c@subfigure=\count305
+\c@subtable=\count306
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count305
+\c@float@type=\count307
 \float@exts=\toks36
-\float@box=\box71
+\float@box=\box72
 \@float@everytoks=\toks37
-\@floatcapt=\box72
-) (/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+\@floatcapt=\box73
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count306
-\algocf@hangindent=\skip87
-(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count307
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+\c@AlgoLine=\count308
+\algocf@hangindent=\skip88
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count309
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
-) (/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-\skiptotal=\skip88
-\skiplinenumber=\skip89
-\skiprule=\skip90
-\skiphlne=\skip91
-\skiptext=\skip92
-\skiplength=\skip93
-\algomargin=\skip94
-\skipalgocfslide=\skip95
-\algowidth=\dimen286
-\inoutsize=\dimen287
-\inoutindent=\dimen288
-\interspacetitleruled=\dimen289
-\interspacealgoruled=\dimen290
-\interspacetitleboxruled=\dimen291
-\algocf@ruledwidth=\skip96
-\algocf@inoutbox=\box73
-\algocf@inputbox=\box74
-\AlCapSkip=\skip97
-\AlCapHSkip=\skip98
-\algoskipindent=\skip99
-\algocf@nlbox=\box75
-\algocf@hangingbox=\box76
-\algocf@untilbox=\box77
-\algocf@skipuntil=\skip100
-\algocf@capbox=\box78
-\algocf@lcaptionbox=\skip101
-\algoheightruledefault=\skip102
-\algoheightrule=\skip103
-\algotitleheightruledefault=\skip104
-\algotitleheightrule=\skip105
-\c@algocfline=\count308
-\c@algocfproc=\count309
-\c@algocf=\count310
-\algocf@algoframe=\box79
-\algocf@algobox=\box80
-) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
+\skiptotal=\skip89
+\skiplinenumber=\skip90
+\skiprule=\skip91
+\skiphlne=\skip92
+\skiptext=\skip93
+\skiplength=\skip94
+\algomargin=\skip95
+\skipalgocfslide=\skip96
+\algowidth=\dimen289
+\inoutsize=\dimen290
+\inoutindent=\dimen291
+\interspacetitleruled=\dimen292
+\interspacealgoruled=\dimen293
+\interspacetitleboxruled=\dimen294
+\algocf@ruledwidth=\skip97
+\algocf@inoutbox=\box74
+\algocf@inputbox=\box75
+\AlCapSkip=\skip98
+\AlCapHSkip=\skip99
+\algoskipindent=\skip100
+\algocf@nlbox=\box76
+\algocf@hangingbox=\box77
+\algocf@untilbox=\box78
+\algocf@skipuntil=\skip101
+\algocf@capbox=\box79
+\algocf@lcaptionbox=\skip102
+\algoheightruledefault=\skip103
+\algoheightrule=\skip104
+\algotitleheightruledefault=\skip105
+\algotitleheightrule=\skip106
+\c@algocfline=\count310
+\c@algocfproc=\count311
+\c@algocf=\count312
+\algocf@algoframe=\box80
+\algocf@algobox=\box81
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count311
-\cp@tempcnt=\count312
+\c@cp@cntr=\count313
+\cp@tempcnt=\count314
 LaTeX Info: Redefining \checkoddpage on input line 59.
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
-\c@tracingmulticols=\count313
-\mult@box=\box81
-\multicol@leftmargin=\dimen292
-\c@unbalance=\count314
-\c@collectmore=\count315
-\doublecol@number=\count316
-\multicoltolerance=\count317
-\multicolpretolerance=\count318
-\full@width=\dimen293
-\page@free=\dimen294
-\premulticols=\dimen295
-\postmulticols=\dimen296
-\multicolsep=\skip106
-\multicolbaselineskip=\skip107
-\partial@page=\box82
-\last@line=\box83
-\maxbalancingoverflow=\dimen297
-\mult@rightbox=\box84
-\mult@grightbox=\box85
-\mult@firstbox=\box86
-\mult@gfirstbox=\box87
-\@tempa=\box88
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count315
+\mult@box=\box82
+\multicol@leftmargin=\dimen295
+\c@unbalance=\count316
+\c@collectmore=\count317
+\doublecol@number=\count318
+\multicoltolerance=\count319
+\multicolpretolerance=\count320
+\full@width=\dimen296
+\page@free=\dimen297
+\premulticols=\dimen298
+\postmulticols=\dimen299
+\multicolsep=\skip107
+\multicolbaselineskip=\skip108
+\partial@page=\box83
+\last@line=\box84
+\maxbalancingoverflow=\dimen300
+\mult@rightbox=\box85
+\mult@grightbox=\box86
+\mult@firstbox=\box87
+\mult@gfirstbox=\box88
 \@tempa=\box89
 \@tempa=\box90
 \@tempa=\box91
@@ -661,28 +657,28 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \@tempa=\box121
 \@tempa=\box122
 \@tempa=\box123
-\c@minrows=\count319
-\c@columnbadness=\count320
-\c@finalcolumnbadness=\count321
-\last@try=\dimen298
-\multicolovershoot=\dimen299
-\multicolundershoot=\dimen300
-\mult@nat@firstbox=\box124
-\colbreak@box=\box125
-\mc@col@check@num=\count322
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
+\@tempa=\box124
+\c@minrows=\count321
+\c@columnbadness=\count322
+\c@finalcolumnbadness=\count323
+\last@try=\dimen301
+\multicolovershoot=\dimen302
+\multicolundershoot=\dimen303
+\mult@nat@firstbox=\box125
+\colbreak@box=\box126
+\mc@col@check@num=\count324
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/tools/hhline.sty
 Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
 )
-\Oldarrayrulewidth=\skip108
-\Oldtabcolsep=\skip109
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 18
-0.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count323
-\l__pdf_internal_box=\box126
+\Oldarrayrulewidth=\skip109
+\Oldtabcolsep=\skip110
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 180.
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count325
+\l__pdf_internal_box=\box127
 ) (./ICBe_manuscript.aux)
 \openout1 = `ICBe_manuscript.aux'.
 
@@ -771,18 +767,6 @@ LaTeX Font Info:    ... okay on input line 180.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 180.
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count324
-)
-LaTeX Info: Redefining \ref on input line 180.
-LaTeX Info: Redefining \pageref on input line 180.
-LaTeX Info: Redefining \nameref on input line 180.
 (./ICBe_manuscript.out) (./ICBe_manuscript.out)
 \@outlinefile=\write3
 \openout3 = `ICBe_manuscript.out'.
@@ -804,41 +788,37 @@ LaTeX Info: Redefining \showhyphens on input line 180.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count325
-\scratchdimen=\dimen301
-\scratchbox=\box127
-\nofMPsegments=\count326
-\nofMParguments=\count327
+\scratchcounter=\count326
+\scratchdimen=\dimen304
+\scratchbox=\box128
+\nofMPsegments=\count327
+\nofMParguments=\count328
 \everyMPshowfont=\toks38
-\MPscratchCnt=\count328
-\MPscratchDim=\dimen302
-\MPnumerator=\count329
-\makeMPintoPDFobject=\count330
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen305
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
 \everyMPtoPDFconversion=\toks39
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 
 Package tabu Warning: Package cellspace has some limitations 
 (tabu)                And redefines some macros of array.sty. 
 (tabu)                Please use \tabulinesep to control 
-(tabu)                vertical spacing of lines inside tabu environnement on in
-put line 180.
+(tabu)                vertical spacing of lines inside tabu environnement on input line 180.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen303
-\caption@adjustwidth@linewidth=\dimen304
+\caption@adjustwidth@hsize=\dimen306
+\caption@adjustwidth@linewidth=\dimen307
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package microtype Info: Character `029' is missing
@@ -847,25 +827,21 @@ Package microtype Info: Character `029' is missing
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-82.
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 182.
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-82.
-(/usr/share/texmf/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 182.
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-182.
-(/usr/share/texmf/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 182.
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-182.
-(/usr/share/texmf/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 182.
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 182.
@@ -873,24 +849,21 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 182.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 182.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 182
-.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 182.
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 182
-.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 182.
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+) (/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-82.
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 182.
+(/home/andresgannon/.TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
@@ -907,15 +880,14 @@ LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/home/andresgannon/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [2]
 <case_study_cuban_precision.png, id=104, 999.735pt x 1106.1325pt>
 File: case_study_cuban_precision.png Graphic file (type png)
 <use case_study_cuban_precision.png>
-Package pdftex.def Info: case_study_cuban_precision.png  used on input line 322
-.
+Package pdftex.def Info: case_study_cuban_precision.png  used on input line 322.
 (pdftex.def)             Requested size: 505.89188pt x 578.1459pt.
 
 Overfull \hbox (36.13689pt too wide) in paragraph at lines 322--322
@@ -943,88 +915,81 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [9
 
 ] [10] [11] [12]
-<p_recall.png, id=179, 361.35pt x 216.81pt>
+<p_recall.png, id=178, 361.35pt x 216.81pt>
 File: p_recall.png Graphic file (type png)
 <use p_recall.png>
-Package pdftex.def Info: p_recall.png  used on input line 1002.
+Package pdftex.def Info: p_recall.png  used on input line 1029.
 (pdftex.def)             Requested size: 361.34912pt x 216.80946pt.
-
-Underfull \vbox (badness 6592) has occurred while \output is active []
-
-[13 <./p_recall.png>]
-<p_semantic_embeddings_dendro.png, id=189, 867.24pt x 722.7pt>
+[13]
+<p_semantic_embeddings_dendro.png, id=187, 867.24pt x 722.7pt>
 File: p_semantic_embeddings_dendro.png Graphic file (type png)
 <use p_semantic_embeddings_dendro.png>
-Package pdftex.def Info: p_semantic_embeddings_dendro.png  used on input line 1
-070.
+Package pdftex.def Info: p_semantic_embeddings_dendro.png  used on input line 1097.
 (pdftex.def)             Requested size: 505.89758pt x 505.88655pt.
 
-Overfull \hbox (36.1426pt too wide) in paragraph at lines 1070--1070
+Overfull \hbox (36.1426pt too wide) in paragraph at lines 1097--1097
  [][] 
  []
 
-[14] [15 <./p_semantic_embeddings_dendro.png>]
-<case_study_cuban_recall.png, id=205, 366.77025pt x 387.00584pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[14 <./p_recall.png>] [15 <./p_semantic_embeddings_dendro.png>]
+<case_study_cuban_recall.png, id=204, 366.77025pt x 387.00584pt>
 File: case_study_cuban_recall.png Graphic file (type png)
 <use case_study_cuban_recall.png>
-Package pdftex.def Info: case_study_cuban_recall.png  used on input line 1135.
+Package pdftex.def Info: case_study_cuban_recall.png  used on input line 1162.
 (pdftex.def)             Requested size: 366.76935pt x 387.00488pt.
-<p_196_icbe.png, id=206, 975.645pt x 1300.86pt>
+[16]
+<p_196_icbe.png, id=210, 975.645pt x 1300.86pt>
 File: p_196_icbe.png Graphic file (type png)
 <use p_196_icbe.png>
-Package pdftex.def Info: p_196_icbe.png  used on input line 1158.
+Package pdftex.def Info: p_196_icbe.png  used on input line 1185.
 (pdftex.def)             Requested size: 433.61728pt x 650.44826pt.
 
-LaTeX Warning: Float too large for page by 28.91824pt on input line 1159.
-
-<case_study_crimea_recall.png, id=207, 383.7537pt x 281.853pt>
-File: case_study_crimea_recall.png Graphic file (type png)
-<use case_study_crimea_recall.png>
-Package pdftex.def Info: case_study_crimea_recall.png  used on input line 1192.
-
-(pdftex.def)             Requested size: 383.75275pt x 281.85231pt.
-[16]
-Underfull \vbox (badness 3323) has occurred while \output is active []
+LaTeX Warning: Float too large for page by 28.91824pt on input line 1186.
 
 [17 <./case_study_cuban_recall.png>] [18 <./p_196_icbe.png>]
-<p_precision_icews.png, id=226, 1011.78pt x 722.7pt>
+<case_study_crimea_recall.png, id=225, 383.7537pt x 281.853pt>
+File: case_study_crimea_recall.png Graphic file (type png)
+<use case_study_crimea_recall.png>
+Package pdftex.def Info: case_study_crimea_recall.png  used on input line 1219.
+(pdftex.def)             Requested size: 383.75275pt x 281.85231pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[19 <./case_study_crimea_recall.png>]
+<p_precision_icews.png, id=234, 1011.78pt x 722.7pt>
 File: p_precision_icews.png Graphic file (type png)
 <use p_precision_icews.png>
-Package pdftex.def Info: p_precision_icews.png  used on input line 1239.
+Package pdftex.def Info: p_precision_icews.png  used on input line 1266.
 (pdftex.def)             Requested size: 505.88876pt x 361.3491pt.
 
-Overfull \hbox (36.13377pt too wide) in paragraph at lines 1239--1239
+Overfull \hbox (36.13377pt too wide) in paragraph at lines 1266--1266
  [][] 
  []
 
-[19 <./case_study_crimea_recall.png>] [20 <./p_precision_icews.png>] [21]
-Underfull \hbox (badness 2951) in paragraph at lines 1364--1370
-[]\T1/lmr/m/n/10 (+20) Beardsley, Kyle, Patrick James, Jonathan Wilken-feld, an
-d Michael Brecher. 2020. ``The
+[20] [21 <./p_precision_icews.png>] [22]
+Underfull \hbox (badness 2951) in paragraph at lines 1391--1397
+[]\T1/lmr/m/n/10 (+20) Beardsley, Kyle, Patrick James, Jonathan Wilken-feld, and Michael Brecher. 2020. ``The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1364--1370
-\T1/lmr/m/n/10 (+20) In-ter-na-tional Cri-sis Be-hav-ior Project.'' \T1/lmr/m/i
-t/10 (+20) Ox-ford Re-search En-cy-clo-pe-dia of Pol-i-tics\T1/lmr/m/n/10 (+20)
- .
+Underfull \hbox (badness 10000) in paragraph at lines 1391--1397
+\T1/lmr/m/n/10 (+20) In-ter-na-tional Cri-sis Be-hav-ior Project.'' \T1/lmr/m/it/10 (+20) Ox-ford Re-search En-cy-clo-pe-dia of Pol-i-tics\T1/lmr/m/n/10 (+20) .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1364--1370
-\T1/lmr/m/n/10 (+11) https://oxfordre.com/politics/view/10.1093/acrefore/978019
-0228637.001.0001/acrefore-9780190228637-
+Underfull \hbox (badness 10000) in paragraph at lines 1391--1397
+\T1/lmr/m/n/10 (+11) https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[22
+[23
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [24]
@@ -1036,7 +1001,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[27] [28] (./ICBe_manuscript.aux)
+[27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[28] [29] (./ICBe_manuscript.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1044,66 +1012,54 @@ Package rerunfilecheck Info: File `ICBe_manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: C4DB2856EA416EF25D0182B10F2E1740;3032.
  ) 
 Here is how much of TeX's memory you used:
- 18038 strings out of 478287
- 299684 string characters out of 5849289
- 822386 words of memory out of 5000000
- 35466 multiletter control sequences out of 15000+600000
- 537053 words of font info for 180 fonts, out of 8000000 for 9000
+ 18229 strings out of 474968
+ 307790 string characters out of 5774092
+ 879012 words of memory out of 5000000
+ 38954 multiletter control sequences out of 15000+600000
+ 537136 words of font info for 181 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,12n,131p,3140b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not ex
-ist, replaced by a fixed one
+ 83i,12n,131p,3140b,566s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exis
-t, replaced by a fixed one
+pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exis
-t, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist
-, replaced by a fixed one
+pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist
-, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
-, replaced by a fixed one
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
-, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
-, replaced by a fixed one
+pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
-, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
-, replaced by a fixed one
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
-, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
-, replaced by a fixed one
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist, replaced by a fixed one
 
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvip
-s/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/t
-exmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm/l
-mbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi1
-0.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts
-/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></us
-r/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/publ
-ic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share
-/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/public/lm/
-lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
-zapfding/uzdr.pfb>
-Output written on ICBe_manuscript.pdf (28 pages, 4299997 bytes).
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
+
+{/home/andresgannon/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/home/andresgannon/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/andresgannon/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/andresgannon/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb></home/andresgannon/.TinyTeX/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on ICBe_manuscript.pdf (29 pages, 4311031 bytes).
 PDF statistics:
- 591 PDF objects out of 1000 (max. 8388607)
- 512 compressed objects within 6 object streams
- 193 named destinations out of 1000 (max. 500000)
+ 598 PDF objects out of 1000 (max. 8388607)
+ 518 compressed objects within 6 object streams
+ 196 named destinations out of 1000 (max. 500000)
  33980 words of extra memory for PDF output out of 35830 (max. 10000000)
 
