@@ -165,6 +165,7 @@ knitr::opts_chunk$set(echo=F, cache=TRUE, messages=F, results='hide', warning=F,
 
 #Execute these lines to get bbl files for the arxiv submission
 options(tinytex.clean=F)
+fromscratch = FALSE #Set to TRUE to repull google docs
 ```
 
 ```{r package-load, eval=T, echo=F, cache=F}
@@ -313,6 +314,7 @@ This comparison is not intended to fault existing data and models for not includ
 \clearpage
 \singlespacing
 ```
+
 ```{r, eval=T, echo=F, results='asis', include=T, message=F, cache=F, warning=F, ft.arraystretch=1}
 
 #target_file <- paste0(here::here(),"/replication_paper/data/in/icbe_litreview_trees_sentences.xlsx")
@@ -320,8 +322,15 @@ This comparison is not intended to fault existing data and models for not includ
 
 library(googlesheets4) #Do this high up so you get the prompt early
 library(lubridate, warn.conflicts = FALSE)
-lit_review_pull <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/14RHRKgQGHj7Zr4_xt4fq2bIE7mDNayLKj89tYmOOfHQ/edit?usp=sharing", 
-                                sheet="DatasetsComparisonLitReview") #%>% janitor::clean_names() 
+
+if(fromscratch){googlesheets4::gs4_deauth()}
+
+if(fromscratch){
+  lit_review_pull <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/14RHRKgQGHj7Zr4_xt4fq2bIE7mDNayLKj89tYmOOfHQ/edit?usp=sharing", sheet="DatasetsComparisonLitReview") #%>% janitor::clean_names() 
+  saveRDS(lit_review_pull ,
+            file=paste0(here::here(),"/replication_data/out/lit_review_pull.Rds")) 
+} else {lit_review_pull <- readRDS( paste0(here::here(), "/replication_data/out/lit_review_pull.Rds"))}
+
 # dim(lit_review_pull)
 
 library(flextable)
@@ -555,6 +564,418 @@ We find substantive variation in recall across existing state of the art methods
 
 [^10]: Although Figure 2 focuses only on two crises, the synthetic narrative approach and recall comparison can, and should, be more broadly applied to all international crises in a way that could reveal systematic blindspots across datasets.
 
+```{r recall-cuba, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+#Lit review
+#child=c('ICBEdataset_paper_litreviewtable.Rmd')
+library(tidyverse)
+library(flextable)
+library(ftExtra)
+flextable::set_flextable_defaults(fonts_ignore=TRUE)
+
+library(googlesheets4) #Do this high up so you get the prompt early
+library(lubridate, warn.conflicts = FALSE)
+
+if(fromscratch){
+  case_study_cuban <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1NuRWFB1HEbQbJu_JoEzJ9WYk7kfwwCryF7wBfKPT6uc/edit?usp=sharing", sheet="final") %>% janitor::clean_names() 
+  saveRDS(case_study_cuban, file=paste0(here::here(),"/replication_data/out/case_study_cuban.Rds")) 
+} else {case_study_cuban <- readRDS( paste0(here::here(), "/replication_data/out/case_study_cuban.Rds"))}
+
+
+dim(case_study_cuban)
+#case_study_cuban$date <- case_study_cuban$date %>% lapply(FUN=function(x) { ifelse(is.null(x), "", x[[1]] %>% as.character() )   }   ) %>% unlist() %>% as.Date()
+
+#Replace emoticons with images
+replace_emoticons <- function(x){
+  x %>% str_replace_all('\U0001f1e8\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q241.png) ")) %>%
+        #https://emojiterra.com/flag-for-united-states/
+        str_replace_all('\U0001f1fa\U0001f1f8',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
+        #https://emojiterra.com/flag-for-russia/
+        str_replace_all('\U0001f1f7\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15180.png) ")) %>% 
+        #Turkey
+        str_replace_all('\U0001f1f9\U0001f1f7',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q43.png) ")) %>% 
+        #U.N.
+        str_replace_all('\U0001f1fa\U0001f1f3',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q1065.png) "))
+}
+
+temp1 <- case_study_cuban %>% 
+                #filter(!is.na(date)) %>%
+                #head(2) %>%
+                mutate(date=date %>% anytime::anydate()) %>%
+                mutate(year=year(date) %>% as.character() ) %>%
+                mutate(month=month(date) %>% as.character()) %>%
+                mutate(day=day(date) %>% as.character()) %>%
+                mutate(documents = documents %>% as.numeric()) %>%
+                mutate(Rank=rank(-documents, ties.method="first")  ) %>%
+                dplyr::select(Y=year,M=month, D=day, Rank, Event=event, Docs=documents, icb_narrative=icb_narrative, ICBe=ic_be, ICB=icb, MIDs=mids, phoenix=phoenix) %>% 
+                # mutate(Event= Event %>%  replace_emoticons) %>% 
+                mutate(icb_narrative = ifelse(!is.na(icb_narrative), "✓", NA)) %>%
+                mutate(ICB = ifelse(!is.na(ICB) & !ICB %in% 0, "✓", NA)) %>%
+                mutate(MIDs = ifelse(!is.na(MIDs) & !MIDs %in% 0, "✓", NA)) %>%
+                mutate(phoenix = ifelse(!is.na(phoenix) & !phoenix %in% 0, "✓", NA)) %>%
+                mutate(ICBe = ifelse(!is.na(ICBe) & !ICBe %in% 0, "✓", NA)) %>%
+  
+                mutate(D=ifelse(!is.na(lag(D)) & D==lag(D) & M==lag(M),'',D )) %>%
+                mutate(M=ifelse(!is.na(lag(M)) & M==lag(M),'',M )) %>%
+                mutate(Y=ifelse(!is.na(lag(Y)) & Y==lag(Y),'',Y )) %>%
+                mutate(Y=ifelse(duplicated(Y), NA, Y)) %>%
+                mutate(YMD=paste(Y,
+                                 M %>% str_pad(2, pad = "0") ,
+                                 D %>% str_pad(2, pad = "0"), 
+                                 sep="-") %>% trimws() %>%
+                                 str_replace_all("^NA-","") %>%  #There's like a carriage return and tab in there somehow!
+                                 str_replace_all("^NA-","") %>% 
+                                 str_replace_all("^-00|^00","") %>% 
+                                 str_replace_all("^-00|^00","") %>% 
+                                 str_replace_all("^-","") 
+                       ) %>%
+                dplyr::select(-Y,-M,-D) %>%
+                relocate(YMD, .before = Rank) %>%
+                dplyr::select(-Rank)
+dim(temp1)
+
+#banding <- temp %>% mutate(date=as.Date(paste(Y,M,D, sep="-")) %>% as.numeric() %>% as.factor() %>% as.numeric() ) %>% pull(date) %% 2
+banding <- 1:nrow(temp1) %% 2
+k=ncol(temp1)
+ft <- temp1   %>%
+      flextable::as_flextable() %>% 
+      flextable::set_header_labels(values =
+        list(
+              Event = "Ground\nTruth\nEvents",
+              icb_narrative = "ICB Corpus",
+              ICB = "ICB",
+              MIDs = "MIDs",
+              phoenix = "Phoenix"
+             ) ) %>%
+      flextable::width( j = 1, width=0.6)  %>% 
+      #flextable::width( j = 2, width=0.025)  %>%
+      #flextable::width( j = 3, width=0.025)  %>%
+      #flextable::width( j = 5, width=0.025) %>%
+      flextable::width( j = 2, width=3.0)  %>%
+      flextable::width( j = 3, width=0.03) %>%
+      flextable::width( j = 4:k, width=0.15) %>% #icb
+      #merge_v( j = 1,  part = "body", combine = T) %>%
+      #merge_v( j = 3,  part = "body", combine = F) %>%
+      #merge_v( j = 4,  part = "body", combine = F) %>%
+  
+      flextable::rotate(i=1, rotation="tbrl", part="header") %>% 
+      align(i = 1,  align = "center", part = "header") %>%
+      valign(j = 1:2, valign = "center", part = "all") %>%
+      align(i = NULL, j = 1, align = "right", part = "body")  %>%
+      align(i = NULL, j = 2, align = "left", part = "body")  %>%
+      #align(i = NULL, j = 2, align = "center", part = "body")  %>%
+      #align(i = NULL, j = 3, align = "left", part = "body")  %>%
+      align(i = NULL, j = 3:k, align = "center", part = "body")  %>%
+      flextable::line_spacing( space = 1.0, part = "all") %>% #i=1:nrow(lit_review_alt),
+      flextable::padding(padding = 0, part = "body") %>%
+      flextable::fontsize(size = 7, part = "all") %>%
+      #bg( i = which( 1:nrow(temp) %% 2 == 1) , part = "body", bg = "#EFEFEF", j=1:k) %>%
+      bg( i = which( banding==1 ) , part = "body", bg = "#EFEFEF", j=1:k) %>%
+      #hline(i=c(26,46), j=3:k,  border = NULL, part = "body") %>%
+      vline(j=c(1,2,3,4,5,6,7),  border = NULL, part = "all") %>%
+      hline(i=c(26,46)) %>%
+      ftExtra::colformat_md(j = 2, part="body") 
+      #ftExtra::colformat_md(j = 6, part="body")
+
+ft   %>% 
+    #flextable::flextable_to_rmd()
+    save_as_image(path=here::here("replication_paper", "psrm_draft", "case_study_cuban_recall.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+
+```
+
+```{r recall-crimea, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+library(dplyr)
+library(googlesheets4) #Do this high up so you get the prompt early
+library(lubridate, warn.conflicts = FALSE)
+
+if(fromscratch){
+  case_study_crimea <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1YesAx1CkYCgrEi_WVJ9aho60HesWA6p-3XMma9IzBrI/edit?usp=sharing", sheet="final") %>% janitor::clean_names() 
+  saveRDS(case_study_crimea, file=paste0(here::here(),"/replication_data/out/case_study_crimea.Rds")) 
+} else {case_study_crimea <- readRDS( paste0(here::here(), "/replication_data/out/case_study_crimea.Rds"))}
+
+
+dim(case_study_crimea)
+
+#Replace emoticons with images
+replace_emoticons_crimea <- function(x){
+      x %>%
+            #https://emojiterra.com/flag-for-united-states/
+            str_replace_all('\U0001f1fa\U0001f1f8', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
+            #https://emojiterra.com/flag-for-russia/
+            str_replace_all('\U0001f1f7\U0001f1fa', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q159.png) ")) %>% 
+            #Ukraine
+            str_replace_all('\U0001f1fA\U0001f1e6',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q212.png) ")) %>% 
+            #
+            str_replace_all('Crimea', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15966495.png) ")) %>% 
+            #
+            str_replace_all('🇪🇺', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q458.png) "))
+                            }
+
+rex_date <- function(x){
+  a <- x[1] %>% as.character() %>% unlist()
+  if(is.null(a)){return('')}
+  return(a)
+}
+case_study_crimea$date <- sapply(sapply(case_study_crimea$date, as.character), rex_date)
+temp2 <- case_study_crimea %>% 
+                filter(keep %in% 1) %>%
+                #filter(!is.na(date)) %>%
+                #head(2) %>%
+                mutate(date=date %>% anytime::anydate()) %>%
+                mutate(year=year(date) %>% as.character() ) %>%
+                mutate(month=month(date) %>% as.character()) %>%
+                mutate(day=day(date) %>% as.character()) %>%
+                mutate(n_sources = n_sources %>% as.numeric()) %>%
+                mutate(Rank=rank(-n_sources, ties.method="first")  ) %>%
+                dplyr::select(Y=year,M=month, D=day, Rank,  Event=event, Docs=n_sources, 
+                              icb_narrative=icb_narrative, ICBe=ic_be, MIDs=mids, phoenix, terrier, icews ) %>%  #, ICB=icb, MIDs=mids, phoenix=phoenix
+                # mutate(Event= Event %>%  replace_emoticons_crimea) %>%
+                arrange(Y %>% as.numeric() ,M %>% as.numeric()  ,D %>% as.numeric() ) %>%
+                mutate(D=ifelse(!is.na(lag(D)) & D==lag(D) & M==lag(M),'',D )) %>%
+                mutate(M=ifelse(!is.na(lag(M)) & M==lag(M),'',M )) %>%
+                mutate(Y=ifelse(!is.na(lag(Y)) & Y==lag(Y),'',Y )) %>%
+                mutate(Y=ifelse(duplicated(Y), NA, Y)) %>%
+                mutate(YMD=paste(Y,
+                                 M %>% str_pad(2, pad = "0") ,
+                                 D %>% str_pad(2, pad = "0"), 
+                                 sep="-") %>% trimws() %>%
+                                 str_replace_all("^NA-","") %>%  #There's like a carriage return and tab in there somehow!
+                                 str_replace_all("^NA-","") %>% 
+                                 str_replace_all("^-00|^00","") %>% 
+                                 str_replace_all("^-00|^00","") %>% 
+                                 str_replace_all("^-","") 
+                       ) %>%
+                dplyr::select(-Y,-M,-D) %>%
+                relocate(YMD, .before = Rank) %>%
+                dplyr::select(-Rank) %>% 
+                mutate(icb_narrative = ifelse(!is.na(icb_narrative), "✓", NA)) %>%
+                mutate(icews = ifelse(!is.na(icews) & !icews %in% 0 , "✓", NA)) %>%
+                mutate(MIDs = ifelse(!is.na(MIDs) & !MIDs %in% 0  , "✓", NA)) %>%
+                mutate(phoenix = ifelse(!is.na(phoenix) & !phoenix %in% 0  , "✓", NA)) %>%
+                mutate(terrier = ifelse(!is.na(terrier) & !terrier %in% 0  , "✓", NA))  %>%
+                mutate(ICBe = ifelse(!is.na(ICBe) & !ICBe %in% 0  , "✓", NA)) 
+  
+dim(temp2)
+
+banding <- 1:nrow(temp2) %% 2
+k=ncol(temp2)
+ft <- temp2  %>%
+      flextable::as_flextable() %>% 
+      flextable::set_header_labels(values =
+        list(
+              Event = "Ground\nTruth\nEvents",
+              icb_narrative = "ICB Corpus",
+              ICBe = "ICBe",
+              MIDs="MIDs",
+              icews_hash = "ICEWS"
+             ) ) %>%
+      flextable::width( j = 1, width=0.6)  %>% 
+      flextable::width( j = 2, width=3.0)  %>%
+      flextable::width( j = 3:k, width=0.15) %>% #icb
+      flextable::rotate(i=1, rotation="tbrl", part="header") %>% 
+      align(i = 1,  align = "center", part = "header") %>%
+      valign(j = 1:2, valign = "center", part = "all") %>%
+      align(i = NULL, j = 1, align = "right", part = "body")  %>%
+      align(i = NULL, j = 2, align = "left", part = "body")  %>%
+      align(i = NULL, j = 3:k, align = "center", part = "body")  %>%
+      flextable::line_spacing( space = 1.0, part = "all") %>% #i=1:nrow(lit_review_alt),
+      flextable::padding(padding = 0, part = "body") %>%
+      flextable::fontsize(size = 7, part = "all") %>%
+      #bg( i = which( 1:nrow(temp) %% 2 == 1) , part = "body", bg = "#EFEFEF", j=1:k) %>%
+      bg( i = which( banding==1 ) , part = "body", bg = "#EFEFEF", j=1:k) %>%
+      #hline(i=c(26,46), j=3:k,  border = NULL, part = "body") %>%
+      vline(j=1:k,  border = NULL, part = "all") %>%
+      #hline(i=c(26,46)) %>%
+      ftExtra::colformat_md(j = 2, part="body") 
+      #ftExtra::colformat_md(j = 6, part="body")
+
+ft   %>% 
+    #flextable::flextable_to_rmd()
+    save_as_image(path=here::here("replication_paper", "psrm_draft", "case_study_crimea_recall.png"),
+                  zoom=1, webshot = "webshot2") # webshot = "webshot2"
+```
+
+```{r recall-combined, eval=F, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+
+# AG temp edit: revert by setting 'eval=T'
+
+temp3 <- temp1 %>% mutate(row=row_number()) %>% full_join(temp2 %>% mutate(row=row_number()), by='row') %>% 
+         mutate(row="") #we're going to use this as our vertical break
+
+n_left <- (!is.na(temp3$Event.x) ) %>% sum()
+n_right <- (!is.na(temp3$Event.y) ) %>% sum()
+
+k=ncol(temp3)
+kleft=ncol(temp1)
+kright=ncol(temp2)
+left_end=kleft
+right_start=left_end+2
+left=c(1:left_end)
+right=c(right_start:k)
+horizontal = c(left,right)
+dates=c(1,right_start)
+events = dates + 1
+checkmarks = c((events[1]+1):left_end , (events[2]+1):k)
+  
+library(officer)
+big_border = fp_border(color="black", width = 2)
+
+banding1 <- 1:nrow(temp1) %% 2
+banding2 <- 1:nrow(temp2) %% 2
+ft <- temp3  %>%
+      flextable::as_flextable() %>% 
+  
+      flextable::line_spacing( space = 1.0, part = "all") %>% # 
+      flextable::padding(padding = 0, part = "body") %>%
+      flextable::fontsize(size = 7, part = "all") %>%
+      bg( i = which( banding1==1 ) , part = "body", bg = "#EFEFEF", j=left) %>%
+      bg( i = which( banding2==1 ) , part = "body", bg = "#EFEFEF", j=right) %>%
+  
+      #Headers
+      flextable::set_header_labels(values =
+        list(
+              YMD.x = "YMD",
+              Event.x = "Synthetic Narrative",
+              Docs.x = "Mentions",
+              icb_narrative.x = "ICB Corpus",
+              ICBe.x = "ICBe",
+              ICB = "ICB",
+              MIDs.x = "MIDs",
+              phoenix.x = "Phoenix",
+              phoenix.y = "Phoenix",
+              row="",
+              YMD.y = "YMD",
+              Event.y = "Synthetic Narrative",
+              Docs.y = "Mentions",
+              icb_narrative.y = "ICB Corpus",
+              ICBe.y = "ICBe",
+              icews = "ICEWS",
+              MIDs.y = "MIDs",
+              terrier="Terrier"
+             ) ) %>%
+  
+      add_header_row(values = c("Cuban Missile Crisis (1962)", "", "Crimea-Donbas (2014)"), colwidths = c(kleft, 1,kright) ) %>%
+  
+      #Global
+      flextable::border_remove() %>% 
+      #Left border
+      border(j=1, i=1:n_left , part="body", border.left =  big_border ) %>% #
+      border(j=1, i=1:2 , part="header", border.left =  big_border ) %>% #
+
+      border(j=left_end, i=1:2 , part="header", border.right =  big_border ) %>% #
+      border(j=left_end, i=1:n_left , part="body", border.right =  big_border ) %>% #
+  
+      border(j=1:left_end, i=n_left , part="body", border.bottom =  big_border ) %>% #
+      border(j=1:left_end, i=1 , part="body", border.top =  big_border ) %>% #
+      border(j=1:left_end, i=1:2 , part="header", border.top =  big_border ) %>% #
+  
+      #Right border
+      border(j=right_start, i=1:n_right , part="body", border.left =  big_border ) %>% #
+      border(j=k, i=1:n_right , part="body", border.right =  big_border ) %>% #
+  
+      border(j=right_start, i=1:2 , part="header", border.left =  big_border ) %>% #
+      border(j=k, i=1:2 , part="header", border.right =  big_border ) %>% #
+      border(j=1:k, i=1 , part="header", border.right =  big_border ) %>% #
+  
+      border(j=right_start:k, i=n_right , part="body", border.bottom =  big_border ) %>% #
+      border(j=right_start:k, i=1 , part="body", border.top =  big_border ) %>% #
+      border(j=right_start:k, i=1:2 , part="header", border.top =  big_border ) %>% #
+
+      vline(i=1:n_left, j=1:(left_end-1),  border = NULL, part = "body")  %>%
+      vline(i=1:n_right,j=right_start:(k-1),  border = NULL, part = "body")  %>%
+      vline(i=2, j=1:(left_end-1),  border = NULL, part = "header")  %>%
+      vline(i=2,j=right_start:(k-1),  border = NULL, part = "header")  %>%
+  
+      #
+      hline(i=c(26,46), j=left,  border = NULL, part = "body")  %>%
+      hline(i=c(11), j=right,  border = NULL, part = "body")  %>%
+
+
+      #Header
+      flextable::rotate(i=2, j=3:left_end, rotation="tbrl", part="header") %>% 
+      flextable::rotate(i=2, j=(left_end+4):k, rotation="tbrl", part="header") %>% 
+  
+      valign(j = 1:2, valign = "center", part = "all") %>%
+      align(i = 2, j = NULL, align = "center", part = "header")  %>%
+
+      #break
+      flextable::width( j = left_end+1, width=0.25)  %>% 
+  
+      #Dates
+      flextable::width( j = dates, width=0.6)  %>% 
+      align(i = NULL, j = dates, align = "right", part = "body")   %>%
+
+      #events
+      flextable::width( j = events, width=2.50)  %>%
+      align(i = NULL, j = events, align = "left", part = "body")  %>%
+      ftExtra::colformat_md(j = events, part="body") %>%
+        
+      #Checkmarks
+      flextable::width( j = checkmarks, width=0.05) %>%
+      align(i = NULL, j = checkmarks, align = "center", part = "body")  
+
+
+ft   %>% 
+    #flextable::flextable_to_rmd()
+    save_as_image(path=here::here("replication_paper", "psrm_draft", "recall_cuban_and_crimea.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
+```
+
+```{r recall-all, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+#Recall Summary Statistics
+#, icb_narrative_cd=icb_narrative.y, icews_cd=icews_hash
+temp1_long <- temp1 %>% dplyr::select(docs=Docs, ICB_Narrative=icb_narrative, ICBe=ICBe, ICB=ICB,MIDs=MIDs,Phoenix=phoenix) %>% mutate(crisis="Cuban Missile Crisis") %>% pivot_longer(cols=-c(crisis, docs)) %>% 
+              mutate(value=ifelse(!is.na(value) & !value %in% 0,1,0)) 
+
+temp2_long <- temp2 %>% dplyr::select(docs=Docs,ICB_Narrative=icb_narrative,ICBe=ICBe,MIDs=MIDs , Phoenix=phoenix, Terrier=terrier, ICEWS= icews) %>% mutate(crisis="Crimea-Donbas Crisis") %>% pivot_longer(cols=-c(crisis, docs)) %>% 
+              mutate(value=ifelse(!is.na(value) & !value %in% 0,1,0)) 
+
+temp3_long <- bind_rows(temp1_long,temp2_long)
+
+Y_hat <- temp3_long %>% dplyr::select(name) %>% distinct()
+mylogit <- glm(value ~ name, data = temp3_long, family = "binomial")
+Y_hat$fit <- predict(mylogit, temp3_long %>% dplyr::select(name) %>% distinct() , type='response', se.fit=TRUE)$fit
+Y_hat$se <- predict(mylogit, temp3_long %>% dplyr::select(name) %>% distinct() , type='response', se.fit=TRUE)$se.fit
+Y_hat$name <- Y_hat$name %>% fct_reorder(Y_hat$fit)
+
+#Y_hat %>% ggplot(aes(name, fit)) +
+#          geom_point(size=4) +
+#          geom_errorbar(aes(ymin = fit-(1.98*se), ymax = fit+(1.98*se)), width = 0.1, linetype="solid") + coord_flip()  + theme_bw() + 
+#          ylab("Mean Recall") + xlab("")
+
+#temp3_long_means <- temp3_long %>% 
+#                    group_by(name) %>%
+#                    summarise(value= value %>%mean() %>% round(2))
+
+#temp3_long %>% ggplot(aes(x=log(docs), y=value, color=name)) + geom_point() +
+#  geom_smooth(method = "glm", method.args = list(family = "binomial"), se=F) + 
+#  ylab("Recall") + xlab("Document Mentions (Log)") +
+#  facet_wrap(~crisis, scales="free_x")
+
+library(geomtextpath)
+temp3_long$crisis <- factor(temp3_long$crisis, levels= temp3_long$crisis %>% as.character() %>% unique() %>% sort() %>% rev() )
+p_recall <- temp3_long %>% ggplot(aes(x=log(docs), y=value, color=name)) + 
+  #geom_point() +
+  geom_textsmooth(aes(label = name), size=3, method = "glm", method.args = list(family = "binomial"), se=F) + 
+  ylab("Recall") + xlab("Document Mentions (Log)") +
+  facet_wrap(~crisis, scales="free_x") +
+  theme_bw() +
+  theme(legend.position="none")
+
+#p_recall
+
+ggsave(file=paste0(here::here(), '/replication_paper/psrm_draft/p_recall.png'),
+       plot = p_recall ,
+       width=5, height=3.0)
+
+library(magick)
+
+tiger <- image_read(here::here("replication_paper", "psrm_draft", "recall_cuban_and_crimea.png"))
+tiger2 <- image_read(paste0(here::here(), '/replication_paper/psrm_draft/p_recall.png'))
+
+combined <- image_composite(tiger, image_scale(tiger2, "x290"), offset = "+475+650")
+image_write(combined, here::here("replication_paper", "psrm_draft", "recall_cuban_and_crimea_andcounts.png"))
+```
+
+
 ![Recall comparison of two cases across existing state of the art efforts. Higher y-axis values represent higher recall and higher x-axis values represent number of times that detail is mentioned across the full corpus used to construct the synthetic narrative.](p_recall.png){#fig-recall-cases}
 
 The second component of event measurement validation is precision. It does little good to recall a historical event but too vaguely (e.g. MIDs describes the Cuban Missile Crisis as a blockade, a show of force, and a stalemate) or with too much error to be useful for downstream applications (e.g. ICEWS records 263 "Detonate Nuclear Weapons" events between 1995-2019). ICBe's ontology and coding system are designed to strike a balance so that the most important information is recovered accurately but also abstracted to a level that is still useful and interpretable.
@@ -572,8 +993,12 @@ target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recodi
 dictionary_actors_labels    <- readxl::read_excel(target_file, sheet="actors") %>% 
                               dplyr::select(crisno, value_normalized=value_normalized_wikidata_id, value_normalized_label) %>% dplyr::distinct() %>% na.omit()
 
-actor_translator <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", 
-                                sheet="actor_translator") #%>% janitor::clean_names() 
+if(fromscratch){
+  actor_translator <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", sheet="actor_translator") #%>% janitor::clean_names() 
+  saveRDS(actor_translator,
+            file=paste0(here::here(),"/replication_data/out/actor_translator.Rds")) 
+} else {actor_translator <- readRDS( paste0(here::here(), "/replication_data/out/actor_translator.Rds"))}
+
 #Convert to a local file for pushing
 #actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator") #Ya we just add colors to the actor translator and we're good
 pallet <- c(brewer.pal(n=20, "Dark2"), brewer.pal(n=20, "Set1"), brewer.pal(n=20, "Set2"), brewer.pal(n=20, "Paired")) %>% unique()
@@ -1042,13 +1467,9 @@ reticulate::py_discover_config()
 #py_install("sentence-transformers")
 ```
 
-```{python sentence-transformers, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+```{python sentence-transformers, eval=fromscratch, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 #Can't get this and spacy to work in the same run. Once reticulate loads once it sticks with the environment that came first and I can't figure out how to switch it.
 #pip install -U sentence-transformers
-
-fromscratch=False
-
-if fromscratch:
   from sentence_transformers import SentenceTransformer
   import numpy as np
   sentences=np.array(r.sentences_unique) #sentences_unique_sanitized
@@ -1070,13 +1491,9 @@ if fromscratch:
   #temp = model.encode(sentences_chunks[0])
   sentences_embeddings = np.vstack([model.encode(q) for q in sentences_chunks])  #[0:100] #cpu is possible just painfully slow #, device='0'
   sentences_embeddings.shape #(12103, 768)
-
-else:
-  print("Skipping")
 ```
 
 ```{r sentence-embeddings, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
-fromscratch = FALSE
 if(fromscratch){
   sentences_embeddings <- py$sentences_embeddings
   dim(sentences_embeddings)
@@ -1087,7 +1504,7 @@ if(fromscratch){
 }
 ```
 
-```{r umap, results='hide', echo=F, include=T, message=F, cache=F, warning=F, eval=F}
+```{r umap, results='hide', echo=F, include=T, message=F, cache=F, warning=F, eval=fromscratch}
 #The [umapr](https://github.com/ropensci-archive/umapr) package requires python and [umap](https://github.com/lmcinnes/umap#installing). Please check their repos for installation details. 
 
 # AG temp edit: revert by deleting 'eval=F' above DONE
@@ -1114,7 +1531,7 @@ ICBe_events_agreed_markdown_embedded_sample  <- ICBe_events_agreed_markdown_embe
                                                 filter(crisno==crisno[1], sentence_number_int_aligned==sentence_number_int_aligned[1] ) #only take one per crisis
 ```
 
-```{r sentence-embeddings-dendro, eval=F, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+```{r sentence-embeddings-dendro, eval=fromscratch, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
 
 # AG temp edit: revert by setting 'eval=T'
 
@@ -1243,410 +1660,6 @@ Figure 3 shows the location of every sentence from the ICBe corpus in semantic s
 
 In this section, we focus our validation on two case studies for which we have produced synthetic narratives using the method described in Section 3.2. Our proposed measure is a reconstruction task to see whether our intended ontology can be recovered through only unsupervised clustering of sentences they were applied to. The first (Figure 1) is the Cuban Missile Crisis (hereafter Cuban Missiles) which took place primarily in the second half of 1962, involved the United States, the Soviet Union, and Cuba, and is widely known for bringing the world to the brink of nuclear war. The second (SI Appendix 4.1) is the Crimea-Donbas Crisis (hereafter Crimea-Donbas) which took place primarily in 2014, involved Russia, Ukraine, and NATO, and within a decade spiraled into a full-scale invasion. We choose these cases because they are significant in contemporary international relations, are widely known across academic disciplines as well as among the public, and are sufficiently brief to evaluate in depth. They are similar in that both cases involve a superpower in crisis with a neighbor that changed from a friendly to a hostile regime, both held implications for the economic and military security for the superpower by risking full-scale invasion, and both eventually invited intervention by an opposing superpower.
 
-```{r recall-cuba, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
-#Lit review
-#child=c('ICBEdataset_paper_litreviewtable.Rmd')
-library(tidyverse)
-library(flextable)
-library(ftExtra)
-flextable::set_flextable_defaults(fonts_ignore=TRUE)
-
-library(googlesheets4) #Do this high up so you get the prompt early
-library(lubridate, warn.conflicts = FALSE)
-case_study_cuban <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1NuRWFB1HEbQbJu_JoEzJ9WYk7kfwwCryF7wBfKPT6uc/edit?usp=sharing", 
-                                sheet="final") %>% janitor::clean_names() 
-dim(case_study_cuban)
-#case_study_cuban$date <- case_study_cuban$date %>% lapply(FUN=function(x) { ifelse(is.null(x), "", x[[1]] %>% as.character() )   }   ) %>% unlist() %>% as.Date()
-
-paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q241.png) ")
-
-#Replace emoticons with images
-replace_emoticons <- function(x){
-  x %>% str_replace_all('\U0001f1e8\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q241.png) ")) %>%
-        #https://emojiterra.com/flag-for-united-states/
-        str_replace_all('\U0001f1fa\U0001f1f8',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
-        #https://emojiterra.com/flag-for-russia/
-        str_replace_all('\U0001f1f7\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15180.png) ")) %>% 
-        #Turkey
-        str_replace_all('\U0001f1f9\U0001f1f7',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q43.png) ")) %>% 
-        #U.N.
-        str_replace_all('\U0001f1fa\U0001f1f3',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q1065.png) "))
-}
-
-temp1 <- case_study_cuban %>% 
-                #filter(!is.na(date)) %>%
-                #head(2) %>%
-                mutate(date=date %>% anytime::anydate()) %>%
-                mutate(year=year(date) %>% as.character() ) %>%
-                mutate(month=month(date) %>% as.character()) %>%
-                mutate(day=day(date) %>% as.character()) %>%
-                mutate(documents = documents %>% as.numeric()) %>%
-                mutate(Rank=rank(-documents, ties.method="first")  ) %>%
-                dplyr::select(Y=year,M=month, D=day, Rank, Event=event, Docs=documents, icb_narrative=icb_narrative, ICBe=ic_be, ICB=icb, MIDs=mids, phoenix=phoenix) %>% 
-                mutate(Event= Event %>%  replace_emoticons) %>% 
-                mutate(icb_narrative = ifelse(!is.na(icb_narrative), "✓", NA)) %>%
-                mutate(ICB = ifelse(!is.na(ICB) & !ICB %in% 0, "✓", NA)) %>%
-                mutate(MIDs = ifelse(!is.na(MIDs) & !MIDs %in% 0, "✓", NA)) %>%
-                mutate(phoenix = ifelse(!is.na(phoenix) & !phoenix %in% 0, "✓", NA)) %>%
-                mutate(ICBe = ifelse(!is.na(ICBe) & !ICBe %in% 0, "✓", NA)) %>%
-  
-                mutate(D=ifelse(!is.na(lag(D)) & D==lag(D) & M==lag(M),'',D )) %>%
-                mutate(M=ifelse(!is.na(lag(M)) & M==lag(M),'',M )) %>%
-                mutate(Y=ifelse(!is.na(lag(Y)) & Y==lag(Y),'',Y )) %>%
-                mutate(Y=ifelse(duplicated(Y), NA, Y)) %>%
-                mutate(YMD=paste(Y,
-                                 M %>% str_pad(2, pad = "0") ,
-                                 D %>% str_pad(2, pad = "0"), 
-                                 sep="-") %>% trimws() %>%
-                                 str_replace_all("^NA-","") %>%  #There's like a carriage return and tab in there somehow!
-                                 str_replace_all("^NA-","") %>% 
-                                 str_replace_all("^-00|^00","") %>% 
-                                 str_replace_all("^-00|^00","") %>% 
-                                 str_replace_all("^-","") 
-                       ) %>%
-                dplyr::select(-Y,-M,-D) %>%
-                relocate(YMD, .before = Rank) %>%
-                dplyr::select(-Rank)
-dim(temp1)
-
-#banding <- temp %>% mutate(date=as.Date(paste(Y,M,D, sep="-")) %>% as.numeric() %>% as.factor() %>% as.numeric() ) %>% pull(date) %% 2
-banding <- 1:nrow(temp1) %% 2
-k=ncol(temp1)
-ft <- temp1   %>%
-      flextable::as_flextable() %>% 
-      flextable::set_header_labels(values =
-        list(
-              Event = "Ground\nTruth\nEvents",
-              icb_narrative = "ICB Corpus",
-              ICB = "ICB",
-              MIDs = "MIDs",
-              phoenix = "Phoenix"
-             ) ) %>%
-      flextable::width( j = 1, width=0.6)  %>% 
-      #flextable::width( j = 2, width=0.025)  %>%
-      #flextable::width( j = 3, width=0.025)  %>%
-      #flextable::width( j = 5, width=0.025) %>%
-      flextable::width( j = 2, width=3.0)  %>%
-      flextable::width( j = 3, width=0.03) %>%
-      flextable::width( j = 4:k, width=0.15) %>% #icb
-      #merge_v( j = 1,  part = "body", combine = T) %>%
-      #merge_v( j = 3,  part = "body", combine = F) %>%
-      #merge_v( j = 4,  part = "body", combine = F) %>%
-  
-      flextable::rotate(i=1, rotation="tbrl", part="header") %>% 
-      align(i = 1,  align = "center", part = "header") %>%
-      valign(j = 1:2, valign = "center", part = "all") %>%
-      align(i = NULL, j = 1, align = "right", part = "body")  %>%
-      align(i = NULL, j = 2, align = "left", part = "body")  %>%
-      #align(i = NULL, j = 2, align = "center", part = "body")  %>%
-      #align(i = NULL, j = 3, align = "left", part = "body")  %>%
-      align(i = NULL, j = 3:k, align = "center", part = "body")  %>%
-      flextable::line_spacing( space = 1.0, part = "all") %>% #i=1:nrow(lit_review_alt),
-      flextable::padding(padding = 0, part = "body") %>%
-      flextable::fontsize(size = 7, part = "all") %>%
-      #bg( i = which( 1:nrow(temp) %% 2 == 1) , part = "body", bg = "#EFEFEF", j=1:k) %>%
-      bg( i = which( banding==1 ) , part = "body", bg = "#EFEFEF", j=1:k) %>%
-      #hline(i=c(26,46), j=3:k,  border = NULL, part = "body") %>%
-      vline(j=c(1,2,3,4,5,6,7),  border = NULL, part = "all") %>%
-      hline(i=c(26,46)) %>%
-      ftExtra::colformat_md(j = 2, part="body") 
-      #ftExtra::colformat_md(j = 6, part="body")
-
-ft   %>% 
-    #flextable::flextable_to_rmd()
-    save_as_image(path=here::here("replication_paper", "psrm_draft", "case_study_cuban_recall.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
-
-#Ok rather than try to match up we're going to do this by hand now
-
-```
-
-```{r recall-crimea, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
-library(dplyr)
-library(googlesheets4) #Do this high up so you get the prompt early
-library(lubridate, warn.conflicts = FALSE)
-case_study_crimea <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1YesAx1CkYCgrEi_WVJ9aho60HesWA6p-3XMma9IzBrI/edit?usp=sharing", 
-                                sheet="final") %>% janitor::clean_names() 
-dim(case_study_crimea)
-
-#Replace emoticons with images
-replace_emoticons_crimea <- function(x){
-      x %>%
-            #https://emojiterra.com/flag-for-united-states/
-            str_replace_all('\U0001f1fa\U0001f1f8', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
-            #https://emojiterra.com/flag-for-russia/
-            str_replace_all('\U0001f1f7\U0001f1fa', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q159.png) ")) %>% 
-            #Ukraine
-            str_replace_all('\U0001f1fA\U0001f1e6',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q212.png) ")) %>% 
-            #
-            str_replace_all('Crimea', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15966495.png) ")) %>% 
-            #
-            str_replace_all('🇪🇺', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q458.png) "))
-                            }
-
-rex_date <- function(x){
-  a <- x[1] %>% as.character() %>% unlist()
-  if(is.null(a)){return('')}
-  return(a)
-}
-case_study_crimea$date <- sapply(sapply(case_study_crimea$date, as.character), rex_date)
-temp2 <- case_study_crimea %>% 
-                filter(keep %in% 1) %>%
-                #filter(!is.na(date)) %>%
-                #head(2) %>%
-                mutate(date=date %>% anytime::anydate()) %>%
-                mutate(year=year(date) %>% as.character() ) %>%
-                mutate(month=month(date) %>% as.character()) %>%
-                mutate(day=day(date) %>% as.character()) %>%
-                mutate(n_sources = n_sources %>% as.numeric()) %>%
-                mutate(Rank=rank(-n_sources, ties.method="first")  ) %>%
-                dplyr::select(Y=year,M=month, D=day, Rank,  Event=event, Docs=n_sources, 
-                              icb_narrative=icb_narrative, ICBe=ic_be, MIDs=mids, phoenix, terrier, icews ) %>%  #, ICB=icb, MIDs=mids, phoenix=phoenix
-                mutate(Event= Event %>%  replace_emoticons_crimea) %>%
-                arrange(Y %>% as.numeric() ,M %>% as.numeric()  ,D %>% as.numeric() ) %>%
-                mutate(D=ifelse(!is.na(lag(D)) & D==lag(D) & M==lag(M),'',D )) %>%
-                mutate(M=ifelse(!is.na(lag(M)) & M==lag(M),'',M )) %>%
-                mutate(Y=ifelse(!is.na(lag(Y)) & Y==lag(Y),'',Y )) %>%
-                mutate(Y=ifelse(duplicated(Y), NA, Y)) %>%
-                mutate(YMD=paste(Y,
-                                 M %>% str_pad(2, pad = "0") ,
-                                 D %>% str_pad(2, pad = "0"), 
-                                 sep="-") %>% trimws() %>%
-                                 str_replace_all("^NA-","") %>%  #There's like a carriage return and tab in there somehow!
-                                 str_replace_all("^NA-","") %>% 
-                                 str_replace_all("^-00|^00","") %>% 
-                                 str_replace_all("^-00|^00","") %>% 
-                                 str_replace_all("^-","") 
-                       ) %>%
-                dplyr::select(-Y,-M,-D) %>%
-                relocate(YMD, .before = Rank) %>%
-                dplyr::select(-Rank) %>% 
-                mutate(icb_narrative = ifelse(!is.na(icb_narrative), "✓", NA)) %>%
-                mutate(icews = ifelse(!is.na(icews) & !icews %in% 0 , "✓", NA)) %>%
-                mutate(MIDs = ifelse(!is.na(MIDs) & !MIDs %in% 0  , "✓", NA)) %>%
-                mutate(phoenix = ifelse(!is.na(phoenix) & !phoenix %in% 0  , "✓", NA)) %>%
-                mutate(terrier = ifelse(!is.na(terrier) & !terrier %in% 0  , "✓", NA))  %>%
-                mutate(ICBe = ifelse(!is.na(ICBe) & !ICBe %in% 0  , "✓", NA)) 
-  
-dim(temp2)
-
-banding <- 1:nrow(temp2) %% 2
-k=ncol(temp2)
-ft <- temp2  %>%
-      flextable::as_flextable() %>% 
-      flextable::set_header_labels(values =
-        list(
-              Event = "Ground\nTruth\nEvents",
-              icb_narrative = "ICB Corpus",
-              ICBe = "ICBe",
-              MIDs="MIDs",
-              icews_hash = "ICEWS"
-             ) ) %>%
-      flextable::width( j = 1, width=0.6)  %>% 
-      flextable::width( j = 2, width=3.0)  %>%
-      flextable::width( j = 3:k, width=0.15) %>% #icb
-      flextable::rotate(i=1, rotation="tbrl", part="header") %>% 
-      align(i = 1,  align = "center", part = "header") %>%
-      valign(j = 1:2, valign = "center", part = "all") %>%
-      align(i = NULL, j = 1, align = "right", part = "body")  %>%
-      align(i = NULL, j = 2, align = "left", part = "body")  %>%
-      align(i = NULL, j = 3:k, align = "center", part = "body")  %>%
-      flextable::line_spacing( space = 1.0, part = "all") %>% #i=1:nrow(lit_review_alt),
-      flextable::padding(padding = 0, part = "body") %>%
-      flextable::fontsize(size = 7, part = "all") %>%
-      #bg( i = which( 1:nrow(temp) %% 2 == 1) , part = "body", bg = "#EFEFEF", j=1:k) %>%
-      bg( i = which( banding==1 ) , part = "body", bg = "#EFEFEF", j=1:k) %>%
-      #hline(i=c(26,46), j=3:k,  border = NULL, part = "body") %>%
-      vline(j=1:k,  border = NULL, part = "all") %>%
-      #hline(i=c(26,46)) %>%
-      ftExtra::colformat_md(j = 2, part="body") 
-      #ftExtra::colformat_md(j = 6, part="body")
-
-ft   %>% 
-    #flextable::flextable_to_rmd()
-    save_as_image(path=here::here("replication_paper", "psrm_draft", "case_study_crimea_recall.png"),
-                  zoom=1, webshot = "webshot2") # webshot = "webshot2"
-```
-
-```{r recall-combined, eval=F, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
-
-# AG temp edit: revert by setting 'eval=T'
-
-temp3 <- temp1 %>% mutate(row=row_number()) %>% full_join(temp2 %>% mutate(row=row_number()), by='row') %>% 
-         mutate(row="") #we're going to use this as our vertical break
-
-n_left <- (!is.na(temp3$Event.x) ) %>% sum()
-n_right <- (!is.na(temp3$Event.y) ) %>% sum()
-
-k=ncol(temp3)
-kleft=ncol(temp1)
-kright=ncol(temp2)
-left_end=kleft
-right_start=left_end+2
-left=c(1:left_end)
-right=c(right_start:k)
-horizontal = c(left,right)
-dates=c(1,right_start)
-events = dates + 1
-checkmarks = c((events[1]+1):left_end , (events[2]+1):k)
-  
-library(officer)
-big_border = fp_border(color="black", width = 2)
-
-banding1 <- 1:nrow(temp1) %% 2
-banding2 <- 1:nrow(temp2) %% 2
-ft <- temp3  %>%
-      flextable::as_flextable() %>% 
-  
-      flextable::line_spacing( space = 1.0, part = "all") %>% # 
-      flextable::padding(padding = 0, part = "body") %>%
-      flextable::fontsize(size = 7, part = "all") %>%
-      bg( i = which( banding1==1 ) , part = "body", bg = "#EFEFEF", j=left) %>%
-      bg( i = which( banding2==1 ) , part = "body", bg = "#EFEFEF", j=right) %>%
-  
-      #Headers
-      flextable::set_header_labels(values =
-        list(
-              YMD.x = "YMD",
-              Event.x = "Synthetic Narrative",
-              Docs.x = "Mentions",
-              icb_narrative.x = "ICB Corpus",
-              ICBe.x = "ICBe",
-              ICB = "ICB",
-              MIDs.x = "MIDs",
-              phoenix.x = "Phoenix",
-              phoenix.y = "Phoenix",
-              row="",
-              YMD.y = "YMD",
-              Event.y = "Synthetic Narrative",
-              Docs.y = "Mentions",
-              icb_narrative.y = "ICB Corpus",
-              ICBe.y = "ICBe",
-              icews = "ICEWS",
-              MIDs.y = "MIDs",
-              terrier="Terrier"
-             ) ) %>%
-  
-      add_header_row(values = c("Cuban Missile Crisis (1962)", "", "Crimea-Donbas (2014)"), colwidths = c(kleft, 1,kright) ) %>%
-  
-      #Global
-      flextable::border_remove() %>% 
-      #Left border
-      border(j=1, i=1:n_left , part="body", border.left =  big_border ) %>% #
-      border(j=1, i=1:2 , part="header", border.left =  big_border ) %>% #
-
-      border(j=left_end, i=1:2 , part="header", border.right =  big_border ) %>% #
-      border(j=left_end, i=1:n_left , part="body", border.right =  big_border ) %>% #
-  
-      border(j=1:left_end, i=n_left , part="body", border.bottom =  big_border ) %>% #
-      border(j=1:left_end, i=1 , part="body", border.top =  big_border ) %>% #
-      border(j=1:left_end, i=1:2 , part="header", border.top =  big_border ) %>% #
-  
-      #Right border
-      border(j=right_start, i=1:n_right , part="body", border.left =  big_border ) %>% #
-      border(j=k, i=1:n_right , part="body", border.right =  big_border ) %>% #
-  
-      border(j=right_start, i=1:2 , part="header", border.left =  big_border ) %>% #
-      border(j=k, i=1:2 , part="header", border.right =  big_border ) %>% #
-      border(j=1:k, i=1 , part="header", border.right =  big_border ) %>% #
-  
-      border(j=right_start:k, i=n_right , part="body", border.bottom =  big_border ) %>% #
-      border(j=right_start:k, i=1 , part="body", border.top =  big_border ) %>% #
-      border(j=right_start:k, i=1:2 , part="header", border.top =  big_border ) %>% #
-
-      vline(i=1:n_left, j=1:(left_end-1),  border = NULL, part = "body")  %>%
-      vline(i=1:n_right,j=right_start:(k-1),  border = NULL, part = "body")  %>%
-      vline(i=2, j=1:(left_end-1),  border = NULL, part = "header")  %>%
-      vline(i=2,j=right_start:(k-1),  border = NULL, part = "header")  %>%
-  
-      #
-      hline(i=c(26,46), j=left,  border = NULL, part = "body")  %>%
-      hline(i=c(11), j=right,  border = NULL, part = "body")  %>%
-
-
-      #Header
-      flextable::rotate(i=2, j=3:left_end, rotation="tbrl", part="header") %>% 
-      flextable::rotate(i=2, j=(left_end+4):k, rotation="tbrl", part="header") %>% 
-  
-      valign(j = 1:2, valign = "center", part = "all") %>%
-      align(i = 2, j = NULL, align = "center", part = "header")  %>%
-
-      #break
-      flextable::width( j = left_end+1, width=0.25)  %>% 
-  
-      #Dates
-      flextable::width( j = dates, width=0.6)  %>% 
-      align(i = NULL, j = dates, align = "right", part = "body")   %>%
-
-      #events
-      flextable::width( j = events, width=2.50)  %>%
-      align(i = NULL, j = events, align = "left", part = "body")  %>%
-      ftExtra::colformat_md(j = events, part="body") %>%
-        
-      #Checkmarks
-      flextable::width( j = checkmarks, width=0.05) %>%
-      align(i = NULL, j = checkmarks, align = "center", part = "body")  
-
-
-ft   %>% 
-    #flextable::flextable_to_rmd()
-    save_as_image(path=here::here("replication_paper", "psrm_draft", "recall_cuban_and_crimea.png"), zoom=1, webshot = "webshot2") # webshot = "webshot2"
-```
-
-```{r recall-all, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
-#Recall Summary Statistics
-#, icb_narrative_cd=icb_narrative.y, icews_cd=icews_hash
-temp1_long <- temp1 %>% dplyr::select(docs=Docs, ICB_Narrative=icb_narrative, ICBe=ICBe, ICB=ICB,MIDs=MIDs,Phoenix=phoenix) %>% mutate(crisis="Cuban Missile Crisis") %>% pivot_longer(cols=-c(crisis, docs)) %>% 
-              mutate(value=ifelse(!is.na(value) & !value %in% 0,1,0)) 
-
-temp2_long <- temp2 %>% dplyr::select(docs=Docs,ICB_Narrative=icb_narrative,ICBe=ICBe,MIDs=MIDs , Phoenix=phoenix, Terrier=terrier, ICEWS= icews) %>% mutate(crisis="Crimea-Donbas Crisis") %>% pivot_longer(cols=-c(crisis, docs)) %>% 
-              mutate(value=ifelse(!is.na(value) & !value %in% 0,1,0)) 
-
-temp3_long <- bind_rows(temp1_long,temp2_long)
-
-Y_hat <- temp3_long %>% dplyr::select(name) %>% distinct()
-mylogit <- glm(value ~ name, data = temp3_long, family = "binomial")
-Y_hat$fit <- predict(mylogit, temp3_long %>% dplyr::select(name) %>% distinct() , type='response', se.fit=TRUE)$fit
-Y_hat$se <- predict(mylogit, temp3_long %>% dplyr::select(name) %>% distinct() , type='response', se.fit=TRUE)$se.fit
-Y_hat$name <- Y_hat$name %>% fct_reorder(Y_hat$fit)
-
-#Y_hat %>% ggplot(aes(name, fit)) +
-#          geom_point(size=4) +
-#          geom_errorbar(aes(ymin = fit-(1.98*se), ymax = fit+(1.98*se)), width = 0.1, linetype="solid") + coord_flip()  + theme_bw() + 
-#          ylab("Mean Recall") + xlab("")
-
-#temp3_long_means <- temp3_long %>% 
-#                    group_by(name) %>%
-#                    summarise(value= value %>%mean() %>% round(2))
-
-#temp3_long %>% ggplot(aes(x=log(docs), y=value, color=name)) + geom_point() +
-#  geom_smooth(method = "glm", method.args = list(family = "binomial"), se=F) + 
-#  ylab("Recall") + xlab("Document Mentions (Log)") +
-#  facet_wrap(~crisis, scales="free_x")
-
-library(geomtextpath)
-temp3_long$crisis <- factor(temp3_long$crisis, levels= temp3_long$crisis %>% as.character() %>% unique() %>% sort() %>% rev() )
-p_recall <- temp3_long %>% ggplot(aes(x=log(docs), y=value, color=name)) + 
-  #geom_point() +
-  geom_textsmooth(aes(label = name), size=3, method = "glm", method.args = list(family = "binomial"), se=F) + 
-  ylab("Recall") + xlab("Document Mentions (Log)") +
-  facet_wrap(~crisis, scales="free_x") +
-  theme_bw() +
-  theme(legend.position="none")
-
-#p_recall
-
-ggsave(file=paste0(here::here(), '/replication_paper/psrm_draft/p_recall.png'),
-       plot = p_recall ,
-       width=5, height=3.0)
-
-library(magick)
-
-tiger <- image_read(here::here("replication_paper", "psrm_draft", "recall_cuban_and_crimea.png"))
-tiger2 <- image_read(paste0(here::here(), '/replication_paper/psrm_draft/p_recall.png'))
-
-combined <- image_composite(tiger, image_scale(tiger2, "x290"), offset = "+475+650")
-image_write(combined, here::here("replication_paper", "psrm_draft", "recall_cuban_and_crimea_andcounts.png"))
-```
 
 ## Cuban Missile Crisis (1962)
 
@@ -1672,7 +1685,7 @@ As this more recent case reflects primarily public reporting rather than the pre
 
 We take the same approach here in Figure 7, selecting four specific CAMEO event codings and checking how often they reflect a true real-world event from the Crimea-Donbas synthetic narrative. We choose four event types around key moments in the crisis. The start of the crisis revolves around Ukraine backing out of a trade deal with the EU in favor of Russia, but "sign formal agreement" events act more like a topic detector with dozens of events generated by discussions of a possible agreement but not the actual agreement which never materialized. The switch is caught by the "reject plan, agreement to settle dispute", but also continues for Viktor Yanukovych even after he was removed from power because of articles retroactively discussing the cause of his removal. Events for "use conventional military force" capture a threshold around the start of hostilities and who the participants were but not any particular battles or campaigns. Likewise, "impose embargo, boycott, or sanctions" captures the start of waves of sanctions and from who but are effectively constant as the news coverage does not distinguish between subtle changes or additions. In sum, dictionary-based methods on news corpora tend to have high recall because they parse everything in the news, but for the same reason, their specificity for most event types is too low to back out individual chess-like sequencing that ICBe aims to record.
 
-```{r precision, eval=F, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
+```{r precision, eval=fromscratch, results='hide', echo=F, include=T, message=F, cache=F, warning=F, ft.arraystretch=0.75}
 
 # AG temp edit: revert by setting 'eval=T'
 
