@@ -17,8 +17,9 @@ knitr::opts_chunk$set(
 The International Crisis Behavior Events (ICBe)
 -----------------------------
 
+This is a github repository for the International Crisis Behavior Events (ICBe) dataset. Submit any issues regarding the dataset, paper, or github repository using [the issues tab](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/issues/new/choose).
 
-This is a github repository for the International Crisis Behavior Events (ICBe) dataset. Submit any issues regarding the dataset, paper, or github repository using [the issues tab](https://github.com/CenterForPeaceAndSecurityStudies/ICBEdataset/issues/new/choose). 
+AS OF JUNE 2024, THE [DATAVERSE REPLICATION FILES](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FMNVUEP) ARE THE MOST UP-TO-DATE. PLEASE USE THAT REPOSITORY FIRST.
 
 ## The Paper:
 
