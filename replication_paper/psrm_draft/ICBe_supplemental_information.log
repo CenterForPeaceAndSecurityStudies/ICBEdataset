@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.13)  19 AUG 2023 15:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  8 APR 2024 19:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -992,288 +992,238 @@ mation.toc)
 \tf@toc=\write4
 \openout4 = `ICBe_supplemental_information.toc'.
 
-[2]
-<./crisis_text_counts_ft1.png, id=112, 999.735pt x 1383.1675pt>
+[2] [3]
+<./crisis_text_counts_ft1.png, id=117, 999.735pt x 1383.1675pt>
 File: ./crisis_text_counts_ft1.png Graphic file (type png)
 <use ./crisis_text_counts_ft1.png>
-Package pdftex.def Info: ./crisis_text_counts_ft1.png  used on input line 210.
+Package pdftex.def Info: ./crisis_text_counts_ft1.png  used on input line 254.
 (pdftex.def)             Requested size: 390.74934pt x 540.60236pt.
-[3
-
- <./crisis_text_counts_ft1.png>]
-<./crisis_text_counts_ft2.png, id=122, 999.735pt x 1550.79375pt>
-File: ./crisis_text_counts_ft2.png Graphic file (type png)
-<use ./crisis_text_counts_ft2.png>
-Package pdftex.def Info: ./crisis_text_counts_ft2.png  used on input line 215.
-(pdftex.def)             Requested size: 385.19662pt x 597.50787pt.
 [4
 
- <./crisis_text_counts_ft2.png>]
-<./crisis_text_counts_ft3.png, id=129, 999.735pt x 1424.32124pt>
-File: ./crisis_text_counts_ft3.png Graphic file (type png)
-<use ./crisis_text_counts_ft3.png>
-Package pdftex.def Info: ./crisis_text_counts_ft3.png  used on input line 220.
-(pdftex.def)             Requested size: 419.38243pt x 597.50787pt.
+ <./crisis_text_counts_ft1.png>]
+<./crisis_text_counts_ft2.png, id=127, 999.735pt x 1550.79375pt>
+File: ./crisis_text_counts_ft2.png Graphic file (type png)
+<use ./crisis_text_counts_ft2.png>
+Package pdftex.def Info: ./crisis_text_counts_ft2.png  used on input line 259.
+(pdftex.def)             Requested size: 385.19662pt x 597.50787pt.
 [5
 
- <./crisis_text_counts_ft3.png>]
-<./crisis_text_counts_ft4.png, id=136, 999.735pt x 1543.7675pt>
-File: ./crisis_text_counts_ft4.png Graphic file (type png)
-<use ./crisis_text_counts_ft4.png>
-Package pdftex.def Info: ./crisis_text_counts_ft4.png  used on input line 225.
-(pdftex.def)             Requested size: 386.93567pt x 597.50787pt.
+ <./crisis_text_counts_ft2.png>]
+<./crisis_text_counts_ft3.png, id=134, 999.735pt x 1424.32124pt>
+File: ./crisis_text_counts_ft3.png Graphic file (type png)
+<use ./crisis_text_counts_ft3.png>
+Package pdftex.def Info: ./crisis_text_counts_ft3.png  used on input line 264.
+(pdftex.def)             Requested size: 419.38243pt x 597.50787pt.
 [6
 
- <./crisis_text_counts_ft4.png>]
-<./crisis_text_counts_ft5.png, id=143, 999.735pt x 1613.02625pt>
-File: ./crisis_text_counts_ft5.png Graphic file (type png)
-<use ./crisis_text_counts_ft5.png>
-Package pdftex.def Info: ./crisis_text_counts_ft5.png  used on input line 230.
-(pdftex.def)             Requested size: 370.32329pt x 597.50787pt.
+ <./crisis_text_counts_ft3.png>]
+<./crisis_text_counts_ft4.png, id=141, 999.735pt x 1543.7675pt>
+File: ./crisis_text_counts_ft4.png Graphic file (type png)
+<use ./crisis_text_counts_ft4.png>
+Package pdftex.def Info: ./crisis_text_counts_ft4.png  used on input line 269.
+(pdftex.def)             Requested size: 386.93567pt x 597.50787pt.
 [7
 
- <./crisis_text_counts_ft5.png>]
-<./crisis_text_counts_ft6.png, id=151, 999.735pt x 1609.01125pt>
-File: ./crisis_text_counts_ft6.png Graphic file (type png)
-<use ./crisis_text_counts_ft6.png>
-Package pdftex.def Info: ./crisis_text_counts_ft6.png  used on input line 235.
-(pdftex.def)             Requested size: 371.25383pt x 597.50787pt.
+ <./crisis_text_counts_ft4.png>]
+<./crisis_text_counts_ft5.png, id=149, 999.735pt x 1613.02625pt>
+File: ./crisis_text_counts_ft5.png Graphic file (type png)
+<use ./crisis_text_counts_ft5.png>
+Package pdftex.def Info: ./crisis_text_counts_ft5.png  used on input line 274.
+(pdftex.def)             Requested size: 370.32329pt x 597.50787pt.
 [8
 
- <./crisis_text_counts_ft6.png>]
-<./crisis_text_counts_ft7.png, id=158, 999.735pt x 1709.38625pt>
-File: ./crisis_text_counts_ft7.png Graphic file (type png)
-<use ./crisis_text_counts_ft7.png>
-Package pdftex.def Info: ./crisis_text_counts_ft7.png  used on input line 240.
-(pdftex.def)             Requested size: 349.43959pt x 597.50787pt.
+ <./crisis_text_counts_ft5.png>]
+<./crisis_text_counts_ft6.png, id=156, 999.735pt x 1609.01125pt>
+File: ./crisis_text_counts_ft6.png Graphic file (type png)
+<use ./crisis_text_counts_ft6.png>
+Package pdftex.def Info: ./crisis_text_counts_ft6.png  used on input line 279.
+(pdftex.def)             Requested size: 371.25383pt x 597.50787pt.
 [9
 
- <./crisis_text_counts_ft7.png>]
-<./crisis_text_counts_ft8.png, id=165, 999.735pt x 1852.9225pt>
-File: ./crisis_text_counts_ft8.png Graphic file (type png)
-<use ./crisis_text_counts_ft8.png>
-Package pdftex.def Info: ./crisis_text_counts_ft8.png  used on input line 245.
-(pdftex.def)             Requested size: 322.37775pt x 597.50787pt.
+ <./crisis_text_counts_ft6.png>]
+<./crisis_text_counts_ft7.png, id=163, 999.735pt x 1709.38625pt>
+File: ./crisis_text_counts_ft7.png Graphic file (type png)
+<use ./crisis_text_counts_ft7.png>
+Package pdftex.def Info: ./crisis_text_counts_ft7.png  used on input line 284.
+(pdftex.def)             Requested size: 349.43959pt x 597.50787pt.
 [10
 
- <./crisis_text_counts_ft8.png>]
-Overfull \hbox (39.74872pt too wide) in alignment at lines 267--277
- [] [] [] 
- []
-
-
-Overfull \hbox (39.74872pt too wide) in alignment at lines 277--285
- [] [] [] 
- []
-
-
-Overfull \hbox (39.74872pt too wide) in alignment at lines 285--1882
- [] [] [] 
- []
-
-
-Overfull \hbox (39.74872pt too wide) in alignment at lines 1882--1889
- [] [] [] 
- []
-
+ <./crisis_text_counts_ft7.png>]
+<./crisis_text_counts_ft8.png, id=170, 999.735pt x 1852.9225pt>
+File: ./crisis_text_counts_ft8.png Graphic file (type png)
+<use ./crisis_text_counts_ft8.png>
+Package pdftex.def Info: ./crisis_text_counts_ft8.png  used on input line 289.
+(pdftex.def)             Requested size: 322.37775pt x 597.50787pt.
 [11
 
-] [12] [13] [14]
-<./gui_example.png, id=193, 1606.0pt x 669.50125pt>
-File: ./gui_example.png Graphic file (type png)
-<use ./gui_example.png>
-Package pdftex.def Info: ./gui_example.png  used on input line 1915.
-(pdftex.def)             Requested size: 483.69684pt x 201.63853pt.
-
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 1915--1916
- [][] 
+ <./crisis_text_counts_ft8.png>]
+Overfull \hbox (39.74872pt too wide) in alignment at lines 311--321
+ [] [] [] 
  []
 
-[15
 
- <./gui_example.png>]
-Overfull \hbox (30.0pt too wide) in paragraph at lines 1924--1946
-$[]$ 
+Overfull \hbox (39.74872pt too wide) in alignment at lines 321--329
+ [] [] [] 
+ []
+
+
+Overfull \hbox (39.74872pt too wide) in alignment at lines 329--1926
+ [] [] [] 
+ []
+
+
+Overfull \hbox (39.74872pt too wide) in alignment at lines 1926--1933
+ [] [] [] 
+ []
+
+[12
+
+] [13] [14] [15]
+<./gui_example.png, id=198, 1606.0pt x 669.50125pt>
+File: ./gui_example.png Graphic file (type png)
+<use ./gui_example.png>
+Package pdftex.def Info: ./gui_example.png  used on input line 1959.
+(pdftex.def)             Requested size: 483.69684pt x 201.63853pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 1959--1960
+ [][] 
  []
 
 [16
 
+ <./gui_example.png>]
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1968--1990
+$[]$ 
+ []
+
+[17
+
 ]
-<./p_percent_chose_tag_by_concept.png, id=210, 578.16pt x 578.16pt>
+<./p_percent_chose_tag_by_concept.png, id=214, 578.16pt x 578.16pt>
 File: ./p_percent_chose_tag_by_concept.png Graphic file (type png)
 <use ./p_percent_chose_tag_by_concept.png>
 Package pdftex.def Info: ./p_percent_chose_tag_by_concept.png  used on input li
-ne 1956.
+ne 2000.
 (pdftex.def)             Requested size: 426.79134pt x 426.79071pt.
-[17
+[18
 
  <./p_percent_chose_tag_by_concept.png>]
-<./p_percent_chose_tag_by_confidence.png, id=217, 578.16pt x 433.62pt>
+<./p_percent_chose_tag_by_confidence.png, id=221, 578.16pt x 433.62pt>
 File: ./p_percent_chose_tag_by_confidence.png Graphic file (type png)
 <use ./p_percent_chose_tag_by_confidence.png>
 Package pdftex.def Info: ./p_percent_chose_tag_by_confidence.png  used on input
- line 1968.
+ line 2012.
 (pdftex.def)             Requested size: 426.79134pt x 320.09303pt.
-[18
+[19
 
  <./p_percent_chose_tag_by_confidence.png>]
-Overfull \hbox (30.0pt too wide) in paragraph at lines 2021--2065
+Overfull \hbox (30.0pt too wide) in paragraph at lines 2065--2109
 $[]$ 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[19
+[20
 
-] [20]
-<./ft_cuba_recall.png, id=247, 999.735pt x 1115.16624pt>
+] [21]
+<./ft_cuba_recall.png, id=251, 999.735pt x 1115.16624pt>
 File: ./ft_cuba_recall.png Graphic file (type png)
 <use ./ft_cuba_recall.png>
-Package pdftex.def Info: ./ft_cuba_recall.png  used on input line 2076.
+Package pdftex.def Info: ./ft_cuba_recall.png  used on input line 2120.
 (pdftex.def)             Requested size: 484.65733pt x 540.60236pt.
 
-Overfull \hbox (14.90234pt too wide) in paragraph at lines 2076--2077
- [][] 
- []
-
-[21
-
- <./ft_cuba_recall.png>]
-<./ft_crimea_recall.png, id=255, 999.735pt x 1109.14375pt>
-File: ./ft_crimea_recall.png Graphic file (type png)
-<use ./ft_crimea_recall.png>
-Package pdftex.def Info: ./ft_crimea_recall.png  used on input line 2088.
-(pdftex.def)             Requested size: 487.28114pt x 540.60236pt.
-
-Overfull \hbox (17.52615pt too wide) in paragraph at lines 2088--2089
+Overfull \hbox (14.90234pt too wide) in paragraph at lines 2120--2121
  [][] 
  []
 
 [22
 
- <./ft_crimea_recall.png>]
-<./case_study_crimea_precision_part1.png, id=263, 999.735pt x 1678.27pt>
-File: ./case_study_crimea_precision_part1.png Graphic file (type png)
-<use ./case_study_crimea_precision_part1.png>
-Package pdftex.def Info: ./case_study_crimea_precision_part1.png  used on input
- line 2102.
-(pdftex.def)             Requested size: 322.02689pt x 540.60236pt.
-[23
+ <./ft_cuba_recall.png>]
+<./ft_crimea_recall.png, id=259, 999.735pt x 1109.14375pt>
+File: ./ft_crimea_recall.png Graphic file (type png)
+<use ./ft_crimea_recall.png>
+Package pdftex.def Info: ./ft_crimea_recall.png  used on input line 2132.
+(pdftex.def)             Requested size: 487.28114pt x 540.60236pt.
 
- <./case_study_crimea_precision_part1.png>]
-<./case_study_crimea_precision_part2.png, id=272, 999.735pt x 857.2025pt>
-File: ./case_study_crimea_precision_part2.png Graphic file (type png)
-<use ./case_study_crimea_precision_part2.png>
-Package pdftex.def Info: ./case_study_crimea_precision_part2.png  used on input
- line 2107.
-(pdftex.def)             Requested size: 365.01465pt x 312.9803pt.
-[24
-
- <./case_study_crimea_precision_part2.png>]
-<./ft_sample_precision_precision1.png, id=279, 999.735pt x 930.47626pt>
-File: ./ft_sample_precision_precision1.png Graphic file (type png)
-<use ./ft_sample_precision_precision1.png>
-Package pdftex.def Info: ./ft_sample_precision_precision1.png  used on input li
-ne 2118.
-(pdftex.def)             Requested size: 458.55652pt x 426.79134pt.
-[25
-
- <./ft_sample_precision_precision1.png>]
-<./ft_sample_precision_precision2.png, id=288, 999.735pt x 1776.6375pt>
-File: ./ft_sample_precision_precision2.png Graphic file (type png)
-<use ./ft_sample_precision_precision2.png>
-Package pdftex.def Info: ./ft_sample_precision_precision2.png  used on input li
-ne 2124.
-(pdftex.def)             Requested size: 336.21376pt x 597.50787pt.
-[26
-
- <./ft_sample_precision_precision2.png>]
-<./ft_sample_precision_precision3.png, id=295, 999.735pt x 2024.56375pt>
-File: ./ft_sample_precision_precision3.png Graphic file (type png)
-<use ./ft_sample_precision_precision3.png>
-Package pdftex.def Info: ./ft_sample_precision_precision3.png  used on input li
-ne 2130.
-(pdftex.def)             Requested size: 295.05656pt x 597.50787pt.
-[27
-
- <./ft_sample_precision_precision3.png>]
-<./ft_sample_precision_precision4.png, id=302, 999.735pt x 1260.71pt>
-File: ./ft_sample_precision_precision4.png Graphic file (type png)
-<use ./ft_sample_precision_precision4.png>
-Package pdftex.def Info: ./ft_sample_precision_precision4.png  used on input li
-ne 2136.
-(pdftex.def)             Requested size: 473.82649pt x 597.50787pt.
-
-Overfull \hbox (4.0715pt too wide) in paragraph at lines 2136--2137
+Overfull \hbox (17.52615pt too wide) in paragraph at lines 2132--2133
  [][] 
  []
 
-<./p_196_combined.png, id=303, 1445.4pt x 867.24pt>
+[23
+
+ <./ft_crimea_recall.png>]
+<./case_study_crimea_precision_part1.png, id=267, 999.735pt x 1678.27pt>
+File: ./case_study_crimea_precision_part1.png Graphic file (type png)
+<use ./case_study_crimea_precision_part1.png>
+Package pdftex.def Info: ./case_study_crimea_precision_part1.png  used on input
+ line 2146.
+(pdftex.def)             Requested size: 322.02689pt x 540.60236pt.
+[24
+
+ <./case_study_crimea_precision_part1.png>]
+<./case_study_crimea_precision_part2.png, id=276, 999.735pt x 857.2025pt>
+File: ./case_study_crimea_precision_part2.png Graphic file (type png)
+<use ./case_study_crimea_precision_part2.png>
+Package pdftex.def Info: ./case_study_crimea_precision_part2.png  used on input
+ line 2151.
+(pdftex.def)             Requested size: 365.01465pt x 312.9803pt.
+[25
+
+ <./case_study_crimea_precision_part2.png>]
+<./ft_sample_precision_precision1.png, id=284, 999.735pt x 930.47626pt>
+File: ./ft_sample_precision_precision1.png Graphic file (type png)
+<use ./ft_sample_precision_precision1.png>
+Package pdftex.def Info: ./ft_sample_precision_precision1.png  used on input li
+ne 2162.
+(pdftex.def)             Requested size: 458.55652pt x 426.79134pt.
+[26
+
+ <./ft_sample_precision_precision1.png>]
+<./ft_sample_precision_precision2.png, id=292, 999.735pt x 1776.6375pt>
+File: ./ft_sample_precision_precision2.png Graphic file (type png)
+<use ./ft_sample_precision_precision2.png>
+Package pdftex.def Info: ./ft_sample_precision_precision2.png  used on input li
+ne 2168.
+(pdftex.def)             Requested size: 336.21376pt x 597.50787pt.
+[27
+
+ <./ft_sample_precision_precision2.png>]
+<./ft_sample_precision_precision3.png, id=299, 999.735pt x 2024.56375pt>
+File: ./ft_sample_precision_precision3.png Graphic file (type png)
+<use ./ft_sample_precision_precision3.png>
+Package pdftex.def Info: ./ft_sample_precision_precision3.png  used on input li
+ne 2174.
+(pdftex.def)             Requested size: 295.05656pt x 597.50787pt.
+[28
+
+ <./ft_sample_precision_precision3.png>]
+<./ft_sample_precision_precision4.png, id=306, 999.735pt x 1260.71pt>
+File: ./ft_sample_precision_precision4.png Graphic file (type png)
+<use ./ft_sample_precision_precision4.png>
+Package pdftex.def Info: ./ft_sample_precision_precision4.png  used on input li
+ne 2180.
+(pdftex.def)             Requested size: 473.82649pt x 597.50787pt.
+
+Overfull \hbox (4.0715pt too wide) in paragraph at lines 2180--2181
+ [][] 
+ []
+
+<./p_196_combined.png, id=307, 1445.4pt x 867.24pt>
 File: ./p_196_combined.png Graphic file (type png)
 <use ./p_196_combined.png>
-Package pdftex.def Info: ./p_196_combined.png  used on input line 2149.
+Package pdftex.def Info: ./p_196_combined.png  used on input line 2193.
 (pdftex.def)             Requested size: 614.295pt x 368.57875pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[28
+[29
 
- <./ft_sample_precision_precision4.png>] [29 <./p_196_combined.png>]
-<./p_phoenix_plot_lv0_196.png, id=318, 1445.4pt x 1084.05pt>
+ <./ft_sample_precision_precision4.png>] [30 <./p_196_combined.png>]
+<./p_phoenix_plot_lv0_196.png, id=322, 1445.4pt x 1084.05pt>
 File: ./p_phoenix_plot_lv0_196.png Graphic file (type png)
 <use ./p_phoenix_plot_lv0_196.png>
-Package pdftex.def Info: ./p_phoenix_plot_lv0_196.png  used on input line 2161.
-
-(pdftex.def)             Requested size: 614.295pt x 460.72343pt.
-
-Overfull \hbox (8.91843pt too wide) in paragraph at lines 2156--2164
-[] 
- []
-
-<./p_471_icbe.png, id=319, 975.645pt x 1300.86pt>
-File: ./p_471_icbe.png Graphic file (type png)
-<use ./p_471_icbe.png>
-Package pdftex.def Info: ./p_471_icbe.png  used on input line 2171.
-(pdftex.def)             Requested size: 483.69684pt x 644.9301pt.
-
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 2171--2172
- [][] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[30
-
- <./p_phoenix_plot_lv0_196.png>]
-Overfull \vbox (34.8601pt too high) has occurred while \output is active []
-
-[31 <./p_471_icbe.png>]
-<./p_471_combined.png, id=332, 1806.75pt x 867.24pt>
-File: ./p_471_combined.png Graphic file (type png)
-<use ./p_471_combined.png>
-Package pdftex.def Info: ./p_471_combined.png  used on input line 2181.
-(pdftex.def)             Requested size: 552.86174pt x 265.37457pt.
-<./p_phoenix_plot_lv0_471.png, id=333, 1445.4pt x 1084.05pt>
-File: ./p_phoenix_plot_lv0_471.png Graphic file (type png)
-<use ./p_phoenix_plot_lv0_471.png>
-Package pdftex.def Info: ./p_phoenix_plot_lv0_471.png  used on input line 2193.
-
-(pdftex.def)             Requested size: 614.295pt x 460.72343pt.
-
-Overfull \hbox (8.91843pt too wide) in paragraph at lines 2188--2196
-[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[32 <./p_471_combined.png>]
-<./p_terrier_plot_lv0_471.png, id=340, 1445.4pt x 1084.05pt>
-File: ./p_terrier_plot_lv0_471.png Graphic file (type png)
-<use ./p_terrier_plot_lv0_471.png>
-Package pdftex.def Info: ./p_terrier_plot_lv0_471.png  used on input line 2205.
+Package pdftex.def Info: ./p_phoenix_plot_lv0_196.png  used on input line 2205.
 
 (pdftex.def)             Requested size: 614.295pt x 460.72343pt.
 
@@ -1281,24 +1231,74 @@ Overfull \hbox (8.91843pt too wide) in paragraph at lines 2200--2208
 [] 
  []
 
-[33 <./p_phoenix_plot_lv0_471.png>]
-<./p_icews_plot_lv0_471.png, id=346, 1445.4pt x 1084.05pt>
-File: ./p_icews_plot_lv0_471.png Graphic file (type png)
-<use ./p_icews_plot_lv0_471.png>
-Package pdftex.def Info: ./p_icews_plot_lv0_471.png  used on input line 2217.
+<./p_471_icbe.png, id=323, 975.645pt x 1300.86pt>
+File: ./p_471_icbe.png Graphic file (type png)
+<use ./p_471_icbe.png>
+Package pdftex.def Info: ./p_471_icbe.png  used on input line 2215.
+(pdftex.def)             Requested size: 483.69684pt x 644.9301pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 2215--2216
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[31
+
+ <./p_phoenix_plot_lv0_196.png>]
+Overfull \vbox (34.8601pt too high) has occurred while \output is active []
+
+[32 <./p_471_icbe.png>]
+<./p_471_combined.png, id=336, 1806.75pt x 867.24pt>
+File: ./p_471_combined.png Graphic file (type png)
+<use ./p_471_combined.png>
+Package pdftex.def Info: ./p_471_combined.png  used on input line 2225.
+(pdftex.def)             Requested size: 552.86174pt x 265.37457pt.
+<./p_phoenix_plot_lv0_471.png, id=337, 1445.4pt x 1084.05pt>
+File: ./p_phoenix_plot_lv0_471.png Graphic file (type png)
+<use ./p_phoenix_plot_lv0_471.png>
+Package pdftex.def Info: ./p_phoenix_plot_lv0_471.png  used on input line 2237.
+
 (pdftex.def)             Requested size: 614.295pt x 460.72343pt.
 
-Overfull \hbox (8.91843pt too wide) in paragraph at lines 2212--2220
+Overfull \hbox (8.91843pt too wide) in paragraph at lines 2232--2240
 [] 
  []
 
-[34 <./p_terrier_plot_lv0_471.png>] [35 <./p_icews_plot_lv0_471.png>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[33 <./p_471_combined.png>]
+<./p_terrier_plot_lv0_471.png, id=344, 1445.4pt x 1084.05pt>
+File: ./p_terrier_plot_lv0_471.png Graphic file (type png)
+<use ./p_terrier_plot_lv0_471.png>
+Package pdftex.def Info: ./p_terrier_plot_lv0_471.png  used on input line 2249.
+
+(pdftex.def)             Requested size: 614.295pt x 460.72343pt.
+
+Overfull \hbox (8.91843pt too wide) in paragraph at lines 2244--2252
+[] 
+ []
+
+[34 <./p_phoenix_plot_lv0_471.png>]
+<./p_icews_plot_lv0_471.png, id=350, 1445.4pt x 1084.05pt>
+File: ./p_icews_plot_lv0_471.png Graphic file (type png)
+<use ./p_icews_plot_lv0_471.png>
+Package pdftex.def Info: ./p_icews_plot_lv0_471.png  used on input line 2261.
+(pdftex.def)             Requested size: 614.295pt x 460.72343pt.
+
+Overfull \hbox (8.91843pt too wide) in paragraph at lines 2256--2264
+[] 
+ []
+
+[35 <./p_terrier_plot_lv0_471.png>] [36 <./p_icews_plot_lv0_471.png>]
 No file ICBe_supplemental_information.bbl.
 
 Package caption Warning: Unused \captionsetup[algorithm] on input line 167.
 See the caption package documentation for explanation.
 
-[36
+[37
 
 ] (./ICBe_supplemental_information.aux)
 
@@ -1309,9 +1309,9 @@ hanged.
 (rerunfilecheck)             Checksum: 51149F9DD73D4B6F67328225FA8EA56F;3405.
  ) 
 Here is how much of TeX's memory you used:
- 19494 strings out of 478287
- 325316 string characters out of 5849289
- 909051 words of memory out of 5000000
+ 19495 strings out of 478287
+ 325323 string characters out of 5849289
+ 909047 words of memory out of 5000000
  37041 multiletter control sequences out of 15000+600000
  534553 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1329,11 +1329,11 @@ are/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/te
 xmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmt
 t10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt9.pfb>
-Output written on ICBe_supplemental_information.pdf (36 pages, 16871601 bytes).
+Output written on ICBe_supplemental_information.pdf (37 pages, 16872004 bytes).
 
 PDF statistics:
- 473 PDF objects out of 1000 (max. 8388607)
- 356 compressed objects within 4 object streams
- 116 named destinations out of 1000 (max. 500000)
+ 480 PDF objects out of 1000 (max. 8388607)
+ 362 compressed objects within 4 object streams
+ 117 named destinations out of 1000 (max. 500000)
  36115 words of extra memory for PDF output out of 42996 (max. 10000000)
 

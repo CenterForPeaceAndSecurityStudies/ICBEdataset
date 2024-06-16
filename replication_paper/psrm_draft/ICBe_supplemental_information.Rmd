@@ -168,13 +168,11 @@ ICBe_crises_markdown <- readRDS( paste0(here::here(), "/replication_data/out/ICB
 
 ICBe_events_agreed_markdown <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.Rds")) 
 
-#oh is it because break is reserved in R? lol
 #icb_crises <- read_csv(file=paste0(here::here(), "/data_other_datasets/icb/icb1v14.csv")) %>% janitor::clean_names()
 icb_crises  <- read.csv(paste0(here::here(), "/replication_data/in/icb1v14.csv")) %>% janitor::clean_names()
 icb_crises$start_simple <- icb_crises$yrtrig+(icb_crises$motrig/12)
 icb_crises$end_simple <- icb_crises$yrterm+(icb_crises$moterm/12)
 
-#somehow break of all things is a b roken name
 #icb_actors <- read_csv(file=paste0(here::here(), "/data_other_datasets/icb/icb2v14.csv"))
 icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
 
@@ -183,12 +181,8 @@ icb_actors <- read.csv(paste0(here::here(), "/replication_data/in/icb2v14.csv"))
 # Corpus and Cases
 ## ICBe Crises and Summary Information {#app:crises}
 
-```{r ICBe Crisis Summaries, eval=F, echo=F, results='hide', include=T, message=F, cache=F, warning=F}
+```{r ICBe Crisis Summaries, eval=T, echo=F, results='hide', include=T, message=F, cache=F, warning=F}
 
-# Not evaluated for R&R
-
-#The answer is I have to include it as an image, none of the table options were compiling correctly without error
-#,  ft.arraystretch=0.75 
 
 temp_all <-  ICBe_crises_markdown %>% ungroup() %>% dplyr::select(
                     crisno, crisis_text,  yrtrig , yrterm,  n_sentence_number_int_aligned, n_events, 
@@ -198,9 +192,17 @@ temp_all <-  ICBe_crises_markdown %>% ungroup() %>% dplyr::select(
                     units_domains, 
                     forces_fatalities
                     ) %>%
-              mutate_all(as.character) %>%
-              mutate(crisis_text = crisis_text %>% stringr::str_to_title() %>% str_replace("Ii$","II"))
-
+  mutate_all(as.character) %>%
+  mutate(crisis_text = crisis_text %>% stringr::str_to_title() %>% str_replace("Ii$","II")) %>%
+  dplyr::mutate(actors = actors %>% stringr::str_replace_all(stringr::fixed("/home/tlscherer/Desktop/ICBEdataset/replication_data/in/"), stringr::fixed(""))) %>%
+  dplyr::mutate(actors = actors %>% stringr::str_replace_all(stringr::fixed("Columbia;Cuba;Mexico;United States;Uruguay"), stringr::fixed("![](flags_small//Q739.png);![](flags_small//Q241.png);![](flags_small//Q96.png)"))) %>%
+  dplyr::mutate(actors = actors %>% stringr::str_replace_all(stringr::fixed("Belgium;France;Germany;Italy;United Kingdom"), stringr::fixed(""))) %>%
+  dplyr::mutate(actors = actors %>% stringr::str_replace_all(stringr::fixed("France;United Kingdom"), stringr::fixed(""))) %>%
+  dplyr::mutate(actors = actors %>% stringr::str_replace_all(stringr::fixed(";Soviet Union;United States of America"), stringr::fixed(""))) %>%
+  dplyr::mutate(actors = actors %>% stringr::str_replace_all(stringr::fixed(";Saudi Arabia"), stringr::fixed(""))) %>%
+  dplyr::mutate(units_domains = units_domains %>% stringr::str_replace_all(stringr::fixed("/home/tlscherer/Desktop/ICBEdataset/replication_data/in/"), stringr::fixed(""))) %>%
+  dplyr::mutate(forces_fatalities = forces_fatalities %>% stringr::str_replace_all(stringr::fixed("/home/tlscherer/Desktop/ICBEdataset/replication_data/in/"), stringr::fixed("")))
+## DOUBLE CHECK ABOVE
 
 convert_to_ft <- function(x){
      x %>% flextable::as_flextable() %>%
@@ -226,7 +228,7 @@ convert_to_ft <- function(x){
                 n_sentence_number_int_aligned = "Counts",
                 n_events = "Counts",
                 coders_expert = "Coders",
-                coders_novice = "Coders"#,
+                coders_novice = "Coders"
                 #value_markdown = "Abstract"
                ) ) %>%
       flextable::merge_h(part = "header" ) %>%
@@ -247,31 +249,42 @@ convert_to_ft <- function(x){
       flextable::bg( i = which( 1:nrow(x) %% 2 == 1)  , part = "body", bg = "#EFEFEF") %>%
       ftExtra::colformat_md(j = 9:11, part="body")
 }
+```
 
-temp_all %>% ungroup() %>% filter(crisno %in% c(1:60)) %>% convert_to_ft() %>%
-  save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft1.png"), zoom=1)
+```{r}
+## Double Check Below
 
-temp_all %>% ungroup() %>% filter(crisno %in% c(61:120) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft2.png"), zoom=1)
+crisis_text_counts_ft1 <- temp_all %>% ungroup() %>% filter(crisno %in% c(1:60)) %>% convert_to_ft() 
+#crisis_text_counts_ft1 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft1.png"), zoom=1)
+crisis_text_counts_ft1
 
-temp_all %>% ungroup() %>% filter(crisno %in% c(121:180) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft3.png"), zoom=1)
+crisis_text_counts_ft2 <- temp_all %>% ungroup() %>% filter(crisno %in% c(61:120) ) %>% convert_to_ft()  
+#crisis_text_counts_ft2 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft2.png"), zoom=1)
+crisis_text_counts_ft2
 
-temp_all %>% ungroup() %>% filter(crisno %in% c(181:240) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft4.png"), zoom=1)
+crisis_text_counts_ft3 <- temp_all %>% ungroup() %>% filter(crisno %in% c(121:180) ) %>% convert_to_ft() 
+#crisis_text_counts_ft3 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft3.png"), zoom=1)
+crisis_text_counts_ft3
 
-temp_all %>% ungroup() %>% filter(crisno %in% c(241:300) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft5.png"), zoom=1)
+crisis_text_counts_ft4 <- temp_all %>% ungroup() %>% filter(crisno %in% c(181:240) ) %>% convert_to_ft()
+#crisis_text_counts_ft4 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft4.png"), zoom=1)
+crisis_text_counts_ft4
 
-temp_all %>% ungroup() %>% filter(crisno %in% c(301:360) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft6.png"), zoom=1)
+crisis_text_counts_ft5 <- temp_all %>% ungroup() %>% filter(crisno %in% c(241:300) ) %>% convert_to_ft() 
+#crisis_text_counts_ft5 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft5.png"), zoom=1)
+crisis_text_counts_ft5
 
-temp_all %>% ungroup() %>% filter(crisno %in% c(361:420) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft7.png"), zoom=1)
+crisis_text_counts_ft6 <- temp_all %>% ungroup() %>% filter(crisno %in% c(301:360) ) %>% convert_to_ft() 
+#crisis_text_counts_ft6 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft6.png"), zoom=1)
+crisis_text_counts_ft6
 
-temp_all %>% ungroup() %>% filter(crisno %in% c(421:480) ) %>% convert_to_ft()  %>% 
-  save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft8.png"), zoom=1)
+crisis_text_counts_ft7 <- temp_all %>% ungroup() %>% filter(crisno %in% c(361:420) ) %>% convert_to_ft() 
+#crisis_text_counts_ft7 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft7.png"), zoom=1)
+crisis_text_counts_ft7
 
+crisis_text_counts_ft8 <- temp_all %>% ungroup() %>% filter(crisno %in% c(421:480) ) %>% convert_to_ft() 
+#crisis_text_counts_ft8 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "crisis_text_counts_ft8.png"), zoom=1)
+crisis_text_counts_ft8
 ```
 
 
@@ -327,13 +340,12 @@ temp_all %>% ungroup() %>% filter(crisno %in% c(421:480) ) %>% convert_to_ft()  
 icb_text <- ICBe_events_agreed %>% dplyr::select(crisno,sentence_number_int_aligned, sentence=sentence_span_text) %>% distinct() %>% dplyr::mutate_at(vars(sentence_number_int_aligned), as.numeric) %>% arrange(crisno,sentence_number_int_aligned)
 
 # writeLines(icb_text$sentence %>% na.omit() %>% iconv("UTF-8", "ASCII", "?"), paste0(here::here(), "/replication_data/temp/sentences.txt"), useBytes = T)
-
-fromscratch=F
+fromscratch=FALSE
 if(fromscratch){
   #Here we use spacy to extract verbs from the sentences
   p_load("spacyr")
-  #spacy_install() 
-  spacy_initialize(model = "en_core_web_sm")
+  spacyr::spacy_install() 
+  spacy_initialize(model = "en_core_web_sm") # if this initially doesn't work, try the previous spacy_install command and restart R. 
 
   parsed <- spacy_parse(icb_text$sentence, nounphrase = TRUE)
   parsed_consolidated <- nounphrase_consolidate(parsed)
@@ -381,7 +393,6 @@ entities_per_sentence <- entities %>%
 
 #wordnet rdf (in tripple format)
 #wordnet rdf (in tripple format)
-fromscratch=F
 
 wordnet_rdf <- readRDS(paste0(here::here(), "/replication_paper/data/in/wordnet_rdf.Rds") )
 subject_headings <- wordnet_rdf %>% as_tibble() %>% filter(value %>% str_detect('http://purl.org/dc/terms/subject'))
@@ -420,10 +431,8 @@ wordnet <- wordnet_list[["wn_s.csv"]] %>% dplyr::select(wordnetid=X1, lemma=X3, 
 wordnet_verbs <- wordnet %>% filter(tense=='v')
 
 verbs_sentence_wordnet <- verbs_sentence %>% left_join(wordnet_verbs)
-#oh got it this is all possible matching glosses per ICBe sentence
+#this is all possible matching glosses per ICBe sentence
 #dim(verbs_sentence_wordnet) #227,426
-
-#I think we use sbert to embed the original sentence and the gloss and then calculate pairwise distances
 
 gloss_unique <- verbs_sentence_wordnet$gloss %>% unique() #how are there so few unique glosses?
 length(gloss_unique) #And there's also about 5k unique glosses 
@@ -437,6 +446,8 @@ length(sentences_unique) #11769
  # py_install("tqdm")
  # py_install("pandas")
  # py_install("transformers")
+ # py_install("torch")
+ # py_install("sentence_transformers")
 ```
 
 
@@ -445,89 +456,77 @@ length(sentences_unique) #11769
 #pip install -U sentence-transformers
 
 # can install python packages in R using code chunk above
-
-fromscratch=False
-
-if fromscratch:
-  import torch
-  use_cuda = torch.cuda.is_available()
-  if use_cuda:
-      print('__CUDNN VERSION:', torch.backends.cudnn.version())
-      print('__Number CUDA Devices:', torch.cuda.device_count())
-      print('__CUDA Device Name:',torch.cuda.get_device_name(0))
-      print('__CUDA Device Total Memory [GB]:',torch.cuda.get_device_properties(0).total_memory/1e9)
-      print('__CUDA Device Name:',torch.cuda.get_device_name(1))
-      print('__CUDA Device Total Memory [GB]:',torch.cuda.get_device_properties(1).total_memory/1e9)    
-  import random
-  import os
-  from tqdm.auto import tqdm
-  import pandas as pd
-  from transformers import pipeline
-  from transformers.pipelines.pt_utils import KeyDataset
-  from sentence_transformers import SentenceTransformer
-  import numpy as np
-  glosses=np.array(r.gloss_unique) #sentences_unique_sanitized
-  glosses_chars = np.array([len(q) for q in glosses])
-  #sentences=sentences[sentence_chars<1000] #cull anything with too many characters
-  len(glosses) #4977
-  n=len(glosses)
-  chunk_length=100
-  n_chunks = int(np.ceil(n/chunk_length)) #can only 
-  glosses_chunks=[glosses[i:i + chunk_length] for i in range(0, n, chunk_length)]
-  len(glosses_chunks)
-  len(glosses_chunks[0])  
-  model = SentenceTransformer('paraphrase-mpnet-base-v2')
-  glosses_embeddings = np.vstack([model.encode(q) for q in glosses_chunks])  #[0:100] #cpu is possible just painfully slow #, device='0'
-  glosses_embeddings.shape #(4977, 768)
-else:
-  print("Skipping")
+import torch
+use_cuda = torch.cuda.is_available()
+if use_cuda:
+    print('__CUDNN VERSION:', torch.backends.cudnn.version())
+    print('__Number CUDA Devices:', torch.cuda.device_count())
+    print('__CUDA Device Name:',torch.cuda.get_device_name(0))
+    print('__CUDA Device Total Memory [GB]:',torch.cuda.get_device_properties(0).total_memory/1e9)
+#    print('__CUDA Device Name:',torch.cuda.get_device_name(1))
+#    print('__CUDA Device Total Memory [GB]:',torch.cuda.get_device_properties(1).total_memory/1e9)    
+import random
+import os
+from tqdm.auto import tqdm
+import pandas as pd
+from transformers import pipeline
+from transformers.pipelines.pt_utils import KeyDataset
+from sentence_transformers import SentenceTransformer
+import numpy as np
+glosses=np.array(r.gloss_unique) #sentences_unique_sanitized
+glosses_chars = np.array([len(q) for q in glosses])
+#sentences=sentences[sentence_chars<1000] #cull anything with too many characters
+len(glosses) #4977
+n=len(glosses)
+chunk_length=100
+n_chunks = int(np.ceil(n/chunk_length)) #can only 
+glosses_chunks=[glosses[i:i + chunk_length] for i in range(0, n, chunk_length)]
+len(glosses_chunks)
+len(glosses_chunks[0])  
+model = SentenceTransformer('paraphrase-mpnet-base-v2')
+glosses_embeddings = np.vstack([model.encode(q) for q in glosses_chunks])  #[0:100] #cpu is possible just painfully slow #, device='0'
+glosses_embeddings.shape #(4977, 768)
 
 ```
 
 
-```{python embed sentences for wordnet , echo=F, results='hide', message=F, warning=F, eval=T , cache=F}
+```{python embed sentences for wordnet, echo=F, results='hide', message=F, warning=F, eval=T , cache=F}
 
-#Make sure you have a gpu if you want to run thi
+#Make sure you have a gpu if you want to run this
 
 #Now embed the sentences from above (note this is raw original sentences not the normalized ones used in the main paper)
 #Can't get this and spacy to work in the same run. Once reticulate loads once it sticks with the environment that came first and I can't figure out how to switch it.
 #pip install -U sentence-transformers
 
-fromscratch=False
-if fromscratch:
-  from sentence_transformers import SentenceTransformer
-  import numpy as np
-  sentences=np.array(r.sentences_unique) #sentences_unique_sanitized
-  sentence_chars = np.array([len(q) for q in sentences])
-  #sentences=sentences[sentence_chars<1000] #cull anything with too many characters
-  len(sentences) #12161 12162
-  n=len(sentences)
-  chunk_length=100
-  n_chunks = int(np.ceil(n/chunk_length)) #can only 
-  sentences_chunks=[sentences[i:i + chunk_length] for i in range(0, n, chunk_length)]
-  len(sentences_chunks)
-  len(sentences_chunks[0])  
-  #model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
-  #model = SentenceTransformer('sentence-transformers/gtr-t5-xxl')
-  #model = SentenceTransformer('sentence-transformers/gtr-t5-xl')
-  model = SentenceTransformer('paraphrase-mpnet-base-v2')
-  #sentences
-  #sentences_test=['That is a happy person','That is a happy dog','That is a not happy person','That person is happy','This person is happy']
-  #temp = model.encode(sentences_chunks[0])
-  sentences_embeddings = np.vstack([model.encode(q) for q in sentences_chunks])  #[0:100] #cpu is possible just painfully slow #, device='0'
-  sentences_embeddings.shape #(12103, 768)
-else:
-  print("Skipping")
+from sentence_transformers import SentenceTransformer
+import numpy as np
+sentences=np.array(r.sentences_unique) #sentences_unique_sanitized
+sentence_chars = np.array([len(q) for q in sentences])
+#sentences=sentences[sentence_chars<1000] #cull anything with too many characters
+len(sentences) #12161 12162
+n=len(sentences)
+chunk_length=100
+n_chunks = int(np.ceil(n/chunk_length)) #can only 
+sentences_chunks=[sentences[i:i + chunk_length] for i in range(0, n, chunk_length)]
+len(sentences_chunks)
+len(sentences_chunks[0])  
+#model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
+#model = SentenceTransformer('sentence-transformers/gtr-t5-xxl')
+#model = SentenceTransformer('sentence-transformers/gtr-t5-xl')
+model = SentenceTransformer('paraphrase-mpnet-base-v2')
+#sentences
+#sentences_test=['That is a happy person','That is a happy dog','That is a not happy person','That person is happy','This person is happy']
+#temp = model.encode(sentences_chunks[0])
+sentences_embeddings = np.vstack([model.encode(q) for q in sentences_chunks])  #[0:100] #cpu is possible just painfully slow #, device='0'
+sentences_embeddings.shape #(12103, 768)
 
 ```
 
 
 ```{r wordnet trees, echo=F, results='hide', message=F, warning=F, eval=T , cache=F}
 
-fromsrcatch=F
-if(fromsrcatch){
-  #py$sentences
-  #py$glosses
+  # py$sentences
+  # py$glosses
   glosses_embeddings <- py$glosses_embeddings
   sentences_embeddings <- py$sentences_embeddings
 
@@ -539,27 +538,21 @@ if(fromsrcatch){
   condition_glosses_embeddings <- verbs_sentence_wordnet$gloss %in% rownames(glosses_embeddings)
   table(condition_glosses_embeddings) #there are 130 glosses that aren't in there
   gloss_clean <- verbs_sentence_wordnet$gloss
-  gloss_clean[!condition_glosses_embeddings] <- rownames(glosses_embeddings)[1] #just a placeholder need to kill after
+  gloss_clean[!condition_glosses_embeddings] <- rownames(glosses_embeddings)[1] #
   glosses_embeddings_expanded <- glosses_embeddings[gloss_clean ,]
   dim(glosses_embeddings_expanded)
   
   condition_sentences_embeddings <- verbs_sentence_wordnet$sentence %in% rownames(sentences_embeddings)
   table(condition_sentences_embeddings) #all are in it
   sentences_clean <- verbs_sentence_wordnet$sentence
-  sentences_clean[!condition_sentences_embeddings] <- rownames(sentences_embeddings)[1] #just a placeholder need to kill after
+  sentences_clean[!condition_sentences_embeddings] <- rownames(sentences_embeddings)[1] #
   sentences_embeddings_expanded <- sentences_embeddings[sentences_clean ,]
   dim(sentences_embeddings_expanded)
   
-  #Isn't it just one minus the other?
+  
   verbs_sentence_wordnet$distances <- rowSums((glosses_embeddings_expanded-sentences_embeddings_expanded)^2)
   verbs_sentence_wordnet <- verbs_sentence_wordnet %>% arrange(crisno, sentence_number_int_aligned, token_id, distances)
   verbs_sentence_wordnet %>% saveRDS(paste0(here::here(), "/replication_paper/data/temp/verbs_sentence_wordnet.Rds"))
-
-} else {
-  
-  verbs_sentence_wordnet <- readRDS(paste0(here::here(), "/replication_paper/data/temp/verbs_sentence_wordnet.Rds"))
-  
-}
 
 verbs_sentence_wordnet_top <- verbs_sentence_wordnet %>% group_by(crisno, sentence_number_int_aligned, token_id) %>% filter(row_number()==1)
 verbs_sentence_wordnet_top_unique <- verbs_sentence_wordnet_top %>% ungroup() %>% dplyr::select(lemma, wordnetid,tense, gloss) %>% group_by(lemma, wordnetid,tense, gloss) %>% count() %>% arrange(desc(n))
@@ -591,7 +584,7 @@ verbs_sentence_wordnet_top_ft <-
         flextable::padding(padding = 0, part = "all") %>%
         flextable::line_spacing(space = 1, part = "body") %>%
         #ftExtra::colformat_md(j = 1, part="body")   #Make sure this goes last or it'll get overwritten by the colformat above
-        #fit_to_width(max_width=12) #This is crazy slow
+        #fit_to_width(max_width=12) #This is slow
         #flextable::autofit() 
         #set_table_properties(width = 1, layout = "autofit")
 
@@ -677,9 +670,6 @@ verbs_sentence_wordnet_top_ft
 \hphantom{em}
 
 ```{r, eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
-
-fromscratch=F
-if(fromscratch){
   means_group_any <- codings_long_agreement %>% filter(value_normalized!='') %>% 
                      #filter(votes_total>1) %>% #
                      group_by(crisno,sentence_number_int_aligned, varname_normalized) %>% arrange(desc(percent_expert)) %>% filter(row_number()==1) %>% ungroup() %>% 
@@ -711,7 +701,7 @@ if(fromscratch){
                 #This is top 1 agreement
                 filter(value_normalized!='') %>% group_by(crisno,sentence_number_int_aligned, varname_normalized) %>% arrange(desc(percent_expert)) %>% filter(row_number()==1) %>% ungroup() %>% 
                 group_by(varname_normalized) %>%
-                #filter(votes_total>1) %>% #What work is this doing?
+                #filter(votes_total>1) %>% 
                 #filter(selected_by_experts>=1) %>%
                 dplyr::select(Experts_keep=percent_expert,Novices_keep=percent_novice) %>% summarise_all(mean, na.rm=T)
   
@@ -738,8 +728,6 @@ if(fromscratch){
   
   ggplot2::ggsave(file=paste0(here::here(), '/replication_paper/psrm_draft/p_percent_chose_tag_by_concept.png'), 
                   plot = p_percent_chose_tag_by_concept, width=8, height=8)
-}
-
 ```
 
 \begin{figure}[H]
@@ -754,8 +742,6 @@ if(fromscratch){
 
 ```{r intercoder agreement , eval=T, echo=F, results='markup', include=T, message=F, cache=F, warning=F,  ft.arraystretch=0.75, fig.width=6, fig.height=6}
 
-fromscratch=F
-if(fromscratch){
   raterconfidence <- icb_long_clean %>% filter(email_id %>% str_detect('expert') & varname_normalized=='raterconfidence' ) %>%
                      dplyr::select(email_id, crisno, sentence_number_int_aligned, raterconfidence=value_normalized) %>% distinct()
   
@@ -783,7 +769,6 @@ if(fromscratch){
   
   ggplot2::ggsave(file=paste0(here::here(), '/replication_paper/psrm_draft/p_percent_chose_tag_by_confidence.png'), 
                   plot = p_percent_chose_tag_by_confidence, width=8, height=6)
-}
 
 ```
 
@@ -793,6 +778,13 @@ if(fromscratch){
 \centering{\includegraphics[width=15cm]{./p_percent_chose_tag_by_confidence.png}}
 \end{figure}
 \clearpage
+
+
+```{r}
+rm(list = ls())
+gc() 
+#.rs.restartR()
+```
 
 
 # Recall
@@ -1084,29 +1076,33 @@ Coding changes: End Date changed from February 26, 1962.
 -->
 
 
-```{r, eval=F}
+```{r, eval=T}
+
+paste0(here::here(), '/replication_data/out/case_study_cuban.Rds')
+
+
+# cuba_recall <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1NuRWFB1HEbQbJu_JoEzJ9WYk7kfwwCryF7wBfKPT6uc/edit?usp=sharing", 
+#                                 sheet="final") %>% janitor::clean_names() 
+# cuba_recall  %>% saveRDS(paste0(here::here(), '/replication_data/out/case_study_cuban.Rds'))
+cuba_recall <- readRDS(paste0(here::here(), '/replication_data/out/case_study_cuban.Rds'))
 
 
 
-cuba_recall <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1NuRWFB1HEbQbJu_JoEzJ9WYk7kfwwCryF7wBfKPT6uc/edit?usp=sharing", 
-                                sheet="final") %>% janitor::clean_names() 
-
-
-replace_emoticons_cuba <- function(x){
-  x %>% str_replace_all('\U0001f1e8\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q241.png) ")) %>%
-        #https://emojiterra.com/flag-for-united-states/
-        str_replace_all('\U0001f1fa\U0001f1f8',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
-        #https://emojiterra.com/flag-for-russia/
-        str_replace_all('\U0001f1f7\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15180.png) ")) %>% 
-        #Turkey
-        str_replace_all('\U0001f1f9\U0001f1f7',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q43.png) ")) %>% 
-        #U.N.
-        str_replace_all('\U0001f1fa\U0001f1f3',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q1065.png) "))
-}
+# replace_emoticons_cuba <- function(x){
+#   x %>% str_replace_all('\U0001f1e8\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q241.png) ")) %>%
+#         #https://emojiterra.com/flag-for-united-states/
+#         str_replace_all('\U0001f1fa\U0001f1f8',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
+#         #https://emojiterra.com/flag-for-russia/
+#         str_replace_all('\U0001f1f7\U0001f1fa',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15180.png) ")) %>% 
+#         #Turkey
+#         str_replace_all('\U0001f1f9\U0001f1f7',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q43.png) ")) %>% 
+#         #U.N.
+#         str_replace_all('\U0001f1fa\U0001f1f3',  paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q1065.png) "))
+# }
 
 ft_cuba_recall<- cuba_recall %>% 
                             dplyr::select(date, event, documents, icb_narrative, icbe=ic_be, icb, mids, phoenix_2)  %>%
-                            mutate(event = event %>% replace_emoticons_cuba() ) %>%
+                            #mutate(event = event %>% replace_emoticons_cuba() ) %>%
                             flextable::as_flextable() %>%
                             flextable::set_header_labels(values =
                             list(
@@ -1120,7 +1116,13 @@ ft_cuba_recall<- cuba_recall %>%
                                  ) ) %>%
                             flextable::width( j = 1, width=0.25)  %>% 
                             flextable::width( j =2, width=2.0)  %>% 
+                            #flextable::width( j = 3, width=.3)  %>% 
+                            #flextable::width( j = 4, width=.3)  %>% 
+                            #flextable::width( j = 5, width=.25)  %>% 
                             flextable::width( j = 6:8, width=2.0)  %>% 
+                            #flextable::width( j = 6, width=1)  %>%
+                            #flextable::width( j = 7, width=1.2)  %>% 
+                            #flextable::width( j = 8, width=2)  %>% 
                             flextable::fontsize(size = 7, part = "all") %>%
                             #valign(j = 1:3, valign = "top", part = "body") %>%
                             flextable::line_spacing( space = 1.0, part = "all") %>% 
@@ -1146,30 +1148,33 @@ ft_cuba_recall %>% save_as_image(path=here::here("replication_paper", "psrm_draf
 \hphantom{em}
 
 
-```{r, eval=F}
+```{r, eval=T}
 
-crimea_recall <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1YesAx1CkYCgrEi_WVJ9aho60HesWA6p-3XMma9IzBrI/edit?usp=sharing", 
-                                sheet="final") %>% janitor::clean_names()                                
+#crimea_recall <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1YesAx1CkYCgrEi_WVJ9aho60HesWA6p-3XMma9IzBrI/edit?usp=sharing", 
+#                                sheet="final") %>% janitor::clean_names()                                
+# crimea_recall  %>% saveRDS(paste0(here::here(), '/replication_data/out/case_study_crimea.Rds'))
+crimea_recall <- readRDS(paste0(here::here(), '/replication_data/out/case_study_crimea.Rds'))
 
 
-replace_emoticons_crimea <- function(x){
-      x %>%
-            #https://emojiterra.com/flag-for-united-states/
-            str_replace_all('\U0001f1fa\U0001f1f8', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
-            #https://emojiterra.com/flag-for-russia/
-            str_replace_all('\U0001f1f7\U0001f1fa', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q159.png) ")) %>% 
-            #Ukraine
-            str_replace_all('\U0001f1fA\U0001f1e6', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q212.png) ")) %>% 
-            #Crimea
-            str_replace_all('Crimea', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15966495.png) ")) %>%
-            #EU
-            str_replace_all('\U0001f1EA\U0001f1FA', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q458.png) "))
-}
+# 
+# replace_emoticons_crimea <- function(x){
+#       x %>%
+#             #https://emojiterra.com/flag-for-united-states/
+#             str_replace_all('\U0001f1fa\U0001f1f8', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q30.png) ")) %>%
+#             #https://emojiterra.com/flag-for-russia/
+#             str_replace_all('\U0001f1f7\U0001f1fa', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q159.png) ")) %>% 
+#             #Ukraine
+#             str_replace_all('\U0001f1fA\U0001f1e6', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q212.png) ")) %>% 
+#             #Crimea
+#             str_replace_all('Crimea', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q15966495.png) ")) %>%
+#             #EU
+#             str_replace_all('\U0001f1EA\U0001f1FA', paste0(" ![](", here::here(), "/replication_data/in/flags_small//Q458.png) "))
+# }
 
 
 ft_crimea_recall<- crimea_recall %>% 
                             dplyr::select(date, event, documents=n_sources, icb_narrative, icbe=ic_be,  phoenix, terrier, icews)  %>%
-                            mutate(event = event %>% replace_emoticons_crimea() ) %>%
+                            # mutate(event = event %>% replace_emoticons_crimea() ) %>%
                             mutate(date = date %>% as.Date()) %>%
                             flextable::as_flextable() %>%
                             flextable::set_header_labels(values =
@@ -1184,7 +1189,13 @@ ft_crimea_recall<- crimea_recall %>%
                                  ) ) %>%
                             flextable::width( j = 1, width=1.0)  %>% 
                             flextable::width( j =2, width=2.0)  %>% 
+                            #flextable::width( j = 3, width=.3)  %>% 
+                            #flextable::width( j = 4, width=.3)  %>% 
+                            #flextable::width( j = 5, width=.25)  %>% 
                             flextable::width( j = 6:8, width=2.0)  %>% 
+                            #flextable::width( j = 6, width=1)  %>%
+                            #flextable::width( j = 7, width=1.2)  %>% 
+                            #flextable::width( j = 8, width=2)  %>% 
                             flextable::fontsize(size = 7, part = "all") %>%
                             #valign(j = 1:3, valign = "top", part = "body") %>%
                             flextable::line_spacing( space = 1.0, part = "all") %>% 
@@ -1203,43 +1214,48 @@ ft_crimea_recall %>% save_as_image(path=here::here("replication_paper", "psrm_dr
 \end{figure}
 \clearpage
 
+```{r}
+rm(ft_cuba_recall, ft_crimea_recall)
+gc()
+```
+
+
 # Precision
 ## Crimea-Donbas Narrative
 \hphantom{em}
 
-```{r crimea case study precision, eval=F, results='hide', echo=F, include=T, message=F, cache=F}
+```{r crimea case study precision, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
 
 #Move this to the appendix
 
-#<!-- Rex remember that sentence 19 broken and cuts off 
+#<!-- remember that sentence 19 broken and cuts off 
 #"Ukraine’s major response to its crisis was verbal and began on 27 February, when it sent a note to Russia demanding that Russian troops stay on base in Crimea, called for #calm, and discussed the" -->
  
 #Loaded above now 
 #ICBe_events_agreed_markdown <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_markdown.Rds")) 
-fromscratch=T
-if(fromscratch){
-  temp <- ICBe_events_agreed_markdown %>%
-          filter(crisno==471) %>%
-          group_by(crisno, sentence_number_int_aligned) %>%
-            filter(!duplicated(value_markdown %>% trimws() )) %>% #note there are dupe markdowns for some reason
-          ungroup() %>%
-          mutate(banding=sentence_number_int_aligned %% 2)
-  temp$is_subsstring <- NA
-  for(i in 1:nrow(temp)){
-    temp$is_subsstring[i] <-   stringr::str_detect(temp$value_markdown %>% tolower() %>% str_replace_all('[^a-z0-9]',"") ,
-                                                                                  pattern = fixed(temp$value_markdown[i] %>% tolower() %>% str_replace_all('[^a-z0-9]',"") )
-                                                                                ) %>% replace_na(0) %>%  sum()
-  }
-  temp <-temp %>%
-          mutate(value_markdown = ifelse(is_subsstring<=1,value_markdown,'')) %>%
-          group_by(sentence_number_int_aligned) %>%
-            filter(value_markdown!='' | length(value_markdown)==1) %>%
-          ungroup() %>%
-          mutate(crisno= ifelse(!is.na(lag(sentence_span_text)) & sentence_span_text==lag(sentence_span_text), "", crisno)) %>%
-          mutate(sentence_number_int_aligned= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_number_int_aligned)) %>%
-          mutate(sentence_span_text= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_span_text))   #C=crisno, 
-        #head(100) %>%
-  
+
+temp <- ICBe_events_agreed_markdown %>%
+        filter(crisno==471) %>%
+        group_by(crisno, sentence_number_int_aligned) %>%
+          filter(!duplicated(value_markdown %>% trimws() )) %>% 
+        ungroup() %>%
+        mutate(banding=sentence_number_int_aligned %% 2)
+temp$is_subsstring <- NA
+for(i in 1:nrow(temp)){
+  temp$is_subsstring[i] <-   stringr::str_detect(temp$value_markdown %>% tolower() %>% str_replace_all('[^a-z0-9]',"") ,
+                                                                                pattern = fixed(temp$value_markdown[i] %>% tolower() %>% str_replace_all('[^a-z0-9]',"") )
+                                                                              ) %>% replace_na(0) %>%  sum()
+}
+temp <-temp %>%
+        mutate(value_markdown = ifelse(is_subsstring<=1,value_markdown,'')) %>%
+        group_by(sentence_number_int_aligned) %>%
+          filter(value_markdown!='' | length(value_markdown)==1) %>%
+        ungroup() %>%
+        mutate(crisno= ifelse(!is.na(lag(sentence_span_text)) & sentence_span_text==lag(sentence_span_text), "", crisno)) %>%
+        mutate(sentence_number_int_aligned= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_number_int_aligned)) %>%
+        mutate(sentence_span_text= ifelse(!is.na(lag(sentence_span_text)) &  sentence_span_text==lag(sentence_span_text), "", sentence_span_text))   #C=crisno, 
+      #head(100) %>%
+
   ft_crimea_precision_part1 <- temp %>% 
                               dplyr::select(S=sentence_number_int_aligned, ICB=sentence_span_text, ICBe=value_markdown)  %>%
                               filter(row_number()<=61) %>%
@@ -1257,8 +1273,13 @@ if(fromscratch){
   #ft_cuba_precision
   
   ft_crimea_precision_part1 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "case_study_crimea_precision_part1.png"), zoom=1) # webshot = "webshot2"
-  
-  
+  ft_crimea_precision_part1
+
+```
+
+
+```{r}
+
   ft_crimea_precision_part2 <- temp %>%
                         dplyr::select(S=sentence_number_int_aligned, ICB=sentence_span_text, ICBe=value_markdown)  %>%
                           filter(row_number()>=62  ) %>%
@@ -1277,9 +1298,8 @@ if(fromscratch){
   
   ft_crimea_precision_part2 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "case_study_crimea_precision_part2.png"), zoom=1) # webshot = "webshot2"
   
+ft_crimea_precision_part2
   temp <- NULL
-  
-}
 ```
 
 \begin{figure}[H]
@@ -1295,7 +1315,8 @@ if(fromscratch){
 
 ## Stratified Sentence Examples
 
-```{r Stratified Sentence Examples, eval=F, results='hide', echo=F, include=T, message=F, cache=F}
+```{r Stratified Sentence Examples, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
+ICBe_events_agreed <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed.Rds")) 
 
 temp <- ICBe_events_agreed %>% left_join(ICBe_events_agreed_markdown) %>% dplyr::select(
   crisno, sentence_span_text,value_markdown,
@@ -1306,6 +1327,13 @@ temp <- ICBe_events_agreed %>% left_join(ICBe_events_agreed_markdown) %>% dplyr:
 ) %>% pivot_longer(cols=-c(crisno, sentence_span_text,value_markdown)) %>% na.omit() %>% filter(value!='') %>% 
     mutate(value = strsplit(as.character(value), ";")) %>% 
     unnest(value)
+
+# temp <- temp %>% dplyr::mutate(value_markdown = value_markdown %>% 
+#          stringr::str_replace_all(stringr::fixed("/home/tlscherer/Desktop/ICBEdataset/replication_data/in/flags_small//"), stringr::fixed("")))
+
+
+temp <- temp %>% dplyr::mutate(value_markdown = value_markdown %>% 
+                               stringr::str_replace_all(stringr::fixed("/home/tlscherer/Desktop/ICBEdataset/replication_data/in/"), stringr::fixed("")))
 
 set.seed(1) 
 temp_sample <- temp %>% mutate(rand=runif(n())) %>% group_by(value)  %>% filter(rand==max(rand)) %>% ungroup() %>% arrange(name, value)
@@ -1326,6 +1354,7 @@ ft_sample_precision_precision1 <- temp_sample %>%
                                   ftExtra::colformat_md(j = 5, part="body")
 
 ft_sample_precision_precision1 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "ft_sample_precision_precision1.png"), zoom=1) # 
+ft_sample_precision_precision1
 
 ft_sample_precision_precision2 <- temp_sample %>% 
                                   filter(row_number() %in% 23:54) %>%
@@ -1343,7 +1372,7 @@ ft_sample_precision_precision2 <- temp_sample %>%
                                   ftExtra::colformat_md(j = 5, part="body")
 
 ft_sample_precision_precision2 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "ft_sample_precision_precision2.png"), zoom=1) # 
-
+ft_sample_precision_precision2
 
 ft_sample_precision_precision3 <- temp_sample %>% 
                                   filter(row_number() %in% 55:90) %>%
@@ -1361,6 +1390,7 @@ ft_sample_precision_precision3 <- temp_sample %>%
                                   ftExtra::colformat_md(j = 5, part="body")
 
 ft_sample_precision_precision3 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "ft_sample_precision_precision3.png"), zoom=1) # 
+ft_sample_precision_precision3
 
 ft_sample_precision_precision4 <- temp_sample %>% 
                                   filter(row_number() %in% 91:115) %>%
@@ -1378,12 +1408,11 @@ ft_sample_precision_precision4 <- temp_sample %>%
                                   ftExtra::colformat_md(j = 5, part="body")
 
 ft_sample_precision_precision4 %>% save_as_image(path=here::here("replication_paper", "psrm_draft", "ft_sample_precision_precision4.png"), zoom=1) # 
+ft_sample_precision_precision4
 
-
-
+rm(temp, temp_sample)
 ```
 
-<!-- current -->
 
 \hphantom{em}
 \begin{figure}[H]
@@ -1409,6 +1438,12 @@ ft_sample_precision_precision4 %>% save_as_image(path=here::here("replication_pa
 \centering{\includegraphics[height=21cm]{"./ft_sample_precision_precision4.png"}}
 \end{figure}
 
+```{r}
+rm(case_study_crimea_precision_part1.png, case_study_crimea_precision_part2.png, ft_sample_precision_precision1.png, ft_sample_precision_precision2.png, ft_sample_precision_precision3.png, ft_sample_precision_precision4.png)
+gc()
+```
+
+
 ## Cuban Missiles Crisis Maps
 
 ```{r crisis maps common functions, eval=T, results='hide', echo=F, include=T, message=F, cache=F}
@@ -1421,8 +1456,15 @@ target_file <- paste0(here::here(),"/replication_paper/data/in/icb_manual_recodi
 dictionary_actors_labels    <- readxl::read_excel(target_file, sheet="actors") %>% 
                               dplyr::select(crisno, value_normalized=value_normalized_wikidata_id, value_normalized_label) %>% dplyr::distinct() %>% na.omit()
 
+icb_crises  <- read.csv(paste0(here::here(), "/replication_data/in/icb1v14.csv")) %>% janitor::clean_names()
+icb_crises$start_simple <- icb_crises$yrtrig+(icb_crises$motrig/12)
+icb_crises$end_simple <- icb_crises$yrterm+(icb_crises$moterm/12)
+
+
 actor_translator <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1a7Id0Zg41PTKEv74H_KjiJzhMak2jGh0leT7B8oVWdI/edit?usp=sharing", 
                                 sheet="actor_translator") #%>% janitor::clean_names() 
+
+
 #Convert to a local file for pushing
 #actor_translator    <- readxl::read_excel(target_file, sheet="actor_translator") #Ya we just add colors to the actor translator and we're good
 pallet <- c(brewer.pal(n=20, "Dark2"), brewer.pal(n=20, "Set1"), brewer.pal(n=20, "Set2"), brewer.pal(n=20, "Paired")) %>% unique()
@@ -1436,6 +1478,7 @@ actor_translator$actor_color = rep(pallet, length=nrow(actor_translator))
 
 crisno_name_years <- icb_crises %>% dplyr::select(crisno, crisname, yrtrig, yrterm)
 
+icb_events_long <- readRDS( paste0(here::here(), "/replication_data/out/ICBe_V1.1_events_agreed_long.Rds")) 
 
 
 CAMEO_eventcodes <- read_tsv(paste0(here::here(), "/replication_paper/data/in/CAMEO.eventcodes.txt"), col_types='cccc') %>% janitor::clean_names()
@@ -2168,7 +2211,70 @@ cameo_actor_codes <- cameo_actor_codes %>% filter(!duplicated(code)) %>%
            str_replace_all(" \\)","")   %>% 
            trimws()
          )
+
+saveRDS(cameo_actor_codes,paste0(here::here(), "/replication_paper/data/out/cameo_actor_codes.Rds")
 dim(cameo_actor_codes)
+
+
+
+replace_emoticons <- function(x){
+  x %>% stringr::str_replace_all(stringr::fixed("![](flags_small//"), stringr::fixed("")) %>%
+  stringr::str_replace_all(stringr::fixed(".png)"), stringr::fixed("")) %>%
+  stringr::str_replace_all(stringr::fixed("Q47488"), stringr::fixed("ICC")) %>%
+  stringr::str_replace_all(stringr::fixed("Q1065"), stringr::fixed("\U0001f1fa\U0001f1f3")) %>%
+  stringr::str_replace_all(stringr::fixed("Q7184"), stringr::fixed("NATO")) %>%
+  stringr::str_replace_all(stringr::fixed("Q1014"), stringr::fixed("\U0001f1f1\U0001f1f7")) %>%
+  stringr::str_replace_all(stringr::fixed("Q1027"), stringr::fixed("\U0001f1f2\U0001f1fa")) %>% #Mauritius
+  stringr::str_replace_all(stringr::fixed("Q1028"), stringr::fixed("\U0001f1f2\U0001f1e6")) %>%
+  stringr::str_replace_all(stringr::fixed("Q1033"), stringr::fixed("\U0001f1f3\U0001f1ec")) %>% #Nigeria
+  stringr::str_replace_all(stringr::fixed("Q241"), stringr::fixed("\U0001f1e8\U0001f1fa")) %>%
+  stringr::str_replace_all(stringr::fixed("Q159"), stringr::fixed("\U0001f1f7\U0001f1fa")) %>%
+  stringr::str_replace_all(stringr::fixed("Q148"), stringr::fixed("\U0001f1e8\U0001f1f3")) %>%
+  stringr::str_replace_all(stringr::fixed("Q794"), stringr::fixed("\U0001f1ee\U0001f1f7")) %>%
+  stringr::str_replace_all(stringr::fixed("Q458"), stringr::fixed("\U0001f1ea\U0001f1fa")) %>%
+  stringr::str_replace_all(stringr::fixed("Q212"), stringr::fixed("\U0001f1fa\U0001f1e6")) %>%
+  stringr::str_replace_all(stringr::fixed("Q810"), stringr::fixed("\U0001f1ef\U0001f1f4")) %>% #Jordan
+  stringr::str_replace_all(stringr::fixed("Q142"), stringr::fixed("\U0001f1eb\U0001f1f7")) %>%
+  stringr::str_replace_all(stringr::fixed("Q183"), stringr::fixed("\U0001f1e9\U0001f1ea")) %>%
+  stringr::str_replace_all(stringr::fixed("Q801"), stringr::fixed("\U0001f1ee\U0001f1f1")) %>%
+  stringr::str_replace_all(stringr::fixed("Q750"), stringr::fixed("\U0001f1e7\U0001f1f4")) %>%
+  stringr::str_replace_all(stringr::fixed("Q298"), stringr::fixed("\U0001f1e8\U0001f1f1")) %>%
+  stringr::str_replace_all(stringr::fixed("Q804"), stringr::fixed("\U0001f1f5\U0001f1e6")) %>%
+  stringr::str_replace_all(stringr::fixed("Q155"), stringr::fixed("\U0001f1e7\U0001f1f7")) %>%
+  stringr::str_replace_all(stringr::fixed("Q145"), stringr::fixed("\U0001f1ec\U0001f1e7")) %>%
+  stringr::str_replace_all(stringr::fixed("Q783"), stringr::fixed("\U0001f1ed\U0001f1f3")) %>%
+  stringr::str_replace_all(stringr::fixed("Q252"), stringr::fixed("\U0001f1ee\U0001f1e9")) %>%
+  stringr::str_replace_all(stringr::fixed("Q912"), stringr::fixed("\U0001f1f2\U0001f1f1")) %>% #Mali
+  stringr::str_replace_all(stringr::fixed("Q929"), stringr::fixed("\U0001f1e8\U0001f1eb")) %>% #Central African Republic
+  stringr::str_replace_all(stringr::fixed("Q184"), stringr::fixed("\U0001f1e7\U0001f1fe")) %>% #Belarus
+  stringr::str_replace_all(stringr::fixed("Q796"), stringr::fixed("\U0001f1ee\U0001f1f6")) %>% #Iraq 	
+  stringr::str_replace_all(stringr::fixed("Q423"), stringr::fixed("\U0001f1f0\U0001f1f5")) %>% #North Korea
+  stringr::str_replace_all(stringr::fixed("Q843"), stringr::fixed("\U0001f1f5\U0001f1f0")) %>%
+  stringr::str_replace_all(stringr::fixed("Q668"), stringr::fixed("\U0001f1ee\U0001f1f3")) %>%
+  stringr::str_replace_all(stringr::fixed("Q262"), stringr::fixed("\U0001f1e9\U0001f1ff")) %>%
+  stringr::str_replace_all(stringr::fixed("Q766"), stringr::fixed("\U0001f1ef\U0001f1f2")) %>%
+  stringr::str_replace_all(stringr::fixed("Q408"), stringr::fixed("\U0001f1e6\U0001f1fa")) %>% #Australia
+  stringr::str_replace_all(stringr::fixed("Q858"), stringr::fixed("\U0001f1f8\U0001f1fe")) %>% #Syria
+  stringr::str_replace_all(stringr::fixed("Q958"), stringr::fixed("\U0001f1f8\U0001f1f8")) %>% #South Sudan
+  stringr::str_replace_all(stringr::fixed("Q211"), stringr::fixed("\U0001f1f1\U0001f1fb")) %>% #Latvia
+  stringr::str_replace_all(stringr::fixed("Q833"), stringr::fixed("\U0001f1f2\U0001f1fe")) %>% #Malaysia
+  stringr::str_replace_all(stringr::fixed("Q217"), stringr::fixed("\U0001f1f2\U0001f1e9")) %>% #Moldova
+  stringr::str_replace_all(stringr::fixed("Q822"), stringr::fixed("\U0001f1f1\U0001f1e7")) %>% #Lebanon
+  stringr::str_replace_all(stringr::fixed("Q889"), stringr::fixed("\U0001f1e6\U0001f1eb")) %>% #Afghanistan
+  stringr::str_replace_all(stringr::fixed("Q43"), stringr::fixed("\U0001f1f9\U0001f1f7")) %>%
+  stringr::str_replace_all(stringr::fixed("Q31"), stringr::fixed("\U0001f1e7\U0001f1ea")) %>% #Belgium
+  stringr::str_replace_all(stringr::fixed("Q41"), stringr::fixed("\U0001f1ed\U0001f1f3")) %>%
+  stringr::str_replace_all(stringr::fixed("Q38"), stringr::fixed("\U0001f1ee\U0001f1f9")) %>% #Italy
+  stringr::str_replace_all(stringr::fixed("Q39"), stringr::fixed("\U0001f1e8\U0001f1ed")) %>%
+  stringr::str_replace_all(stringr::fixed("Q16"), stringr::fixed("\U0001f1e8\U0001f1e6")) %>% #Canada
+  stringr::str_replace_all(stringr::fixed("Q37"), stringr::fixed("\U0001f1f1\U0001f1f9")) %>% #Lithuania
+  stringr::str_replace_all(stringr::fixed("Q36"), stringr::fixed("\U0001f1f5\U0001f1f1")) %>%
+  stringr::str_replace_all(stringr::fixed("Q29"), stringr::fixed("\U0001f1ea\U0001f1f8")) %>%
+  stringr::str_replace_all(stringr::fixed("Q17"), stringr::fixed("\U0001f1ef\U0001f1f5")) %>%
+  stringr::str_replace_all(stringr::fixed("Q20"), stringr::fixed("\U0001f1f3\U0001f1f4")) %>% #Norway
+  stringr::str_replace_all(stringr::fixed("Q30"), stringr::fixed("\U0001f1fA\U0001f1f8")) 
+}
+
 
 ```
 
@@ -2377,7 +2483,7 @@ data.frame(
 )
 
 icb2v14_clean <- icb2v14 %>% 
-                 left_join(icb_df %>% dplyr::select(cracid=icb_code, actor_label=icb_name ) %>% mutate(cracid=cracid %>% as.numeric()) ) %>%  #you can't actually match on the letter codes you have to match on the numbers, uhhhhhg
+                 left_join(icb_df %>% dplyr::select(cracid=icb_code, actor_label=icb_name ) %>% mutate(cracid=cracid %>% as.numeric()) ) %>%  
                  left_join( df_trigger  ) %>% 
                  left_join( df_majres ) %>% 
                  left_join( df_outcome ) %>% 
@@ -2459,7 +2565,7 @@ icb_crisismaps <- function(thiscrisis=196, prune_rare=T){
     
     #ideal_ordering <- bind_rows(temp_list) %>% t() %>% as.data.frame() %>% apply(1, paste, collapse='') %>% sort() %>% names() #this will break with more than 9
     #  arrange(across(starts_with("V")))
-    ideal_ordering <- hc$labels[hc$order] #There's a bug here, put all the isolated nodes by themselves first
+    ideal_ordering <- hc$labels[hc$order] 
     
     #####Nodes
     icb_events_subset_nodes <- 
@@ -2484,7 +2590,7 @@ icb_crisismaps <- function(thiscrisis=196, prune_rare=T){
     
   
     actors=icb_events_subset_nodes$actor %>% unique() %>% as.factor()
-    actor_colors = c(brewer.pal(n=11, "Dark2"), brewer.pal(n=11, "Set1"))[1:length(actors)] #ok so pick a bewer pallet with lots of values and then assign it to specific values
+    actor_colors = c(brewer.pal(n=11, "Dark2"), brewer.pal(n=11, "Set1"))[1:length(actors)] #pick a bewer pallet with lots of values and then assign it to specific values
     names(actor_colors) = levels(actors)
 
     date_sineposts <- icb_events_subset_nodes  %>%
@@ -2602,13 +2708,15 @@ icb_crisismaps <- function(thiscrisis=196, prune_rare=T){
       
 }
 
-c(196, 471) %>% sapply(FUN=function(x) icb_crisismaps(x)) #This just runs every time no from scratch because the files are small
+c(196) %>% sapply(FUN=function(x) icb_crisismaps(x)) #This just runs every time no from scratch because the files are small
+
+c(471) %>% sapply(FUN=function(x) icb_crisismaps(x)) #This just runs every time no from scratch because the files are small
+
 
 
 ```
 
 ```{r mids data loads, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
-
 mid4_df <- data.frame(
   stringsAsFactors = FALSE,
                act = c(1L,2L,3L,4L,5L,6L,7L,8L,
@@ -2669,7 +2777,7 @@ mid_df2 <- data.frame(
 dyadic_mid <- read_csv(paste0(here::here(), "/replication_paper/data/in/dyadic_mid_4.02.csv"))
 
 dyadic_mid_clean <- dyadic_mid %>% distinct() %>%
-                      left_join(actor_translator %>% dplyr::select(statea=COWcode, actor_1=QCode_name, actor_1_qcode=QCode)) %>% #I think we add color here
+                      left_join(actor_translator %>% dplyr::select(statea=COWcode, actor_1=QCode_name, actor_1_qcode=QCode)) %>% # we add color here
                       left_join(actor_translator %>% dplyr::select(stateb=COWcode, actor_2=QCode_name, actor_2_qcode=QCode)) %>%
                       left_join(mid_df  %>% dplyr::select( mid5hiacta=act , leaf_1=act_label )) %>%
                       left_join(mid_df  %>% dplyr::select( mid5hiactb=act , leaf_2=act_label )) %>%
@@ -2747,7 +2855,7 @@ mids_crisismaps <- function(thiscrisis=196, prune_rare=T){
   
   #ideal_ordering <- bind_rows(temp_list) %>% t() %>% as.data.frame() %>% apply(1, paste, collapse='') %>% sort() %>% names() #this will break with more than 9
   #  arrange(across(starts_with("V")))
-  ideal_ordering <- hc$labels[hc$order] #There's a bug here, put all the isolated nodes by themselves first
+  ideal_ordering <- hc$labels[hc$order]
   
   #####Nodes
   icb_events_subset_nodes <- 
@@ -2772,7 +2880,7 @@ mids_crisismaps <- function(thiscrisis=196, prune_rare=T){
   
 
   actors=icb_events_subset_nodes$actor %>% unique() %>% as.factor()
-  actor_colors = c(brewer.pal(n=11, "Dark2"), brewer.pal(n=11, "Set1"))[1:length(actors)] #ok so pick a bewer pallet with lots of values and then assign it to specific values
+  actor_colors = c(brewer.pal(n=11, "Dark2"), brewer.pal(n=11, "Set1"))[1:length(actors)] #pick a bewer pallet with lots of values and then assign it to specific values
   names(actor_colors) = levels(actors)
     
   
@@ -2890,13 +2998,19 @@ mids_crisismaps <- function(thiscrisis=196, prune_rare=T){
   p_mids_metro_map %>% saveRDS(save_mids_file)
 }
 
+
 c(196, 471) %>% sapply(FUN=function(x) mids_crisismaps(x))
 
   
 ```
 
 
-```{r phoenix data loads, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F,}
+```{r}
+rm(dyadic_mid, dyadic_mid_clean)
+gc()
+```
+
+```{r phoenix data loads, eval=F, results='hide', echo=F, include=T, message=F, cache=F, warning=F,}
 #[@althausClineCenterHistorical2020a]
 #https://databank.illinois.edu/datasets/IDB-2796521
 
@@ -2904,11 +3018,7 @@ library(tidyverse)
 library(countrycode)
 library(igraph)
 library(ggraph)
-
-#8,491,556
 library(stringr)
-fromscratch=F
-if(fromscratch){
 
   convert_aid = function(x) { x %>% mutate(aid = aid %>% format( scientific = FALSE)) %>% mutate_all(as.character) }
   meta1_nyt2 <- read_csv(here::here("git_ignore_folder", "DOI-10-13012-b2idb-0647142_v3", "MetaDataBLN-NYT_1980-2018.csv"), col_types=rep('c',50)  %>% paste0(collapse='')) #%>% convert_aid()
@@ -3009,7 +3119,7 @@ if(fromscratch){
                        filter( text %>% str_detect(paste0(c(keep_list,keep_list %>% tolower()),collapse="|"))) 
   dim(phoenix_clean_471) #68,334
   
-  #phoenix_clean_471 %>% write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/phoenix_clean_471.tsv")
+  phoenix_clean_471 %>% write_tsv(paste0(here::here(), "/replication_data/out/phoenix_clean_471.tsv"))
   dim(phoenix_clean_471) 
   
   #phoenix_clean_471 %>%
@@ -3029,9 +3139,9 @@ if(fromscratch){
                        filter( text %>% str_detect(paste0(c(keep_list,keep_list %>% tolower()),collapse="|"))) 
   dim(phoenix_clean_196) #62,192
   
-  #phoenix_clean_196 %>% write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/phoenix_clean_196.tsv")
+  phoenix_clean_196 %>% write_tsv(paste0(here::here(), "/replication_data/out/phoenix_clean_196.tsv"))
   #dim(phoenix_clean_196) 
-  
+
   #phoenix_clean_196 %>%
   #  unite('actors_left' , source_label, source_root_label , source_agent_label, source_others1_label,source_others2_label,source_others3_label, sep=" ", , na.rm =T, remove=F) %>%
   #  unite('actors_right', target_label, target_root_label , target_agent_label, target_others1_label,target_others2_label,target_others3_label, sep=" ", , na.rm =T, remove=F) %>%
@@ -3039,7 +3149,6 @@ if(fromscratch){
   #  write_tsv("/mnt/8tb_a/rwd_github_private/ICBEdataset/replication_paper/data/out/phoenix_clean_196_small.tsv")
 
 }
-
 ```
 
 ```{r phoenix_barmaps, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
@@ -3050,7 +3159,7 @@ library(dplyr)
 library(tidyr)
 library(stringr)
 
-phoenix_barmaps <- function(thiscrisis=196, topactor=F){
+phoenix_barmaps <- function(thiscrisis=196, phoenix_subset="phoenix_clean_196.tsv", topactor=F){
 
     print(thiscrisis)
     plot_title <- crisno_name_years %>% filter(crisno==thiscrisis) %>% mutate(title="Crisis #" %>% paste0(crisno, " ", crisname, " (", yrtrig, "-",yrterm,")")) %>% pull(title)
@@ -3070,9 +3179,12 @@ phoenix_barmaps <- function(thiscrisis=196, topactor=F){
     actors <- icb_events_long %>% filter(crisno %in% thiscrisis) %>% filter(varname_normalized %>% str_detect('actor')) %>% 
               dplyr::select(value_normalized,value_qcode) %>% distinct()
 
-    phoenix_clean_subset <- phoenix_clean %>% 
+    phoenix <- read_tsv(paste0(here::here(), "/replication_data/out/phoenix_clean_196.tsv"))
+    
+    phoenix_clean_subset <- phoenix %>% 
                             mutate(story_date = story_date %>% lubridate::mdy()) %>%
-                            filter(story_date>=(date_start-lubridate::years(1)) & story_date<=(date_end+lubridate::years(1))) %>%  
+                            filter(story_date>=(date_start-lubridate::years(1)) & story_date<=(date_end+lubridate::years(1))) %>% 
+                            # phoenix_clean() %>%
                             unite('dyad_a', source_root_label, source_agent_label, source_others1_label, source_others2_label, source_others3_label, na.rm = TRUE, remove = FALSE) %>%
                             unite('dyad_b', target_root_label, target_agent_label, target_others1_label, target_others2_label, target_others3_label, na.rm = TRUE, remove = FALSE) %>%
                             mutate(dyad=paste0(dyad_a,"->",dyad_b)) %>%
@@ -3096,7 +3208,7 @@ phoenix_barmaps <- function(thiscrisis=196, topactor=F){
 
     names_to_qcodes <- actor_translator %>% dplyr::select(QCode, contains("name")) %>%
                        pivot_longer(-c(QCode)) %>% na.omit() %>% dplyr::select(-name) %>% distinct() %>%
-                       mutate(markdown = glue::glue("![]({flag_folder_small}/{QCode}.png)") ) 
+                       mutate(markdown = glue::glue("![](flags_small//{QCode}.png)") ) 
     names_to_qcodes <- bind_rows(names_to_qcodes, names_to_qcodes %>% mutate(value= value %>% tolower() )) %>% distinct() %>%
                        arrange(desc(nchar(value))) #sort by length so you never accidentally replace a subset
     
@@ -3112,7 +3224,9 @@ phoenix_barmaps <- function(thiscrisis=196, topactor=F){
                                    mutate(dyad_markdown = dyad_markdown %>% str_replace_all("government","gov")) %>%
                                    mutate(dyad_markdown = dyad_markdown %>% str_replace_all("law enforcement agencies","law enforcement")) %>%
                                    mutate(dyad_markdown = dyad_markdown %>% str_replace_all("\\(tertiary role code\\)","")) %>%
-                                   mutate(dyad_markdown = dyad_markdown %>% str_replace_all("unidentified armed force"," unknown force"))
+                                   mutate(dyad_markdown = dyad_markdown %>% str_replace_all("unidentified armed force"," unknown force")) %>%
+                                   dplyr::mutate(dyad_markdown = dyad_markdown %>% replace_emoticons)
+
     
     p_phoenix_penta <- phoenix_clean_subset_top10 %>%
           filter(!is.na(cameo_penta_category)) %>%
@@ -3144,7 +3258,7 @@ phoenix_barmaps <- function(thiscrisis=196, topactor=F){
 
     names_to_qcodes <- actor_translator %>% dplyr::select(QCode, contains("name")) %>%
                        pivot_longer(-c(QCode)) %>% na.omit() %>% dplyr::select(-name) %>% distinct() %>%
-                       mutate(markdown = glue::glue("![]({flag_folder_small}/{QCode}.png)") ) 
+                       mutate(markdown = glue::glue("![](flags_small//{QCode}.png)") )  # since direct flags are not working
     names_to_qcodes <- bind_rows(names_to_qcodes, names_to_qcodes %>% mutate(value= value %>% tolower() )) %>% distinct() %>%
                        arrange(desc(nchar(value))) #sort by length so you never accidentally replace a subset
     
@@ -3160,7 +3274,8 @@ phoenix_barmaps <- function(thiscrisis=196, topactor=F){
                                    mutate(dyad_markdown = dyad_markdown %>% str_replace_all("government","gov")) %>%
                                    mutate(dyad_markdown = dyad_markdown %>% str_replace_all("law enforcement agencies","law enforcement")) %>%
                                    mutate(dyad_markdown = dyad_markdown %>% str_replace_all("\\(tertiary role code\\)","")) %>%
-                                   mutate(dyad_markdown = dyad_markdown %>% str_replace_all("unidentified armed force"," unknown force"))
+                                   mutate(dyad_markdown = dyad_markdown %>% str_replace_all("unidentified armed force"," unknown force")) %>%
+                                   dplyr::mutate(dyad_markdown = dyad_markdown %>% replace_emoticons) # since direct flags are not working
     
     phoenix_clean_subset_top10_day <- phoenix_clean_subset_top10 %>%
                                       mutate(story_date=paste(month, day, year, sep="/")) %>%
@@ -3183,21 +3298,14 @@ phoenix_barmaps <- function(thiscrisis=196, topactor=F){
                       theme(legend.position="none") +
                       ylab("") + xlab("")
     
-        p_phoenix_lv0 %>% saveRDS(save_file_lv0)
-
-
-                
+        p_phoenix_lv0 %>% saveRDS(save_file_lv0)         
 }
 
-fromscratch=F
-if(fromscratch){
-  phoenix_clean <- arrow::read_parquet(here::here("git_ignore_folder", "phoenix_clean.parquet") ) 
-  c(196, 471) %>% sapply(FUN=function(x) phoenix_barmaps(x))
-}
-
+phoenix_barmaps(thiscrisis=196, phoenix_subset="phoenix_clean_196.tsv" , topactor=F)
+phoenix_barmaps(thiscrisis=471, phoenix_subset="phoenix_clean_471.tsv" , topactor=F)
 ```
 
-```{r Terrierr Data Loads, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+```{r Terrierr Data Loads, eval=F, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
 #https://osf.io/4m2u7/
 
@@ -3361,9 +3469,12 @@ terrier_barmaps <- function(thiscrisis=471, topactor=F){
     actors <- icb_events_long %>% filter(crisno %in% thiscrisis) %>% filter(varname_normalized %>% str_detect('actor')) %>% 
               dplyr::select(value_normalized,value_qcode) %>% distinct()
 
-    terrier_clean_subset <- terrier_clean %>% 
-                    mutate(story_date=paste(month, day, year, sep="/")  %>% lubridate::mdy() ) %>%
-                    filter(story_date>=(date_start-lubridate::years(1)) & story_date<=(date_end+lubridate::years(1))) %>%  
+    # terrier_clean_subset <- terrier_clean %>% 
+    #                 mutate(story_date=paste(month, day, year, sep="/")  %>% lubridate::mdy() ) %>%
+    #                 filter(story_date>=(date_start-lubridate::years(1)) & story_date<=(date_end+lubridate::years(1))) 
+    #                terrier_clean_subset  %>%   arrow::write_parquet("terrier_clean.parquet")
+
+    terrier_clean_subset <- terrier_clean_subset %>%   
                     unite('temp', src_country_label,src_agent_label,src_other_agent1_label,src_other_agent2_label,src_other_agent3_label,
                           target_country_label, target_agent_label,target_other_agent1_label,target_other_agent2_label,target_other_agent3_label,
                           where,
@@ -3380,12 +3491,16 @@ terrier_barmaps <- function(thiscrisis=471, topactor=F){
     dim(terrier_clean_subset) #928,640
     
 
-
     names_to_qcodes <- actor_translator %>% dplyr::select(QCode, contains("name")) %>%
                        pivot_longer(-c(QCode)) %>% na.omit() %>% dplyr::select(-name) %>% distinct() %>%
-                       mutate(markdown = glue::glue("![]({flag_folder_small}/{QCode}.png)") ) 
+                       mutate(markdown = glue::glue("![](flags_small//{QCode}.png)") ) # since direct flags are not working
     names_to_qcodes <- bind_rows(names_to_qcodes, names_to_qcodes %>% mutate(value= value %>% tolower() )) %>% distinct() %>%
                        arrange(desc(nchar(value))) #sort by length so you never accidentally replace a subset
+    
+    
+    
+    
+    
     
     #Penta
     dyad_event_counts <-     terrier_clean_subset  %>% 
@@ -3415,10 +3530,13 @@ terrier_barmaps <- function(thiscrisis=471, topactor=F){
     } #This is a bottleneck now and needs to move to after the group
     library(ggtext)
     terrier_clean_subset_top10_day <- terrier_clean_subset_top10_day %>%
-                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("government|Government","gov")) %>%
+                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("government[^a-z]|Government[^a-z]","gov")) %>%
+                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("Government","gov")) %>%
                                      mutate(dyad_markdown = dyad_markdown %>% str_replace_all("law enforcement agencies","law enforcement")) %>%
                                      mutate(dyad_markdown = dyad_markdown %>% str_replace_all(fixed("(tertiary role code)"),"")) %>%
-                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("Unidentified Armed Force","Unknown Mil."))
+                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("Unidentified Armed Force","Unknown Mil.")) %>%
+                                   dplyr::mutate(dyad_markdown = dyad_markdown %>% replace_emoticons) # since direct flags are not working
+    
     
     p_terrier_penta <-  terrier_clean_subset_top10_day %>%
           group_by(cameo_penta_category, dyad_markdown) %>% mutate(n_all=sum(n, na.rm=T)) %>% ungroup() %>%
@@ -3465,9 +3583,12 @@ terrier_barmaps <- function(thiscrisis=471, topactor=F){
     terrier_clean_subset_top10_day <- terrier_clean_subset_top10_day %>%
                                      mutate(dyad_markdown = dyad_markdown %>% str_replace_all("Inter-governmental organizations","IGOs")) %>%
                                      mutate(dyad_markdown = dyad_markdown %>% str_replace_all("government[^a-z]|Government[^a-z]","gov")) %>%
+                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("Government","gov")) %>%
                                      mutate(dyad_markdown = dyad_markdown %>% str_replace_all("law enforcement agencies","law enforcement")) %>%
                                      mutate(dyad_markdown = dyad_markdown %>% str_replace_all(fixed("(tertiary role code)"),"")) %>%
-                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("Unidentified Armed Force","Unknown Mil."))
+                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("Unidentified Armed Force","Unknown Mil.")) %>% 
+                                     dplyr::mutate(dyad_markdown = dyad_markdown %>% replace_emoticons) # since direct flags are not working
+
     
     p_terrier_lv0 <-  terrier_clean_subset_top10_day %>%
           group_by(cameo_lvl0_label, dyad_markdown) %>% mutate(n_all=sum(n, na.rm=T)) %>% ungroup() %>%
@@ -3489,14 +3610,12 @@ terrier_barmaps <- function(thiscrisis=471, topactor=F){
 }
 
 
-fromscratch=F
-if(fromscratch){
-  #done
-  #install.packages("arrow")
-  terrier_clean <-  arrow::read_parquet( here::here("git_ignore_folder", "terrier_clean.parquet")) #203mb
+
+  terrier_clean <-  arrow::read_parquet("terrier_clean.parquet") 
   dim(terrier_clean) #28,438,029 #39,322,909 #7,847,463
   
-  c(196, 471) %>% sapply(FUN=function(x) terrier_barmaps(x))
+  c(471) %>% sapply(FUN=function(x) terrier_barmaps(x))
+  # c(196) %>% sapply(FUN=function(x) terrier_barmaps(x))
 }
 
 ```
@@ -3643,7 +3762,7 @@ icews_barmaps <- function(thiscrisis=471, topactor=F){
 
     actors <- icb_events_long %>% filter(crisno %in% thiscrisis) %>% filter(varname_normalized %>% str_detect('actor')) %>% 
               dplyr::select(value_normalized,value_qcode) %>% distinct()
-    #library(re2r) #didn't speed it up and enabling parallel was actually slower, not sure what's going on usually very fast
+    #library(re2r) #didn't speed it up and enabling parallel was actually slower,
     library(tictoc)
     tictoc::tic() 
     icews_clean_subset <- icews_clean %>% 
@@ -3651,7 +3770,7 @@ icews_barmaps <- function(thiscrisis=471, topactor=F){
                           filter(story_date>=(date_start-lubridate::years(1)) & story_date<=(date_end+lubridate::years(1))) %>%  
                           unite('temp', country , target_name , target_country, where , 
                                 source_q_label_country,target_q_label_country,  source_label, target_label,who_a, who_b,province, district, city,
-                                na.rm = TRUE, remove = FALSE) %>% #this is probably slow need to check
+                                na.rm = TRUE, remove = FALSE) %>% 
                           filter(temp %>% str_detect(actors$value_normalized %>% paste0(collapse="|"))) %>% #this is slow and maybe replacing with re2r will fix
                           unite('dyad_a', source_name ,  na.rm = TRUE, remove = FALSE) %>%
                           unite('dyad_b', target_name ,  na.rm = TRUE, remove = FALSE) %>%
@@ -3674,9 +3793,12 @@ icews_barmaps <- function(thiscrisis=471, topactor=F){
 
     names_to_qcodes <- actor_translator %>% dplyr::select(QCode, contains("name")) %>%
                        pivot_longer(-c(QCode)) %>% na.omit() %>% dplyr::select(-name) %>% distinct() %>%
-                       mutate(markdown = glue::glue("![]({flag_folder_small}/{QCode}.png)") ) 
+                       mutate(markdown = glue::glue("![](flags_small//{QCode}.png)") )  # since direct flags are not working
     names_to_qcodes <- bind_rows(names_to_qcodes, names_to_qcodes %>% mutate(value= value %>% tolower() )) %>% distinct() %>%
                        arrange(desc(nchar(value))) #sort by length so you never accidentally replace a subset
+    
+
+    
     
     icews_clean_subset_top10 <- icews_clean_subset %>% 
                                 filter(dyad_penta_category %in% dyad_event_counts$dyad_penta_category  ) 
@@ -3698,7 +3820,10 @@ icews_barmaps <- function(thiscrisis=471, topactor=F){
                                      mutate(dyad_markdown = dyad_markdown %>% str_replace_all("government|Government","gov")) %>%
                                      mutate(dyad_markdown = dyad_markdown %>% str_replace_all("law enforcement agencies","law enforcement")) %>%
                                      mutate(dyad_markdown = dyad_markdown %>% str_replace_all("(tertiary role code)","")) %>%
-                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("International Committee of the Red Cross","Red Cross"))
+                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("International Committee of the Red Cross","Red Cross")) %>% 
+                                     dplyr::mutate(dyad_markdown = dyad_markdown %>% replace_emoticons) # since direct flags are not working
+
+    
     
     p_icews_penta <-  icews_clean_subset_top10_day %>%
             group_by(cameo_penta_category, dyad_markdown) %>% mutate(n_all=sum(n, na.rm=T)) %>% ungroup() %>%
@@ -3732,7 +3857,8 @@ icews_barmaps <- function(thiscrisis=471, topactor=F){
 
     names_to_qcodes <- actor_translator %>% dplyr::select(QCode, contains("name")) %>%
                        pivot_longer(-c(QCode)) %>% na.omit() %>% dplyr::select(-name) %>% distinct() %>%
-                       mutate(markdown = glue::glue("![]({flag_folder_small}/{QCode}.png)") ) 
+                       mutate(markdown = glue::glue("![](flags_small//{QCode}.png)") )  # since direct flags are not working
+
     names_to_qcodes <- bind_rows(names_to_qcodes, names_to_qcodes %>% mutate(value= value %>% tolower() )) %>% distinct() %>%
                        arrange(desc(nchar(value))) #sort by length so you never accidentally replace a subset
     
@@ -3766,7 +3892,9 @@ icews_barmaps <- function(thiscrisis=471, topactor=F){
                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("government|Government","gov")) %>%
                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("law enforcement agencies","law enforcement")) %>%
                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("(tertiary role code)","")) %>%
-                                    mutate(dyad_markdown = dyad_markdown %>% str_replace_all("International Committee of the Red Cross","Red Cross"))
+                                    mutate(dyad_markdown = dyad_markdown %>% str_replace_all("International Committee of the Red Cross","Red Cross")) %>% 
+                                   dplyr::mutate(dyad_markdown = dyad_markdown %>% replace_emoticons) # since direct flags are not working
+
     
     p_icews_lv0 <-  icews_clean_subset_top10_day %>%
             group_by(cameo_lvl0_label, dyad_markdown) %>% mutate(n_all=sum(n, na.rm=T)) %>% ungroup() %>%
@@ -3797,7 +3925,8 @@ icews_barmaps <- function(thiscrisis=471, topactor=F){
 
     names_to_qcodes <- actor_translator %>% dplyr::select(QCode, contains("name")) %>%
                        pivot_longer(-c(QCode)) %>% na.omit() %>% dplyr::select(-name) %>% distinct() %>%
-                       mutate(markdown = glue::glue("![]({flag_folder_small}/{QCode}.png)") ) 
+                       mutate(markdown = glue::glue("![](flags_small//{QCode}.png)") )  # since direct flags are not working
+
     names_to_qcodes <- bind_rows(names_to_qcodes, names_to_qcodes %>% mutate(value= value %>% tolower() )) %>% distinct() %>%
                        arrange(desc(nchar(value))) #sort by length so you never accidentally replace a subset
     
@@ -3833,28 +3962,34 @@ icews_barmaps <- function(thiscrisis=471, topactor=F){
                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("(tertiary role code)","")) %>%
                                     mutate(dyad_markdown = dyad_markdown %>% str_replace_all("International Committee of the Red Cross","Red Cross"))
     icews_clean_subset_top10_day %>% write_tsv(here::here("replication_paper", "data", "out", "icews_clean_471_lowest.tsv"))
-    #just out the tsv and plot how you want in the main paper
             
 }
 
 
 
-fromscratch=F
-if(fromscratch){
+# fromscratch=F
+# if(fromscratch){
   #done
   #install.packages("arrow")
-  icews_clean <-  arrow::read_parquet(here::here("git_ignore_folder", "icews_clean.parquet") )
+  icews_clean <-  arrow::read_parquet("icews_clean.parquet")
 
   c( 471) %>% sapply(FUN=function(x) icews_barmaps(x))
-}
+#}
 
 ```
 
-```{r crisis 196, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+```{r}
+rm(icews_clean)
+gc()
+```
 
-fromscratch=F
-if(fromscratch){
-  
+
+```{r crisis 196, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
+library(ggplot2)
+library(cowplot)
+library(ggraph)
+
+
 ## Dyadic ICB
 save_file=paste0(here::here(), '/replication_paper/psrm_draft/p_icb_metro_plot_196.Rds')
 p_metro_plot <- readRDS(save_file)
@@ -3871,15 +4006,6 @@ p_196_icb <- p_metro_plot +
     #caption = caption
   ) 
 
-save_file=paste0(here::here(), '/replication_paper/psrm_draft/p_icb_metro_plot_196.Rds')
-p_metro_plot <- readRDS(save_file)
-p_196_phoenix <- p_metro_plot +
-           theme(plot.margin=unit(c(0,0,0,0),"in")) +
-  labs(
-    #title = plot_title ,
-    #subtitle = subtitle ,
-    #caption = caption
-  ) 
 
 ## MIDs
 library(ggplot2)
@@ -3912,8 +4038,6 @@ subtitle="Phoenix Dyadic Events"
 caption=paste0("Data: Cline Center Historical Phoenix Event Data (Althaus et al. 2017)
              ", p_metro_plot$labels$caption) #tag original to bottom
 
-
-
 p_196_phoenix <- readRDS(save_file) +
     labs(
       #title = plot_title ,
@@ -3924,7 +4048,6 @@ p_196_phoenix <- readRDS(save_file) +
 #       plot = p_metro_plot ,
 #       width=12, height=14)
 
-library(cowplot)
 p_196_combined <- 
            plot_grid(
             p_196_icb  +
@@ -3947,10 +4070,9 @@ p_196_combined <-
 
 save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_196_combined.png'),
           p_196_combined, base_height = 12, base_width = 20)
-#I'm just going to rotate on disk and load it as a normal figure
-#\begin{sidewaysfigure}[H] #can't trust sideways plots either so have to rate the image
-}
+#\begin{sidewaysfigure}[H] 
 ```
+
 
 
 \begin{figure}[H]
@@ -3967,12 +4089,9 @@ save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_196_combine
 
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
-
-if(fromscratch){
   p_phoenix_plot_lv0_196 <- readRDS(here::here("replication_paper", "psrm_draft", "p_phoenix_plot_lv0_196.Rds"))
   save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_phoenix_plot_lv0_196.png'),
             p_phoenix_plot_lv0_196 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
-}
 ```
 
 
@@ -3989,6 +4108,8 @@ if(fromscratch){
 
 ## Crimea-Donbas Crisis Maps 
 
+<!-- p_471_icbe.png is created in ICBe_manuscript -->
+
 \begin{figure}[H]
 \caption{Crisis Map - Crimea-Donbas - ICBe \label{fig:p_471_icbe}}
 \centering{\includegraphics[width=17cm]{./p_471_icbe.png}}
@@ -4004,9 +4125,6 @@ if(fromscratch){
 #\end{sidewaysfigure}
 
 #Crisis maps for the non ICBe datasets for the two case studies
-
-fromscratch=F
-if(fromscratch){
 
 library(ggplot2)
 library(cowplot)
@@ -4100,7 +4218,6 @@ p_471_combined <-
 
 save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_471_combined.png'),
           p_471_combined, base_height = 14, base_width = 23)
-}
 
 ```
 
@@ -4123,11 +4240,10 @@ save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_471_combine
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
-if(fromscratch){
-  p_phoenix_plot_lv0_471 <- readRDS(here::here("replication_paper", "psrm_draft", "p_phoenix_plot_lv0_471.Rds"))
-  save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_phoenix_plot_lv0_471.png'),
-            p_phoenix_plot_lv0_471 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
-}
+p_phoenix_plot_lv0_471 <- readRDS(here::here("replication_paper", "psrm_draft", "p_phoenix_plot_lv0_471.Rds"))
+save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_phoenix_plot_lv0_471.png'),
+          p_phoenix_plot_lv0_471 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
+
 ```
 
 
@@ -4144,12 +4260,9 @@ if(fromscratch){
 \end{figure}
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
-
-if(fromscratch){
   p_terrier_plot_lv0_471 <- readRDS(here::here("replication_paper", "psrm_draft", "p_terrier_plot_lv0_471.Rds"))
   save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_terrier_plot_lv0_471.png'),
             p_terrier_plot_lv0_471 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
-}
 ```
 
 
@@ -4168,11 +4281,9 @@ if(fromscratch){
 
 ```{r, eval=T, results='hide', echo=F, include=T, message=F, cache=F, warning=F}
 
-if(fromscratch){
   p_icews_plot_lv0_471 <- readRDS(here::here("replication_paper", "psrm_draft", "p_icews_plot_lv0_471.Rds"))
   save_plot(file=paste0(here::here(), '/replication_paper/psrm_draft/p_icews_plot_lv0_471.png'),
             p_icews_plot_lv0_471 + theme(legend.position="none") + ylab(''), base_height = 15, base_width = 20, limitsize = FALSE)
-}
 ```
 
 
